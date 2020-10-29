@@ -10201,32 +10201,6 @@
       }
     }
   },
-  "clarklib": {
-    "0.0.1": {
-      "sdist": [
-        "VyR/23bVoThBtdwlBSGWe0GMQbtB3rvR9FWq05TXatk=",
-        "clarklib-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "WyULX1AppsQ8geQSoIl44nJcAegUujjrn8LCUDehHNw=",
-        "clarklib-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "uOQ1PXRHBZIyt0TLcdb7HjVIUncDmnUF1hDSVhYQa9M=",
-        "clarklib-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "YI5+X3fVZteLUQjXNFEs8bXG1EmuTsHMg/rwB0k1QD4=",
-        "clarklib-0.0.4.tar.gz"
-      ]
-    }
-  },
   "clever-alexis": {
     "0.1.0.dev11": {
       "sdist": [
@@ -54165,6 +54139,16 @@
       ]
     }
   },
+  "packgithub": {
+    "0.0.1": {
+      "wheels": {
+        "packgithub-0.0.1-py3-none-any.whl": [
+          "SFFQvVfbmzbA10X5E+RVILBII0U8V13tUVGPpj7HBvI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "packyou": {
     "0.1.0": {
       "sdist": [
@@ -73617,6 +73601,12 @@
         "WwXdwqoMdYHadEFPBXwT7ZK4Z1F5T1EYNqyJ1v+24Zk=",
         "spb-cli-0.1.3.tar.gz"
       ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "vql4YQxFacinC/1H3KKY6cCZKaO+Or6pPWFyUuGCvUY=",
+        "spb-cli-0.2.0.tar.gz"
+      ]
     }
   },
   "sphinx-runner": {
@@ -76406,6 +76396,10 @@
           "q7coLYdgV3nkbwC+cEjylRLlqbzGIFXESTt7JJ15mmQ=",
           "cp36"
         ],
+        "taichi-0.7.3-cp36-cp36m-win_amd64.whl": [
+          "X4vC+WkXiaqfbKDsT0ZoBkzuUXwWVBNAD6Y2nmgxZB0=",
+          "cp36"
+        ],
         "taichi-0.7.3-cp37-cp37m-macosx_10_14_x86_64.whl": [
           "342vLxeenszxj1Ze2kCaWdZ6NEEX3ACKCeiPgvp2Vco=",
           "cp37"
@@ -76414,12 +76408,20 @@
           "8SX0VbJ50aztZaGVW49sktxJnboDPTM3++/EmYnaMso=",
           "cp37"
         ],
+        "taichi-0.7.3-cp37-cp37m-win_amd64.whl": [
+          "N47JU+V3PteaDwzbypCAVE6GrnZElLM05N39VdDhqVA=",
+          "cp37"
+        ],
         "taichi-0.7.3-cp38-cp38-macosx_10_14_x86_64.whl": [
           "eTivJt5UH/h7dpixO4k51N8jFGtB5tDdQ75/kTTx4VQ=",
           "cp38"
         ],
         "taichi-0.7.3-cp38-cp38-manylinux1_x86_64.whl": [
           "uCO8n9paEQ0drWCTlprePwywAMZnETzrQ/YZpLRNKoA=",
+          "cp38"
+        ],
+        "taichi-0.7.3-cp38-cp38-win_amd64.whl": [
+          "n15fqXntM4zKewaKpe5nN0EH0A1g/aSGRR4Jdv4ZFq0=",
           "cp38"
         ]
       }
@@ -78810,6 +78812,22 @@
         ],
         "tf_nightly_gpu-2.5.0.dev20201028-cp38-cp38-win_amd64.whl": [
           "pi5cb3AAXcyll9VtrjQ7Z6lWxoY/IwwcfqWWab2XRcg=",
+          "cp38"
+        ]
+      }
+    },
+    "2.5.0.dev20201029": {
+      "wheels": {
+        "tf_nightly_gpu-2.5.0.dev20201029-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "GlK6TJ2pC+HrfZ2iGRacz6ckimXzPlpYtQKVBIhrAVs=",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.5.0.dev20201029-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "3c6xPL3+DY+FBYZcHK1ocX5jKX8p+SbGN5uaJcm2Gko=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.5.0.dev20201029-cp38-cp38-manylinux2010_x86_64.whl": [
+          "aV2O8iVwOS2ixdiuX6z3MohKP6d9HB/Dz9U8x5qV0vk=",
           "cp38"
         ]
       }

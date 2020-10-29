@@ -168,6 +168,10 @@
     },
     "3.2.2": {
       "wheels": {
+        "actrie-3.2.2-cp27-cp27m-macosx_10_15_x86_64.whl": [
+          "ZaqsLMkBAPUX/A5Dfg9tLVCD+Q4QMLZ4zteMnmyMafE=",
+          "cp27"
+        ],
         "actrie-3.2.2-cp27-cp27m-manylinux1_x86_64.whl": [
           "gDsvt1Nnuqpi9XcoPtYWsfxo8Xlkd0/2VDZ1w2nP/dg=",
           "cp27"
@@ -207,6 +211,10 @@
         "actrie-3.2.2-cp37-cp37m-manylinux2010_x86_64.whl": [
           "fEe60xTpuMAMRnjFnzT/cTBnhwIxZVOXCAYfaqZC0IU=",
           "cp37"
+        ],
+        "actrie-3.2.2-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "ZdBzWsrW0SnvEagDtWIDgsRr/ywF8Nqn3qQvJz/n50g=",
+          "cp38"
         ],
         "actrie-3.2.2-cp38-cp38-manylinux1_x86_64.whl": [
           "dijIY+PhVPaYUcOmw9Xh+LOK50hje/5SG373HHpG2d4=",
@@ -468,6 +476,18 @@
       "wheels": {
         "agcoinstall-0.0.0-py3-none-any.whl": [
           "pYz3jwuD5oAx5yyuPCshGIsD1pEbtF8nvu6/mf4Do54=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1": {
+      "sdist": [
+        "P3PTRResZFldQMiHQSL7N6Wbg6EdsSydad6YcBlALEc=",
+        "agcoinstall-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "agcoinstall-0.0.1-py3-none-any.whl": [
+          "uJvBPjknGLwIRYuM0mM0dxOOE8f+sFJQcn0nelWO6ZU=",
           "py3"
         ]
       }
@@ -796,17 +816,35 @@
         ]
       }
     },
-    "0.1.2.5": {
+    "0.1.2.6": {
       "sdist": [
-        "zaf0StH9yvtkQF7jO0NfFxMfguO6iYdgvgjWRJ1Uirs=",
-        "AksharaJaana-0.1.2.5.tar.gz"
-      ],
-      "wheels": {
-        "AksharaJaana-0.1.2.5-py3-none-any.whl": [
-          "HTQlh39we0mSlfa6e2DHUbp3uqhQstjuMe6K0CZMKSs=",
-          "py3"
-        ]
-      }
+        "PZ/1F4jEOXsVo3IDfMGp9AA6vlnW3eW2xMa/fTcNFoY=",
+        "AksharaJaana-0.1.2.6.tar.gz"
+      ]
+    },
+    "0.1.2.7": {
+      "sdist": [
+        "ZzacIzt/JUQuBgl3zKbxgn9FKIFIg8cdJT2LO+mozKg=",
+        "AksharaJaana-0.1.2.7.tar.gz"
+      ]
+    },
+    "0.1.2.8": {
+      "sdist": [
+        "hDkjvQnSHrm2xfwYpPpz1g/HYwMc9zFRDAXjXMl/O+M=",
+        "AksharaJaana-0.1.2.8.tar.gz"
+      ]
+    },
+    "0.1.2.9": {
+      "sdist": [
+        "QmkAp6P16g3UXTt/QBjVtH4M3a3xQWKmxXxsInj5DGk=",
+        "AksharaJaana-0.1.2.9.tar.gz"
+      ]
+    },
+    "0.1.5": {
+      "sdist": [
+        "5STtb0m0dDmZQmFTTYU+l2f9U39IWx3qwEI86n2Ip64=",
+        "AksharaJaana-0.1.5.tar.gz"
+      ]
     }
   },
   "ald-distributions": {
@@ -6258,6 +6296,18 @@
       "wheels": {
         "azure_mgmt_servicebus-1.0.0-py2.py3-none-any.whl": [
           "a/Ob5NU2N+NmZwy1K+jGdQWsvCEdb3gl8hzE+RMmetc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "6.0.0b1": {
+      "sdist": [
+        "LlyJL9jy9zzr3hwBhbrhnqG1rklqHCaFD9IIe/CEDgA=",
+        "azure-mgmt-servicebus-6.0.0b1.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_servicebus-6.0.0b1-py2.py3-none-any.whl": [
+          "0lxBHPIS1qeKkIHdaM/FWO96eagYG2kJrG8tefLqRjY=",
           "py2.py3"
         ]
       }
@@ -47246,7 +47296,41 @@
       "sdist": [
         "vqz3BsOEK1+Eutpzev4anqaMG7wzrCV4s0m4uMHoel0=",
         "picard-2.5.1.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "picard-2.5.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "qZ12/EvRJ5AzhvcJ/C6DvfvfH7DtpVvkdQ5gnK7GE0w=",
+          "cp36"
+        ],
+        "picard-2.5.1-cp36-cp36m-win_amd64.whl": [
+          "+BCXfXyRvWSz9Gc8ARJ85P2/Dzdhr7/gtAGqpFiv5qI=",
+          "cp36"
+        ],
+        "picard-2.5.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "rJYJT8Xe/l52cwk3tFJ8xqGM20ry0Ctf2VDS1dMl8w0=",
+          "cp37"
+        ],
+        "picard-2.5.1-cp37-cp37m-win_amd64.whl": [
+          "5nwGPbP041ogNwUTRH5Rr83V5gLxejvP8Vr4ONPF6Tw=",
+          "cp37"
+        ],
+        "picard-2.5.1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "aFCQMwZYuf6Ipt3aCMK9GzhEO8HkCyQeso9OCWNtY/0=",
+          "cp38"
+        ],
+        "picard-2.5.1-cp38-cp38-win_amd64.whl": [
+          "V39U2zaBuR87GlK4vGhdUtA5dBCBMziC4y3WJ6yPo+c=",
+          "cp38"
+        ],
+        "picard-2.5.1-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "zIge7NqJcBBjKH56IN/sQvVIY8FTvJhXWeA8yuIjDr8=",
+          "cp39"
+        ],
+        "picard-2.5.1-cp39-cp39-win_amd64.whl": [
+          "xojuD6rMC7HJq2hhYdkMiRqnwKrmXqDQJ1U7fQlafCo=",
+          "cp39"
+        ]
+      }
     }
   },
   "pinax-submissions": {
@@ -62528,6 +62612,14 @@
       "wheels": {
         "shyft-4.19.23-cp37-cp37m-manylinux1_x86_64.whl": [
           "3J+gsIzsFeGMoT2prlU0YS5Q7ydfnXXqayNzdDIGU0Y=",
+          "cp37"
+        ]
+      }
+    },
+    "4.19.26": {
+      "wheels": {
+        "shyft-4.19.26-cp37-cp37m-manylinux1_x86_64.whl": [
+          "1Jla1nATtPId56eab7DqGlPeZ7Guggwnqu25gT98FvU=",
           "cp37"
         ]
       }
