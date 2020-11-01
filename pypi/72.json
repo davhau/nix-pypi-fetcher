@@ -16033,9 +16033,17 @@
   },
   "cshogi": {
     "0.0.6": {
+      "sdist": [
+        "kRhble15jEWsX/4KG3tLTo1vUvXiSJLGtXdiwDsgeN0=",
+        "cshogi-0.0.6.tar.gz"
+      ],
       "wheels": {
         "cshogi-0.0.6-cp36-cp36m-manylinux2010_x86_64.whl": [
           "kJjH2/kUW8LEbciX/wPmPl0+flacBjVNUn3De/hAdj0=",
+          "cp36"
+        ],
+        "cshogi-0.0.6-cp36-cp36m-win_amd64.whl": [
+          "kcZvAqe+g7L3FaUW5j/lsJaef0I/K1HArZzJVtSSVb0=",
           "cp36"
         ],
         "cshogi-0.0.6-cp37-cp37m-manylinux2010_x86_64.whl": [
@@ -16048,6 +16056,10 @@
         ],
         "cshogi-0.0.6-cp38-cp38-manylinux2010_x86_64.whl": [
           "83VLpOBEtMNERIOCxqfhkKUhp5aOzcyjAz4BM6xc7Vc=",
+          "cp38"
+        ],
+        "cshogi-0.0.6-cp38-cp38-win_amd64.whl": [
+          "D/Elw55H5m/GVoRMxIr2AUOAEjV/JnBu96j7ALGL4jA=",
           "cp38"
         ],
         "cshogi-0.0.6-cp39-cp39-manylinux2010_x86_64.whl": [
@@ -30530,6 +30542,14 @@
       "wheels": {
         "genomeworks_cuda_9_2-0.6.0.dev201031-cp37-none-any.whl": [
           "SfrXLDVLpcVbmoLXI+AS7rjDnQBSo0kEU5BlPItrg7o=",
+          "cp37"
+        ]
+      }
+    },
+    "0.6.0.dev201101": {
+      "wheels": {
+        "genomeworks_cuda_9_2-0.6.0.dev201101-cp37-none-any.whl": [
+          "BjpMVfkeNlhtymwd5snYrDUICAgQQ1qY6BdTRBsNbBI=",
           "cp37"
         ]
       }
@@ -49499,6 +49519,42 @@
       ]
     }
   },
+  "perde": {
+    "0.0.1": {
+      "sdist": [
+        "GKJ2wEHyt9OFIqaAZ9a99F8n51lw+1zK4z3Mgajav3g=",
+        "perde-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "perde-0.0.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "7WGIo38CJX1lZcY6KcFRVviYsOGJTQatUdljTVoakL8=",
+          "cp37"
+        ],
+        "perde-0.0.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "uQJ/uE4aKCHgaQvv+PDnafaI99mru/uniynAiHk1aHU=",
+          "cp38"
+        ]
+      }
+    }
+  },
+  "perde-msgpack": {
+    "0.0.1": {
+      "sdist": [
+        "caeU5SCKvnuQfztuRjpAdR/7ypiP0ZFI2YB41TzDPss=",
+        "perde_msgpack-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "perde_msgpack-0.0.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "pmlerG0XfEd+NzhmKDJkcl4AGqL1VFQwJvpUczBq7KI=",
+          "cp37"
+        ],
+        "perde_msgpack-0.0.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "oFySXkbDgeVMCq2m4cI1p70cLQSlRwG1UGY4hK9zPHQ=",
+          "cp38"
+        ]
+      }
+    }
+  },
   "perflib": {
     "0.1": {
       "sdist": [
@@ -56563,68 +56619,6 @@
         "w5BxYp55YtzZJvrwE13HPiqOtduaU7wuvlll+MORZaI=",
         "python-aalib-0.3.2.tar.gz"
       ]
-    }
-  },
-  "python-airtable": {
-    "0.1": {
-      "sdist": [
-        "B1M6K1beVAJL8LVioOzQmf+zE8rpverlew0qWZ8wsAI=",
-        "python-airtable-0.1.tar.gz"
-      ],
-      "wheels": {
-        "python_airtable-0.1-py2.py3-none-any.whl": [
-          "h7VlXpcIzGyvmByXAXQkSm//q0vMvFNLCPEVgsrZevE=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.2": {
-      "sdist": [
-        "71xiiaVjXXzViv45u2XGW32K8uQihukKd/jtru6vzdM=",
-        "python-airtable-0.2.tar.gz"
-      ],
-      "wheels": {
-        "python_airtable-0.2-py2.py3-none-any.whl": [
-          "SMWM38XnycUvayeL/78BkuO+P1TVWebRKHIqx3PAVmU=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3": {
-      "sdist": [
-        "hcLYWNZCmOBb3bnbQeF0pCaBMdEjWEGx4d7uITmsWEQ=",
-        "python-airtable-0.3.tar.gz"
-      ],
-      "wheels": {
-        "python_airtable-0.3-py2.py3-none-any.whl": [
-          "h0mrf09B1iSXV2NR3ULnDEL+SZgeZ/rKKyb38B4J1j0=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.4": {
-      "sdist": [
-        "Vm930bYzRB5mLKCRwz6DDb4C6btH9nUEIifLpH/as8w=",
-        "python-airtable-0.4.tar.gz"
-      ],
-      "wheels": {
-        "python_airtable-0.4-py2.py3-none-any.whl": [
-          "WSBpdMP5iZcZUgl8ill0UapV6lAn5/eOJu19jVUmF7Y=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.5": {
-      "sdist": [
-        "q6TWXmbtkKWXTRY41JCDsGtM5m5n5F3XBEZBODa+ucY=",
-        "python-airtable-0.5.tar.gz"
-      ],
-      "wheels": {
-        "python_airtable-0.5-py2.py3-none-any.whl": [
-          "33nNM0rxAcKmKktr8O6s33LD+/CI4H4QN8dseiGueVw=",
-          "py2.py3"
-        ]
-      }
     }
   },
   "python-android": {
