@@ -2829,14 +2829,6 @@
       }
     }
   },
-  "apyref-css": {
-    "0.1.1": {
-      "sdist": [
-        "3v6uXJ6g0x7b5c2f1HMuM0H+fR2tAM/iCyxL1s7aP5Q=",
-        "apyref-css-0.1.1.tar.gz"
-      ]
-    }
-  },
   "arachne-strahi": {
     "0.5.0": {
       "sdist": [
@@ -29434,6 +29426,14 @@
         ]
       }
     },
+    "3.0.20b0": {
+      "wheels": {
+        "huaweicloudsdkmoderation-3.0.20b0-py3-none-any.whl": [
+          "+4GTsBg7hJUsZrSy7r6V6VWdhxE3QFnNEPCLFWo9E+M=",
+          "py3"
+        ]
+      }
+    },
     "3.0.2b0": {
       "wheels": {
         "huaweicloudsdkmoderation-3.0.2b0-py3-none-any.whl": [
@@ -43064,6 +43064,18 @@
         ]
       }
     },
+    "1.16.10.0": {
+      "sdist": [
+        "zqZ6ULQGlDtV6Pe/QPM+nyB0lOJhr6z7NU+4yClOVVk=",
+        "mypy-boto3-cloudfront-1.16.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cloudfront-1.16.10.0-py3-none-any.whl": [
+          "VScDLQpeUXKMivMKnOlV/2Qty46Pdhbw0hF/FOUlsyY=",
+          "py3"
+        ]
+      }
+    },
     "1.16.2.0": {
       "sdist": [
         "x7hDJJ/KykAhC+5V/5+RPz4n01vKoIuoAkDTZHBFH+8=",
@@ -53381,104 +53393,6 @@
       ]
     }
   },
-  "py5paisa": {
-    "0.0.6": {
-      "sdist": [
-        "TXccqjAp3SSEQNDhP2HaW+AcZxgsclcSAJTg4g6zikU=",
-        "py5paisa-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "py5paisa-0.0.6-py2.py3-none-any.whl": [
-          "zkD3WR6mXkHgNc/ib6iTSdBpQa7w51DtuLFrKsoAKXA=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.0": {
-      "sdist": [
-        "89RGAd8FuicMePAPfjV81Pch4LuatdrfExdNhybwvPk=",
-        "py5paisa-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "py5paisa-0.1.0-py2.py3-none-any.whl": [
-          "QjqcCAvFrGRYWsobIaG6FiuKM1UAq+Wzto3YywZyOlQ=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "1adzx90VwSbRjuHb48FoXyFmUGlrW8wpiN50Iwjr9rE=",
-        "py5paisa-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "py5paisa-0.1.1-py2.py3-none-any.whl": [
-          "y3fqGqqv0BWSMBFlhUFwp80IKxzUf9iKsrPe39Nko1Y=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "QdwtNqr594AV7mR/zMYa+1dab/jIwBolfl0COKQ4dqg=",
-        "py5paisa-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "py5paisa-0.1.2-py2.py3-none-any.whl": [
-          "Q/hZKEQZhEUM83okR1pFkrK+9fs8j7VBcj1MB0dl9uc=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "IHlwDeAzg/P3qPnXlERTwsCBIv1XP8LIvcVG5Kuza0Y=",
-        "py5paisa-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "py5paisa-0.1.3-py2.py3-none-any.whl": [
-          "ZJSklNpvHz1PTDwYv+nD5nMXOuGO5lPa8GQXqGKG+Xs=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "sq/5aAdu+9dSdNi9+PvfQ5XVVC83RYZ8zqfhE3uzUKo=",
-        "py5paisa-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "py5paisa-0.1.4-py2.py3-none-any.whl": [
-          "nECtSy8K0tJ3bHF1fKzDKsP/tF5wrvHxQ73SYnz0lrw=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "tLLYQZWej7WVvLEy1k3Rkr0xSNHx0/yA3FKJxcw1JEw=",
-        "py5paisa-0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "py5paisa-0.1.5-py2.py3-none-any.whl": [
-          "0MimVHjLcN0nDvrel3Vshg7IGzyAIsdOccX6pSV4b5I=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.6": {
-      "sdist": [
-        "zF7vA5TkkglT6mWVDRQ/lT2vbfq6emTY9RI7vYYzNbY=",
-        "py5paisa-0.1.6.tar.gz"
-      ],
-      "wheels": {
-        "py5paisa-0.1.6-py2.py3-none-any.whl": [
-          "NKAVJbrON6LQ3va1cnEtaiF+TiD1lo+OSF9lY7HEwIA=",
-          "py2.py3"
-        ]
-      }
-    }
-  },
   "pyalgdat": {
     "1.0.1": {
       "sdist": [
@@ -56160,6 +56074,18 @@
       "wheels": {
         "pyqmri-0.3.2.2-py3-none-any.whl": [
           "NDYClmIvD7vTY5hN7nSrZX8b1BK5A0JezHtDWR3hCOU=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2.3": {
+      "sdist": [
+        "oZ0iaSUBQCHaYBv15KwYLvlm15siY/fvkowjJyHv3Fc=",
+        "pyqmri-0.3.2.3.tar.gz"
+      ],
+      "wheels": {
+        "pyqmri-0.3.2.3-py3-none-any.whl": [
+          "MLF5EJHgZ5685uer/m6P3pf22Tvrk+cbCuw/zfO7q7Y=",
           "py3"
         ]
       }
@@ -69271,6 +69197,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "CsfBlSthIUbxw1h1GGKGhsMkFYXA558xBJ9fyRiunc8=",
+        "submission-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "submission-0.0.2-py3-none-any.whl": [
+          "7quw1VHUrSxAypWkv0GNjK/rdhp1j+eAAuj/jhDgaKU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "6zsUNtPcZXVbRK0RH50QeyIuhw9V9izLFzG9AMcM53c=",
+        "submission-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "submission-0.0.3-py3-none-any.whl": [
+          "IqaNh1ai72OX2NW71d6b6ZIlH8nlNPqbJ+onPsmP0z8=",
+          "py3"
+        ]
+      }
     }
   },
   "subpixel-edges": {
@@ -72662,6 +72612,18 @@
       "wheels": {
         "trytond_stock_location_move-5.6.0-py3-none-any.whl": [
           "FZe6WlFmAtwNoozuwEEpSpEo0e6rIOQTtd5vPUijlRo=",
+          "py3"
+        ]
+      }
+    },
+    "5.8.0": {
+      "sdist": [
+        "Cgg1OFfat9qF23XIYSpUtTdzdcVbMcSzHCWNBt41Cgs=",
+        "trytond_stock_location_move-5.8.0.tar.gz"
+      ],
+      "wheels": {
+        "trytond_stock_location_move-5.8.0-py3-none-any.whl": [
+          "UPiYERA3ezA85phWZC8JWCqn/xqztHE/qzOaj1ILFWk=",
           "py3"
         ]
       }
