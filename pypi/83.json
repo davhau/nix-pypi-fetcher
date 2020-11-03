@@ -139,14 +139,6 @@
       ]
     }
   },
-  "acsnmp": {
-    "0.1.1": {
-      "sdist": [
-        "jKpNEtg3SPeiko+ZZTiDtAExHLGnSjt777q4WKkqlWQ=",
-        "acsnmp-0.1.1.tar.gz"
-      ]
-    }
-  },
   "activ": {
     "0.0.7-alpha": {
       "sdist": [
@@ -2308,14 +2300,6 @@
       "sdist": [
         "T13Wn2HuYagx/hKsbhdclglQdZb9rsAZELvZAqZuqT0=",
         "apurva_raina-0.1.tar.gz"
-      ]
-    }
-  },
-  "apyref-g7": {
-    "0.1.1": {
-      "sdist": [
-        "ag/yWfJ5JyZ56u88yu8Waeb/HDOhoKWNf9c27prmNgY=",
-        "apyref-g7-0.1.1.tar.gz"
       ]
     }
   },
@@ -13072,6 +13056,18 @@
       "wheels": {
         "dbnd_luigi-0.29.7-py2.py3-none-any.whl": [
           "Z5M1Cf1asV4P8IEyQZbbuG0XQxY10++0THGu/m2JvlE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.29.8": {
+      "sdist": [
+        "OWwU+r9FX8i94q+jcMWouGqLofIEWvQhaf+KpyFNVls=",
+        "dbnd-luigi-0.29.8.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_luigi-0.29.8-py2.py3-none-any.whl": [
+          "1mg8WtgFhwVQBg4/2pAFF+J3IdAc+xtDv9XKZw/qcXg=",
           "py2.py3"
         ]
       }
@@ -31388,114 +31384,90 @@
         ]
       }
     },
-    "1.6.2": {
+    "1.6.7": {
       "sdist": [
-        "8VEW9DzCcCoYKVbkfJc+BPYjTLBp8U4XgcxwZXHB2sY=",
-        "lavavu-1.6.2.tar.gz"
-      ]
-    },
-    "1.6.3": {
-      "sdist": [
-        "9ktlIYEyQJGSkr7VY0TPDb3Z6OO47MSy/8Gh5PSa69A=",
-        "lavavu-1.6.3.tar.gz"
-      ]
-    },
-    "1.6.4": {
-      "sdist": [
-        "L9QlTV5Fb5LMo0F4UAxScVweYnvQb3QccXCf/NdZz3o=",
-        "lavavu-1.6.4.tar.gz"
+        "vxZxJUBL6ptxKhfpNM+smOtaxqPS2usyBDZzvz7ltd0=",
+        "lavavu-1.6.7.tar.gz"
       ],
       "wheels": {
-        "lavavu-1.6.4-cp36-cp36m-macosx_10_13_x86_64.whl": [
-          "4elQPUp1dVunOk4GmVegw6sTR6J3HaEDqJ4qxosZwhw=",
+        "lavavu-1.6.7-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "5GtovTGTLpxylgRYWOl5ac3dRuq/I8qr5wtIbylIxFY=",
           "cp36"
         ],
-        "lavavu-1.6.4-cp36-cp36m-manylinux2014_i686.whl": [
-          "ZdGTuHHc5D8Kr1jnwenbpMKa9wyXpEZtQ5C4O5jmKi8=",
+        "lavavu-1.6.7-cp36-cp36m-manylinux2014_i686.whl": [
+          "ftP1qxlKo9IyGBZ8CLCGmImbhvbZ4S/Lb4nPLRfLEXM=",
           "cp36"
         ],
-        "lavavu-1.6.4-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "vB6ZXHZ+IrQwjrJYzN6LP52poANVShsQY1j9DDY9BnE=",
+        "lavavu-1.6.7-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "Z3+oi0X+A3kb/1v185I8EbLATd1ltPLTumt3ha3HH+0=",
           "cp36"
         ],
-        "lavavu-1.6.4-cp37-cp37m-macosx_10_13_x86_64.whl": [
-          "fChbvuUb9g8u3L281qb69ueKoKPqqHUX1FA9l+ap6XU=",
-          "cp37"
-        ],
-        "lavavu-1.6.4-cp37-cp37m-manylinux2014_i686.whl": [
-          "im3zZK9bFoNOaYlp2rCNHWuxXv5jaulLqAfSopD8J9w=",
-          "cp37"
-        ],
-        "lavavu-1.6.4-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "qZwuPcYBRuwLFWMeO3aBH5igPx8NW3Fh+nGQzpRwIzI=",
-          "cp37"
-        ],
-        "lavavu-1.6.4-cp38-cp38-macosx_10_13_x86_64.whl": [
-          "qPGjSs6wAy46tQKNBlFtyV05ZA3HHVAQTwP57UlXgQY=",
-          "cp38"
-        ],
-        "lavavu-1.6.4-cp38-cp38-manylinux2014_i686.whl": [
-          "oTZUVL7Lh9rmFfURVpNdWwiNAya0XcPMeX4H9rGA2uw=",
-          "cp38"
-        ],
-        "lavavu-1.6.4-cp38-cp38-manylinux2014_x86_64.whl": [
-          "5kG23gobiFGJp9pv9qr+jVns2+HBjNp63wV2YXzOWAY=",
-          "cp38"
-        ]
-      }
-    },
-    "1.6.5": {
-      "sdist": [
-        "Hg/9dY3aovekNg2kE99Hh7bNDmQpLSiP5L0WK+yWJFE=",
-        "lavavu-1.6.5.tar.gz"
-      ],
-      "wheels": {
-        "lavavu-1.6.5-cp36-cp36m-macosx_10_13_x86_64.whl": [
-          "7xLAHkClZ4rRm0hkFxCSYjso9Dw9MuDgNea/+9TeXHM=",
+        "lavavu-1.6.7-cp36-cp36m-win32.whl": [
+          "AIj7YqLN8P1EYtHRwb3oWbmd83uE100vOb8HtatG4CE=",
           "cp36"
         ],
-        "lavavu-1.6.5-cp36-cp36m-manylinux2014_i686.whl": [
-          "i5FcmHw+UB2K7iMPIoJNfk1uPGUqYnhEKhI5MbWs2iM=",
+        "lavavu-1.6.7-cp36-cp36m-win_amd64.whl": [
+          "ssasR9Pahojk8+rhHoPg9TB0ZDIkWvEtsXZhtfBXZ60=",
           "cp36"
         ],
-        "lavavu-1.6.5-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "G+koqaVhesROafS4r6ZqTM+l3xDn6aMSgLU6t0Q4Slo=",
-          "cp36"
-        ],
-        "lavavu-1.6.5-cp37-cp37m-macosx_10_13_x86_64.whl": [
-          "cbwZTg6DYYxHyAdyHqKUJBsRapSnbp8+dhNz1m89xX8=",
+        "lavavu-1.6.7-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "dWi+NbsmIrIzntYTCNxVKqJ/1EIFnr2L+ycZDflmCGM=",
           "cp37"
         ],
-        "lavavu-1.6.5-cp37-cp37m-manylinux2014_i686.whl": [
-          "VagHzBFhbXhv22OG8ufaCeSNg2pTOEQfnreQYF6TMs4=",
+        "lavavu-1.6.7-cp37-cp37m-manylinux2014_i686.whl": [
+          "F/gM+4Aln25Kl7bsquzFlnn44Vbl63coKSs3csxVGjo=",
           "cp37"
         ],
-        "lavavu-1.6.5-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "ImQSN5XRaP8NHIwKjReKa0jL1MgydHrlKLXWzgYd1vQ=",
+        "lavavu-1.6.7-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "cBzuEZRuDHZqjZe/6FJCOPC6GDS597tbIhnZiDOs/jY=",
           "cp37"
         ],
-        "lavavu-1.6.5-cp38-cp38-macosx_10_13_x86_64.whl": [
-          "z4/x+i2DwVemZ2QJj5d9lpz9Zi9xWY6x1MfrhWPWfvI=",
+        "lavavu-1.6.7-cp37-cp37m-win32.whl": [
+          "rp4emXVjNAXUBe/wRncVfOfC/Ckj6R0nDYj/Ej+2KOI=",
+          "cp37"
+        ],
+        "lavavu-1.6.7-cp37-cp37m-win_amd64.whl": [
+          "n8/vooeQCaGMFcF+8keOHmXaeETgaP7Nm6fehudkgwc=",
+          "cp37"
+        ],
+        "lavavu-1.6.7-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "hNxICE4wHEtyHNdQ3g9upx/2ldiqy++EtLVk1Yy2L34=",
           "cp38"
         ],
-        "lavavu-1.6.5-cp38-cp38-manylinux2014_i686.whl": [
-          "tqI4RQtNatx7FouHy9eut4LiGg2hxob6gNWzmjDgGnE=",
+        "lavavu-1.6.7-cp38-cp38-manylinux2014_i686.whl": [
+          "Rx6rMiGRbwhKkxmLgbc06NGf7Td6JIfnKlEBYf1gEBs=",
           "cp38"
         ],
-        "lavavu-1.6.5-cp38-cp38-manylinux2014_x86_64.whl": [
-          "4ASE74jIbErZygUSt6Fx+n2BhlGn2j4ZJjVEIENW91c=",
+        "lavavu-1.6.7-cp38-cp38-manylinux2014_x86_64.whl": [
+          "atCy0bxPW8pg86yNrFTsXYXXdQAfhuR4BLyRZLu99L4=",
           "cp38"
         ],
-        "lavavu-1.6.5-cp39-cp39-macosx_10_13_x86_64.whl": [
-          "m47KxYHVShFi/twUemPeHqsuB83TPus79LC1OBgO71I=",
+        "lavavu-1.6.7-cp38-cp38-win32.whl": [
+          "CtxdsdTe8neFIvllkTDpLcL2YilabYFAq22NlOuvC88=",
+          "cp38"
+        ],
+        "lavavu-1.6.7-cp38-cp38-win_amd64.whl": [
+          "lG78/I44tB0gL8sb10Psf8i9rfiifCPbG/TijhNZw0g=",
+          "cp38"
+        ],
+        "lavavu-1.6.7-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "wKqh7KxNgS0LTr+ohBLfA4FIvgY06mK7dbDs+mSRdak=",
           "cp39"
         ],
-        "lavavu-1.6.5-cp39-cp39-manylinux2014_i686.whl": [
-          "OaVJIeFEmQ8OLnQeIBdAvZFUN7NrMDz0sUDNJMWK8RQ=",
+        "lavavu-1.6.7-cp39-cp39-manylinux2014_i686.whl": [
+          "L5gKAsuZdIkAy9r2n+p81cZl2uiuF8a/kMNX5iuZ+1k=",
           "cp39"
         ],
-        "lavavu-1.6.5-cp39-cp39-manylinux2014_x86_64.whl": [
-          "QjgBImhh0X2X2f+Q9Xik6VpwrBGHTCOGTgvL4QD+yMk=",
+        "lavavu-1.6.7-cp39-cp39-manylinux2014_x86_64.whl": [
+          "bMxjGLt2PdUBgNocDYDzU4v+HI8QU4KGS9Fk/oS4L7M=",
+          "cp39"
+        ],
+        "lavavu-1.6.7-cp39-cp39-win32.whl": [
+          "SIng55UkC+BGLZnBpFm9y6elr+DJhTbTQwo6KRXBKOs=",
+          "cp39"
+        ],
+        "lavavu-1.6.7-cp39-cp39-win_amd64.whl": [
+          "OwBuueDj4977DAaivYdRDVWQYpXEsQ0r2esuNmxbZjA=",
           "cp39"
         ]
       }
@@ -40723,6 +40695,16 @@
       }
     }
   },
+  "odoo13-addon-account-multi-vat": {
+    "13.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo13_addon_account_multi_vat-13.0.1.0.1.dev2-py3-none-any.whl": [
+          "rsNvtWgR+EWQoRrUP8+uNBnDqhz3oRHu9ixQJKQL+JA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo13-addon-base-external-dbsource-mysql": {
     "13.0.1.0.1.dev2": {
       "wheels": {
@@ -41974,6 +41956,12 @@
         "omfit_cotsim-2020.10.5.7.13.tar.gz"
       ]
     },
+    "2020.11.2.20.1": {
+      "sdist": [
+        "lTX+d4s4niMF2IVoWooULHAiZ5WR4WmbDiLgvQWIwh4=",
+        "omfit_cotsim-2020.11.2.20.1.tar.gz"
+      ]
+    },
     "2020.9.27.22.23": {
       "sdist": [
         "Hp0E2RTeOEU2w65Ob89G5G69eqHJmqxFQFOp7tPvCuk=",
@@ -42004,6 +41992,12 @@
       "sdist": [
         "Q43eI3Z0otuDrJDYp1caU42NLzmOyS2WpqGacREngBM=",
         "omfit_toksearch-2020.10.5.7.13.tar.gz"
+      ]
+    },
+    "2020.11.2.20.1": {
+      "sdist": [
+        "wh4l14rud6UhfKHGSFCKHVuey6+tFiLrMjpwCljx908=",
+        "omfit_toksearch-2020.11.2.20.1.tar.gz"
       ]
     },
     "2020.7.22.23.23": {
@@ -42352,6 +42346,18 @@
       "wheels": {
         "os_tests-0.0.17-py3-none-any.whl": [
           "9he0Ur85vlCx103FsxfiVYC4zy95lbASz+vpHKmcKPk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.18": {
+      "sdist": [
+        "31zhEr/FGcEIg+yCTq/6Rf46UFxKSuiQmSTiWo+w3Ng=",
+        "os-tests-0.0.18.tar.gz"
+      ],
+      "wheels": {
+        "os_tests-0.0.18-py3-none-any.whl": [
+          "VFXdAOacb+g/RD8P2r5pm9Vz3+EUqXY8oAOZFPmUInM=",
           "py3"
         ]
       }
@@ -61884,6 +61890,18 @@
       "wheels": {
         "STree-0.9rc5-py3-none-any.whl": [
           "wKlr5UoNSVOCtTO5jWQ6D+YLccF80A3wD6u8mrwidLw=",
+          "py3"
+        ]
+      }
+    },
+    "0.9rc6": {
+      "sdist": [
+        "h+PvO4d1THOS8uDakTfYBJMBtJSYVg3NH8eAnqefpp0=",
+        "STree-0.9rc6.tar.gz"
+      ],
+      "wheels": {
+        "STree-0.9rc6-py3-none-any.whl": [
+          "kJmnbJ3Z8rN8rclxnwsDq6i5NZ7wf/3rPmpXjTDF8XU=",
           "py3"
         ]
       }

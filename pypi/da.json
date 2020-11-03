@@ -18329,6 +18329,26 @@
           "cp38"
         ]
       }
+    },
+    "0.6a201103": {
+      "wheels": {
+        "dgl_cu90-0.6a201103-cp35-cp35m-manylinux1_x86_64.whl": [
+          "mWsTKYrg/meBU83/Pz4XVdmnA/ePHIKBuXUaefM/8JA=",
+          "cp35"
+        ],
+        "dgl_cu90-0.6a201103-cp36-cp36m-manylinux1_x86_64.whl": [
+          "zDfdv3E4/87wTnRf0PlUoC0WCxj5kr1dftwXlICl08Y=",
+          "cp36"
+        ],
+        "dgl_cu90-0.6a201103-cp37-cp37m-manylinux1_x86_64.whl": [
+          "g/eWPfxqHT/PwrehMeGY98cVuNRLZrPJYsGgYs2p+tI=",
+          "cp37"
+        ],
+        "dgl_cu90-0.6a201103-cp38-cp38-manylinux1_x86_64.whl": [
+          "tZg3AGsF+w0o53vi4VKuWXJiFZWPLc/KowjN2Mz+/SA=",
+          "cp38"
+        ]
+      }
     }
   },
   "dict-trie": {
@@ -18756,6 +18776,12 @@
       "sdist": [
         "rat/knsIRfnYeQLvMUi6cEIU5Zd+XaSD44boLkRcuHk=",
         "django-adminfilters-1.1.0.tar.gz"
+      ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "cQ5GB60tYXFQ8T+gKM3osqwx0hdb3DcY8LQdPfxtmqg=",
+        "django-adminfilters-1.2.0.tar.gz"
       ]
     }
   },
@@ -24699,14 +24725,6 @@
       }
     }
   },
-  "gpslib": {
-    "0.1.1": {
-      "sdist": [
-        "rSBHBG/MkiROCbaAD041JMWn3aqkNGBb5DoZQFPRjTU=",
-        "gpslib-0.1.1.tar.gz"
-      ]
-    }
-  },
   "graal": {
     "0.0.1": {
       "sdist": [
@@ -28602,18 +28620,6 @@
     }
   },
   "kord": {
-    "0.1": {
-      "sdist": [
-        "jASpNoesFZjJLlgfXFjqD0sC+xzgiXryxNSKs38NU30=",
-        "kord-0.1.tar.gz"
-      ],
-      "wheels": {
-        "kord-0.1-py3-none-any.whl": [
-          "V6RwjD1F/vcKybCjl6jnKExbu3T611W89g38LF4d0Cc=",
-          "py3"
-        ]
-      }
-    },
     "0.2": {
       "sdist": [
         "B0Dz1ws6zYR40AXOgBOqd6akls3uN2qvCVkRAMieF4I=",
@@ -28754,6 +28760,30 @@
       "wheels": {
         "kord-2.6-py3-none-any.whl": [
           "DcTyGBvDm2+2R1pgPyz6mTKQZ9mRBJICXbdinjs9n7U=",
+          "py3"
+        ]
+      }
+    },
+    "2.7": {
+      "sdist": [
+        "qibECfZp3R3TbOFJMoxKx3YvFghDSS84EBmNJe3cee4=",
+        "kord-2.7.tar.gz"
+      ],
+      "wheels": {
+        "kord-2.7-py3-none-any.whl": [
+          "nEpP3hIOSx4NSNK1lFDHJ+lDWRjN6Z0ZaiMkRzUNA5E=",
+          "py3"
+        ]
+      }
+    },
+    "2.8": {
+      "sdist": [
+        "pY123wSHAy30Q24AdEo4XM6gjd5lu6ONcp09E/smz5g=",
+        "kord-2.8.tar.gz"
+      ],
+      "wheels": {
+        "kord-2.8-py3-none-any.whl": [
+          "HTteSArReClRf+nu9g3nZGN1dam1zx+nmVs7qUQJQyU=",
           "py3"
         ]
       }
@@ -52709,22 +52739,6 @@
       }
     }
   },
-  "rdbg-libssh2": {
-    "0.1.1": {
-      "sdist": [
-        "46F8dS3fFrAXLChVNsFkH+a5HodLIld2aYGelmgwaNI=",
-        "rdbg-libssh2-0.1.1.tar.gz"
-      ]
-    }
-  },
-  "rdng-twisted": {
-    "0.1.1": {
-      "sdist": [
-        "a1QGHY7KR6UW1K+o4rbbpcrVxWGHToD2vcJ7JoCwQZ4=",
-        "rdng-twisted-0.1.1.tar.gz"
-      ]
-    }
-  },
   "rdutils": {
     "0.10": {
       "sdist": [
@@ -62890,6 +62904,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cws-3.0.283-py2.py3-none-any.whl": [
           "g908pd1ofENiMuEVEITAP+ZKeS3LZQYnommhNXso8Ww=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.284": {
+      "sdist": [
+        "61IMTFQCTVMajq48aCmz9NJJ/Dm80CqpHopatu28VVE=",
+        "tencentcloud-sdk-python-cws-3.0.284.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cws-3.0.284-py2.py3-none-any.whl": [
+          "DjbrVuko6yDv5e9WhgxH53zL7/12ilqx0KdOHgvp8q4=",
           "py2.py3"
         ]
       }

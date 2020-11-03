@@ -23592,6 +23592,18 @@
         ]
       }
     },
+    "3.25.1": {
+      "sdist": [
+        "K+fzOPVBO9bJsqVbhYzQkPazGGImwO+A6fxQ55VAkqs=",
+        "frictionless-3.25.1.tar.gz"
+      ],
+      "wheels": {
+        "frictionless-3.25.1-py2.py3-none-any.whl": [
+          "Bb1UQczpEvaI2zLmcT6aQ0KspKHKn6ovvdJF8CqH3tM=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.9.1": {
       "sdist": [
         "0CHFg2NW3W1JajKpBiaEekBj3/l4ujsL7vJreAPErgk=",
@@ -59331,14 +59343,6 @@
       }
     }
   },
-  "rdbg-paramiko": {
-    "0.1.1": {
-      "sdist": [
-        "yxTDPyUmjuhCbi8HyDaBzGU4Ju4LbmxYwwEUtFWYPo0=",
-        "rdbg-paramiko-0.1.1.tar.gz"
-      ]
-    }
-  },
   "rdflib-django3": {
     "0.1": {
       "sdist": [
@@ -71508,6 +71512,114 @@
         ],
         "systemrdl_compiler-1.13.1-cp39-cp39-win_amd64.whl": [
           "URsowb2a3RzHq45mAX3XRnZNOIQJkkP8bmeYcIWsfWU=",
+          "cp39"
+        ]
+      }
+    },
+    "1.13.2": {
+      "sdist": [
+        "PY4djqczrC8Eab/IKvoteRITCdz7FeYqO6yTnd/GH3E=",
+        "systemrdl-compiler-1.13.2.tar.gz"
+      ],
+      "wheels": {
+        "systemrdl_compiler-1.13.2-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "aKE4wUP2qcQlZzzGWT+Ejm5Jbavo3mrLcoOnkhDfmu0=",
+          "cp35"
+        ],
+        "systemrdl_compiler-1.13.2-cp35-cp35m-manylinux2010_i686.whl": [
+          "97KwXxa0bDd9cB+GvOmn44RjNF6TzVVDA1aCEHmLWsg=",
+          "cp35"
+        ],
+        "systemrdl_compiler-1.13.2-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "wMygg+dfQFvn4hHWadS1AQpHaWtjPB4kLLBXYcbw7uA=",
+          "cp35"
+        ],
+        "systemrdl_compiler-1.13.2-cp35-cp35m-win32.whl": [
+          "gXIUUaqp0PAK71ct+hlP2w+hIj9IxJUBJj6h5k5r+pg=",
+          "cp35"
+        ],
+        "systemrdl_compiler-1.13.2-cp35-cp35m-win_amd64.whl": [
+          "kdVBXPreWfpefYEwxHmHPIUet2N56278ckWgm9oDaQE=",
+          "cp35"
+        ],
+        "systemrdl_compiler-1.13.2-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "vv7VEbFgmsik4quwcg29XJ5MAcB9F85uEBJAclsKTmc=",
+          "cp36"
+        ],
+        "systemrdl_compiler-1.13.2-cp36-cp36m-manylinux2010_i686.whl": [
+          "aVMbfmu3eeYi82UMmJgmVDGIg84Q9PXx7ZmXxatunxA=",
+          "cp36"
+        ],
+        "systemrdl_compiler-1.13.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "MA6fIvEOFpiJcVhQXHUl7k40+D0v0ivI7UaIq8kb2oQ=",
+          "cp36"
+        ],
+        "systemrdl_compiler-1.13.2-cp36-cp36m-win32.whl": [
+          "hLAEkesj41fljtCbIx/E1DcL8Hdq4zy7b2hfmCSMIRk=",
+          "cp36"
+        ],
+        "systemrdl_compiler-1.13.2-cp36-cp36m-win_amd64.whl": [
+          "Y+lVBidTuGGBsnMLqrGCilhQAa2/K/vpbLD4NPn4MKg=",
+          "cp36"
+        ],
+        "systemrdl_compiler-1.13.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "6BUtOtcNyVoZ6LugPH9OcCLUKk5d8WY3Dp9M217W9Sg=",
+          "cp37"
+        ],
+        "systemrdl_compiler-1.13.2-cp37-cp37m-manylinux2010_i686.whl": [
+          "9qgDdjBxdiTpuALv4uk0gnScFaUD447Pkz2b/bAe2WE=",
+          "cp37"
+        ],
+        "systemrdl_compiler-1.13.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "gUP6w4HDVcZkItgsoQ0YO5t7Snfh6xnEs530FknoqDo=",
+          "cp37"
+        ],
+        "systemrdl_compiler-1.13.2-cp37-cp37m-win32.whl": [
+          "kjnhnQKt4CDdwtSc6qKW9AWoSLnuQmQL/pPNt7kabgg=",
+          "cp37"
+        ],
+        "systemrdl_compiler-1.13.2-cp37-cp37m-win_amd64.whl": [
+          "NUomV3Q5z9TYmNzSxEt+chA5EKN0kKZzU5mn03f45oI=",
+          "cp37"
+        ],
+        "systemrdl_compiler-1.13.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "F6cKEzQig4ygA57JPxGisggmTEpoHBzd+0u7sl8VTBI=",
+          "cp38"
+        ],
+        "systemrdl_compiler-1.13.2-cp38-cp38-manylinux2010_i686.whl": [
+          "F/EBezcKzg71O3qgOmOndl10gbU3HZNxzEapy3fVp0I=",
+          "cp38"
+        ],
+        "systemrdl_compiler-1.13.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "t6F2y2xEJeUkaDRvRC7pZeFni3FvwRAz9mXNxy3GGYo=",
+          "cp38"
+        ],
+        "systemrdl_compiler-1.13.2-cp38-cp38-win32.whl": [
+          "d7hkDmMEE/lfMb/XGrXACDhZqtkA+3bchOrPvjRt6G8=",
+          "cp38"
+        ],
+        "systemrdl_compiler-1.13.2-cp38-cp38-win_amd64.whl": [
+          "14N+lODim+VrbpPzJ7gp5c4YedAsB8ZYmxG/avqsPyU=",
+          "cp38"
+        ],
+        "systemrdl_compiler-1.13.2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "3fkB8E4hQn3omv9HUPU2LPwASdEbSViqxF7RI0yr/as=",
+          "cp39"
+        ],
+        "systemrdl_compiler-1.13.2-cp39-cp39-manylinux2010_i686.whl": [
+          "zYHFOI/z49pfumWiw2GeO0XUlpD3j/M3Ak8kK+cH9hg=",
+          "cp39"
+        ],
+        "systemrdl_compiler-1.13.2-cp39-cp39-manylinux2010_x86_64.whl": [
+          "CDUzfrpWWg7boHbB4KodktxbI5JWrAN8i15/ZIaXMQA=",
+          "cp39"
+        ],
+        "systemrdl_compiler-1.13.2-cp39-cp39-win32.whl": [
+          "bgp/wlo/UojWvG7vXDgYqAMmnMoe1XDsf0IHa+Yxp84=",
+          "cp39"
+        ],
+        "systemrdl_compiler-1.13.2-cp39-cp39-win_amd64.whl": [
+          "4QJ7bq5PH0yLJK2HXqFuVVndWQr6l6fLXMHr67nMV6w=",
           "cp39"
         ]
       }
