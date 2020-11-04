@@ -20984,42 +20984,6 @@
     }
   },
   "ecmwflibs": {
-    "0.0.82": {
-      "wheels": {
-        "ecmwflibs-0.0.82-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "q6oBSW6Fi+5/pBFVvwf+4HSO2yKsmsLedbG3HU+skU0=",
-          "cp36"
-        ],
-        "ecmwflibs-0.0.82-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "Rw4jDqWxDGYTNVFbEvJU3DcnO6ACkgpI5A0AZLmqvCg=",
-          "cp36"
-        ],
-        "ecmwflibs-0.0.82-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "fkc+Az6azBnhZHwYA2VRX8K8sleP9UU8dwPWC8H7Jeo=",
-          "cp37"
-        ],
-        "ecmwflibs-0.0.82-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "ZRieQuVPivD/JqZDkfTUDjQyczYUAfYaS/t3VfJO+3I=",
-          "cp37"
-        ],
-        "ecmwflibs-0.0.82-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "FMBulx4fIaLSoypXhbfbpm6f4f8AN8O88tzE9lmTOo0=",
-          "cp38"
-        ],
-        "ecmwflibs-0.0.82-cp38-cp38-manylinux2014_x86_64.whl": [
-          "UoONE/6tdE7tFZMVYpEa2oz3AqN05U2SrnOUccsHf2s=",
-          "cp38"
-        ],
-        "ecmwflibs-0.0.82-cp39-cp39-macosx_10_14_x86_64.whl": [
-          "gj90B56Eo2eZlFhjaHJ1G6W9MuLw48u7T3GJjUq4inQ=",
-          "cp39"
-        ],
-        "ecmwflibs-0.0.82-cp39-cp39-manylinux2014_x86_64.whl": [
-          "Co0/fBD0Kkcby3yApUd0F8E6tNtCGpz9F41DksXjTF8=",
-          "cp39"
-        ]
-      }
-    },
     "0.0.83": {
       "wheels": {
         "ecmwflibs-0.0.83-cp36-cp36m-macosx_10_14_x86_64.whl": [
@@ -57700,6 +57664,18 @@
         ]
       }
     },
+    "0.3.42": {
+      "sdist": [
+        "Jq2/i75RiMXNCPXCK2svulDuwY/en2ZuO6PE8PU+NuU=",
+        "pyppyn-0.3.42.tar.gz"
+      ],
+      "wheels": {
+        "pyppyn-0.3.42-py2.py3-none-any.whl": [
+          "6XRDdGgbSTtZOH0ceS8ykiSY5dxDP1X1kl0TmTRkHro=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.3.5": {
       "sdist": [
         "NzkbZ2a9ogF7bNKGstfmz084S0bsU+VlN9cQ2rN/rFM=",
@@ -66828,6 +66804,12 @@
       "sdist": [
         "i3xwJLmJ5S4WDsQDDrXaJcX8qHbQHJwOAjW5O2q9qCk=",
         "rifbot-0.57.tar.gz"
+      ]
+    },
+    "0.58": {
+      "sdist": [
+        "ytWklD/IKCQJGHVEFGMToeiptuA3R8rGZthZZtEK9pw=",
+        "rifbot-0.58.tar.gz"
       ]
     }
   },
@@ -80353,6 +80335,62 @@
         "thinc-7.4.1-cp38-cp38-win_amd64.whl": [
           "VbngLkuDlc7gqKgQvYr012ALBFILq2DfH8UT1QpB7sU=",
           "cp38"
+        ]
+      }
+    },
+    "7.4.2": {
+      "sdist": [
+        "dy8aJ7mzHlEAPR0qdHbMScyBBE3YcIgRIjf5O9IJHws=",
+        "thinc-7.4.2.tar.gz"
+      ],
+      "wheels": {
+        "thinc-7.4.2-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "OfuStL17cbnmJO4cAwI4KntWqT1YaBgjKj3HZXHQxag=",
+          "cp36"
+        ],
+        "thinc-7.4.2-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "XXI4tIy9BT9TViWbIKUWKiHv3GQXv5bOiqG4Pi+qgZE=",
+          "cp36"
+        ],
+        "thinc-7.4.2-cp36-cp36m-win_amd64.whl": [
+          "6ASXNc+78rMPvBKAzE2jDSIHuZz/iEtUX71s1MOf+dg=",
+          "cp36"
+        ],
+        "thinc-7.4.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "finWN0kqeKoHj7hQn573ijscc1iZzA9ytZglSTBttH4=",
+          "cp37"
+        ],
+        "thinc-7.4.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "3H9Ee1HoiVpM8IaNANzxxZPPreObeBMA9HxI3wnPZR0=",
+          "cp37"
+        ],
+        "thinc-7.4.2-cp37-cp37m-win_amd64.whl": [
+          "BkuFzlS5dNrPvGdPyIGL7A4+2DFZ1HlYkhpxhKMm/Ho=",
+          "cp37"
+        ],
+        "thinc-7.4.2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "JbbkkLTsa34oG+0i2qLrKWEfh72RHWAZxRxi0HUMXZQ=",
+          "cp38"
+        ],
+        "thinc-7.4.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "RbU9LPW9ATDbhWUvzfmusnySnMh/E7kAOZNPIjkt0w0=",
+          "cp38"
+        ],
+        "thinc-7.4.2-cp38-cp38-win_amd64.whl": [
+          "FjZ33JIIrVm+Y6bu8kLZAAvIRbdrD6yXml6We46I8to=",
+          "cp38"
+        ],
+        "thinc-7.4.2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "WwTv5GzAS73wPu+wvFTbFC0NPBoHG8rY7FZfioKes44=",
+          "cp39"
+        ],
+        "thinc-7.4.2-cp39-cp39-manylinux2014_x86_64.whl": [
+          "SxauGo3uHKSHF3dq2G2NfgHesgtPbzsjw2BxdXfK46o=",
+          "cp39"
+        ],
+        "thinc-7.4.2-cp39-cp39-win_amd64.whl": [
+          "zk5OOeoZcZpXuWT9cRUVR+l8wr0C46f7+m937Hz8N7A=",
+          "cp39"
         ]
       }
     },
