@@ -30458,6 +30458,12 @@
         "exp10it-2.7.70.tar.gz"
       ]
     },
+    "2.7.71": {
+      "sdist": [
+        "3wA2eUHwyn/zHDx1fL1irkCuAHEgb/1ov5eFUIFDSPQ=",
+        "exp10it-2.7.71.tar.gz"
+      ]
+    },
     "2.7.8": {
       "sdist": [
         "E5kktD1Cl9Lup87gbZHtYV/A+FVgnGfAgvkkeIjJ9uw=",
@@ -36408,6 +36414,12 @@
       "sdist": [
         "VAwUKQbewsi//W5OwcdMKNUSlxAg9SQMYBui2pBWzuA=",
         "hydro-python-api-1.1.3.tar.gz"
+      ]
+    },
+    "1.1.4": {
+      "sdist": [
+        "7nse9qwhFCdVerdrUZ1M9WV8qfZoJ7ArAM+0jLynNVQ=",
+        "hydro-python-api-1.1.4.tar.gz"
       ]
     }
   },
@@ -72186,16 +72198,10 @@
     }
   },
   "stripenn": {
-    "1.0.6": {
+    "1.0.17": {
       "sdist": [
-        "ZDu6GvxtmSKdzTEvJKxUbCRWayTQZE7+1wzQS+s5NdM=",
-        "stripenn-1.0.6.tar.gz"
-      ]
-    },
-    "1.0.7": {
-      "sdist": [
-        "3MCOdzz6qembPBJO+wmsV0fOnpk/3Ltxq0ipUhQXxIY=",
-        "stripenn-1.0.7.tar.gz"
+        "arBYAAQOixr0ysoakWb9rWKrei3EvFywSFKeabEwbMs=",
+        "stripenn-1.0.17.tar.gz"
       ]
     }
   },
@@ -72340,6 +72346,18 @@
       "wheels": {
         "supertimer-0.1.0-py3-none-any.whl": [
           "qEAkT37/hJHYxG58T6nGTBG8hKd29wtMP90W0odin1o=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "3lMy9pEyaP5fQVNUkvIzRsKi60snXWZlQdhbORDTCCQ=",
+        "supertimer-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "supertimer-0.2.0-py3-none-any.whl": [
+          "OokU4yauqdYFimoehs+C+oWefNukxTgT1/+LXzjLy70=",
           "py3"
         ]
       }
@@ -73188,32 +73206,6 @@
       "wheels": {
         "tensor_dash-1.8.1-py3-none-any.whl": [
           "hx3PQYrvxY7mW2M9crQY0Qa7l6jOBkwA/E8RGLPrkR0=",
-          "py3"
-        ]
-      }
-    }
-  },
-  "terracotta-toolbelt": {
-    "0.0.1": {
-      "sdist": [
-        "X0Ydrq8e+427aWsfx55Z6hipCRnTROE77NEnXdMFgdg=",
-        "terracotta-toolbelt-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "terracotta_toolbelt-0.0.1-py3-none-any.whl": [
-          "C9awcVshkqP0KuQCcm7T7Oi5Hl1gMPqqg/6dpQ+QLH8=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "KWCekGW1SudNWWTBQl4sBfxbDjHoM0hkc5DYwEbgoUk=",
-        "terracotta-toolbelt-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "terracotta_toolbelt-0.0.5-py3-none-any.whl": [
-          "Zydq6FS8ZPwHAF39zgMV0XWHDPlATOFCSCxB5rDsm7U=",
           "py3"
         ]
       }
@@ -75346,6 +75338,10 @@
           "+CDwm6XdPtfWwwfOPvbfEtPv0pcwziI7Brua6YsOI+w=",
           "cp36"
         ],
+        "tf_nightly_cpu-2.5.0.dev20201105-cp36-cp36m-win_amd64.whl": [
+          "PiPJjkPaxecPT7bCAFtI8imjIPedHdZPmLlZaXO9xzU=",
+          "cp36"
+        ],
         "tf_nightly_cpu-2.5.0.dev20201105-cp37-cp37m-macosx_10_14_x86_64.whl": [
           "h3699sNZBHpcY+zpblEhViRSb0KVU8K4Lq3c8oKoyNk=",
           "cp37"
@@ -75354,12 +75350,20 @@
           "A72C8Xpm5/KId9oEnb7uHc2IiyA26ZGTId7s/jbjI7Y=",
           "cp37"
         ],
+        "tf_nightly_cpu-2.5.0.dev20201105-cp37-cp37m-win_amd64.whl": [
+          "yjG4DrhgVXZt9IGXScVl4D0Z6mUrjy3WTG6Zvkagobc=",
+          "cp37"
+        ],
         "tf_nightly_cpu-2.5.0.dev20201105-cp38-cp38-macosx_10_14_x86_64.whl": [
           "LyYE5Ft7AxPZzsWo1pZ9628hOSpgqsgC0Cvg4XNOrrg=",
           "cp38"
         ],
         "tf_nightly_cpu-2.5.0.dev20201105-cp38-cp38-manylinux2010_x86_64.whl": [
           "pp5GPN1VTUtS348wz15ziPbxYm0Ip0l59lNU30DZG44=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.5.0.dev20201105-cp38-cp38-win_amd64.whl": [
+          "i5LhpFaYg45HRnWnKz0Q514Moi4HCr6n8QSvXjsYmgM=",
           "cp38"
         ]
       }
