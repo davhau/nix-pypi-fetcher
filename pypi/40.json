@@ -4291,18 +4291,6 @@
           "py3"
         ]
       }
-    },
-    "2.0.0a0": {
-      "sdist": [
-        "XSd/B8btTw0g4zee4DMOh6RbsLBpkR897UqCJEyDYn8=",
-        "aws-cdk.aws-lambda-2.0.0a0.tar.gz"
-      ],
-      "wheels": {
-        "aws_cdk.aws_lambda-2.0.0a0-py3-none-any.whl": [
-          "9BSsV8eQZltUDkAAY5g+a8zB3CsJjBvyVL71iUPOUIQ=",
-          "py3"
-        ]
-      }
     }
   },
   "aws-cdk.aws-s3": {
@@ -5589,18 +5577,6 @@
           "py3"
         ]
       }
-    },
-    "2.0.0a0": {
-      "sdist": [
-        "buW0ntnnExQcFzItwNujhvamdxX9vJF6d4Qar66QgE0=",
-        "aws-cdk.aws-s3-2.0.0a0.tar.gz"
-      ],
-      "wheels": {
-        "aws_cdk.aws_s3-2.0.0a0-py3-none-any.whl": [
-          "qIHnbhQx+iFJ6iLXdRgfJLf11H1kjwGHiy41wsUMqEE=",
-          "py3"
-        ]
-      }
     }
   },
   "aws-cdk.aws-ses": {
@@ -6884,18 +6860,6 @@
       "wheels": {
         "aws_cdk.aws_ses-1.9.0-py3-none-any.whl": [
           "/z9y94tq5vMusYLtjbPm20CEge6qxtsP4kgsCdjbXRY=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.0a0": {
-      "sdist": [
-        "H9MyGjwYNKVAQc9rlAZxHvvnRRhkxD+dqm9LH5l1Fqs=",
-        "aws-cdk.aws-ses-2.0.0a0.tar.gz"
-      ],
-      "wheels": {
-        "aws_cdk.aws_ses-2.0.0a0-py3-none-any.whl": [
-          "YajDatGxvNCSd2Gd6S1CI9qGTQIxheY4KCFFkM1+g/s=",
           "py3"
         ]
       }
@@ -43404,6 +43368,18 @@
         ]
       }
     },
+    "1.16.15.0": {
+      "sdist": [
+        "U8eJ9hXDSGMV9xQtmpTgJ6sWsz3q7gL5ECJ3AnAZT/k=",
+        "mypy-boto3-devicefarm-1.16.15.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_devicefarm-1.16.15.0-py3-none-any.whl": [
+          "ZGMlAGfuJCyZR4CsroabiGKk4F/7m9RPGcpjVguLt24=",
+          "py3"
+        ]
+      }
+    },
     "1.16.2.0": {
       "sdist": [
         "GVRu7r+Pkherm6U0lD+GrDVbwu6uKAF44bZpF7h1KOQ=",
@@ -50103,6 +50079,28 @@
         "uA+3dRKXOc4Nuidq9U7R4Et38tZzjZm8uCxCN6M4fcE=",
         "pocomp-0.4.tar.gz"
       ]
+    }
+  },
+  "pono": {
+    "0.0.9": {
+      "wheels": {
+        "pono-0.0.9-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "ss6wMimODBjQkMsTEWxEgkMcClcI/s/l9OsDDklD2Xo=",
+          "cp35"
+        ],
+        "pono-0.0.9-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "C3w8OWHnttYEVid+EthODzY/1BXUmlPxKTDgF8B4xUk=",
+          "cp36"
+        ],
+        "pono-0.0.9-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "760IaPUkXic90B0iuX8R6hz36FaBMeBS+dpVrDlymAM=",
+          "cp37"
+        ],
+        "pono-0.0.9-cp38-cp38-manylinux2010_x86_64.whl": [
+          "Pz32MLM/Qs7bQPz7NKOJNkBMai51hFv5cL1deGAHFtA=",
+          "cp38"
+        ]
+      }
     }
   },
   "postmark": {

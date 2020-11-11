@@ -5087,14 +5087,6 @@
           "py3"
         ]
       }
-    },
-    "2.0.0a0": {
-      "wheels": {
-        "aws_cdk.alexa_ask-2.0.0a0-py3-none-any.whl": [
-          "EVH8N1HYEaL6AJR190NUiK0WvfXAdJ0LUvYzfIEQ0GU=",
-          "py3"
-        ]
-      }
     }
   },
   "aws-sso-credential-provider": {
@@ -37569,6 +37561,14 @@
       }
     }
   },
+  "jupyterlab-requirements": {
+    "0.0.1": {
+      "sdist": [
+        "NPTykwtPcafgcHVtQUEFqHhB/4Ch7+0qO2LcUqozU2U=",
+        "jupyterlab-requirements-0.0.1.tar.gz"
+      ]
+    }
+  },
   "jupyterserver": {
     "0.1.1": {
       "sdist": [
@@ -41386,6 +41386,18 @@
       "wheels": {
         "kinto_dist-21.2.1-py2.py3-none-any.whl": [
           "Saf/KE03aGhQ6t2vMRMgQ9R7YT96GHXvDcHEa5M+R+8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "21.2.2": {
+      "sdist": [
+        "yUi/vcHxQH9D6dsQrBwCJteFuXWAKfp0XgFof8D0XJo=",
+        "kinto-dist-21.2.2.tar.gz"
+      ],
+      "wheels": {
+        "kinto_dist-21.2.2-py2.py3-none-any.whl": [
+          "oAe6JGtj5lIY0q2xt9JDNToeBYHdrfdCRg+OJ78odgY=",
           "py2.py3"
         ]
       }
@@ -50026,6 +50038,18 @@
         ]
       }
     },
+    "1.16.15.0": {
+      "sdist": [
+        "y/UokCPSIuMa+xWOdZ5V0UqZmRqtQ+WHv02k5zM5k/4=",
+        "mypy-boto3-mediastore-data-1.16.15.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mediastore_data-1.16.15.0-py3-none-any.whl": [
+          "IoLBQGeFzvA2t0XnN5UFnduzSkbKl1xGNcM4gcPgT1o=",
+          "py3"
+        ]
+      }
+    },
     "1.16.2.0": {
       "sdist": [
         "7VHuaf0HJ5LMjyajYXJA0LfEkfQlz9m0xdehqEB7eHI=",
@@ -57714,6 +57738,18 @@
       "wheels": {
         "pi_pir_webthing-0.0.30-py3-none-any.whl": [
           "FBpKu8fT5g05doPDV0QXGnwt5qxEUehPTsyk5jyYBBc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.31": {
+      "sdist": [
+        "l5uRGesTNOWt6qg1p9qzPJABjIDHVaFmnvv6oB9mnRc=",
+        "pi_pir_webthing-0.0.31.tar.gz"
+      ],
+      "wheels": {
+        "pi_pir_webthing-0.0.31-py3-none-any.whl": [
+          "ChHAwY1/kEQri2VS4L2lnxepEpZ9/deyFP6Ur3/RLMM=",
           "py3"
         ]
       }
@@ -80496,6 +80532,12 @@
       "sdist": [
         "aq0/ZXLLL9YNETvGjWhHD0sEyjXak7eGmmhODvmyvhw=",
         "vrt_lss_account-3.6.163438.tar.gz"
+      ]
+    },
+    "3.6.163543": {
+      "sdist": [
+        "9fb/EQRVYbEeUTdu1f5NYVssQm+e3TAVPNo/qSZtmEA=",
+        "vrt_lss_account-3.6.163543.tar.gz"
       ]
     }
   },

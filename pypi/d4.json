@@ -5337,18 +5337,6 @@
           "py3"
         ]
       }
-    },
-    "2.0.0a0": {
-      "sdist": [
-        "lae/1Wsh2tRbm2GC54VcaNIWIrXHGQ0S8mWvJvpxX2Y=",
-        "aws-cdk.aws-cloudformation-2.0.0a0.tar.gz"
-      ],
-      "wheels": {
-        "aws_cdk.aws_cloudformation-2.0.0a0-py3-none-any.whl": [
-          "htudVpe2/gL3g1+TQEqmVudP9AHNeGO25tiR88CU0ZI=",
-          "py3"
-        ]
-      }
     }
   },
   "aws-cdk.aws-sns": {
@@ -6632,18 +6620,6 @@
       "wheels": {
         "aws_cdk.aws_sns-1.9.0-py3-none-any.whl": [
           "j73ZwnAJP3UnTXbZyyQK/atcxRhuURzUy1DN01Y5lUw=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.0a0": {
-      "sdist": [
-        "a+brR+wUYoI86m/DGsMFzrb33zkoTAjr6R4zN9EpKJo=",
-        "aws-cdk.aws-sns-2.0.0a0.tar.gz"
-      ],
-      "wheels": {
-        "aws_cdk.aws_sns-2.0.0a0-py3-none-any.whl": [
-          "Rg0Jt/DrF7tsRijOdREsiN+df4wS0BToISX6iWvGIJk=",
           "py3"
         ]
       }
@@ -11889,6 +11865,18 @@
           "py2.py3"
         ]
       }
+    },
+    "7.3.0": {
+      "sdist": [
+        "drKeEyhYoNIXJWdASFnoBzjNRpiWR/LD94orKtw5nfQ=",
+        "clld-7.3.0.tar.gz"
+      ],
+      "wheels": {
+        "clld-7.3.0-py2.py3-none-any.whl": [
+          "tuJBsIqEtOpStePjq67bQv75/L6LOKZjYjoL3RVJEh8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "cloudwatchmon": {
@@ -14110,6 +14098,12 @@
       "sdist": [
         "Htts6SF8WFVoMe1xHfuEoqr1xJph/YWsoN6zP/De7Cc=",
         "dancingcell-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3b2": {
+      "sdist": [
+        "0YakAgXzDCHs53Vf4yVFd88FaaEnhgCdlhPp67QAvlI=",
+        "dancingcell-0.0.3b2.tar.gz"
       ]
     }
   },
@@ -26694,6 +26688,18 @@
         ]
       }
     },
+    "0.8.11": {
+      "sdist": [
+        "fK4yEQwdy2zTtJ2SJIyBLNBJYYmb4BC4g3l9J5ApEVU=",
+        "eventsourcing-helpers-0.8.11.tar.gz"
+      ],
+      "wheels": {
+        "eventsourcing_helpers-0.8.11-py3-none-any.whl": [
+          "9KPWiUOX8v1SuYjm0jO3W5Wz6qr0UF0FlELmPhAKD/k=",
+          "py3"
+        ]
+      }
+    },
     "0.8.2": {
       "sdist": [
         "j0n3FICVxA6jGuX+tv12sjHFQRf3JVa57nAI8vSiRdE=",
@@ -27066,6 +27072,18 @@
       "wheels": {
         "exotic-0.24.4-py2.py3-none-any.whl": [
           "yXMkzByDU1ilgMj9UWzTfrImOS1ynac3rGvGeDrilhE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.25.0": {
+      "sdist": [
+        "3yIGrdX4qZTntzpne6CVNMQBe5lxc4zycVnVmuBBqDk=",
+        "exotic-0.25.0.tar.gz"
+      ],
+      "wheels": {
+        "exotic-0.25.0-py2.py3-none-any.whl": [
+          "47zg4fzpwyYqpnpwj/WQr9dsyMVhKmI/+IN+cI85gmc=",
           "py2.py3"
         ]
       }
@@ -44150,6 +44168,18 @@
         ]
       }
     },
+    "1.16.15.0": {
+      "sdist": [
+        "lYopsaQndeMB9EdG7PIgLfmfv4t+4dDhPRBOhLQjVUQ=",
+        "mypy-boto3-cloudwatch-1.16.15.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cloudwatch-1.16.15.0-py3-none-any.whl": [
+          "RpMEQRlKStTVXnRFauEYeccZMBBHSeOzXgs1aAn44Uw=",
+          "py3"
+        ]
+      }
+    },
     "1.16.2.0": {
       "sdist": [
         "PkCRpHFh/8QFdkiagL2yrmJ3pBM5MGs3eYbuu/7Y0k8=",
@@ -48550,6 +48580,16 @@
       "wheels": {
         "odoo13_addon_base_rest-13.0.2.1.2-py3-none-any.whl": [
           "O0UFRmib//V1Z7VD7z1jUihGEv44K3k47wmEtwXAGc0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo13-addon-contract-payment-mode": {
+    "13.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo13_addon_contract_payment_mode-13.0.1.0.1.dev2-py3-none-any.whl": [
+          "Qnwjmz8dAaiq02kpgIeMNNTyJ9RO9LocoUZYVHFnnnU=",
           "py3"
         ]
       }
@@ -62353,6 +62393,12 @@
         "1bINTkU3JQ0x009KNTZAoYeQTMrnmxYYZI4MkrBxNFw=",
         "pyTSI-0.3.0.tar.gz"
       ]
+    },
+    "0.3.1": {
+      "sdist": [
+        "VppHXWNDIDHryxZ9jKz0sy+M6ijwe25KG+1DnHw+kVU=",
+        "pyTSI-0.3.1.tar.gz"
+      ]
     }
   },
   "pytuyapi-ipc": {
@@ -66864,6 +66910,22 @@
         ],
         "semgrep-0.30.0-cp36.cp37.cp38.py36.py37.py38-none-macosx_10_14_x86_64.whl": [
           "NewaJIXDqdRw7m5+cel8EhElKD3RSjgWPSfaad7wkwc=",
+          "cp36.cp37.cp38.py36.py37.py38"
+        ]
+      }
+    },
+    "0.31.0": {
+      "sdist": [
+        "I57jfIf0XtbpyzMqvv9PfF22gBK364rh8iBuOrTiSTM=",
+        "semgrep-0.31.0.tar.gz"
+      ],
+      "wheels": {
+        "semgrep-0.31.0-cp36.cp37.cp38.py36.py37.py38-none-any.whl": [
+          "rw7LisSnZii7AePoZ2QKDWEa+VA4+yDjN9POJ2XspaI=",
+          "cp36.cp37.cp38.py36.py37.py38"
+        ],
+        "semgrep-0.31.0-cp36.cp37.cp38.py36.py37.py38-none-macosx_10_14_x86_64.whl": [
+          "qzD7qVQZBbboK66CIXwgdQNygT6zc/I0aeEHFTN+7uo=",
           "cp36.cp37.cp38.py36.py37.py38"
         ]
       }
@@ -81666,6 +81728,12 @@
       "sdist": [
         "pboAJ7/Iystg7Uo1020nn3xAGN70fud488MVd8fdSdU=",
         "xylib-py-1.6.0.tar.gz"
+      ]
+    },
+    "1.6.1": {
+      "sdist": [
+        "Rts7ccux5Wd3TjW1kP1Q8+7SjRU+wfzeWeqqXqOKt88=",
+        "xylib-py-1.6.1.tar.gz"
       ]
     }
   },

@@ -4393,18 +4393,6 @@
           "py3"
         ]
       }
-    },
-    "2.0.0a0": {
-      "sdist": [
-        "5WymiiqPlUnRi1QLJ2RjkKHR36cAk4B3twoLI4mzKPQ=",
-        "aws-cdk.aws-lambda-destinations-2.0.0a0.tar.gz"
-      ],
-      "wheels": {
-        "aws_cdk.aws_lambda_destinations-2.0.0a0-py3-none-any.whl": [
-          "9kzWXiFewm4XLTq4ddpGhIvII4TRMKV0QpnJwwkLQcc=",
-          "py3"
-        ]
-      }
     }
   },
   "aws-cdk.aws-rds": {
@@ -5688,18 +5676,6 @@
       "wheels": {
         "aws_cdk.aws_rds-1.9.0-py3-none-any.whl": [
           "3WpCykx44/lr5fRM0uNpXPt1xudKumRqgNWjSyTRIQI=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.0a0": {
-      "sdist": [
-        "9fghpDkpYQZEUDgCrRS9Q83KCfPjuec/7OuGD/ZwIoM=",
-        "aws-cdk.aws-rds-2.0.0a0.tar.gz"
-      ],
-      "wheels": {
-        "aws_cdk.aws_rds-2.0.0a0-py3-none-any.whl": [
-          "pnMNR1rgXN4jxfj7rhlO6qOfVp04HiW/M4gJtleDy88=",
           "py3"
         ]
       }
@@ -16398,6 +16374,18 @@
         ]
       }
     },
+    "0.1.54": {
+      "sdist": [
+        "t8t51+ywDcp3mMiBbvnjBKgKt2lDtg8tSxC/z7lV4ZY=",
+        "delphai-utils-0.1.54.tar.gz"
+      ],
+      "wheels": {
+        "delphai_utils-0.1.54-py3-none-any.whl": [
+          "HLBXq0jQ0vybmWIggb7AKu8bLzHLI4mYiMMyleVlY8U=",
+          "py3"
+        ]
+      }
+    },
     "0.1.6": {
       "sdist": [
         "NI09hCotXZOIq9XQI+3A6EMfDMDY0pVWAqzEpT+xr3U=",
@@ -16853,6 +16841,20 @@
         "iZXSxTGy03AKWTWjwnaaLcNTm9iuVj8ES3AtJn2WxcU=",
         "dive-0.3.tar.gz"
       ]
+    }
+  },
+  "dj-graphene": {
+    "0.0.2": {
+      "sdist": [
+        "llgPhg9Ik8OAuRqA6P60u3TQH46PDHI6glCdnoHCUG4=",
+        "dj-graphene-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "dj_graphene-0.0.2-py3-none-any.whl": [
+          "HMDeQerNyk2eixV2BEyhRqL27VHKObN6VBxQ4WtvBqE=",
+          "py3"
+        ]
+      }
     }
   },
   "django-activecollab-digger": {
@@ -25448,6 +25450,58 @@
         ],
         "genie-20.10-cp38-cp38-manylinux1_x86_64.whl": [
           "od4AxLoaIVII/JK33pYlxGoV+YRwCnRXHz5t6oqJFts=",
+          "cp38"
+        ]
+      }
+    },
+    "20.10.1b0": {
+      "wheels": {
+        "genie-20.10.1b0-cp35-cp35m-macosx_10_10_x86_64.whl": [
+          "TrD7ZTGNzNXn2qyaJEnB165f/RsgvTcqJ9uI4O8MjrA=",
+          "cp35"
+        ],
+        "genie-20.10.1b0-cp35-cp35m-manylinux1_i686.whl": [
+          "jmBaeYig9N5EBj0gzD4F7oiQF2EGj+3DmHQ/HlC9+9M=",
+          "cp35"
+        ],
+        "genie-20.10.1b0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "FYfpFNP7agK/Fc0otKx+5rvg+TLCc0Kf6/ApxFQdjG8=",
+          "cp35"
+        ],
+        "genie-20.10.1b0-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "/L0/IbGTX6zA/zFEiAOEXnKgzJOSA0mxwJoGwfCGv2Y=",
+          "cp36"
+        ],
+        "genie-20.10.1b0-cp36-cp36m-manylinux1_i686.whl": [
+          "hyxDeEZVUhqZB+08RVp9481L4Y8wzOOLE4TtsSqEkAQ=",
+          "cp36"
+        ],
+        "genie-20.10.1b0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "0eisUBYbYiljdP6TJbnfPeB/ozWljnKP9vnRbTvNQbo=",
+          "cp36"
+        ],
+        "genie-20.10.1b0-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "aRoHTdsPCAFHPu+oG/482GvoHs3ATz83qGMcJhZSUAo=",
+          "cp37"
+        ],
+        "genie-20.10.1b0-cp37-cp37m-manylinux1_i686.whl": [
+          "j4sKH/imhCtsZ6/umVaP5hUBCbDP5qOqD6V1W3zrbU8=",
+          "cp37"
+        ],
+        "genie-20.10.1b0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "wrpyKM9K8engFCxI3U+hzEgWoOLpwcNuvvov3Cnr4BE=",
+          "cp37"
+        ],
+        "genie-20.10.1b0-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "twzXBIzJkVDkFEXRSUQjwh4JA7DypFHLqk+N9vhDYVo=",
+          "cp38"
+        ],
+        "genie-20.10.1b0-cp38-cp38-manylinux1_i686.whl": [
+          "mBi3HL6wm+EZdrb5EYyJDzqyctywhBawcVWdWLCSDLk=",
+          "cp38"
+        ],
+        "genie-20.10.1b0-cp38-cp38-manylinux1_x86_64.whl": [
+          "BelS34HBJKwOSzgVJ0FbSBk0m462upocLvrgNjTFSRY=",
           "cp38"
         ]
       }
@@ -70791,6 +70845,10 @@
         "topalias-1.2.13-py2.py3-none-any.whl": [
           "+pypU8emxCeE8BvM3mjoEGM2LpsqymP+46zxOaa7dB4=",
           "py2.py3"
+        ],
+        "topalias-1.2.13-py3-none-any.whl": [
+          "zIm6JSDEQYV+Tp37RPEYGxDgsgLRcmfm8Z/u9+rSiYA=",
+          "py3"
         ]
       }
     },

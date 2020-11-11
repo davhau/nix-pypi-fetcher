@@ -1675,6 +1675,20 @@
       ]
     }
   },
+  "androidtestinglibrary": {
+    "1.0.0": {
+      "sdist": [
+        "x+15cZToDGH6GKT3NYDIuwru5W2ILuikujn9RV52MNo=",
+        "AndroidTestingLibrary-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "AndroidTestingLibrary-1.0.0-py3-none-any.whl": [
+          "5RQ/pSpH56upy7ccgba+N6hPsbOOLluWAiXnmUWzd4k=",
+          "py3"
+        ]
+      }
+    }
+  },
   "animatedledstrip-client": {
     "0.6": {
       "sdist": [
@@ -3324,18 +3338,6 @@
       "wheels": {
         "aws_cdk.aws_detective-1.72.0-py3-none-any.whl": [
           "t3uOdyNe2jYeZwDHktUoRotWqbfpY8mGVaq09V09ozU=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.0a0": {
-      "sdist": [
-        "Q1zwDinarNSsD0p18PMG+36RCj1QofJ5HF8kddddyIM=",
-        "aws-cdk.aws-detective-2.0.0a0.tar.gz"
-      ],
-      "wheels": {
-        "aws_cdk.aws_detective-2.0.0a0-py3-none-any.whl": [
-          "j0M128Em/j0XNR7q440UJFF6444uKBjifDewYuACkT4=",
           "py3"
         ]
       }
@@ -9898,6 +9900,18 @@
       "wheels": {
         "chewBBACA-2.5.5-py3-none-any.whl": [
           "QsIf8xB+Tsh8Zojxc9lx2QjHzU6j+Zpfx0khBXtutpg=",
+          "py3"
+        ]
+      }
+    },
+    "2.5.6": {
+      "sdist": [
+        "kXT0qCWvdcA8kg1wQavEDErFLBC82we+NvKvUOByziw=",
+        "chewBBACA-2.5.6.tar.gz"
+      ],
+      "wheels": {
+        "chewBBACA-2.5.6-py3-none-any.whl": [
+          "kvPBToFGjA4S8FwKBuDdhRFuDQk0Oke0oCUsMbONBFg=",
           "py3"
         ]
       }
@@ -35723,6 +35737,54 @@
         "msvc_runtime-14.27.29016-pp370-pp370-win32.whl": [
           "tc/Z3pCUNiV5kPiwS5bFK4gg6JadXD/gHGJo04KHyfs=",
           "pp370"
+        ]
+      }
+    },
+    "14.28.29325": {
+      "wheels": {
+        "msvc_runtime-14.28.29325-cp35-cp35m-win32.whl": [
+          "rWHF3hj68V3CN/NPyAtpLd87JSb4P2Z824mhOuwW4tM=",
+          "cp35"
+        ],
+        "msvc_runtime-14.28.29325-cp35-cp35m-win_amd64.whl": [
+          "ifwP9f55Bvkm06r92lJicOIpwt2JELvmUL6JQPGGJ2w=",
+          "cp35"
+        ],
+        "msvc_runtime-14.28.29325-cp36-cp36m-win32.whl": [
+          "zZLK1cQU/cMgKG67cZQKD6ekqprdwYZ+5FOHEd9iBQI=",
+          "cp36"
+        ],
+        "msvc_runtime-14.28.29325-cp36-cp36m-win_amd64.whl": [
+          "OOdX9EOra6gEdvl/Y6MYQlD1SVxCxX0VRTGPwcrcKfA=",
+          "cp36"
+        ],
+        "msvc_runtime-14.28.29325-cp37-cp37m-win32.whl": [
+          "NTnmd71EtO0R88oun5R/PCnIWedkHFLXziredhaaD0Y=",
+          "cp37"
+        ],
+        "msvc_runtime-14.28.29325-cp37-cp37m-win_amd64.whl": [
+          "aUgDK2Ik4ZR5giUdlxzsRTf4977oCYxe6bX8BFbZVhk=",
+          "cp37"
+        ],
+        "msvc_runtime-14.28.29325-cp38-cp38-win32.whl": [
+          "uXw83mQ+Bovd+sgyybswCQwom6vgjo1MuAmWINpBlYc=",
+          "cp38"
+        ],
+        "msvc_runtime-14.28.29325-cp38-cp38-win_amd64.whl": [
+          "zt/fZKyofgE81Nm1UTqOHDeo46jKvdAsHN+iDyoSI4U=",
+          "cp38"
+        ],
+        "msvc_runtime-14.28.29325-cp39-cp39-win32.whl": [
+          "GJhxYVqE3a9uu/SOsCYetCtFGA8xY52uZqVf0oktOOA=",
+          "cp39"
+        ],
+        "msvc_runtime-14.28.29325-cp39-cp39-win_amd64.whl": [
+          "abrGBvbzfZZhlPd6+a3Diw4EKI1AkX6TxvGVt2H7E2w=",
+          "cp39"
+        ],
+        "msvc_runtime-14.28.29325-pp37-pypy37_pp73-win32.whl": [
+          "d3fTvTAgtELsN+xBMkvpSvb0aVMmVJaumBwBCoi7lus=",
+          "pp37"
         ]
       }
     }
@@ -63346,14 +63408,14 @@
     }
   },
   "terranet": {
-    "0.2.0": {
+    "0.2.1": {
       "sdist": [
-        "bBg0vKfyN3cbZEkTWeoZQ6PjdJ+HLk/9jzG0ThEcLE8=",
-        "terranet-0.2.0.tar.gz"
+        "3Bbidv/m/HJEjD/3NmEIgK2X9NRjjFZqdgycYRmMrnk=",
+        "terranet-0.2.1.tar.gz"
       ],
       "wheels": {
-        "terranet-0.2.0-py3-none-any.whl": [
-          "Es3AfpRaEZgiR+Ucf/O2abxGAxJT+tH92YCy66YJBfo=",
+        "terranet-0.2.1-py3-none-any.whl": [
+          "djKWz+nlo0emHXpqsHUvXrTLsphRTX36/UTZxEKZkdo=",
           "py3"
         ]
       }
