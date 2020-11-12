@@ -3341,6 +3341,18 @@
           "py3"
         ]
       }
+    },
+    "1.73.0": {
+      "sdist": [
+        "vUsyZgpYTpRksewcxZ101bdAhx9UKxDbkjBkvXfiRbM=",
+        "aws-cdk.aws-detective-1.73.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_detective-1.73.0-py3-none-any.whl": [
+          "Mq+CJn9qUkJECHKlkqlVUx/Ws2uCYtYdzIkDmuZdSnE=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-pypi-practice": {
@@ -3492,6 +3504,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_events_rule_sqs-1.72.0-py3-none-any.whl": [
           "upyomzPGA4u+65mN72Iq5A1aAxHcJW6M8KAKXxkHFao=",
+          "py3"
+        ]
+      }
+    },
+    "1.73.0": {
+      "sdist": [
+        "t/LG2R5d412OqspgLCJYOhjhtrSr8Yvd/zhRKDBttfI=",
+        "aws-solutions-constructs.aws-events-rule-sqs-1.73.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_events_rule_sqs-1.73.0-py3-none-any.whl": [
+          "5fnnbyvmWl2lBKj46C8Ox50cupeTZYUgVxP0dObgvy4=",
           "py3"
         ]
       }
@@ -8766,6 +8790,18 @@
       "wheels": {
         "campbot-1.3.1-py3-none-any.whl": [
           "0/0fCpva+JCKXVGQk1ANFd6WJtWhOKKgQIXq0lWy81E=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.2": {
+      "sdist": [
+        "tzUbAvMibIQdDxGQOuKEDsS2XFyjQaWXMwjEYlhbJBQ=",
+        "campbot-1.3.2.tar.gz"
+      ],
+      "wheels": {
+        "campbot-1.3.2-py3-none-any.whl": [
+          "g6UGfHgh3I4pYo2a8rpi/I1Z12iSKBwTSpGO6ACn6IU=",
           "py3"
         ]
       }
@@ -20394,11 +20430,67 @@
     }
   },
   "enoki": {
-    "0.2.0.dev0": {
+    "0.2.0.dev1": {
       "wheels": {
-        "enoki-0.2.0.dev0-cp38-cp38-manylinux2014_x86_64.whl": [
-          "APUGowJyp5EGxpjCSHm9GYbHiyx3zbxFUPI/Pqa3Rso=",
+        "enoki-0.2.0.dev1-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "uVhT9gKLaXPDGnr39NHLCGcl7b0WogB67KADEBZBdBU=",
+          "cp35"
+        ],
+        "enoki-0.2.0.dev1-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "6nJ2TigIfUnyGSCbMVkfqivneA1S3yvzu9YtteRR244=",
+          "cp35"
+        ],
+        "enoki-0.2.0.dev1-cp35-cp35m-win_amd64.whl": [
+          "Uu16LofjOGg5zBkfbzZloKnPseFNW2dgBP+1hIHUENg=",
+          "cp35"
+        ],
+        "enoki-0.2.0.dev1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "TEtVEF+HMTDgPce2ZIVasKZndzGQIB08I//rMsSzv34=",
+          "cp36"
+        ],
+        "enoki-0.2.0.dev1-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "o0LEyQph4OJP8pQKprpQHaOW5CQ4Dze4uPYRao/cN88=",
+          "cp36"
+        ],
+        "enoki-0.2.0.dev1-cp36-cp36m-win_amd64.whl": [
+          "QkuKPp/iERFCIrkhcD5ZbjZGZXwwBGWUE5w4G4hxShA=",
+          "cp36"
+        ],
+        "enoki-0.2.0.dev1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "a8hMTUT/Iawo65A826P7jpom2XM5NooMd47+o09Dag4=",
+          "cp37"
+        ],
+        "enoki-0.2.0.dev1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "E6nYpd6q/tjUbpfx41G9DSeb491s9gGMDsoaX9qXwd8=",
+          "cp37"
+        ],
+        "enoki-0.2.0.dev1-cp37-cp37m-win_amd64.whl": [
+          "jWYvFQj0f1VfaVmIfwXEVTKy/J4S3EhqFwQuJrkze7s=",
+          "cp37"
+        ],
+        "enoki-0.2.0.dev1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "GCqehgs4MzWPezcZug+8tAXIBfcw9/rz6C5bIsFZvqw=",
           "cp38"
+        ],
+        "enoki-0.2.0.dev1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "hCAwsIyN2NL7dtilL/Rh6Ow7NK+hlTQyJTGwJkjPDPw=",
+          "cp38"
+        ],
+        "enoki-0.2.0.dev1-cp38-cp38-win_amd64.whl": [
+          "lVndFXgV0GlnSbdUKdcielifxiP91j9+bn3rNwbtEpg=",
+          "cp38"
+        ],
+        "enoki-0.2.0.dev1-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "ePCHBjkRwfNCvMIXrs1NtA4c6CON7t21MUl4M7VMqpg=",
+          "cp39"
+        ],
+        "enoki-0.2.0.dev1-cp39-cp39-manylinux2014_x86_64.whl": [
+          "ghQu5wl3zd7Vh5Z6o5G7tEJIgzvKmDewRX31krUGGwE=",
+          "cp39"
+        ],
+        "enoki-0.2.0.dev1-cp39-cp39-win_amd64.whl": [
+          "zoQVxQarDsBPrXMFBOay9c6f1oJZm7fPLiJNuqTQlyU=",
+          "cp39"
         ]
       }
     }
@@ -58841,6 +58933,14 @@
           "py3"
         ]
       }
+    },
+    "2.5": {
+      "wheels": {
+        "spindrift-2.5-py3-none-any.whl": [
+          "SjZkBfOPpRIfahfF+lCODMR+jDBF+M5K0VoOtJ9A598=",
+          "py3"
+        ]
+      }
     }
   },
   "split-query": {
@@ -65194,6 +65294,18 @@
       "wheels": {
         "trytond_product_cost_history-5.6.0-py3-none-any.whl": [
           "pSUoNihYAHjrBNrzB9Z2BRwdt/qw5j/P5p6O6DA+0cQ=",
+          "py3"
+        ]
+      }
+    },
+    "5.6.1": {
+      "sdist": [
+        "cRO6xBwIzpssZYUxQubmenh0m3cQRmkBgzJ1ZcQuhDY=",
+        "trytond_product_cost_history-5.6.1.tar.gz"
+      ],
+      "wheels": {
+        "trytond_product_cost_history-5.6.1-py3-none-any.whl": [
+          "kM0303fpHPJgcBSbGGvSwrYNqazAWoPuPGjnU2L4jrA=",
           "py3"
         ]
       }

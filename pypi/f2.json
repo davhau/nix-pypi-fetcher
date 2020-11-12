@@ -3280,6 +3280,18 @@
         ]
       }
     },
+    "1.5.0": {
+      "sdist": [
+        "hyrfp2Cy791iWVZZsoPeupLUe3pnVX65/0jwtdBO45Y=",
+        "azure-identity-1.5.0.zip"
+      ],
+      "wheels": {
+        "azure_identity-1.5.0-py2.py3-none-any.whl": [
+          "FXWXLRn+ZlElZVSyvkwAnSyZbQ6G+4q0sKEMwe4u+Ao=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.5.0b1": {
       "sdist": [
         "ygybJQig+9Yv3OSGvHBkoMUGf2nf5Qmf9C0oUfHjiKI=",
@@ -27856,6 +27868,18 @@
       "wheels": {
         "ibis_framework-1.3.0-py3-none-any.whl": [
           "FrrZ6OBypdk0cQuia4LM1r3JBha+4LbZF+hXTJIue5E=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.0": {
+      "sdist": [
+        "6zPg087Tq+z33ejnzxWbI1BI6ynuB1LegpWA9M/G5B0=",
+        "ibis-framework-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "ibis_framework-1.4.0-py3-none-any.whl": [
+          "XQlAjzqP85S3evmOB82DEl77eGKmaKiy+f7CZFzibqI=",
           "py3"
         ]
       }
@@ -53327,10 +53351,6 @@
   },
   "roboticstoolbox-python": {
     "0.6.0": {
-      "sdist": [
-        "yiuTqurTaBOXLMZJRNOiv6vyJin1hSSJOVa4/kPHdag=",
-        "roboticstoolbox-python-0.6.0.tar.gz"
-      ],
       "wheels": {
         "roboticstoolbox_python-0.6.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
           "3penrCBqMsq6cGk9yv1oY0D2JL5DQs7RT0wVp4Q/oms=",
@@ -53354,6 +53374,62 @@
         ],
         "roboticstoolbox_python-0.6.0-cp38-cp38-win_amd64.whl": [
           "BpbahRLEVxeH/4xiU2gJbtr8HM3DnS6deV/6ElKbJpg=",
+          "cp38"
+        ]
+      }
+    },
+    "0.6.1": {
+      "sdist": [
+        "ScbUJR/qzw6g4HXgCsYHOT1f42idynih55rpQuhkA98=",
+        "roboticstoolbox-python-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "roboticstoolbox_python-0.6.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "eRZLl/lptITVWOMb+bDjuC2gtXYludrW2Eue7i/tuIY=",
+          "cp36"
+        ],
+        "roboticstoolbox_python-0.6.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "CKckDguK9LDcS8IF+th6wv0qDickIDOlV+zi4Q4eY94=",
+          "cp36"
+        ],
+        "roboticstoolbox_python-0.6.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "iI59VRfMz8n8WlxN/tsSPfYngdpAFu3whx0nKILN2rM=",
+          "cp36"
+        ],
+        "roboticstoolbox_python-0.6.1-cp36-cp36m-win_amd64.whl": [
+          "vwFHwfdzdbVwI0+gFTz4x3zuHUG2irXpyS5UfYEs7lg=",
+          "cp36"
+        ],
+        "roboticstoolbox_python-0.6.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "HV65ASUzIxN7kWuEhGMS8M3NjN3M+LkkT7KdbE/2yiM=",
+          "cp37"
+        ],
+        "roboticstoolbox_python-0.6.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "DVirzfKbKF/UaJitGLVt0JOSsmom8rVr+fjLcBxl9uY=",
+          "cp37"
+        ],
+        "roboticstoolbox_python-0.6.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "x3SfzRdkuZoQZ8+Z3ALKe1JL/SmP4ZHqSnX7+zobmig=",
+          "cp37"
+        ],
+        "roboticstoolbox_python-0.6.1-cp37-cp37m-win_amd64.whl": [
+          "Gnzx5LkE/G37ejLPqVZbpIOATdPoCTk2mGyXCbt5LF0=",
+          "cp37"
+        ],
+        "roboticstoolbox_python-0.6.1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "kRPyd8JUCfBUVm3T0L528w0Xx234PQ1Swb1HSr7WSzo=",
+          "cp38"
+        ],
+        "roboticstoolbox_python-0.6.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "mnYx7901Ot36yEFWGpjPaGbuPMVBKUw6nsZ6c7h89w0=",
+          "cp38"
+        ],
+        "roboticstoolbox_python-0.6.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "OC+tawjVYrJaoFx6irL17vFEc07DfLCdacdZOXD9Hcw=",
+          "cp38"
+        ],
+        "roboticstoolbox_python-0.6.1-cp38-cp38-win_amd64.whl": [
+          "LFKAl0WU5BecrGqFDgDMcJtmIQIN7GbRoEYXUy0t8zc=",
           "cp38"
         ]
       }

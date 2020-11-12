@@ -4868,6 +4868,18 @@
         ]
       }
     },
+    "1.1.26": {
+      "sdist": [
+        "soZiOK6l10ks+wKC/IuNX20G+0M4cjRYZNRXU8ELbk8=",
+        "azure-common-1.1.26.zip"
+      ],
+      "wheels": {
+        "azure_common-1.1.26-py2.py3-none-any.whl": [
+          "rNJrKts+oZLXZrTwg4BSh9oICtx/MWzn5S7w6pF/vjE=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.1.3": {
       "sdist": [
         "+q12BasczrcT/+rC9rz6JXWn6EHFZk6bn+LT84n4In4=",
@@ -5588,6 +5600,18 @@
       "wheels": {
         "babelfont-0.3.0-py3-none-any.whl": [
           "Fvl6iQeYh7wLmGKdyyFdjVKSV724A47uZPyEfa5XSL0=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "ztRAsMsBW8nhA3a6QXX+jzF0AbuJRbbepXTD2b0j3xQ=",
+        "babelfont-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "babelfont-0.4.0-py3-none-any.whl": [
+          "LTUGKErvHgD8XT9cFB0/vWTi4j6gOrK+exzT8xj6I/0=",
           "py3"
         ]
       }
@@ -6332,6 +6356,12 @@
       "sdist": [
         "YaI/nxxluyvtsJL8o4SiMj6AO+H/cJ2jj3bas0sqqH0=",
         "bugtrackingsmells-0.1.10.tar.gz"
+      ]
+    },
+    "0.1.11": {
+      "sdist": [
+        "ytCXf91tRsKf/1w4faHA1wnbfDvzmLimDQw8zb3oVGE=",
+        "bugtrackingsmells-0.1.11.tar.gz"
       ]
     },
     "0.1.2": {
@@ -19135,25 +19165,69 @@
       ]
     },
     "1.3.8.post2": {
+      "sdist": [
+        "WMCBAxdKOcrMDMAe7pOkM7Q4L76FFGpieYZXDTsqt5s=",
+        "edlib-1.3.8.post2.tar.gz"
+      ],
       "wheels": {
         "edlib-1.3.8.post2-cp35-cp35m-macosx_10_9_x86_64.whl": [
           "0+KIkMFWs+35BZtu9RatIIBNRF4P8Fnj9klgSHmBTMI=",
+          "cp35"
+        ],
+        "edlib-1.3.8.post2-cp35-cp35m-manylinux1_x86_64.whl": [
+          "6H2S4BmPSKQsN4TawocOypsxl+rKQm0NZZBqe9P29qY=",
+          "cp35"
+        ],
+        "edlib-1.3.8.post2-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "u+JQ4BsDcEK/H+GbXvUITPMwOrnVwQe69B0XgVRDDj0=",
           "cp35"
         ],
         "edlib-1.3.8.post2-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "/1Pl3UUT+imxZg271KkvMsxYrMEFgkpmctqmimpt/64=",
           "cp36"
         ],
+        "edlib-1.3.8.post2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "7+cSZ+K4E15r30aDlXZzJvlOpXZDiiZk9+ZBnbdVp1g=",
+          "cp36"
+        ],
+        "edlib-1.3.8.post2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "XPmc2ExPSRqlWGztCY9EtEwnzFaZJbuk1WtdSUFG99M=",
+          "cp36"
+        ],
         "edlib-1.3.8.post2-cp37-cp37m-macosx_10_9_x86_64.whl": [
           "Mwlvh23QqqCtNsPuhV3x0nssqEml5ltEtQTU602v4/o=",
+          "cp37"
+        ],
+        "edlib-1.3.8.post2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "DyoC+k8Z5Cc5qlm6NvswxZLMeDlgwGNIrvRTNSFjQD4=",
+          "cp37"
+        ],
+        "edlib-1.3.8.post2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "Jq8Qdf2Pb++ZDNbOEcSXYXCsCJOx5D7+O5/0xhPYH4M=",
           "cp37"
         ],
         "edlib-1.3.8.post2-cp38-cp38-macosx_10_9_x86_64.whl": [
           "/39o/SFx/kWJiI/L+694pVLIgIeHzw87+XUW/BwWFK4=",
           "cp38"
         ],
+        "edlib-1.3.8.post2-cp38-cp38-manylinux1_x86_64.whl": [
+          "H4uhImXNFSGgSIgL3XoabUwMy8L9G0G2AJ1KVV25YeY=",
+          "cp38"
+        ],
+        "edlib-1.3.8.post2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "GTcBofDLeFvB4nCBpg2UMfZCDHvMy/pq5Vg0H0narmk=",
+          "cp38"
+        ],
         "edlib-1.3.8.post2-cp39-cp39-macosx_10_9_x86_64.whl": [
           "/YbReF8EykUBinZghmo6N3XjNeBEXy2fMQ6lhWldBeY=",
+          "cp39"
+        ],
+        "edlib-1.3.8.post2-cp39-cp39-manylinux1_x86_64.whl": [
+          "ILZ0ajrsNmXPKyynAFPl8NgbR9SNpKAJZe+aPQByT3U=",
+          "cp39"
+        ],
+        "edlib-1.3.8.post2-cp39-cp39-manylinux2010_x86_64.whl": [
+          "zmBxTiNHK5HN1fQcGb33J3EdbRtlnT/zbxaoUyqFax0=",
           "cp39"
         ]
       }
@@ -35060,6 +35134,18 @@
       "wheels": {
         "mypy_boto3_inspector-1.16.15.0-py3-none-any.whl": [
           "stNBF65wL27ZwV3KrGmenk9S/doCHIpaXm133tjZFac=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.16.0": {
+      "sdist": [
+        "gQL/foQ4ez5J5lwPoCyviVnXYpmusPE6ZpYK/Kx6ibE=",
+        "mypy-boto3-inspector-1.16.16.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_inspector-1.16.16.0-py3-none-any.whl": [
+          "YQa9oPG3ZS+ikRwxHqRrznnppesyKHXvxelCpy19Ivo=",
           "py3"
         ]
       }
@@ -52218,10 +52304,10 @@
     }
   },
   "raha": {
-    "1.23": {
+    "1.24": {
       "sdist": [
-        "QGov1ZREDKO+EAxGqudQ1nIOWg5GT43L5j+jwDcg2gA=",
-        "raha-1.23.tar.gz"
+        "oN3NMlf8VYgGGkhvfzk2C++KM5jhj+MN7nbo97iQN3A=",
+        "raha-1.24.tar.gz"
       ]
     }
   },
