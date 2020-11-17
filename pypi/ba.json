@@ -3916,6 +3916,18 @@
         ]
       }
     },
+    "1.74.0": {
+      "sdist": [
+        "FEuuNukDpmz8C0lv1IoiJWg6bx5NmkRT6D+n6zu+PNU=",
+        "aws-cdk.aws-cloudtrail-1.74.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudtrail-1.74.0-py3-none-any.whl": [
+          "chW4y/Oj9hULDdzeWF6OWtis7GWaxquPoK1/0hZ6qSM=",
+          "py3"
+        ]
+      }
+    },
     "1.8.0": {
       "sdist": [
         "m9YzU6ihr8YWlf5CM3jkhmSas6b6XLligGJdTBvLeFw=",
@@ -5210,6 +5222,18 @@
       "wheels": {
         "aws_cdk.aws_ecs-1.73.0-py3-none-any.whl": [
           "6djhldhnM3sJ21TVYPf1htMeArjFJtXi93mU0eYlTaY=",
+          "py3"
+        ]
+      }
+    },
+    "1.74.0": {
+      "sdist": [
+        "bpKuqb8vbYIAtIWLycOWItVlxSAHxdd0CokmLDl9DIc=",
+        "aws-cdk.aws-ecs-1.74.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ecs-1.74.0-py3-none-any.whl": [
+          "fNMBPhY0f/ZXKWpB8jFSt3o5icFW2NFSIcdhY2T0eqg=",
           "py3"
         ]
       }
@@ -13652,6 +13676,18 @@
       "wheels": {
         "dbnd_airflow-0.30.0-py2.py3-none-any.whl": [
           "F26rggkKIEjSeAGANjl19VbML5wvcslsXUR22Kf1ck0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.30.1": {
+      "sdist": [
+        "u0K8zhKh5uXR7lPsvZEfViYzC/l99cbq92e0GmtQ9YA=",
+        "dbnd-airflow-0.30.1.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.30.1-py2.py3-none-any.whl": [
+          "WimORBUclQxKSWd16DW7i46tvEmd3J5kbtUoD0v+yYY=",
           "py2.py3"
         ]
       }
@@ -35225,6 +35261,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.7": {
+      "sdist": [
+        "CEC+Nd4rSiwtIhypUsQdUsRAswQtGXyXHC1SYRVlIMo=",
+        "mb-dev-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "mb_dev-0.1.7-py3-none-any.whl": [
+          "nWHRbBihDgKcxgMBPyZR9KkzXyj5dSWM+6NB2WLCXuY=",
+          "py3"
+        ]
+      }
     }
   },
   "mcav": {
@@ -39238,6 +39286,18 @@
       "wheels": {
         "mlcommons_box_docker-0.2.2-py3-none-any.whl": [
           "lr4gMl3f4AhxRNrjY8233CBihkyqZcwhizPFPXREC4c=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "bz0Szacb/XTO+HyGXiI5cKjAZNR8lnzNTxN3x2Y0QVY=",
+        "mlcommons_box_docker-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "mlcommons_box_docker-0.2.3-py3-none-any.whl": [
+          "l/wOjDi7RUohosZW5Un6C8PLpT1v+XLqqjtOrAwdhfw=",
           "py3"
         ]
       }
@@ -82694,12 +82754,44 @@
           "7a5KEcXRCPpWVSnO9gWqoheZyf35qFWjMTSelRwabW4=",
           "cp36"
         ],
+        "tf_nightly-2.5.0.dev20201116-cp36-cp36m-win_amd64.whl": [
+          "W15+qA8xDc/OPgaL1/oxgUcC2CIRYPhct5hhjg6wy2I=",
+          "cp36"
+        ],
         "tf_nightly-2.5.0.dev20201116-cp37-cp37m-manylinux2010_x86_64.whl": [
           "8nrEl/5vQWfzeZ5qUEjJpXezun+4pkL38KA94W1DUdo=",
           "cp37"
         ],
+        "tf_nightly-2.5.0.dev20201116-cp37-cp37m-win_amd64.whl": [
+          "K6f2iWISQgFvvhmBUniGbeb1WAziydjZmE7WifGUi9c=",
+          "cp37"
+        ],
         "tf_nightly-2.5.0.dev20201116-cp38-cp38-manylinux2010_x86_64.whl": [
           "g8IIjoXJICU9r5HSX9MtiDD7InF0wmAYSPYOwcJIBzg=",
+          "cp38"
+        ],
+        "tf_nightly-2.5.0.dev20201116-cp38-cp38-win_amd64.whl": [
+          "8UsJif0JgQnWKNcGWvmmYcZgLKt5bnnaczy8WZbKufw=",
+          "cp38"
+        ]
+      }
+    },
+    "2.5.0.dev20201117": {
+      "wheels": {
+        "tf_nightly-2.5.0.dev20201117-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "E6COeA5uHusFy4sAisWWH0raDoAmDNtsyqFzm8mnVV8=",
+          "cp36"
+        ],
+        "tf_nightly-2.5.0.dev20201117-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "Yesxprot68XCXqRyhwdZPZNoOO8N6LpjsXeCC9P7Lqc=",
+          "cp37"
+        ],
+        "tf_nightly-2.5.0.dev20201117-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "asvQdKinS2ObXpeFPVTy17FxBJJotSDpc9oRdRvULls=",
+          "cp37"
+        ],
+        "tf_nightly-2.5.0.dev20201117-cp38-cp38-manylinux2010_x86_64.whl": [
+          "0rjlCec8FKHm2AotSlv9ohAul8gaxUm8v0yoA6hYO74=",
           "cp38"
         ]
       }
