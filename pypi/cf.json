@@ -10619,6 +10619,34 @@
           "cp38"
         ]
       }
+    },
+    "0.4.7a0": {
+      "sdist": [
+        "xYehF+s2+lnmPjgOQAnB41Hwv6P3rhvN0T9QJWK1W1A=",
+        "cellfinder-0.4.7a0.tar.gz"
+      ],
+      "wheels": {
+        "cellfinder-0.4.7a0-cp37-cp37m-win_amd64.whl": [
+          "Vu4oBo0hS13mCzaqzNqZ7VISRL/edN1CpnpwkmZF/Y8=",
+          "cp37"
+        ],
+        "cellfinder-0.4.7a0-cp38-cp38-win_amd64.whl": [
+          "xsRKt8JPdNPRIB+1ZIFAn2yALyooSXeONw+kaxOhW2o=",
+          "cp38"
+        ]
+      }
+    },
+    "0.4.7b0": {
+      "wheels": {
+        "cellfinder-0.4.7b0-cp37-cp37m-win_amd64.whl": [
+          "7ent/yOPNr5Vgm3gTLLQ64mw9Y1oCGKmhjxqmNotlgk=",
+          "cp37"
+        ],
+        "cellfinder-0.4.7b0-cp38-cp38-win_amd64.whl": [
+          "SGKieWzUUVuXLDr9ENCz/bMfxIaMMc7zcTorXnJkWrc=",
+          "cp38"
+        ]
+      }
     }
   },
   "cepmex": {
@@ -19333,6 +19361,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.30.4": {
+      "sdist": [
+        "oS0ux816sADzwaG8NcsRWbyaJHM5cEerFZPPqz3BAYY=",
+        "dbnd-azure-0.30.4.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_azure-0.30.4-py2.py3-none-any.whl": [
+          "aZntEgZleqJ+vjiIH258lXcmDXeJIT/YnRgWVuqIRnU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "dbservice": {
@@ -19388,6 +19428,12 @@
       "sdist": [
         "c10QoRog0s+RBV9k3zsI956Uvd/oAMsyHUEVqzBmhUE=",
         "DBService-1.8.1.tar.gz"
+      ]
+    },
+    "1.8.2": {
+      "sdist": [
+        "IooKKHRhTn94O/dH7Rda9qaOXmecaa3eHBQPcEiAplo=",
+        "DBService-1.8.2.tar.gz"
       ]
     }
   },
@@ -21736,6 +21782,26 @@
         ],
         "dgl_cu102-0.6a201120-cp38-cp38-manylinux1_x86_64.whl": [
           "jTTvKac9SfiAvO6jaqHjy6L/qHGaTgq8y2oTuHhvLCM=",
+          "cp38"
+        ]
+      }
+    },
+    "0.6a201123": {
+      "wheels": {
+        "dgl_cu102-0.6a201123-cp35-cp35m-manylinux1_x86_64.whl": [
+          "qwDo/LJ8Zgbutm0yp9ca1JhijnAMHaPb10kVSu8m+m0=",
+          "cp35"
+        ],
+        "dgl_cu102-0.6a201123-cp36-cp36m-manylinux1_x86_64.whl": [
+          "XJ0jDczT6H3znppXZ361cBy2PtHbj904OkLPQwtKJEw=",
+          "cp36"
+        ],
+        "dgl_cu102-0.6a201123-cp37-cp37m-manylinux1_x86_64.whl": [
+          "qtpTcQU+UNznHsxLY/BR8WBDo7z0jiqlrEJ5pfgG5q4=",
+          "cp37"
+        ],
+        "dgl_cu102-0.6a201123-cp38-cp38-manylinux1_x86_64.whl": [
+          "cMutMTYskktcnobhoMADTCyeGv4vVYwDp9CHCZwDSjs=",
           "cp38"
         ]
       }
@@ -28060,14 +28126,38 @@
     }
   },
   "fastener": {
-    "1.0.0": {
+    "1.0.1": {
       "sdist": [
-        "zmI+4UbrCrz5hNGltZEiZyhYg3WVsqBbIWjq2au66ig=",
-        "fastener-1.0.0.tar.gz"
+        "m51IIpW0lmIQCqTIx8TjQW7uosBi8nadH5zFR/Y83nU=",
+        "fastener-1.0.1.tar.gz"
       ],
       "wheels": {
-        "fastener-1.0.0-py3-none-any.whl": [
-          "fFZdlHJjlVUzIhSiQ6CzYgSKRRrg4HI7pBlsYF2rtVs=",
+        "fastener-1.0.1-py3-none-any.whl": [
+          "jtlf4bxO4JyirMlRhadKuM3M5VTPPzxXN2Rkk3Jx4n4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "aFNWWw4WxueqBl0307s3snxz/LvZqBEvql4ddDh3hzo=",
+        "fastener-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "fastener-1.0.2-py3-none-any.whl": [
+          "GHuXblIDsxl97pYiD+SmA2GUjIHTNE6yTMq0SvE/Oro=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "gGptemwZjgfpFGujZaUX9E/nApwBZfWZIvrdrtuuN28=",
+        "fastener-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "fastener-1.0.3-py3-none-any.whl": [
+          "kq4XQxrknZYmGn+YS+7ac889jIh/ej397sLvb51R6VE=",
           "py3"
         ]
       }
@@ -35038,6 +35128,14 @@
       "wheels": {
         "inte_edc-0.1.54-py3-none-any.whl": [
           "wI8dHGCnFiA6PszRkNJcD0XXL02EaZv0uHprlQyBaCI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.55": {
+      "wheels": {
+        "inte_edc-0.1.55-py3-none-any.whl": [
+          "9srF/Kx8vQZy3ph/3hc8eSkMFwieKRvjS0A1Wo8Ilj0=",
           "py3"
         ]
       }
@@ -72385,6 +72483,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.28": {
+      "sdist": [
+        "1FSL23dZGqIZMsf/M5krkdbQCLIKz/EIR6t/+wCJuVY=",
+        "p6-barrier-0.0.28.tar.gz"
+      ],
+      "wheels": {
+        "p6_barrier-0.0.28-py3-none-any.whl": [
+          "MvrD/keOB9RV95ziJ7dpnvDhMoWxzcv5QzaUgPo9XNs=",
+          "py3"
+        ]
+      }
     }
   },
   "padpwn": {
@@ -86313,6 +86423,56 @@
         "room_with_a_view-0.1.4-py2.py3-none-any.whl": [
           "NxQjbgn7tt4lFBiXbRyCq2AxLQPoJlXhXQHlYtYrrtc=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "rory": {
+    "0.2.0": {
+      "sdist": [
+        "V9Av5y+4UHwgqNgfa6Le1uxMG0kwrGSnoIL2WkoX7KE=",
+        "rory-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "rory-0.2.0-py3-none-any.whl": [
+          "cXKqEhgmZy57FfxbY56MhRhlhyC17GtB187rM1Z5F60=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "qfN7SLMZpy/Jdg96ovRlIksYhS33PP/8OAGPIjTjmg4=",
+        "rory-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "rory-0.2.1-py3-none-any.whl": [
+          "LRHHK6idzpOTIgLyQkzFrZFH2pUlCbM/kK9ZfSHoau0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "Uq2H0f4iL9XDLSlF7OdlFWvpxGslsb0fqBXXjq6O8uw=",
+        "rory-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "rory-0.2.2-py3-none-any.whl": [
+          "HYotrCMqDRf+oU9u2hwKp3HPvI94hmivylygyfPlRyI=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "pRdB9+t+CK5pHlABDJCHlHwBgYJ1O9QvfuqC809wTI4=",
+        "rory-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "rory-0.2.3-py3-none-any.whl": [
+          "kwzt+z6OcWeRY2b4YgrB8O7XkyWNdW2vAsqqD1P6DhQ=",
+          "py3"
         ]
       }
     }
