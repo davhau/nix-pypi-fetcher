@@ -9033,6 +9033,14 @@
           "py3"
         ]
       }
+    },
+    "0.8.2": {
+      "wheels": {
+        "deepomatic_oef-0.8.2-py3-none-any.whl": [
+          "pQbrDVHxCLVB2HHO2mNbxqm+FuoMJTtmU1wfpJTgcNs=",
+          "py3"
+        ]
+      }
     }
   },
   "delb": {
@@ -30989,6 +30997,14 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "wheels": {
+        "knowipy-1.0.0-py3-none-any.whl": [
+          "y5JjCY3/dfrnhgNFUBcXnmuT/4btOi4gSxEb8QjjfjE=",
+          "py3"
+        ]
+      }
     }
   },
   "kochat": {
@@ -41594,6 +41610,18 @@
       "wheels": {
         "mypy_boto3_xray-1.16.24.0-py3-none-any.whl": [
           "DxXpuMwhV/W10O08RqmRUL/t3gwg+15M9B32GV1tvjE=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.25.0": {
+      "sdist": [
+        "wGLuAe7zmEGisZT64h7QXM3spyN5FcOnRkd9p+Kn3o8=",
+        "mypy-boto3-xray-1.16.25.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_xray-1.16.25.0-py3-none-any.whl": [
+          "+rBcdNYX4EgZPdPxh3aZfXyZaF2ScBfInzi/GfXKWi0=",
           "py3"
         ]
       }
@@ -52410,6 +52438,12 @@
         "pulumi_alicloud-2.25.0a1604403186.tar.gz"
       ]
     },
+    "2.25.1": {
+      "sdist": [
+        "hI084JXx3bhXQDjC8kLkPXxA9eiLB5P9sYvWylJOXTw=",
+        "pulumi_alicloud-2.25.1.tar.gz"
+      ]
+    },
     "2.26.0a1604929953": {
       "sdist": [
         "ZH8OesmNMmXWTCvbeX/d/Lu4A/o7p6DBqjym1fzfwDM=",
@@ -52420,6 +52454,12 @@
       "sdist": [
         "zD1IQxa4G6MC+QnGDngZ7jbOlGdG/v4ZX267MVMR/2Q=",
         "pulumi_alicloud-2.26.0a1605733747.tar.gz"
+      ]
+    },
+    "2.26.0a1606239610": {
+      "sdist": [
+        "GQmu1U8xFzjAUKNrL0rTyDeEUP1vblIgdnHTt+4zSOo=",
+        "pulumi_alicloud-2.26.0a1606239610.tar.gz"
       ]
     },
     "2.3.0a1588348230": {
@@ -54388,6 +54428,12 @@
       "sdist": [
         "T9fNXSvUg03QVbaE2xhsrP8dP8OLlr5VtBkOZp7Cll8=",
         "pyderman-2.0.0.tar.gz"
+      ]
+    },
+    "2.0.1": {
+      "sdist": [
+        "FO4TZGqHwx/N09Nly9iPVZfdlDhei8VAGCcKdg80C5I=",
+        "pyderman-2.0.1.tar.gz"
       ]
     }
   },
@@ -71633,6 +71679,46 @@
           "cp38"
         ]
       }
+    },
+    "2.4.0rc3": {
+      "wheels": {
+        "tensorflow-2.4.0rc3-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "zNJlFJc22uVfQ4jnLM+pGSmvhfh+6+xHhLQ/osq41PQ=",
+          "cp36"
+        ],
+        "tensorflow-2.4.0rc3-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "+BF5VSV1tSiZ3Z5PC1nrjVj2EPfuWr5TgOiftoH5HGo=",
+          "cp36"
+        ],
+        "tensorflow-2.4.0rc3-cp36-cp36m-win_amd64.whl": [
+          "///Abkr68NJ9FlxEFLpT4aWANI0moEIG7nTg0HdHBFs=",
+          "cp36"
+        ],
+        "tensorflow-2.4.0rc3-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "IAHZgKVSJfCP2KYhvJWksV24QuSL7w01J98Qm7kRrp0=",
+          "cp37"
+        ],
+        "tensorflow-2.4.0rc3-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "xmegrXCFBcXSX8mOqvMNH/yQN32ibOi1dfGYIxDYYE8=",
+          "cp37"
+        ],
+        "tensorflow-2.4.0rc3-cp37-cp37m-win_amd64.whl": [
+          "nl+SrlVHXos5hY07BntGTMYBgieJVRftKsSR2/wbHsA=",
+          "cp37"
+        ],
+        "tensorflow-2.4.0rc3-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "BnGzeujknEToe2xwlgh2Lqw5OOWpV28Wy8GMkERqsG0=",
+          "cp38"
+        ],
+        "tensorflow-2.4.0rc3-cp38-cp38-manylinux2010_x86_64.whl": [
+          "uG/pMrFhf5DzGFICq8JihEu94t0z3hZzuTxewSiJejs=",
+          "cp38"
+        ],
+        "tensorflow-2.4.0rc3-cp38-cp38-win_amd64.whl": [
+          "VhJTh4wiApNfoioG47LttA+7Up1kknxa8fTuQr4vkyo=",
+          "cp38"
+        ]
+      }
     }
   },
   "terminaloverflow": {
@@ -79780,6 +79866,18 @@
       "wheels": {
         "zillionare_omicron-0.2.0-py3-none-any.whl": [
           "jY3XwV30FBtWbPsS3kmY2ecyPFw98Kot8TngR+V1/Bc=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "yStGttBnTqTih5XwqxrWM2ngyQfkeaiu/EwUqeCXXAY=",
+        "zillionare-omicron-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "zillionare_omicron-0.3.0-py3-none-any.whl": [
+          "zbGng27MWLNsxFP3cZ+Pcwb90/DzHqwGDuQ4zakEP/Y=",
           "py3"
         ]
       }

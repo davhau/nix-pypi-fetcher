@@ -11967,6 +11967,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.643": {
+      "sdist": [
+        "77tks3EKA8oTltQJRtZ/idP2dtrshzoAFKxZABRUOFY=",
+        "bridgecrew-1.0.643.tar.gz"
+      ],
+      "wheels": {
+        "bridgecrew-1.0.643-py3-none-any.whl": [
+          "ZMJP9v0yWFk0hIeZ9MwCleb/FntiUhfnUH3yyJaMnvA=",
+          "py3"
+        ]
+      }
     }
   },
   "broomer": {
@@ -18202,6 +18214,18 @@
       "wheels": {
         "dbnd_redshift-0.30.5-py2.py3-none-any.whl": [
           "FK2xPc08Cbl1ulwOWNhw3NEqa296A9d9AMv//gIN7Yo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.30.6": {
+      "sdist": [
+        "C5FxJPtdRZ3bsjPVEZV3S2Q/RRNtVY4JLqwBjFZUzFo=",
+        "dbnd-redshift-0.30.6.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_redshift-0.30.6-py2.py3-none-any.whl": [
+          "/TYiYwO5rqVfFf5GqsMSyOueVdWGb0XfANLzr43MOLk=",
           "py2.py3"
         ]
       }
@@ -26776,6 +26800,12 @@
       "sdist": [
         "x+efKtB6UYeOQU3g5U+K2lfzi81YrbsR4+PuwpnLRXc=",
         "fh-immuta-utils-0.1.0.tar.gz"
+      ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "S+KaXFjkPdKULEaCduEI/Rzm9EYCjtv2wx/Yj7wHm9k=",
+        "fh-immuta-utils-0.2.0.tar.gz"
       ]
     }
   },
@@ -37082,6 +37112,18 @@
         ]
       }
     },
+    "0.12.0": {
+      "sdist": [
+        "6uq8QOiZzlM5XZR1CL9mP3kCOTvVusxqoC0Gv3yIjZ0=",
+        "lightweight-gan-0.12.0.tar.gz"
+      ],
+      "wheels": {
+        "lightweight_gan-0.12.0-py3-none-any.whl": [
+          "oiKUAVal5etL2BTB0tmHpf11ix/zuzq/QzxaCz8s1/Q=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "3dG4QH00F9qh4psRChkOkresfdnecvkJDlj2vnz1QXU=",
@@ -44688,6 +44730,18 @@
       "wheels": {
         "mypy_boto3_acm_pca-1.16.24.0-py3-none-any.whl": [
           "SQc9HOPpQoLbCvfTI2dom+kvwC3win8w1qGL4SVt+TQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.25.0": {
+      "sdist": [
+        "uTkhuX+Wi0R+xCvVeum/U1NHll5TUoenycDWZDW7ziM=",
+        "mypy-boto3-acm-pca-1.16.25.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_acm_pca-1.16.25.0-py3-none-any.whl": [
+          "H/SXeFdyvPyyV8RnJ5+BR3h/SjRqtmVmK+rDR6fbZ88=",
           "py3"
         ]
       }
@@ -74419,6 +74473,46 @@
           "cp38"
         ]
       }
+    },
+    "2.4.0rc3": {
+      "wheels": {
+        "tensorflow_cpu-2.4.0rc3-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "hLzAt1cIjb71m89pDYoeKOuY15jvZFsmvqgGsQlAQVU=",
+          "cp36"
+        ],
+        "tensorflow_cpu-2.4.0rc3-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "dnlZkeTZ4tc8zKp5HZltgjLJPOHlxOy5qUhTFLKw/jU=",
+          "cp36"
+        ],
+        "tensorflow_cpu-2.4.0rc3-cp36-cp36m-win_amd64.whl": [
+          "5Kpw1Mdo1kBoAzEi6cgfuv8InG7vo2MmUO6tUrk34MM=",
+          "cp36"
+        ],
+        "tensorflow_cpu-2.4.0rc3-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "TfaVsxmppsHcdhFapJLta4LfxbF/2o7p9WICcGxNG/0=",
+          "cp37"
+        ],
+        "tensorflow_cpu-2.4.0rc3-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "yYAE5zZ+IKno2dxDLR2CN9ysKCWS0IymZLE5pzUjehQ=",
+          "cp37"
+        ],
+        "tensorflow_cpu-2.4.0rc3-cp37-cp37m-win_amd64.whl": [
+          "0djFhC3Mv3RvGAlyooqvTn+6LLGsBptvDmF1WN/K5Ic=",
+          "cp37"
+        ],
+        "tensorflow_cpu-2.4.0rc3-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "D01sYOQg206wjvIDiCXLndoLARyCyv4YggKAZRqWoSo=",
+          "cp38"
+        ],
+        "tensorflow_cpu-2.4.0rc3-cp38-cp38-manylinux2010_x86_64.whl": [
+          "VwNihRIOOnSqvf4ZJvI8FCOwC3AJYiEhiE+oBp8w4rM=",
+          "cp38"
+        ],
+        "tensorflow_cpu-2.4.0rc3-cp38-cp38-win_amd64.whl": [
+          "Y5SgMjNv+qOFibe/867/AwZexWEuWGabjMwe4BdIH44=",
+          "cp38"
+        ]
+      }
     }
   },
   "testbuilder": {
@@ -76150,6 +76244,18 @@
       "wheels": {
         "tmnt_cu101-0.6.1b20201123-py3-none-any.whl": [
           "qDlgRmhsnC0WES629tLaE7pVV1XpaegUm+7orGqe+GE=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.1b20201124": {
+      "sdist": [
+        "PMLvh23fedfuLIjJadX204Xw5ijMw9eNTuDR0TN6ui0=",
+        "tmnt-cu101-0.6.1b20201124.tar.gz"
+      ],
+      "wheels": {
+        "tmnt_cu101-0.6.1b20201124-py3-none-any.whl": [
+          "12IPpmbU+25EvHVRr8WQSAFU3mt09HBGbYlsl1vrTOc=",
           "py3"
         ]
       }
