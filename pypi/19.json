@@ -633,20 +633,6 @@
       ]
     }
   },
-  "aiuniv": {
-    "1.0.0": {
-      "sdist": [
-        "GuNszmcbGa6C8kYEwAuQDQyDX7Afcm2iqk/c9uj9pNs=",
-        "aiuniv-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "aiuniv-1.0.0-py3-none-any.whl": [
-          "hJyxprvGA4BegB1VIpaKA/QRxapAW9kGmijlhUwPqK8=",
-          "py3"
-        ]
-      }
-    }
-  },
   "alibabacloud-live20161101": {
     "0.0.1": {
       "sdist": [
@@ -22300,28 +22286,10 @@
     }
   },
   "dune-geometry": {
-    "2.8.20201106": {
+    "2.8.0.dev20201126": {
       "sdist": [
-        "Ch4Aj/v9Omoc7xfELAVAxYB5gL0iDb91vy/rfZ8VuJE=",
-        "dune-geometry-2.8.20201106.tar.gz"
-      ]
-    },
-    "2.8.20201108": {
-      "sdist": [
-        "e6J3mlkBXCVkwXoqTZkgms3HT7vh26MFMZjLzfx3e6I=",
-        "dune-geometry-2.8.20201108.tar.gz"
-      ]
-    },
-    "2.8.20201201": {
-      "sdist": [
-        "Ck92SP5xVUd7YGvZ0pCKp5GNO2x2himuXQIIgNa/NkQ=",
-        "dune-geometry-2.8.20201201.tar.gz"
-      ]
-    },
-    "2.8.dev20201120": {
-      "sdist": [
-        "FBxF2+kpvRNR0PpEgpi5Z9lHF9wG04RYrqkgepwuQ8g=",
-        "dune-geometry-2.8.dev20201120.tar.gz"
+        "k156eRBp1eoH5LYrTf86NM0PHeP9AIFbGNNt7NGgpT8=",
+        "dune-geometry-2.8.0.dev20201126.tar.gz"
       ]
     }
   },
@@ -25516,6 +25484,42 @@
       "wheels": {
         "firexkit-3.1-py2.py3-none-any.whl": [
           "rrD8cOpAziBz+mYCPEAZabdBQ5AH1dLVjbP/GQpQrQQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.2": {
+      "sdist": [
+        "R1n//wx1SlyF3e+S3Egn3tPZ+7r7Hrg4Fs9vErDCcm4=",
+        "firexkit-3.2.tar.gz"
+      ],
+      "wheels": {
+        "firexkit-3.2-py2.py3-none-any.whl": [
+          "8a9JOERhEODVNKvVRBbeNWYyJpfoXT78DxKLa8/b9EY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.3": {
+      "sdist": [
+        "oaZFqC+ZkGK9OHfQDUQRxKhEyr+QfBYQEB1o2I/4QC4=",
+        "firexkit-3.3.tar.gz"
+      ],
+      "wheels": {
+        "firexkit-3.3-py2.py3-none-any.whl": [
+          "Fhi/LBGbuKQBRYh8uCLfYjaLZ/WLaVVdg3qs9V4I6ic=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.5": {
+      "sdist": [
+        "+q+EMDQNolhJYzuj5KbN4OQkwl10HcVniEQS15qaY5E=",
+        "firexkit-3.5.tar.gz"
+      ],
+      "wheels": {
+        "firexkit-3.5-py2.py3-none-any.whl": [
+          "hKXNL1Z/DamdyDfleeBxZ/uIbdazjBhlH/O9DqFGS5Y=",
           "py2.py3"
         ]
       }
@@ -29696,196 +29700,10 @@
     }
   },
   "halo-aws": {
-    "0.11.10": {
+    "0.12.1": {
       "sdist": [
-        "+30sWzA/nD2VYctC97y5q42w8jLGYIjWVgXCgn2po9Q=",
-        "halo_aws-0.11.10.tar.gz"
-      ]
-    },
-    "0.11.11": {
-      "sdist": [
-        "G0g8N0EXxDRBaYwmrvbpIsGpTg0ewqyHYBLqY/yam9E=",
-        "halo_aws-0.11.11.tar.gz"
-      ]
-    },
-    "0.11.12": {
-      "sdist": [
-        "tVD1Z5/UPKFbErYDBYdJ2DzlkBtMN4pQ2KaNqveaRtM=",
-        "halo_aws-0.11.12.tar.gz"
-      ]
-    },
-    "0.11.13": {
-      "sdist": [
-        "hS/ZcF0L6+kDl+0FWZkJhePalfxPiqNezzOlNyh67iQ=",
-        "halo_aws-0.11.13.tar.gz"
-      ]
-    },
-    "0.11.14": {
-      "sdist": [
-        "a6yGVLwu+u9z6qYdJUDp2m8v9VLey2aC8hbtHYWZcsQ=",
-        "halo_aws-0.11.14.tar.gz"
-      ]
-    },
-    "0.11.15": {
-      "sdist": [
-        "2JhZRWS3VVsO76mkCLYFwx6rD7QuzURYdULBsk+BX7g=",
-        "halo_aws-0.11.15.tar.gz"
-      ]
-    },
-    "0.11.16": {
-      "sdist": [
-        "UxqyG7v/WO/O3aIxXhQHNKK3uT4nb/f/X44Wod8ys14=",
-        "halo_aws-0.11.16.tar.gz"
-      ]
-    },
-    "0.11.17": {
-      "sdist": [
-        "LvFwex9pzqJIiY7A9GjmTHVg0kn5S05Jbu7geGTj9oA=",
-        "halo_aws-0.11.17.tar.gz"
-      ]
-    },
-    "0.11.18": {
-      "sdist": [
-        "Gr7aaAF8KBNCXeb0ZpLi7ZsiojyTmpIYQIWBoBztzbQ=",
-        "halo_aws-0.11.18.tar.gz"
-      ]
-    },
-    "0.11.19": {
-      "sdist": [
-        "ImU1j+55ciTV/zdz2y/qzBPcAkDqT8g6+zXjFxh/MaE=",
-        "halo_aws-0.11.19.tar.gz"
-      ]
-    },
-    "0.11.20": {
-      "sdist": [
-        "iFlu5gjgmNlFxdIcMQrtw/7s1I7Qfz9YkOhUEMNTuT0=",
-        "halo_aws-0.11.20.tar.gz"
-      ]
-    },
-    "0.11.21": {
-      "sdist": [
-        "q+mTMasPl5YeQy5IVbjRoZgZHH0PrcjKbokTwK3gdkQ=",
-        "halo_aws-0.11.21.tar.gz"
-      ]
-    },
-    "0.11.22": {
-      "sdist": [
-        "3RPK7RenUTllJyleksq4tG4WZ7wz5fAuOitNIU+WIHg=",
-        "halo_aws-0.11.22.tar.gz"
-      ]
-    },
-    "0.11.23": {
-      "sdist": [
-        "rqBhmXkPUaKNEoMdjJWuZf5y8E4FvaRRkc3Ys9CNXfI=",
-        "halo_aws-0.11.23.tar.gz"
-      ]
-    },
-    "0.11.24": {
-      "sdist": [
-        "76OWBr5P1igdafKqf4+jXB2K4r+5D1mE8MUUWDjDaBs=",
-        "halo_aws-0.11.24.tar.gz"
-      ]
-    },
-    "0.11.25": {
-      "sdist": [
-        "u5p6DBK4wF9XV0FAEwpniKdm16tcj2ENG7VcfPE4pec=",
-        "halo_aws-0.11.25.tar.gz"
-      ]
-    },
-    "0.11.26": {
-      "sdist": [
-        "KniI4CP/gJWqgi4aH45HpIUozTI8MH5JugapBoZPJ8k=",
-        "halo_aws-0.11.26.tar.gz"
-      ]
-    },
-    "0.11.27": {
-      "sdist": [
-        "TYE+2wYZTjeScvxZFu02oz/H1684fc4B2CUGqq5JYV8=",
-        "halo_aws-0.11.27.tar.gz"
-      ]
-    },
-    "0.11.28": {
-      "sdist": [
-        "9CpMtegTGTdw6JzWJX/t9c+DmOYDItEOrZ6PXiOZ4tk=",
-        "halo_aws-0.11.28.tar.gz"
-      ]
-    },
-    "0.11.29": {
-      "sdist": [
-        "zH6VWlqAceo8ZkOm7lq5kZgSkGD9dWJdkRPX6fLEKF8=",
-        "halo_aws-0.11.29.tar.gz"
-      ]
-    },
-    "0.11.30": {
-      "sdist": [
-        "ZeR4ATxe0nu1qRTCQkZYcqCxRfdhZdwAKfXZCem4Cb8=",
-        "halo_aws-0.11.30.tar.gz"
-      ]
-    },
-    "0.11.31": {
-      "sdist": [
-        "Rjciw/CsMi/FOplKERAfv62tVoLzUra2pxySHnyFJHM=",
-        "halo_aws-0.11.31.tar.gz"
-      ]
-    },
-    "0.11.32": {
-      "sdist": [
-        "xzIGGRkQU68mijkMhSdlQybHVUsRfw+olugY8RmiTOw=",
-        "halo_aws-0.11.32.tar.gz"
-      ]
-    },
-    "0.11.33": {
-      "sdist": [
-        "GbkwefzF2ecGoT2c/tWq7To2e/tazHE/zTI5YNizR5w=",
-        "halo_aws-0.11.33.tar.gz"
-      ]
-    },
-    "0.11.34": {
-      "sdist": [
-        "ZunhdM3ZOuAhK49S223qA56lfAMQN7upqrZOt/8FmfE=",
-        "halo_aws-0.11.34.tar.gz"
-      ]
-    },
-    "0.11.35": {
-      "sdist": [
-        "ll/yu4PrlZxZc/syv+gQse+xzMuLe4OR0Ep6kfyT05I=",
-        "halo_aws-0.11.35.tar.gz"
-      ]
-    },
-    "0.11.36": {
-      "sdist": [
-        "7FiFkLvjV8D2e1OiuywjzkU0fQi+9WRB9sML9vPFosk=",
-        "halo_aws-0.11.36.tar.gz"
-      ]
-    },
-    "0.11.37": {
-      "sdist": [
-        "Jcm59vj/lUnfGvNcd9fPjhl3AS7gex9gvppJjCqR+8I=",
-        "halo_aws-0.11.37.tar.gz"
-      ]
-    },
-    "0.11.38": {
-      "sdist": [
-        "YZCfSbc/fD5UGFhyykjrm8w8ndBuuEoLtwcyoWDdUdU=",
-        "halo_aws-0.11.38.tar.gz"
-      ]
-    },
-    "0.11.39": {
-      "sdist": [
-        "qd27C0aGz92FipI2lXCpYeRnCjveQfeYuruH4tG/dAc=",
-        "halo_aws-0.11.39.tar.gz"
-      ]
-    },
-    "0.11.40": {
-      "sdist": [
-        "o2skt9Awu89NuZFoHolaihUfjtXrz/tV4Qx1hQ+KHXE=",
-        "halo_aws-0.11.40.tar.gz"
-      ]
-    },
-    "0.11.41": {
-      "sdist": [
-        "HTefwL+y41+GzE0cHXXwM3bq9eqZZbjToisVWsT7zVk=",
-        "halo_aws-0.11.41.tar.gz"
+        "EC0QZbqz4fSdSGDm51+OzE3iVIgEvyeR2wK5a1ICXjM=",
+        "halo-aws-0.12.1.tar.gz"
       ]
     }
   },
@@ -35162,6 +34980,18 @@
       "wheels": {
         "jupyterlmod-2.0.1-py3-none-any.whl": [
           "OCmTE9uYklADKMIo83CtBmfbxtJP999Hr068I7qQK2s=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "Bsc8d5PtrWlvNrSjgLbLcw62vlDAzmn765S7fhli918=",
+        "jupyterlmod-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlmod-2.0.2-py3-none-any.whl": [
+          "IyL94/8gWrZl6EEV/iYDTvdBhtmzAziykbeqzCdZ+4Y=",
           "py3"
         ]
       }
@@ -73324,6 +73154,18 @@
       "wheels": {
         "tencentcloud_sdk_python_lighthouse-3.0.298-py2.py3-none-any.whl": [
           "mPdoAzZ5kBCQU3twYZKuqELsokd9rwfBsN/VBinUVQc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.299": {
+      "sdist": [
+        "qig4ar2tuxiIpFFP96ASUXEtq6/KCdp1IF6TLXbRJVA=",
+        "tencentcloud-sdk-python-lighthouse-3.0.299.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_lighthouse-3.0.299-py2.py3-none-any.whl": [
+          "KJau6CJxM66MPlo2ZsHLMb/O4rY/7qspUdbb4/l9cXQ=",
           "py2.py3"
         ]
       }

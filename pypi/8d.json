@@ -4123,6 +4123,12 @@
         "YeXwbFV68E9sAoOftF9uDR93LbdAXJVV7hxpHJtYmlU=",
         "asterix_decoder-0.6.0.tar.gz"
       ]
+    },
+    "0.6.1": {
+      "sdist": [
+        "mQgqHkz6NCrEyMZ/01EvkEQAuWODR5Wzao9RNtLpHvI=",
+        "asterix_decoder-0.6.1.tar.gz"
+      ]
     }
   },
   "asynqueue": {
@@ -20801,6 +20807,18 @@
           "py3"
         ]
       }
+    },
+    "2.9.0": {
+      "sdist": [
+        "+DJAvIoKpU4rFmPfFoUHoCYHrFqvgolsl13Uvg6Hp7A=",
+        "cognite-sdk-core-2.9.0.tar.gz"
+      ],
+      "wheels": {
+        "cognite_sdk_core-2.9.0-py3-none-any.whl": [
+          "Pu57iuGJrHJEF0oqE3OFAwfXjPJvd81ssL4s9p+7+As=",
+          "py3"
+        ]
+      }
     }
   },
   "cognosco": {
@@ -29884,126 +29902,6 @@
         ],
         "dotadevkit-1.0.2-cp39-cp39-win_amd64.whl": [
           "nZbToWuJVGtD4+xuImrHjygXZxUWMCnL8k/gUFMU55w=",
-          "cp39"
-        ]
-      }
-    },
-    "1.1.0": {
-      "sdist": [
-        "kY6vLvW4f4+K4zp5GFjOWq4luYVhq39/cJlpjQbOARA=",
-        "dotadevkit-1.1.0.tar.gz"
-      ],
-      "wheels": {
-        "dotadevkit-1.1.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "bYEH4AuPZ0xQ17xf19/mIWNjHhDL11pWmZXSN+2gMh0=",
-          "cp36"
-        ],
-        "dotadevkit-1.1.0-cp36-cp36m-manylinux1_i686.whl": [
-          "60aGZIIgcaNxutcYAmX6iYaGWboUIVQpMAF42UXprxU=",
-          "cp36"
-        ],
-        "dotadevkit-1.1.0-cp36-cp36m-manylinux1_x86_64.whl": [
-          "418RU2HHSlFVW8h8/+2SEyQO7BS9FUtknQn0x8LdNGU=",
-          "cp36"
-        ],
-        "dotadevkit-1.1.0-cp36-cp36m-manylinux2010_i686.whl": [
-          "bKNQgT8XrwEbgmoH0ZTDdjOFxUkTxors5ANBVzTC9J8=",
-          "cp36"
-        ],
-        "dotadevkit-1.1.0-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "k7YE+dmvFvLYuSvW/7j495sfogDuwgGWb/dS1184m3s=",
-          "cp36"
-        ],
-        "dotadevkit-1.1.0-cp36-cp36m-win32.whl": [
-          "YtMPAHzQdhomU4iEqudi7o9JcFGnw8lCzDdDBc8ywbQ=",
-          "cp36"
-        ],
-        "dotadevkit-1.1.0-cp36-cp36m-win_amd64.whl": [
-          "MJ0YJvk8dyY/uq5now9H5u1M4G8cP/ALmcClgiRetHU=",
-          "cp36"
-        ],
-        "dotadevkit-1.1.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "oQu8U+/xwnVSXewGnOVMFCHSwFqD462NhNFYVksY6Jg=",
-          "cp37"
-        ],
-        "dotadevkit-1.1.0-cp37-cp37m-manylinux1_i686.whl": [
-          "HuRDnl66SL3VdODXd5Czm6xIWqLoAnZYuKHRhlsL2XE=",
-          "cp37"
-        ],
-        "dotadevkit-1.1.0-cp37-cp37m-manylinux1_x86_64.whl": [
-          "rR3pBPjMN1Cmm6ucrqHCzZxb7ciP3z1uxXuP8oisFS4=",
-          "cp37"
-        ],
-        "dotadevkit-1.1.0-cp37-cp37m-manylinux2010_i686.whl": [
-          "k3pijVdiOYa4Pfk8xBVHeIYGxnWLijIKQzuYpf/KlpU=",
-          "cp37"
-        ],
-        "dotadevkit-1.1.0-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "GOMm9PtEO0aB4vDHxILrKG5NTgfWYxKJSr7UoiD4OKU=",
-          "cp37"
-        ],
-        "dotadevkit-1.1.0-cp37-cp37m-win32.whl": [
-          "LHDkUbaEYYCB+Xi6HWq8Zw8hybSJgGkoemMuwX42+yE=",
-          "cp37"
-        ],
-        "dotadevkit-1.1.0-cp37-cp37m-win_amd64.whl": [
-          "OlsD3bjL998QAKdcpqMWMGhLklPdtudh0aBgacWLwKs=",
-          "cp37"
-        ],
-        "dotadevkit-1.1.0-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "ghQq2Zd74xdNArIrUVO8m6QRMmvwOttkh90289gGIdM=",
-          "cp38"
-        ],
-        "dotadevkit-1.1.0-cp38-cp38-manylinux1_i686.whl": [
-          "UrU06MMb49kis6vGlMHgRfQv1oxHJfDle4NayVkL7yU=",
-          "cp38"
-        ],
-        "dotadevkit-1.1.0-cp38-cp38-manylinux1_x86_64.whl": [
-          "DFxq/h0/gZ/cMNLEWVTsMtohXzu1E/Eue9gxxmUvUK0=",
-          "cp38"
-        ],
-        "dotadevkit-1.1.0-cp38-cp38-manylinux2010_i686.whl": [
-          "4ZX+Vg21HSP4MtN1oiArXMLkI8fr24+KcXDv96pMxt0=",
-          "cp38"
-        ],
-        "dotadevkit-1.1.0-cp38-cp38-manylinux2010_x86_64.whl": [
-          "XHcGUQuovtxRin4EoP5NYJmGTARA4bDhovpsZklFGQE=",
-          "cp38"
-        ],
-        "dotadevkit-1.1.0-cp38-cp38-win32.whl": [
-          "rxBacFDG92e4DJ+W6XhRhbdzpl99SOWcivYNRC0cy28=",
-          "cp38"
-        ],
-        "dotadevkit-1.1.0-cp38-cp38-win_amd64.whl": [
-          "FuK3eiXJIS7sl+zQACA80R2aQcqEDDzMZb7T1fT6p/E=",
-          "cp38"
-        ],
-        "dotadevkit-1.1.0-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "vSitKR2UTng3KtlZzSagVlGO4Pm7IlJQN7X6HPceslo=",
-          "cp39"
-        ],
-        "dotadevkit-1.1.0-cp39-cp39-manylinux1_i686.whl": [
-          "PzKEbfz3nly5wnZmXfYMhXZmlagzqAp2hYAGFF1PtP8=",
-          "cp39"
-        ],
-        "dotadevkit-1.1.0-cp39-cp39-manylinux1_x86_64.whl": [
-          "qy5Lw4WF+zL4vQSby371osJGxFjxvltH5IbCqsY4FRs=",
-          "cp39"
-        ],
-        "dotadevkit-1.1.0-cp39-cp39-manylinux2010_i686.whl": [
-          "r0Zz+J79edEs2NPsvxZM1xI09d+ClXLb4IMOQxC1RvQ=",
-          "cp39"
-        ],
-        "dotadevkit-1.1.0-cp39-cp39-manylinux2010_x86_64.whl": [
-          "unzVD9x7QKIAPOdncgw5cVwzO3vlp24LOG++3sR3y0s=",
-          "cp39"
-        ],
-        "dotadevkit-1.1.0-cp39-cp39-win32.whl": [
-          "TM9/dlEaSwOPsk3tjglRVSS8C3ptIQuJKeGjboALFmo=",
-          "cp39"
-        ],
-        "dotadevkit-1.1.0-cp39-cp39-win_amd64.whl": [
-          "igGyG1y/qCnFf8rMjKRDv2tROBey+x5uWszHJSppAcs=",
           "cp39"
         ]
       }
@@ -57107,6 +57005,32 @@
         "sRnowMjvkgzAVkEk6H14kHt7ts53V290/CfdWiOHvAU=",
         "overbridge-0.1.0.tar.gz"
       ]
+    }
+  },
+  "package-helper-2-test": {
+    "0.1.0": {
+      "sdist": [
+        "f4exaixIHbadQHo1X34bBejPo4cn3kr3FefJPU/6h/k=",
+        "package_helper_2_test-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "package_helper_2_test-0.1.0-py2.py3-none-any.whl": [
+          "6IPxHYRZ3xAqe2dCoUZwbsNqj3v9Jg2Rdw3Som1tx3Y=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "y++OTIIhAF8tsRo04AB0nuc6IGNrSJ9kJPy71Bzh6aQ=",
+        "package_helper_2_test-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "package_helper_2_test-0.2.0-py2.py3-none-any.whl": [
+          "kKsiGcMIimaTTDLYk72j4t0Q516AnhNqHzhpcFfypG0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "packagerit": {

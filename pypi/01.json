@@ -11990,6 +11990,18 @@
         ]
       }
     },
+    "1.11": {
+      "sdist": [
+        "klCNovnyv1ARpkJmOhUFVpaNuevF1yUVZvimFtB5rq4=",
+        "cisco-sdwan-1.11.tar.gz"
+      ],
+      "wheels": {
+        "cisco_sdwan-1.11-py3-none-any.whl": [
+          "iTGwBGA2t3YM9am1NkndiM846ZKZs8Ri+Asnb0gt5Pc=",
+          "py3"
+        ]
+      }
+    },
     "1.2": {
       "sdist": [
         "2xmfpRCHWGlwDXFZEOD3NNn6YZNNlKBi0NdQt2m2sKY=",
@@ -21646,34 +21658,10 @@
     }
   },
   "dune-mmesh": {
-    "2.8.20201106": {
+    "2.8.0.dev20201126": {
       "sdist": [
-        "11zJOHsVlNuhDu6DpGRlrkd3PiEAtjqUdlLs3L8KdT8=",
-        "dune-mmesh-2.8.20201106.tar.gz"
-      ]
-    },
-    "2.8.20201108": {
-      "sdist": [
-        "itXAkHcWzxNv7EXy0VzbqQVLrJMddbJveGQcQzrpFVQ=",
-        "dune-mmesh-2.8.20201108.tar.gz"
-      ]
-    },
-    "2.8.20201110": {
-      "sdist": [
-        "7dEM+F1kMMjGPeT8CTITWvnyB/UcJa2bczq/ZSMiXZI=",
-        "dune-mmesh-2.8.20201110.tar.gz"
-      ]
-    },
-    "2.8.20201111": {
-      "sdist": [
-        "PA7zSdd4ydPGt0TDtW99SyVPWBdPN3qRrqNYAmvrmzs=",
-        "dune-mmesh-2.8.20201111.tar.gz"
-      ]
-    },
-    "2.8.20201201": {
-      "sdist": [
-        "TuB50iMn2ZTPyygcihL6YQKRwRmZ1Z/2uQEGW+NQPo4=",
-        "dune-mmesh-2.8.20201201.tar.gz"
+        "RBW7zfEcp1TaGBqQodfD4gYRwYDKVk1IgJVNIBEkZE0=",
+        "dune-mmesh-2.8.0.dev20201126.tar.gz"
       ]
     }
   },
@@ -46169,6 +46157,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.5.1": {
+      "sdist": [
+        "Sm9jtzqjgz5fSJ8TvFCnoLWUq336CoUu8yyyvKlCd1c=",
+        "nbqa-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "nbqa-0.5.1-py2.py3-none-any.whl": [
+          "QzBnlFIjex1TC51FIDmOLYA5N/Dnb1XrT5XK1vyBPkw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ncdiff": {
@@ -48802,6 +48802,88 @@
       "wheels": {
         "odoo13_addon_product_supplierinfo_for_customer-13.0.1.0.1.dev9-py3-none-any.whl": [
           "m6JBzKHKaSKfqN6MvF7+Z/V5I42vqVBKjo0UUz7wwcU=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo13-addon-sale-by-packaging": {
+    "13.0.1.2.0": {
+      "wheels": {
+        "odoo13_addon_sale_by_packaging-13.0.1.2.0-py3-none-any.whl": [
+          "FMxlKsgk+Pn6Sz1/xKWZlOTEe+1IJXNOHE9XTxyezsE=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.2.1": {
+      "wheels": {
+        "odoo13_addon_sale_by_packaging-13.0.1.2.1-py3-none-any.whl": [
+          "Qbkd1C5IbYW07rFm1Ar7ycDiF2hkOaRsOPzcPrSbGZY=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.2.1.dev2": {
+      "wheels": {
+        "odoo13_addon_sale_by_packaging-13.0.1.2.1.dev2-py3-none-any.whl": [
+          "a7wJdRAgRBeZRUuEYhrK8RXMlctRXZDaHOT88dGI7fo=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.2.2": {
+      "wheels": {
+        "odoo13_addon_sale_by_packaging-13.0.1.2.2-py3-none-any.whl": [
+          "rg2ROQqrlwL/5AiMwqiWogvCobl+5mGAjCFoCfPPIoQ=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.2.3.dev1": {
+      "wheels": {
+        "odoo13_addon_sale_by_packaging-13.0.1.2.3.dev1-py3-none-any.whl": [
+          "ex/7a/0cpqojxoAWscCZM6VEKn9QGKjyue7PgpVu3es=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.2.3.dev2": {
+      "wheels": {
+        "odoo13_addon_sale_by_packaging-13.0.1.2.3.dev2-py3-none-any.whl": [
+          "YJ18i/YPB6u5EiqbeAqHvlwrBeKN2qIpzKjBuTWnS/o=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.2.3.dev3": {
+      "wheels": {
+        "odoo13_addon_sale_by_packaging-13.0.1.2.3.dev3-py3-none-any.whl": [
+          "N0yZRMm40eeQzFTI7pvT7pQuhlDzIInU/XriGpa+Rh8=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.3.0": {
+      "wheels": {
+        "odoo13_addon_sale_by_packaging-13.0.1.3.0-py3-none-any.whl": [
+          "F5vZo8+jVEv1Ul4+R+1jmt7jQfISFOg20r3eZ6HIqUY=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.3.1": {
+      "wheels": {
+        "odoo13_addon_sale_by_packaging-13.0.1.3.1-py3-none-any.whl": [
+          "oxGoy3mHALCwkfI64LDAYWw1T3V28hfpW8DQD4bmb70=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.3.1.dev1": {
+      "wheels": {
+        "odoo13_addon_sale_by_packaging-13.0.1.3.1.dev1-py3-none-any.whl": [
+          "uArgZYZr7zimm9VB6f0Gu+miDvUUokA7Wlk1psEs1Sg=",
           "py3"
         ]
       }
@@ -66429,6 +66511,12 @@
         "t0GyaobOtOVjOxirvfPwHK88xA9TeCzs6lJ8llyKYh8=",
         "redturtle.volto-0.1.5.tar.gz"
       ]
+    },
+    "0.1.6": {
+      "sdist": [
+        "mfauiQP2ySDan9MNUdWQUtZ52POOP4XUp3gUgZCj4Q0=",
+        "redturtle.volto-0.1.6.tar.gz"
+      ]
     }
   },
   "remote-control": {
@@ -66964,6 +67052,38 @@
         ],
         "riptide_cpp-1.6.14-cp38-cp38-win_amd64.whl": [
           "zYsCzaaOQqEaF6hDEFFMC9io6P5vVjuvmWp4SIDU3dw=",
+          "cp38"
+        ]
+      }
+    },
+    "1.6.16": {
+      "sdist": [
+        "ErMnzf8RzkY4knhdBjntQVjuJ5rN48gnWft2MZMLiOk=",
+        "riptide_cpp-1.6.16.tar.gz"
+      ],
+      "wheels": {
+        "riptide_cpp-1.6.16-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "X742sWzMzWtQjU4+YdPA6azeHZzjjys5fzhsw3C++hI=",
+          "cp36"
+        ],
+        "riptide_cpp-1.6.16-cp36-cp36m-win_amd64.whl": [
+          "LA8WlyZmZaT8wBPzfPZqZxZqptuJ+Dfxt9avOGfJdVU=",
+          "cp36"
+        ],
+        "riptide_cpp-1.6.16-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "AKWKGsho3Hlj9v5L15MmdlFzR37E/bi1OhRqBMhpdSQ=",
+          "cp37"
+        ],
+        "riptide_cpp-1.6.16-cp37-cp37m-win_amd64.whl": [
+          "FINK79+b2tTVtUdTT1Xcz0J49pBI4KKNwvfj1nhWxpk=",
+          "cp37"
+        ],
+        "riptide_cpp-1.6.16-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "TP5ykHDRB6ZpOm3KjVJvew315p4cU4AosZzRGtOvfbg=",
+          "cp38"
+        ],
+        "riptide_cpp-1.6.16-cp38-cp38-win_amd64.whl": [
+          "o188GSmAt/EWQIlhuMQ1OzqzeIq1M9t/BiG4iUeq+g4=",
           "cp38"
         ]
       }
