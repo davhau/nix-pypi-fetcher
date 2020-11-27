@@ -1667,6 +1667,30 @@
           "py3"
         ]
       }
+    },
+    "6.7": {
+      "sdist": [
+        "USMW+EoxEj+WyGeB9uQxVQXfDX2I2TQWEmfjVyftwr8=",
+        "always_updates-6.7.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-6.7-py3-none-any.whl": [
+          "lrGd+fzT3VsB6mZ1uoTaCXn6bpy+MreG6mwLmgIsX3U=",
+          "py3"
+        ]
+      }
+    },
+    "6.8": {
+      "sdist": [
+        "rIskh8djgGxgotyioAsx++m6bDGZHoTIz69FQPppY9s=",
+        "always_updates-6.8.tar.gz"
+      ],
+      "wheels": {
+        "always_updates-6.8-py3-none-any.whl": [
+          "R/ye+tttOxoVZyViMkZgJIlYATAq8LcpQ20SAIdw74A=",
+          "py3"
+        ]
+      }
     }
   },
   "amr-crypto": {
@@ -16791,68 +16815,6 @@
       }
     }
   },
-  "evonik-test-crudl": {
-    "0.0.1": {
-      "sdist": [
-        "IrkOtSiHiVPs+tyVyml3bIidKhEGM37vFTGvcP7m3z4=",
-        "evonik-test-crudl-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "evonik_test_crudl-0.0.1-py2.py3-none-any.whl": [
-          "48SjF0zsvAN/u2EESAqowNYok8XIbEt2UXwz8+47Qmc=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "58xWycY/FvVnm1GD1NYA49fURzyZz+tcn9vRI4AKMA8=",
-        "evonik-test-crudl-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "evonik_test_crudl-0.0.2-py2.py3-none-any.whl": [
-          "rxrL6fKS+9FrOUwe7VXIg/hJlljgTsZwucJPuDE0SqY=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "rcxrjQFDdqS+Ec/ihE9AZP0cXDmuAK1r2wsQLtnI69I=",
-        "evonik-test-crudl-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "evonik_test_crudl-0.0.3-py2.py3-none-any.whl": [
-          "iyzHUOgeF2mufoiPElKNf2ZxYhOJ9JlSkTO6r7Wq/38=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "nNo/hVqIiRk0VFBpJidwzwWZ5C/FsRpObLVXpTupKfQ=",
-        "evonik-test-crudl-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "evonik_test_crudl-0.0.4-py2.py3-none-any.whl": [
-          "mr9tuwZRou3uql0sMINXh+tt7/twVLKC0Uou4MVCE20=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "SpykoKrioT4qUvdUi9DJ6GZPaMuJkmbGjxcOZgZC8oU=",
-        "evonik-test-crudl-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "evonik_test_crudl-0.0.5-py2.py3-none-any.whl": [
-          "6/tQa/q8+1tjOsdtoEmxiy8w21BTfMeXjN/bgiq7tzg=",
-          "py2.py3"
-        ]
-      }
-    }
-  },
   "exoedge-fileio": {
     "0.1.1": {
       "wheels": {
@@ -18164,6 +18126,20 @@
       "sdist": [
         "Syfa9kIbjRlzrqFTjoMakrhp2Pngj/3gOdBB2tYaoQs=",
         "Flask-SimpleMDE-0.3.0.tar.gz"
+      ]
+    }
+  },
+  "flask-urlsigning": {
+    "1.0": {
+      "sdist": [
+        "BLdxgPNGzNg0yjXuGpk85UIa5o1ljibmudmwcHfmvXM=",
+        "Flask-URLSigning-1.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "yJyPSNGKSO0bdQWGk3t9Dgr18qtameigwEuRMND3KUQ=",
+        "Flask-URLSigning-1.0.1.tar.gz"
       ]
     }
   },
@@ -21909,38 +21885,6 @@
         "C0Ft8VDXBMz+YG1ve3I2Y6Q9NaPsb0rv7zTADm/zl9c=",
         "httpieedgegrid-0.1.1.tar.gz"
       ]
-    }
-  },
-  "huihe": {
-    "0.0.2": {
-      "sdist": [
-        "XOSf31pzbFlqjqqgGcTpqiL6sAaNKwt/Qz4YsESXkgo=",
-        "huihe-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "fhcmMV5zlAQlHzULEkWiMmEq6XSYvnlXFmy50TiHpuE=",
-        "huihe-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "huihe-0.0.3-py3-none-any.whl": [
-          "i5pV52Ml6jLkmZ1T61WN0n8Gge9dUUhaV7rCXZT8vHg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "dBhZA7kDyr067TpKG2uhJrr9qcJ0llPRFtgQqUdYf14=",
-        "huihe-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "huihe-0.0.4-py3-none-any.whl": [
-          "BDOeUrerefzRXKTFlKjdgAIsTfluQHsJtdeFth3bdQc=",
-          "py3"
-        ]
-      }
     }
   },
   "hurry.jquerytools": {
@@ -25922,6 +25866,18 @@
       "wheels": {
         "LaueTools-3.0.0.47-py3-none-any.whl": [
           "qeWzt/+LxbxhBa91EqSdD3q8RpLR+WWEFV3UxZCj8Kg=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0.48": {
+      "sdist": [
+        "/ppYyhCgYZrFkm6dvOL2OjAeod+gwssINHhRv5mX47o=",
+        "LaueTools-3.0.0.48.tar.gz"
+      ],
+      "wheels": {
+        "LaueTools-3.0.0.48-py3-none-any.whl": [
+          "Wj1NWWQrOVgrIJlTxHLcBahwPorGdyINYDzGkpZDE70=",
           "py3"
         ]
       }
@@ -64292,6 +64248,18 @@
       "wheels": {
         "varname-0.5.3-py3-none-any.whl": [
           "24mvAtw7byq6QfCz0NMdltaE1VaqGSL2zzzssvTnRsw=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.4": {
+      "sdist": [
+        "KxMPUJQMTwg4hZ4bGgMasYb/hb4uKfFO/r7NtNWoJsk=",
+        "varname-0.5.4.tar.gz"
+      ],
+      "wheels": {
+        "varname-0.5.4-py3-none-any.whl": [
+          "N/elZs7Hmxqk/+lkbvey6xfZn3qi4MRZHhilvCF4B0Y=",
           "py3"
         ]
       }
