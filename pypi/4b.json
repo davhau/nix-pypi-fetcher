@@ -883,6 +883,14 @@
           "py3"
         ]
       }
+    },
+    "1.6.1": {
+      "wheels": {
+        "aiohttp_pydantic-1.6.1-py3-none-any.whl": [
+          "iPLTovg8PrYoicUfCjWOX8Kny9s5pK9wfBKSCYfDD1M=",
+          "py3"
+        ]
+      }
     }
   },
   "aiohttp-swagger-fix": {
@@ -6646,6 +6654,18 @@
       "wheels": {
         "bosch_thermostat_client-0.9.3-py3-none-any.whl": [
           "co/uZgIsfPNKScS+5nVvGrUhi7CmKGfh4s6U8G1XQxk=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.4": {
+      "sdist": [
+        "jDjrqcAtHXsErcQCVJtsQaf1Yjn4os4bVkbm6RrqE/c=",
+        "bosch-thermostat-client-0.9.4.tar.gz"
+      ],
+      "wheels": {
+        "bosch_thermostat_client-0.9.4-py3-none-any.whl": [
+          "cCesJ7DUkIcjY6cVCBo2mshQXOdBb2/xrCHs/2caBHQ=",
           "py3"
         ]
       }
@@ -13602,6 +13622,18 @@
       "wheels": {
         "datasette-0.51a2-py3-none-any.whl": [
           "KL9wpYfMNUNAp5takbfJBRVXoo4KUQjp9n6RLitxfJg=",
+          "py3"
+        ]
+      }
+    },
+    "0.52": {
+      "sdist": [
+        "tSMYf4xVOP80fDCfY40nHywDh4wo9wX3BIy+dX8e/Ec=",
+        "datasette-0.52.tar.gz"
+      ],
+      "wheels": {
+        "datasette-0.52-py3-none-any.whl": [
+          "G/HpALZK54BxBQOSTACHDn3+koOxLSYEjxlaEBHb4Fs=",
           "py3"
         ]
       }
@@ -47301,6 +47333,20 @@
       ]
     }
   },
+  "mmmint-registration-recognition": {
+    "0": {
+      "sdist": [
+        "A/wQ4ypLj2ZIw/ozYH3MV+pkh1u5tURXYgxebVpcfSs=",
+        "mmmint_registration_recognition-0.tar.gz"
+      ],
+      "wheels": {
+        "mmmint_registration_recognition-0-py3-none-any.whl": [
+          "xo6E/X0iyTw+GzkmjyfIKCymwmMIzosm7UY5mYw9/Fw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mms-pip": {
     "0.0.1": {
       "sdist": [
@@ -55693,308 +55739,6 @@
         "0ZWbT3HHoC+jTm6qj/ey4OwV+KLTYbF1Qof0u0yMm40=",
         "numscons-0.9.4.tar.gz"
       ]
-    }
-  },
-  "nupis": {
-    "0.2.1": {
-      "sdist": [
-        "hlUMmxFk0/zgCpY33JGVXibZQaX+EXm3Q6pcUseWKps=",
-        "nupis-0.2.1.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.1-py3-none-any.whl": [
-          "O+/3qgARjwmX6XPoMXzAE1ZdF44IMCJjxdRy3aWEA5M=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.10": {
-      "sdist": [
-        "+jNoT2jFbMKx/bjQ3Cqj7rqmx0J2O7g7WqUz9qoufms=",
-        "nupis-0.2.10.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.10-py3-none-any.whl": [
-          "6WIIwRbpNg7dOiyiuvGS+mJKOgkGmDW49z3si8gNoU4=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.11": {
-      "sdist": [
-        "mUuYYaoJum4RPeX4mufeCT3fdddV3EqLYkSo3YSk2xg=",
-        "nupis-0.2.11.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.11-py3-none-any.whl": [
-          "lggNx3WsQ5/y4JyvYRFAh9emPvRli0iT5eDELhynImc=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.12": {
-      "sdist": [
-        "Q1eZoXuGoSuq5hAzdZ3DTbMwrFdWOd8wT2GEZQi+pTk=",
-        "nupis-0.2.12.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.12-py3-none-any.whl": [
-          "4udWdKIyDm+XMpPBgshjN2I7nfUl/o2cIHWzgHYCkOg=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.13": {
-      "sdist": [
-        "w7VETtkfOpm9h0n7WUr4yVfa8rOdclpyFH2u7VVPfXE=",
-        "nupis-0.2.13.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.13-py3-none-any.whl": [
-          "IsTK5Ixkx+x2QmWT1feogdUWC9vQ+zXVgroRZFDk+Uk=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.14": {
-      "sdist": [
-        "p4G2qqTOqY1Ey7eUnwZ8bN8mJRwgWDE7e20nYk6/4k8=",
-        "nupis-0.2.14.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.14-py3-none-any.whl": [
-          "53ecRxeSj3XbU7IpTEfEmElHaw8ahR7FxWf+vGwLbog=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.3": {
-      "sdist": [
-        "AvODEVCrCOjMvUSR2KNWARIvJJCTqW1C3aR/ps+I5lo=",
-        "nupis-0.2.3.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.3-py3-none-any.whl": [
-          "hh7DexQMf6fCHw0U6VL3YpaQeBRwQynXTjtYXMsJEXc=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.4": {
-      "sdist": [
-        "sPlzIKfcPB8DgNbMiEWj6nMhIruRCxFFE8LCwPcB03U=",
-        "nupis-0.2.4.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.4-py3-none-any.whl": [
-          "3FhsoIGyBZkBn+TUg2j5JQfzNl1pJ0nyuhfTaByG0SI=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.5": {
-      "sdist": [
-        "IU8XD6Cl4jnMRneyto6eLVGEsa3ObCz44R8kod3Q1G8=",
-        "nupis-0.2.5.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.5-py3-none-any.whl": [
-          "8Xn4PIVGgBucwSU/ygDAg/Qk/1bGp96w9LlxYeb/G20=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.6": {
-      "sdist": [
-        "rWE2voEtVyL6ckvpINe/ssg/ZtarRN+p681FZ5R/pOI=",
-        "nupis-0.2.6.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.6-py3-none-any.whl": [
-          "MR8Khx6cUXKf7duXPx7LaeR/nk35o12+CR/2yKdpaBw=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.7": {
-      "sdist": [
-        "A9O1UAgO5MZmt+gH3+TrFEuylSLi/tEJkbKG72Z5oH8=",
-        "nupis-0.2.7.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.7-py3-none-any.whl": [
-          "xMJ4PbLUv7AZ8LMkU9UeFVJ3Yl1hWGTi8hpbLR7aB2k=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.8": {
-      "sdist": [
-        "WQBtujSmfyzfeIH/8VUDTHMp22/xoSr9jlfnjNlYUV0=",
-        "nupis-0.2.8.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.8-py3-none-any.whl": [
-          "bxWpwcQuhIUIwicMp7HYaJ4U95WtWuEIsW61rTSWT1w=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.9": {
-      "sdist": [
-        "OxzUjwC3g/BdUNjABKDQCsz2Wzl+f6DX/TxzE8EzVC4=",
-        "nupis-0.2.9.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.2.9-py3-none-any.whl": [
-          "PjmKDrpm8jaLuN99gfOdEvekIpVomQpdLKuL80IAa5I=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0": {
-      "sdist": [
-        "X4yFGMsphzc/PSHX8AyuvoYRWSoAX29O3vDW6q+04n4=",
-        "nupis-0.3.0.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.3.0-py3-none-any.whl": [
-          "LgJqzXmsOwYmyQLMdD0HnCkICoewPesbL1ROf9dboYM=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.1": {
-      "sdist": [
-        "MlozlZqob1G/KNoNm9T19JNnpYexnL+zCx6lhvArtpE=",
-        "nupis-0.3.1.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.3.1-py3-none-any.whl": [
-          "jAftLSeNK5tRe+zrReUA2B5RkTsiMpbGcLXqpUuNmsA=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.2": {
-      "sdist": [
-        "13L6Xs/Dv224eU8RD1Y2HaIUuFFZXvNofgx45SwBdJ0=",
-        "nupis-0.3.2.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.3.2-py3-none-any.whl": [
-          "L2FWWyX946UZT6FBq1SQ39K/ZaD/MSL/JiDRz+98PIA=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.3": {
-      "sdist": [
-        "LG22/LWfLm2plPvOpnhU3/joM5QJRMuZmsoYPwKEYfQ=",
-        "nupis-0.3.3.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.3.3-py3-none-any.whl": [
-          "/GbuaQywNl6yw5GTEEAKgmPczzbIUD+jv7kqXTVUOGU=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.4": {
-      "sdist": [
-        "PTgQ2n0biZEe30MKV9j+y52w9VNGzsTwODh/drbhcuE=",
-        "nupis-0.3.4.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.3.4-py3-none-any.whl": [
-          "m+F4cNdfSffD5+jZyNOwAhUGXfEeHEJ2dIj4cDVw0u4=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.5": {
-      "sdist": [
-        "l1DQ4EidkZRFcJvCLGxJV1aNyfiwmO7MVcU3iAyOQwg=",
-        "nupis-0.3.5.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.3.5-py3-none-any.whl": [
-          "ZS8z0a8V8mRYuV8KtW/yhjZPPOp9vJSGegq4ihngD/Q=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.6": {
-      "sdist": [
-        "LSQiHY2cPx6KIvXh38IsvzokaEtrjOXMh7Pl+oufobo=",
-        "nupis-0.3.6.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.3.6-py3-none-any.whl": [
-          "sxrPSmOaruljQuHr+j1TDxFDoRGVhUVnSxch5wCEN9U=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.7": {
-      "sdist": [
-        "bdtyZ9acRtbkUgBz8rjY5dJihzIkKAe+fK1Ol7rHgms=",
-        "nupis-0.3.7.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.3.7-py3-none-any.whl": [
-          "PItF4yjHrqoFEWOtIlzf8mZwpU1Gs/IF5g3ymMKXS9Y=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.8": {
-      "sdist": [
-        "3NdWEYqpxd+RSEMybbQIe3n6NhTX/09FNYA6NqzyBHo=",
-        "nupis-0.3.8.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.3.8-py3-none-any.whl": [
-          "U8NkHeQsZfYvk15mXyggtM58RgyQ1T6LtWbMBjo0GqI=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.9": {
-      "sdist": [
-        "34lecbIPcy9oKE7yDIB+948e4aJ58gWMvH6FjMhCwA0=",
-        "nupis-0.3.9.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.3.9-py3-none-any.whl": [
-          "2mfnymqP1uZgxcDqjH2KjC1vCTBOiHTwxa86W3y8KxI=",
-          "py3"
-        ]
-      }
-    },
-    "0.4": {
-      "sdist": [
-        "L+f+Ypp+cljMI4zKQvYbpENuxk9ClBqOGlIp6CNcudY=",
-        "nupis-0.4.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.4-py3-none-any.whl": [
-          "tCNJIHoj7Glq3XdpuVk88OcE6O+hVpL/aYooaI32MvA=",
-          "py3"
-        ]
-      }
-    },
-    "0.5": {
-      "sdist": [
-        "H9hNqjmMQV4t2abaWYePRlFHQf6kwoewA40wCPZLf9k=",
-        "nupis-0.5.tar.gz"
-      ],
-      "wheels": {
-        "nupis-0.5-py3-none-any.whl": [
-          "EHXe+kRLwFFj0gGlEJqXgy2CLkP5El7oajTEyE+tyaM=",
-          "py3"
-        ]
-      }
     }
   },
   "nwae.utils": {
@@ -71497,6 +71241,42 @@
           "py3"
         ]
       }
+    },
+    "2.0": {
+      "sdist": [
+        "en/KDpF0MObdSJOYQuL52z27V8+4SGOg2hQFWoZ8l3g=",
+        "PythonPals-2.0.tar.gz"
+      ],
+      "wheels": {
+        "PythonPals-2.0-py3-none-any.whl": [
+          "UFdAjAckm91tFPozvMg6+arv/oR9U2vUX7MyXRWisfg=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1": {
+      "sdist": [
+        "7szT6AVd6oEFrJk4ZhLBUYGYZiBnDhs8+bWVWlhKSow=",
+        "PythonPals-2.0.1.tar.gz"
+      ]
+    },
+    "2.0.2": {
+      "sdist": [
+        "f8Qp+sPvWIkScw7r9eBYAqV5Fr+zZsan0UMVmM/E5EE=",
+        "PythonPals-2.0.2.tar.gz"
+      ]
+    },
+    "2.0.3": {
+      "sdist": [
+        "ZWK1l48ey9IkJVl2is2kP+4qTz3q2wPtLbbIXzDak5Y=",
+        "PythonPals-2.0.3.tar.gz"
+      ]
+    },
+    "2.0.4": {
+      "sdist": [
+        "ojNDxujcR7FifQ9DczWQvrviC1esBjEgl4xqDS0bKAE=",
+        "PythonPals-2.0.4.tar.gz"
+      ]
     }
   },
   "pythontranslate": {
@@ -77612,6 +77392,18 @@
       "wheels": {
         "slurry_websocket-0.1.5-py3-none-any.whl": [
           "phP1wbNocIY/BFqtxq8zb9fFjU1zJK9oL7wcI8tp4PM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "XVr3J24yuI+dQTkkApcVe50egiCwtqddFhSB6bqsA2o=",
+        "slurry-websocket-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "slurry_websocket-0.1.6-py3-none-any.whl": [
+          "peUENWsASp1JtHmmUymkIqb8V1owqA2pTy8gQMtadjE=",
           "py3"
         ]
       }
