@@ -7263,6 +7263,12 @@
         "67M8jrMYd4u63rnB7hXd2Mq3d7UmcqHxOqINX7APW4M=",
         "awsauthenticationlib-0.0.3.tar.gz"
       ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "43rStcHJn+CUOYAfqI3FrFhoqcA2kjc9EjkCURBi5ss=",
+        "awsauthenticationlib-0.1.0.tar.gz"
+      ]
     }
   },
   "awscdkawscloudwatch": {
@@ -32461,6 +32467,20 @@
       ]
     }
   },
+  "jelogsystem": {
+    "0.0.0.0.1": {
+      "sdist": [
+        "x4Y/Jx+3YQZ1rnBhKAUg1VlJCvfG10OIJQzhVLThqLQ=",
+        "JELogSystem-0.0.0.0.1.tar.gz"
+      ]
+    },
+    "0.0.0.0.2": {
+      "sdist": [
+        "e8tqs0EHMx373v4mNWHGgdDVwlVCF5hEEnFR7GS8Lv8=",
+        "JELogSystem-0.0.0.0.2.tar.gz"
+      ]
+    }
+  },
   "jiri-gitlab": {
     "0.1": {
       "sdist": [
@@ -45184,6 +45204,18 @@
         ]
       }
     },
+    "1.16.28.0": {
+      "sdist": [
+        "OunF6NM6ptZMgLc5oBDwKtLYF10QwbgMCaiVBA1loxc=",
+        "mypy-boto3-glacier-1.16.28.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_glacier-1.16.28.0-py3-none-any.whl": [
+          "0wgGgTeNWBfcMGfRfrz6Kfr6vlYk5loELAOwHWCNyZ4=",
+          "py3"
+        ]
+      }
+    },
     "1.16.3.0": {
       "sdist": [
         "0Zx+aP+VRtxyVgxkn5MB/I7mLfHTXJSvEpqfV7OhL14=",
@@ -50832,6 +50864,30 @@
       "wheels": {
         "opensourcetest-0.1.0-py3-none-any.whl": [
           "RjhciDowmjQDj2IggrAUHrWVwaz3aP0Pl5ZaKBLslFc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "eC9ia0eNWwUwjh36/eo2BIOQO60Y4XOtj14ILusVyd0=",
+        "opensourcetest-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "opensourcetest-0.2.0-py3-none-any.whl": [
+          "B4kSNPM5l5ilbdEJQMMWL4XHlKQA8CAO70yM/UWWfJk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "pzLx4xFQbldeRA5WNxXhXiqAfzUXnqYHp6QNkqHKsdE=",
+        "opensourcetest-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "opensourcetest-0.2.1-py3-none-any.whl": [
+          "P2GsHYJ1qRehsrzafssJH4WtTYFcw1yWVkQlMdkIhso=",
           "py3"
         ]
       }
@@ -70903,6 +70959,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.303": {
+      "sdist": [
+        "i9xyvsSmGKp71R1d2yG8GiYhZW+rpYTfQjVbTh4VgqE=",
+        "tencentcloud-sdk-python-tci-3.0.303.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tci-3.0.303-py2.py3-none-any.whl": [
+          "HJhJcOjt3ogNxTkJHAfL3RKk3uOsyJHhY5UHmkx3wRY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-io-2.0-preview": {
@@ -81890,6 +81958,34 @@
         ],
         "tfq_nightly-0.5.0.dev20201201-cp38-cp38-manylinux2010_x86_64.whl": [
           "93J8CsYtuuOxP7q8MPju77kiAtCOGbQ9u7HVW8lrMzo=",
+          "cp38"
+        ]
+      }
+    },
+    "0.5.0.dev20201202": {
+      "wheels": {
+        "tfq_nightly-0.5.0.dev20201202-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "yA+lN4XxloI+/l3Ev93WiCiHk3bdiXObv98cQlV/nlI=",
+          "cp36"
+        ],
+        "tfq_nightly-0.5.0.dev20201202-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "gtGvdSMZUNEAm5C+JTLUR62XCgrFQkUINl7PuxFEfp0=",
+          "cp36"
+        ],
+        "tfq_nightly-0.5.0.dev20201202-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "HUtncTX1vo7BS74/7LTqDL7PJro97WK0hVM0NLC+LNo=",
+          "cp37"
+        ],
+        "tfq_nightly-0.5.0.dev20201202-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "eIPwEkW8WIYsv16z2Zp8KtYa6hHDgTXv9apq+Bi30C8=",
+          "cp37"
+        ],
+        "tfq_nightly-0.5.0.dev20201202-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "1eCn5Xq8X/NJuHV5J74tpUGJciwNBdHC0ol8VvwH96k=",
+          "cp38"
+        ],
+        "tfq_nightly-0.5.0.dev20201202-cp38-cp38-manylinux2010_x86_64.whl": [
+          "/tOo/LgqvNoTGW3caJPpowVko8bgTZxLVAZZzfoXr8k=",
           "cp38"
         ]
       }

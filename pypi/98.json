@@ -25368,24 +25368,12 @@
           "8uot5cvqXeuCbz8vxEwo7jwA/Ppnnqmk0dUN7XXH338=",
           "cp36"
         ],
-        "cupy_cuda92-9.0.0a2-cp36-cp36m-win_amd64.whl": [
-          "1+40vmQFOe8em2WwsUIvV+ns4nMjrCuqGRlBCdZ7yXU=",
-          "cp36"
-        ],
         "cupy_cuda92-9.0.0a2-cp37-cp37m-manylinux1_x86_64.whl": [
           "6nD5rEJC2YrbYuSkrmDGYD3X1klPwO8kNZ0LwX2gouA=",
           "cp37"
         ],
-        "cupy_cuda92-9.0.0a2-cp37-cp37m-win_amd64.whl": [
-          "1i8GOsPpJftejyhISIjfHz13hI1SF/RcP0jZheq6MPI=",
-          "cp37"
-        ],
         "cupy_cuda92-9.0.0a2-cp38-cp38-manylinux1_x86_64.whl": [
           "8zHjqnc5LYvLReQstDAkkOm7FeSkPKs3dp0X7LDA3NA=",
-          "cp38"
-        ],
-        "cupy_cuda92-9.0.0a2-cp38-cp38-win_amd64.whl": [
-          "S0g06Za4SiLqNu90VDys0qDaur0Ioqj2xNfSmebQvSw=",
           "cp38"
         ]
       }
@@ -52848,6 +52836,18 @@
         ]
       }
     },
+    "1.16.28.0": {
+      "sdist": [
+        "S7p5+IIZNSfNUzjLLeyNWyxmHcBlatMzdWXhgmE2KvU=",
+        "mypy-boto3-apigateway-1.16.28.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_apigateway-1.16.28.0-py3-none-any.whl": [
+          "zlXwnMHRyHqrvYm0isQE5k8uuwj8WGYTN6ipOXT37mA=",
+          "py3"
+        ]
+      }
+    },
     "1.16.3.0": {
       "sdist": [
         "N5cRp2+9W93hT1CnBPQSVyWCZBeo3TI3dsE5DStEiPs=",
@@ -55510,6 +55510,18 @@
       "wheels": {
         "mypy_boto3_pinpoint-1.16.27.0-py3-none-any.whl": [
           "TDBdnm0sgr5dkkODsSBDX7p4i2aWqpzwSceNPAAq4yw=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.28.0": {
+      "sdist": [
+        "vWyXetIe7BOYv0Z6dj+72EWWgSJQeqXFmDLWdf1gXx4=",
+        "mypy-boto3-pinpoint-1.16.28.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_pinpoint-1.16.28.0-py3-none-any.whl": [
+          "PEU1S1CFldlZC7ekZh2NvkishDQRwtre5iX4/FYDpAU=",
           "py3"
         ]
       }
@@ -69610,6 +69622,18 @@
       "wheels": {
         "pulp_deb_client-2.7.0b0.dev1599070757-py3-none-any.whl": [
           "8Nnj0dCoN6WEG42eMSFF3X5DVh4pb/8kPCdckAQQ2UI=",
+          "py3"
+        ]
+      }
+    },
+    "2.8.0": {
+      "sdist": [
+        "5hR1K8Y9Q1GNqKAdUJ3aL/e8XxBEi8o6sg8Qg1ZLWco=",
+        "pulp_deb-client-2.8.0.tar.gz"
+      ],
+      "wheels": {
+        "pulp_deb_client-2.8.0-py3-none-any.whl": [
+          "2ZuNf3O53yZLPegXP6OuUNuQVrsoEhZAo/R25j3HRT4=",
           "py3"
         ]
       }
@@ -88065,6 +88089,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.303": {
+      "sdist": [
+        "2YOOWiPcE518x8sXafhG5Y5Fx58X0ektamQtzdR8cYs=",
+        "tencentcloud-sdk-python-ms-3.0.303.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ms-3.0.303-py2.py3-none-any.whl": [
+          "yMprRyAngaVIbUnpBcnMFx8din9eKo3+SPIRJI6wu7w=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-tbm": {
@@ -88676,6 +88712,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tbm-3.0.302-py2.py3-none-any.whl": [
           "RpoIVkjs4gKliPSslnhVQAyz2RB7Rv/bgFI0xVV3Q5Y=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.303": {
+      "sdist": [
+        "e/IEuSuTy2BhMcq3AKlSLHrj0KnsCKSgNUEWJDRH4BI=",
+        "tencentcloud-sdk-python-tbm-3.0.303.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tbm-3.0.303-py2.py3-none-any.whl": [
+          "E+mjYhN0y89RMJ5wj8S/nbwGNZk7wJC12m5fi9519RY=",
           "py2.py3"
         ]
       }
@@ -89592,10 +89640,28 @@
     }
   },
   "thumbor-request-modifier-http-loader": {
-    "0.1": {
+    "0.1.0-dev": {
       "sdist": [
-        "evUTcthk/AmmVE0wYGJz/6vPiBm+pHSaOAX413j0mfc=",
-        "thumbor-request-modifier-http-loader-0.1.tar.gz"
+        "OL3tlbgsuJ3czuj/8NUAtHrxBHxqvXuGlAGNwoxFpk8=",
+        "thumbor-request-modifier-http-loader-0.1.0-dev.tar.gz"
+      ]
+    },
+    "0.1.1-dev": {
+      "sdist": [
+        "JRvD2hrS9iay9vam0JoK/hEykUDomrJvLlJBY9CGrzM=",
+        "thumbor-request-modifier-http-loader-0.1.1-dev.tar.gz"
+      ]
+    },
+    "0.1.2-dev": {
+      "sdist": [
+        "zRRxUAz1AkguSkRJmSE8h15Ihdg0VwHGaL0UAhg708k=",
+        "thumbor-request-modifier-http-loader-0.1.2-dev.tar.gz"
+      ]
+    },
+    "0.1.3-dev": {
+      "sdist": [
+        "qfFtjpVMdhy8e/8zG/xFuMmLgn4aIoirSb6x4OkHUBc=",
+        "thumbor-request-modifier-http-loader-0.1.3-dev.tar.gz"
       ]
     }
   },
