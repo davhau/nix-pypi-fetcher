@@ -907,6 +907,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.4.4": {
+      "sdist": [
+        "OGiqjwTkQGNtWK+eK1Xd2WXypQmBTLb4KfjFEoG9zu8=",
+        "Akasia-1.4.4.tar.gz"
+      ],
+      "wheels": {
+        "Akasia-1.4.4-py3-none-any.whl": [
+          "1BC6Lt7glv+0jFJxAQlOarRFe752m9fT8zcsNTXQM74=",
+          "py3"
+        ]
+      }
     }
   },
   "alcathous": {
@@ -35203,6 +35215,14 @@
       }
     }
   },
+  "gpde": {
+    "0.0.0": {
+      "sdist": [
+        "WNnIBy8wNg1jFFDa+zDfpbFqjqA3EhlgO+YjAzZqP5Q=",
+        "gpde-0.0.0.tar.gz"
+      ]
+    }
+  },
   "gpflow-old": {
     "0.5": {
       "sdist": [
@@ -42562,6 +42582,18 @@
       "wheels": {
         "kb1000_discordpy_common-1.2-py3-none-any.whl": [
           "z2jLX7uB2LOKpDNQzoNF+itKehX83J49Y9afNrebVUY=",
+          "py3"
+        ]
+      }
+    },
+    "1.3": {
+      "sdist": [
+        "+bGBYbisGo33LzxtijTH7Dl2kFlNXiyOOEpcSelFJ9Q=",
+        "kb1000_discordpy_common-1.3.tar.gz"
+      ],
+      "wheels": {
+        "kb1000_discordpy_common-1.3-py3-none-any.whl": [
+          "lyZ6ID8Kmh+XrwwS9fefLlR80WnX4UzpaJkB0pgP/TU=",
           "py3"
         ]
       }
@@ -60423,6 +60455,38 @@
           "cp37"
         ]
       }
+    },
+    "0.2.3": {
+      "sdist": [
+        "Bn4f7uUmdJqUvXduD+odKfP6L8uCspSstr0qZvppeVA=",
+        "pyfrpc-0.2.3.zip"
+      ],
+      "wheels": {
+        "pyfrpc-0.2.3-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "KybP0H0zugwAeK589McVpApxM2TEh87CGb/tvyuiEwE=",
+          "cp27"
+        ],
+        "pyfrpc-0.2.3-cp35-cp35m-manylinux1_x86_64.whl": [
+          "8duwNA5W8KbPv2zWhwqBhTliDSDDlSCDow6YK+cgtO0=",
+          "cp35"
+        ],
+        "pyfrpc-0.2.3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "lZP++z78wN4amWSYfYsrbD/qxx1A2YzSIb3MKyBRKVg=",
+          "cp36"
+        ],
+        "pyfrpc-0.2.3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "ixPHE7KSccrrEZI8RjthRXAh82/Nw3ONdFhvpECYWU0=",
+          "cp37"
+        ],
+        "pyfrpc-0.2.3-cp38-cp38-manylinux1_x86_64.whl": [
+          "DpUtWse/lpu+gRoG3l51Cc41w2w+M6peKUjKp8WxamY=",
+          "cp38"
+        ],
+        "pyfrpc-0.2.3-cp39-cp39-manylinux1_x86_64.whl": [
+          "jZREaqRO5xFR3MyoKnvbgUeT1+sJOjGyNQEpy4m0zlE=",
+          "cp39"
+        ]
+      }
     }
   },
   "pyfs-auth": {
@@ -61549,6 +61613,14 @@
         "pyobjc_core-7.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
           "4v26eZfVydUYJW+dLp93gPzGMysDcSBzdPONfp+te8g=",
           "cp38"
+        ],
+        "pyobjc_core-7.0.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "dYz5bzhIxuF31q2U1E/sG56l4yygZlExhNjx5w1x/24=",
+          "cp39"
+        ],
+        "pyobjc_core-7.0.1-cp39-cp39-macosx_11_0_universal2.whl": [
+          "YcdWyb1cVekTfPBUnx2THdHhv/MKHMl+RuVblNXcXZc=",
+          "cp39"
         ]
       }
     }
@@ -78346,9 +78418,21 @@
     },
     "2.5.0.dev20201202": {
       "wheels": {
+        "tf_nightly_cpu-2.5.0.dev20201202-cp36-cp36m-win_amd64.whl": [
+          "r+MHQMsjTQKuPwVdB1Cu8q7lmfdzK3t3BR8qpMyC6k0=",
+          "cp36"
+        ],
         "tf_nightly_cpu-2.5.0.dev20201202-cp37-cp37m-macosx_10_14_x86_64.whl": [
           "6LpLHCihHU8cqa1nDCWhy9NFM4aMR9b4FfgSdTMN/IM=",
           "cp37"
+        ],
+        "tf_nightly_cpu-2.5.0.dev20201202-cp37-cp37m-win_amd64.whl": [
+          "gET1V1C+sB1jcteIfvEzafADalmuxbQBtuHXbSPaJ88=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.5.0.dev20201202-cp38-cp38-win_amd64.whl": [
+          "3aHgH8nYW/YBFgE2JKtbAc24+ZThFLidEwhidsyOBic=",
+          "cp38"
         ]
       }
     }
