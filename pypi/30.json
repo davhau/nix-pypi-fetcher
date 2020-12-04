@@ -8600,6 +8600,12 @@
         "control-characters-2019.4.13.tar.gz"
       ]
     },
+    "2020.12.3": {
+      "sdist": [
+        "NHfFrhJ2zDqQGHHvsQI7WZxya1AaPbJwC+APzaiLQXs=",
+        "control-characters-2020.12.3.tar.gz"
+      ]
+    },
     "2020.7.1": {
       "sdist": [
         "62XYebUQaBu+h1O5EqIBgfPhSbJcm+5CLfNMm0lh6mQ=",
@@ -12300,6 +12306,12 @@
     }
   },
   "django-next-view": {
+    "2020.12.3": {
+      "sdist": [
+        "nWpRpPhnVTBnvVwtNrAIivb15pMTQBQPQkghOz8E0i8=",
+        "django-next-view-2020.12.3.tar.gz"
+      ]
+    },
     "2020.4.28": {
       "sdist": [
         "bF5zAoW7tIs/Vyj7g8kD1LbglhJBKLtgXUX8Rjqp3jM=",
@@ -19917,6 +19929,18 @@
         "9Zh1GA0x7QFtnTbpuQaRbPNt4qlubCGYypinjrt1a7Q=",
         "gen3-2.7.0.tar.gz"
       ]
+    },
+    "3.0.0": {
+      "sdist": [
+        "7gvG05we3eZ6FKY0VV+n4/Xrl6IrTD1gpTvzhIsm3fk=",
+        "gen3-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "gen3-3.0.0-py3-none-any.whl": [
+          "ou5GHS90T8ylA3yIsL4R5Hikjgi7gpqi7BitLVMNZuw=",
+          "py3"
+        ]
+      }
     }
   },
   "gengzip": {
@@ -22362,6 +22386,12 @@
       "sdist": [
         "O+vqiOJJaZEVdQhM+48sqPcEEtbInbB3vdplLoZQGbQ=",
         "hwmonitor-2019.4.13.tar.gz"
+      ]
+    },
+    "2020.12.3": {
+      "sdist": [
+        "syQcnmelVNhoYmA0+XGU+5ALBl+7TaGfic4lwBSThBA=",
+        "hwmonitor-2020.12.3.tar.gz"
       ]
     },
     "2020.7.1": {
@@ -35614,6 +35644,18 @@
         ]
       }
     },
+    "1.16.29.0": {
+      "sdist": [
+        "GvSplWaGkaTYBjsBtXTiZweMVXm93xkSn3UGoynyIlw=",
+        "mypy-boto3-comprehend-1.16.29.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_comprehend-1.16.29.0-py3-none-any.whl": [
+          "vf9QaFbV/Awg3USbRJ3DLpZWQu9+b5QGY7P97DCUAv4=",
+          "py3"
+        ]
+      }
+    },
     "1.16.3.0": {
       "sdist": [
         "38jH9OntoRsND36lKrdRQ+at4mp1L84HK/sk9M3nPCk=",
@@ -47671,6 +47713,12 @@
         "qorqxAaQstq3iv7HarTAWMmsMR9q7Px/DVFVtVtTG8Y=",
         "pyconmech-0.5.0.tar.gz"
       ]
+    },
+    "0.6.0": {
+      "sdist": [
+        "8ON7+/sH27bFtu8Lc6ndQUlTJGu0EjFTf2VV5pM0GYM=",
+        "pyconmech-0.6.0.tar.gz"
+      ]
     }
   },
   "pyconomic": {
@@ -55992,6 +56040,14 @@
       "wheels": {
         "sanskrit_data-0.7.7-py3-none-any.whl": [
           "FRo9emCmUEgQBjPTQ4lEtDC3b41oEsOQDcANMKQUb1g=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.8": {
+      "wheels": {
+        "sanskrit_data-0.7.8-py3-none-any.whl": [
+          "D6aOuyi1CXhBGRkrOYORx+KeudOkse6nlC3v1mqpDWQ=",
           "py3"
         ]
       }
@@ -68278,6 +68334,30 @@
         ],
         "tcod-11.18.1-pp37-pypy37_pp73-win32.whl": [
           "PKGbVlGJk0F2s5ww5kiPxe/J8Kq/v+GlZtns3pED82k=",
+          "pp37"
+        ]
+      }
+    },
+    "11.18.2": {
+      "sdist": [
+        "rINRHJEXUg+3mgjIS0/QpcBb5uz1V+QHhPO9VY4vHyU=",
+        "tcod-11.18.2.tar.gz"
+      ],
+      "wheels": {
+        "tcod-11.18.2-cp35-abi3-win32.whl": [
+          "bxrSQylFj8XXxhT/kTK9l48jDwmCgYo+fLbDDPi2BnA=",
+          "cp35"
+        ],
+        "tcod-11.18.2-cp35-abi3-win_amd64.whl": [
+          "WrfJNQfP0WqzT0G5//2OEsEqj9Hz/77RnNx9ayKjOUc=",
+          "cp35"
+        ],
+        "tcod-11.18.2-pp36-pypy36_pp73-win32.whl": [
+          "JtCqy4fB3Obd2hWAytfG/JqrVPZ1sG58Revb6j/TbR0=",
+          "pp36"
+        ],
+        "tcod-11.18.2-pp37-pypy37_pp73-win32.whl": [
+          "Mv7TcNpO+eMb/poEGeziGSZNW6jZsTCAJns1OiwihiY=",
           "pp37"
         ]
       }

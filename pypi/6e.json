@@ -17706,6 +17706,12 @@
         "django-admin-parent-filter-2019.4.13.tar.gz"
       ]
     },
+    "2020.12.3": {
+      "sdist": [
+        "aHhc7fC5395d7V7fCxOPJdZj2McfKNrKn0+fJ6aEa+I=",
+        "django-admin-parent-filter-2020.12.3.tar.gz"
+      ]
+    },
     "2020.7.1": {
       "sdist": [
         "lGZx6dr3XvarATy/GAxsaLYhiEIF0wjmjfEwMoeZpsc=",
@@ -30468,6 +30474,18 @@
         ]
       }
     },
+    "0.0.15": {
+      "sdist": [
+        "WYLPwzE1KGZlhkn9TJwr5XQBVUfeARbbtLqIut9hJHY=",
+        "http_request_response-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "http_request_response-0.0.15-py3-none-any.whl": [
+          "kWFlMBUGL3BDasnUczioDWi0EenwVofFkd+B26l3ycg=",
+          "py3"
+        ]
+      }
+    },
     "0.0.6": {
       "sdist": [
         "3ZvGjHYDwJYrK9oODTkanw6mLLxvzFXYGooYjZx1V20=",
@@ -42903,6 +42921,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2021.1.1": {
+      "wheels": {
+        "mkl_devel-2021.1.1-py2.py3-none-win32.whl": [
+          "WgnPAJbp3ADvlvRupouV/wkMrl+RBIU26eU1aOx5glg=",
+          "py2.py3"
+        ],
+        "mkl_devel-2021.1.1-py2.py3-none-win_amd64.whl": [
+          "FiA3YSLJAIdhWFSyoACUfQx6viXa1eXEAggMMFYsD9I=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "mksc": {
@@ -46568,6 +46598,18 @@
         ]
       }
     },
+    "1.16.29.0": {
+      "sdist": [
+        "kX2R9x18es+NEZHurgsq180cro0YFexgtmQlGsRlmT4=",
+        "mypy-boto3-cur-1.16.29.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cur-1.16.29.0-py3-none-any.whl": [
+          "vy8QZYvdEFZVVrAOlQyvhQgsoty+aiWt2wSyyeIDHN8=",
+          "py3"
+        ]
+      }
+    },
     "1.16.3.0": {
       "sdist": [
         "2XGahT0i5o6ymBjNx0DlGIMgM6sXYF+CdNgIDuWy7XQ=",
@@ -49262,6 +49304,18 @@
       "wheels": {
         "mypy_boto3_polly-1.16.28.1-py3-none-any.whl": [
           "DpHT3o0gaomHxVdcdXKR2PUfzySQH1oT0tRFqTAPtl4=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.29.0": {
+      "sdist": [
+        "xPg8NSQwuK69KRTgpF1wnLoSwyKsNSBqougfNX+GJzo=",
+        "mypy-boto3-polly-1.16.29.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_polly-1.16.29.0-py3-none-any.whl": [
+          "14zz3lxirw0LNn+BfeqRYqqfV+q0zHsjMJLNsZVSLTQ=",
           "py3"
         ]
       }
@@ -93135,6 +93189,52 @@
         "68B3ofghENTabY4SFTCyV7nQXlPv0DgWHYRK0uDP58g=",
         "wag-0.4.tar.gz"
       ]
+    }
+  },
+  "wasmer-compiler-llvm": {
+    "1.0.0-beta1": {
+      "wheels": {
+        "wasmer_compiler_llvm-1.0.0_beta1-cp35-cp35m-macosx_10_7_x86_64.whl": [
+          "0763rxShL1i/9+pzHjH/96Ke2fYda2/sfaMleScgnzU=",
+          "cp35"
+        ],
+        "wasmer_compiler_llvm-1.0.0_beta1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "/nkqyWYEPuHyAF6AIPfxJFUbr57OKk8oWKKOI8uF+Q8=",
+          "cp35"
+        ],
+        "wasmer_compiler_llvm-1.0.0_beta1-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "L3HYm3sbIoNvd6Yshhrjo9lcc8kjqd8k+eBYN/mnBOI=",
+          "cp36"
+        ],
+        "wasmer_compiler_llvm-1.0.0_beta1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "3Insix7077l44rXAU/dI1Aqo4AoyElLkAD/Ya+UVyJQ=",
+          "cp36"
+        ],
+        "wasmer_compiler_llvm-1.0.0_beta1-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "SZDi55/Jp0GPq4XflNnMmv30RCnP31nT4HAhXPuNpTA=",
+          "cp37"
+        ],
+        "wasmer_compiler_llvm-1.0.0_beta1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "tjWpKnBhvGH29EHzMDdbnmvRUNgb8hXVpBE/Qu0ISpU=",
+          "cp37"
+        ],
+        "wasmer_compiler_llvm-1.0.0_beta1-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "2HMhXT+FOl1r7xY0Xa3YrlTgT8WM3BDkiGGBpNulxzg=",
+          "cp38"
+        ],
+        "wasmer_compiler_llvm-1.0.0_beta1-cp38-cp38-manylinux1_x86_64.whl": [
+          "4xiwAXJFYuoRXjsnne6uxpzlcjyXQTvQlGBYOKvbV74=",
+          "cp38"
+        ],
+        "wasmer_compiler_llvm-1.0.0_beta1-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "/dhfdenVr8+9f7IEuoF9dXIWlR1PLNIIu4IsbG+ixQc=",
+          "cp39"
+        ],
+        "wasmer_compiler_llvm-1.0.0_beta1-cp39-cp39-manylinux1_x86_64.whl": [
+          "wduXWLZDfkXQSryvxED+g4JNzv0hxXoB5yQEOtWygDQ=",
+          "cp39"
+        ]
+      }
     }
   },
   "webbscrapers-api": {

@@ -3241,6 +3241,18 @@
           "py3"
         ]
       }
+    },
+    "1.75.0": {
+      "sdist": [
+        "tNkBbeDbzmLOKKBSTsQNVuzT46haV75CkbNXeWBdg8M=",
+        "aws-solutions-constructs.aws-s3-lambda-1.75.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_s3_lambda-1.75.0-py3-none-any.whl": [
+          "uDImZOzz/UQWcLvO4DKMN2KNJyoU3ezSvr1e3QeRlMk=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-sudo": {
@@ -11742,6 +11754,12 @@
         "direnv-2019.4.13.tar.gz"
       ]
     },
+    "2020.12.3": {
+      "sdist": [
+        "dOy6AG6xKEP//SDjYe3C1KBDtEZcVQtQbuYm9C991jU=",
+        "direnv-2020.12.3.tar.gz"
+      ]
+    },
     "2020.5.9": {
       "sdist": [
         "97ssQV/utVsd/1ZH069GA80OYYab3ZZr+WUwFRon88E=",
@@ -17552,6 +17570,54 @@
       "wheels": {
         "EzPyZ-0.1.5-py3-none-any.whl": [
           "uTsYWxQja7eNfpkOncJcFg24IXrjSFULJl2rUYmg8Hc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "dsPPqzaNMM/QXKkFaVCNSjILEEPHCsNVtkDyirfNBqQ=",
+        "EzPyZ-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "EzPyZ-0.1.6-py3-none-any.whl": [
+          "oy/6gthgzZv8VZBFgS66K2enLIW8MwaXPHpgpXBdZtM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "k3Jx+G2LL2xlUHYAWgG9hm51K98VSuwG9bZy59EvcwA=",
+        "EzPyZ-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "EzPyZ-0.1.7-py3-none-any.whl": [
+          "Kq9MaWWlcoQUpyp8rwJxFFLQYWHLh3zI0+q9jXLr0+0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "oT+tO4vr59P3+3XRyhKZAFSePzI7/+lNKLK9J5y3gcg=",
+        "EzPyZ-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "EzPyZ-0.1.8-py3-none-any.whl": [
+          "t6U2YJexo012XkVtL7gScjX3IaN91nFsoKQSU0QRxkM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "nEQdckLR2ReKSdSJOsR15KB4dFLIFtX5Ned2WEPhKWg=",
+        "EzPyZ-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "EzPyZ-0.1.9-py3-none-any.whl": [
+          "R1Hb3YqNS3vb4my5F6KnM//dc/1LLHytqdvRqllLJCI=",
           "py3"
         ]
       }
@@ -40976,6 +41042,18 @@
         ]
       }
     },
+    "1.16.29.0": {
+      "sdist": [
+        "Ik0q/YCi2+vSySJAyVJSLVuzrnk5JRmcJdoox68fnRE=",
+        "mypy-boto3-guardduty-1.16.29.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_guardduty-1.16.29.0-py3-none-any.whl": [
+          "tfcZceG9LXeJNPo8K/m3oRNnilFmXS3VsCVNlv/mSyg=",
+          "py3"
+        ]
+      }
+    },
     "1.16.3.0": {
       "sdist": [
         "GbpEZ5o9plQsh8dp2wuhLxrGzenjDxGHLZvvrtTACmA=",
@@ -43674,6 +43752,18 @@
         ]
       }
     },
+    "1.16.29.0": {
+      "sdist": [
+        "M9bCdukd86MBjMBftoqUx5T2RDNjBdqX4+9Qq6Gg24s=",
+        "mypy-boto3-iotanalytics-1.16.29.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iotanalytics-1.16.29.0-py3-none-any.whl": [
+          "M5+ZPmVAGUemi/ALKsURrHhrFS4g2XqdtQEjTmCzZNQ=",
+          "py3"
+        ]
+      }
+    },
     "1.16.3.0": {
       "sdist": [
         "hXF8NmQR8fA/LSgGBTha5I+9DWlsdjMf96wiXegamzE=",
@@ -46109,14 +46199,6 @@
       ]
     }
   },
-  "netas-xmla": {
-    "0.8.0": {
-      "sdist": [
-        "5C51w+3stU9SGYsU2K0YcF59k5/kjje1JbSqsbYsZoQ=",
-        "netas-xmla-0.8.0.tar.gz"
-      ]
-    }
-  },
   "networkdisk": {
     "0.2": {
       "sdist": [
@@ -46242,14 +46324,50 @@
     }
   },
   "neuroboom": {
-    "0.0.1": {
+    "0.1.0": {
       "sdist": [
-        "4I3VTETSFCmgz+5Z+/eqYt9i2vyDbo4/udCjegADZQQ=",
-        "neuroboom-0.0.1.tar.gz"
+        "L2koQQ3mHKeKtcNxB0ED02GpoxnOgwu3GOIHLzTqlL0=",
+        "neuroboom-0.1.0.tar.gz"
       ],
       "wheels": {
-        "neuroboom-0.0.1-py3-none-any.whl": [
-          "M1wYz1fkoTDRblBCS2cWy22W2sTEKQ7OkIe1OFahthk=",
+        "neuroboom-0.1.0-py3-none-any.whl": [
+          "S8naN5Oov+3iCLUJE68ZRR+tlmOQATVV/ddjlj3USNw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "S72z4H3lTfpiNEpXPqTt5NtAKEIReZRZ1OCAcevD7c4=",
+        "neuroboom-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "neuroboom-0.1.1-py3-none-any.whl": [
+          "Zjb1w1XxR1I5XgUpS3cAnxtxv4gkRicxMry/OOys8Wc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "7iufeJcIniYdBFdq4twQ06pXp72maTkqQU/4gwYUXPY=",
+        "neuroboom-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "neuroboom-0.1.2-py3-none-any.whl": [
+          "jm3z8Eb68kFXwh+reA6n6e2WI9n12lKF8mBdyALcAS4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "UROyQCSLvylu0hqWbv+ZblYLXBnH6T7GNXivfJl1iHM=",
+        "neuroboom-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "neuroboom-0.1.3-py3-none-any.whl": [
+          "on8vChHGbfLLU7ZdRHQTQ+NBv97jPS5GNp02oBLFtAE=",
           "py3"
         ]
       }
@@ -46954,6 +47072,20 @@
       "sdist": [
         "bWgoGztE29pR7hHkYLUOnQAl6mjhbj+xkvz5JQ8ilCY=",
         "objproxies-0.9.4.tar.gz"
+      ]
+    }
+  },
+  "objtree": {
+    "0.5.1": {
+      "sdist": [
+        "9iWGwRpgRXNFSeqzI9Zq/frRLr/jcSE/497qSESZ/oE=",
+        "objtree-0.5.1.tar.gz"
+      ]
+    },
+    "0.5.2": {
+      "sdist": [
+        "g3hxH6f59W4qeYVK7pFxGwjNTZ90yo63M8dH21hC3BY=",
+        "objtree-0.5.2.tar.gz"
       ]
     }
   },
