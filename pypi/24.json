@@ -27393,6 +27393,18 @@
           "cp37"
         ]
       }
+    },
+    "0.6.0.dev201204": {
+      "wheels": {
+        "genomeworks_cuda_10_2-0.6.0.dev201204-cp36-none-any.whl": [
+          "ERA8RiGZKO9vpMfw2yqmj28FbFrfJfxNq4fp9xQtGlI=",
+          "cp36"
+        ],
+        "genomeworks_cuda_10_2-0.6.0.dev201204-cp37-none-any.whl": [
+          "hnvOsTTNkTRw8XRNyvw1CzdczU8CBrS5zf3EY95jlrE=",
+          "cp37"
+        ]
+      }
     }
   },
   "gensty": {
@@ -28344,6 +28356,12 @@
       "sdist": [
         "un9a+/qNTYrZjJiLGjx+wGi1T/mzh1VckVxDlaN49xY=",
         "gns3-gui-2.2.16.tar.gz"
+      ]
+    },
+    "2.2.17": {
+      "sdist": [
+        "lmLlhDSmIjsN1i+KhlRsicqXrUzq8gaOSHSaB++WjHE=",
+        "gns3-gui-2.2.17.tar.gz"
       ]
     },
     "2.2.2": {
@@ -29596,6 +29614,18 @@
       "wheels": {
         "graphenelib-1.5.0-py3-none-any.whl": [
           "LOyzBEDMRYtsPxzik8Uffb+MLcIfDHydWZY0ovx6SJI=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.1": {
+      "sdist": [
+        "mQIbT3I1cvWizk1bBcatHXiwdmuJ9zP+AmqaLfMFcW4=",
+        "graphenelib-1.5.1.tar.gz"
+      ],
+      "wheels": {
+        "graphenelib-1.5.1-py3-none-any.whl": [
+          "jZHcG2+/Tn2GsiarpNCvSAumz20Apq3wP3ZGPYe+CVk=",
           "py3"
         ]
       }
@@ -36677,6 +36707,32 @@
         "BwXrykTBjm1NAUyiF40EFQt90BdEHIvPfPq53sDLsBs=",
         "lod-1.0.9.tar.gz"
       ]
+    }
+  },
+  "logger3": {
+    "0.0.1": {
+      "sdist": [
+        "C9sefyi38PMf3I8EzOOUUafHbNSw5sqxDdCN/dh3D5o=",
+        "Logger3-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "Logger3-0.0.1-py3-none-any.whl": [
+          "nKQT3ukBtAl52JlfyhIGz6tFS/5JqMBfzc1uoX/5G80=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "GV5STydZxkL7iM4sYO//y0ObjwN3KHnO8Nf/74mCD4g=",
+        "Logger3-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "Logger3-0.1.1-py3-none-any.whl": [
+          "UmZX7YKpxVuqpwPic+7ICEPAkEfEUpTYzfqJsddPO0M=",
+          "py3"
+        ]
+      }
     }
   },
   "logtweet": {
@@ -51102,374 +51158,6 @@
       "sdist": [
         "ntUoxt/E41Ba7bUpHqIYbKmsUSqZSthuDJPPo5CEP5c=",
         "pure-func-1.2.tar.gz"
-      ]
-    }
-  },
-  "purequant": {
-    "0.1": {
-      "sdist": [
-        "DaBoRz2W12AYai9xKgDfaPTU/qLN9UuPeAkg+gjl8ng=",
-        "purequant-0.1.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "5S8PM3j2JTsMFwcbXQ5nWv69Kp/MjuugXzvJBGpwJF8=",
-        "purequant-0.1.1.tar.gz"
-      ]
-    },
-    "0.1.10": {
-      "sdist": [
-        "wwM6amwImaQiZpjbZ1/Xavn5a2pw9wlduZNSKgPEyMs=",
-        "purequant-0.1.10.tar.gz"
-      ]
-    },
-    "0.1.11": {
-      "sdist": [
-        "5Z24boc2XmEC9sp8GzrOzmuDAyEj+TkLInIc+ooXuD4=",
-        "purequant-0.1.11.tar.gz"
-      ]
-    },
-    "0.1.12": {
-      "sdist": [
-        "jcY/hxjczd0cmIc86KMoRgE9tmmx8ZqNzTVrgCSC5Is=",
-        "purequant-0.1.12.tar.gz"
-      ]
-    },
-    "0.1.13": {
-      "sdist": [
-        "5NYcP/7aN6U4H6Gj0GDPmeBrfDIjLdYBGBMq6oxCGn8=",
-        "purequant-0.1.13.tar.gz"
-      ]
-    },
-    "0.1.14": {
-      "sdist": [
-        "2dGUGal6TOB1YsdyRlaNQ2RKAnxBEBZGgHf0u9t9HXE=",
-        "purequant-0.1.14.tar.gz"
-      ]
-    },
-    "0.1.15": {
-      "sdist": [
-        "cjH2bFJbfeRD818Dx4ekNYAv/z6ZHIqMEvhSAhlMtOo=",
-        "purequant-0.1.15.tar.gz"
-      ]
-    },
-    "0.1.16": {
-      "sdist": [
-        "P8EGfscNr9XzV1QkOAbShVxU6+S04GHSMuiCByJ/N9k=",
-        "purequant-0.1.16.tar.gz"
-      ]
-    },
-    "0.1.17": {
-      "sdist": [
-        "8+fKfMPFtMyyNgC9Nm3MEnOYUZOg9OBYrNCV5ePIqh0=",
-        "purequant-0.1.17.tar.gz"
-      ]
-    },
-    "0.1.18": {
-      "sdist": [
-        "gFoK+dDykTiPhfOTDbqEUXscIjroCHZNH3v4IK3Um0U=",
-        "purequant-0.1.18.tar.gz"
-      ]
-    },
-    "0.1.19": {
-      "sdist": [
-        "1asQkrry2trPxOjusojkXAOJ4uvr0vkkgDS3RuVrcjg=",
-        "purequant-0.1.19.tar.gz"
-      ]
-    },
-    "0.1.2": {
-      "sdist": [
-        "utb0N072N3hb07gwIy537yEG0YOKoAy0swoc8wUPVn8=",
-        "purequant-0.1.2.tar.gz"
-      ]
-    },
-    "0.1.20": {
-      "sdist": [
-        "gy95hgGYfqcyx17zf+n5ZlDwe455ePjM8INHsDLMUi8=",
-        "purequant-0.1.20.tar.gz"
-      ]
-    },
-    "0.1.21": {
-      "sdist": [
-        "7ybdXDwiBzLCyU45qb8KSjPJv1frlPaj8Z9uggtUcAs=",
-        "purequant-0.1.21.tar.gz"
-      ]
-    },
-    "0.1.22": {
-      "sdist": [
-        "/hGb68K8hPy+LOKjMTOo7S18KYfVjFdhi5RPITG/v/8=",
-        "purequant-0.1.22.tar.gz"
-      ]
-    },
-    "0.1.23": {
-      "sdist": [
-        "fJ8yTecIGo19Cyrxly/cCD6n4uC9v6LtzRh7BdoJLhs=",
-        "purequant-0.1.23.tar.gz"
-      ]
-    },
-    "0.1.24": {
-      "sdist": [
-        "3ggrj2/5Tvp8Um4x+4k3U1kavrAAozQboJQbCDsNAcA=",
-        "purequant-0.1.24.tar.gz"
-      ]
-    },
-    "0.1.25": {
-      "sdist": [
-        "QNThD3qD5GbFF+7BmPu7/PddTOY3nCedWKe01xEvA3A=",
-        "purequant-0.1.25.tar.gz"
-      ]
-    },
-    "0.1.26": {
-      "sdist": [
-        "5YXGalAeNj5rWfKpz2zAwlQtqIAzLQx4/W5ogSaoRHk=",
-        "purequant-0.1.26.tar.gz"
-      ]
-    },
-    "0.1.27": {
-      "sdist": [
-        "PALyqwmD35xQCX1T4frW6s5ehp/4zoJTRjJBkvnWuD0=",
-        "purequant-0.1.27.tar.gz"
-      ]
-    },
-    "0.1.28": {
-      "sdist": [
-        "kL8rqf17ggEnx3KiQGdSYnjgmYK4eLPvaV08PSVKtP8=",
-        "purequant-0.1.28.tar.gz"
-      ]
-    },
-    "0.1.5": {
-      "sdist": [
-        "g/1oD/yjnEwNxFVOrbKV2koGGpkp+rk1d5hgO66xS6k=",
-        "purequant-0.1.5.tar.gz"
-      ]
-    },
-    "0.1.8": {
-      "sdist": [
-        "RuRTa1jRjX+cVTdlu6j9bMB4O8CZa0/5MqupyYCHnDg=",
-        "purequant-0.1.8.tar.gz"
-      ]
-    },
-    "0.1.9": {
-      "sdist": [
-        "Mrbi4ypG1gW1zvfW/o9MFQp0eSCKO0YIxIN4IT+lBSc=",
-        "purequant-0.1.9.tar.gz"
-      ]
-    },
-    "1.1.0": {
-      "sdist": [
-        "AFV461/hVd6T1zBunu0VF99SLOZfPoFIVqr0K5rss+c=",
-        "purequant-1.1.0.tar.gz"
-      ]
-    },
-    "1.1.1": {
-      "sdist": [
-        "ZkQpyf53wJWl/nyONxA21yZJ1yw7i/7Vf5cAfMkerIo=",
-        "purequant-1.1.1.tar.gz"
-      ]
-    },
-    "1.1.2": {
-      "sdist": [
-        "8CSyZUokl1ANd4Ek+hvGBkVhA34icnd+vXX/y9H32aA=",
-        "purequant-1.1.2.tar.gz"
-      ]
-    },
-    "1.1.3": {
-      "sdist": [
-        "3qlEi/fwBKutsqLzR8+ytJttQdoNBXzFOeSv39Wk+OM=",
-        "purequant-1.1.3.tar.gz"
-      ]
-    },
-    "1.1.4": {
-      "sdist": [
-        "IQTrLza+3BmBpqaO84ICOrS7tk8FfIri0edO0DTDXa0=",
-        "purequant-1.1.4.tar.gz"
-      ]
-    },
-    "1.1.5": {
-      "sdist": [
-        "Z/oQLeTvc6DtP0hRzWhBiIEAZqPDqdYsxhI+gTz/WEs=",
-        "purequant-1.1.5.tar.gz"
-      ]
-    },
-    "1.1.6": {
-      "sdist": [
-        "OnpFhr29RBiBp2GqBeW4MNk2VhDkc9UfQ+NF+XWqTcc=",
-        "purequant-1.1.6.tar.gz"
-      ]
-    },
-    "1.1.7": {
-      "sdist": [
-        "gjLVg12pz6cd/x+agi5nUk4Wcg8ruR9AKwCgeTLLVKE=",
-        "purequant-1.1.7.tar.gz"
-      ]
-    },
-    "1.2.0": {
-      "sdist": [
-        "Goz8nFOy8Qo3P4XOguw67RWrxSZaezzKr4Q/k9oZYx0=",
-        "purequant-1.2.0.tar.gz"
-      ]
-    },
-    "1.3.0": {
-      "sdist": [
-        "K/R19+QYuOZ6z6FU2ox1ZI5wvEQuaMWLDzw8TaVlyC8=",
-        "purequant-1.3.0.tar.gz"
-      ]
-    },
-    "1.3.1": {
-      "sdist": [
-        "43VYvCLjMh505mOAUUM+1jrNpbdQfL+q6BmJ9VlkQow=",
-        "purequant-1.3.1.tar.gz"
-      ]
-    },
-    "1.3.2": {
-      "sdist": [
-        "IsMXVn/65JbzkjpRZ6U4nD6oMg3mtdS6H35oLCqffTo=",
-        "purequant-1.3.2.tar.gz"
-      ]
-    },
-    "1.4.0": {
-      "sdist": [
-        "B0BNy0sbFpiIhUgn4Ma26jRvsgVw8DKEJmn/dw2bFFU=",
-        "purequant-1.4.0.tar.gz"
-      ]
-    },
-    "1.4.1": {
-      "sdist": [
-        "Fw+DhP9qHr3AopLdsyADWGtAqJbjPu3FO+6lzQ8X1jk=",
-        "purequant-1.4.1.tar.gz"
-      ]
-    },
-    "1.4.2": {
-      "sdist": [
-        "+ZSZcIXqKZwuDQq/IIN1b2Durqo+Jcxa0C7TXJnwnG4=",
-        "purequant-1.4.2.tar.gz"
-      ]
-    },
-    "1.4.3": {
-      "sdist": [
-        "e/ToIBu8g46mOX4RDzmTgvF/obEcDcG/0Tz6dVJLMX4=",
-        "purequant-1.4.3.tar.gz"
-      ]
-    },
-    "1.4.4": {
-      "sdist": [
-        "KdS2GdUH0AcMpJaFfAiVK0yvZ79gWJiayuhFfIhCmOw=",
-        "purequant-1.4.4.tar.gz"
-      ]
-    },
-    "1.4.5": {
-      "sdist": [
-        "jN7mWZKpAswcxYd4a129tvZZLgyJ4G2coq4Zj4/T3lE=",
-        "purequant-1.4.5.tar.gz"
-      ]
-    },
-    "1.4.6": {
-      "sdist": [
-        "6p+s1WB40lwqG0pQgSrVzlg+GudqlTrcGf+Ir0eqtvA=",
-        "purequant-1.4.6.tar.gz"
-      ]
-    },
-    "1.4.7": {
-      "sdist": [
-        "nNuXUlKgbJcPmiyBQm/T7gzPfSrFI4h3wsk/MK0AgL4=",
-        "purequant-1.4.7.tar.gz"
-      ]
-    },
-    "1.4.8": {
-      "sdist": [
-        "D2K4Pa2APVyOJbFoS3eHaDG2MA0xC3ArZi+TcIcMR+Y=",
-        "purequant-1.4.8.tar.gz"
-      ]
-    },
-    "1.4.9": {
-      "sdist": [
-        "zC4RICmWHzsrVOLzQlPdAj3tH9k4Ywk5/msF3RoR15E=",
-        "purequant-1.4.9.tar.gz"
-      ]
-    },
-    "1.5.0": {
-      "sdist": [
-        "9/sVtb0mLDMjctA1n+pabo1u6y+vvwylwDi/smAETWo=",
-        "purequant-1.5.0.tar.gz"
-      ]
-    },
-    "1.6.0": {
-      "sdist": [
-        "iZKavM01izAgl8P4f2K72vCJPiG0Ln6a/iAdgr0FllM=",
-        "purequant-1.6.0.tar.gz"
-      ]
-    },
-    "1.6.1": {
-      "sdist": [
-        "WxxXB7JYXVZTfEXw4Uyd6UkgtQsEKGuIrzgJALc6s+U=",
-        "purequant-1.6.1.tar.gz"
-      ]
-    },
-    "1.6.2": {
-      "sdist": [
-        "+4303iwOGMQGMiJeaA1Z2xWIVBSRaQqDRbnOf/BM9xI=",
-        "purequant-1.6.2.tar.gz"
-      ]
-    },
-    "1.6.3": {
-      "sdist": [
-        "bTJYIff2OsU6CAutoGZU0Jv9mXzWUB+5V/R6uiYVj6A=",
-        "purequant-1.6.3.tar.gz"
-      ]
-    },
-    "1.6.4": {
-      "sdist": [
-        "DOvPWk8z2puoEAUuR5/93UpYoz3A/mKG0ICd+dZw2i4=",
-        "purequant-1.6.4.tar.gz"
-      ]
-    },
-    "1.6.5": {
-      "sdist": [
-        "U0bWPbt2wDpMqXMUV0WT+yvz1dQFQZqCRSDz/mOP8j4=",
-        "purequant-1.6.5.tar.gz"
-      ]
-    },
-    "1.6.6": {
-      "sdist": [
-        "K6DduAO5pzkEL+rETVhFIFeEdzM0Dk09txYjX7a7gek=",
-        "purequant-1.6.6.tar.gz"
-      ]
-    },
-    "1.6.7": {
-      "sdist": [
-        "ljOnoh+c7R2Dzhf08bIMvz3ihD2eYPzyW9GHAfQYk4w=",
-        "purequant-1.6.7.tar.gz"
-      ]
-    },
-    "1.6.8": {
-      "sdist": [
-        "3JJmJfTreDF5a/HAqakfuAW+oPO3jw6iJSXDlkp0mzI=",
-        "purequant-1.6.8.tar.gz"
-      ]
-    },
-    "1.6.9": {
-      "sdist": [
-        "7RAtQGPxCZvxjgiLIpXtYTGy5dCSeOTnxCz4uYbRkbo=",
-        "purequant-1.6.9.tar.gz"
-      ]
-    },
-    "1.7.0": {
-      "sdist": [
-        "WOqzpXOfcLwEgvq0bByvGCbtcbrpWIHHc8GA0oEX1B4=",
-        "purequant-1.7.0.tar.gz"
-      ]
-    },
-    "2.0.0": {
-      "sdist": [
-        "u1Ys8frBOll4DoamBcUhbWZiRWzTtXGKCZgHFXVuwaE=",
-        "purequant-2.0.0.tar.gz"
-      ]
-    },
-    "2.0.1": {
-      "sdist": [
-        "Ti9NtykJ6ZuwKHKhxWeFjgphWwSC159GwruRBonBu5g=",
-        "purequant-2.0.1.tar.gz"
       ]
     }
   },
