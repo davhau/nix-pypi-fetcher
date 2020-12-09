@@ -5565,6 +5565,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.16b20201209": {
+      "sdist": [
+        "gFqiU7ScN0NNIjJnfxOlKgXT/x486v3woR7ySBIjCEs=",
+        "autogluon.extra-0.0.16b20201209.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.extra-0.0.16b20201209-py3-none-any.whl": [
+          "CbzNu0ABEfxwR7DA35Nf/s5T8SFGkRRVwtun5wz3GKs=",
+          "py3"
+        ]
+      }
     }
   },
   "averaged-perceptron": {
@@ -20833,6 +20845,12 @@
         "DravBCruIZ9RlhjQ1dmxlMT++/sG2eoeo95sjdBazes=",
         "dune-common-2.8.0.dev20201206.tar.gz"
       ]
+    },
+    "2.8.0.dev20201209": {
+      "sdist": [
+        "Q8lF+/u/hsJlmVuf2afT2C9Sg6oa0DEGufgbbl4DBLw=",
+        "dune-common-2.8.0.dev20201209.tar.gz"
+      ]
     }
   },
   "dunner": {
@@ -26704,32 +26722,38 @@
     }
   },
   "graphscope": {
-    "0.0.0": {
-      "sdist": [
-        "74dGcNO6+FKIVo6iRidWSCBTk62+BNvcIM+imjqfa3Y=",
-        "graphscope-0.0.0.tar.gz"
-      ]
-    },
     "0.1": {
       "wheels": {
-        "graphscope-0.1-3-py2.py3-none-any.whl": [
-          "87tPWQ8HmHSC8lU61Zuywv/iVIcfPmlzP8Cl+tdaAGA=",
-          "py2.py3"
-        ],
-        "graphscope-0.1-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "E4d0x5gSUo/4LEfQcGIDdBvXgGlgh6Z1i5VAz4/I+yU=",
+        "graphscope-0.1-5-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "fPgvEPlouAAKWyPDVvxtFSpwbBpL3M/swdnekHPwxec=",
           "cp36"
         ],
-        "graphscope-0.1-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "B7Ku7OmoEf9U7XU29u9WEliucfX/eYY3RxJGBATyIYo=",
+        "graphscope-0.1-5-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "5FAi4Nj02/l5y54/LpWCIrQSGZ9YUCoZqayH1ye3OxM=",
+          "cp36"
+        ],
+        "graphscope-0.1-5-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "3AlhrR0ykrEy3JVOS02Zw9rFDH4zqJETheSBgMQ9WDs=",
           "cp37"
         ],
-        "graphscope-0.1-cp38-cp38-manylinux2010_x86_64.whl": [
-          "JDYU4MQngdyKOdSBLUoP5bTsSm4UpFlEwosDHdBvn2E=",
+        "graphscope-0.1-5-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "qwYwW+R60ZpkyQOwGFD1HzqIDluFmopIU8sXcKGAY4M=",
+          "cp37"
+        ],
+        "graphscope-0.1-5-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "dEhMsuBGuxc6wZorzM+hyIcS8rCS9GlQxjeZGbJLvZI=",
           "cp38"
         ],
-        "graphscope-0.1-cp39-cp39-manylinux2010_x86_64.whl": [
-          "cfOuqyTfTbIzKVbQYXKsoeOwh/PT9dOWb8DSeLpOTcU=",
+        "graphscope-0.1-5-cp38-cp38-manylinux2010_x86_64.whl": [
+          "jtD6rFqRigYpDNWCUeae8fVNjq2UXYWcCbjbQ1XMrsE=",
+          "cp38"
+        ],
+        "graphscope-0.1-5-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "wC5FVobY9ELDHcVZBXDILXgiHvvY5QPz8NEKg+gLCEE=",
+          "cp39"
+        ],
+        "graphscope-0.1-5-cp39-cp39-manylinux2010_x86_64.whl": [
+          "jXWTuVwqv/v3EzcaO5saWPPRpvIohaVG3F4jgD860Pk=",
           "cp39"
         ]
       }
@@ -47789,6 +47813,18 @@
           "py3"
         ]
       }
+    },
+    "9.1.1": {
+      "sdist": [
+        "EmqwQtEBudLOT8j45Jtnqh25pYhToxHe2lu5OXwAgmA=",
+        "km3pipe-9.1.1.tar.gz"
+      ],
+      "wheels": {
+        "km3pipe-9.1.1-py3-none-any.whl": [
+          "jEhCXNLRngeug2a+kwQjOqTEKhB1iLBIuVpvMTshFvw=",
+          "py3"
+        ]
+      }
     }
   },
   "kmeans1d": {
@@ -62514,10 +62550,10 @@
         ]
       }
     },
-    "0.2.6": {
+    "0.2.7": {
       "wheels": {
-        "phkit-0.2.6-py3-none-any.whl": [
-          "VE2PmLAGnIwFnQ+dlVGRAx12V73YdNX/HY9+dsqmOUA=",
+        "phkit-0.2.7-py3-none-any.whl": [
+          "ic9mDpfVF/uWfW4O13X8K+LPpnGs8bOE/zCPVvcezDQ=",
           "py3"
         ]
       }
@@ -81130,6 +81166,18 @@
       "wheels": {
         "tencentcloud_sdk_python_vod-3.0.305-py2.py3-none-any.whl": [
           "dsOjFvnbE4cjZiLGuX0qq+gpcsZ9Zx5Nj8mdzBtVGoM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.306": {
+      "sdist": [
+        "Rj0nh5oAfvQSHoBpILGhRFUI02ZWl0/EcEs6zUyXhUQ=",
+        "tencentcloud-sdk-python-vod-3.0.306.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_vod-3.0.306-py2.py3-none-any.whl": [
+          "yiFU4wnz5q0Jrwdu2nhYst2O1HPBQe8H6Cbeoj5aijM=",
           "py2.py3"
         ]
       }
