@@ -7957,44 +7957,6 @@
       ]
     }
   },
-  "cloudcli": {
-    "0.1": {
-      "sdist": [
-        "+vUb51+kUqm+tNmxXDcnptgEQC+jex5mNRWR2jN5DoM=",
-        "cloudcli-0.1.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "BEw3sDI0AYnCGwE5smmbapKwskMwS1x6PtTIu4syUzY=",
-        "cloudcli-0.1.1.tar.gz"
-      ]
-    },
-    "0.1.2": {
-      "sdist": [
-        "xmiJzlXg2ErJaPSaU32ywjjf9v8MBfUmnxM/zt2uoRo=",
-        "cloudcli-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "cloudcli-0.1.2-py2-none-any.whl": [
-          "zB26V5uo054D9HdmxOhG4FNpjPBt3rdG+8aS3UKjIdU=",
-          "2.7"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "TKKtMgUz12d4b4P3gLRlJ+OaguzPV9KUlru3C8PMtck=",
-        "cloudcli-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "cloudcli-0.1.3-py2-none-any.whl": [
-          "fmGKO8fmRFIi/oG6EVuneod12sFGHYYY5iCUPGkfNgA=",
-          "2.7"
-        ]
-      }
-    }
-  },
   "cloudconf": {
     "0.1": {
       "sdist": [
@@ -12828,10 +12790,34 @@
         "dash-extensions-0.0.33rc1.tar.gz"
       ]
     },
+    "0.0.34": {
+      "sdist": [
+        "VTFgKRZxkMA/2b9S1UefMg8guRmHPVoA9uOysiWifko=",
+        "dash-extensions-0.0.34.tar.gz"
+      ],
+      "wheels": {
+        "dash_extensions-0.0.34-py3-none-any.whl": [
+          "GkK//Vzymk1tI1PjZG5S1Tx5KZ4ODlZbayBBBELoDVU=",
+          "py3"
+        ]
+      }
+    },
     "0.0.34rc1": {
       "sdist": [
         "+cOOhD0LAQIrFJON4n295AbDgbFy4YSfOciq1GAol+g=",
         "dash-extensions-0.0.34rc1.tar.gz"
+      ]
+    },
+    "0.0.34rc10": {
+      "sdist": [
+        "CiLyeNmtxYAofBxgTT8CE9+KxI0Az87k5fbdd7wxre4=",
+        "dash-extensions-0.0.34rc10.tar.gz"
+      ]
+    },
+    "0.0.34rc11": {
+      "sdist": [
+        "w8YXJfUuacf+dOJwf9wLwck45Ga2oJjeGHfbo25q4oI=",
+        "dash-extensions-0.0.34rc11.tar.gz"
       ]
     },
     "0.0.34rc6": {
@@ -12844,6 +12830,18 @@
       "sdist": [
         "eVpymMGTgU7fcBTQbw3i3arU+adzaYRPsgpsHFnHDD4=",
         "dash-extensions-0.0.34rc8.tar.gz"
+      ]
+    },
+    "0.0.34rc9": {
+      "sdist": [
+        "K4RbJNvy5o8qUyUlb8czp1XBD7kOfi/y98YAQnrH6Vk=",
+        "dash-extensions-0.0.34rc9.tar.gz"
+      ]
+    },
+    "0.0.35rc1": {
+      "sdist": [
+        "gkD3b9rvxHahPzPGrjK03W5Fgld1Pg6PxO8Sytag4Pc=",
+        "dash-extensions-0.0.35rc1.tar.gz"
       ]
     },
     "0.0.4": {
@@ -60551,6 +60549,32 @@
       ]
     }
   },
+  "simplestsimulatedannealing": {
+    "1.0.0": {
+      "sdist": [
+        "JAbs7X8C0ttQhBXh3QbQGg8nuF8MdGl7Z9TySn/xVqQ=",
+        "SimplestSimulatedAnnealing-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "SimplestSimulatedAnnealing-1.0.0-py3-none-any.whl": [
+          "TPROU59yP0hpUl6jtW6ekW4SakxYtsCGlYH6kFVFffI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "MSHtjf1BcMNtQ4dkUD3/3pb7s6/QNkOFyoIOlilDcIE=",
+        "SimplestSimulatedAnnealing-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "SimplestSimulatedAnnealing-1.0.1-py3-none-any.whl": [
+          "t9GMS6A+aSyhVBg2VGA8JYpz9plwZRKpsyK/Auiyxm0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "simulacram": {
     "0.1": {
       "sdist": [
@@ -63780,6 +63804,22 @@
         ],
         "synapse-2.13.0-py38-none-any.whl": [
           "GAG/LL2S4S5DOVs+r4uLV51Wvf+xguizCM1IN5utwSo=",
+          "py38"
+        ]
+      }
+    },
+    "2.14.1": {
+      "sdist": [
+        "dnh+2+xw+zEz+qPDBkIydR+Z165/Yd3Ps4PdJsfhok8=",
+        "synapse-2.14.1.tar.gz"
+      ],
+      "wheels": {
+        "synapse-2.14.1-py37-none-any.whl": [
+          "0gOjP8DWI22/0G5iEvnK28TMujRvtYozHB7l7EpobWw=",
+          "py37"
+        ],
+        "synapse-2.14.1-py38-none-any.whl": [
+          "oBSkPVEOBofWgIrFhzLXb1WKkpGOIPihot6E8rLGTBs=",
           "py38"
         ]
       }
