@@ -12486,6 +12486,18 @@
         ]
       }
     },
+    "2.5.0.100": {
+      "sdist": [
+        "pLLUiGWUdj6p+9+wWAFQU5aiH1/X63wSizeSk1zTLbE=",
+        "c2cgeoportal_commons-2.5.0.100.tar.gz"
+      ],
+      "wheels": {
+        "c2cgeoportal_commons-2.5.0.100-py3-none-any.whl": [
+          "pBA9asEVvNo0PtYrS+Caz2wH/ZIU8q8Pblt1r5X4VxM=",
+          "py3"
+        ]
+      }
+    },
     "2.5.0.41": {
       "sdist": [
         "Y/1HsPr0rK4XvC6L+Mvu/T5LzUBpGqDv1XqSM0q20Hs=",
@@ -15888,6 +15900,30 @@
       "wheels": {
         "coloredlogs-14.2-py2.py3-none-any.whl": [
           "TTGwyd9C0Jsk7tzsu+85wXeMkx4bb4onWJVYnWTSLII=",
+          "py2.py3"
+        ]
+      }
+    },
+    "14.3": {
+      "sdist": [
+        "fvGnIZhwx/AsIYovKHfOaPL44Ie7OlW9b7qipDYrTVI=",
+        "coloredlogs-14.3.tar.gz"
+      ],
+      "wheels": {
+        "coloredlogs-14.3-py2.py3-none-any.whl": [
+          "4kSokvnZf/0sYPFb8dJYLvf5rA+EjRMiSQBBhHhXArM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "15.0": {
+      "sdist": [
+        "XnhpHiZzqOKUSZ4YMrsT78+0Soa5LhgQn6GJUQkyGKs=",
+        "coloredlogs-15.0.tar.gz"
+      ],
+      "wheels": {
+        "coloredlogs-15.0-py2.py3-none-any.whl": [
+          "t/YwqCl6ZphLa64PahsOCvufL2g46jv6WPUNPRPhM9Y=",
           "py2.py3"
         ]
       }
@@ -20186,6 +20222,18 @@
       "wheels": {
         "dbnd_spark-0.31.0-py2.py3-none-any.whl": [
           "Qnjpk9Gfb/JwiS4yhe2yS5aER39R3nO0n6PDCxv+O7Y=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.31.1": {
+      "sdist": [
+        "1FbYZ/FpO01JSzJOBX52jmi3xbbHsSiU+TOlYOCzpjQ=",
+        "dbnd-spark-0.31.1.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_spark-0.31.1-py2.py3-none-any.whl": [
+          "Bp6/Bhx41jahrJ7jiTCDp6SF6KDpAIaEy8ITfmDCfjI=",
           "py2.py3"
         ]
       }
@@ -51544,6 +51592,18 @@
         ]
       }
     },
+    "1.16.34.0": {
+      "sdist": [
+        "GYmBltTW6iRYOa2VUs8pngJsxjPNd0dhklajlMh+Yr8=",
+        "mypy-boto3-mediastore-data-1.16.34.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mediastore_data-1.16.34.0-py3-none-any.whl": [
+          "xyyMUwtgHNCVSBdXRIh/4JTOF06KNQeOBnE56ppNa/8=",
+          "py3"
+        ]
+      }
+    },
     "1.16.4.0": {
       "sdist": [
         "8xzrhEt6OkRs1h3liLe9hZVGonYX7PPKdAvija0H5ds=",
@@ -55387,6 +55447,44 @@
         "xj2DFFpSzOSqHELTMEpIulFB/nEjZFE00Sc07XxvwdQ=",
         "onap-dcae-dcaepolicy-lib-2.4.1.tar.gz"
       ]
+    }
+  },
+  "onnxruntime-noopenmp": {
+    "1.6.0": {
+      "wheels": {
+        "onnxruntime_noopenmp-1.6.0-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "ozQeIhw9H8Ap0UxA8VRnhz0ki7Ki3nF9unwJ4p62iUQ=",
+          "cp35"
+        ],
+        "onnxruntime_noopenmp-1.6.0-cp35-cp35m-win_amd64.whl": [
+          "Qzpb6WGNRm6RszgBVcmokArh+0Pykrbxkg/+FZBDHFI=",
+          "cp35"
+        ],
+        "onnxruntime_noopenmp-1.6.0-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "tNI/p0iMa2sSFn+HCS2VYft0DHCN7AYroLU5Oq5reIE=",
+          "cp36"
+        ],
+        "onnxruntime_noopenmp-1.6.0-cp36-cp36m-win_amd64.whl": [
+          "8FPpJkFXiY5MEKTmCbtOchbDAyFUFBeedVq1eXheRCc=",
+          "cp36"
+        ],
+        "onnxruntime_noopenmp-1.6.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "zT9nNvoHJzbBZtaK4ws7QyTy9GcDTsyTQHZOd3TIdjk=",
+          "cp37"
+        ],
+        "onnxruntime_noopenmp-1.6.0-cp37-cp37m-win_amd64.whl": [
+          "uwvPNvIBTla/QyzLlz0X8bP4qznMz1sO79qlZjUkfdo=",
+          "cp37"
+        ],
+        "onnxruntime_noopenmp-1.6.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "sDCpvIC9bllZ02gumGm2x5snVv/8t3kcsAO1+yfQkFg=",
+          "cp38"
+        ],
+        "onnxruntime_noopenmp-1.6.0-cp38-cp38-win_amd64.whl": [
+          "I2GAWEfqhfKfvpA2RJRS4pk17C++auPye6mJCCbMqM8=",
+          "cp38"
+        ]
+      }
     }
   },
   "openerp-base-status": {
@@ -66722,14 +66820,14 @@
     }
   },
   "pyruicore": {
-    "0.1.0": {
+    "0.1.1": {
       "sdist": [
-        "4zLMdN3i1HKDqmNl5RAA7X0xhP/ggpoNXwLoHqyvWkM=",
-        "pyruicore-0.1.0.tar.gz"
+        "e447AqcU+d3YkFmiK/bBCQcxDhrX1NBmYqMkjia7leM=",
+        "pyruicore-0.1.1.tar.gz"
       ],
       "wheels": {
-        "pyruicore-0.1.0-py3-none-any.whl": [
-          "ctjCxd9DDCiWcrcU3U6zN+zFfp8t5+fSogS09W61tEg=",
+        "pyruicore-0.1.1-py3-none-any.whl": [
+          "BZK2e76q5btJ3rXyswbwUMutDZVkXlAB7yDggLONFxs=",
           "py3"
         ]
       }
@@ -79729,6 +79827,1048 @@
         "r6rolqXa7STNgZK5zc+xxogSB1dASce2V/PTdfhWXKk=",
         "testfunc-0.1.tar.gz"
       ]
+    }
+  },
+  "testgithubactionscookiecuttercppproject": {
+    "0.0.1": {
+      "wheels": {
+        "testgithubactionscookiecuttercppproject-0.0.1-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "uTxy0COsVYnX1D4A0Dq9qzJ/lzVSji/DKrcb36AetZo=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp27-cp27m-manylinux2010_i686.whl": [
+          "OGuVx/vZim3hwW0cA6TEie66e9hTRiNkmTbd7mCqvJg=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "qKotTRVh+gY/26EsaN9IWAXiYuBdHOeIZxjCZwNUyro=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp27-cp27mu-manylinux2010_i686.whl": [
+          "bxSMCiZOG9DSgtN4QY9aJEcsOoVNmOEQUev0BI1U2O8=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "HL7rhfuarfs1oz+AyuLI5FDkxhAck2HtkWm25X/xlMU=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp27-cp27m-win_amd64.whl": [
+          "AkqCKNRhgnvX+XtFulsgYLJ+ogcwyV2s5jdUbVWoXto=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "8/lj7DAXlBPTRY6DT71sgSbCz7jaHp/Vlfu+i/pYo/4=",
+          "cp35"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp35-cp35m-manylinux2010_i686.whl": [
+          "7NKX0ggZnqoTGVkMHV57uiTmGksJ8qbrFnBVOX2bd9A=",
+          "cp35"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "4VZ8Jq8y1PEgB1OjMYjxfjmLRcmU6ExNNeuBPPPQ5/U=",
+          "cp35"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp35-cp35m-win_amd64.whl": [
+          "u51WjWFHEmN+MLv8+PgbPMArjmP6Jepl8xmi90vnSLk=",
+          "cp35"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "jmIc4kw6AbYpeBDPBRzcMzGmc12HiD3gAknJu4t1JAY=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp36-cp36m-manylinux2010_i686.whl": [
+          "AKuvd+X0WYnCxkS52Jm6ZwGx6bI7WNvcuc0C6Tt7pOY=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "vLGhedgGIMAhrsiFkJG5s5OF+4vJELoVbxDGvJAkviU=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp36-cp36m-win_amd64.whl": [
+          "02IpKB1NLsi9vsKDAWwInJ1rIPqoFKYEXTrC5EaaWMk=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "g2inTNIWOpIfM2PmZkAJdDim9kgfiQqFHFCbidZ91go=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp37-cp37m-manylinux2010_i686.whl": [
+          "27YsfbEgdVL4rqaiLusQTkVeMWL7CRJz/oh+8Pt2dG0=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "TFmdZ9okDMAuIHhWdEDzUusHJqBnwkNPDVSkk6icpVE=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp37-cp37m-win_amd64.whl": [
+          "leTJA8MdxAJqFdtWmlIbEaK3BQgBM5Uvrg4zde2wYjc=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "QD9bz8Z3JUeIXWEYgqqeDPko1vajrKkCQHOK1XUBWBE=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp38-cp38-manylinux2010_i686.whl": [
+          "89g3BgpIPoqCoZCj8XlakekQGS9htCoELvenFYUlvZM=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "eDPs9Pwwx/zGVClco2GZgBJ87LfBBstfqh5fSKkRvws=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp38-cp38-win_amd64.whl": [
+          "Bn3HcR7ekd7KogNYd+9Vs63x4o7Gop+zeIULFeAxbfo=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "7rzRtmzSuSJ8a7f6qYL8zEuS4Nwbfv2kMjUDV+YF6zY=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp39-cp39-manylinux2010_i686.whl": [
+          "gDDHBGyL/YVq3fHlunSlHk4vjUti07MmI+ASp3K3xqU=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp39-cp39-manylinux2010_x86_64.whl": [
+          "j4qbSMkgrofFy+JvqcADp04kfF92658sZTjNJ35YXu0=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-cp39-cp39-win_amd64.whl": [
+          "P6U6SoJxNwUkgAaCqOyAjFHatrmvMB4l90i4hr9VJGo=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "8GKEjUuC404t/a2sOeAS/fahyPb2jrCz3XNb/sB7GOI=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "A+yRqVkAyl9AfjlYjKp6QcLjiv6fj3e8tJbVk6OnEuQ=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "xVzvqkkyahGrYXtgrq7QIp8dYzpW9hnn4w0srdirnSs=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "gWk6Lse/tsIbUv0P+FTHtOcbnY3Xm2EA76KfpdPCH+I=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "xriQRHEkaRTWKgqyYUBcRKEPSRHP8Acehnm66FtbLsE=",
+          "pp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.1-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "g/QDMqwCcnDWehUDgJyr8EhocBTDKDYYVCJL+57DYnI=",
+          "pp37"
+        ]
+      }
+    },
+    "0.0.10": {
+      "wheels": {
+        "testgithubactionscookiecuttercppproject-0.0.10-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "wUkEVlaLQcL72HgB7je51lEBT/JyTLqEp8Q92iMduqY=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp36-cp36m-manylinux2010_i686.whl": [
+          "q0NiqkpVcMC+S1DXcDsl9/fOpb2yoNLnuLxW64vWrKg=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "hsoj75dmEC48y/Yrdh0Vie3b5mXSLuydolnRU7jviOk=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp36-cp36m-win_amd64.whl": [
+          "vjh4+3glPqLg3gwjNWCI9zekQtYAL06dh7BiSdmZqbQ=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "JCiVqMv3f00cApbsNhbBLu5l4sRh0vBpFx1qBA5WN24=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp37-cp37m-manylinux2010_i686.whl": [
+          "ArZu5207ccl947VEg6NMGi2eoXVySC+t7y3YOgMNeUs=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "cbTiesjrkMpV/iecr+aImL9R+M5UrXHdnA4M9vwMKRk=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp37-cp37m-win_amd64.whl": [
+          "oGI/CXlfrnNNnC1Gr1fNVs959wPohlzAbgTdUlAjkW4=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "TyuuQfEl3DFL6Qp6GHShgGBmNuksfTddKbhTP24CnqY=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp38-cp38-manylinux2010_i686.whl": [
+          "LJvTJDa0ptZbc9gT0TIpqNNn6JvRiCHOepMUeM4voNw=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp38-cp38-manylinux2010_x86_64.whl": [
+          "dAJZF1P1UiirokytsKs9ly+GbA9/V4uXfbTInAG9bHM=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp38-cp38-win_amd64.whl": [
+          "ww/DaZ8XIleWQkNMtJ2THxWtDwIvXoiDyPu8pfUcV6o=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "s07Lxir9ilgPtg26u2Vj/F8jn60YJ72UkakKl6aoNBE=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp39-cp39-manylinux2010_i686.whl": [
+          "/L79qcZfSWPoO0PszfaAqDgf53i3MLqJCaI7pd6IZNU=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp39-cp39-manylinux2010_x86_64.whl": [
+          "+sLMxPR1VOitMp3hKbKbdsAGipAtH/j27mA1xg2VxhM=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-cp39-cp39-win_amd64.whl": [
+          "D6O6iBnzFNWeSpOohJrt6MKuyXBg8XQbMdTQdoB8t1c=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "bWBl6ylRaJHi/cp5eBBkeTwAGHtjuDANHMqiyzVSMwo=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "Jh18660tVVIz07HDKyXUUfykgexog+r2MER9ezmEFXI=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "LPr3g6MYty4C0/pP2D0Op1Se1Pn6fMVcim7R1OzcKio=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "h1qYKkPr0v2Dw8/CwYG4eFG+jF6MATNe97kaT7PfpaE=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "XGW/fwbAFFRgYo4y2CVmImG1IJ8Mox6KaM0MrJV+AdE=",
+          "pp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.10-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "+WEyWloXr/92gyt5qUrBQn+kc8Bv3q2RNiu06wuuV24=",
+          "pp37"
+        ]
+      }
+    },
+    "0.0.11": {
+      "wheels": {
+        "testgithubactionscookiecuttercppproject-0.0.11-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "uyN3bT1E1r0l4iYMWR3YEOfvMoYjttsQ5FpwocvxWJM=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp36-cp36m-manylinux2010_i686.whl": [
+          "7eEZxcvmjKACrMSI+FGgTTOAutJjuhyf4Z4EOBdIsZs=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "jIwPRgbGh8Opfu3zac7PhQE1Qdd9yx8meX/NPdkQ8xQ=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp36-cp36m-win_amd64.whl": [
+          "QjlM7gvS36VryUa6iaVJu7RYJUZGbnWM4GvBbhUiEUU=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "WZ4uIkAh4aSDiTATXWTT1TJwCZfhhp9Bm6SIGZG+0fk=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp37-cp37m-manylinux2010_i686.whl": [
+          "Yky2AKwRaVDPD72tpWmpYa8gHv3PwGGvj/VsDxLY66c=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "mptg/XrJiGGhOToqWe1Zk4/sBXtIPBf1CVXrXGnAoDg=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp37-cp37m-win_amd64.whl": [
+          "1+YyrPoK8ENOrCRFjuG0mzg7NUAsVV6kZNqGe8ak0Mk=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "PmKdJtEzrZhfk81RD/GSkHVU3Qo2Z1IkiX6sfDSmTJc=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp38-cp38-manylinux2010_i686.whl": [
+          "tJ78u53FuVM83PFkXIV9/QzL1A9wy3hRdm9IIKrnz4s=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp38-cp38-manylinux2010_x86_64.whl": [
+          "mBS150LzNSV+Be/30xRdNT3L/oG5+Kr1A/lnWmzpQvE=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp38-cp38-win_amd64.whl": [
+          "5Ztu0HTtICtfGJ1n8kuMhwbJ+K7F+Gb3k0QDWLrM8RA=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "KclPzh5/zQvoCKibyeM9eqWM3Blf7uGMFV2wumt+o1Q=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp39-cp39-manylinux2010_i686.whl": [
+          "+1Ya5zz4WiYwucwI+IypTIW4BpzBDqKUH088+N6FALk=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp39-cp39-manylinux2010_x86_64.whl": [
+          "FgXqevxfdCsXpgImuDJ5i2UYumjeQKgxXxwyTR11qQ8=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-cp39-cp39-win_amd64.whl": [
+          "gK+i/9zHIw6r8rPnwqVni914Y7GNc8ThkCThac75LQg=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "KH30f4tKCunfc+eYdyrykWv1Psv4Z6xwFG6WRmRiHEc=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "5gZ128UxQxIki1P9gzI/G5UYOY5U9byRxgnE3u3Laeg=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "CG7ENPmmQXX4kRLl8e3VArxbsSFBh+/rOQ/fQPB3m0o=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "Sr2ynmsVf1IYpyjG1pnSAeHN7uzbVnyavMwCuu9cT5M=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "zDZdfCDDZcJdLpP1ZJpB60mNCdbVvHiJpnqXnK2Y4kU=",
+          "pp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.11-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "O3M5BHbZ7UBLbjJiaEy1Ofmls+h/WJiC2C55MOkfA/I=",
+          "pp37"
+        ]
+      }
+    },
+    "0.0.12": {
+      "wheels": {
+        "testgithubactionscookiecuttercppproject-0.0.12-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "Z29Gv0XcVnRWDPwm/9HLVF755pDNCkLIKdpV+k2PMrA=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp36-cp36m-manylinux2010_i686.whl": [
+          "5sEKzXvaRkxJbrgNATYvlxGKlgKEA8ZsYGM1z6WpWek=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "iFu9z6Rnh4PFOkdsyIA0SfX/rUdZAliWM/kdQ+3/bz8=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp36-cp36m-win_amd64.whl": [
+          "VY/zJH09DJ8MbiOwYJvYvf3WJrb22Yfoj1oJoovbG5Y=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "KF606ROlPzxn063kmjqE/Ktqre/31SN2dRZGtvI7aj0=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp37-cp37m-manylinux2010_i686.whl": [
+          "0HUwjUrMhPDSUX8L/AVNigD4Sd1TJkGFvQ+4nZcDGf0=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "ULfN45boGOsraYymfaY8fUt8I0ScOFlSq3C+k3g6SD4=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp37-cp37m-win_amd64.whl": [
+          "K9k1fXC+ll4zQL2nGCy8v0PgxaCS1mpWbonaRfAUNuc=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "LD2bNgO3mLYtI4eu3C7flgosuBkQd3LhtefMHDD214g=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp38-cp38-manylinux2010_i686.whl": [
+          "ufr0lP6omXqBJemwo2d5zC+qHfaKUei/LhwNB+mWgr4=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp38-cp38-manylinux2010_x86_64.whl": [
+          "lgiTd0PaN1yPotZr8CnPZUUDqnO57JLt4DlR5RBMa68=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp38-cp38-win_amd64.whl": [
+          "3nGew+w4+E5uusqBZvSEhsCwVSiXtJXHEV5VAVTKDjc=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "KsX6+IashBRw3dxRh2Gq8imM8gPaYXiqicZy3b3enQ0=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp39-cp39-manylinux2010_i686.whl": [
+          "kjKjFYWK5+sImUd42fdxW3b1urV4nmxlE2juzlAN5gM=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp39-cp39-manylinux2010_x86_64.whl": [
+          "R8csV9x0Q1rV28G1uCwset9WErqLHZ3Jchnfe5W4D6I=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-cp39-cp39-win_amd64.whl": [
+          "e4cCFwvdJ8JwydQp1kvPxyRHqUqOXrg64NkMsCctUpg=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "D2DjghTOfKSjQahl0XtyAXskml7S8mo2ndtZxJV4310=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "Eje2/BwCES0WKi0nvM7oWYjgaNPvGTkQclZABR20UG8=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "VSRFR+VfnVzPpMqUAsGGeUfAGEDX6MuB2MH18xVFj5I=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "481BjPiwXahe089sADGd9z6gDi1R7aMaorckER97qOI=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "kl3OgHxIkXgu59guqpvIN1I3AMlw36owGpxllPBMftk=",
+          "pp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.12-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "yNQMgUGuR3TpKk0d6mrodwXS/Bt73+0ZAz8Zi5dkQzQ=",
+          "pp37"
+        ]
+      }
+    },
+    "0.0.4": {
+      "wheels": {
+        "testgithubactionscookiecuttercppproject-0.0.4-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "0WYrgQJ07gQX4Vlx8l1JFsaWPSeDWVurzpiEVbWr0xA=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp27-cp27m-manylinux2010_i686.whl": [
+          "5nPtopW2JSbreKWLt1R+xSTHFNW3y0rwpBSJeJSp834=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "224+eiQpLPa9UVllH1iSOOOu4PvvH8f82oNoeZeSlUc=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp27-cp27mu-manylinux2010_i686.whl": [
+          "+EQ2XFfP+phz4T98MDNIngT9wNUGQrIbOcSjBYffOKY=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "yR3uagvJ4b0LdtHW/GZhJYvCrG+HmGBAVTlTwnjrr2Q=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp27-cp27m-win_amd64.whl": [
+          "NCrtC1zhJoD6rc2F0hUBwYYuFA7pTpApZEnCbBMF0g4=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "YfXHDLWYVJqOmR7rak7hWl8Nx3/Bc6z+CXk+hyL9+JM=",
+          "cp35"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp35-cp35m-manylinux2010_i686.whl": [
+          "2O5odBXnAyJIhq0o4CmX2X4gDXjUzWM9fASPJYdVaQE=",
+          "cp35"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "8d25Ftb48oTV7GN/dEE7KsOdVwlxPFLFnrJdXRUGmPQ=",
+          "cp35"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp35-cp35m-win_amd64.whl": [
+          "kk2apfYuGBHW91kN2PLeCoSGtgMcRuQccIProg2/S3g=",
+          "cp35"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "8SFc0mw15VC3wLwGrCXunf/6wLrVkARPuy/UO0e4Kyg=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp36-cp36m-manylinux2010_i686.whl": [
+          "SLBQglQjbXnoFgh1IpaRZMQc+ce974zeqwDISDZB7Ik=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "oSndKq9uoS1w7CSvDsBBCjtKIy6ltvdK4Tp3pM/X3vQ=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp36-cp36m-win_amd64.whl": [
+          "pT/wTwadvgF1lE/lpWsH4ljxOdjjYU6vOu3lX6OsQS0=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "YiUpIr5SrH81hO3fgEvzgHck2aNcqDrgG3JnKO5FMfY=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp37-cp37m-manylinux2010_i686.whl": [
+          "uHJ3u4L1aibXJnYx7SlFwqD0FR95A5B8jSP3qLc8CRI=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "2rjRCwuTKBDQctpfu3nJsD8Hpe1cZ+1D2yhYouK+kn0=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp37-cp37m-win_amd64.whl": [
+          "lHylp26ehu9UFZqlnjovR4gRLjoSv21Vg0xQDuTSnWU=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "cZN/g3uD5hY+//nqFEATr2LnkhR0FerktWZKYw8E0Zg=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp38-cp38-manylinux2010_i686.whl": [
+          "Z7veqrnr5zphf58O+5SktCKRs6HsMPkcW6CccMH+NKI=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp38-cp38-manylinux2010_x86_64.whl": [
+          "ZUCfJaX1/0zDeDkIDWJnvlncTKNmgh+tHFP3lG1JqZo=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp38-cp38-win_amd64.whl": [
+          "h2rE1FtbHE80PWeAcypb+wbeIy+HVR+r+7L6v+6S0RA=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "AoVWr5oRomNwU8JNxpX+B+0WWzuGB28iOGKhXzF5XBs=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp39-cp39-manylinux2010_i686.whl": [
+          "tTK7qD730dfQGWGcqkiKWzt/TWfWL8aE1NFiJWsnX+Y=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp39-cp39-manylinux2010_x86_64.whl": [
+          "0rg7o9l/3pXUPU9pZjXmz4N4kKpJpRNYmWIUScLZR0w=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-cp39-cp39-win_amd64.whl": [
+          "uuzcop6o0k7iWVwJ3I5G8R899eyDd+AP3knxvdoRzQ0=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "0qNrcVVvj+XLHnmVtu0ENF8n/0b08wVCWOZjNgmkU2k=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "xrEBl+hzBRTDUqWt0TOiFV8OTWQ+loKOEmIQfTHZsXc=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "y56phSexGmvfkq8Y72ckm3ZRukH5V7M/58Z2LUy6Vy0=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "bDcP9MiV34vqHekv/5WInGOXXDnhNBMNahZqPjYrWSM=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "5s4wfpBQE+3m7BVKNcuNfoBRrmN5LQSNZYaaU1PnR3Y=",
+          "pp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.4-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "6ECXOd4dLdIlbyU59NiQvphJritbc9XjLfPN8eRbp/Y=",
+          "pp37"
+        ]
+      }
+    },
+    "0.0.5": {
+      "wheels": {
+        "testgithubactionscookiecuttercppproject-0.0.5-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "rYloasQopV3k2H93ZJJJSjuWhwPYd6byyfrwELi3PsM=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp27-cp27m-manylinux2010_i686.whl": [
+          "lmp6Uoy4WxcsWMIQw2hGRNCLgl8L+Y1OV87v07XNyzA=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "sC8gD3fqzHg4i2FU2kBFgDf3f1pdlt6EEKFCfEDyIBs=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp27-cp27mu-manylinux2010_i686.whl": [
+          "qBllbhgjLU+Sl217ivKff6gvHbsUD/dER0T7xucRIlI=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "RJUO4q0DR9vQ99SCfJrzOba57LkKnxc9d/G7v4Rpj7I=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp27-cp27m-win_amd64.whl": [
+          "yxAJrAssrR6rVUca/9YCN1wKhI9c9ZfqjoTQDkII68E=",
+          "cp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "zFFG380nrTqNIvrBWSUdCFbRYqC+Y3c3KUifHjlWRQk=",
+          "cp35"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp35-cp35m-manylinux2010_i686.whl": [
+          "MIqThCSVo9bHMmflJaIAkYPZNfiqOJ/0esxOTutzPRQ=",
+          "cp35"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "LB9tizH8YbF4PnnXlG9f3DA4Nv1bs0kU3GWASqt7D8k=",
+          "cp35"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp35-cp35m-win_amd64.whl": [
+          "mGmoUlQhttvdLhqaFKXSXJBFiqVu/QpzLa0UQetihXs=",
+          "cp35"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "UiB+IhhVKGTrVGQVm9J0/4InWi0o+4o+QXF4n0cA3gg=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp36-cp36m-manylinux2010_i686.whl": [
+          "BFgQuk8Be/43MgU0VxCXoURno8n/Pr4IZk0Y656Pp8Y=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "CIfjHiyVpMK89K863UgEijP61pVSvz9fL5R9Vc50whw=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp36-cp36m-win_amd64.whl": [
+          "NvIzDymj/uwexNCVa14mldBlCuxex04Z+jGK89i/z5I=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "6LrlIGhy7nvZusHf3IXL6+vvBQzILh3hEYC1Sdf2Gzk=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp37-cp37m-manylinux2010_i686.whl": [
+          "4wXXMCbahG9p2PtrAcNh83GKiqU12L1vJg6Qu+ArYLw=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "OAVVgZ3Bfyaw7QsIJAxGNa4PhqLyfnD8n4RZqxFZ2FQ=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp37-cp37m-win_amd64.whl": [
+          "VkWvmcT3Z1Y4owyxpSi4gHjRQ2+u1mpSVTqjmcLCQYs=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "lkPdIVgFjC+z7DUSh7UKYEDBDt6DyJEBf3uNpdBNsHM=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp38-cp38-manylinux2010_i686.whl": [
+          "wWl5kxc0I8PND6rYbAZGJIczYHrbxdpBSEbeqKUViPY=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp38-cp38-manylinux2010_x86_64.whl": [
+          "k4RE7ciIi24V1Rr83G4Viz4iPaqGR9R5DF+nK7+oXFw=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp38-cp38-win_amd64.whl": [
+          "ppxq5OST7V1GYD7mTKXKhw4PNJDxZLNGI1vC9LwEjcs=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "gtdBcmHUlcRPrvlex9CkCk5TlVzwmkwqRBASL7DKZM0=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp39-cp39-manylinux2010_i686.whl": [
+          "BrR7iFnHeY2963mPbrlgr7+KkTDieyzppPvnGrNzd8A=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp39-cp39-manylinux2010_x86_64.whl": [
+          "ZuZBzhPI74B0qRMR5v2mrJ1hjcmmG5hJAe/Po5a+O/A=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-cp39-cp39-win_amd64.whl": [
+          "enUOyQnNgafcMGaBw0O210KVzO0Q1c8GxllpWILB02o=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "0JEoEZUE7UoYrZ++NqnPxIAUsL9zhiTdtgSl5cYdbAc=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "7MtAYzyTkVX4T5i2wyJDEjJPf+dODl3HIrDL14J1R8c=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "CPmMLgg752cW6iqStgTRY1V6wd78vJl3eDnY1IRev14=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "6Uz73IPx7z7+NtIpIufvgkUPh1wTinuU2q3+++YSVzI=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "CtPn76eOZh9bJJyOiLFcuQu7Z1zuU+nbJNlGC7gHjdw=",
+          "pp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.5-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "NlG4RjMZehyp2l0+cYuCrkmzrrPh2uL7FwrmLxjeIqM=",
+          "pp37"
+        ]
+      }
+    },
+    "0.0.6": {
+      "wheels": {
+        "testgithubactionscookiecuttercppproject-0.0.6-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "+j0uJ31lkowQRKr8AMU/gzq6qh5Odlbljflr5zSNXLE=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp36-cp36m-manylinux2010_i686.whl": [
+          "jPPaRE5Q0bbOkDu64un7hIwcQCDv82i6fJ+edEOOUqw=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "9JFDAE9be82xTU1e2g0Om1DMM//eyHxwJnS09r0e3pQ=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp36-cp36m-win_amd64.whl": [
+          "KHpGMgmJE41QuI4YaTUuGUAwrdQiCfGeIvQPKoxWx7U=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "5K3l0xMMAuAT8goTQlZn/tYLiQzbxrZJ4QZPsdHjr+0=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp37-cp37m-manylinux2010_i686.whl": [
+          "E8Cs0ssDQwJfFJnPXsgIBHnry/4vx7oScy39SpNagQs=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "N3XbkgGVJhcwzIrDEt0tOwkTnl4Jcq0jYhIxUcMKfTM=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp37-cp37m-win_amd64.whl": [
+          "DcdVC+TEmPdd8S3mBwkt0StQlKKj+1a4i14SR8ljRp0=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "/iuE4dhFEzpupeMkl8RFj0S+dPJX+OfQba8go5xm//0=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp38-cp38-manylinux2010_i686.whl": [
+          "h1Gzrs+eiDproF/QdJtZ5KQeglqbuPEF8VpSRcJflvQ=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp38-cp38-manylinux2010_x86_64.whl": [
+          "Hvji2CuNVJtN4Z8gotLcvY4NwR/y2pI6QF0oyjG776Y=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp38-cp38-win_amd64.whl": [
+          "IQW/NuHSu9oYheVzekRqQxo4yldiwoKUi6qKgGBb8Jk=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "G8zd8z9k9b+iGkFMnbJ6yGYOVEy+V4ovH3LRlWn6JqA=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp39-cp39-manylinux2010_i686.whl": [
+          "kQFcycmS87ncF5VwipWWAZYhn9vrlk/xfsoOH8Xs/Gg=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp39-cp39-manylinux2010_x86_64.whl": [
+          "OC1irKPS1KgrvJneN6Pi3x968RBqJK+hKJSlaNCw43Y=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-cp39-cp39-win_amd64.whl": [
+          "JfMbjGhFkgdBqLNel7E4N4ksqoc+r/XvxqnQ0QZjvJk=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "s9QgbzdQ7hvCskN/Zg+gZlEeBZC9VB6mkDr1bXguQOY=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "+6dvssSER+m4ZD0AkZn7vlxGw05L5ML2ZaRndXskU+Y=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "17fDBLRbO446JxTBxEJQ04uLaLT0pAgokQCL1rXNPUc=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "h2iL7HTHmhQiji2WId4wssZU7ZH01J5TLthg/Z4r3Gs=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "Rqcia2k4r6ayu85N5sX0QJHlJWSrTfUsFTPf5fVtIQg=",
+          "pp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.6-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "sed4JVX1dHR3WdBU9+7Ul1Lo/k/yUC9POYW+11UsJbs=",
+          "pp37"
+        ]
+      }
+    },
+    "0.0.7": {
+      "wheels": {
+        "testgithubactionscookiecuttercppproject-0.0.7-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "pMwHDAvZU+yAi7DgPI42Ptzf9GgJqoVqQHR7WvMENmo=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp36-cp36m-manylinux2010_i686.whl": [
+          "MaeTTlhtfc6bl/f+xwzqt7t7clImgSbPVDkxgEK8iw0=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "dHBnqWfy9psQAPAjBhkjpqivtUBJxUV8cznXGe+unK0=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp36-cp36m-win_amd64.whl": [
+          "J1uFCm1eUC+wf1eKC4qeI4YOx8lUmg3tZaCdkHSveFw=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "iqK25cR0xL9c9NIdXKFmRIzT9ToVW/1Ipc/QY87+rZY=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp37-cp37m-manylinux2010_i686.whl": [
+          "vLvduRoEWV6T8vcHNa0w7x1G4U8mJ8il8zejLiUR+jU=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "0tBecZTZlXVFfKGjfsaeEGjRkfTYv7KsGbmfr98Qn6c=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp37-cp37m-win_amd64.whl": [
+          "3fI4DSPQ93QUDIQTTel36xSS5+ui5h6kU2ogym22Z4Y=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "GNy4hWPdgJl90Eyq3U8/j84/umn0xMQLej+PBEAzhUk=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp38-cp38-manylinux2010_i686.whl": [
+          "iAFeSjIt6iJvY5aLj2ZyPMdZ2caoi0+4OjOS3yuN+gc=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp38-cp38-manylinux2010_x86_64.whl": [
+          "Rd/KX9KPaKW84dx1BV3NyXDRaLeov/Bs8aVMR4fUxBU=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp38-cp38-win_amd64.whl": [
+          "T0PyNOZgMDqP07KHI1VYwUyMbEyDdVe/69uNtVZu/PM=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "uqsbllY1CrGyZnUER7N8ubJx0EXI8d8gv1I1Piv9i1s=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp39-cp39-manylinux2010_i686.whl": [
+          "H1npZwLF0N208obPS6xSFHvDZgAhFIGDYVAVDvPjNcs=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp39-cp39-manylinux2010_x86_64.whl": [
+          "5oU7UFiXtN7cWKcFniobFqP+aOlyPkM7plJPJeb98tY=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-cp39-cp39-win_amd64.whl": [
+          "rcvwoMZ0pnH6Zn5D/EOdyX+ekq6GrUFCqqJZYfollpc=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "EGcnuaDPGhE7j854e9kvXceoTtgOKbRDkRVPXDUtZAA=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "0ZUtc1iN63/H/TZCneNZhtg5X4y5JvezeyUGkmZ2Ni0=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "U6JFXW/t0t7pHW9iiOP4fg7tm9M+U7LfLohEqFlpuXY=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "OhzFHUhaKIZwAfEnZlaKVUQhSbSkhKH72YaONyLVT30=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "6T1AO+du2nTJ6VuqAF6y69UesRorRQfNluglatSWA4k=",
+          "pp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.7-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "J4DPDcrZzoCtxmvEn1P8WYNvJgvJ6lRU/wZ/C5mmyQg=",
+          "pp37"
+        ]
+      }
+    },
+    "0.0.8": {
+      "wheels": {
+        "testgithubactionscookiecuttercppproject-0.0.8-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "mebGAoNSYZGF44gZ/I745xEtdXUlAB4uBCFOZoIG1Zk=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp36-cp36m-manylinux2010_i686.whl": [
+          "r5MJ6uQgZu3sMheE5yPCmJMF/aEQNoZD2UfWXTaDbbc=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "ecINPVNjCz0zWjGQ2HjfqITjZWOF73AHRCsh19pPjUo=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp36-cp36m-win_amd64.whl": [
+          "c5CO67lciUghMYPNKTtmz+dnrNgDdxLh88ZoyvMChKU=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "o6W2lnJnWF6PSty+8VbIN5cc6NYsSQivJEOYv+jfFFY=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp37-cp37m-manylinux2010_i686.whl": [
+          "BBAWFeAQyyiJX/49Er/JmstFDXCxuO3K83/r34L0jYA=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "jlutbD1YlSgW1yu7zeqw27c0lFfsDLTDfPOLhS2X8GE=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp37-cp37m-win_amd64.whl": [
+          "jzpEEsNV5DDhfJUQWflZxuluHf5g+AyfvuF2u7ltokQ=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "CF/TMc52sGywdg0XKVZBMRlKUxudrLdxP/My6C/Eits=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp38-cp38-manylinux2010_i686.whl": [
+          "JV+lVhEexWpKEBQVaHs5usk9nW2TH08CwhEniz5uCnM=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp38-cp38-manylinux2010_x86_64.whl": [
+          "s75mo3SC0bj9WiUHMCzhYs3Y2hS4OEfKZjb0dpXjyeY=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp38-cp38-win_amd64.whl": [
+          "g5/WsPnfK9kUG4ov3DVvkrv5LMnsC2LLhJkZ1ohZ7qU=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "RwVFd7J2OoWCF9FEMVNA/mdVkA+Dc/bntOfBs2wARrE=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp39-cp39-manylinux2010_i686.whl": [
+          "LPzlk1LnnQbbIiC+fzl9O3RgH8euf/4s7s6WmH/zQWo=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp39-cp39-manylinux2010_x86_64.whl": [
+          "voHjCfXOUmH7iAv0Vtty2cl9UH5RcXlyGgIvchPqQz8=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-cp39-cp39-win_amd64.whl": [
+          "SPNKiG+Uvt0ZW1wmqm6tUPoGfmeG+Z77Mj7ufMn/MZw=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "eYY4IltguoJbWFqzXQP7+4t40kdLfkmJOO4F3uv2Gc8=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "aVYb11vyPesO/52ZKxJkzHpjFgSygPUoq4zopcX1taw=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "cWlStIXKN9WnnoMzG7Px2YDl4nWvRA8NnEhhzBopwk8=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "lbO475ZRAoKEbZpYKFn1lVmxjd4HjZ7fhha2RlFG9RE=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "CPy+rq4QdsA1g1/kFX02fbVTlyg2UOJvHCENOmy6hfY=",
+          "pp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.8-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "DeFpw2hN8OdIFt3QHN5wNYIMqAPlhIL49Bnx0udrWEc=",
+          "pp37"
+        ]
+      }
+    },
+    "0.0.9": {
+      "wheels": {
+        "testgithubactionscookiecuttercppproject-0.0.9-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "OYGHmfcPuuzrzIcQzf1fWF+kwKOsSqBOXkWsk3U9STM=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp36-cp36m-manylinux2010_i686.whl": [
+          "iWYhJxUFm1u/NpA16YRImAZ2K3vvDanOCiBomFRJeJ8=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "Su0i9cHce67PI7G+K4mKtuFV6a0jDKcK/kVCEXhHAv8=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp36-cp36m-win_amd64.whl": [
+          "TCpsucRQMavUg8T8Cw+Uq2nHhfdUuQFPScFKllZMf/k=",
+          "cp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "jUTZbUmmlc7X9FKk3+Rn/bknymDgYABsNnTd7lGsgk0=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp37-cp37m-manylinux2010_i686.whl": [
+          "QaCcnk0592+/mB2Nh3Y9Di2rk0ZKcPZ7dNpjC8LriwY=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "hRV//VxM92y3D7TxKdXQbo6XRFOBEXgEPYKW6c3Homs=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp37-cp37m-win_amd64.whl": [
+          "KubgmeJIsIiLK7HzNkeWkMH5DoYB0lPbTcqrDxw9tpo=",
+          "cp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "gdTP2AA1N7IAvJ9Qn8Cv/MbxFQCI8AfU4bvxjPkGJ9A=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp38-cp38-manylinux2010_i686.whl": [
+          "TY6JRvh0Y9g7JnA4jfJ5J3ygpS0/pOH15UFaVzkLkW0=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp38-cp38-manylinux2010_x86_64.whl": [
+          "FDQAn9jZsCKyPCe3MOwaQ4CJYiQwlmw8cKrORDm2WU0=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp38-cp38-win_amd64.whl": [
+          "FZbLe7oPhXpwOUO6HOyl2EAONOngVaDVGoxTKqDvyRI=",
+          "cp38"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "WC/WU4Wtj4wahlbnHC89p2EVjKxB6fYkd23n5c7dh8A=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp39-cp39-manylinux2010_i686.whl": [
+          "HkxVUsoGn4wJexFXrP1M3lIs94SCc1ETgDDqYzxfkn0=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp39-cp39-manylinux2010_x86_64.whl": [
+          "/SW3jk+VWUwLzGxgaUOKQt2tn1Tzeynk3+2RJnqyc04=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-cp39-cp39-win_amd64.whl": [
+          "FYkAcqqVMJpzui63bNulsZXXiF98/xlhb4mrRezEg1g=",
+          "cp39"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "6xx5lhwl6/OuR3BZHkC/3v+CcD/fApQJtw3XYmE2td8=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "Ml2YLV4TPyig20Qd0so2VEGJyfWeCthXLepQ+AtYIog=",
+          "pp27"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "ej+A9eRYcBcQgX5M3+DE5tBeI0HoPz+OgvONKEx2frA=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "WeZEf8czFfT3+Q8FpKPbV0FPHtXmgCHMmfUxoNtuWls=",
+          "pp36"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "AwAFZC9rL832sllofCfMHu7kn55LTPqa13XGXM5OIyw=",
+          "pp37"
+        ],
+        "testgithubactionscookiecuttercppproject-0.0.9-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "cnBbwF2XVQa9N6BkMzQK0Qfty+OXa/xBqHnKJOhIq8w=",
+          "pp37"
+        ]
+      }
     }
   },
   "testwa-python-client": {
