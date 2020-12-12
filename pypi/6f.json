@@ -27,6 +27,20 @@
       ]
     }
   },
+  "aarpdf": {
+    "0.1": {
+      "sdist": [
+        "GmEfYPpF5mBd7mWubQdH5gA8LZyBaTWbxvxCBLPfdUE=",
+        "aarpdf-0.1.tar.gz"
+      ],
+      "wheels": {
+        "aarpdf-0.1-py3-none-any.whl": [
+          "ZuK6bnpVwqNqdiLWtSF1kcbW1wnvpMEetzNZsz9byME=",
+          "py3"
+        ]
+      }
+    }
+  },
   "aasalert": {
     "0.3": {
       "sdist": [
@@ -6021,6 +6035,20 @@
           "py3"
         ]
       }
+    }
+  },
+  "cgal": {
+    "5.0.3": {
+      "sdist": [
+        "KLulZraw6ajhGLmwBdf0ivCI+e0bPKG+APOVdTjsl2U=",
+        "CGAL-5.0.3.tar.gz"
+      ]
+    },
+    "5.0.3.dev1": {
+      "sdist": [
+        "/ytoG5Zud4MIEprriGn7lkDZWABFTSZufigxDi4LGcE=",
+        "cgal-5.0.3.dev1.tar.gz"
+      ]
     }
   },
   "chainlearn": {
@@ -16595,6 +16623,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.6.1": {
+      "sdist": [
+        "9dtE4u8TrR0II76cUDqG+6HKM0rVVraKHf+0MtkiMyM=",
+        "django-sqlite-file-cache-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "django_sqlite_file_cache-0.6.1-py2.py3-none-any.whl": [
+          "7kOGWi6hRtY/FN3eMOK+cEvRoi7FURzhya1laaHmShs=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "django-taggit-templatetags2": {
@@ -19685,6 +19725,18 @@
           "py3"
         ]
       }
+    },
+    "1.5.1": {
+      "sdist": [
+        "4+aeRe4SYi+bPCIzaXC7EJmrWHnEsRMUOx1MRiOn4Kw=",
+        "elyra-1.5.1.tar.gz"
+      ],
+      "wheels": {
+        "elyra-1.5.1-py3-none-any.whl": [
+          "1rXGyyT951cFA83KLviYQJsEpLjtpv9whF6zTqDXOLk=",
+          "py3"
+        ]
+      }
     }
   },
   "emr-launcher-aws": {
@@ -20198,6 +20250,12 @@
       "sdist": [
         "rs0xMeUS9qt78+/JvsBxy0dJ9RRstdjZJUjRO2g9Lp8=",
         "enough-2.1.6.tar.gz"
+      ]
+    },
+    "2.1.7": {
+      "sdist": [
+        "TK9h9lxlzja4BfYHg8jwzgAVhYqWGAsg6udCAR/Gm9A=",
+        "enough-2.1.7.tar.gz"
       ]
     }
   },
@@ -53720,6 +53778,58 @@
         ],
         "pyats.log-20.10-cp38-cp38-manylinux1_x86_64.whl": [
           "eqOP4jhi6QZbK9zqcXtyUHR/yGo8HFlpBXtWnHH4qgU=",
+          "cp38"
+        ]
+      }
+    },
+    "20.10.1": {
+      "wheels": {
+        "pyats.log-20.10.1-cp35-cp35m-macosx_10_10_x86_64.whl": [
+          "A4+5DSOFU63p1OTl/o3KFmjCp5xLUIaAimtkpm7huxk=",
+          "cp35"
+        ],
+        "pyats.log-20.10.1-cp35-cp35m-manylinux1_i686.whl": [
+          "DupVt5gWA2WPT3gTnLIbQdNI+F4KQBn5m81yXt+HDkk=",
+          "cp35"
+        ],
+        "pyats.log-20.10.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "jz4KgTC4BOkU3LcduFIhlf5CzPDmsE7HCE5BrDFac8E=",
+          "cp35"
+        ],
+        "pyats.log-20.10.1-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "FdA2uBnsqOx5sn26t+a0WqtzGAW1JRlJDTxzdRtFRN8=",
+          "cp36"
+        ],
+        "pyats.log-20.10.1-cp36-cp36m-manylinux1_i686.whl": [
+          "2uuKdbiJS7Hs4Z2EczXHIE0vphhYwo94iEZM2Up9fYQ=",
+          "cp36"
+        ],
+        "pyats.log-20.10.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "oVEWhl3p2/GGUV6RQ6Vw4GerL23389FXdyq8NoShgIU=",
+          "cp36"
+        ],
+        "pyats.log-20.10.1-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "X9L+kcuZu57GLZsEls7L1Pfdc2nMhLYtImlGmkQDt48=",
+          "cp37"
+        ],
+        "pyats.log-20.10.1-cp37-cp37m-manylinux1_i686.whl": [
+          "26UipqXNU9VBxjzX2ddqCjr291cooVRzi7GFBSXzBNI=",
+          "cp37"
+        ],
+        "pyats.log-20.10.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "QVId4GvUWWVPE2RLPCsnjp3aHfGenkAb4cgMNmXgpHE=",
+          "cp37"
+        ],
+        "pyats.log-20.10.1-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "WM349td8HFFh83T4l3BzriAyeeRNRdGA2GSzBvLxKEs=",
+          "cp38"
+        ],
+        "pyats.log-20.10.1-cp38-cp38-manylinux1_i686.whl": [
+          "CBxlbgRBq3/MWNNGbIFYJYFSG4ybthvFRiEx4Va598E=",
+          "cp38"
+        ],
+        "pyats.log-20.10.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "F2XH+fDpicv7rP43X5CR+E/aKETRZR6qUFqVKz2gb/s=",
           "cp38"
         ]
       }
