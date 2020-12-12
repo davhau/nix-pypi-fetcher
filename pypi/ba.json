@@ -4144,6 +4144,18 @@
         ]
       }
     },
+    "1.78.0": {
+      "sdist": [
+        "JvvP3Vs6+BFs86rSStRZg4bdwCBBHSP2waVSDaU3apo=",
+        "aws-cdk.aws-cloudtrail-1.78.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudtrail-1.78.0-py3-none-any.whl": [
+          "AJOzLHMRe3FEvatIsDM0+ySWpc+2ONbEU3Ej8aHRuQQ=",
+          "py3"
+        ]
+      }
+    },
     "1.8.0": {
       "sdist": [
         "m9YzU6ihr8YWlf5CM3jkhmSas6b6XLligGJdTBvLeFw=",
@@ -5486,6 +5498,18 @@
       "wheels": {
         "aws_cdk.aws_ecs-1.77.0-py3-none-any.whl": [
           "CenV+h/9qjJPApOa1SKKyA3CUreAxulPBaPOF9ACtqs=",
+          "py3"
+        ]
+      }
+    },
+    "1.78.0": {
+      "sdist": [
+        "jG4C2SliHY/0794tzyc1FyqoBNTA/cdAE3n0GKMK+mg=",
+        "aws-cdk.aws-ecs-1.78.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ecs-1.78.0-py3-none-any.whl": [
+          "OC9/SFDQf138wm7vFn3S66iE9tko/7HuVgMVmIglVa8=",
           "py3"
         ]
       }
@@ -18114,6 +18138,18 @@
       "sdist": [
         "sUDbKWkfmkC1nN6jNi3sq9AVedQeyAAgjUFaiVL4Q8c=",
         "dune-fem-dg-2.8.0.dev20201211.tar.gz"
+      ]
+    },
+    "2.8.0.dev20201212": {
+      "sdist": [
+        "d1qRS5xU9GZPzkY8NWn+AK6hBPfNm0ho8bjM9XXwzcs=",
+        "dune-fem-dg-2.8.0.dev20201212.tar.gz"
+      ]
+    },
+    "2.8.0.dev20201213": {
+      "sdist": [
+        "PBRAI9v+iEpnJuuoWduBaRUiNCS7o3eeYamJlrp1DO8=",
+        "dune-fem-dg-2.8.0.dev20201213.tar.gz"
       ]
     }
   },
@@ -54680,6 +54716,14 @@
         ]
       }
     },
+    "13.0.1.1.1": {
+      "wheels": {
+        "odoo13_addon_intrastat_product-13.0.1.1.1-py3-none-any.whl": [
+          "3srLmvd9Pw1f6ZLmSbdsBQBFX9G4vMBErRAKYItF4HM=",
+          "py3"
+        ]
+      }
+    },
     "13.0.1.1.1.dev1": {
       "wheels": {
         "odoo13_addon_intrastat_product-13.0.1.1.1.dev1-py3-none-any.whl": [
@@ -54692,6 +54736,22 @@
       "wheels": {
         "odoo13_addon_intrastat_product-13.0.1.1.1.dev10-py3-none-any.whl": [
           "3rH9rpfQnUfRcr/WQE+UFn0evw8dyuxD3cRUlcoIVEI=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.1.2": {
+      "wheels": {
+        "odoo13_addon_intrastat_product-13.0.1.1.2-py3-none-any.whl": [
+          "tJKtEcD6r1hd2w61osbEa4sWQH88dnKg3tM7t2n5qBs=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.1.2.dev1": {
+      "wheels": {
+        "odoo13_addon_intrastat_product-13.0.1.1.2.dev1-py3-none-any.whl": [
+          "1EvAF+ag+KQU+ltbxYOCeSN7F8Zo0z7kGI2QVlplXrM=",
           "py3"
         ]
       }
@@ -86261,6 +86321,34 @@
           "cp38"
         ]
       }
+    },
+    "2.5.0.dev20201212": {
+      "wheels": {
+        "tf_nightly-2.5.0.dev20201212-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "FKj5g83mIaQnyxNnB5zhHwpDrfsjPvu4CrZgvg43CJo=",
+          "cp36"
+        ],
+        "tf_nightly-2.5.0.dev20201212-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "0EaRVDSCkML7UY+jIuISLoMLlVuvXwsTVr+w0rF729M=",
+          "cp36"
+        ],
+        "tf_nightly-2.5.0.dev20201212-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "jqREs+eY2yHd/2CLeNnHBywI3y2mrlyhA5MGuPrqIaY=",
+          "cp37"
+        ],
+        "tf_nightly-2.5.0.dev20201212-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "v7hw8pxYSOyTxa1DYIc0CzDezTP6sIs1sDgRn2n1fMU=",
+          "cp37"
+        ],
+        "tf_nightly-2.5.0.dev20201212-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "RY7mN1fWV5MXHTJWMRskD9gHw/mDcv1bIUU43qfEgjo=",
+          "cp38"
+        ],
+        "tf_nightly-2.5.0.dev20201212-cp38-cp38-manylinux2010_x86_64.whl": [
+          "MBlzIFMIaq3l4gZmjU6r7XYSksh/GCLAgj59wteLCyU=",
+          "cp38"
+        ]
+      }
     }
   },
   "tf-slim": {
@@ -89634,6 +89722,18 @@
       "wheels": {
         "uvicorn-0.13.0-py3-none-any.whl": [
           "USNgbg8dFf++D2MWHFB498KPNQxesQJDVnHq5YBG2w8=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.1": {
+      "sdist": [
+        "KnsX9NmEjWVXzMInSl98l/Ha8DfRMKDGkY9nzZvIzfU=",
+        "uvicorn-0.13.1.tar.gz"
+      ],
+      "wheels": {
+        "uvicorn-0.13.1-py3-none-any.whl": [
+          "b8znTAC3fU9LPte6Gyo3DScTO/20b4Nbenbf4KjBEK4=",
           "py3"
         ]
       }
