@@ -2728,6 +2728,18 @@
     }
   },
   "apache-airflow-providers-apache-sqoop": {
+    "1.0.0": {
+      "sdist": [
+        "kmvD+dW8ew9mE1ELk/Ro50pAfliONZPCAKvYW+IODXo=",
+        "apache-airflow-providers-apache-sqoop-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_apache_sqoop-1.0.0-py3-none-any.whl": [
+          "c6VfBnxPkm9srBuooTqvdHwSmYvkZBPKjQ7YXKChT2U=",
+          "py3"
+        ]
+      }
+    },
     "1.0.0b1": {
       "sdist": [
         "LVBNEesJix3bHw+2+WwGFDrQ1+n7t/z0uIhouCRSVTU=",
@@ -2766,6 +2778,18 @@
     }
   },
   "apache-airflow-providers-jira": {
+    "1.0.0": {
+      "sdist": [
+        "ZNh6MMg7CeYqxRAi06J6ZJo+zwobMEF+whXEtllZ4/c=",
+        "apache-airflow-providers-jira-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_jira-1.0.0-py3-none-any.whl": [
+          "DvlLCGFIENrffwFIdvHzFQ3JupECnvEh7o6Aqf622jc=",
+          "py3"
+        ]
+      }
+    },
     "1.0.0b1": {
       "sdist": [
         "jjuM2Eicsb99gTMlbv+vYV80TbXauwKJjOASWZNhevk=",
@@ -3406,7 +3430,25 @@
       "sdist": [
         "wQDLd14MLnSaoOvHTT6/wxVE9l+o+KxDJDNM3fQjlyI=",
         "arcor2_calibration_data-0.1.0.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "arcor2_calibration_data-0.1.0-py38-none-any.whl": [
+          "TdMx61LXgLZOeeLdJ+yAaGIRKvvmOJqDM8FoJKx3Y7w=",
+          "py38"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "JBeBAMGktUrb1Z5BofYgn/y/+EfJXKoOLZK8MdEo5MU=",
+        "arcor2_calibration_data-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "arcor2_calibration_data-0.1.1-py38-none-any.whl": [
+          "R/g4XqiQT3xxNwIWxxYGRUvqMwWT9LLTx9Ij0bf2RFM=",
+          "py38"
+        ]
+      }
     }
   },
   "arcula": {
@@ -23119,6 +23161,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.1.dev3": {
+      "sdist": [
+        "QWaX8oR8fPCzh+BB/WxZH73hzR2lHw7DajQzGzN4CLk=",
+        "drf_keycloak_auth-0.0.1.dev3.tar.gz"
+      ],
+      "wheels": {
+        "drf_keycloak_auth-0.0.1.dev3-py3-none-any.whl": [
+          "ibJ8rjGt4BzcCcN/KlxGo7xrSNS3c5uS9MPdwiu0MQE=",
+          "py3"
+        ]
+      }
     }
   },
   "drf-tweaks": {
@@ -32803,6 +32857,62 @@
         "google_crc32c-1.0.0-cp38-cp38-manylinux2010_x86_64.whl": [
           "QftsIs1yrj202Y0o27do1TOXyPw8uKuUX9Q06ELmItQ=",
           "cp38"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "am86Nl3l9DPkFgK3PfITBvZ/AvFf3SdQlhrn1KRimGM=",
+        "google-crc32c-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "google_crc32c-1.1.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "68PHlNn5bQ+7UXeYThIgbT1zcXYvZ3gs/RUOMnIriu0=",
+          "cp36"
+        ],
+        "google_crc32c-1.1.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "Spq2FOyF0Jd692oJPKtRTOeOwgujzs069HFaERpewlA=",
+          "cp36"
+        ],
+        "google_crc32c-1.1.0-cp36-cp36m-win32.whl": [
+          "ux1++4gUBpY92Rn7w9tPJIpaoMYAKVsqZepo1Mp5Ayo=",
+          "cp36"
+        ],
+        "google_crc32c-1.1.0-cp36-cp36m-win_amd64.whl": [
+          "4l6M950drwXa5pv03Rtz8u40Z09OpEF27TzXZPIGzJ0=",
+          "cp36"
+        ],
+        "google_crc32c-1.1.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "8FBDNgS1X/fvvKCZ0LgG3Lv1/B7sKiZA62HKDkSq7Vs=",
+          "cp37"
+        ],
+        "google_crc32c-1.1.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "J584voiydIctnJ740EeaC8Mnnlt/rr6kWoZQHRgAAkI=",
+          "cp37"
+        ],
+        "google_crc32c-1.1.0-cp37-cp37m-win32.whl": [
+          "0M7elILsLDzDwbj6EcEPGsR2Dh29jv2145+TQgynW+w=",
+          "cp37"
+        ],
+        "google_crc32c-1.1.0-cp37-cp37m-win_amd64.whl": [
+          "KOBxLdtzugLlpPA9VxqGTooeZJQeOUqKzhEYEokDxzs=",
+          "cp37"
+        ],
+        "google_crc32c-1.1.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "VeRBNuCiPefzEgdkTVdlwcVUAveyO/GmYlMX9NUMhyU=",
+          "cp38"
+        ],
+        "google_crc32c-1.1.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "mtlaFn97+OJ5kmd7Wx5BHqrfD/qBlh+iA9iLK+U5Rhg=",
+          "cp38"
+        ],
+        "google_crc32c-1.1.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "Y4XYfNFafJ9/9jsI9tAchmUFOtafGsgAVM96lKcTm/w=",
+          "cp39"
+        ],
+        "google_crc32c-1.1.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "grTOHFFaRV8h5PauqNRSUuKzGfpgS42fLLMB1adS9Xg=",
+          "cp39"
         ]
       }
     }
@@ -47580,6 +47690,18 @@
         ]
       }
     },
+    "1.16.36.0": {
+      "sdist": [
+        "KFU3XiOgOmXgk8rcjaiXBCGPpC5DAWdecfhZ5Gd/0NA=",
+        "mypy-boto3-frauddetector-1.16.36.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_frauddetector-1.16.36.0-py3-none-any.whl": [
+          "1Ih2h/KX1mlR6EabuHe9Fln77qE9fw7hD3wlrqK5iB4=",
+          "py3"
+        ]
+      }
+    },
     "1.16.4.0": {
       "sdist": [
         "P5mdM+0prcrb7Ompl/yfK3YrD90oU73MNDGEILV17Rw=",
@@ -50374,6 +50496,18 @@
       "wheels": {
         "mypy_boto3_qldb-1.16.35.0-py3-none-any.whl": [
           "b6e0SRTjg7KFsVy8sdIoSAIhz9SU3je/j+ByG+xe2oQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.36.0": {
+      "sdist": [
+        "ARBwLwpQfn68EhQTJjtostZuE8MV05osqCxTmfi97vQ=",
+        "mypy-boto3-qldb-1.16.36.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_qldb-1.16.36.0-py3-none-any.whl": [
+          "+UzllvjwXKCQj78hsdEzwCuu64yIXHvF6uB+3uRK8yA=",
           "py3"
         ]
       }
@@ -95596,6 +95730,12 @@
       "sdist": [
         "QlIWp2JGFdnzabg+EVCtM4TYxpYK3c0+ZnF2JfsqE7Y=",
         "vivarium-cobra-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "iXRGdgyvqxtQb9WDWNJ2c+5ttnmwKBkFtUIZxD4T/N0=",
+        "vivarium-cobra-0.0.2.tar.gz"
       ]
     }
   },

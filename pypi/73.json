@@ -4042,6 +4042,12 @@
         "ansible-base-2.10.3rc1.tar.gz"
       ]
     },
+    "2.10.4": {
+      "sdist": [
+        "1NrVaYZMCNjvtq2ZrPSOxG19EY+M7WTxGF+OrCwoDsM=",
+        "ansible-base-2.10.4.tar.gz"
+      ]
+    },
     "2.10.4rc1": {
       "sdist": [
         "zc8pEkwu4Id2bXgoy9hAiuQCemLpppYGrgT9d/HyOhw=",
@@ -21120,6 +21126,18 @@
       "wheels": {
         "detector_worker-0.2.9.9-py3-none-any.whl": [
           "XIb7p/UVPthDiorQd5leZiDhyduK/8dLtMc2IUDTmng=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0.0": {
+      "sdist": [
+        "hJrZ5ar0jINSzw835KwCPCPJe5l0MuqLN9x8AcbQY34=",
+        "detector_worker-0.3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "detector_worker-0.3.0.0-py3-none-any.whl": [
+          "yNxcxgJ/y/W8W6yA/JLYab0uoxYM+InRoPgEhrHt42U=",
           "py3"
         ]
       }
@@ -89597,140 +89615,6 @@
         "uJnFO2h00eGoXBRs5nyYUfhhB4xUekaqe47UIGGvhZA=",
         "winney-redis-0.1.3.tar.gz"
       ]
-    }
-  },
-  "wk-spectra": {
-    "0.0.1": {
-      "sdist": [
-        "OPc3Y1SGQ0CeTb7GTqJ0U/fNA7gQlb44/edRT1wGxB4=",
-        "wk_spectra-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "wk_spectra-0.0.1-py2.py3-none-any.whl": [
-          "38CZMGWqnb1ceNbwYHRoFzB7X0MSlAFUpJhj+r7cITI=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "wfxtwGz/mO0/8iufKQTOgcF5HBhRQ9UnZMUsSR48JwU=",
-        "wk_spectra-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "wk_spectra-0.0.2-py2.py3-none-any.whl": [
-          "dQBoWuqfnreSpE398JQkBFbPOlZXJ7+6BL3DCuFfJEo=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "68Xc45Qm+nTO081kxcD/xSAZwmi48pAlGFjSE6XTSUw=",
-        "wk_spectra-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "wk_spectra-0.0.3-py2.py3-none-any.whl": [
-          "4btC1H/6pnZXI+uAt3/rPYbwM5GhfSne8595B0gB0QQ=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "q0CjoK61g65/XRotP352fgdafVL2cafQhLsVMoWB45w=",
-        "wk_spectra-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "wk_spectra-0.0.4-py2.py3-none-any.whl": [
-          "fYeQUSxRe6s2sMIIrBYGDyo2ednQbX2UqbcItueGr1A=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "vsNxNR0vCUGp3PWsU1XET8BCDKiiOXBVUI8+NyXnbrk=",
-        "wk_spectra-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "wk_spectra-0.0.5-py2.py3-none-any.whl": [
-          "fBpZV0cUk3bKqbFKKPkAEIpz08B7JOo8lfHRLNFyr0A=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "LWftvyDVXoC8CfhiIhwf8MWXgDdRDNVHd9QbA1DO2/s=",
-        "wk_spectra-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "wk_spectra-0.0.6-py2.py3-none-any.whl": [
-          "2fIagyb6SMC9k+fNE4ew9dkbpIgCsytdVun987hbFK4=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "7WKWK7TujZuyX8AiR9qqlEVVwiaNuAcTFviQO8afnZQ=",
-        "wk_spectra-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "wk_spectra-0.0.7-py2.py3-none-any.whl": [
-          "8cQ0NU4jm3IxR2Cg5Q8WsUVdXiR2kQPLYeREBljbyVc=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "PX7EoSTYvUrvWE3BhS5V/Y88nfg2UgCP9Mv/QDU6QLk=",
-        "wk_spectra-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "wk_spectra-0.0.8-py2.py3-none-any.whl": [
-          "Mwb/RRLjjvMwGTRdWL8gYoycSfG8PXXWnyD8qfJw1hc=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "NkR6yF8jimhBsa/keHOaA2D8PmZM8rR8ZQjwDnHK1FA=",
-        "wk_spectra-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "wk_spectra-0.0.9-py2.py3-none-any.whl": [
-          "E6kkto2Z41LzqgjotIttuH+8UFh6GK6K/Ps4vd9rbs0=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.0": {
-      "sdist": [
-        "37s0INFw6JdGBRcw0QvIQQpIDynggMzaZpIz3t3+ttM=",
-        "wk_spectra-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "wk_spectra-0.1.0-py2.py3-none-any.whl": [
-          "30jRXuJdNK77Gn+W9Fc99ooMN1UwPT35rlZTDaGE/Ho=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "0hd4N2GumO9fK/yDN21hvLnZ5Zz79lDiniHwqYbJlsk=",
-        "wk_spectra-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "wk_spectra-0.1.1-py2.py3-none-any.whl": [
-          "UryvWKS71XzCLk/ehgsuds7M6Z7WSzSVxYjCUZoznFw=",
-          "py2.py3"
-        ]
-      }
     }
   },
   "wordfunctions": {
