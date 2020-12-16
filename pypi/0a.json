@@ -20879,20 +20879,6 @@
       }
     }
   },
-  "feature-change": {
-    "0.1.0": {
-      "sdist": [
-        "GcU/wafa6/5LrpDKUSHXFDC+yGHu3D1JmdoWgIzrk58=",
-        "feature-change-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "feature_change-0.1.0-py3-none-any.whl": [
-          "ABGxkk1ceZg1wIzflVSX7PSWWCeawXacESiC5WHtm/s=",
-          "py3"
-        ]
-      }
-    }
-  },
   "feon": {
     "1.0.3": {
       "sdist": [
@@ -37908,6 +37894,18 @@
         ]
       }
     },
+    "1.16.37.0": {
+      "sdist": [
+        "kgeEKWuY5go9IFVDs+E5t23m8yexCDYwTgrBuxzwebk=",
+        "mypy-boto3-networkmanager-1.16.37.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_networkmanager-1.16.37.0-py3-none-any.whl": [
+          "apjVn5pdZw9oOSRBvCmkSVwSOwFL2worfoSEwKpSGGw=",
+          "py3"
+        ]
+      }
+    },
     "1.16.4.0": {
       "sdist": [
         "FibiQFw9AkT5jOUkzVFSuH8zqG5eehGyUNESucYykzk=",
@@ -50105,24 +50103,6 @@
       ]
     }
   },
-  "pybiology": {
-    "0.0.1": {
-      "wheels": {
-        "pybiology-0.0.1-py3-none-any.whl": [
-          "YnTqR0nxkk1Zga5RG6w4/AaA6esIWcZyLa6ZG7yr2PQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "wheels": {
-        "pybiology-0.0.2-py3-none-any.whl": [
-          "QJ4IkaRXz9u3diu+CxhaTe7oVEZwpd7NHiPU0dmZ04Y=",
-          "py3"
-        ]
-      }
-    }
-  },
   "pybo": {
     "0.1.3": {
       "sdist": [
@@ -56051,6 +56031,78 @@
         "pyfastx-0.7.0-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
           "6d+m5SBN/6DQV/zh6JE7LvjQ4JW8q+/BbB2u3QQjEBU=",
           "pp36"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "r+1FC6PiBmyNnRNCKDjfcocnFp2ysz8TwyRSaJJUHyY=",
+        "pyfastx-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "pyfastx-0.8.0-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "9B7yN+LBxCJGzM6JojZqybx/rVB3jKGWnP5HkJKmso4=",
+          "cp35"
+        ],
+        "pyfastx-0.8.0-cp35-cp35m-win32.whl": [
+          "hiVs+h+T0hz3ZbyiHfV1Iv2eR17Pq4kDcN0kTRIt2h4=",
+          "cp35"
+        ],
+        "pyfastx-0.8.0-cp35-cp35m-win_amd64.whl": [
+          "yshoJobNVAFE7ixfYy4j9PoMe5iw9fEXinTxZubDUCA=",
+          "cp35"
+        ],
+        "pyfastx-0.8.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "nKxM1kxJ/8VDQq/VE1QYFQk4+Sd8+b3i5JTtdjvsNmo=",
+          "cp36"
+        ],
+        "pyfastx-0.8.0-cp36-cp36m-win32.whl": [
+          "5Ecn45tyvHlwRc2/dRooGoxnHKLBtVIq9q0iud6NQfo=",
+          "cp36"
+        ],
+        "pyfastx-0.8.0-cp36-cp36m-win_amd64.whl": [
+          "CSM+aTu8YbA1MYQy9hQX5or9R+/hI2T2Jj63MHAldtU=",
+          "cp36"
+        ],
+        "pyfastx-0.8.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "tmg306PPe1iAzkF8QSJSwq9hNZD7Pbp4RQUi3uqk0Sw=",
+          "cp37"
+        ],
+        "pyfastx-0.8.0-cp37-cp37m-win32.whl": [
+          "4sGdHUroivaxs3DbMVU0PDrIgu6RIFgWGAg0/XswiqQ=",
+          "cp37"
+        ],
+        "pyfastx-0.8.0-cp37-cp37m-win_amd64.whl": [
+          "S9D5Gi1rMPK5oPQvV7adtFqf3YThAUJdJC2H4zUf2zE=",
+          "cp37"
+        ],
+        "pyfastx-0.8.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "zDNYddkdwQ4E63RXEShQI3si1IJBI2Wglf6n4Ao9m4E=",
+          "cp38"
+        ],
+        "pyfastx-0.8.0-cp38-cp38-win32.whl": [
+          "e2r4W6TsFSlDmte72Y6R5dYNQyAng8aUHY0E9gTZo9Q=",
+          "cp38"
+        ],
+        "pyfastx-0.8.0-cp38-cp38-win_amd64.whl": [
+          "GKQN7cG2GnxKRXKWV2vHXsGx/CJLFL89UqL3Aed13lY=",
+          "cp38"
+        ],
+        "pyfastx-0.8.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "w1qFli/B9iIXVBzEfBYr0OUQEHC5KoMRIhzpDd2KSio=",
+          "cp39"
+        ],
+        "pyfastx-0.8.0-cp39-cp39-win_amd64.whl": [
+          "jfqD/E5hRHE0kNZ8k5mNoqO1vLlOBeiPcGsKNO3YcaM=",
+          "cp39"
+        ],
+        "pyfastx-0.8.0-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "I1AKLavQDpbtKs+NVKc+lVQBRGVGJa+ak615arevZho=",
+          "pp36"
+        ],
+        "pyfastx-0.8.0-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "44vOMvtLRKOmO17feJHUoFBIBVRe/ddGCaTPB2Sj8XM=",
+          "pp37"
         ]
       }
     }
@@ -69964,6 +70016,18 @@
       "wheels": {
         "tcex-2.0.16-py3-none-any.whl": [
           "5W1LAJ4Idv85SG+5bzrbP0DstbF0aLaOeASYa/egBLs=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.17": {
+      "sdist": [
+        "zogXYlx/gCmSaCamID5BNwxOX+cZIdSD+PCP+BpMqxw=",
+        "tcex-2.0.17.tar.gz"
+      ],
+      "wheels": {
+        "tcex-2.0.17-py3-none-any.whl": [
+          "/4bPSxEdvVq0XB68xXK/bJDqQYs2WM9mjbOy9orkWZk=",
           "py3"
         ]
       }

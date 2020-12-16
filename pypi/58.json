@@ -299,6 +299,14 @@
           "py2.py3"
         ]
       }
+    },
+    "2.7.6": {
+      "wheels": {
+        "acq400_hapi-2.7.6-py2.py3-none-any.whl": [
+          "BclquD3mJqq0QvjGgBrCDEYzioH5B99QwSaVYPMN8XY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "adafruit-circuitpython-bd3491fs": {
@@ -9760,6 +9768,12 @@
       "sdist": [
         "GN5nu+KuxuvSnOvz9A0EZKO6SIV7JPjYarR8M+LzS2s=",
         "cleaning-scripts-0.2.28.tar.gz"
+      ]
+    },
+    "0.2.29": {
+      "sdist": [
+        "Xi2+VY3hCGziQ8OdDLnHe0Qb5iIAHw5Cppy0Z4evBdg=",
+        "cleaning-scripts-0.2.29.tar.gz"
       ]
     },
     "0.2.3": {
@@ -29352,6 +29366,18 @@
       "wheels": {
         "jupyter_server_proxy-1.5.0-py3-none-any.whl": [
           "+AVenPM/7Gjx8b9Jeit4boFdt7c4pvVhaAdSUywIrHc=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.2": {
+      "sdist": [
+        "vpqCjdZMl59MYk7aXueNFhNxZjFKymwXGHu5PU40gCI=",
+        "jupyter-server-proxy-1.5.2.tar.gz"
+      ],
+      "wheels": {
+        "jupyter_server_proxy-1.5.2-py3-none-any.whl": [
+          "fZZsO+ltUiE0cYzWlgY4CGo+PK7tR7vxfdku6pKCTWs=",
           "py3"
         ]
       }
@@ -52803,6 +52829,18 @@
           "py3"
         ]
       }
+    },
+    "0.99.0": {
+      "sdist": [
+        "7B10y2g0xKREuq6ObBvuA5T49LQeSS2HCgYYRA8AveY=",
+        "pytest-salt-factories-0.99.0.tar.gz"
+      ],
+      "wheels": {
+        "pytest_salt_factories-0.99.0-py3-none-any.whl": [
+          "TUMeFaWzQcAMgQrqxZPU2VK0n/vWI86gk0nZpGgYfqI=",
+          "py3"
+        ]
+      }
     }
   },
   "pytest-testrail-api": {
@@ -54158,6 +54196,30 @@
       "wheels": {
         "pyWinActivate-1.2.0-py3-none-any.whl": [
           "CwNdYt7mrB1CCP97du450XP2ttpEFxJ8/gXW7ikGHaw=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "PKgMLr6dBxW4ZUZo7XYyq8QNQLBc1MA8S01+O4hiqIo=",
+        "pyWinActivate-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "pyWinActivate-1.2.1-py3-none-any.whl": [
+          "rIorNIkHlQuReg7Xf4ifExtNRUx4ZYmZsqn4FVz6N/0=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.2": {
+      "sdist": [
+        "/uzmJfo9XFNkFbuQcuK8jXuLyvnksT6DuG0CGdRAunQ=",
+        "pyWinActivate-1.2.2.tar.gz"
+      ],
+      "wheels": {
+        "pyWinActivate-1.2.2-py3-none-any.whl": [
+          "tmdoLRozIu9UAZy3YV6Emg/3imMrn+rH2NXPQsr4Qps=",
           "py3"
         ]
       }
@@ -58676,6 +58738,38 @@
     }
   },
   "smoldyn": {
+    "2.63": {
+      "wheels": {
+        "smoldyn-2.63-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "lee59ZZMkFgBHobjQZDqaUctvaRc9Q9DzFrhCo1JEio=",
+          "cp37"
+        ],
+        "smoldyn-2.63-cp37-cp37m-win_amd64.whl": [
+          "K50oepaHrSjKxHMe5DtOZqe07QTROs13fmprVVFvrNw=",
+          "cp37"
+        ],
+        "smoldyn-2.63-cp38-cp38-manylinux2010_x86_64.whl": [
+          "pE5tqdC3wYcsVNv+3rpd/hN6SUkgseZ4UekFJeW8OAo=",
+          "cp38"
+        ],
+        "smoldyn-2.63-cp38-cp38-win_amd64.whl": [
+          "gfn4py5hePBXXypcwZGJLTM5TZ/fsIS8iqseoypn44c=",
+          "cp38"
+        ],
+        "smoldyn-2.63-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "rzecx1FJJuqdyunfiBZLraZYPUNi1t1wAakXxwV3f9M=",
+          "cp39"
+        ],
+        "smoldyn-2.63-cp39-cp39-manylinux2010_x86_64.whl": [
+          "Qtjm0rNdk5m5Ih3D0m+bEg34fArkbOYfyUm9aj6V1lU=",
+          "cp39"
+        ],
+        "smoldyn-2.63-cp39-cp39-win_amd64.whl": [
+          "0U67FddvyF+NVhRrsVsVB0fGsFd6QM0G3ZO2xAeAK4w=",
+          "cp39"
+        ]
+      }
+    },
     "2.63.dev20200112": {
       "wheels": {
         "smoldyn-2.63.dev20200112-cp37-cp37m-win_amd64.whl": [
@@ -65808,6 +65902,12 @@
       "sdist": [
         "C6oZcNWvPXoCsaERd5tC9+M3TbYsMw0AmRZ8UgyQc/E=",
         "tlclient-0.6.36.tar.gz"
+      ]
+    },
+    "0.6.37": {
+      "sdist": [
+        "s1kaYXQ8FfJFyZ52bmTg85SlOo7HZi9bNtXZLkvceqI=",
+        "tlclient-0.6.37.tar.gz"
       ]
     },
     "0.6.4": {
