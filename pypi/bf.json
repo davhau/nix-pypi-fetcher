@@ -1030,7 +1030,13 @@
       "sdist": [
         "1YsB47YuQdw1rdipMgs9KMHOq45HoOyPigGdyzfcOhY=",
         "alibabacloud_cs20151215-2.1.0.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "alibabacloud_cs20151215-2.1.0-py3-none-any.whl": [
+          "vZvB940EB+eQqOxO+it605ywNNhensj0RRQRbpke71A=",
+          "py3"
+        ]
+      }
     }
   },
   "aliyun-python-sdk-brinekingdom": {
@@ -4830,6 +4836,18 @@
       "wheels": {
         "aws_cdk.aws_apigatewayv2-1.78.0-py3-none-any.whl": [
           "p1qgP5ofh3mPWyFltl9oo0O1jmthW9Tq6BayRmxbyGA=",
+          "py3"
+        ]
+      }
+    },
+    "1.79.0": {
+      "sdist": [
+        "EqpQ96wjUiB3VGhx4BNvySyd0GnyySws189VL4TsRdM=",
+        "aws-cdk.aws-apigatewayv2-1.79.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2-1.79.0-py3-none-any.whl": [
+          "1uSbXlWbr2rCR6Y/0aSSc0XW1P16sm+64nhRlpxkap4=",
           "py3"
         ]
       }
@@ -38731,6 +38749,18 @@
           "py3"
         ]
       }
+    },
+    "1.16.38.0": {
+      "sdist": [
+        "5aTB6nLKi2yGfsgxoA4bpLTpRM9CqCItWk5tBX8Ktgk=",
+        "mypy-boto3-amplifybackend-1.16.38.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplifybackend-1.16.38.0-py3-none-any.whl": [
+          "KCjEUJcNN57Chuc70QGnfYZqePfamf0j+xibIv24Rfc=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-sagemaker-a2i-runtime": {
@@ -41262,6 +41292,18 @@
       "wheels": {
         "mypy_boto3_sagemaker_a2i_runtime-1.16.37.0-py3-none-any.whl": [
           "abZYoiGxT0hOSaI6An0Lom8LLk4Y4ZY9t6hCMaUcGEo=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.38.0": {
+      "sdist": [
+        "+8lcnr5l1RawZ+2x+ibfcXs36mlERm1WlevIyjgt+Ec=",
+        "mypy-boto3-sagemaker-a2i-runtime-1.16.38.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sagemaker_a2i_runtime-1.16.38.0-py3-none-any.whl": [
+          "cxZ/TGek/Bm7OWUzTrf0e4E2z5Qv1JeLGct1q3sSOac=",
           "py3"
         ]
       }
@@ -49333,6 +49375,86 @@
           "cp38"
         ]
       }
+    },
+    "8.0.2": {
+      "wheels": {
+        "OpenGeode_core-8.0.2-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "QNejZwbsHRVTY/UNabWzy2GW/7SPdMaCo2TmnG5wCMw=",
+          "cp36"
+        ],
+        "OpenGeode_core-8.0.2-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "KcLBy1se7nOroxCCNONznvlnn559XJ6L4asuB0sKL68=",
+          "cp36"
+        ],
+        "OpenGeode_core-8.0.2-cp36-cp36m-win_amd64.whl": [
+          "dzol+mamEnmCrJpCUTrRZECixnfToOZK/jSMK4xBNn4=",
+          "cp36"
+        ],
+        "OpenGeode_core-8.0.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "io0KRo12XUlE2gEC/qcQ9ZYPOk/m4uE/aM+lSiKjOtQ=",
+          "cp37"
+        ],
+        "OpenGeode_core-8.0.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "KMjzlf+R2jrfliMQBY94nR/y2odgfKyA12J5kxrjy1Y=",
+          "cp37"
+        ],
+        "OpenGeode_core-8.0.2-cp37-cp37m-win_amd64.whl": [
+          "lNmha3xdIapIyCxEymVOjSCGbinFj0GHxza5uzEI2OI=",
+          "cp37"
+        ],
+        "OpenGeode_core-8.0.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "1yWxV+foL+Sqv3pnM9LbrNOA/7DEL0Gw7qcuYRj36aA=",
+          "cp38"
+        ],
+        "OpenGeode_core-8.0.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "/kVK/ywyVnLD30jZOnOVYXr71PnhkHvnNSn4+F16a50=",
+          "cp38"
+        ],
+        "OpenGeode_core-8.0.2-cp38-cp38-win_amd64.whl": [
+          "U3F765EyJ8Rlkn2wO8eHx1BPliRGFO0PjHlL0ylbM8U=",
+          "cp38"
+        ]
+      }
+    },
+    "8.0.3": {
+      "wheels": {
+        "OpenGeode_core-8.0.3-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "ms7+WY3QoJbzdYoim/gukOOozV65trIZM8UlX8sDTYw=",
+          "cp36"
+        ],
+        "OpenGeode_core-8.0.3-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "3ahK5XCrCxV07oXOdk40qgt21dFbNCDVAmmmeFbvCB8=",
+          "cp36"
+        ],
+        "OpenGeode_core-8.0.3-cp36-cp36m-win_amd64.whl": [
+          "FmwyVona5eTL5mCA+v2M1N1F2GWcfUQr0aLL4rRB60g=",
+          "cp36"
+        ],
+        "OpenGeode_core-8.0.3-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "3CbBqQhCGHdu8pPe1lEDA70/0/d9rhx25XdnxQ8alM8=",
+          "cp37"
+        ],
+        "OpenGeode_core-8.0.3-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "n1a73CDOFfw0BTETYgkJnu6rqGy49eTugbQP8IX0YVY=",
+          "cp37"
+        ],
+        "OpenGeode_core-8.0.3-cp37-cp37m-win_amd64.whl": [
+          "+8euRfC0JqZZR5QBSqTfOb95TYUJ2rfquiKa1gK3hdk=",
+          "cp37"
+        ],
+        "OpenGeode_core-8.0.3-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "tBrxT7A/CVOuh0hk61og74JnO3D1BXNC9Yq2wUGcuNw=",
+          "cp38"
+        ],
+        "OpenGeode_core-8.0.3-cp38-cp38-manylinux2014_x86_64.whl": [
+          "3PfWgpVyo1gUpaEV1VLfmLpMKv98n5gfGM16ZIs5y9I=",
+          "cp38"
+        ],
+        "OpenGeode_core-8.0.3-cp38-cp38-win_amd64.whl": [
+          "22ygPzrLoMMofNCR5kWzw54/Td5ZLAblKmMDI8A26u0=",
+          "cp38"
+        ]
+      }
     }
   },
   "opengles": {
@@ -55115,6 +55237,32 @@
       ]
     }
   },
+  "pyffm": {
+    "0.0.1": {
+      "sdist": [
+        "rHCzOTmXvCLssNFEocvQO39r+06FFOe5aLAhVQC6XQI=",
+        "pyFFM-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyFFM-0.0.1-py3-none-any.whl": [
+          "5hc6cEcgu5DeqlPf632RS38Sh95TA+Vx4mQXtF3vfOA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "nyg/oJZgtNGxq3Ydoh/75dWlir7EqtQhXmEQ8oOo6Tw=",
+        "pyFFM-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pyFFM-0.0.2-py3-none-any.whl": [
+          "SgeAM4f0uK/EIrUKbndbcRlyGRxK3o4XXxEwP5nfUqc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyfiniium": {
     "0.0.0": {
       "sdist": [
@@ -56935,6 +57083,20 @@
         "AUvS/WHnPo9niSoBFPvLMYXbO8dPcJkDea7bWzWahmc=",
         "python-meteor-0.1.6.tar.gz"
       ]
+    }
+  },
+  "python-mock": {
+    "0.0.2": {
+      "sdist": [
+        "yaR/qRUE/RBL6MOO01ux8y3F2YiXrbPTFSG5iONcIDg=",
+        "python-mock-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "python_mock-0.0.2-py3-none-any.whl": [
+          "A/ZkMDLzBIKzOTo7lA2mpw02yvshlLRbadgF9E/k+Dg=",
+          "py3"
+        ]
+      }
     }
   },
   "python-monkey-business": {
