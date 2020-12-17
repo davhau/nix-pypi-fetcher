@@ -14327,6 +14327,20 @@
       ]
     }
   },
+  "denoise-fmri": {
+    "0.1.0": {
+      "sdist": [
+        "8grHd8CuQoW9azeBpTfHaPAJ9g5M+YADahPXO+j43+4=",
+        "denoise_fmri-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "denoise_fmri-0.1.0-py3-none-any.whl": [
+          "yijvTN6RDTHOao7fQyIy/1skIgr+4fQTDNWu1TEBEP8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "deploybot-cli": {
     "0.0.1": {
       "sdist": [
@@ -19650,6 +19664,14 @@
         ]
       }
     },
+    "0.0.80": {
+      "wheels": {
+        "DockerBuildManagement-0.0.80-py2.py3-none-any.whl": [
+          "K/ri7W62Gos3eKhAw198xVklYOyKllQSulDHETVbcvY=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.0.9": {
       "wheels": {
         "DockerBuildManagement-0.0.9-py2.py3-none-any.whl": [
@@ -22707,6 +22729,30 @@
           "py3"
         ]
       }
+    },
+    "0.1.3": {
+      "sdist": [
+        "Gcx1yO2XZYHOqY2kpTSzcVDaoagFJM2r0qx2dYzclpQ=",
+        "flyover-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "flyover-0.1.3-py3-none-any.whl": [
+          "s3nGqZ8fQjObwRRdka+rye1nUYnQqrmMt6Y92k3Cv4k=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "ytw4i6iwepVk4n6ABKVLZXkg6Zr3cSrxG9uUAWis+Rc=",
+        "flyover-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "flyover-0.1.5-py3-none-any.whl": [
+          "GbAOPXvAdd3oZ3HFw00/T8tGciOdPaOZdM3km7N+4FQ=",
+          "py3"
+        ]
+      }
     }
   },
   "flyr": {
@@ -24323,6 +24369,12 @@
         "bd22+eb7P4U5h+gEX5cXBsO0y9TLBAS14Dmf6lJy708=",
         "genoml2-1.0.0b8.tar.gz"
       ]
+    },
+    "1.0.0b9": {
+      "sdist": [
+        "PLDkFa19QpYClosLdhy7wu71/qlbC6jIM8caYkkorLQ=",
+        "genoml2-1.0.0b9.tar.gz"
+      ]
     }
   },
   "geo-frac-analysis": {
@@ -25654,6 +25706,20 @@
       "sdist": [
         "zt1FPUDsfd9BepuQTJsawUVhQWllFU34VBPJuZ3b10o=",
         "hotworker-0.2.0.tar.gz"
+      ]
+    }
+  },
+  "hplusminus": {
+    "1.0.0": {
+      "sdist": [
+        "R1ukOmHqDUG++kNkfnt/kpkV3mGNMAz/6PUTa3L6b3U=",
+        "hplusminus-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "WkQe3S91+fWl4WUIWJg4McN1nHYf/sNuVxNjlhHnl2M=",
+        "hplusminus-1.0.1.tar.gz"
       ]
     }
   },
@@ -35329,164 +35395,6 @@
       ]
     }
   },
-  "meteoserver": {
-    "0.0.1": {
-      "sdist": [
-        "HB2MDQYzdBRh1KWaHVoskBw600oTqx+waBA+A7fBIHs=",
-        "meteoserver-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.1-py3-none-any.whl": [
-          "HM6ElBXlO/8Vqp6CF0A7LqdBSgIXbHx3MpwA7J6+GG4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.10": {
-      "sdist": [
-        "HZCpBlQMy8wGPeVAbDYPFxkY6wf4S8xN0Tx5HtA1dDc=",
-        "meteoserver-0.0.10.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.10-py3-none-any.whl": [
-          "6lGjOaVc2sCqSGs9E1HAEtYwAgn2ZVmVIYq0+PEG5RY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.11": {
-      "sdist": [
-        "mNQP7/NYFrMporI0uKNPndLtYcbkuN4cT7El7Zok4Ys=",
-        "meteoserver-0.0.11.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.11-py3-none-any.whl": [
-          "1GD+g2/6aOMYbUkUflK4RnbWPyD0UDAxUsFUUo8CEXc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "3ppIExzWPGPXXSpZx5nUW0eA1WmPa8WHymMNywAFQHs=",
-        "meteoserver-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.12-py3-none-any.whl": [
-          "9E2BRbEIogHr6ksIImeHPAj2zZZnO9i364xdxUWJYaE=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.13": {
-      "sdist": [
-        "QqViG9CPU1osju0vhSN81sEpec58ZgPbPebyWu5Vpss=",
-        "meteoserver-0.0.13.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.13-py3-none-any.whl": [
-          "7MFCkB4IoEnAbGCz0v38kJ7F7zpddgp5M8KZ7S8+AGY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "1WvL5LYjE97HXFFATOByExrchDVAO70VjOhi64qDtFo=",
-        "meteoserver-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.2-py3-none-any.whl": [
-          "WwZbAlOYvOU5sbfZdAZPH1WTHN+BdlOLEZMIJ1NZLNo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "cei9E160gFbErA927KBsg5rIAZv/N8l6cRG9ygDqhic=",
-        "meteoserver-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.3-py3-none-any.whl": [
-          "/xlaVx8yggMl9L9bPoxCm56jLsIfkG1oAhujdhPSOnY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "XOJ+yzlCdo0cmbM5CLlAHaN1SynTHicYbqRd5v79z+8=",
-        "meteoserver-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.4-py3-none-any.whl": [
-          "EkuVaBpyQHJ2mBybuBFjaUt97y2++GyKRSnHTimpn58=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "3xFdfqBto5SVaWdn98eKzg/rNhKLN1RYytVqd+MIs7E=",
-        "meteoserver-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.5-py3-none-any.whl": [
-          "vdIs6VLHpsOq+UsSjrc9BSi2X//8DvKNeXzaG8WWJYQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "EA4CqpjqVIHLL1Z/ZwaX2E1VDwRrRezmvhsKK3F/f5o=",
-        "meteoserver-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.6-py3-none-any.whl": [
-          "Gm8xmbx7sj+k6oO+gMpDsqlGnS4UFlaAJ31jX4Tsd7Q=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "pF6OiB+xfZ9zpFg/MfMDd+rJLxVOVEJy1DdoBaUTIjY=",
-        "meteoserver-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.7-py3-none-any.whl": [
-          "fxuJkKSZsU2dafIXDxTiFV2pAmdxbIqhVdp9NRDl5mk=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "t7DApfdS1EErbIoAHe4WlabWomwOK/U9vTRmgeea6RY=",
-        "meteoserver-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.8-py3-none-any.whl": [
-          "G6WW/CovKvm/DaHzPyUwIw6kPjaOGP00vRKqouhCLyY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "wecfvsYiLs+YrvMXnALA4bWjMdXVntXGT8+ufJgk8aA=",
-        "meteoserver-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "meteoserver-0.0.9-py3-none-any.whl": [
-          "NAnQnH5fN97D0UgT+AA6nr+/LbHpPpjoSs3Z5cw3EqM=",
-          "py3"
-        ]
-      }
-    }
-  },
   "micropython-ds1631": {
     "0.4.4": {
       "sdist": [
@@ -39210,6 +39118,18 @@
       "wheels": {
         "mypy_boto3_iot_jobs_data-1.16.37.0-py3-none-any.whl": [
           "TPkUjuKUTlynjnJgePZ3VZSHKgcenBdZYBitHM4AHis=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.38.0": {
+      "sdist": [
+        "ifLnB8xPoW+skd3HdsA4zn4efEY344eESqbOOuhdKuY=",
+        "mypy-boto3-iot-jobs-data-1.16.38.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iot_jobs_data-1.16.38.0-py3-none-any.whl": [
+          "Tm1HsBV3FKF6IsMA2wS11hFdVdKMjUa52sFpGnz6EMg=",
           "py3"
         ]
       }
@@ -46060,6 +45980,18 @@
       "wheels": {
         "pod_rbf-1.1.0-py3-none-any.whl": [
           "GxC+b0cA1xDAXcgyvEhSEpWQIOrXm+HktxydHZFDXOk=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "7kLBnxySTbBsITfkIYwUD7mHirrlbx3P0QxKANI0TwM=",
+        "pod_rbf-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pod_rbf-1.1.2-py3-none-any.whl": [
+          "vZh73vmt4XEmIHQ/KEvcg78DimDgEQp9qRK+Utta51o=",
           "py3"
         ]
       }
@@ -53760,6 +53692,18 @@
       "wheels": {
         "pytest_flake8-1.0.6-py2.py3-none-any.whl": [
           "LpFXjs2bIABm+ZweHeD1EPu4W89DcS1G6in+R2B8wjQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "8CWXYakDVj8z1vCZkUr+8znAhQheZDvug0PrMjsy3Ws=",
+        "pytest-flake8-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "pytest_flake8-1.0.7-py2.py3-none-any.whl": [
+          "wozyPn01l1PIlnRf1LqFlJXQLhbIS6w2yqix7sWPW8E=",
           "py2.py3"
         ]
       }
@@ -74920,6 +74864,18 @@
       "wheels": {
         "zgw_auth_backend-1.0.0-py3-none-any.whl": [
           "9T1Bvdo5v/i8wdhapyJhe0MqcAKzPKNcmpPGJ4pKxgI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "kkHAE0BwtRlqqiSlGNGGWw3Zxxi5d4KUavlsv5prfdo=",
+        "zgw-auth-backend-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "zgw_auth_backend-1.0.1-py3-none-any.whl": [
+          "wsYXSlaBNo5bCQli7WKzqy4Cfq90ISSQA7nb7afpsq4=",
           "py3"
         ]
       }
