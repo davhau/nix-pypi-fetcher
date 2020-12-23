@@ -484,6 +484,12 @@
         "aiomsa-2020.12.1.dev20201222.tar.gz"
       ]
     },
+    "2020.12.1.dev20201223": {
+      "sdist": [
+        "detguGaIveA4DjqcIs6tKaoDmi5OYtLxngUIi732b40=",
+        "aiomsa-2020.12.1.dev20201223.tar.gz"
+      ]
+    },
     "2020.7.23": {
       "sdist": [
         "chw6yCp3MP7fyVxbTR/1h7iYMvyFClfYhH+gU+sKRyw=",
@@ -15554,30 +15560,6 @@
     }
   },
   "btf-extractor": {
-    "0.1.4b7": {
-      "sdist": [
-        "VUSWFkDgsce6omolyTRT8+3UaW4wkdP1yAQ87Cy8QFs=",
-        "btf_extractor-0.1.4b7.tar.gz"
-      ],
-      "wheels": {
-        "btf_extractor-0.1.4b7-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "Glc0eXONPSnnWjlIsrtWtlFfV81cU40C04MMSTyA7u0=",
-          "cp39"
-        ]
-      }
-    },
-    "0.1.5b1": {
-      "sdist": [
-        "xBtkPpNLqKfO2e6PJ4s2L+8m8plIImht+flqZJMDWu0=",
-        "btf_extractor-0.1.5b1.tar.gz"
-      ],
-      "wheels": {
-        "btf_extractor-0.1.5b1-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "hfidnF0i3hSSeOLpgFrm2WjIOHDTn3YPOcHlqK7Hcgw=",
-          "cp39"
-        ]
-      }
-    },
     "0.1.5b2": {
       "sdist": [
         "bePkBTAOMHByZYhPHsrto8/GA/5FO+JoXUXnWepXdqk=",
@@ -15598,14 +15580,66 @@
         ]
       }
     },
-    "0.2.0b1": {
+    "1.0.0": {
       "sdist": [
-        "MZ+99OQA+7LVkYgdLCsQsek3efhztPDfushnz7/2C/M=",
-        "btf_extractor-0.2.0b1.tar.gz"
+        "BBhEdKPWztZf205AwsAeRTBv/hgIcOkZCX+G8i7L9ZI=",
+        "btf_extractor-1.0.0.tar.gz"
       ],
       "wheels": {
-        "btf_extractor-0.2.0b1-cp39-cp39-macosx_11_1_x86_64.whl": [
-          "2wxTNKBmIYSAHpxZI185RMpDXGwKvSYRTcrldsCYcAI=",
+        "btf_extractor-1.0.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "IsR16PnYZ5HHMWtht2iXY/KIQJaTsbCCxLjBLJ504Ag=",
+          "cp38"
+        ],
+        "btf_extractor-1.0.0-cp38-cp38-win_amd64.whl": [
+          "jJyEBRo8FsaWeJ4L+0DFno/Ye7doQ8Z3+/I1IhMG884=",
+          "cp38"
+        ],
+        "btf_extractor-1.0.0-cp39-cp39-macosx_11_1_x86_64.whl": [
+          "mk5ocKsiNXCvUKvY5RC/JSwo4XncVB470QJ2dekol30=",
+          "cp39"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "5xbTJ+JJQzf6AE2v9H7LWWF1qNgPVZ8+EwMydfxTVaY=",
+        "btf_extractor-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "btf_extractor-1.0.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "EWx3baUb1E0uis3iEAZQlgutjy76YdQ8sqgJq3ussfI=",
+          "cp38"
+        ],
+        "btf_extractor-1.0.1-cp38-cp38-win_amd64.whl": [
+          "lPP6bStlF0Y4koel1/DJSAVGqCxRSp1T8pcWHtai5HU=",
+          "cp38"
+        ],
+        "btf_extractor-1.0.1-cp39-cp39-macosx_11_1_x86_64.whl": [
+          "32oBikQDMErwPUg4re/JD6diM9CaQq8lu3DmRP4MvnE=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.0rc1": {
+      "sdist": [
+        "Aa+ulFSXyEVbNCABF31KMjCI8js1QyFYbaVANWGx/Lk=",
+        "btf_extractor-1.1.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "btf_extractor-1.1.0rc1-cp39-cp39-macosx_11_1_x86_64.whl": [
+          "fsfDRjHWj14Umiq0FYR4fiGLIjtuE2iYzBAHG1iCAXA=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.0rc2": {
+      "sdist": [
+        "GaXueknPnLu4tzlNeMyp83GMn5UE8b0JIFBYzjdtyD4=",
+        "btf_extractor-1.1.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "btf_extractor-1.1.0rc2-cp39-cp39-macosx_11_1_x86_64.whl": [
+          "YX5iRkLj01bngJMRlvo5XAwTCyvOpzimLKd5GVuYab0=",
           "cp39"
         ]
       }
@@ -17182,6 +17216,18 @@
       "wheels": {
         "cdktf_cdktf_provider_azurerm-0.0.82-py3-none-any.whl": [
           "/DeJRyKebxk1Rcb9H0VZ3+/eTo7ZSLHU+OKNbYqb1nQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.83": {
+      "sdist": [
+        "3kH+Uglsc0GEgfY8pblsXGP9Exo/EwyyPrYGGD263Eg=",
+        "cdktf-cdktf-provider-azurerm-0.0.83.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_azurerm-0.0.83-py3-none-any.whl": [
+          "bY5NjWC7Nd++3M8kG1IFpciJeU09dAnoNPRLSybtMFQ=",
           "py3"
         ]
       }
@@ -36516,6 +36562,10 @@
           "g8uAZzBjC5+OEneFwJlm9GOIPm82v8v6IzCFELiQIwg=",
           "cp37"
         ],
+        "httpstan-4.1.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "rrCUvGdYuhlTRMnfJ417xChZsjOVeGn5H+vtXczlnIw=",
+          "cp38"
+        ],
         "httpstan-4.1.0-cp38-cp38-macosx_10_9_x86_64.whl": [
           "Sdz1du+2vbkLRWniNPgeKKOaadNYz6KPpb3ia9E/wW0=",
           "cp38"
@@ -51413,6 +51463,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.3.1": {
+      "sdist": [
+        "secXzuJO38q5BEZdwhKxqcBl1XgWJUpfi+pm/0pIpBQ=",
+        "nifcloud-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "nifcloud-0.3.1-py2.py3-none-any.whl": [
+          "lgkN+CMbde6u+3lVLo3qVG0bBYEsTWFw8dj+LKrC0Tc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "niftypet": {
@@ -64850,6 +64912,18 @@
       "wheels": {
         "PythonTwitchBotFramework-1.19.7-py3-none-any.whl": [
           "XDD3EIKs+24kOmxhGvUmVy1uhxqodKMM//Yizeb/utA=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.8": {
+      "sdist": [
+        "MHraBIF3PVF1grso4oQZk+thmWXrQIxj5zFBIphE1q0=",
+        "PythonTwitchBotFramework-1.19.8.tar.gz"
+      ],
+      "wheels": {
+        "PythonTwitchBotFramework-1.19.8-py3-none-any.whl": [
+          "8PvbghqM3USLLwioZYbdWm/SrF4c+GKu/OcvpJZkvX8=",
           "py3"
         ]
       }
@@ -90572,6 +90646,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ams-3.0.311-py2.py3-none-any.whl": [
           "yRKC/t6wo10aB5lxNJKq7XywxblCNDyf7fc/UpJpEKQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.312": {
+      "sdist": [
+        "f0UEYwLLwZCVr+L7bZ4ul+eN8QXjVY6T5sX6uTPPKiM=",
+        "tencentcloud-sdk-python-ams-3.0.312.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ams-3.0.312-py2.py3-none-any.whl": [
+          "YhK3Y78ix6qGFnYlW36PVZ4rtM3u12B8x6q/QGCloU8=",
           "py2.py3"
         ]
       }
