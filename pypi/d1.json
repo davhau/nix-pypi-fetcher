@@ -13337,6 +13337,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.32.1": {
+      "sdist": [
+        "+lT1rdgFZcAbJjJjF7uhbjYAkDzkY71A06rRVDy10p4=",
+        "dbnd-airflow-versioned-dag-0.32.1.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow_versioned_dag-0.32.1-py2.py3-none-any.whl": [
+          "ao++3QwYWsCZvMN83kLCkb9SbySwqyYhxGJVOCavXco=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "dc-client": {
@@ -26198,6 +26210,114 @@
         ],
         "gevent-1.5a4-pp27-pypy_73-macosx_10_7_x86_64.whl": [
           "TiPGkqNSCoRL4gaM9AeANte0+yVi+2AcLhwUsQOWR78=",
+          "pp27"
+        ]
+      }
+    },
+    "20.12.0": {
+      "sdist": [
+        "oDpV2B01DMR2ugdBD+lXY23TFKkAIYw/5HDo5W8YjRk=",
+        "gevent-20.12.0.tar.gz"
+      ],
+      "wheels": {
+        "gevent-20.12.0-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "vlzWRV+MV9OSTpWvbFpGs6bwGAYUawgEZDN4lADr+P4=",
+          "cp27"
+        ],
+        "gevent-20.12.0-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "QYSpdJ4s78YjvAxiS3uheqUe0vX7cPEdb6lzmx8X7dQ=",
+          "cp27"
+        ],
+        "gevent-20.12.0-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "bP+0KLAXLGxv/BXcp0jzKWk6NyeKjfnZhv0k5GCO5qA=",
+          "cp27"
+        ],
+        "gevent-20.12.0-cp27-cp27m-win32.whl": [
+          "vWJ2YtHQBln4BHcSdSDNw172SWsatchLheSxSxR1iSs=",
+          "cp27"
+        ],
+        "gevent-20.12.0-cp27-cp27m-win_amd64.whl": [
+          "+s8OYx3VcjO0jgbZvdZfpFR6suxAEjze+syM4F/hFJg=",
+          "cp27"
+        ],
+        "gevent-20.12.0-cp35-cp35m-win32.whl": [
+          "j8w96bSIkoTsYymK9jg2B19IDU/8RGhHciXZBcKJaRw=",
+          "cp35"
+        ],
+        "gevent-20.12.0-cp35-cp35m-win_amd64.whl": [
+          "ONbDiS/1oN0BACZf1/VqiH0dK2aC6+f9LvUagrfo8Ew=",
+          "cp35"
+        ],
+        "gevent-20.12.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "ZvPzQw2gEbWoqOsn/Yyo1S+2pQlQNoLOnkayhyg1kIY=",
+          "cp36"
+        ],
+        "gevent-20.12.0-cp36-cp36m-win32.whl": [
+          "du79u/94YYqxvHUsWsqkotLNgmKY06FZABxyvF1miHQ=",
+          "cp36"
+        ],
+        "gevent-20.12.0-cp36-cp36m-win_amd64.whl": [
+          "bfWb59KurA/mewJbjB14RyE3WujkWlaCWw5YJVXSooU=",
+          "cp36"
+        ],
+        "gevent-20.12.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "2oFBsYoMtVFdBYYKZNk4Yk+s4vjxV4eXANH69ucf7+k=",
+          "cp37"
+        ],
+        "gevent-20.12.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "Jil/UPzm62wvyZMSnYV1xRYQ7NjCM6t+pK4DdGjR6QE=",
+          "cp37"
+        ],
+        "gevent-20.12.0-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "q8MGoi3EyHrV1+oR8AQjNfOLGaHkil+WsS8I6oVc+98=",
+          "cp37"
+        ],
+        "gevent-20.12.0-cp37-cp37m-win32.whl": [
+          "MtbOzxzKdK+/NGPT20XgOrxbndSlX0Zc99NaVqMgskA=",
+          "cp37"
+        ],
+        "gevent-20.12.0-cp37-cp37m-win_amd64.whl": [
+          "C6Pkmu0xxcxWjyYxSciJRMvTMymUk8ueeG2zlhj3qUs=",
+          "cp37"
+        ],
+        "gevent-20.12.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "vxFwNg19M71EOUlU/deZkqMK/DVxzrK2oO+0PxHE1iY=",
+          "cp38"
+        ],
+        "gevent-20.12.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "yfh2RIJMBxuFL1dkDFJf9aU9Rd7ChdMg11G63LHt0ZY=",
+          "cp38"
+        ],
+        "gevent-20.12.0-cp38-cp38-manylinux2014_aarch64.whl": [
+          "J5TfE3SkeMSQ3iPbpCoOHrFNmC9X93DzMODwy5zUiB8=",
+          "cp38"
+        ],
+        "gevent-20.12.0-cp38-cp38-win32.whl": [
+          "p+ApyDanXe7ULAkMJX4d6OKX/aSHjJrbqni8+SQloo0=",
+          "cp38"
+        ],
+        "gevent-20.12.0-cp38-cp38-win_amd64.whl": [
+          "NzTNmZC8vSzkgbAahsyOHZO4cq/YSVJAjJauJZGEIo0=",
+          "cp38"
+        ],
+        "gevent-20.12.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "NncKAiF+G0mooxZQQn6kjVcOYLvfFXvy95Cbn7bgy68=",
+          "cp39"
+        ],
+        "gevent-20.12.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "Z8MtrWlEdxJ2czDUAWyfrwPFtSSyUPrhkMV5CBca6zM=",
+          "cp39"
+        ],
+        "gevent-20.12.0-cp39-cp39-manylinux2014_aarch64.whl": [
+          "lnQn5fv1OKfUhvIk9BNAlbkY98l/EEdY2zpOCAL2NpM=",
+          "cp39"
+        ],
+        "gevent-20.12.0-pp27-pypy_73-macosx_10_7_x86_64.whl": [
+          "wR5ND1LseMRniy5J6UtE4UzLCzZArPSo/3ak22nqcLA=",
+          "pp27"
+        ],
+        "gevent-20.12.0-pp27-pypy_73-win32.whl": [
+          "WUu/2463CbXQun5Xl6J9C9XHm2MJZTns9p6kTkEkDxg=",
           "pp27"
         ]
       }
@@ -41618,6 +41738,18 @@
       "wheels": {
         "mypy_boto3_codestar_notifications-1.16.41.0-py3-none-any.whl": [
           "a0X/4LXJPe5hXbmgzQ1Fkwq4jt1YgtRWyJKBaSl3WTI=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.42.0": {
+      "sdist": [
+        "tJEUSyNM95y4b/m2kTPfqLH636UbLF1zKWxXUsmBkpE=",
+        "mypy-boto3-codestar-notifications-1.16.42.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codestar_notifications-1.16.42.0-py3-none-any.whl": [
+          "NY0AvwPeCK8LXu7jOHy5QUqwB4K1Qt2KijwutO/LSrc=",
           "py3"
         ]
       }
