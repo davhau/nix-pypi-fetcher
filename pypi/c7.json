@@ -10630,6 +10630,12 @@
         "cupy-8.2.0.tar.gz"
       ]
     },
+    "8.3.0": {
+      "sdist": [
+        "22mf3f3ngGRFkIz2RUxvSYXnqVY7QEBd35eEXYCMXxI=",
+        "cupy-8.3.0.tar.gz"
+      ]
+    },
     "9.0.0a1": {
       "sdist": [
         "ENG1bDsoiX1150PMCXvAEwuvl8dtPzzq94yl5Z4dtRc=",
@@ -10640,6 +10646,12 @@
       "sdist": [
         "io72U/MORRpeZ8Vx1HO7BWaUZHx2dBKtrtgsNxrlNRU=",
         "cupy-9.0.0a2.tar.gz"
+      ]
+    },
+    "9.0.0b1": {
+      "sdist": [
+        "+cDFsrUAzloafnNyZGxBrp1m2V9dsvYw3W+cAi6ZRPg=",
+        "cupy-9.0.0b1.tar.gz"
       ]
     }
   },
@@ -12574,6 +12586,14 @@
       "sdist": [
         "+V+PSxMglV3FLPTsvOkplLfEmucn9nh/m8twMiajDns=",
         "distributions_usuieri-0.1.tar.gz"
+      ]
+    }
+  },
+  "distributions-wdp": {
+    "0.1": {
+      "sdist": [
+        "x0eilzpcNKEGwxSLBd5mVGyAopIUASIC5fge+DTrHKQ=",
+        "distributions_wdp-0.1.tar.gz"
       ]
     }
   },
@@ -34869,6 +34889,20 @@
       }
     }
   },
+  "mloscli": {
+    "0.0.1": {
+      "sdist": [
+        "Pdf5tm/UqgMqIKmARLt80D977isxptRkWdWCEZ5DvQY=",
+        "mloscli-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "mloscli-0.0.1-py3-none-any.whl": [
+          "fqnd9Dxczt0F/B0TK60Y0zuP10QafLsAb1w4dkfUd3U=",
+          "py3"
+        ]
+      }
+    }
+  },
   "moiety-modeling": {
     "1.0": {
       "sdist": [
@@ -44534,6 +44568,14 @@
       "wheels": {
         "online_judge_api_client-10.7.0-py3-none-any.whl": [
           "oxGaWqZRqXtgFPuO0BVElQ+Fkh0KZf5MQPEsEsvuXu0=",
+          "py3"
+        ]
+      }
+    },
+    "10.7.1": {
+      "wheels": {
+        "online_judge_api_client-10.7.1-py3-none-any.whl": [
+          "wwLgzXVAn4+79bP/kGvM7NDxIpA+5pvRSx7L3AYY8Vg=",
           "py3"
         ]
       }
