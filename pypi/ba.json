@@ -14403,6 +14403,30 @@
           "py2.py3"
         ]
       }
+    },
+    "0.32.4": {
+      "sdist": [
+        "0eTauN7TszVzesKdHnq0NSDijCdysEaWSxyUHBiNESc=",
+        "dbnd-airflow-0.32.4.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.32.4-py2.py3-none-any.whl": [
+          "nVV78Aq+m745yo9Beuc4/Q5IZpJFq9R6cnW1XvepOM8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.32.5": {
+      "sdist": [
+        "XolBXLz/cO8SIKGHoqh6gtKHkYgqFZWUQUj7Tj5k67Y=",
+        "dbnd-airflow-0.32.5.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.32.5-py2.py3-none-any.whl": [
+          "8/884unjBzzPL8AanmFrKwJzCAJkKKGIx+N/+OfVdZc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ddtestlib": {
@@ -43999,6 +44023,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.7": {
+      "sdist": [
+        "GjTYujDwEU2B3Id9Jl0XqXlomU7EDaKPUsSMF1GCIwY=",
+        "muti-thread-1.1.7.linux-x86_64.tar.gz"
+      ],
+      "wheels": {
+        "muti_thread-1.1.7-py3-none-any.whl": [
+          "CSuxJdj2TJX4LeL9mm6LKxal9HjvjRUT9yMdd2eUSFU=",
+          "py3"
+        ]
+      }
     }
   },
   "my-test-poetry": {
@@ -46972,6 +47008,18 @@
         ]
       }
     },
+    "1.16.45.0": {
+      "sdist": [
+        "5e1h8dbvnPEMHEArDH9r4Tj1RIvYQMFHgbxXN9o7CeA=",
+        "mypy-boto3-amplify-1.16.45.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplify-1.16.45.0-py3-none-any.whl": [
+          "8jhhNg5mOOamRrffUPVR9pLDO6DkwJnbW7zLIWEFSSo=",
+          "py3"
+        ]
+      }
+    },
     "1.16.5.0": {
       "sdist": [
         "8CGso6RBYfItOYVU/3UKRw7A5UcDD0uV+z84W1zIyWY=",
@@ -49886,6 +49934,18 @@
         ]
       }
     },
+    "1.16.45.0": {
+      "sdist": [
+        "FXBkOXI4DLQn8w6vnRWdFE4+Kfy1qDzhv2uZC8aWsEQ=",
+        "mypy-boto3-elb-1.16.45.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elb-1.16.45.0-py3-none-any.whl": [
+          "q5TuEvlnLD3pfIt3qV6785DjVuoMbX6GSDLtqZ+/lWg=",
+          "py3"
+        ]
+      }
+    },
     "1.16.5.0": {
       "sdist": [
         "RAnBXq52u2hA9XU7l3eRIbmu1w2e/vCBzErSlc1z1/8=",
@@ -52788,6 +52848,18 @@
       "wheels": {
         "mypy_boto3_meteringmarketplace-1.16.44.0-py3-none-any.whl": [
           "2N6Vf8gzfw84OOfiCeDlJ3EKSNppVaHnavekUVWlk+c=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.45.0": {
+      "sdist": [
+        "wcFjGd8VJpsmfsNQ7idmjWZhBio1SeynDyyfcDqUlyQ=",
+        "mypy-boto3-meteringmarketplace-1.16.45.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_meteringmarketplace-1.16.45.0-py3-none-any.whl": [
+          "c7a6+FYpyBF9Lr1dAA42EgXHOTEFzEaHsCWNy2ixrbE=",
           "py3"
         ]
       }
@@ -88194,6 +88266,10 @@
           "V0eyLzcARo/kDW+Tqdv+AdY20tXEZVN93cfJbQiimgo=",
           "cp36"
         ],
+        "tf_nightly-2.5.0.dev20201229-cp36-cp36m-win_amd64.whl": [
+          "gyqumrgZZLaSkqbCwwTCUAprf6q+YZK7TIZobbpWTsI=",
+          "cp36"
+        ],
         "tf_nightly-2.5.0.dev20201229-cp37-cp37m-macosx_10_14_x86_64.whl": [
           "cEQ+bqVxidCNVFmy+C3qDIXoIwhXCMQ9e+SuL+bL+sI=",
           "cp37"
@@ -88202,12 +88278,20 @@
           "sx0WMsnz+LUH8xNXhlFa9l+ACXReXH1zItWGrOD6ZjI=",
           "cp37"
         ],
+        "tf_nightly-2.5.0.dev20201229-cp37-cp37m-win_amd64.whl": [
+          "W4PGzYZoyhKUQBVbD4dXLJhlKX0rTFMuuNRwLlH0BZA=",
+          "cp37"
+        ],
         "tf_nightly-2.5.0.dev20201229-cp38-cp38-macosx_10_14_x86_64.whl": [
           "8cNvEhj+8ea/PZsfWXrwNKALsdfq2+UvEnjpcUOnj/I=",
           "cp38"
         ],
         "tf_nightly-2.5.0.dev20201229-cp38-cp38-manylinux2010_x86_64.whl": [
           "94BjpHRvJo6LsriavG0aUCQ9C9MKKMi/lT51yZW6i4g=",
+          "cp38"
+        ],
+        "tf_nightly-2.5.0.dev20201229-cp38-cp38-win_amd64.whl": [
+          "ZCoITnYwIqixIYWUZ2kBD8puKDhoDb6WdGd2KKzOmBw=",
           "cp38"
         ]
       }
@@ -89352,6 +89436,30 @@
       "wheels": {
         "ton_client_py-1.4.0.1-py3-none-any.whl": [
           "W8YRKRtCnl/9//pA21zfYB+1UHnsHk7JP16nqlJ508Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0.0": {
+      "sdist": [
+        "mWpvLqqmj2J27HBL3TocyDbDfQPO/i8L37Oxft/3Xcc=",
+        "ton-client-py-1.5.0.0.tar.gz"
+      ],
+      "wheels": {
+        "ton_client_py-1.5.0.0-py3-none-any.whl": [
+          "IQY0gT42sdSSX0odVZIWjtL3LpULd6+zreRHHErTdvg=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.1.0": {
+      "sdist": [
+        "lGHRDoCdcVoT0JKMzcb8fs0NS6+SXTQ0369u1QnnT3M=",
+        "ton-client-py-1.5.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ton_client_py-1.5.1.0-py3-none-any.whl": [
+          "M4YPwKGpw8CU1trLMUnnluXF6YNxzevseqyxR+EfevY=",
           "py3"
         ]
       }
@@ -91678,6 +91786,18 @@
         ]
       }
     },
+    "0.13.3": {
+      "sdist": [
+        "7x4LtfeUHG/jJOBkQ92sAzHhYyp3YXX4eJHHvQJpQ1U=",
+        "uvicorn-0.13.3.tar.gz"
+      ],
+      "wheels": {
+        "uvicorn-0.13.3-py3-none-any.whl": [
+          "EHnFCgb2M4CVtPID54Ydv/MY3eXyLzoyT8bpTHZUFkw=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "ITda3idAPkZfilLVOLsgF6QVjCrxplTeRFEb/fESoBU=",
@@ -92724,6 +92844,14 @@
       "wheels": {
         "vlab_api_common-2020.11.6-py2.py3-none-any.whl": [
           "/c9tqw5N3udDIPacEGCsPogkjkQQYu2qjv7eSI4Tono=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2020.12.29": {
+      "wheels": {
+        "vlab_api_common-2020.12.29-py2.py3-none-any.whl": [
+          "9F3AKgqoYJhhLDZ9Sfn0dDzOvAP9w20iQ+7J/lN6a/w=",
           "py2.py3"
         ]
       }
