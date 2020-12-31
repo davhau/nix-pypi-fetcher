@@ -532,6 +532,12 @@
         "aiomsa-2020.12.1.dev20201230.tar.gz"
       ]
     },
+    "2020.12.1.dev20201231": {
+      "sdist": [
+        "XrUd7UMJ+WWz9n2KjjuYT6mZ6mzqk4YlJ1kskLt/9e4=",
+        "aiomsa-2020.12.1.dev20201231.tar.gz"
+      ]
+    },
     "2020.7.23": {
       "sdist": [
         "chw6yCp3MP7fyVxbTR/1h7iYMvyFClfYhH+gU+sKRyw=",
@@ -4508,6 +4514,18 @@
       "wheels": {
         "aws_cdk.aws_autoscaling-1.80.0-py3-none-any.whl": [
           "4hSsCsonEUYt9aidNRDs9UoF3CdCh+nvRYZf7LjvS3U=",
+          "py3"
+        ]
+      }
+    },
+    "1.81.0": {
+      "sdist": [
+        "FH2Rru/cw7ZFeo2xrkOy+U8bOEpeYN2qusvCnkclMfQ=",
+        "aws-cdk.aws-autoscaling-1.81.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_autoscaling-1.81.0-py3-none-any.whl": [
+          "FBpkOOLuwkrSQLELPUQz3EgGL7dnomQ9WabneDZbo28=",
           "py3"
         ]
       }
@@ -19633,6 +19651,20 @@
       ]
     }
   },
+  "colored-print": {
+    "0.0.1": {
+      "sdist": [
+        "1ot9GFKUEblT2j/nKHOsgJp41XostrN/qOONWiL5g+I=",
+        "colored_print-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "colored_print-0.0.1-py3-none-any.whl": [
+          "sXKQwrO6uCSUdfFyEP3ibF2JcPJl3Sbg0cae2DSeJno=",
+          "py3"
+        ]
+      }
+    }
+  },
   "commoncrawljob": {
     "0.0.0": {
       "sdist": [
@@ -24340,6 +24372,78 @@
         ],
         "dearpygui-0.6.117-cp39-cp39-win_amd64.whl": [
           "ZvfiFTtvTtkMOwMQRHF01dC01Xd1wnqtQ1DzysL4phc=",
+          "cp39"
+        ]
+      }
+    },
+    "0.6.118": {
+      "wheels": {
+        "dearpygui-0.6.118-cp36-cp36m-macosx_10_6_x86_64.whl": [
+          "7XdTCHTosniqbFxXXN4GAaUMH0nDZaq8gV0NPpzybv0=",
+          "cp36"
+        ],
+        "dearpygui-0.6.118-cp36-cp36m-manylinux1_x86_64.whl": [
+          "3mUbRb6XQK9wAWQYx8UPGE1uUqlN8o0I6WCdp+ZTrTQ=",
+          "cp36"
+        ],
+        "dearpygui-0.6.118-cp36-cp36m-win_amd64.whl": [
+          "czwkFrhWcHjEFrLWJwZq1JJpJJTLRHX6cFTmO1l+fzg=",
+          "cp36"
+        ],
+        "dearpygui-0.6.118-cp37-cp37m-macosx_10_6_x86_64.whl": [
+          "s9S1vEUOwEFqjGuGUSMs0Ymv+xbc2NopcDksqolyna4=",
+          "cp37"
+        ]
+      }
+    },
+    "0.6.119": {
+      "wheels": {
+        "dearpygui-0.6.119-cp36-cp36m-macosx_10_6_x86_64.whl": [
+          "irVIIbmp/ufBNywLAGzwiPJ6TL2Hhz/A35wK3p8swbc=",
+          "cp36"
+        ],
+        "dearpygui-0.6.119-cp36-cp36m-manylinux1_x86_64.whl": [
+          "mnjNT2j3CiMBzN3vqWqgadMiFDIlaFq/tDffn1lo7Gs=",
+          "cp36"
+        ],
+        "dearpygui-0.6.119-cp36-cp36m-win_amd64.whl": [
+          "BeIaPWN6hHbk5OmWfPIBLz94klcNmKmBrUKV2O/szKU=",
+          "cp36"
+        ],
+        "dearpygui-0.6.119-cp37-cp37m-macosx_10_6_x86_64.whl": [
+          "JNCYT7vM+mtSH4M3TyCVkG1XZK1H+er60rLnLWo8CgU=",
+          "cp37"
+        ],
+        "dearpygui-0.6.119-cp37-cp37m-manylinux1_x86_64.whl": [
+          "e5toU4VjcdPnNqaFnejTZMjARdDCw02kMI8CsOf68Qs=",
+          "cp37"
+        ],
+        "dearpygui-0.6.119-cp37-cp37m-win_amd64.whl": [
+          "Rvl2AsO6fFcAQoeQZQtS73o27ZRPx/nHFHIP9AuXL/g=",
+          "cp37"
+        ],
+        "dearpygui-0.6.119-cp38-cp38-macosx_10_6_x86_64.whl": [
+          "Tb6+xPiykz5rkcY7ifdnNp+kno9XTrIMuQbjIAIhb6o=",
+          "cp38"
+        ],
+        "dearpygui-0.6.119-cp38-cp38-manylinux1_x86_64.whl": [
+          "3Y1M2CEVfaGVkR/TlKKebeVO4e4OWVt5o7+D7m/KXKo=",
+          "cp38"
+        ],
+        "dearpygui-0.6.119-cp38-cp38-win_amd64.whl": [
+          "qwZMOn11kGuYp2fEdZMx2TWnltuuasHKA2hCk2wff4E=",
+          "cp38"
+        ],
+        "dearpygui-0.6.119-cp39-cp39-macosx_10_6_x86_64.whl": [
+          "SfsyhDncN+Y1WLOhllHJxh7lchKV80KN2WG5HCDyEWo=",
+          "cp39"
+        ],
+        "dearpygui-0.6.119-cp39-cp39-manylinux1_x86_64.whl": [
+          "VHqMVK6nZnKRJhse6YsR5bjb424iPobo7cZTdV3qcRQ=",
+          "cp39"
+        ],
+        "dearpygui-0.6.119-cp39-cp39-win_amd64.whl": [
+          "GvQnJKuVDSB8zvXoMZaRodpcQrm1FdfG6Eigevi+pfk=",
           "cp39"
         ]
       }
@@ -37390,6 +37494,14 @@
         ]
       }
     },
+    "3.0.29b0": {
+      "wheels": {
+        "huaweicloudsdkcore-3.0.29b0-py3-none-any.whl": [
+          "zL/4pW0IMNryffOnFKL9ObAr8jOhXHulqouvZZ7OZ4M=",
+          "py3"
+        ]
+      }
+    },
     "3.0.2b0": {
       "wheels": {
         "huaweicloudsdkcore-3.0.2b0-py3-none-any.whl": [
@@ -38887,6 +38999,18 @@
         "xJ9pVtDybks7HQcFnDgBFGdH+h43LAAjsXGlPqO9/vU=",
         "intervals-0.9.0.tar.gz"
       ]
+    },
+    "0.9.1": {
+      "sdist": [
+        "BVvSA3jico4uF1LfxMBdFkeBTCLKs5CjqqPNKbzWETg=",
+        "intervals-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "intervals-0.9.1-py3-none-any.whl": [
+          "xwCQm+coCy14ApQxmlGylslVeTH37rMhQc9yDt4tsXc=",
+          "py3"
+        ]
+      }
     }
   },
   "iostat-context": {
@@ -91900,6 +92024,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ams-3.0.317-py2.py3-none-any.whl": [
           "vcKF1Gzv9ouPLPoJB6rsa8VZJUcm+STd4Gb3JLTgVoA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.318": {
+      "sdist": [
+        "jgXSxHY8Ikcy2Bnui9p3X9dBTnrovSdMSERAlVV5ius=",
+        "tencentcloud-sdk-python-ams-3.0.318.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ams-3.0.318-py2.py3-none-any.whl": [
+          "a8PpIn8BJOwLYYZ2GVkG3Xg5KAcQSARoWxI9d6jQclU=",
           "py2.py3"
         ]
       }
