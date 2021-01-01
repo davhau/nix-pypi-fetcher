@@ -6281,6 +6281,18 @@
           "py3"
         ]
       }
+    },
+    "1.79.0": {
+      "sdist": [
+        "hJOUWpL7ZK0Hol2qto73EaM+ZIzD6BtBMeCrV7X0jnY=",
+        "aws-solutions-constructs.aws-dynamodb-stream-lambda-1.79.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodb_stream_lambda-1.79.0-py3-none-any.whl": [
+          "/6wW0DknbtGrI7qDFHNZSuSA3ekbaIkjS3zPIkRXpp8=",
+          "py3"
+        ]
+      }
     }
   },
   "awscdkawsautoscalinghooktargets": {
@@ -14448,6 +14460,18 @@
       "wheels": {
         "dbnd_airflow-0.32.5-py2.py3-none-any.whl": [
           "8/884unjBzzPL8AanmFrKwJzCAJkKKGIx+N/+OfVdZc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.32.6": {
+      "sdist": [
+        "glilwXlyAnFxwJOLW9POVBFF7Mi0qxIIhQSxCURK3/c=",
+        "dbnd-airflow-0.32.6.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.32.6-py2.py3-none-any.whl": [
+          "rUfSYUpLyiPSm5mujZDwjlXCv1t5Cshn+CkvSwVy8k0=",
           "py2.py3"
         ]
       }
@@ -47086,6 +47110,18 @@
         ]
       }
     },
+    "1.16.47.0": {
+      "sdist": [
+        "k9qZJmf3IlVpTlAMmUpNm//pCvYx6HFiVbwPQM/NRgs=",
+        "mypy-boto3-amplify-1.16.47.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplify-1.16.47.0-py3-none-any.whl": [
+          "+vLwAZuZA7dmEB1xc3ZxNfmyd1QkzNdgVWF1zfLYCGQ=",
+          "py3"
+        ]
+      }
+    },
     "1.16.5.0": {
       "sdist": [
         "8CGso6RBYfItOYVU/3UKRw7A5UcDD0uV+z84W1zIyWY=",
@@ -50024,6 +50060,18 @@
         ]
       }
     },
+    "1.16.47.0": {
+      "sdist": [
+        "w5l4qLZuyhdowon/QPaY92jtinXIvZI+2PmeKlIKba4=",
+        "mypy-boto3-elb-1.16.47.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_elb-1.16.47.0-py3-none-any.whl": [
+          "GRhElN8crnSoTRZmoKZ2QjqwqJ3K9FOQ3sKj8EoR5aE=",
+          "py3"
+        ]
+      }
+    },
     "1.16.5.0": {
       "sdist": [
         "RAnBXq52u2hA9XU7l3eRIbmu1w2e/vCBzErSlc1z1/8=",
@@ -52950,6 +52998,18 @@
       "wheels": {
         "mypy_boto3_meteringmarketplace-1.16.46.0-py3-none-any.whl": [
           "keN5A/yvCqcrVGvJeuIgukxA/mQQU5TAaguLHMLKkQw=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.47.0": {
+      "sdist": [
+        "m1s3FiLPNycSK9qLBqHAghfCiZELjirrzFxAHi0CcT0=",
+        "mypy-boto3-meteringmarketplace-1.16.47.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_meteringmarketplace-1.16.47.0-py3-none-any.whl": [
+          "5yrmUgmTmonnV1KynQTEoJGpc4FrrG06gqYbe5PlP1U=",
           "py3"
         ]
       }
@@ -62312,6 +62372,14 @@
       "wheels": {
         "PicImageSearch-0.6.6-py3-none-any.whl": [
           "bt1s+AcMegjgAhezv8ZvhKea31GLxZUuczqjkraLGfk=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "wheels": {
+        "PicImageSearch-0.7.0-py3-none-any.whl": [
+          "aXf3STgAa2Rd5R9RqdNopQRL2zTXm56tIePX4PTmvGg=",
           "py3"
         ]
       }
@@ -88436,12 +88504,20 @@
           "uR5YksJZUAaeT+78b+Q0PGoaIYIi52dGiHLjrnkC9T4=",
           "cp36"
         ],
+        "tf_nightly-2.5.0.dev20201231-cp36-cp36m-win_amd64.whl": [
+          "hlJiH5TcBXbXecrYGnDNKbIo9CLvC/MH51hso9AeVh8=",
+          "cp36"
+        ],
         "tf_nightly-2.5.0.dev20201231-cp37-cp37m-macosx_10_14_x86_64.whl": [
           "/9meayGo4vLx+rpI8UoMh5tquFDYGaEdAxFEFwiT2bs=",
           "cp37"
         ],
         "tf_nightly-2.5.0.dev20201231-cp37-cp37m-manylinux2010_x86_64.whl": [
           "1/rpurPkgR2lCvTe09k6QbE/6OTJHoIMlpVnmi0BMBM=",
+          "cp37"
+        ],
+        "tf_nightly-2.5.0.dev20201231-cp37-cp37m-win_amd64.whl": [
+          "pte1Zvs7uHWbsSGjEhPHUBS6PqbLqiCX5Ar0dnaNPzQ=",
           "cp37"
         ],
         "tf_nightly-2.5.0.dev20201231-cp38-cp38-macosx_10_14_x86_64.whl": [
