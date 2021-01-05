@@ -6802,6 +6802,14 @@
         ]
       }
     },
+    "0.0.19": {
+      "wheels": {
+        "azureml_designer_vowpal_wabbit_modules-0.0.19-py3-none-any.whl": [
+          "AY4172EQfBHKvTDBdxGl6qu4kyWshQVHsYZkEF/Xwm8=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "wheels": {
         "azureml_designer_vowpal_wabbit_modules-0.0.2-py3-none-any.whl": [
@@ -15953,6 +15961,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.1": {
+      "sdist": [
+        "MMtAnXLvCFt1mrGmpBzbHHTH0S8PjFj1HVyf2AxkJao=",
+        "crowsetta-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "crowsetta-3.0.1-py3-none-any.whl": [
+          "EParOQBoXBYC40n6votTSVtDdSHWlAGCjyWSuNW9PY0=",
+          "py3"
+        ]
+      }
     }
   },
   "crypto-drive-manager": {
@@ -20664,6 +20684,18 @@
       "wheels": {
         "django_compressor_parceljs-2.3.2-py2.py3-none-any.whl": [
           "cufkciPNqehEFiWt9swTRkZbHn0v6v+6IkJlSE9QBUE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.3.3": {
+      "sdist": [
+        "mZ0Tw92B5u7EfFBFEvljFVMmDDVT5ot8ELWSNQ4sf6Y=",
+        "django-compressor-parceljs-2.3.3.tar.gz"
+      ],
+      "wheels": {
+        "django_compressor_parceljs-2.3.3-py2.py3-none-any.whl": [
+          "zvuKCkpVp7eEpzk+SQeogaxbnCv6FPWDtAN7EkdSUEo=",
           "py2.py3"
         ]
       }
@@ -27053,14 +27085,6 @@
       }
     }
   },
-  "fdm-utils": {
-    "0.1.4": {
-      "sdist": [
-        "2kd527TL0Wy4WKbD5MWME1ID0NXAtPdMLtgv0VgSSVA=",
-        "fdm-utils-0.1.4.tar.gz"
-      ]
-    }
-  },
   "featuretools-mv": {
     "0.8.0": {
       "sdist": [
@@ -28193,6 +28217,20 @@
         "66/pELEytnTgg/L4o7OgLz2JBQYGYSmmi4UOOnr0kCw=",
         "flv2img0.0.3-0.0.3.tar.gz"
       ]
+    }
+  },
+  "fogifysdk": {
+    "0.0.1": {
+      "sdist": [
+        "mr1meYO8x8Z2x3J+rDHVhr4nroKYVeiDF+FrFzxSXwc=",
+        "FogifySDK-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "FogifySDK-0.0.1-py3-none-any.whl": [
+          "hsGjV5pInxh+Rrbth37SprNRrlMPTcqyGLQF902UpgE=",
+          "py3"
+        ]
+      }
     }
   },
   "formprocess": {
@@ -37609,6 +37647,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "5Rvm9IuocSmUGf9AB5hgUD4IcugPn5HDQtq1cLyWMNk=",
+        "ipycytoscape-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "ipycytoscape-1.2.0-py2.py3-none-any.whl": [
+          "AbRXnH/VesvqlUyhYeWhP4S+DjbBDo4Fr4BXyVxmR10=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ipyparallel": {
@@ -42009,86 +42059,6 @@
         "light_famd-0.0.3-py2.py3-none-any.whl": [
           "Y6vodiypjzJzayOalKS4Sd0IKtQN5aNr6EEYE2RwaGo=",
           "py2.py3"
-        ]
-      }
-    }
-  },
-  "lime-lang": {
-    "1.0.0": {
-      "sdist": [
-        "UvdtVXVZIXGmEOKdoXBh1a/bjMabBRjiJzOYa3opTek=",
-        "lime-lang-1.0.0.tar.gz"
-      ]
-    },
-    "1.0.5": {
-      "sdist": [
-        "ZFc+8dpAHbi1XbZu1wGj7CgzVlTJTR9jWCRWqagk2/Q=",
-        "lime-lang-1.0.5.tar.gz"
-      ]
-    },
-    "1.0.8": {
-      "sdist": [
-        "lk1OSAiA0bhvfahALf8GKtAeXH6xBIiN0Wpk+QXoXo0=",
-        "lime-lang-1.0.8.tar.gz"
-      ]
-    },
-    "1.0.9": {
-      "sdist": [
-        "zgiZtPT1BF//oa1MV7PhXdKU1MqSU2Sa4PbZbIJWmDs=",
-        "lime-lang-1.0.9.tar.gz"
-      ]
-    },
-    "1.1.0": {
-      "sdist": [
-        "VLtj0g+ElK33DaTdxg5FWzhP/zYXFLfsJTl91yhY1yg=",
-        "lime-lang-1.1.0.tar.gz"
-      ]
-    },
-    "1.1.1": {
-      "sdist": [
-        "ztGJVB4xr+X2v39LwciHUr3EpyRMR4sVhxoV+wmuzJs=",
-        "lime-lang-1.1.1.tar.gz"
-      ]
-    },
-    "1.1.2": {
-      "sdist": [
-        "8BgvUyuMmgH0x5UrSdZHHtS02fUnSxtlUsTaPle8lrU=",
-        "lime-lang-1.1.2.tar.gz"
-      ]
-    },
-    "1.1.3": {
-      "sdist": [
-        "lZowGU69Krt5uZn7ExF99/lsga3rFfZjLpwBt3Cyclg=",
-        "lime-lang-1.1.3.tar.gz"
-      ]
-    },
-    "1.2.0": {
-      "sdist": [
-        "GAUaUaw0cTap+oBo0ioSMpb/jcuWSOwveMPVIo4DjC0=",
-        "lime-lang-1.2.0.tar.gz"
-      ]
-    },
-    "1.2.1": {
-      "sdist": [
-        "bOV9HhAImIxyEftGCvdbB1/tKQ2HGbuyFaxIOYMx33M=",
-        "lime-lang-1.2.1.tar.gz"
-      ]
-    },
-    "1.4.2": {
-      "sdist": [
-        "olmj2ueD4KWgV3lVpYV2cKydEomUriVZwvudy1DVHHE=",
-        "lime-lang-1.4.2.tar.gz"
-      ]
-    },
-    "2.0.0a1": {
-      "sdist": [
-        "mYFrurMwnciCkYvWqEFOelDFs8YPUKcuD4KS5NNOVIc=",
-        "lime-lang-2.0.0a1.tar.gz"
-      ],
-      "wheels": {
-        "lime_lang-2.0.0a1-py3-none-any.whl": [
-          "/283qgs8DY0LSrrOIGdC7+EnlQLHy49wts+R4h0VyHI=",
-          "py3"
         ]
       }
     }
@@ -62476,6 +62446,14 @@
       "sdist": [
         "3E0rwl8D1r3Pw2OhGgvh8dJzw85idrA8IpATeRsSIFA=",
         "openbot_frontend-0.3.0.tar.gz"
+      ]
+    }
+  },
+  "openload-all-my-life-2020-online-full-version": {
+    "0.4": {
+      "sdist": [
+        "7cZkI5vRBmPMjxvnwHHFge4Gtlv1unVqnNiF+IgJ48I=",
+        "openload-all-my-life-2020-online-full-version.tar.gz"
       ]
     }
   },
