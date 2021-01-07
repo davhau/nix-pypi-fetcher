@@ -4381,6 +4381,32 @@
       ]
     }
   },
+  "azcam-ds9": {
+    "21.1.1": {
+      "sdist": [
+        "oJcuoaeNhG/F6rxzCrfhnbkC3n/FtiEx0lGEM8Bvjl0=",
+        "azcam-ds9-21.1.1.tar.gz"
+      ],
+      "wheels": {
+        "azcam_ds9-21.1.1-py3-none-any.whl": [
+          "vsdFcVAnPY0kpH+YyGq8RsSP0UY/KVivxMcL622bcoQ=",
+          "py3"
+        ]
+      }
+    },
+    "21.1.2": {
+      "sdist": [
+        "b/eIzFZn+0Zgcn2DMwYTXnF92CyqNBFU1mqKv5Khlag=",
+        "azcam-ds9-21.1.2.tar.gz"
+      ],
+      "wheels": {
+        "azcam_ds9-21.1.2-py3-none-any.whl": [
+          "OLI+e3pNAaIuUdxSI6cwolejOnoUGDi1Ltjop2Qh+Ts=",
+          "py3"
+        ]
+      }
+    }
+  },
   "backtest-pkg": {
     "0.0.1": {
       "sdist": [
@@ -6258,6 +6284,12 @@
       "sdist": [
         "JqlIenzVVwAGD9NCq3GGXUIOtkLzFHz4MPy+yA+FIAk=",
         "cdpcli-beta-0.9.22.tar.gz"
+      ]
+    },
+    "0.9.23": {
+      "sdist": [
+        "5uAyUq2AE2DpMGXqa9/53cZ3vnHRrBkitKUHrAo8aDE=",
+        "cdpcli-beta-0.9.23.tar.gz"
       ]
     }
   },
@@ -19754,10 +19786,34 @@
         ]
       }
     },
+    "14.6.2": {
+      "wheels": {
+        "flywheel_sdk-14.6.2-py2.py3-none-any.whl": [
+          "sjFwyEJkbELF9/EtUo/sroT5cTZepPK9epTr8AQyIU8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "14.6.2rc0": {
+      "wheels": {
+        "flywheel_sdk-14.6.2rc0-py2.py3-none-any.whl": [
+          "XCKK3Cpbrzjkh+eE0dclB9rzPI2qMIddQLHNUomw2u8=",
+          "py2.py3"
+        ]
+      }
+    },
     "15.0.0rc0": {
       "wheels": {
         "flywheel_sdk-15.0.0rc0-py2.py3-none-any.whl": [
           "f6udBw/9Xz2WO/KAkblYKOrhKGW9G7AvHkik0+I1sAg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "15.1.0": {
+      "wheels": {
+        "flywheel_sdk-15.1.0-py2.py3-none-any.whl": [
+          "JCLYi9GCRqw95K+OUNhISk73Qd0SId4T+K1xx6gpOho=",
           "py2.py3"
         ]
       }
@@ -22328,6 +22384,18 @@
       "wheels": {
         "ga4gh.vrs-0.6.0rc0-py2.py3-none-any.whl": [
           "OYWZT/6cJ2j2nyQW4E3KiMJ2RmzC5SE/GDDcio3vQvg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.6.1": {
+      "sdist": [
+        "YHXAb7f9/VJBzwZ3w4c/3qA626nZEKRQmFLkxxp8l8I=",
+        "ga4gh.vrs-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "ga4gh.vrs-0.6.1-py2.py3-none-any.whl": [
+          "7d4LAZKlmqAbIiJuVGXGCnZw8E1Im+gwWROvrghU9CQ=",
           "py2.py3"
         ]
       }
@@ -39106,6 +39174,18 @@
         ]
       }
     },
+    "1.16.50.0": {
+      "sdist": [
+        "uwT01twkx4dNkyqRX5Vqh2KD51mAhBhmnOJZNlWK4yo=",
+        "mypy-boto3-apigatewayv2-1.16.50.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_apigatewayv2-1.16.50.0-py3-none-any.whl": [
+          "0p2LKPNvdIUEEcPAYmYxL6dNMdiU/IRa1SysCjpRDKM=",
+          "py3"
+        ]
+      }
+    },
     "1.16.6.0": {
       "sdist": [
         "N79+FJ9XYLJXlmsShT57CXt1oifUqu9QQM0mO6hpwG4=",
@@ -42076,6 +42156,18 @@
       "wheels": {
         "mypy_boto3_fsx-1.16.5.1-py3-none-any.whl": [
           "WBJ7/zGk/1N+/cURj88l9bCWWtUUzCxbZA3CQsXj/rA=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.50.0": {
+      "sdist": [
+        "Mf+riYtAxN1gZ40SbAmSc+2OG0Qq2nV0h9tX3LYSGEs=",
+        "mypy-boto3-fsx-1.16.50.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_fsx-1.16.50.0-py3-none-any.whl": [
+          "x9tpgBibnsg0/LYs2ywEjCT1b+qwvsWYcwprQ0ipJOs=",
           "py3"
         ]
       }
@@ -54055,6 +54147,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.9": {
+      "sdist": [
+        "EVpeMtN+LE8wXv9A6epFT6AOl3u0mbw7QDvTuhBkGAI=",
+        "pyrulelearn-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "pyrulelearn-1.0.9-py3-none-any.whl": [
+          "qLj79mWh+GgIVsG7DD2KBcjhFT0BtPqij4NEN8Qa/P8=",
+          "py3"
+        ]
+      }
     }
   },
   "pysankey2": {
@@ -56333,6 +56437,30 @@
           "py3"
         ]
       }
+    },
+    "2.6.0": {
+      "sdist": [
+        "WxQyMPMUywhq+MHlSh+0Lzet2UDs4z3hLVD93eE12fw=",
+        "redditeasy-2.6.0.tar.gz"
+      ],
+      "wheels": {
+        "redditeasy-2.6.0-py3-none-any.whl": [
+          "MBPe+PtjrB4kEnAvI4fooNH7HhOaB/7LP/iWnjuORRI=",
+          "py3"
+        ]
+      }
+    },
+    "2.7.0": {
+      "sdist": [
+        "NikdwF/PQRvVQxV95UKcKmxPTS2gV8NhrEZyJftgMSw=",
+        "redditeasy-2.7.0.tar.gz"
+      ],
+      "wheels": {
+        "redditeasy-2.7.0-py3-none-any.whl": [
+          "LJfrrFAGMr3eCz/Y+UNQrPfFQBuylkYDyjNtbOAvfJM=",
+          "py3"
+        ]
+      }
     }
   },
   "redis-decorator": {
@@ -57608,6 +57736,30 @@
       "wheels": {
         "robotframework_docgen-0.9.0-py3-none-any.whl": [
           "2E3p9mf2Pn7LRd9zhGzc+jzpoyOXQK2qNAw3mTdIH9k=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "sdist": [
+        "5EOrOeyOtA441lMUBSwEcoGlUebx62Orr+O2HyrJ13s=",
+        "robotframework-docgen-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "robotframework_docgen-0.9.1-py3-none-any.whl": [
+          "izQGsQwLoiZDbDxd63Ol3Ai4xIVHw63IAo2lw7pMlUg=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.2": {
+      "sdist": [
+        "HPeo8VeVZaggryxkpTdWBTavnk7GtUv+FCoP2K6kslE=",
+        "robotframework-docgen-0.9.2.tar.gz"
+      ],
+      "wheels": {
+        "robotframework_docgen-0.9.2-py3-none-any.whl": [
+          "RFovZf/i7cowE5bYS/NYMxNqL4dcI8RPBJm/CGJ5xEE=",
           "py3"
         ]
       }
@@ -60952,6 +61104,12 @@
       "sdist": [
         "dfN1oLUYGDu0kF2xNCeNuy1FHYpm5ACzjomLzRh6Sd4=",
         "sdata-0.16.0.tar.gz"
+      ]
+    },
+    "0.16.1": {
+      "sdist": [
+        "aAR+n8UmVFvENt2Zv+ji8B5Xq319jrksmxpDnTOnjQk=",
+        "sdata-0.16.1.tar.gz"
       ]
     },
     "0.7.1": {
@@ -71399,6 +71557,26 @@
           "py2.py3"
         ]
       }
+    },
+    "8.0.2": {
+      "sdist": [
+        "UrcsvLHFVb7WOgjGrpjufSTWp9zGn9bU8VTH7HNHHh0=",
+        "symbolic-8.0.2.zip"
+      ],
+      "wheels": {
+        "symbolic-8.0.2-py2.py3-none-macosx_10_15_x86_64.whl": [
+          "Je7jcOtdbZOiSW8hhxUjy0sph997iFiozAZtC6f/G3c=",
+          "py2.py3"
+        ],
+        "symbolic-8.0.2-py2.py3-none-manylinux2010_i686.whl": [
+          "znhkJ/iC0uR1arMxiFe/xVUd9dlIa53i1r5fh82X0Xw=",
+          "py2.py3"
+        ],
+        "symbolic-8.0.2-py2.py3-none-manylinux2010_x86_64.whl": [
+          "jSrJqJG0i/W39FIirpaoe3lTOM6p9W/WFVmc2rG+5C8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "sysvipc": {
@@ -72950,6 +73128,18 @@
       "wheels": {
         "time_series_dataset_generator-0.0.1-py3-none-any.whl": [
           "A8EY926Z78x8gOgitcRBn22XsBn5NAU6xHSjhRDGX2k=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "Ue9e3D3XMpgFImszfw974fHTwwACrfTvEtT8vw0lxVE=",
+        "time_series_dataset_generator-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "time_series_dataset_generator-0.0.2-py3-none-any.whl": [
+          "6w+bACJwJDDSdCDGG7Wvc9lDiQii5iBC5BxDe0+exno=",
           "py3"
         ]
       }
