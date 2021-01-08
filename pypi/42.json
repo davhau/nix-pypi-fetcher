@@ -30843,6 +30843,32 @@
       }
     }
   },
+  "ioben-pytest-kind": {
+    "21.0.0": {
+      "sdist": [
+        "lqRgPyx7/EveSKcGbW0sU+cAPktJddKGVToYH3TCS+M=",
+        "ioben-pytest-kind-21.0.0.tar.gz"
+      ],
+      "wheels": {
+        "ioben_pytest_kind-21.0.0-py3-none-any.whl": [
+          "8TFf5F+FWPwzGoVXqq6j51LeeIKLSFOUvtAOOniuzXU=",
+          "py3"
+        ]
+      }
+    },
+    "21.0.1": {
+      "sdist": [
+        "n/JYBcgsFzYQrOhzm5SIXUJPgewyRjom6U9ica3jfNA=",
+        "ioben-pytest-kind-21.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ioben_pytest_kind-21.0.1-py3-none-any.whl": [
+          "rVLwUy2YC95vgHADxjV0bON+PA50C4mCKzUtESuXs/A=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ipnext.site.editablefooter": {
     "0.1.3": {
       "sdist": [
@@ -41771,6 +41797,20 @@
       }
     }
   },
+  "nlpt": {
+    "0.0.1": {
+      "sdist": [
+        "W5e65qKJtzqHz4xuCQvmBq8EXwhkGRdHN3UXCvDIwaY=",
+        "nlpt-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "nlpt-0.0.1-py3-none-any.whl": [
+          "xfknHP6ZM50hU8ZrX9I3UUuDMWXE7xMj6GtADRsJ7k4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "nn-backpropogate": {
     "0.0.1": {
       "wheels": {
@@ -46589,14 +46629,6 @@
           "py2.py3"
         ]
       }
-    }
-  },
-  "openload-godmothered-2020-online-full-version": {
-    "0.4": {
-      "sdist": [
-        "54TsfL/gpaC9gjDatHl6i/Wn918xpBgZw9C8ctlZRyQ=",
-        "openload-godmothered-2020-online-full-version.tar.gz"
-      ]
     }
   },
   "openregister": {
@@ -58069,6 +58101,14 @@
         "INcFwIFHJhE7RJfU1Dj0MVp9LGZxRimg3G6CAxhpN4Q=",
         "ql-cq-0.35.0a0.tar.gz"
       ]
+    },
+    "0.36.0": {
+      "wheels": {
+        "ql_cq-0.36.0-py3-none-any.whl": [
+          "OVl0QfretUQ59GPTW0hAMXRBLO6OAK0DDXNGUxbBRN4=",
+          "py3"
+        ]
+      }
     }
   },
   "quickdictionary": {
@@ -94016,6 +94056,46 @@
         ],
         "tfa_nightly-0.13.0.dev20210107002850-cp38-cp38-win_amd64.whl": [
           "g2msknjNdu44GpMYxRXOXkN8F1+AK3Hns+nLofKYUzY=",
+          "cp38"
+        ]
+      }
+    },
+    "0.13.0.dev20210107193404": {
+      "wheels": {
+        "tfa_nightly-0.13.0.dev20210107193404-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "UJKXekJkBKRBX+UUQ2fMClWzApddDlFPFoEwYTvPU/I=",
+          "cp36"
+        ],
+        "tfa_nightly-0.13.0.dev20210107193404-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "nHy51gGEhidTKlyDZeCWWCRcaYwie7Ebr1oT3QLACxQ=",
+          "cp36"
+        ],
+        "tfa_nightly-0.13.0.dev20210107193404-cp36-cp36m-win_amd64.whl": [
+          "rD2O8BE5OfSOXyYn77SvYVcTT3E8FEgVi40PVgBZEQY=",
+          "cp36"
+        ],
+        "tfa_nightly-0.13.0.dev20210107193404-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "5mwazLcXu1PUUDMoh3lEp6LlcLFZo6/DgOAXsxtw0mk=",
+          "cp37"
+        ],
+        "tfa_nightly-0.13.0.dev20210107193404-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "MX/k8ruJ0CbI1gHsjdO9Y5FCGTXkZtEgOVCKGLzVBYU=",
+          "cp37"
+        ],
+        "tfa_nightly-0.13.0.dev20210107193404-cp37-cp37m-win_amd64.whl": [
+          "dUcU1E2UIoDw6BcAuxmQPE+/X/omtD98HmynGCym+1s=",
+          "cp37"
+        ],
+        "tfa_nightly-0.13.0.dev20210107193404-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "B2lhzKAJVlLmFS5l/wbS+fZfhuma0UmhUkhRPQZycBE=",
+          "cp38"
+        ],
+        "tfa_nightly-0.13.0.dev20210107193404-cp38-cp38-manylinux2010_x86_64.whl": [
+          "yzBx6rZMBe0LjQdwliVxoMJ0Lkb1QC/6bcFqnNdSmNI=",
+          "cp38"
+        ],
+        "tfa_nightly-0.13.0.dev20210107193404-cp38-cp38-win_amd64.whl": [
+          "AtupgLmC2IsBraYMlhcPEPROg0cK+PywC6/NxwoNJpk=",
           "cp38"
         ]
       }
