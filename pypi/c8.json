@@ -28073,6 +28073,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.1": {
+      "sdist": [
+        "w0ECamEFDf5JGA33GklVKMixrEGq618t6WTA3aX9i48=",
+        "followthemoney-store-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "followthemoney_store-3.0.1-py2.py3-none-any.whl": [
+          "0Vbtat/x5HOIK9wVv487YOv4hhH6xYZBAd7wPBMbsYc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "font-source-sans-pro": {
@@ -47247,6 +47259,18 @@
           "py3"
         ]
       }
+    },
+    "0.9.22": {
+      "sdist": [
+        "Nfe2bEAcg8Fo9WjYdqhNUR45wwcR3raCd9sS5lU7tgA=",
+        "mrq-custom-0.9.22.tar.gz"
+      ]
+    },
+    "0.9.23": {
+      "sdist": [
+        "KyTuzqtky9tOhNOe/1iMaH9DRQfN2paMq+RUtLD5LrU=",
+        "mrq-custom-0.9.23.tar.gz"
+      ]
     }
   },
   "msm-transcoder": {
@@ -53495,6 +53519,12 @@
         "erkYWCRFPK3UqsfQHVi2R601r2NXK0DBQrzAsrptR4w=",
         "napoleontoolbox-2.77.tar.gz"
       ]
+    },
+    "2.78": {
+      "sdist": [
+        "mQqPVK/vLnExQRoR7wSK7c3ZI+iC0wFX+JY53ef3bgM=",
+        "napoleontoolbox-2.78.tar.gz"
+      ]
     }
   },
   "nbc": {
@@ -54688,55 +54718,87 @@
         "nmslib-1.8.1.tar.gz"
       ]
     },
-    "2.0.12": {
+    "2.0.11": {
       "wheels": {
-        "nmslib-2.0.12-cp39-cp39-macosx_10_14_x86_64.whl": [
-          "z8IuANAQrz3Y1ivxJ8Zq7+LgdIamO0TyJ0Jh4nw56KA=",
-          "cp39"
-        ]
-      }
-    },
-    "2.0.15": {
-      "sdist": [
-        "MYr0tm+lWFEwPhHJMnMEcES5x0W5d0t8qGDuM7LWE8E=",
-        "nmslib-2.0.15.tar.gz"
-      ],
-      "wheels": {
-        "nmslib-2.0.15-cp27-cp27m-win_amd64.whl": [
-          "M7wem7cp9fEX0i6TYzPiep95O0Z80o9kqhdcv5mQPEY=",
+        "nmslib-2.0.11-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "x3K8/mg3pwglUlWcZDfcxIevqrl/JTPpoLye/sCypog=",
           "cp27"
         ],
-        "nmslib-2.0.15-cp35-cp35m-win_amd64.whl": [
-          "RgFyvTM3I7W2MVba9uIdul1WKkV5c/NTpBoKgQT7vmY=",
+        "nmslib-2.0.11-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "XStlK/MiZsV0Iz9U2whbwXmK7XkPRUvZhsFG74nEdj0=",
+          "cp27"
+        ],
+        "nmslib-2.0.11-cp35-cp35m-manylinux1_x86_64.whl": [
+          "115QSDdWjLO0DQsdNqQ7cnRMNt2+xpJ7W7shpv4eLvg=",
           "cp35"
         ],
-        "nmslib-2.0.15-cp36-cp36m-win_amd64.whl": [
-          "gqD6Dl5AmlPgnLRD1RE5kItB+YwN3i9RFjpLJhSzxJE=",
+        "nmslib-2.0.11-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "RWPaTdeHrh1iBxAeVjRADSjWx1r5v+Weni+kV9j/hkk=",
+          "cp35"
+        ],
+        "nmslib-2.0.11-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "bW4aWi6qvKNsxE1ZY4rckDpvl62/MOSC51hmpPWw/ys=",
           "cp36"
         ],
-        "nmslib-2.0.15-cp37-cp37m-win_amd64.whl": [
-          "W0Ec9ctsW6X8KvG1D3zNI1tfi/Z7Uxc/HGtfRtmLqiY=",
+        "nmslib-2.0.11-cp36-cp36m-manylinux1_x86_64.whl": [
+          "f4+yW2EnndoXufKo80pV5nyKA3aNeVasBx02S8z3kZc=",
+          "cp36"
+        ],
+        "nmslib-2.0.11-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "ASUfTZ3r+y1bc2ZWJmsBuH+d8RMKDFMdXaZuH0I4AsQ=",
+          "cp36"
+        ],
+        "nmslib-2.0.11-cp36-cp36m-manylinux2014_aarch64.whl": [
+          "MLz4gyIjaVATqcV92nuM8W3o03QKJvfBA1YFGRRSEEo=",
+          "cp36"
+        ],
+        "nmslib-2.0.11-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "jL26XGwuycOfbVR16h74ukIvPOwIRgrCyScGHodMR6w=",
           "cp37"
         ],
-        "nmslib-2.0.15-cp38-cp38-win_amd64.whl": [
-          "aRzVvJZdrtsNf40Am84B+EWq2LB8ZgsbiMGD25QOaTg=",
-          "cp38"
-        ]
-      }
-    },
-    "2.0.16": {
-      "sdist": [
-        "uvHhZIztYF1NZxcHdmgkMaz6nBuTEGUNe1jlc7/eXV8=",
-        "nmslib-2.0.16.tar.gz"
-      ],
-      "wheels": {
-        "nmslib-2.0.16-cp27-cp27m-win_amd64.whl": [
-          "2rvnDdd+ikG43OjD04843qK4exxRvpGNEaNJBCJag0I=",
-          "cp27"
+        "nmslib-2.0.11-cp37-cp37m-manylinux1_x86_64.whl": [
+          "kb7lKFMbAILMXI4F9gfpGtmnRXqzXHEhcqIiGnslb5A=",
+          "cp37"
         ],
-        "nmslib-2.0.16-cp35-cp35m-win_amd64.whl": [
-          "YGiFFw54nkFi6oEc2AJWbvctEPnf5zCTsHPXL0DUvw4=",
-          "cp35"
+        "nmslib-2.0.11-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "msf9GT0qOi7Nxk0Qty3bTFtI7UcZ2SUShRpiKXnlcaE=",
+          "cp37"
+        ],
+        "nmslib-2.0.11-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "yOaD5rgC/PUlHuOPd7ZlhDY+v1jhbXeW25OeCqGQG+w=",
+          "cp37"
+        ],
+        "nmslib-2.0.11-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "JZfVxq7xKAZdhMMLOH9TB7KyOFaD2YmyNm66jIWMXhM=",
+          "cp38"
+        ],
+        "nmslib-2.0.11-cp38-cp38-manylinux1_x86_64.whl": [
+          "8dHYVSFN8kqBN4VK6DLLKMlDOmQZHzppyNXbwK5SFz0=",
+          "cp38"
+        ],
+        "nmslib-2.0.11-cp38-cp38-manylinux2010_x86_64.whl": [
+          "I7uuV9U/XAUOO0ghMUCL47vXSsKdO+SJJOt/W5Vt5P0=",
+          "cp38"
+        ],
+        "nmslib-2.0.11-cp38-cp38-manylinux2014_aarch64.whl": [
+          "4iGyIQoqrKsPpkUUjULqJvTomBX4Ki6cZYPaKlosFUI=",
+          "cp38"
+        ],
+        "nmslib-2.0.11-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "ky9NfS0KpS1IywixBUwJwXhr83ihr0qtaLwblxObYM4=",
+          "cp39"
+        ],
+        "nmslib-2.0.11-cp39-cp39-manylinux1_x86_64.whl": [
+          "4Br3jnvqukXZwJBwM+l5wigx8Rwp1FIzoGRyKIgFpNA=",
+          "cp39"
+        ],
+        "nmslib-2.0.11-cp39-cp39-manylinux2010_x86_64.whl": [
+          "yd+l3bvPeoPDKWr8Qd7vT1PYOzbsSDYmeRdwEkkf0Bo=",
+          "cp39"
+        ],
+        "nmslib-2.0.11-cp39-cp39-manylinux2014_aarch64.whl": [
+          "fMf2zd/yruHgyc7N48x8Hl8+f4GcphPz1Ty8jGcjUO0=",
+          "cp39"
         ]
       }
     },
@@ -62164,6 +62226,30 @@
       "wheels": {
         "pelutils-0.3.0-py3-none-any.whl": [
           "Flmu24Gvu4OxLQLe5JQZ8+sT8xEAIWElb6LoDBNP3D0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "Cl1i7glSW1ZSNBuj2tuLDTVucN7/9YGaPRgcEpHX+qw=",
+        "pelutils-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "pelutils-0.3.1-py3-none-any.whl": [
+          "JA4UT3WcnIlflCXuN9QrCCNAdljpJ7tjudiUDuQZLiM=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "6lWqEFTAOnoh/8uwKLb9Hv1FwKICKQuVHqWPOrP4dSE=",
+        "pelutils-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "pelutils-0.3.2-py3-none-any.whl": [
+          "9muvBN6WKmNI/2+p8iNyfl56GlP/frhnGLEd/wnCm5A=",
           "py3"
         ]
       }
@@ -80305,6 +80391,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.3": {
+      "sdist": [
+        "Jfm3S7UYUUSO9HWpkVXSAkLT+R3GSU1R2FX2KRU0/Rg=",
+        "tnnt-templates-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "tnnt_templates-1.1.3-py3-none-any.whl": [
+          "eBCAxnjWfowo0uqxiT5ncrruE6451aT1Q3Z6dc4WY1E=",
+          "py3"
+        ]
+      }
     }
   },
   "todos": {
@@ -84674,6 +84772,14 @@
       "wheels": {
         "zepben.protobuf-0.10.0b1-py3-none-any.whl": [
           "LvUJzrHYTxJZQy2XkmpFO7tUyyMZUFuaBbmCsexZZ8M=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.0b2": {
+      "wheels": {
+        "zepben.protobuf-0.10.0b2-py3-none-any.whl": [
+          "NdjYYR3GoSeo5ee1bpBDhS712XCg3M7wzwKdIX7pN+0=",
           "py3"
         ]
       }
