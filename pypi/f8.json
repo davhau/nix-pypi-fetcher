@@ -1597,6 +1597,26 @@
       ]
     }
   },
+  "akaneko": {
+    "1.0.1": {
+      "sdist": [
+        "twvO0kmV7GtkblaSwXaOgOwGi/riGystDxDcmQAmuUI=",
+        "akaneko-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.8": {
+      "sdist": [
+        "kFkXtsH1WHhUEFBLvLTZmXQF4rGl+L1L9ux9H6wHAKs=",
+        "akaneko-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "akaneko-1.0.8-py3-none-any.whl": [
+          "0LoMFilPDjSlxfaY2wpfV/17CBNd/6HDLA4uMhRVcYw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "alas-pkg-core": {
     "0.0.1": {
       "sdist": [
@@ -7441,38 +7461,6 @@
       ]
     }
   },
-  "awsauthenticationlib": {
-    "0.0.1": {
-      "sdist": [
-        "ibkZemali5U/cJUr6L9rSyQjUIgcwhFJTBeCK7V0xcs=",
-        "awsauthenticationlib-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "FWif+CZqHn7TLmiQdjbOKNleNC14pzUAApsKBbCV7QM=",
-        "awsauthenticationlib-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "67M8jrMYd4u63rnB7hXd2Mq3d7UmcqHxOqINX7APW4M=",
-        "awsauthenticationlib-0.0.3.tar.gz"
-      ]
-    },
-    "0.1.0": {
-      "sdist": [
-        "43rStcHJn+CUOYAfqI3FrFhoqcA2kjc9EjkCURBi5ss=",
-        "awsauthenticationlib-0.1.0.tar.gz"
-      ]
-    },
-    "0.2.0": {
-      "sdist": [
-        "joT/8sBOnOsdbeb7dQgkJlYxHJjVarTAiCIZPXmq56A=",
-        "awsauthenticationlib-0.2.0.tar.gz"
-      ]
-    }
-  },
   "awscdkawscloudwatch": {
     "0.1.1": {
       "sdist": [
@@ -10485,6 +10473,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.3": {
+      "sdist": [
+        "wbfHzxFULbYAV8c+zIhoWKnJ/XypnQH98I9T25/Z1/M=",
+        "canvas_client-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "canvas_client-0.1.3-py3-none-any.whl": [
+          "IDhmUbgy+/6KmhLUwU2AoBHutWzpkPzfe6yTZIm55ZY=",
+          "py3"
+        ]
+      }
     }
   },
   "carbonara-archinfo": {
@@ -10700,6 +10700,18 @@
       "wheels": {
         "cdk_apisix-0.0.20-py3-none-any.whl": [
           "kialDdOBaLHgG6cEr8EyCAzE3gvkEQZIzxnB8k3tx4w=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.21": {
+      "sdist": [
+        "8clDcCC2pE7XUSWVX7wClyNvp3cVV1p5XgOmRqDB2d0=",
+        "cdk-apisix-0.0.21.tar.gz"
+      ],
+      "wheels": {
+        "cdk_apisix-0.0.21-py3-none-any.whl": [
+          "Q01XBIeg/BXZxbuQEcIAx7wLuZP9eim4+l4X4GFKB44=",
           "py3"
         ]
       }
@@ -74417,6 +74429,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.322": {
+      "sdist": [
+        "PwzBVKPveQZZF78qzIxWyMZiczMfTCml5/DRWYR6E+U=",
+        "tencentcloud-sdk-python-tci-3.0.322.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tci-3.0.322-py2.py3-none-any.whl": [
+          "6eyQMgaS+IRbDCNvxjkiflSQUT0LxoS/wF+H71JmjeA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-io-2.0-preview": {
@@ -86520,6 +86544,34 @@
         ],
         "tfq_nightly-0.5.0.dev20210110-cp38-cp38-manylinux2010_x86_64.whl": [
           "4CyxDIHHf97F80EMWlP/eSJ+2FJ0G43rLvyW3Z2zcig=",
+          "cp38"
+        ]
+      }
+    },
+    "0.5.0.dev20210111": {
+      "wheels": {
+        "tfq_nightly-0.5.0.dev20210111-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "aLHkY/emLEMUFE4jnmH4/dlNwrly4AwD7rr/6v8wN6Q=",
+          "cp36"
+        ],
+        "tfq_nightly-0.5.0.dev20210111-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "86m3f5vbzN6vVdwCMb9WPrD0O2JGgf40qdnavFfmx8c=",
+          "cp36"
+        ],
+        "tfq_nightly-0.5.0.dev20210111-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "aOPA2cu1KLCHaxq23Ng5bijO1brEv9I7NmNNxVb3eV4=",
+          "cp37"
+        ],
+        "tfq_nightly-0.5.0.dev20210111-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "Dcy5KRqhiZK+Kjw0uLm5PYsGiVzV0y4JvyoN06oGnqQ=",
+          "cp37"
+        ],
+        "tfq_nightly-0.5.0.dev20210111-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "aKOF7EvOgJovQjgSl7NFRAB4+zWyFZZf32dVNLdDIrs=",
+          "cp38"
+        ],
+        "tfq_nightly-0.5.0.dev20210111-cp38-cp38-manylinux2010_x86_64.whl": [
+          "Gm3bD91xa4b4r2114+rm3EkScZhIro0EXWjtjxuto0g=",
           "cp38"
         ]
       }
