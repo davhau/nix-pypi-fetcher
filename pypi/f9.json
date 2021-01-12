@@ -2194,6 +2194,14 @@
         ]
       }
     },
+    "0.16.5": {
+      "wheels": {
+        "amsterdam_schema_tools-0.16.5-py3-none-any.whl": [
+          "VLxu7tjvWHfQdRNCicK04JUspqnHdYiMK7uVQkXIXjc=",
+          "py3"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "4hbagM4St7IEADBp07eYz5Ag66g5jQxqROPFfDlgK8g=",
@@ -55288,6 +55296,18 @@
         ]
       }
     },
+    "1.16.52.0": {
+      "sdist": [
+        "iIEY0pgLlc3KYmLXdoKlksW1lEwi89o7Ddb8LqoZn3k=",
+        "mypy-boto3-sagemaker-1.16.52.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sagemaker-1.16.52.0-py3-none-any.whl": [
+          "1pw542Mm0VLSVRg06EmrNNvzPh8tsfsvjVt3hq/8hf8=",
+          "py3"
+        ]
+      }
+    },
     "1.16.6.0": {
       "sdist": [
         "WejeV1f9nMkByCNhKjglwlECNglz++uHjCFxmiYmaTw=",
@@ -58282,6 +58302,18 @@
       "wheels": {
         "mypy_boto3_sts-1.16.51.0-py3-none-any.whl": [
           "+EGe99hXce1ciaYvqry/pksdFfu23yRMfavnureKWxg=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.52.0": {
+      "sdist": [
+        "HlMJywW6Ff6//g5CFH3jtIEhWMexNAuf4dDpUOFToJg=",
+        "mypy-boto3-sts-1.16.52.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sts-1.16.52.0-py3-none-any.whl": [
+          "mVyZHK6qInCP8QynZ5JwHQ8rrIOVQ1GVHyf/iftYQuw=",
           "py3"
         ]
       }
@@ -80168,12 +80200,20 @@
           "S36hbDtfbX2RaxGzOVaztYsPW/FZORIOzDdUcmKWdno=",
           "cp36"
         ],
+        "rust_arenaclient-0.1.16-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "XhW8R6T/FAbTYHHLypqrhSJJVCq9LipgROnUzjn6a7E=",
+          "cp36"
+        ],
         "rust_arenaclient-0.1.16-cp36-none-win_amd64.whl": [
           "VkoSNZCktmzcQ9StBRQqfoPk9aBO2R4KyKUmA3BWaCs=",
           "cp36"
         ],
         "rust_arenaclient-0.1.16-cp37-cp37m-manylinux1_x86_64.whl": [
           "LeXX7OaHPQ5vBG0LTF47c8x4rZlOrdICGKNztetjXW4=",
+          "cp37"
+        ],
+        "rust_arenaclient-0.1.16-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "BODMPwrwyHKG+qYG6d58vYJk1MQHKjfCtG94iTbAvp0=",
           "cp37"
         ],
         "rust_arenaclient-0.1.16-cp37-none-win_amd64.whl": [
@@ -80184,9 +80224,49 @@
           "3F7CeW5zEHZjsklC4obCIHYBmMqBMPHBTX+YaSxnt0Q=",
           "cp38"
         ],
+        "rust_arenaclient-0.1.16-cp38-cp38-manylinux2010_x86_64.whl": [
+          "RSILpKH5EgEe7/2vAgH+Nvwo89QgrYAYs2/CMywpX+4=",
+          "cp38"
+        ],
         "rust_arenaclient-0.1.16-cp38-none-win_amd64.whl": [
           "ESh3kNBM9vpgXfOFTfN74CjHuK/CL7TwZdsMP2momYM=",
           "cp38"
+        ]
+      }
+    },
+    "0.1.17": {
+      "wheels": {
+        "rust_arenaclient-0.1.17-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "It82BTWttFZrTJa7XLE0GqFfMAoyxMk65HawH6ihhek=",
+          "cp36"
+        ],
+        "rust_arenaclient-0.1.17-cp36-none-win_amd64.whl": [
+          "Q2SxmcHq+RoD8JZfCMIaQFDKxax63y0cgc8gARhwV7E=",
+          "cp36"
+        ],
+        "rust_arenaclient-0.1.17-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "t7mRUDI2sfPmzqqHV3eEMEIdBsmo+BlW4eKFR6Es0+8=",
+          "cp37"
+        ],
+        "rust_arenaclient-0.1.17-cp37-none-win_amd64.whl": [
+          "v/PtT9RZZX68aWF/TfHvOYD1LLc1X6L71o5Tm+qxVBs=",
+          "cp37"
+        ],
+        "rust_arenaclient-0.1.17-cp38-cp38-manylinux2010_x86_64.whl": [
+          "HpGY0djGbjZ4Ma2bgHGDBglRCW69rv3x3tzAfVcZSN8=",
+          "cp38"
+        ],
+        "rust_arenaclient-0.1.17-cp38-none-win_amd64.whl": [
+          "gTFGHXDD4Tcyu6FZNDxXHzXHiCUmkeq4LfKQRSQKZrw=",
+          "cp38"
+        ],
+        "rust_arenaclient-0.1.17-cp39-cp39-manylinux2010_x86_64.whl": [
+          "DwQ6mzukQT0YBoQGbNTxExsdiu5lbJN4RZekCWDygWk=",
+          "cp39"
+        ],
+        "rust_arenaclient-0.1.17-cp39-none-win_amd64.whl": [
+          "JRvQbBael2bTaQXfAT4fa0mWpfgss6j0FZjiv3mvdUI=",
+          "cp39"
         ]
       }
     },
