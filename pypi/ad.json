@@ -3976,6 +3976,18 @@
         ]
       }
     },
+    "1.84.0": {
+      "sdist": [
+        "7gq5aOfVI3nXwfjb9NskxOLKfkohUCgWX5P/42NQ+LM=",
+        "aws-cdk.aws-stepfunctions-tasks-1.84.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_stepfunctions_tasks-1.84.0-py3-none-any.whl": [
+          "97NuWNS2igpMn2OqoQV1zQwyf+kOjkT6bA57378wUUA=",
+          "py3"
+        ]
+      }
+    },
     "1.9.0": {
       "sdist": [
         "6P7t+bgeqoSaqnj4LsqjVPzUMTEtTQUZ+UZWexABgLo=",
@@ -12346,6 +12358,30 @@
       "wheels": {
         "discovery_transition_ds-2.11.1-py37-none-any.whl": [
           "VYOjflNP25HlSd4C7JW9MS32s5iZHoO2uSTIbct+7TY=",
+          "py37"
+        ]
+      }
+    },
+    "2.11.10": {
+      "sdist": [
+        "YWhXK+mHOTr+BUZN5gOnx1a2bgOe78J3leChJRe3ea8=",
+        "discovery-transition-ds-2.11.10.tar.gz"
+      ],
+      "wheels": {
+        "discovery_transition_ds-2.11.10-py37-none-any.whl": [
+          "xjtOk27gOsxdu3+q55HQ+/hBdYTi5BKHd9yupFxBF1k=",
+          "py37"
+        ]
+      }
+    },
+    "2.11.11": {
+      "sdist": [
+        "FmN7TYf+4ddgf25VifCbvabxCuA5Th4qxeE8h5KLqDM=",
+        "discovery-transition-ds-2.11.11.tar.gz"
+      ],
+      "wheels": {
+        "discovery_transition_ds-2.11.11-py37-none-any.whl": [
+          "BdXgmXvslMZ5LLzL0SeeDiOIPHZQazPp3n69ir5kzWc=",
           "py37"
         ]
       }
@@ -53302,6 +53338,74 @@
         ],
         "guildai-0.7.2rc1-cp38-cp38-win_amd64.whl": [
           "5XmM7q1iHCCyI1hnT5cAI/s7FoKxUnE29tzPFvt9jzw=",
+          "cp38"
+        ]
+      }
+    },
+    "0.7.2rc2": {
+      "wheels": {
+        "guildai-0.7.2rc2-cp27-cp27m-macosx_10_14_x86_64.whl": [
+          "PK/l5WqWG+jRC+hx9c7L3tTq+BdjV4XUuwG+ItXq/CU=",
+          "cp27"
+        ],
+        "guildai-0.7.2rc2-cp27-cp27m-macosx_10_15_x86_64.whl": [
+          "pMs0WPFYuhFsPFVaiNpyzCFWIMb8F35r3hJoue8Os74=",
+          "cp27"
+        ],
+        "guildai-0.7.2rc2-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "H9K5glAEJrBjhDAtzWRshTf7eUZrd0D22SNu5YMgGVQ=",
+          "cp27"
+        ],
+        "guildai-0.7.2rc2-cp35-cp35m-manylinux1_x86_64.whl": [
+          "3dkuoyCrjvQ0YzAOxQD6287BnFfVxJSdOb8SHU7q9AE=",
+          "cp35"
+        ],
+        "guildai-0.7.2rc2-cp35-cp35m-win_amd64.whl": [
+          "IXm356jI5hplhe6g6T/r6DLmi+dXiRN9f9WjyfWbNcQ=",
+          "cp35"
+        ],
+        "guildai-0.7.2rc2-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "zD6GCuOPVTlYaFOe/CL4Viu/aK1aCOZJgCebe7f0AM8=",
+          "cp36"
+        ],
+        "guildai-0.7.2rc2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "8Z+BWe/9gadbG0nb44wXmCOUdk6PsNz0pC0HOHnjTN0=",
+          "cp36"
+        ],
+        "guildai-0.7.2rc2-cp36-cp36m-win_amd64.whl": [
+          "gQhsYIpbVSWLvtE8G47PewY9q3URCEizb+cr7YTgYns=",
+          "cp36"
+        ],
+        "guildai-0.7.2rc2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "XyjWU9Vswlod0aZoizmR2Nrjb6v26xFatHlK54cKBMg=",
+          "cp37"
+        ],
+        "guildai-0.7.2rc2-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "PdjvbB/QwftPOo9BLrhwLgUQVYLvw/wVMEY3R/vQf9I=",
+          "cp37"
+        ],
+        "guildai-0.7.2rc2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "9ryRLWl+FSg5uzEjtJK9GtrNsru7q1O0Qk22aGXIkqc=",
+          "cp37"
+        ],
+        "guildai-0.7.2rc2-cp37-cp37m-win_amd64.whl": [
+          "NKIA44LWDBYEqxE48nme32HSliCSdWt85/l5R1xzWXk=",
+          "cp37"
+        ],
+        "guildai-0.7.2rc2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "uMdLSSeXsgi3IomWn8d8OvaUosS3V/SPmpW0pbBtgoI=",
+          "cp38"
+        ],
+        "guildai-0.7.2rc2-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "Y7gxdlKAC5a/s/a1Ejb+cbkLXU4Bb40/v93d5lheQuY=",
+          "cp38"
+        ],
+        "guildai-0.7.2rc2-cp38-cp38-manylinux1_x86_64.whl": [
+          "gytEJNczp5gTu/lslpSEIhBz0CUbzvdoFONGPeEzrSU=",
+          "cp38"
+        ],
+        "guildai-0.7.2rc2-cp38-cp38-win_amd64.whl": [
+          "BO0WJWtaR4htHByl3pypVANPawR0ScSPfhubWiX2+RA=",
           "cp38"
         ]
       }
@@ -99984,6 +100088,18 @@
         ]
       }
     },
+    "0.4.0a12": {
+      "sdist": [
+        "MydQJbFiGWp6T8c/Kt80/VebyErLmHVrfAUQJSvKF5A=",
+        "validata_ui-0.4.0a12.tar.gz"
+      ],
+      "wheels": {
+        "validata_ui-0.4.0a12-py3-none-any.whl": [
+          "L3bDbyZscxnwtEO9uVgqF9z+d6KhTHZ1yjtxqJgGxRw=",
+          "py3"
+        ]
+      }
+    },
     "0.4.0a2": {
       "sdist": [
         "Zi+EGbrtiQabyoJGB3FFJYtk/S9gK0aZrRFOnELICSI=",
@@ -100770,6 +100886,22 @@
       "wheels": {
         "weightGIS-0.8.1-py3-none-any.whl": [
           "tir7GF7KYCLopuml1s+dqP8t43ukUn/GVB1rJGfU850=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.2": {
+      "wheels": {
+        "weightGIS-0.8.2-py3-none-any.whl": [
+          "DdO/w4/fHWZAgVw3/etYQEf54cAASzNrKMNxOJvLRRM=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.3": {
+      "wheels": {
+        "weightGIS-0.8.3-py3-none-any.whl": [
+          "ynXXT2olj2iCEZrdqwsdBPvbwFU37FXppKKT3k58ip0=",
           "py3"
         ]
       }

@@ -7799,6 +7799,14 @@
           "py3"
         ]
       }
+    },
+    "0.1.5.3": {
+      "wheels": {
+        "celebalucid-0.1.5.3-py3-none-any.whl": [
+          "X523n7yJIco0SKbBNRltNR5+K5IbbVZUPyUao1zI3bo=",
+          "py3"
+        ]
+      }
     }
   },
   "certbot-dns-isset": {
@@ -50770,6 +50778,18 @@
         ]
       }
     },
+    "1.16.53.0": {
+      "sdist": [
+        "au19//XxuFGKJqcN0APMEln7W/GBKi2/5XysrwQnI/k=",
+        "mypy-boto3-lakeformation-1.16.53.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lakeformation-1.16.53.0-py3-none-any.whl": [
+          "CnNlhnjBdZUNnMnFCCYSC14LBnnaGiHwbsT+UeUsnwQ=",
+          "py3"
+        ]
+      }
+    },
     "1.16.6.0": {
       "sdist": [
         "zO2RpGpIHKxP9STiEQhyRPPes+oRa7+AxgAuxmllMM4=",
@@ -69797,6 +69817,18 @@
           "py3"
         ]
       }
+    },
+    "3.1.0": {
+      "sdist": [
+        "7NztWM85BH8xbefuc/49cCLNzmKW4ef5Tq5U8P8JPHE=",
+        "pytorch_tabnet-3.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pytorch_tabnet-3.1.0-py3-none-any.whl": [
+          "6DblbHltztrjM3wowG6ZNIRN6EI6M2VLGxzXcAqI9og=",
+          "py3"
+        ]
+      }
     }
   },
   "pytransifex": {
@@ -72472,6 +72504,18 @@
       "wheels": {
         "quantrocket_client-2.3.0.1-py2.py3-none-any.whl": [
           "tuwWGMWyMWXYA/6nTJwuJWPLrTsW9Wisv5pZnleGO08=",
+          "3.6"
+        ]
+      }
+    },
+    "2.4.0.0": {
+      "sdist": [
+        "SxGzKaUSvpmCvuF8X6Yatj3rFufrfpTYLv93hcTk19U=",
+        "quantrocket-client-2.4.0.0.tar.gz"
+      ],
+      "wheels": {
+        "quantrocket_client-2.4.0.0-py2.py3-none-any.whl": [
+          "0GlGNsA62MmR2h6pGVUva2JHwpbHBaw0Ohvz1JdvJb8=",
           "3.6"
         ]
       }
@@ -78920,22 +78964,6 @@
     }
   },
   "tensorflow-text-nightly": {
-    "0.0.0": {
-      "wheels": {
-        "tensorflow_text_nightly-0.0.0-cp36-cp36m-win_amd64.whl": [
-          "ThMMob/nP2NJSEXBY4jihdgcB+JFKGgC3+SLtMJpzD4=",
-          "cp36"
-        ],
-        "tensorflow_text_nightly-0.0.0-cp37-cp37m-win_amd64.whl": [
-          "ZC63Z4DUkRHAVDnvA0r/64W2Ps/j7jqXqif/iQ0+jJ4=",
-          "cp37"
-        ],
-        "tensorflow_text_nightly-0.0.0-cp38-cp38-win_amd64.whl": [
-          "b8rmnbZCLNo6EJEjgsMwNGIfO6jYk2eq/sI9oV/ZYeo=",
-          "cp38"
-        ]
-      }
-    },
     "2.5.0.dev20201215": {
       "wheels": {
         "tensorflow_text_nightly-2.5.0.dev20201215-cp38-cp38-manylinux1_x86_64.whl": [
@@ -79452,6 +79480,34 @@
         ],
         "tensorflow_text_nightly-2.5.0.dev20210111-cp38-cp38-manylinux1_x86_64.whl": [
           "qvvKhIUhh1LkeLxFJexHl6gS/krAc0PVZyUIfRbkQ2c=",
+          "cp38"
+        ]
+      }
+    },
+    "2.5.0.dev20210112": {
+      "wheels": {
+        "tensorflow_text_nightly-2.5.0.dev20210112-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "Bxph0VAxW+Bw4cYhrbKPxn7s03oaVwKRlODAQNwBVos=",
+          "cp36"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210112-cp36-cp36m-manylinux1_x86_64.whl": [
+          "3+NSqZhFcR/F/6k4npbbGjUl4P33hOoOauuGWPHF62U=",
+          "cp36"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210112-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "FGjb0naopATH+oFqlsXqlmJOeuaqBPxvrQU9BRy+bpo=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210112-cp37-cp37m-manylinux1_x86_64.whl": [
+          "wzfeJu4Y+gbIF+KeJJRpBCmnmf4UXR6hPbtwB/TXCRc=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210112-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "slYZdEQxDbuuMt8v1UoPdiKUDjv4aFVKulATYmOZDhE=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210112-cp38-cp38-manylinux1_x86_64.whl": [
+          "gat3l61pv2uQbFweZWmo1+9P2kO6tqWmqgiepZXVlj8=",
           "cp38"
         ]
       }
