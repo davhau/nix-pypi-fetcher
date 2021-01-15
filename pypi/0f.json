@@ -4803,6 +4803,18 @@
           "py3"
         ]
       }
+    },
+    "1.85.0": {
+      "sdist": [
+        "9RU/Bo7Bv9d9sogRXOrjnF0osO4BEDgvJkNrnevZWEQ=",
+        "aws-cdk.aws-lambda-destinations-1.85.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda_destinations-1.85.0-py3-none-any.whl": [
+          "MkAnceT8VUOK5IlDns+H/u2e71kwGY8GWAmeMWf1QtA=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-rds": {
@@ -6218,6 +6230,18 @@
       "wheels": {
         "aws_cdk.aws_rds-1.84.0-py3-none-any.whl": [
           "nFvREkAFa2dmzA+osS44W5CjBfh1vsiY7D0UdXBMvCQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.85.0": {
+      "sdist": [
+        "ZP53q9ceCxt1CZBmKpPOEFTiX7FaYOGc4kV6QEt8Vk0=",
+        "aws-cdk.aws-rds-1.85.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_rds-1.85.0-py3-none-any.whl": [
+          "r0HI0JH8HjfJ4fI1ayIv8iU2TyYcxi5OkXk8GGJM1qM=",
           "py3"
         ]
       }
@@ -7982,10 +8006,26 @@
         ]
       }
     },
+    "1.14.0.post2": {
+      "wheels": {
+        "azureml_core-1.14.0.post2-py3-none-any.whl": [
+          "oPjLNE+Pd3E0juS7yyXt0kKm5zc2nQvjq+a+zndfTrk=",
+          "py3"
+        ]
+      }
+    },
     "1.15.0": {
       "wheels": {
         "azureml_core-1.15.0-py3-none-any.whl": [
           "4uLtSgeD3oqK71L/EizapJmnOfoEouXDLNHWqX7EJt0=",
+          "py3"
+        ]
+      }
+    },
+    "1.15.0.post1": {
+      "wheels": {
+        "azureml_core-1.15.0.post1-py3-none-any.whl": [
+          "QctNXIjyqJz09grBr+I23pxRnf9ioAgVSweftBCWsgI=",
           "py3"
         ]
       }
@@ -8006,10 +8046,26 @@
         ]
       }
     },
+    "1.16.0.post2": {
+      "wheels": {
+        "azureml_core-1.16.0.post2-py3-none-any.whl": [
+          "cJjfMJKb+dr9XzTHBcdsggwDFVIhvwL/duTWX5Q+utA=",
+          "py3"
+        ]
+      }
+    },
     "1.17.0": {
       "wheels": {
         "azureml_core-1.17.0-py3-none-any.whl": [
           "e5OGo9y0qD13OVT+JmH/hranm2P7Sw3wA6faUhAZaaM=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.0.post1": {
+      "wheels": {
+        "azureml_core-1.17.0.post1-py3-none-any.whl": [
+          "D0XIC/ic63d7hU/rZm3/XCPj9RRNED/0S5Irf7CkdM8=",
           "py3"
         ]
       }
@@ -14368,6 +14424,30 @@
     }
   },
   "cykooz.heif": {
+    "0.10": {
+      "sdist": [
+        "nmS2K5kJXQ56FFGf1xrUEgy7SNW4/EgTNzUx9JFLIjQ=",
+        "cykooz.heif-0.10.tar.gz"
+      ],
+      "wheels": {
+        "cykooz.heif-0.10-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "65+S1/9i7ZgGPT4xraL0FurOaP9Ai5NKZQ6kaYu6qtA=",
+          "cp36"
+        ],
+        "cykooz.heif-0.10-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "yX/ibwjGdWO5cOzTRh3i3bOE5BwM2Ic7YNFKPZ3cAq8=",
+          "cp37"
+        ],
+        "cykooz.heif-0.10-cp38-cp38-manylinux2014_x86_64.whl": [
+          "yoHsqqnZSjia/1e9O6PYV6xj8xSGiGS2VUsDqXzfD28=",
+          "cp38"
+        ],
+        "cykooz.heif-0.10-cp39-cp39-manylinux2014_x86_64.whl": [
+          "xc8cuA7vK7/qaDiivJ1MqUnaXoOWNbsmX7K+38FVcDo=",
+          "cp39"
+        ]
+      }
+    },
     "0.6": {
       "sdist": [
         "wE1g/ZG5Nfpw7JWIWLUQhVztRDtQqGJNxjjHCUmMM3w=",
@@ -15633,110 +15713,6 @@
           "cp38"
         ]
       }
-    }
-  },
-  "dash-transcrypt": {
-    "0.0.1": {
-      "sdist": [
-        "MJFpEXmuG6vAqY3jdJQ1oVuiaqwUUkbV893deRH7mAg=",
-        "dash-transcrypt-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.1rc1": {
-      "sdist": [
-        "AIc6Hu/8W8cwHl0U9O4mwAY8CAWMcLkndeANZ5Mco3A=",
-        "dash-transcrypt-0.0.1rc1.tar.gz"
-      ]
-    },
-    "0.0.1rc2": {
-      "sdist": [
-        "bZK5u1w0A1WiJdn2U2UWd7FT2KTZwDWjhmpLr0ThCqc=",
-        "dash-transcrypt-0.0.1rc2.tar.gz"
-      ]
-    },
-    "0.0.1rc3": {
-      "sdist": [
-        "Gbm3xXfw7Kch6MTdn4c+oguoib8VblCE6l8WVIS5tUY=",
-        "dash-transcrypt-0.0.1rc3.tar.gz"
-      ]
-    },
-    "0.0.1rc4": {
-      "sdist": [
-        "6IZOSQ8urjPmRS8+ph9VthAo1q/EvDa2dq6t7L1vtNY=",
-        "dash-transcrypt-0.0.1rc4.tar.gz"
-      ]
-    },
-    "0.0.1rc5": {
-      "sdist": [
-        "xOmPfOojQTI5bLrXuiAzidSxXlbI2w/1GOolio7B1kM=",
-        "dash-transcrypt-0.0.1rc5.tar.gz"
-      ]
-    },
-    "0.0.1rc6": {
-      "sdist": [
-        "6Cvy033Rs6gfWaaFpNX11JsfI2x81yXHWhEc6oV4hv0=",
-        "dash-transcrypt-0.0.1rc6.tar.gz"
-      ]
-    },
-    "0.0.1rc7": {
-      "sdist": [
-        "Csmo/a1mR4Un9xOA5OR5Od5GIiOCESl8p15Ct5QCHQw=",
-        "dash-transcrypt-0.0.1rc7.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "QmNZzFC+wuaRICF/2mfmx+2I90cuXViD4bt6fO1k7IA=",
-        "dash-transcrypt-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "2bUunFhnqNxaCUdDg7kFA4MiNBn5cQ4Lgf4FW3UT6pk=",
-        "dash-transcrypt-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "HeMV5miqEsZLJMdQJivO2+CzA78n6fY01SPCsTD6PHs=",
-        "dash-transcrypt-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "dash_transcrypt-0.0.4-py3-none-any.whl": [
-          "q/8PBVEIyrGBQ9fR8txoU9N+Q/68DGs8HmZBEi/IvVc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "6Q3ElyL5dUagwzPkCLZW74r8hS8/aWkU+RHjllblOrU=",
-        "dash-transcrypt-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "dash_transcrypt-0.0.5-py3-none-any.whl": [
-          "8ZGcrwQjScKtU6iPKn9ZMVtYNXPtLZxSq+kfEyxk7ik=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "wRJN/gqgOvEm9DfS25uoVScLe9H4pZlGsdrFJGSuZNE=",
-        "dash-transcrypt-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "dash_transcrypt-0.0.6-py3-none-any.whl": [
-          "75m3T9cY/iOwzK7x6uqRRemvUk+Ax+J6AOxIEWPQ/C4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6rc1": {
-      "sdist": [
-        "L68MLnc1hqpY7P2SekdxMcqWcguxFTSsXgOOAnaD288=",
-        "dash-transcrypt-0.0.6rc1.tar.gz"
-      ]
     }
   },
   "data-pipeline": {
@@ -17707,6 +17683,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.9": {
+      "sdist": [
+        "xegN6iACt9Rj181UVB1bpLQg0qj/Ku5g8/sDlNh7P4A=",
+        "delphai-utils-0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "delphai_utils-0.2.9-py3-none-any.whl": [
+          "tK1bjeFUFz9ZiuJP9zUUh269uRhnrrLBvdFECxSaMoI=",
+          "py3"
+        ]
+      }
     }
   },
   "designer-cmd": {
@@ -19161,32 +19149,6 @@
           "py2"
         ]
       }
-    }
-  },
-  "django-raw-query": {
-    "0.0.1": {
-      "sdist": [
-        "CP5WVfTcSQyhs3AQ36jIyYefTmNRKhpllSTfGvAXRc4=",
-        "django-raw-query-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "9sS39psVcqIIwipAICSeNmwAZe5uBtdgnsIjGwqacLY=",
-        "django-raw-query-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "E0W0UhYdFlj3Jef95oUlGtUSOygIWCL1UFTnmZ00I68=",
-        "django-raw-query-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "uItU5b3yh/XLJM0t90hGAC9/4+OWfy/wN3VxyqbxTkE=",
-        "django-raw-query-0.0.4.tar.gz"
-      ]
     }
   },
   "django-save-the-change": {
@@ -35170,6 +35132,12 @@
         "insights-core-3.0.202.tar.gz"
       ]
     },
+    "3.0.203": {
+      "sdist": [
+        "Ttab8bNezLEW/N4BOZZuLLjhz5/PBYPDe+sDnIPg0U8=",
+        "insights-core-3.0.203.tar.gz"
+      ]
+    },
     "3.0.23": {
       "sdist": [
         "0aH2Nldevo84YhfpolPePHFQFfQqyBOUMb88wHsRdnY=",
@@ -44861,6 +44829,12 @@
         "o9oplStYe2BO9uYDw1OcabGD6a3SI+I2CKYHj852/5Y=",
         "microscope-0.5.0.tar.gz"
       ]
+    },
+    "0.6.0": {
+      "sdist": [
+        "shz8hUluynzbBmfeseeC7JRIGhG6F+hBauE6cIPP17Y=",
+        "microscope-0.6.0.tar.gz"
+      ]
     }
   },
   "midiknobs": {
@@ -47188,6 +47162,18 @@
       "wheels": {
         "mypy_boto3_ecr_public-1.16.54.0-py3-none-any.whl": [
           "5MJ5wnmFDKp86ove8dpkSG+TrjGs7QqzrNRSP6fJmJ4=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.55.0": {
+      "sdist": [
+        "6LRtUZ8hNorri1qs8MH6Tu3YZJ1epDUA8l+JXhRTDJ0=",
+        "mypy-boto3-ecr-public-1.16.55.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ecr_public-1.16.55.0-py3-none-any.whl": [
+          "oGLPPNrCFsRW4uS4jU/ZfjnSEkUcMmvLXxLiKsFx6Dc=",
           "py3"
         ]
       }
@@ -78789,14 +78775,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "vim": {
-    "0.0.1": {
-      "sdist": [
-        "fcyP4wSILb3JPxLMTrLbjoE2dbfZ3THCiNCgyN1Sae8=",
-        "vim-0.0.1.tar.gz"
-      ]
     }
   },
   "viren": {

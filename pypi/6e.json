@@ -4478,6 +4478,18 @@
         ]
       }
     },
+    "1.85.0": {
+      "sdist": [
+        "Bzv7Z8cLpQaGqhf4Dez66cvv1FedaiEf04syNrXhTR8=",
+        "aws-cdk.aws-logs-destinations-1.85.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_logs_destinations-1.85.0-py3-none-any.whl": [
+          "RiWuCO+4nkMlg2PpVXb9HYIu23cMfzEzQVHq8lbuxiQ=",
+          "py3"
+        ]
+      }
+    },
     "1.9.0": {
       "sdist": [
         "eFg58XykrdnJb/GrtFe95XhtHTg+ynGgRnK/ebh32DM=",
@@ -21539,6 +21551,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "JsQA4kppzT3OpK0r8LR8giOlX314+PB1F4kLRbKwhmI=",
+        "egon-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "egon-0.3.0-py3-none-any.whl": [
+          "AMKAEypGKWgaSn/jihgdu9FBZgl26tyq/JOUAW2e7Jw=",
+          "py3"
+        ]
+      }
     }
   },
   "eks": {
@@ -38550,93 +38574,37 @@
     },
     "0.1.58": {
       "wheels": {
+        "jaxlib-0.1.58-cp36-none-macosx_10_9_x86_64.whl": [
+          "cxYwn2lUaN+Q9PL8A6vJTBR8iiSl3PgMG6HGhy0zuFc=",
+          "cp36"
+        ],
         "jaxlib-0.1.58-cp36-none-manylinux2010_x86_64.whl": [
           "E83q/LPLxONhj8VQXnn+UCiBM2PivIFcSBbB5AOKpwA=",
           "cp36"
+        ],
+        "jaxlib-0.1.58-cp37-none-macosx_10_9_x86_64.whl": [
+          "VlrGHbd6FXw10nqJf42nNGI4Qbbqevu2i14hSE9UDT0=",
+          "cp37"
         ],
         "jaxlib-0.1.58-cp37-none-manylinux2010_x86_64.whl": [
           "zxQAaLtA+ZmNFW+iPH/Izc7dKjBiDnVcHvhFMBxQXtI=",
           "cp37"
         ],
+        "jaxlib-0.1.58-cp38-none-macosx_10_9_x86_64.whl": [
+          "D/k+6feapDTjwEXJ/J75edB6gPehqOk0opfsKm5S8bE=",
+          "cp38"
+        ],
         "jaxlib-0.1.58-cp38-none-manylinux2010_x86_64.whl": [
           "s/6eOswEJBi6E5mP2IW/xYyI1el2zT+NBoJ3vDoSXRA=",
           "cp38"
         ],
+        "jaxlib-0.1.58-cp39-none-macosx_10_9_x86_64.whl": [
+          "tppKo1oWpF7k11Ol7SUKronvp9BZ4944Owe9bQTpb/k=",
+          "cp39"
+        ],
         "jaxlib-0.1.58-cp39-none-manylinux2010_x86_64.whl": [
           "2f8YsvO3H23U0XEmMleoMqpzYVA1cFT3Q6mos9ICJ1U=",
           "cp39"
-        ]
-      }
-    },
-    "0.1.8": {
-      "wheels": {
-        "jaxlib-0.1.8-cp27-none-macosx_10_9_x86_64.whl": [
-          "1twXydmsQKmoVJElE+Rm0niDZHxT3pVLkMiCPtWlbOE=",
-          "cp27"
-        ],
-        "jaxlib-0.1.8-cp27-none-manylinux1_x86_64.whl": [
-          "mZbBHerwfYhZ2MGVAI1FmetNKkqdoSlJSEQeZ0RvMXg=",
-          "cp27"
-        ],
-        "jaxlib-0.1.8-cp35-none-macosx_10_9_x86_64.whl": [
-          "KC6WsA5nM9HYZWYaaVyX4gBujRoRq5yaYmEWrxYCFBA=",
-          "cp35"
-        ],
-        "jaxlib-0.1.8-cp35-none-manylinux1_x86_64.whl": [
-          "8C/rUOAfQ6WJbo243VZPlF9NIN3HrnQxHylWctRcQVk=",
-          "cp35"
-        ],
-        "jaxlib-0.1.8-cp36-none-macosx_10_9_x86_64.whl": [
-          "melu11hcyttnWAHcNp4kWVhjJ9T7/Hwqc2/A/A3UwEU=",
-          "cp36"
-        ],
-        "jaxlib-0.1.8-cp36-none-manylinux1_x86_64.whl": [
-          "Fs5Ert56sCXdmxwl/BgsHdoKTvO7H07fc7jwz4hdZBg=",
-          "cp36"
-        ],
-        "jaxlib-0.1.8-cp37-none-macosx_10_9_x86_64.whl": [
-          "+cPGWZLjz2wcZk4rKoErkxBqzmQ7ngNkqQBEF+iDvmg=",
-          "cp37"
-        ],
-        "jaxlib-0.1.8-cp37-none-manylinux1_x86_64.whl": [
-          "AKvaUNyiWaTx1xGvHb2Wf0vqHe9KUTEtm83JCjGsqAM=",
-          "cp37"
-        ]
-      }
-    },
-    "0.1.9": {
-      "wheels": {
-        "jaxlib-0.1.9-cp27-none-macosx_10_9_x86_64.whl": [
-          "Vh3OoFYzfs5M2BJQqL2ZzrBu8ptOgYgJM6u+LTeX5mw=",
-          "cp27"
-        ],
-        "jaxlib-0.1.9-cp27-none-manylinux1_x86_64.whl": [
-          "NXiNa0yz7/YiguGYX+gMkr7dF0wSQJ37RxsCoOT3VNI=",
-          "cp27"
-        ],
-        "jaxlib-0.1.9-cp35-none-macosx_10_9_x86_64.whl": [
-          "XkmyS57owhj/bhf3PHsH8u8CENWbsfegdxHQxekcTig=",
-          "cp35"
-        ],
-        "jaxlib-0.1.9-cp35-none-manylinux1_x86_64.whl": [
-          "+rU2NW6TqrLhDcKIr4vglkScNPashYjIh/TLS5sN4uo=",
-          "cp35"
-        ],
-        "jaxlib-0.1.9-cp36-none-macosx_10_9_x86_64.whl": [
-          "OAmBw3TlQqyEDAdrNysL7Vkzx3vk1HuBZsFztxvUMkM=",
-          "cp36"
-        ],
-        "jaxlib-0.1.9-cp36-none-manylinux1_x86_64.whl": [
-          "p1HZuAdAb+O88/wjMdCTltPq+ijJj32pk1AjVmC0YNE=",
-          "cp36"
-        ],
-        "jaxlib-0.1.9-cp37-none-macosx_10_9_x86_64.whl": [
-          "x2Wqy9OoSeZOEzFTtKaOSOUD9uydFTfxqHk+BDxDHng=",
-          "cp37"
-        ],
-        "jaxlib-0.1.9-cp37-none-manylinux1_x86_64.whl": [
-          "pjqvUyWgHkb9Zxoz/Rnvawd0Ba+26T/CA0f7R9vklX4=",
-          "cp37"
         ]
       }
     }
@@ -42773,6 +42741,12 @@
           "py2.py3"
         ]
       }
+    },
+    "1.1.4": {
+      "sdist": [
+        "F4MfC3CHwxPA/64ry708HVup7qycOPLre1DoyZ/p1as=",
+        "Mako-1.1.4.tar.gz"
+      ]
     }
   },
   "manager": {
@@ -48696,6 +48670,18 @@
         ]
       }
     },
+    "1.16.55.0": {
+      "sdist": [
+        "juZEdwQ5tk7FhjVXMA1Nt6917njvbtduAuVHRhV9/II=",
+        "mypy-boto3-cur-1.16.55.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cur-1.16.55.0-py3-none-any.whl": [
+          "CQuSLZlQAEeY411Cg4BUn306/ktORArEn5KtM769ajs=",
+          "py3"
+        ]
+      }
+    },
     "1.16.6.0": {
       "sdist": [
         "UMfJo8d5TSVxGjMIbzeSV3bsB/oagqjbtxbskp62Hl0=",
@@ -51726,6 +51712,18 @@
       "wheels": {
         "mypy_boto3_polly-1.16.54.0-py3-none-any.whl": [
           "VYoLbQ2d1ysuSbzSdNZGrZdRREQEE52S9L/qsSaC36w=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.55.0": {
+      "sdist": [
+        "C3/+GdxAENCv8pCIzW1X2+1h/7YPvAaVRcG5h8BfV2c=",
+        "mypy-boto3-polly-1.16.55.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_polly-1.16.55.0-py3-none-any.whl": [
+          "p+jMaoUwdZqgTzU6B843E3TqmbvBGcOq/YZucERTgmw=",
           "py3"
         ]
       }
@@ -59546,6 +59544,94 @@
         ],
         "osqp-0.6.2-cp39-cp39-win_amd64.whl": [
           "c0thxY/KY6gPr9TyRgnA6hkGTokyItXO1vZRx4SB1ng=",
+          "cp39"
+        ]
+      }
+    },
+    "0.6.2.post0": {
+      "sdist": [
+        "XwaV8mo77w+ukSVLwoP6t5DcygBkv+D0JRZ/nJ6LTLw=",
+        "osqp-0.6.2.post0.tar.gz"
+      ],
+      "wheels": {
+        "osqp-0.6.2.post0-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "IQR+nOtMIiS6Fd2V9RJeLcq9F4qpPY76QH5nIW6k/mI=",
+          "cp35"
+        ],
+        "osqp-0.6.2.post0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "WYp7sVNKCrabyvItbmxOwEKkEYTwB8Abf6hjtSjGth0=",
+          "cp35"
+        ],
+        "osqp-0.6.2.post0-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "a3RbpVrdi+Y+ruBZhYt8DPWZJQdPzINVwXw4Y/rQGpU=",
+          "cp35"
+        ],
+        "osqp-0.6.2.post0-cp35-cp35m-win_amd64.whl": [
+          "EQTdVta/5axeXgduHPnivnaTLK2uTgz730lfP0Pk+Po=",
+          "cp35"
+        ],
+        "osqp-0.6.2.post0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "b4n+r3ww37UDGzcOjEWu0jpg1kcWBrrZt9I1Bt34B+Y=",
+          "cp36"
+        ],
+        "osqp-0.6.2.post0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "GYtmy+kybvGB91mIVqriDcxbeCSxGcwRm0EiBuhYvCg=",
+          "cp36"
+        ],
+        "osqp-0.6.2.post0-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "mq7NPtAKmdBj5b1F686WXR68j0dU1sBatdMcNXemhRM=",
+          "cp36"
+        ],
+        "osqp-0.6.2.post0-cp36-cp36m-win_amd64.whl": [
+          "LRUNiA3FvuAVqtrGz/MqsMJyHNS7ij9bHwzsgZ/nCzk=",
+          "cp36"
+        ],
+        "osqp-0.6.2.post0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "IM1qNSaUzBgrt5qOGeTgO3lw7LS5XWq/huPFeKRXg6k=",
+          "cp37"
+        ],
+        "osqp-0.6.2.post0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "luQlJN0Vb2KsjjXXGDFYisspGbW6J+DmlcdXU5cI36U=",
+          "cp37"
+        ],
+        "osqp-0.6.2.post0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "1t0rcP/O5giXWFGGIAh6WQmhBiGllJO+jODvKnRQKic=",
+          "cp37"
+        ],
+        "osqp-0.6.2.post0-cp37-cp37m-win_amd64.whl": [
+          "fJ9+Zh/i2phOq2UzpWtTZvEKc2Cii43RjCIvz2ZV4kc=",
+          "cp37"
+        ],
+        "osqp-0.6.2.post0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "sQLCayAXsDkDJ5ejiFSNz+EdvT0GsylHIfpll2/hBl4=",
+          "cp38"
+        ],
+        "osqp-0.6.2.post0-cp38-cp38-manylinux1_x86_64.whl": [
+          "qDV0YXnIGUTlGmouDvsKymZAK+NRr5Er/WglJ/FaNac=",
+          "cp38"
+        ],
+        "osqp-0.6.2.post0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "V/UCa5G7jzkFlXbF7lDAocJwXXdad24uJL4qpH5j2LA=",
+          "cp38"
+        ],
+        "osqp-0.6.2.post0-cp38-cp38-win_amd64.whl": [
+          "+w135jQ2L+Wasr7bo93kDVNXki6XGby00WqZdmzv1aI=",
+          "cp38"
+        ],
+        "osqp-0.6.2.post0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "biFGPZe8q1g1CkGpdenl5KaFCHtjV4maWIE9Ijh5UxU=",
+          "cp39"
+        ],
+        "osqp-0.6.2.post0-cp39-cp39-manylinux1_x86_64.whl": [
+          "Av26v//XKoEYMo0ReoOZiADKAVGCBT/O2dXovm/9cCo=",
+          "cp39"
+        ],
+        "osqp-0.6.2.post0-cp39-cp39-manylinux2014_x86_64.whl": [
+          "sji5BJop9pVfCFZ7KFsHNN1Xi1KaN4DWF4VP/ZHl5O0=",
+          "cp39"
+        ],
+        "osqp-0.6.2.post0-cp39-cp39-win_amd64.whl": [
+          "LGyxT9E2UATQ56AfYQHhZBSgNI23Nu5FqsiGX6wWXlc=",
           "cp39"
         ]
       }
