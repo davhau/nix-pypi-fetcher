@@ -36982,6 +36982,14 @@
         ]
       }
     },
+    "3.0.30rc0": {
+      "wheels": {
+        "huaweicloudsdkces-3.0.30rc0-py3-none-any.whl": [
+          "AZWNMl+0Kr0IBFOYbSuYkN0HNWOT6FhICi1nHPexniQ=",
+          "py3"
+        ]
+      }
+    },
     "3.0.3b0": {
       "wheels": {
         "huaweicloudsdkces-3.0.3b0-py3-none-any.whl": [
@@ -43208,6 +43216,18 @@
       "wheels": {
         "maniphono-0.2-py3-none-any.whl": [
           "kRwyhHCvzqOyYG51T7gylZpXpqzP7SG3tagJ6j96G0Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "IpGV0f9XdrbQ6zFJ1OhcoPYMvH+UIkc30aNjokVco8o=",
+        "maniphono-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "maniphono-0.2.1-py3-none-any.whl": [
+          "+4BpXdRYwF+Y3yI2qQjL9mF8pnX3QZHPPZ7NSHmzQ6E=",
           "py3"
         ]
       }
@@ -52903,6 +52923,16 @@
       }
     }
   },
+  "odoo14-addon-base-rest": {
+    "14.0.3.0.0": {
+      "wheels": {
+        "odoo14_addon_base_rest-14.0.3.0.0-py3-none-any.whl": [
+          "JMEjqR6SL2620zWj4oPX+1IqLwITCzIKH9Vfx989stA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo14-addon-l10n-fr-hr-check-ssnid": {
     "14.0.1.0.1.dev2": {
       "wheels": {
@@ -56386,182 +56416,14 @@
     }
   },
   "phk": {
-    "1.0": {
+    "2.6": {
       "sdist": [
-        "wSimugrNy3nqDYhKL4kmiqcqNg4T1mCVyh1oI9Yi1/Y=",
-        "phk-1.0.tar.gz"
+        "jKyNYsmFNSAd8atbKz1QxkCJreiQA254sj7Po1KwS4o=",
+        "phk-2.6.tar.gz"
       ],
       "wheels": {
-        "phk-1.0-py3-none-any.whl": [
-          "yqkP1nVvskmpa82Uuht+JwcBz0zKIKw81F+fwZhjnX4=",
-          "py3"
-        ]
-      }
-    },
-    "1.1": {
-      "sdist": [
-        "1eIdYVTHyWG8cK6On/mW0jpTLzWRN2NtzQNkwttwoco=",
-        "phk-1.1.tar.gz"
-      ],
-      "wheels": {
-        "phk-1.1-py3-none-any.whl": [
-          "vzBVru2Wxbp+9iXUCW0wJvid3L/1aJmaIHmdkJJsKBM=",
-          "py3"
-        ]
-      }
-    },
-    "1.2": {
-      "sdist": [
-        "/fUPKZbfp6hGoZ9SQ4hRBm20oGfg6nCytNbzBRDQ3w0=",
-        "phk-1.2.tar.gz"
-      ],
-      "wheels": {
-        "phk-1.2-py3-none-any.whl": [
-          "m3WOcJi5iG3uE23dU1tNQ0/zqWKFZaGKkIBndlGVr20=",
-          "py3"
-        ]
-      }
-    },
-    "1.3": {
-      "sdist": [
-        "Q7kwHkUWoTXwrDEEw56Kg7867ZU4je47UQlvUwhUKpk=",
-        "phk-1.3.tar.gz"
-      ],
-      "wheels": {
-        "phk-1.3-py3-none-any.whl": [
-          "tzVurx16D0Gp62OsEd0l0Z6Sua5VGC9lWO85xxnFNQk=",
-          "py3"
-        ]
-      }
-    },
-    "1.4": {
-      "sdist": [
-        "+RjjSTaJOnsl/fh6EpS4GQgw2q7CR9t1G6Kdd56XTz4=",
-        "phk-1.4.tar.gz"
-      ],
-      "wheels": {
-        "phk-1.4-py3-none-any.whl": [
-          "f9SHueylixa0dGlNHH0DWqUtpCfWR4eQa0Ox8r41xiU=",
-          "py3"
-        ]
-      }
-    },
-    "1.6": {
-      "sdist": [
-        "a3OaPrFpQPzgX6wRXb05VJJbx7mCai9lnGYuKAs6j/4=",
-        "phk-1.6.tar.gz"
-      ],
-      "wheels": {
-        "phk-1.6-py3-none-any.whl": [
-          "RexfMALoYYhhMmiaSHECt9tymEdW0XDXESUD8btNtRs=",
-          "py3"
-        ]
-      }
-    },
-    "1.7": {
-      "sdist": [
-        "EtcoBWd/FmXfXUdvY/2nRQD/qJD4143nyhq3Rbr7I38=",
-        "phk-1.7.tar.gz"
-      ],
-      "wheels": {
-        "phk-1.7-py3-none-any.whl": [
-          "SzmNtq1HKV2X9rD+konb0JplOwvEP4fOMxM9FQcswcY=",
-          "py3"
-        ]
-      }
-    },
-    "1.8": {
-      "sdist": [
-        "LiMfCLS7jf8vicymwhUacFAI0707VpJLMUyFKcqGUNU=",
-        "phk-1.8.tar.gz"
-      ],
-      "wheels": {
-        "phk-1.8-py3-none-any.whl": [
-          "MkHgAbdStqn4InQnjfjZsl3hCeduQal4fzY6qQ6xOeo=",
-          "py3"
-        ]
-      }
-    },
-    "1.9": {
-      "sdist": [
-        "O3b3Onsp+Ej5t0UjqM2K5gAV2W7JewSYAukluKaob2c=",
-        "phk-1.9.tar.gz"
-      ],
-      "wheels": {
-        "phk-1.9-py3-none-any.whl": [
-          "iIQ2mC8K/wB9CTdQ7rCuoyyMsCnam5WMQDcytOQ8q1o=",
-          "py3"
-        ]
-      }
-    },
-    "2.0": {
-      "sdist": [
-        "bEKs3L71b44/tLkA0dPdVGa8e1N1eyCXkAQZtG6WJtU=",
-        "phk-2.0.tar.gz"
-      ],
-      "wheels": {
-        "phk-2.0-py3-none-any.whl": [
-          "n1WNT9l4mCVhqZhNiO+W+IouueOuv+uy4b9w7v75xRk=",
-          "py3"
-        ]
-      }
-    },
-    "2.1": {
-      "sdist": [
-        "WDJW0VnaX0MoKs+KQbLv1AMAlmSlKJSXBmEbd0tJlRQ=",
-        "phk-2.1.tar.gz"
-      ],
-      "wheels": {
-        "phk-2.1-py3-none-any.whl": [
-          "n4izBMnPq3ib2UVZEEXk+zP5Dcy2LBHxQJhFCiRYWc4=",
-          "py3"
-        ]
-      }
-    },
-    "2.2": {
-      "sdist": [
-        "bLl7pEYu7R1vqWA0y0NkSeZv3BB5OlIzKVwx1UT4oh8=",
-        "phk-2.2.tar.gz"
-      ],
-      "wheels": {
-        "phk-2.2-py3-none-any.whl": [
-          "i5EvAhL8dFZ0aKvSvKuKzBZ7QQ6T8Nq/Xg7MJcWgzTw=",
-          "py3"
-        ]
-      }
-    },
-    "2.3": {
-      "sdist": [
-        "9x2XsB20aVnjTu+WwQbtIN6tsjiABSec4moY2X98xVk=",
-        "phk-2.3.tar.gz"
-      ],
-      "wheels": {
-        "phk-2.3-py3-none-any.whl": [
-          "NcWeD3wVxQnEbvuhccjW1bwtGRO4qvHx0KWE8yT9494=",
-          "py3"
-        ]
-      }
-    },
-    "2.4": {
-      "sdist": [
-        "jhJGjNUf8lqDO9DRpyEUsymHv/mxwxyYA4A5TEUxWBA=",
-        "phk-2.4.tar.gz"
-      ],
-      "wheels": {
-        "phk-2.4-py3-none-any.whl": [
-          "mYdJXAORCwW/B1vVb/RrC3D7GUweX455WFxT60Q68ls=",
-          "py3"
-        ]
-      }
-    },
-    "2.5": {
-      "sdist": [
-        "+dZwMDxaPYtVp7k26dtGf5NuIzFNxi00NZuZ56vdzo0=",
-        "phk-2.5.tar.gz"
-      ],
-      "wheels": {
-        "phk-2.5-py3-none-any.whl": [
-          "ivzUnu+BVTy6WTy8oeya7WTWsnH3IwtEWI1C3YKeU58=",
+        "phk-2.6-py3-none-any.whl": [
+          "yqtXdSFrIqR4iqv7HkZeTyaAzaPP/7n6QUwM9OZSQFM=",
           "py3"
         ]
       }
@@ -69876,6 +69738,54 @@
       "wheels": {
         "resumify-1.1.2-py3-none-any.whl": [
           "oLFWNGozVboK18fdLdE5s3lylmIEv6jDaiejUcMYkX8=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.3": {
+      "sdist": [
+        "FX7vrk4bCxcPqMxrGEUa1yOGGRdkgg1u1jyYYWYg1y4=",
+        "resumify-1.1.3.tar.gz"
+      ],
+      "wheels": {
+        "resumify-1.1.3-py3-none-any.whl": [
+          "h16nL0SGDIeYYuyVu3fOukChRIK1qHupGlzSzVL11sI=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.4": {
+      "sdist": [
+        "3c97AX6L0p79WQ6bfZqip4OZQmsi5B2njKZy04VP0us=",
+        "resumify-1.1.4.tar.gz"
+      ],
+      "wheels": {
+        "resumify-1.1.4-py3-none-any.whl": [
+          "MEIbpuBCpdsQKybCTEyV3o9b8ItapgtRfFgKNI5YsC0=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.5": {
+      "sdist": [
+        "c2AgBEea4sbfyoL+kdsrDr6jkaSiIMmQxfNaPRpSuRc=",
+        "resumify-1.1.5.tar.gz"
+      ],
+      "wheels": {
+        "resumify-1.1.5-py3-none-any.whl": [
+          "0XqkzFqvQRoHBYqP/VFMPfjkNPRvKPT5HAsVYWkY4D0=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.6": {
+      "sdist": [
+        "T3F0ao4XsPbZ+xnYCo5bHqJ1Tj0tuwoV7eLfkMb+AhU=",
+        "resumify-1.1.6.tar.gz"
+      ],
+      "wheels": {
+        "resumify-1.1.6-py3-none-any.whl": [
+          "b7aJdfYMqAYqxVCaZPgKkFZGMi0vLXnPaDHxDRKfA+s=",
           "py3"
         ]
       }
