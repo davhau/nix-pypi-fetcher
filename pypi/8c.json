@@ -13963,6 +13963,12 @@
         "96srki9PCFC64Ol5POyZ+KGiQeX39XhuNn3dnkHSsXA=",
         "dash_renderer-1.8.3.tar.gz"
       ]
+    },
+    "1.9.0": {
+      "sdist": [
+        "PFUZp4G+siYe5zstGTvvbyEml2NvIErNfVjNmGuojjA=",
+        "dash_renderer-1.9.0.tar.gz"
+      ]
     }
   },
   "data-comparator": {
@@ -27434,6 +27440,12 @@
       "sdist": [
         "vyOO3I4xrEBur0pF4QMhjYoNrIaBV4yygFyOyfu0q0E=",
         "girder-slicer-cli-web-1.1.2.dev18.zip"
+      ]
+    },
+    "1.1.2.dev19": {
+      "sdist": [
+        "gAgHSzEzznfTIpxPGYRDKMyOaAQp37fBqNpvKTsJyWw=",
+        "girder-slicer-cli-web-1.1.2.dev19.zip"
       ]
     },
     "1.1.2.dev2": {
@@ -41586,6 +41598,22 @@
         ]
       }
     },
+    "0.5.13": {
+      "sdist": [
+        "fFE01NmbiCKvQeWsewyxlHrwNldNAgoCJjNkoz5OrFI=",
+        "netharn-0.5.13.tar.gz"
+      ],
+      "wheels": {
+        "netharn-0.5.13-py2.py3-none-any.whl": [
+          "DromLazPCIXs5oClNPplXGDmZsP4Mj2IvDb6xRbrN10=",
+          "py2.py3"
+        ],
+        "netharn-0.5.13-py3-none-any.whl": [
+          "2VPK2nOoa0Eq6FdKqjfrRqRQR4XwWCZbAEdEvleiVvI=",
+          "py3"
+        ]
+      }
+    },
     "0.5.2": {
       "wheels": {
         "netharn-0.5.2-py2.py3-none-any.whl": [
@@ -51080,174 +51108,6 @@
     }
   },
   "pl-nightly": {
-    "0.11.5.20201212.1": {
-      "wheels": {
-        "pl_nightly-0.11.5.20201212.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "+Sp9AACnx/FNNc5UvlX/CbLP6mpYO9cpPVK1MJwQ5wU=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201212.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "2hRubL2uDS2E0oJx9izvBQbQBTtwgJUwIme3ST50UZw=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201212.1-cp36-cp36m-win_amd64.whl": [
-          "2a0nsw+p4ISj1djyEeL7L2HhxYNRmsGnjw0S5G7aKzU=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201212.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "TJmlZ0/CwM5Ji26EnOL5JFePySHi27pmfLGu0p9UW0o=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20201212.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "r4yfosSLksONrAT+z33Lbv26sSC8NZsIFU7MILTomXw=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20201212.1-cp37-cp37m-win_amd64.whl": [
-          "/N3jnYc4B5jXNoaUHjucmL95iKnae9Ha17ERPVN93Eg=",
-          "cp37"
-        ]
-      }
-    },
-    "0.11.5.20201215.1": {
-      "wheels": {
-        "pl_nightly-0.11.5.20201215.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "In3X1COG/ZFFgb5c2IfyTogY3w2rZMXwCctwxBN7U30=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201215.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "ld+kw6PIxYpkriC6J8LeWoLpN/x4YFWgEnIYCDx/EUs=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201215.1-cp36-cp36m-win_amd64.whl": [
-          "hJBofElK5ktf21+rTJuRoGWQpTVTWSUpL4FBhDBUVaE=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201215.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "LwLQwtbke3kejzrTMMviglhvuZzqQ5PKP2W0jELenX4=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20201215.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "yDiR9CA+Vjn1cY1j1R4YMUzneVoAwC4qfdZ0HBJ7cSI=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20201215.1-cp37-cp37m-win_amd64.whl": [
-          "H4xtkM8i6ruOscO9q0zk2mzlkqrJq6vGfljMJHB+yNo=",
-          "cp37"
-        ]
-      }
-    },
-    "0.11.5.20201216.1": {
-      "wheels": {
-        "pl_nightly-0.11.5.20201216.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "Pijw6hOHqSTwD/GtU7iwlFT8ZlJjNA8cErIDxFKoAgs=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201216.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "oEBlPKEo5rq9cfxnvj1JHsRHKcCjQf4hhHpVTnjn4Ls=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201216.1-cp36-cp36m-win_amd64.whl": [
-          "T6U3QcKwdrB/TrNIdkNfA2JYvKxR9XCu9YeTO6WFeiA=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201216.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "2KaeE4GcHuZpyzdXbTvJ91pjIv0v/y3sjgvQu2uVsTU=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20201216.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "qmf/9xKITGPI+yuSxmhOO2ckcJd2F7RKNicHGDElvaY=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20201216.1-cp37-cp37m-win_amd64.whl": [
-          "Vh59C7Iz1FLvYk+1Gl0UvBLiQVk5IecIJFbcTooRglk=",
-          "cp37"
-        ]
-      }
-    },
-    "0.11.5.20201217.1": {
-      "wheels": {
-        "pl_nightly-0.11.5.20201217.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "gRFU4deRCxxVJUsPAhSWqJ0+d8hDUl7W6fZEx8RHD/g=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201217.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "woVD8bq6bAYfmUrQ/BKFH6BUiebtlslB+D8VAc3SFtE=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201217.1-cp36-cp36m-win_amd64.whl": [
-          "hgFhgTX0YusmKsSZcJBqWYWqfTRlDYdYs3gp1a26nuI=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201217.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "YKGC34ceVncneYcGhW+v1iPT2U69wjIwuEPmcxk/i6s=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20201217.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "QigRCNp7xgsjiixc+QgqPVI+JRNdmgYUjJxRU+mJy2E=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20201217.1-cp37-cp37m-win_amd64.whl": [
-          "CvtxIHg/JSNQaHPBhboyCZ8xsA6vNqr0JoWCKXw5h9s=",
-          "cp37"
-        ]
-      }
-    },
-    "0.11.5.20201218.1": {
-      "wheels": {
-        "pl_nightly-0.11.5.20201218.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "2LjdLgZgQFLsrleRGElr/qahNYu8t34156IvDxU92Aw=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201218.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "RM+DN1C6BR2DEnovTT8QSm+WoCIKkQy4U9KtkA7MuLQ=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201218.1-cp36-cp36m-win_amd64.whl": [
-          "hWk1bzQLceVjZzZ1J2YlJRCjsB7CztK0E2lrxDNzJ70=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201218.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "/uvphWWM1AhFxSTQ1hcrvxLi546YYq/rdfPA9rTg2Uw=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20201218.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "5oC+8SqK3StaO9GDA7Lfg/Br9yPiY+62fWWiBq14Cos=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20201218.1-cp37-cp37m-win_amd64.whl": [
-          "wwLwoiiRmGHADdp0IZMkZUJ6YESEVktgsZWpJunt+Pw=",
-          "cp37"
-        ]
-      }
-    },
-    "0.11.5.20201219.1": {
-      "wheels": {
-        "pl_nightly-0.11.5.20201219.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "f/VQp5XFS85LLbhGI25OHuUrit77F80ehjQK7Etkvmw=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201219.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "7g/pa2Bg1oL+c148p67D5qqpWLvryiCTBhe3ZWhSJTg=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201219.1-cp36-cp36m-win_amd64.whl": [
-          "UTgcXdF24LbAPJKUl6gZvqsbtwmoN9i18Y95YVzne24=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20201219.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "m7z3M9FOcgK5+XK8wVHk93jKcBzK/gx9jDRvkBl+1SM=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20201219.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "20T1ryprbwAGqqHQ0WVduyo/MiHCeFe6QLYkh0ikgzY=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20201219.1-cp37-cp37m-win_amd64.whl": [
-          "p0ld1DESZWvJT4a5W5FmbjhYYxmYzppLpd0qwVx7rLY=",
-          "cp37"
-        ]
-      }
-    },
     "0.11.5.20201221.1": {
       "wheels": {
         "pl_nightly-0.11.5.20201221.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
@@ -60927,6 +60787,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.1": {
+      "sdist": [
+        "m9su6jAoC7MC63N9mHQ2B8pQnA6vdf/fkGga3AA+hWs=",
+        "python-elemental-0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "python_elemental-0.7.1-py3-none-any.whl": [
+          "tGSAKyrjDQ9UTgLC0N1Krw5qBwfHt5JHsbCQEi6JEOA=",
+          "py3"
+        ]
+      }
     }
   },
   "python-video-annotator-module-path-editor": {
@@ -62355,6 +62227,22 @@
         "pyxsim-2.2.0.post2-cp37-cp37m-macosx_10_9_x86_64.whl": [
           "JYvFt+zzRGOmx+3TiwIj8SUZr9+75uzKCo10JDhJdoo=",
           "cp37"
+        ]
+      }
+    },
+    "2.3.0": {
+      "sdist": [
+        "wpbehXFV48s7enO1hvMSmrio2EYK0B1EK3vvum7qL+E=",
+        "pyxsim-2.3.0.tar.gz"
+      ],
+      "wheels": {
+        "pyxsim-2.3.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "/uojj7YuoZWo9lotipiVA7gHCJF0nTPj2tnuvdzrGNc=",
+          "cp37"
+        ],
+        "pyxsim-2.3.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "x8ie62hBrDNm2wMz69GDdSdKmtTvWwq3X0aI6oTytjM=",
+          "cp38"
         ]
       }
     }
@@ -70565,6 +70453,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "RdwGUFYpEekSmUzIRbnwVeeongI8W2ndMnqjdakRQoQ=",
+        "structlog-sentry-logger-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "structlog_sentry_logger-0.6.0-py3-none-any.whl": [
+          "7EU6LGYD0CGgV8BWcR1ciaPPJSjOqeTvA/Vr3EaUN9A=",
+          "py3"
+        ]
+      }
     }
   },
   "stxnext.pdb": {
@@ -78096,6 +77996,18 @@
       "wheels": {
         "wildgram-0.0.4-py3-none-any.whl": [
           "Yb80lMB6/gprBvJcxGy17nuk52EoAS+TNRNn0DZgbwc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "ZnmoCo/wlshWyWDjvW/DXE+HEdWbnN5iIgxDFCxZ8rE=",
+        "wildgram-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "wildgram-0.0.5-py3-none-any.whl": [
+          "tC+Ok+KzsTfqe7vNB4c6LTtRQhP0oCpQzEVFUuq2ECI=",
           "py3"
         ]
       }
