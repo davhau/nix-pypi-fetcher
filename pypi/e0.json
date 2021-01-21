@@ -173,6 +173,12 @@
         "KCg5mlnZHmfp4h7l2abh7cohVs02EAI/badNFicnZv8=",
         "adafruit-circuitpython-displayio-ssd1305-1.1.1.tar.gz"
       ]
+    },
+    "1.1.2": {
+      "sdist": [
+        "ISf92TVYlYRdgD57+8nJeXmjsihLaDyS5r9B/GF/TrE=",
+        "adafruit-circuitpython-displayio-ssd1305-1.1.2.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-pypixelbuf": {
@@ -228,6 +234,12 @@
       "sdist": [
         "aNHsrd/ut2DWM3mJO5I3GL45JshydbwkCqSBn/A4uuo=",
         "adafruit-circuitpython-pypixelbuf-2.2.0.tar.gz"
+      ]
+    },
+    "2.2.1": {
+      "sdist": [
+        "Vp6jMPeq4okd++RUmfG1DhX205isYI05zkDKG1gOkG0=",
+        "adafruit-circuitpython-pypixelbuf-2.2.1.tar.gz"
       ]
     }
   },
@@ -12832,18 +12844,6 @@
         ]
       }
     },
-    "0.8.4": {
-      "sdist": [
-        "68mtT5DIVp3tNs4s99p/UryTL7Iab8lU/geaVPwrU68=",
-        "crosscompute-0.8.4.tar.gz"
-      ],
-      "wheels": {
-        "crosscompute-0.8.4-py3-none-any.whl": [
-          "+HpmlBQbxjIWTMt+4xagXHR6w2G2q+edtanTp/0EgNo=",
-          "py3"
-        ]
-      }
-    },
     "0.8.4.1": {
       "sdist": [
         "otTTkXWAaW7roN9ExeuFqALK0yvjxZIAMDvJeP5cMVQ=",
@@ -12856,18 +12856,6 @@
         ]
       }
     },
-    "0.8.4.2": {
-      "sdist": [
-        "MPYhkRy+ckQo75Q6VcGMnKTA/a+UxUm+eI7ZG6IumBE=",
-        "crosscompute-0.8.4.2.tar.gz"
-      ],
-      "wheels": {
-        "crosscompute-0.8.4.2-py3-none-any.whl": [
-          "NsemITNoXTWXi1RMb6nPlsh7O5LDIhi1uxn2wOynsaQ=",
-          "py3"
-        ]
-      }
-    },
     "0.8.4.3": {
       "sdist": [
         "bSkp/H3lMCspLn6buVbISEGD9x8dIwKiQZvTx5JUG0M=",
@@ -12876,6 +12864,18 @@
       "wheels": {
         "crosscompute-0.8.4.3-py3-none-any.whl": [
           "FHZv/DtMunhoWX41uYT0h1YIi2EJtlMZFdVUNBXXIJ0=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.4.5": {
+      "sdist": [
+        "nHvDWY6LiIftwc1EVdaYTliMrrFnsVPk3U932DBkSHw=",
+        "crosscompute-0.8.4.5.tar.gz"
+      ],
+      "wheels": {
+        "crosscompute-0.8.4.5-py3-none-any.whl": [
+          "i212FdAz/Aj0fouiA9rowixfeGNlGvPdFf8BtczHg18=",
           "py3"
         ]
       }
@@ -27759,6 +27759,10 @@
       }
     },
     "0.9.0b1": {
+      "sdist": [
+        "N5+z+KGG2hTSnvm8TRx7SA1dHVpPxM5j3YO0WyArdcc=",
+        "econml-0.9.0b1.tar.gz"
+      ],
       "wheels": {
         "econml-0.9.0b1-cp36-cp36m-macosx_10_14_x86_64.whl": [
           "BgdhX8Nj2EyV1ONpNAgsO1qEfbGqB3K26fOsK1QKGqI=",
@@ -27767,6 +27771,22 @@
         "econml-0.9.0b1-cp36-cp36m-win_amd64.whl": [
           "816Lbwa10flK1a9Au2TXgPNcl/h2Yi+MJ3XAV2Tfpa8=",
           "cp36"
+        ],
+        "econml-0.9.0b1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "ZAJGS5T8i7AgJVbmBAog4Hoz8TQF5+bANBv/7uKB6/I=",
+          "cp37"
+        ],
+        "econml-0.9.0b1-cp37-cp37m-win_amd64.whl": [
+          "BwyP7i0ATecj++4PBDlBhfLy3mpIdZmsaDBycJbQn4g=",
+          "cp37"
+        ],
+        "econml-0.9.0b1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "XwvLjbVOjE8976VWknP05R0qxIxI5wvAV3v/B+g3fUI=",
+          "cp38"
+        ],
+        "econml-0.9.0b1-cp38-cp38-win_amd64.whl": [
+          "VGuwsrBL+0qG0D0JRxJYMN7bpnwY6KScqqe7lha3jRA=",
+          "cp38"
         ]
       }
     }
@@ -42837,6 +42857,24 @@
         "HNg28eIDPW6PGHTCk6z7fwmpk0P25h1ibGyI3z/SsI4=",
         "lpack-2.3.7.tar.gz"
       ]
+    },
+    "2.3.8": {
+      "sdist": [
+        "uGsdgqA5bCFpY4f8E2oeipQfG8hdkliqco54VsbvIWk=",
+        "lpack-2.3.8.tar.gz"
+      ]
+    },
+    "2.3.9": {
+      "sdist": [
+        "uAaAli7MPKzKeRw2l2BCzIJpO2tjnTW/o8ymQvE5tf0=",
+        "lpack-2.3.9.tar.gz"
+      ]
+    },
+    "2.4.0": {
+      "sdist": [
+        "cl9XyzsUZ0XxY59RjuSTHRSox56PKSdPDEzf15Vg1W4=",
+        "lpack-2.4.0.tar.gz"
+      ]
     }
   },
   "lrange": {
@@ -49492,32 +49530,6 @@
       "wheels": {
         "nnstacking-0.0.1-py3-none-any.whl": [
           "n716N0BoJWfQcpZiMBV30N/4ZQznGy2q2TE5KknjCO8=",
-          "py3"
-        ]
-      }
-    }
-  },
-  "noah-vega": {
-    "1.0.0": {
-      "sdist": [
-        "WUqnSbIUuGYsm1J76OBs7d9UCqYURvZUkNrs8NOUWKI=",
-        "noah-vega-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "noah_vega-1.0.0-py3-none-any.whl": [
-          "/EYK8clx6pgvLQapwPslCcDhyJC0Qx541xs+1T16dvs=",
-          "py3"
-        ]
-      }
-    },
-    "1.2.0": {
-      "sdist": [
-        "afuuo+58M6PZ47GuQPnBq3W3SzZ7mHkLi+Q/G9XtE6s=",
-        "noah-vega-1.2.0.tar.gz"
-      ],
-      "wheels": {
-        "noah_vega-1.2.0-py3-none-any.whl": [
-          "TSG1SYwGiMYZqJdgxdhYIHuuW0EShXhRJ8xe3fxCmHw=",
           "py3"
         ]
       }
