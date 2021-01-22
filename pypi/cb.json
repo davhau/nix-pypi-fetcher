@@ -3721,6 +3721,20 @@
       ]
     }
   },
+  "aws-cdk-lib": {
+    "2.0.0a1": {
+      "sdist": [
+        "FPH65eTGEPPaPeVmwyShf/iT+Hjvf+ijR9ZkbUQ1Wuw=",
+        "aws-cdk-lib-2.0.0a1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk_lib-2.0.0a1-py3-none-any.whl": [
+          "n6YLC+FluhptMiAdVQQpOZo/NzfQUUeGgzSgVWRjsEo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "aws-cdk.aws-datasync": {
     "1.85.0": {
       "sdist": [
@@ -3730,6 +3744,18 @@
       "wheels": {
         "aws_cdk.aws_datasync-1.85.0-py3-none-any.whl": [
           "f7VYpp/xqyDri0NRr7ZVjV1pbGdeg1q+wY0rW2BC8sM=",
+          "py3"
+        ]
+      }
+    },
+    "1.86.0": {
+      "sdist": [
+        "jCgj2f0TjrMpbMKuO4L2+jV47fV9N2QFD3noEl593ao=",
+        "aws-cdk.aws-datasync-1.86.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_datasync-1.86.0-py3-none-any.whl": [
+          "0lmxTKWfCzPBvzAYNo4hat9pGXs3A9YvaqM6zRqcdh8=",
           "py3"
         ]
       }
@@ -5160,6 +5186,18 @@
       "wheels": {
         "aws_cdk.aws_dlm-1.85.0-py3-none-any.whl": [
           "KqzoJl7TV58z3rSd/hkETR7fP/pXRznCi0aVidjfOlQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.86.0": {
+      "sdist": [
+        "UK3JkAGbzCgnBWW0JLdRAOYUioF9EhWG59pnj0/SHxc=",
+        "aws-cdk.aws-dlm-1.86.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dlm-1.86.0-py3-none-any.whl": [
+          "Bhj9hJvAne9QoEQyaA8RGWi7Riqlreqyxgqelnx1aZc=",
           "py3"
         ]
       }
@@ -9636,6 +9674,18 @@
       "wheels": {
         "cloudcomponents.cdk_container_registry-1.20.0-py3-none-any.whl": [
           "Kyta+REdjisz5E8J/iBsFiFLuq0U99GfavRrNUBhOwQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.21.0": {
+      "sdist": [
+        "zfxT/P8sjinXDrnOfqJmi6xvijVf4TKiGjaTwvyEQuo=",
+        "cloudcomponents.cdk-container-registry-1.21.0.tar.gz"
+      ],
+      "wheels": {
+        "cloudcomponents.cdk_container_registry-1.21.0-py3-none-any.whl": [
+          "n8WLZwWjMWKdcoTR5Fe5ELHVt/ZATWsDO0n2JV2znXs=",
           "py3"
         ]
       }
@@ -36309,14 +36359,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "gpde": {
-    "0.0.0": {
-      "sdist": [
-        "WNnIBy8wNg1jFFDa+zDfpbFqjqA3EhlgO+YjAzZqP5Q=",
-        "gpde-0.0.0.tar.gz"
-      ]
     }
   },
   "gpflow-old": {
@@ -68435,6 +68477,18 @@
           "py3"
         ]
       }
+    },
+    "5.3.0": {
+      "sdist": [
+        "xN2B+3YcAg20RCjtFbS0pyoeR9hAESk5kne+JhwBF58=",
+        "rpaframework-core-5.3.0.tar.gz"
+      ],
+      "wheels": {
+        "rpaframework_core-5.3.0-py3-none-any.whl": [
+          "wyAdw82y7K+L5wJlonZPPqHwxS3g+T6mP52MtyvBg/M=",
+          "py3"
+        ]
+      }
     }
   },
   "rpimcp23s17": {
@@ -83454,6 +83508,10 @@
           "PQUMNaFvU2a1gVoWFAi4poP6OfLyZgMwK7Udg57ILw4=",
           "cp36"
         ],
+        "tf_nightly_cpu-2.5.0.dev20210121-cp36-cp36m-win_amd64.whl": [
+          "ce6ofO7xw08XwMO28PZQhAwDwc0XeYMJTjGXmJxAz9Q=",
+          "cp36"
+        ],
         "tf_nightly_cpu-2.5.0.dev20210121-cp37-cp37m-macosx_10_14_x86_64.whl": [
           "B+lEql8lokbg/AYdotmmxg2d5d57Ib8S01j3AzeB2Js=",
           "cp37"
@@ -83462,8 +83520,16 @@
           "rvTYNRe2PqaQ0OpNNfOvMgbMdJL2AUi2vM3UHigXbBs=",
           "cp37"
         ],
+        "tf_nightly_cpu-2.5.0.dev20210121-cp37-cp37m-win_amd64.whl": [
+          "AYkMex13d7jHGrCfeadR8fsYahccWGzvQqmHnuWmQR4=",
+          "cp37"
+        ],
         "tf_nightly_cpu-2.5.0.dev20210121-cp38-cp38-manylinux2010_x86_64.whl": [
           "KI6vWUxQjeRaAgHckshyPAR2kw/giEJIgRz0QF5NcsQ=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.5.0.dev20210121-cp38-cp38-win_amd64.whl": [
+          "k3xypciW2tcMu4ARJSqfqt3pi7BCiBstUuVMkusXSeM=",
           "cp38"
         ]
       }
