@@ -15111,6 +15111,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2021.1.25b0": {
+      "sdist": [
+        "+YmSQYLzH7WQ9nFmCAtpFhE1XBEezTeHWFQdYd9Iu9o=",
+        "democritus_utility-2021.1.25b0.tar.gz"
+      ],
+      "wheels": {
+        "democritus_utility-2021.1.25b0-py2.py3-none-any.whl": [
+          "VRuPks/vtAtNhymlI3JcratW9ALbXZwYUSCCAsttP0I=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "denoise-fmri": {
@@ -25967,6 +25979,14 @@
       }
     }
   },
+  "gwl-data-processing": {
+    "1.0.0": {
+      "sdist": [
+        "7YBZbQRQSFkk1Ft2gL4Zu9usynWGFFJJ2JX3ftAMcL4=",
+        "gwl_data_processing-1.0.0.tar.gz"
+      ]
+    }
+  },
   "hakim-nester": {
     "1.0.0": {
       "sdist": [
@@ -32132,6 +32152,18 @@
       "wheels": {
         "jyrobot-0.6.11-py3-none-any.whl": [
           "0//s7eBpBcbG0b7uFzOKPtsS96VI7z6NrpMljkWHSfs=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.12": {
+      "sdist": [
+        "c9rLKcxB+MHwnXHjDsRGtl6NPUVHYpC0+mrQHhtX4WU=",
+        "jyrobot-0.6.12.tar.gz"
+      ],
+      "wheels": {
+        "jyrobot-0.6.12-py3-none-any.whl": [
+          "n3JQx0jf4qMUjx2FAWUJfCO+X2uZsKoQhxx3dS2sCrY=",
           "py3"
         ]
       }
@@ -43433,6 +43465,126 @@
         "numcodecs-0.7.2-cp38-cp38-win_amd64.whl": [
           "Ineee+Bv79tyJoGl4VpEeORY8pqJk9sk+uWDi6sCWFA=",
           "cp38"
+        ]
+      }
+    },
+    "0.7.3": {
+      "sdist": [
+        "AisSrYPrYj7FPxVIWdSfbsQ7FcNgUvqGTq8tnueG3YU=",
+        "numcodecs-0.7.3.tar.gz"
+      ],
+      "wheels": {
+        "numcodecs-0.7.3-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "IR3OisgEKAvylrHrcOmRxD1qsc5M6W1/ZIRCYgMqPmI=",
+          "cp36"
+        ],
+        "numcodecs-0.7.3-cp36-cp36m-manylinux1_i686.whl": [
+          "1Na9Ou2q8bfWtZSXfgcxXQ2rS0/7msjvWKNwkxgzFJ4=",
+          "cp36"
+        ],
+        "numcodecs-0.7.3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "rvyIIak/zHd8F2QwOHk7JAJzo6/PKEaR+9wyZArYewI=",
+          "cp36"
+        ],
+        "numcodecs-0.7.3-cp36-cp36m-manylinux2010_i686.whl": [
+          "uZfind0Zx7SekaF0EFOXmFGDxnr9rwXIIAj5rQOI7y8=",
+          "cp36"
+        ],
+        "numcodecs-0.7.3-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "fp+rpTLxLr2x3GWOcH3rTGYTfGOLB9gWEDE3PsBco5g=",
+          "cp36"
+        ],
+        "numcodecs-0.7.3-cp36-cp36m-win32.whl": [
+          "H5oiSG7qypnHEfgQ8Itq90NIRfDYIxlNLBC+q+RReNY=",
+          "cp36"
+        ],
+        "numcodecs-0.7.3-cp36-cp36m-win_amd64.whl": [
+          "4Yc++BCZlwrXTXOCAxT3v1s9IXyE89SuMUfVDCWONxA=",
+          "cp36"
+        ],
+        "numcodecs-0.7.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "l/h5h2JJl5rS5QEZDywkCIrP0hoOKi5KqGywWVupioE=",
+          "cp37"
+        ],
+        "numcodecs-0.7.3-cp37-cp37m-manylinux1_i686.whl": [
+          "yjfP0nkbTqXZdfrCiWf0878nCv4/jjoBdmc9aTNaf+k=",
+          "cp37"
+        ],
+        "numcodecs-0.7.3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "V1TpFNRFVlhgBXdljwon26f3iuM4sZ/XHYC8XkKnONw=",
+          "cp37"
+        ],
+        "numcodecs-0.7.3-cp37-cp37m-manylinux2010_i686.whl": [
+          "R8nnxiyQ852KMHrLo52FuSlF/AuexfIqkm0Ah5P1dc0=",
+          "cp37"
+        ],
+        "numcodecs-0.7.3-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "Yzb7Bgb3JM7pZmAEj5hBHs2nhEqsaMYcKGm36dmzcZ4=",
+          "cp37"
+        ],
+        "numcodecs-0.7.3-cp37-cp37m-win32.whl": [
+          "Hh9LoMxOS+QUVNNXTYXnMryh+drfe9PO16cFG5qqpRo=",
+          "cp37"
+        ],
+        "numcodecs-0.7.3-cp37-cp37m-win_amd64.whl": [
+          "N9elhVW5QeT+vfciumnBCPvzeV/xocSNw7/UDeRyJd4=",
+          "cp37"
+        ],
+        "numcodecs-0.7.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "uTtWpZEzZatuFJOEvbBh5Sa+vhIUfL65SXshRn8JZ6Y=",
+          "cp38"
+        ],
+        "numcodecs-0.7.3-cp38-cp38-manylinux1_i686.whl": [
+          "njymKtZeIutOHIMVLpoO6ki0GsN4WRo4lwlj3gZw3Xg=",
+          "cp38"
+        ],
+        "numcodecs-0.7.3-cp38-cp38-manylinux1_x86_64.whl": [
+          "ZCHENppYrESKgHe4+bo7XL7C4n+tOjMPpXGLRy15BAs=",
+          "cp38"
+        ],
+        "numcodecs-0.7.3-cp38-cp38-manylinux2010_i686.whl": [
+          "kGKWTM3sUPlQvTDpLT6ahbhHSEEdTDD6xwFBLR64wtM=",
+          "cp38"
+        ],
+        "numcodecs-0.7.3-cp38-cp38-manylinux2010_x86_64.whl": [
+          "bFd5XJaHS7tHmDToemLBDA/NZJV6zb3nLowKijn7bTk=",
+          "cp38"
+        ],
+        "numcodecs-0.7.3-cp38-cp38-win32.whl": [
+          "8tfIOVZz9X7I7cleuYIGBPNKkNbl0podp+hsiwDfVyY=",
+          "cp38"
+        ],
+        "numcodecs-0.7.3-cp38-cp38-win_amd64.whl": [
+          "XuwE3S1Zcl72HBOf4+yWCFN0uPWanI3p3PToy95r0Xk=",
+          "cp38"
+        ],
+        "numcodecs-0.7.3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "4zWjPyaeCBfqyr1xCp6i3i19o7udifBJtdHVlLeiEhY=",
+          "cp39"
+        ],
+        "numcodecs-0.7.3-cp39-cp39-manylinux1_i686.whl": [
+          "vWFS+V/t2nNXQEXONtmAApkrffK7xbJ3VGDVF8iSsvE=",
+          "cp39"
+        ],
+        "numcodecs-0.7.3-cp39-cp39-manylinux1_x86_64.whl": [
+          "alTjM1rAjQYohQbKTw/1Zgi133YojLMXpC7+GsZG6DQ=",
+          "cp39"
+        ],
+        "numcodecs-0.7.3-cp39-cp39-manylinux2010_i686.whl": [
+          "SLMxGDdOb3Sau7lAve9xEWn56QVcW7UyzDIt5odn4B0=",
+          "cp39"
+        ],
+        "numcodecs-0.7.3-cp39-cp39-manylinux2010_x86_64.whl": [
+          "zLLYCPkI2wXxkih/jehFGehkDketjNFvdPs3aLsIWZQ=",
+          "cp39"
+        ],
+        "numcodecs-0.7.3-cp39-cp39-win32.whl": [
+          "icVq3ZscPbo7XOTcG/wCYpkWtyDmiw1tQ77f75Ayb6Y=",
+          "cp39"
+        ],
+        "numcodecs-0.7.3-cp39-cp39-win_amd64.whl": [
+          "bQ80GmgQ+UKCIRZKWLAbCL1ehHq6OLOkMda29EaWgIw=",
+          "cp39"
         ]
       }
     }
@@ -65585,6 +65737,20 @@
         "Q6hkEOp9dOTPS4NGa00BqJ8MS6mBbTM/fPCKR3HrYCI=",
         "simple-redis-lock-0.1.2.tar.gz"
       ]
+    }
+  },
+  "simplebitk": {
+    "0.0.1a0": {
+      "sdist": [
+        "L/P/dtgxwXrFGsQkSK0r3MUPOdOb7yhMGyoQVrV6O1M=",
+        "simplebitk-0.0.1a0.tar.gz"
+      ],
+      "wheels": {
+        "simplebitk-0.0.1a0-py3-none-any.whl": [
+          "HN3UhApR0beRl1ucF28bP4CG63sguCgAMQNDIn07FHI=",
+          "py3"
+        ]
+      }
     }
   },
   "simplemailproxy": {
