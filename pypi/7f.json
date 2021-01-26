@@ -16894,6 +16894,14 @@
         ]
       }
     },
+    "1.21.0": {
+      "wheels": {
+        "azureml_automl_runtime-1.21.0-py3-none-any.whl": [
+          "kbx79hyAGoweaNvdESNRAId2HhRrrAiS2d9X1nISR4s=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0": {
       "wheels": {
         "azureml_automl_runtime-1.3.0-py3-none-any.whl": [
@@ -17532,6 +17540,14 @@
       "wheels": {
         "azureml_defaults-1.20.0-py3-none-any.whl": [
           "uAFV4U0UYIr6G639xgfH/CGPuuUi4R9I+VgdurVfkt0=",
+          "py3"
+        ]
+      }
+    },
+    "1.21.0": {
+      "wheels": {
+        "azureml_defaults-1.21.0-py3-none-any.whl": [
+          "zNkXjDxKgtXT8Yov3qBz3o9psH/fNV9a2/+q2LrwQuc=",
           "py3"
         ]
       }
@@ -19310,6 +19326,18 @@
       "wheels": {
         "bidsphysio.events-1.2.0-py3-none-any.whl": [
           "EDwfjde4dT4FS/BWROOSv5I3wG5am6+MO2e5fR5TdkM=",
+          "py3"
+        ]
+      }
+    },
+    "21.1.22": {
+      "sdist": [
+        "/q78OSOmflkUNZP8qqtRvKl71WdyviaNrm9eu+9rMPk=",
+        "bidsphysio.events-21.1.22.tar.gz"
+      ],
+      "wheels": {
+        "bidsphysio.events-21.1.22-py3-none-any.whl": [
+          "gyLWXPIIK+ZrZ6KSYnrroOWBdK+hbSrVwwqCIGGDd+M=",
           "py3"
         ]
       }
@@ -29468,6 +29496,10 @@
           "9Ap6JNtxCLvZ8SDYyr+XTzIBEWgj61rx+hd5OhO1Tqk=",
           "cp36"
         ],
+        "cspy-1.0.0a0-cp36-cp36m-win_amd64.whl": [
+          "deb37f6QuauSdFVJqtIbdtEvHokPQm+Gt5KnT+P1sqM=",
+          "cp36"
+        ],
         "cspy-1.0.0a0-cp37-cp37m-macosx_10_15_x86_64.whl": [
           "IL2WbLcM3V+CqJTqlW8LsLMWe4PmzRXDU0x/yXcB774=",
           "cp37"
@@ -29476,12 +29508,20 @@
           "L2kf/nX4jP41+XLaqfuobznQu7ow9cX3/l4Z6+kSzDc=",
           "cp37"
         ],
+        "cspy-1.0.0a0-cp37-cp37m-win_amd64.whl": [
+          "7TOBU3vPFUbEM2zoMrdokm7hKEi5ObgieeO1i77bWjw=",
+          "cp37"
+        ],
         "cspy-1.0.0a0-cp38-cp38-macosx_10_15_x86_64.whl": [
           "bww8fgQ0cItp/88CdTF5i06UurU1loaIA3AH/riNquA=",
           "cp38"
         ],
         "cspy-1.0.0a0-cp38-cp38-manylinux2014_x86_64.whl": [
           "CRibTs65rC6Zhn0AvOPL+xwfmW+Z8P2UaLINoheGInk=",
+          "cp38"
+        ],
+        "cspy-1.0.0a0-cp38-cp38-win_amd64.whl": [
+          "aI7N/0fhq3jC0j3s9hpLXEqxEMTxtkjwoh5WRtqyPP8=",
           "cp38"
         ],
         "cspy-1.0.0a0-cp39-cp39-macosx_10_15_x86_64.whl": [
@@ -29714,6 +29754,12 @@
       "sdist": [
         "PTKJp9pZqmBCSsM9ynHQyn+DxN7bIGdM3DuQitE7lR8=",
         "cyanure-mkl-no-openmp-0.21.post5.tar.gz"
+      ]
+    },
+    "0.22": {
+      "sdist": [
+        "NXDvJVvpuxT/miXfbUooUjyyu/CtEzS/6W5uqxoGjTg=",
+        "cyanure-mkl-no-openmp-0.22.tar.gz"
       ]
     }
   },
@@ -50881,6 +50927,32 @@
       ]
     }
   },
+  "minibrowser": {
+    "0.1.0": {
+      "sdist": [
+        "yCfJQgnxWZBJuAkAm55fptVw0GNFASoVR7S4aKyNgnM=",
+        "MiniBrowser-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "MiniBrowser-0.1.0-py3-none-any.whl": [
+          "nhTVcdr6a7AYx7HAGg/CSqrDI7wzpISLkIqCndGDiks=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "HlbZef/GWvJmCSmHqcxZSf4iZQhMeA2DO1jksqSIXQA=",
+        "MiniBrowser-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "MiniBrowser-0.1.1-py3-none-any.whl": [
+          "ClDa+5AH5RohcH/SfDfw5UEYGGFOD3ieKcVA1I9VWaI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "miu-print-file": {
     "1.1.0": {
       "sdist": [
@@ -62590,6 +62662,26 @@
         ],
         "pnumpy-2.0.15-cp36-abi3-win_amd64.whl": [
           "2vXbvmRhsNkxnOCsoNAnIU4jAG/4fccuzPg/cHwDTq8=",
+          "cp36"
+        ]
+      }
+    },
+    "2.0.16": {
+      "wheels": {
+        "pnumpy-2.0.16-cp36-abi3-macosx_10_14_x86_64.whl": [
+          "2nkXMQmjSaPBVznPsujEin7/M1ma0ZHzmLRRcuFEBbA=",
+          "cp36"
+        ],
+        "pnumpy-2.0.16-cp36-abi3-manylinux1_x86_64.whl": [
+          "q5Zw+o99bizn6QjONRKbWTUy+LipdkGmliNGZN+iPyw=",
+          "cp36"
+        ],
+        "pnumpy-2.0.16-cp36-abi3-manylinux2010_x86_64.whl": [
+          "zpIpIgNJkjSuPOyXbnExOK1xtxwYRaJ62oRZRTJW22M=",
+          "cp36"
+        ],
+        "pnumpy-2.0.16-cp36-abi3-win_amd64.whl": [
+          "3gVeNyV5O5YxKeEPjGxf+qhpQb7XgcFeswUrXidn+Ow=",
           "cp36"
         ]
       }
