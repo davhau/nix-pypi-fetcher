@@ -1452,6 +1452,12 @@
         "akida_models-1.0.1.tar.gz"
       ]
     },
+    "1.0.10": {
+      "sdist": [
+        "gBqrIHFTByKGgERKyBXCLXl5i5J3frvjCDG6G4mASys=",
+        "akida_models-1.0.10.tar.gz"
+      ]
+    },
     "1.0.2": {
       "sdist": [
         "2hwYDdEwQ+qwckitYAf2Uh553sphlLKxQEbcuSpyGv4=",
@@ -49012,6 +49018,18 @@
         ]
       }
     },
+    "1.16.60.0": {
+      "sdist": [
+        "dLhcNSKDVCNaxx+CMmQImynM+jA6QhZcBsIOvZ14kjw=",
+        "mypy-boto3-personalize-runtime-1.16.60.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_personalize_runtime-1.16.60.0-py3-none-any.whl": [
+          "w9wHczaxFf9G8x+ZmuiWnEKpQF8noIw4t34b3Xof4Uo=",
+          "py3"
+        ]
+      }
+    },
     "1.16.7.0": {
       "sdist": [
         "mpKBNYJDkCzSCYqng1aE5qvp1gpQVfjpT12dB6iK0T4=",
@@ -52102,6 +52120,18 @@
       "wheels": {
         "mypy_boto3_rds_data-1.16.6.0-py3-none-any.whl": [
           "WNuVZOn4MSqby+dfN7vhPnYRhFbIdzSrblwsr8UcUYY=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.60.0": {
+      "sdist": [
+        "rfsp19A/uHSuf6Z21V7Pg1nSY7mvd27CaAIkeSNJz18=",
+        "mypy-boto3-rds-data-1.16.60.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rds_data-1.16.60.0-py3-none-any.whl": [
+          "U6RrrRkN4yKjylCSv8iFQTXrpIlkIarmc3p2afPx1kU=",
           "py3"
         ]
       }
@@ -70743,6 +70773,32 @@
       }
     }
   },
+  "py-cryptotp": {
+    "0.0.1": {
+      "sdist": [
+        "FZv1f88Y4UNBn5gDoboPd67mDHDYXDglR3GAeTNwE/U=",
+        "py_cryptotp-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "py_cryptotp-0.0.1-py2.py3-none-any.whl": [
+          "z3k4nNuRUYiZfi9HgEIEW3dCGue9VWE4VgQnw+MJeiE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "HEzPpYLnYH9owvzRXACTTlGz/6/DuC1hhJtFtV4fqbM=",
+        "py_cryptotp-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "py_cryptotp-0.0.2-py2.py3-none-any.whl": [
+          "u5g7Sugp7cOhzoEJCoumMHXOuVIpr49OYwVd4+CxFx8=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "py-wsi": {
     "0.1": {
       "sdist": [
@@ -73580,14 +73636,6 @@
       "sdist": [
         "oMf2OuR/7GYtUCO+X0sfktd/dRcQ3M+QjqKT43KHyp8=",
         "PyPreval-0.0.0.tar.gz"
-      ]
-    }
-  },
-  "pyprivate": {
-    "1.1.0": {
-      "sdist": [
-        "WAvGo35BY/UIMwra1uXlmQrjl8TQaDQa4bHmGe2JPvc=",
-        "pyprivate-1.1.0.tar.gz"
       ]
     }
   },
@@ -81472,6 +81520,42 @@
         ]
       }
     },
+    "0.21.31": {
+      "sdist": [
+        "cF+1Lcgb5KdMqAFwbDYfjI5F+HW9k5c9JOF0j1TNtxE=",
+        "scikit-mcda-0.21.31.tar.gz"
+      ],
+      "wheels": {
+        "scikit_mcda-0.21.31-py3-none-any.whl": [
+          "HZxgo1226f8DizeAOQGEzah7ot3VOFgGQbFLKqonhcw=",
+          "py3"
+        ]
+      }
+    },
+    "0.21.34": {
+      "sdist": [
+        "ZW0Ah0UbxabtN2PBb/1hAZmmvX7OpNTXCPVu+sltwkA=",
+        "scikit-mcda-0.21.34.tar.gz"
+      ],
+      "wheels": {
+        "scikit_mcda-0.21.34-py3-none-any.whl": [
+          "kP01q2G9I+k5FMCjkz99qPHU75Iz5jlqBa8tyR4bQIQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.21.35": {
+      "sdist": [
+        "qD5qGGAousP+Fnd5C5I5M9gdiHZj55zlqmVSg9x+sMY=",
+        "scikit-mcda-0.21.35.tar.gz"
+      ],
+      "wheels": {
+        "scikit_mcda-0.21.35-py3-none-any.whl": [
+          "l/cff1b8f9ayekrr93/PRBLoqP6K+Ww87uRtkCc69xo=",
+          "py3"
+        ]
+      }
+    },
     "0.21.4": {
       "sdist": [
         "WwxEfar6FaylFHm7w2Lg6ABroZyUZptQS7FUf5FYvD4=",
@@ -88348,6 +88432,18 @@
       "wheels": {
         "tencentcloud_sdk_python_bmlb-3.0.332-py2.py3-none-any.whl": [
           "PuDLZbhB0fQ43OgVTiZ/yUv0b7xxD8hvjpB37sl0veo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.333": {
+      "sdist": [
+        "8vgpnP74tQ5qY+iJEGDtNE3LWCE5i/hazc7LrBqW2xY=",
+        "tencentcloud-sdk-python-bmlb-3.0.333.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_bmlb-3.0.333-py2.py3-none-any.whl": [
+          "IpA2tBgB36H2DHllZ+Gs3AdDo72RotnOymeQiFGa4OY=",
           "py2.py3"
         ]
       }
