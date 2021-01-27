@@ -684,6 +684,12 @@
         "aiomsa-2020.12.1.dev20210126.tar.gz"
       ]
     },
+    "2020.12.1.dev20210127": {
+      "sdist": [
+        "P1m+2DhfIiL8q1nnDwHORD/AyEoDhk0GyCFsvYOJ1Wg=",
+        "aiomsa-2020.12.1.dev20210127.tar.gz"
+      ]
+    },
     "2020.7.23": {
       "sdist": [
         "chw6yCp3MP7fyVxbTR/1h7iYMvyFClfYhH+gU+sKRyw=",
@@ -18498,6 +18504,18 @@
         ]
       }
     },
+    "0.0.104": {
+      "sdist": [
+        "fUq2cAsOWqlaA1hDaVdVx5HdAyBSM9T00KKIXK/TXHY=",
+        "cdktf-cdktf-provider-azurerm-0.0.104.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_azurerm-0.0.104-py3-none-any.whl": [
+          "BUckVGuxdoDte2ry/nxSvsiTE8STX84CHPbk+4ehTKI=",
+          "py3"
+        ]
+      }
+    },
     "0.0.11": {
       "sdist": [
         "xC2KhRyMEUMjbjxHklJNeiYodU2R3K+rlMc0CxxhZps=",
@@ -27364,6 +27382,58 @@
         ],
         "dearpygui-0.6.148-cp39-cp39-win_amd64.whl": [
           "WuLB0lQ3Z/xHXbsxMRp9hSRVR/hYgdZpntTZXoW6YMU=",
+          "cp39"
+        ]
+      }
+    },
+    "0.6.149": {
+      "wheels": {
+        "dearpygui-0.6.149-cp36-cp36m-macosx_10_6_x86_64.whl": [
+          "Rz5oV/YhjhV2+9vCAdX+dHfcMLHx9YEsHwdauAFXwPE=",
+          "cp36"
+        ],
+        "dearpygui-0.6.149-cp36-cp36m-manylinux1_x86_64.whl": [
+          "Tuzx0epC02Hb+M7IEOqLV0zmUc7aK6R2Nj9lguwPVwA=",
+          "cp36"
+        ],
+        "dearpygui-0.6.149-cp36-cp36m-win_amd64.whl": [
+          "1Pj19Q/VxDkrIebCkby+H9xOivn3XIV+I3/+PSdy2UA=",
+          "cp36"
+        ],
+        "dearpygui-0.6.149-cp37-cp37m-macosx_10_6_x86_64.whl": [
+          "TdkGxXHvMRfmDN+I97GgBhjt3euKXxUDSLnAQBFyg2Y=",
+          "cp37"
+        ],
+        "dearpygui-0.6.149-cp37-cp37m-manylinux1_x86_64.whl": [
+          "e5gWfs5xsHhJ7Qr7NE+zv9HesdETnAusbC6xK3+xiY4=",
+          "cp37"
+        ],
+        "dearpygui-0.6.149-cp37-cp37m-win_amd64.whl": [
+          "jaOV6rj6t9vr/YK046ME6rTo8fJ+irKrV5iEcTeLnSo=",
+          "cp37"
+        ],
+        "dearpygui-0.6.149-cp38-cp38-macosx_10_6_x86_64.whl": [
+          "an/omgP0jJoIk8e2IO4tojEusMjt7PAw4fH4kzrLfC4=",
+          "cp38"
+        ],
+        "dearpygui-0.6.149-cp38-cp38-manylinux1_x86_64.whl": [
+          "58iU5R2MepCpk7EwPYUxayvWEC53PMBlv7JBUv7ZroY=",
+          "cp38"
+        ],
+        "dearpygui-0.6.149-cp38-cp38-win_amd64.whl": [
+          "QYeEcanJiuyQGrLxinP83PtlaJYU82akeD8bJpyeqi0=",
+          "cp38"
+        ],
+        "dearpygui-0.6.149-cp39-cp39-macosx_10_6_x86_64.whl": [
+          "RLTJwo2SGWcI/oq3IP4zNIbCTrtERdmbubWK7gzbxN8=",
+          "cp39"
+        ],
+        "dearpygui-0.6.149-cp39-cp39-manylinux1_x86_64.whl": [
+          "N3hwRa+rwQ/8R3sD4rsqSss7PnI4RejykG/32MC9pAc=",
+          "cp39"
+        ],
+        "dearpygui-0.6.149-cp39-cp39-win_amd64.whl": [
+          "+DokGgd6Iib34U8ZQSBoqBHBrBqtzOHvlDp9M6rAqY4=",
           "cp39"
         ]
       }
@@ -40430,6 +40500,26 @@
         ],
         "httpstan-4.2.1-cp38-cp38-manylinux2014_x86_64.whl": [
           "H0KSUr/8uBJ4s7VuwVbNYiE5UKxNCsYN+7J9/4FX1GU=",
+          "cp38"
+        ]
+      }
+    },
+    "4.3.0": {
+      "wheels": {
+        "httpstan-4.3.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "UHnqYmEfDqzFo035XCW7F+hP6uColnwIyGfyXMr2yQw=",
+          "cp37"
+        ],
+        "httpstan-4.3.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "X79ry1uSiN2mHWjmPqGmx7pFw2bXYwkCDXB/cIn0kZk=",
+          "cp37"
+        ],
+        "httpstan-4.3.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "b6aJDZR0JsFEZ7scAMe/pE0kefZ9ccdr4B0OB+nWLJ4=",
+          "cp38"
+        ],
+        "httpstan-4.3.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "oAUtd1I9pLV3PaR0xyKdPhqsguJ73Vs6qBHQjqBOY7s=",
           "cp38"
         ]
       }
@@ -97546,6 +97636,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ams-3.0.332-py2.py3-none-any.whl": [
           "kVf9GdDhA/XVUtfalbLsrOWDk3KmsJznmjPXCs4V8vg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.333": {
+      "sdist": [
+        "Ze3aedQCHjALdm2jwIZ1rsX36nDap3/S85I5VPO0A8E=",
+        "tencentcloud-sdk-python-ams-3.0.333.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ams-3.0.333-py2.py3-none-any.whl": [
+          "2Fiqn/9Eu9p3hOc026Wn55av1ACKTixgjii3GAOFj3g=",
           "py2.py3"
         ]
       }
