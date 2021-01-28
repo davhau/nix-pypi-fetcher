@@ -4183,6 +4183,18 @@
           "py3"
         ]
       }
+    },
+    "1.87.0": {
+      "sdist": [
+        "u6ko9k6QCLqINceAK+NAC9kbX9Lf6B5Z4yy+F7+0sTE=",
+        "aws-cdk.aws-eks-legacy-1.87.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_eks_legacy-1.87.0-py3-none-any.whl": [
+          "dnm4wGfNCGZ019QCO4nIRqQraosO5h6OHToKVkGtvGE=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-lambda-event-handler": {
@@ -24478,6 +24490,30 @@
         ]
       }
     },
+    "0.0.13": {
+      "sdist": [
+        "piZ6ZBYZmuNGC6VpMIbtZAW7vBOqrA5TvRA1Fpyz75Y=",
+        "flyvec-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "flyvec-0.0.13-py3-none-any.whl": [
+          "jbAjt5n+rVuLn5ikMapgp3uhdmKWTYb0+dGQF4YeJ6I=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.14": {
+      "sdist": [
+        "N/sYC/EwgAF+Dk8sq2xPSDRo2MVON2HUCgInyM87hEs=",
+        "flyvec-0.0.14.tar.gz"
+      ],
+      "wheels": {
+        "flyvec-0.0.14-py3-none-any.whl": [
+          "bUm7ZJF+tftVIEtt2vOeugZQzZ/tJXSl1kDkJEjQXg8=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "yEK6TqhUf8xbOJ7bMSmnYUE8G8Fqiok2Xgk9+l1rMhE=",
@@ -30812,6 +30848,12 @@
       "sdist": [
         "CKD9hKV3GApy1EJLcmOVE2hNir9veEKVZnpwDMgE5uY=",
         "halo-app-0.10.4.tar.gz"
+      ]
+    },
+    "0.10.40": {
+      "sdist": [
+        "H+wzVzuDwWJ+0IjVeQkBpKP2ahmTIqaK7c5rq/tsWCU=",
+        "halo-app-0.10.40.tar.gz"
       ]
     },
     "0.10.5": {
@@ -42172,102 +42214,6 @@
         ]
       }
     },
-    "0.5.12": {
-      "sdist": [
-        "nc4kAgR2Iq18prTT6K8EgQmXc5dRnD8hasOfH4p/Vz8=",
-        "nemonet-0.5.12.tar.gz"
-      ],
-      "wheels": {
-        "nemonet-0.5.12-py3-none-any.whl": [
-          "EQO9HQdyCACuHknHWm+djrsQNfFspA8PYX/w9hqvnN8=",
-          "py3"
-        ]
-      }
-    },
-    "0.5.13": {
-      "sdist": [
-        "a5XP7mKCFgHc6/Klcxl65Mbuiw79g8JE2fr/H3ZSS2I=",
-        "nemonet-0.5.13.tar.gz"
-      ],
-      "wheels": {
-        "nemonet-0.5.13-py3-none-any.whl": [
-          "y6eAYKc4KHQtdbDDTpf0VJ3NCNVWWb+5YSm7TZBBPEk=",
-          "py3"
-        ]
-      }
-    },
-    "0.5.14": {
-      "sdist": [
-        "R6dDoUG76n+iOJx9z9kKVi9F6BwZsSaqQOg4vlG5XKA=",
-        "nemonet-0.5.14.tar.gz"
-      ],
-      "wheels": {
-        "nemonet-0.5.14-py3-none-any.whl": [
-          "2COj8Zis3RCsNN6DZ2rmcpkUI1/M5SZQAmlXKjbfEBI=",
-          "py3"
-        ]
-      }
-    },
-    "0.5.15": {
-      "sdist": [
-        "YU30hoJrLWyZlNg5A9JnNP5vHg140mp0T4l77+ct2f4=",
-        "nemonet-0.5.15.tar.gz"
-      ],
-      "wheels": {
-        "nemonet-0.5.15-py3-none-any.whl": [
-          "dlF8YloFZCcMR9WRYZI77eM4tgJ+2+g5X17nhiH7dWE=",
-          "py3"
-        ]
-      }
-    },
-    "0.5.16": {
-      "sdist": [
-        "13skkmWNM2WaiuBVhavlyPQfajRhh2USc4eiej/shgI=",
-        "nemonet-0.5.16.tar.gz"
-      ],
-      "wheels": {
-        "nemonet-0.5.16-py3-none-any.whl": [
-          "pYka55zD6ACmqEvWTIDNACfpEVDPDJhh6fUJJMGSTFA=",
-          "py3"
-        ]
-      }
-    },
-    "0.5.17": {
-      "sdist": [
-        "FC7EAiLxj9SnH9iVszXKrne7+z/BhQvWjnWTsjpTasQ=",
-        "nemonet-0.5.17.tar.gz"
-      ],
-      "wheels": {
-        "nemonet-0.5.17-py3-none-any.whl": [
-          "xxztG2Eg6fcED9hma/aeGUXXI4NGDzlYPtUJW0ZI0Ic=",
-          "py3"
-        ]
-      }
-    },
-    "0.5.18": {
-      "sdist": [
-        "i2w38++0MAyKBShpAD1wGiNQUeKTnWvh5/ABlT0KdNQ=",
-        "nemonet-0.5.18.tar.gz"
-      ],
-      "wheels": {
-        "nemonet-0.5.18-py3-none-any.whl": [
-          "QBhQu+KbaqFDziPL8F8XPkz9JZzXCxDl80FiaVghv2E=",
-          "py3"
-        ]
-      }
-    },
-    "0.5.19": {
-      "sdist": [
-        "1bxv7UqxY1Hk+mRLk3PRkHt1Rd7f6Yi8eEeKUcHdH24=",
-        "nemonet-0.5.19.tar.gz"
-      ],
-      "wheels": {
-        "nemonet-0.5.19-py3-none-any.whl": [
-          "pnSlJEkMfvLslRd811nnhbgNHwbpfpeIDjCcej7gvLM=",
-          "py3"
-        ]
-      }
-    },
     "0.5.2": {
       "sdist": [
         "heCDILtmx64e6sp7ASNCtSoikxPaZpYtyCXC4SE1MDM=",
@@ -42276,18 +42222,6 @@
       "wheels": {
         "nemonet-0.5.2-py3-none-any.whl": [
           "ZLVD9DK4LJJJvX+FdDXpZ6D+gY9LINwcv/3RDoLBtMo=",
-          "py3"
-        ]
-      }
-    },
-    "0.5.20": {
-      "sdist": [
-        "ItsjIy+XLlRW+iPVnoj0dnQJEC/IhG2fAtKa0AIMiOY=",
-        "nemonet-0.5.20.tar.gz"
-      ],
-      "wheels": {
-        "nemonet-0.5.20-py3-none-any.whl": [
-          "9h+NQlxxBEKu/Spjd6BadCz0DXzOhI7yDpInKaXGBF4=",
           "py3"
         ]
       }
@@ -67486,6 +67420,14 @@
       "wheels": {
         "tensorflow_transform-0.26.0-py3-none-any.whl": [
           "J0uyhK+l24eOuKTQXicN8FzA9EkkOus2oozZ0orX+qw=",
+          "py3"
+        ]
+      }
+    },
+    "0.27.0": {
+      "wheels": {
+        "tensorflow_transform-0.27.0-py3-none-any.whl": [
+          "8H3vDPQdKKScAakWMdta2IOrAwf7PdXBMNqjmEZdGb8=",
           "py3"
         ]
       }
