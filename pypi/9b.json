@@ -4616,6 +4616,18 @@
         ]
       }
     },
+    "10.0.0": {
+      "sdist": [
+        "XERvW9qwouJni277ahp/cEZ1Sukosg4HfBcCbSSPUDY=",
+        "azure-mgmt-batch-10.0.0.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_batch-10.0.0-py2.py3-none-any.whl": [
+          "eGxwfIXfwACt8iVSvsJNXb4nOZ15rKEnUjKx2wOHJlk=",
+          "py2.py3"
+        ]
+      }
+    },
     "14.0.0": {
       "sdist": [
         "HTssnr1XyIdOEdKefdBaHweNIVb8loPi8q1BAk5Ei/Y=",
@@ -4636,6 +4648,18 @@
       "wheels": {
         "azure_mgmt_batch-14.0.0b1-py2.py3-none-any.whl": [
           "Kl6tmsnf+alQ8r8f1mjQj7p2tfdQkkFH5MqaAbFCiik=",
+          "py2.py3"
+        ]
+      }
+    },
+    "15.0.0b1": {
+      "sdist": [
+        "hOpJCUsNzCcFSOAZfMpBNbACusD3UQeDfaBAWcxIL2k=",
+        "azure-mgmt-batch-15.0.0b1.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_batch-15.0.0b1-py2.py3-none-any.whl": [
+          "LlHpIF4SH29A7pfOC/K6MchF1ONKViTIE7gaPOu36gY=",
           "py2.py3"
         ]
       }
@@ -26873,6 +26897,18 @@
           "cp37"
         ]
       }
+    },
+    "0.6.0.dev210129": {
+      "wheels": {
+        "genomeworks_cuda_10_0-0.6.0.dev210129-cp36-none-any.whl": [
+          "KULD+prxTlI4wgeUBpVHmEeJdpbX/8+5SSjub7mzGEs=",
+          "cp36"
+        ],
+        "genomeworks_cuda_10_0-0.6.0.dev210129-cp37-none-any.whl": [
+          "LwUi1jrrQGyFc5L+Wxeo7IybeJYsKs9FripBRD9/tAE=",
+          "cp37"
+        ]
+      }
     }
   },
   "get-list": {
@@ -40616,10 +40652,10 @@
     }
   },
   "minipipes": {
-    "0.4.0": {
+    "0.4.1": {
       "sdist": [
-        "N2o0S3+SjEIG3sYb2JttODX+Hlzh0vWYYjdhW3byaRA=",
-        "MiniPipes-0.4.0.tar.gz"
+        "7eVb+1vFmT5rnqHqFVLGeVU6/Y3RdzhsHx5UJmSLHgo=",
+        "MiniPipes-0.4.1.tar.gz"
       ]
     }
   },
@@ -58604,6 +58640,30 @@
         "pykemen-0.2.21.tar.gz"
       ]
     },
+    "0.2.22": {
+      "sdist": [
+        "3AdBzzWFWsiPsxFoBVQiS1rIcgYKxBvA54cGjQX3UOg=",
+        "pykemen-0.2.22.tar.gz"
+      ],
+      "wheels": {
+        "pykemen-0.2.22-py3-none-any.whl": [
+          "0yD6GveHs8Hx4+5Tt9U7f2VzHpDUGudPn4V4NB1Z6dQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.23": {
+      "sdist": [
+        "37j6RhRlEzQtVR66Qa6t5IgC3OLrTQ3GkaHCLVkjH+E=",
+        "pykemen-0.2.23.tar.gz"
+      ]
+    },
+    "0.2.24": {
+      "sdist": [
+        "eEuwNQ7p7+wCl9fTmHMnUxwooTt1JlWIS2sJB1RqB90=",
+        "pykemen-0.2.24.tar.gz"
+      ]
+    },
     "0.2.4": {
       "sdist": [
         "gqTiWK9SKu0DCVf6NbyMnir3NNv7fnbX7XB5YvnDttQ=",
@@ -62624,38 +62684,6 @@
       "sdist": [
         "rxf958WRzY+sru7lurhZHXLTVSIhY9yLZLSKApGNKXg=",
         "pythoncjson-0.1.1.tar.gz"
-      ]
-    }
-  },
-  "pytorch-nnmodels": {
-    "0.0.1": {
-      "sdist": [
-        "8vgU3GbwJdVFOK/nhJVvS+caT0z46LZ+xj9HRvLm7Sc=",
-        "pytorch-nnModels-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "pytorch_nnModels-0.0.1-py3-none-any.whl": [
-          "fS0GfMieK4YkeA1dBwgvLwTrwyo0x9dxJF0+ZsA+I24=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "FJlrgH9mcu4bsKGCw8a+QD1g+Y3VMQl56f4I9PzhV3c=",
-        "pytorch-nnModels-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "UZ8qUB7O3eVGb0CJWdKY30m44LcdQU4WJocdDW+PnlM=",
-        "pytorch-nnModels-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "H2sCcH/RGTs/sD36pN6evUd+d34cP8SdbGPRe2jNPLw=",
-        "pytorch-nnModels-0.0.4.tar.gz"
       ]
     }
   },
@@ -77726,6 +77754,18 @@
       "wheels": {
         "valid8-5.1.1-py2.py3-none-any.whl": [
           "Y4pslVA9NXq4q+myFDeQamkd4c3P+SFzQfSed+5+QC4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.1.2": {
+      "sdist": [
+        "Kkm/5GefkuC89rYUU70fDLQwBE3yw1joUTkgbJqYt2U=",
+        "valid8-5.1.2.tar.gz"
+      ],
+      "wheels": {
+        "valid8-5.1.2-py2.py3-none-any.whl": [
+          "y1RfGJgIWp0CcOuh8FM8UeTI6Zn/OXFkyAW1xremJ6A=",
           "py2.py3"
         ]
       }
