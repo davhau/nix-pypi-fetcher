@@ -2065,6 +2065,18 @@
           "cp38"
         ]
       }
+    },
+    "1.0.1": {
+      "wheels": {
+        "atosdevopstools-1.0.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "MsBrxqOtHKutblcj1EFHptd/Rlc1BeQ+gQlQql7ky5o=",
+          "cp38"
+        ],
+        "atosdevopstools-1.0.1-cp38-cp38-win_amd64.whl": [
+          "rDun6T1FYnSP6ovVALZUJOV+NCzr+QDzlnU/QB5GILE=",
+          "cp38"
+        ]
+      }
     }
   },
   "atreal.richfile.metadata": {
@@ -4024,6 +4036,18 @@
       "wheels": {
         "aws_cdk.aws_ec2-1.87.0-py3-none-any.whl": [
           "7TF0QoOh16MKbnEqn3wt8zVRkEfzRDkumNymd2XTsCE=",
+          "py3"
+        ]
+      }
+    },
+    "1.87.1": {
+      "sdist": [
+        "IamcMfPxycUZD/cDpZ3OoDmH78j1jDrW6VLNMD1aGb4=",
+        "aws-cdk.aws-ec2-1.87.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ec2-1.87.1-py3-none-any.whl": [
+          "G3XRGlSTx7oirV6zwvrH5QQ/GniKpdOIUYeaaNdoWC8=",
           "py3"
         ]
       }
@@ -6175,6 +6199,12 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "gOX9OSD5I1kyeJfj1ItLvh44IiUstQhyTInxNjFKZMo=",
+        "BrainpyFuck-0.0.5.tar.gz"
+      ]
     }
   },
   "branesta": {
@@ -18052,86 +18082,14 @@
         ]
       }
     },
-    "0.3.0": {
+    "0.3.7": {
       "sdist": [
-        "v2LeIDl888Pr4+XTUMxhuMkCTB50RsxBPd+9+rJuKbg=",
-        "feudalAdapter-0.3.0.tar.gz"
+        "oNolNGbmmPzWFEQ3Df7RLJyLIAkTb7HcyEIJTfC5GVs=",
+        "feudalAdapter-0.3.7.tar.gz"
       ],
       "wheels": {
-        "feudalAdapter-0.3.0-py2.py3-none-any.whl": [
-          "onNRxg+MWc0NZ1ufO2oOibbQZEfpTV/F8R7/rB+kNxg=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.1": {
-      "sdist": [
-        "XCDx4XqD2KauBU/Z2NnUdlQgkNTxs850rfVc9rMbOnY=",
-        "feudalAdapter-0.3.1.tar.gz"
-      ],
-      "wheels": {
-        "feudalAdapter-0.3.1-py2.py3-none-any.whl": [
-          "Z67yqSJxuJlIC8PXhDRrCT1ZWWtCrkooS70kuJ8ttYY=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.2": {
-      "sdist": [
-        "DteUHtZhOTcvzHilNYhbfhSeXTa5UbQdvVA153k3Lbc=",
-        "feudalAdapter-0.3.2.tar.gz"
-      ],
-      "wheels": {
-        "feudalAdapter-0.3.2-py2.py3-none-any.whl": [
-          "qlKCF9KebFiSQwWE6wGOkRi0HzBC32jD27+1PRRbCwc=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.3": {
-      "sdist": [
-        "tkRnOrdJ1mEe4cSIF7FCSb+VSu+EeflZuuKTU465LW0=",
-        "feudalAdapter-0.3.3.tar.gz"
-      ],
-      "wheels": {
-        "feudalAdapter-0.3.3-py2.py3-none-any.whl": [
-          "XoiFtSUWW9peR5rGJH6rub6rgNnS5LuQ93dc8utxmnI=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.4": {
-      "sdist": [
-        "IABIjYdT0SMEo4rDcgFAsaU3+KW1gcSgML0xyVy6Rc0=",
-        "feudalAdapter-0.3.4.tar.gz"
-      ],
-      "wheels": {
-        "feudalAdapter-0.3.4-py2.py3-none-any.whl": [
-          "wcItW55awgHR2qnYIwoDge9DB5bJ1S3XHYWUk8Fkoo0=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.5": {
-      "sdist": [
-        "J9sK6bk1lTsLeWfTtq5xuSXv9qwk5FGB5dgVi9kuLSE=",
-        "feudalAdapter-0.3.5.tar.gz"
-      ],
-      "wheels": {
-        "feudalAdapter-0.3.5-py2.py3-none-any.whl": [
-          "74e24lS9kwl6STIXkIeT1NNJkAi8fAUUt2H+KYDEfzY=",
-          "py2.py3"
-        ]
-      }
-    },
-    "0.3.6": {
-      "sdist": [
-        "myLT+20IkOMApQey843BXtqHGJUa2AJOAhSFVi62Ar8=",
-        "feudalAdapter-0.3.6.tar.gz"
-      ],
-      "wheels": {
-        "feudalAdapter-0.3.6-py2.py3-none-any.whl": [
-          "7V6a5Y3FrDcPoSjWMHW562945FY4qFnzyeJ8Z/AwVyo=",
+        "feudalAdapter-0.3.7-py2.py3-none-any.whl": [
+          "ndRD8dMPBM2uXftLQO+4339LA3of10ISK9lQhUtjtks=",
           "py2.py3"
         ]
       }
@@ -31578,6 +31536,18 @@
       "wheels": {
         "graph_notebook-2.0.5-py3-none-any.whl": [
           "+zLtEKHHYvkBovUNjIe9Tt/k/8gifRwtaCkdlcHqA2U=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.6": {
+      "sdist": [
+        "e4M61o2CLQQuwrxKb0warw9bhpfD4YG6cd3aXNtrnH4=",
+        "graph-notebook-2.0.6.tar.gz"
+      ],
+      "wheels": {
+        "graph_notebook-2.0.6-py3-none-any.whl": [
+          "PNtiqniWgsrptspCKaEJu5yTNTZaq45EBiNDKSzt+oE=",
           "py3"
         ]
       }
