@@ -2449,6 +2449,22 @@
           "cp38"
         ]
       }
+    },
+    "2.1.39b2": {
+      "wheels": {
+        "anki-2.1.39b2-cp38-abi3-macosx_10_7_x86_64.whl": [
+          "5ebE2pX237DGPpY/zlE1imP9tS4fkfUPkV5AcP4LMhI=",
+          "cp38"
+        ],
+        "anki-2.1.39b2-cp38-abi3-manylinux2014_x86_64.whl": [
+          "3u8TPwGSPR1056dPyT+n8hrbD8hF/v/AuD/uOUjnJXY=",
+          "cp38"
+        ],
+        "anki-2.1.39b2-cp38-abi3-win_amd64.whl": [
+          "Dylplkj5uzJDHNQHFn6C6axbuT/xON7OkreOYf4xYBc=",
+          "cp38"
+        ]
+      }
     }
   },
   "another-statistic-distributions": {
@@ -10332,6 +10348,18 @@
       "wheels": {
         "cdk_simplewebsite_deploy-0.3.1-py3-none-any.whl": [
           "n3h5E7bP0zQVqOgIXDvw04TQKWSrTm1vVc5h2fZ795o=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "REPwVsKzCn8aqGOo/Ocgg8XmUKqH4w1A6J09ag4xYVU=",
+        "cdk-simplewebsite-deploy-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "cdk_simplewebsite_deploy-0.3.2-py3-none-any.whl": [
+          "np2kbTz3VCdDgRdePwJY7S0lt1rIapYnwzAg/UZgAA8=",
           "py3"
         ]
       }
@@ -43595,6 +43623,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.0.1": {
+      "wheels": {
+        "odoo12_addon_stock_archive_constraint-12.0.1.0.1-py3-none-any.whl": [
+          "+ZpCGzKCtaAG9FJs7F5Dk/5M1gaY2CoVS2wYtnck1JY=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-stock-picking-sale-order-link": {
@@ -59278,6 +59314,12 @@
         "rbpy-rb-0.10.14.tar.gz"
       ]
     },
+    "0.10.15": {
+      "sdist": [
+        "hvwIazEoVbd3xuq4bPb+2fH2/1Qltptb5P0qL75nJZE=",
+        "rbpy-rb-0.10.15.tar.gz"
+      ]
+    },
     "0.10.2": {
       "sdist": [
         "AD8y79pcdP5FiOH7qksm9+t2VKLDkC6uDIewCdu5CyM=",
@@ -60408,314 +60450,6 @@
     }
   },
   "reynir": {
-    "0.1.4": {
-      "sdist": [
-        "tjYysa4BqYUo6iVXhg/olK2OqN7Dv15O3NQ1MxbwqxQ=",
-        "reynir-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "reynir-0.1.4-cp35-cp35m-manylinux1_x86_64.whl": [
-          "cOPuZd1ZxKqp1wbOVoaqwATUAGr73OxI5laofT1o5oU=",
-          "cp35"
-        ],
-        "reynir-0.1.4-cp36-cp36m-manylinux1_x86_64.whl": [
-          "0ZwmPm3obPzp6Mj8u3yhAFDC/ywwjA2LrGjecD3fNmo=",
-          "cp36"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "rLpp6a55pAGgdGQ28wf/vt4W4CEjJ7YdFhPkgMJcox0=",
-        "reynir-0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "reynir-0.1.5-cp34-cp34m-manylinux1_x86_64.whl": [
-          "bju2QHv3ZnjeouWVian5TRPbxZh0ANJneN3o43WCIRk=",
-          "cp34"
-        ],
-        "reynir-0.1.5-cp35-cp35m-manylinux1_x86_64.whl": [
-          "Bw+/74nR6dO4puFPeAlZifo9OXWrdtygDM5LIQsRxyI=",
-          "cp35"
-        ],
-        "reynir-0.1.5-cp36-cp36m-manylinux1_x86_64.whl": [
-          "HgGYiF/2wcfv+zt3JfClH3k/3MpIxD1dFPnzSu9fDiI=",
-          "cp36"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "xj4IAzHU+c/I3mtZ0i2LHCyoPiacPS6k2vvfZiKKpd8=",
-        "reynir-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "reynir-0.1.7-cp34-cp34m-manylinux1_x86_64.whl": [
-          "IzAzdsMdpQjdkK+m3sxIOWJRdw3mRMONu2wAFBcQcKI=",
-          "cp34"
-        ],
-        "reynir-0.1.7-cp35-cp35m-manylinux1_x86_64.whl": [
-          "k/MSvJId0XVZHtEMxVwBzBkeu/2YQgadcuATcsF+A5U=",
-          "cp35"
-        ],
-        "reynir-0.1.7-cp36-cp36m-manylinux1_x86_64.whl": [
-          "PLFzXkfu0EyMSRwjMwtEvnA3DiVgYDt4edL30OB1Kt8=",
-          "cp36"
-        ]
-      }
-    },
-    "0.1.8": {
-      "sdist": [
-        "ZLy3GKLRCokj37cY4XNVs9EW9VndvoHEFX+ovA0fqDw=",
-        "reynir-0.1.8.tar.gz"
-      ],
-      "wheels": {
-        "reynir-0.1.8-cp34-cp34m-manylinux1_x86_64.whl": [
-          "HeJ4TF7PSqIt1KzEb0E2IyGcUDBehtwNNCAR55CXzpM=",
-          "cp34"
-        ],
-        "reynir-0.1.8-cp35-cp35m-manylinux1_x86_64.whl": [
-          "ylsL602uxFNxZ424qXZsnek/DIfk2OMsHW1C38i7vME=",
-          "cp35"
-        ],
-        "reynir-0.1.8-cp36-cp36m-manylinux1_x86_64.whl": [
-          "wuYz7/zvklPzi8Apgtjft2DRzy1OPyPHlJqGhuerO18=",
-          "cp36"
-        ]
-      }
-    },
-    "0.1.9": {
-      "sdist": [
-        "EIz56dpPvrFBgfnDA6B/+Hm0eUYlNQ6D9Gn2gqs64mw=",
-        "reynir-0.1.9.tar.gz"
-      ],
-      "wheels": {
-        "reynir-0.1.9-cp34-cp34m-manylinux1_x86_64.whl": [
-          "+l5tS7ILWAL6OZxczPbT+9sjpMvBSG4/FpO+n3dyOUs=",
-          "cp34"
-        ],
-        "reynir-0.1.9-cp35-cp35m-manylinux1_x86_64.whl": [
-          "a2fvaU1jxIyEFeild++2wOpQGfj50Zeb/PT4YYqadgM=",
-          "cp35"
-        ],
-        "reynir-0.1.9-cp36-cp36m-manylinux1_x86_64.whl": [
-          "bEO9DmEdfE6Ds5LcVTXcyQ7cNgGV4uHOvCXk5WwyhE8=",
-          "cp36"
-        ]
-      }
-    },
-    "1.0.1": {
-      "sdist": [
-        "ZxtHBApThAqeeywUe5Nlch1zQ36D9y2/gL7Yx1PjLLg=",
-        "reynir-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "reynir-1.0.1-cp34-cp34m-manylinux1_x86_64.whl": [
-          "7uCbt/V8beLQGd6T5FsnVOGPIunkOfXXgBvxLDVMj+Q=",
-          "cp34"
-        ],
-        "reynir-1.0.1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "NQicXW74ybLcYAwJRx4kG/RNratKnFPXa4NVuGJtEug=",
-          "cp35"
-        ],
-        "reynir-1.0.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "7/To2SExH+MJYRjyVtI+D2WyYIq64qucHKusrVjKNZs=",
-          "cp36"
-        ]
-      }
-    },
-    "1.0.2": {
-      "sdist": [
-        "WS7J7dtiMo1kd8WbIyaSZAXQCetdP4D0u237OCfAQQ8=",
-        "reynir-1.0.2.tar.gz"
-      ],
-      "wheels": {
-        "reynir-1.0.2-cp34-cp34m-manylinux1_x86_64.whl": [
-          "ERyW73OQ7m6oDPArjEJyWOMJzL3R+44U1GVHReGmnk4=",
-          "cp34"
-        ],
-        "reynir-1.0.2-cp35-cp35m-manylinux1_x86_64.whl": [
-          "NQwQssp1U8ad1M9jSbFFoUgvt9xS9Ie2FEtvu17cFnc=",
-          "cp35"
-        ],
-        "reynir-1.0.2-cp36-cp36m-manylinux1_x86_64.whl": [
-          "KaovOwRmiwbZ3TLzBWXFcutJnkyoSVCzeaSdshpWZiM=",
-          "cp36"
-        ]
-      }
-    },
-    "1.0.3": {
-      "sdist": [
-        "cFjgBN9U7x51Hd6BluZmlNhR1DZnQ2o0T7tkXI0TU68=",
-        "reynir-1.0.3.tar.gz"
-      ],
-      "wheels": {
-        "reynir-1.0.3-cp34-cp34m-manylinux1_x86_64.whl": [
-          "G9XIFHJXco5bSNmseyIQmwqQrfZS54NY4rWF7UdMDMg=",
-          "cp34"
-        ],
-        "reynir-1.0.3-cp35-cp35m-manylinux1_x86_64.whl": [
-          "OnFMieIgQfIp6JQ+XAEuim8chzJKv6l5pyrzaWODyWU=",
-          "cp35"
-        ],
-        "reynir-1.0.3-cp36-cp36m-manylinux1_x86_64.whl": [
-          "DdMZbLw8yXiwgwsmtvHzhg/t3P0Z1Dm5S02YTfPTe90=",
-          "cp36"
-        ]
-      }
-    },
-    "1.0.4": {
-      "sdist": [
-        "FiJFMAgJLZYuFu+2JSvzcr7XLwA/qX7OU6oDVTEEsEU=",
-        "reynir-1.0.4.tar.gz"
-      ],
-      "wheels": {
-        "reynir-1.0.4-cp34-cp34m-manylinux1_x86_64.whl": [
-          "hv70yRpa7/CypRl4OMQzW70LVmKN5b0TtXklWcOqXpM=",
-          "cp34"
-        ],
-        "reynir-1.0.4-cp35-cp35m-manylinux1_x86_64.whl": [
-          "5LsHUa/+jOCuE4YWgqdT3T1YAafMhPkpreosIo553nw=",
-          "cp35"
-        ],
-        "reynir-1.0.4-cp36-cp36m-manylinux1_x86_64.whl": [
-          "6M8RBBytX9e0Ru4ucw25ilwrHgU+ioioCQ19elZwIwI=",
-          "cp36"
-        ]
-      }
-    },
-    "1.1.0": {
-      "sdist": [
-        "bre73divayGxCDyDXtEeHrXl0/Dr1QVqxo7Yn+hsim0=",
-        "reynir-1.1.0.tar.gz"
-      ],
-      "wheels": {
-        "reynir-1.1.0-cp34-cp34m-manylinux1_x86_64.whl": [
-          "svTfg2YkpbtxJuA1WdumYWNwM0RiiHKZwuUgEUpuv3Q=",
-          "cp34"
-        ],
-        "reynir-1.1.0-cp35-cp35m-manylinux1_x86_64.whl": [
-          "cYPKPK21bQHcgfZCKssYjJVvagMB6EdFiPKlIy45Cyc=",
-          "cp35"
-        ],
-        "reynir-1.1.0-cp36-cp36m-manylinux1_x86_64.whl": [
-          "CUYUxtjfotVRWTsrtJ2ApWS22kM43wfrhsBeL3dArAE=",
-          "cp36"
-        ]
-      }
-    },
-    "1.1.1": {
-      "sdist": [
-        "PZGUwMOg97dCc3rHvWdKSThYDHOftf8datQI3OQve+U=",
-        "reynir-1.1.1.tar.gz"
-      ],
-      "wheels": {
-        "reynir-1.1.1-cp34-cp34m-manylinux1_x86_64.whl": [
-          "0//YZ1k6K8Z8dozCPZsEHVbXQk4dujsw3UCbkVeIaA4=",
-          "cp34"
-        ],
-        "reynir-1.1.1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "PmicaevYBnViQvVK9LOsbIVr8FwV+WQwZIjrgdCZEqs=",
-          "cp35"
-        ],
-        "reynir-1.1.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "Ky6g4pjWNYkhfw89qMGH89hovI+Fwt1MzCQIVumAB5s=",
-          "cp36"
-        ]
-      }
-    },
-    "1.1.2": {
-      "sdist": [
-        "YW5L2F/nE0ofQ7hbaaVO9MRRclJqt9bfdejbz18+2EM=",
-        "reynir-1.1.2.tar.gz"
-      ],
-      "wheels": {
-        "reynir-1.1.2-cp34-cp34m-manylinux1_x86_64.whl": [
-          "4uuj+1NNBdYQma+rraEvAM/H92RcRIb3YhC2SfeKbBM=",
-          "cp34"
-        ],
-        "reynir-1.1.2-cp35-cp35m-manylinux1_x86_64.whl": [
-          "1HfAoXmhevpb9mXIVKluOjEzz5SQEPWIN2srkyyj3Wo=",
-          "cp35"
-        ],
-        "reynir-1.1.2-cp36-cp36m-manylinux1_x86_64.whl": [
-          "HQLc6xEYo5cQ6Od4igFTYnZNxPM0iQzH2c/0g9SvdFM=",
-          "cp36"
-        ]
-      }
-    },
-    "1.1.3": {
-      "sdist": [
-        "hxM6zi7QsHIs6tBh1NwTGWU/r/xpWhHkX+EqiujmErc=",
-        "reynir-1.1.3.tar.gz"
-      ],
-      "wheels": {
-        "reynir-1.1.3-cp34-cp34m-manylinux1_x86_64.whl": [
-          "amsqM2V04e7Y9xRBa6WaihJsT9ZhrjRzZu3vN6GWJRk=",
-          "cp34"
-        ],
-        "reynir-1.1.3-cp35-cp35m-manylinux1_x86_64.whl": [
-          "kAN4QddqhMg9297hHZh+UGieSp7TyXnpz8jzK1CWBIE=",
-          "cp35"
-        ],
-        "reynir-1.1.3-cp36-cp36m-manylinux1_x86_64.whl": [
-          "X1nMmjiOxL09CzLZegJ+B4SgK4wpRo09Scu9VTpUtgY=",
-          "cp36"
-        ],
-        "reynir-1.1.3-cp36-cp36m-win_amd64.whl": [
-          "QB2o0+EUogzyst4KzqMmb0W0qffZEGoFQBvsGzXsXL4=",
-          "cp36"
-        ]
-      }
-    },
-    "1.1.4": {
-      "sdist": [
-        "mWQMyrei/9L3aC2XNdkA00d5tHI4LK0LEFa20fI1gjA=",
-        "reynir-1.1.4.tar.gz"
-      ],
-      "wheels": {
-        "reynir-1.1.4-cp34-cp34m-manylinux1_x86_64.whl": [
-          "DN7yWCIuJi6T8sjYnMjFiIh//R10lnKR6LdU/4nQCcI=",
-          "cp34"
-        ],
-        "reynir-1.1.4-cp35-cp35m-manylinux1_x86_64.whl": [
-          "0xGb4XpJEjYcJV7UCkFOL9IBH8Ea+QdrrVN3dxobTjY=",
-          "cp35"
-        ],
-        "reynir-1.1.4-cp36-cp36m-manylinux1_x86_64.whl": [
-          "VvE0BgHT+XAvxHGciHXBcPkj5BcbElRZMZ2P49bGM2E=",
-          "cp36"
-        ],
-        "reynir-1.1.4-cp36-cp36m-win_amd64.whl": [
-          "1KLmX8DsJeUV0lfNhZnXMhHs4ZVxr5hK0pYpBVmkpP8=",
-          "cp36"
-        ]
-      }
-    },
-    "1.1.5": {
-      "sdist": [
-        "ugu5MegyqukfQxXwlJBPG2EVd5fJ9Q8DfhZVy5ME0Jc=",
-        "reynir-1.1.5.tar.gz"
-      ],
-      "wheels": {
-        "reynir-1.1.5-cp34-cp34m-manylinux1_x86_64.whl": [
-          "Wz5xBQICaNRc2nt+K3PlkYx0MNilF3MZKnNbQ7EFzPQ=",
-          "cp34"
-        ],
-        "reynir-1.1.5-cp35-cp35m-manylinux1_x86_64.whl": [
-          "2CnIzdtSyhlqsm6SZMvjtT6FmUJhspPfEf1us4yI9Ys=",
-          "cp35"
-        ],
-        "reynir-1.1.5-cp36-cp36m-manylinux1_x86_64.whl": [
-          "lYZ5FV8vdTJ16Toi78UXD3KAr8pLrkWERYF/EzYaglo=",
-          "cp36"
-        ],
-        "reynir-1.1.5-cp36-cp36m-win_amd64.whl": [
-          "5ODTeBWVoQLhpt7As2tWLjB322zfYJOUiOHQ/iSscsM=",
-          "cp36"
-        ]
-      }
-    },
     "1.2.0": {
       "sdist": [
         "FtA2FcB2Wt+sKJDe+Vi1wtVg3TcJavPY9fOQs5O9TV0=",
@@ -61368,6 +61102,70 @@
         ],
         "reynir-2.10.0-pp37-pypy37_pp73-manylinux1_x86_64.whl": [
           "BIJDiQFdyFHRV92WW5/a79A0KgRY+AHmw04NwFZ368w=",
+          "pp37"
+        ]
+      }
+    },
+    "2.10.1": {
+      "sdist": [
+        "2YegE9/rwOoOo4NF/LSfGvzCA8fmdjq1ooxtUbTxcBY=",
+        "reynir-2.10.1.tar.gz"
+      ],
+      "wheels": {
+        "reynir-2.10.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "inF4MM6RMktY+0KXciJd80ed44rmtsZ6WbkWW3SNklM=",
+          "cp36"
+        ],
+        "reynir-2.10.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "6xcyAEK21vCL1e/xR0609CGJby+c8p3X1vbpLtMolTE=",
+          "cp36"
+        ],
+        "reynir-2.10.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "5VnHllFjDsiF1EQiEzPDaB+OkNzcXxo1kDfxc0j+bV4=",
+          "cp37"
+        ],
+        "reynir-2.10.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "rrkaXdsPRds/Oy9abWsmgO+EQFOrwy5c1F10hMZfCXU=",
+          "cp37"
+        ],
+        "reynir-2.10.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "J8aSPxWOj1qBO8p50J8bIqbOuYQDeA0eBJEgej8EbD8=",
+          "cp38"
+        ],
+        "reynir-2.10.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "E6zhK0myedWzrGyofrf6GV2xb+jNnOu8J1E7XVdMvDk=",
+          "cp38"
+        ],
+        "reynir-2.10.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "mnD1SCGUzhmJHubtADAguZ3VN5LwYiYgOeq7wApYdXw=",
+          "cp39"
+        ],
+        "reynir-2.10.1-cp39-cp39-manylinux2010_x86_64.whl": [
+          "RGEFQWdWuJs5yMywbBsf4bia7/ENLb/W0kZKqQnw2Pg=",
+          "cp39"
+        ],
+        "reynir-2.10.1-pp36-pypy36_pp73-manylinux1_x86_64.whl": [
+          "shHjJu/+d7qdvxEqsHrcGbXfKL4e32SkFWB93Bk9pSM=",
+          "pp36"
+        ],
+        "reynir-2.10.1-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "sLGUXK1RWQSbRdZbK7Z7zJQn2ySNLcpXIRrQ3ZvyhD4=",
+          "pp36"
+        ],
+        "reynir-2.10.1-pp36-pypy3_72-manylinux1_x86_64.whl": [
+          "5phovEG1ZMrXiiLgM7ZHQg5hB91lp5ubL3A8l8xJJpU=",
+          "pp36"
+        ],
+        "reynir-2.10.1-pp36-pypy3_72-manylinux2010_x86_64.whl": [
+          "bSSYJzeyRRq0Q4C04nH6ZcclnNc3P1vVlFLuYLm8iwg=",
+          "pp36"
+        ],
+        "reynir-2.10.1-pp37-pypy37_pp73-manylinux1_x86_64.whl": [
+          "jn9Tx715CKNEAO8Al8nYVVzaaNZzVY+mTtBhysoCQII=",
+          "pp37"
+        ],
+        "reynir-2.10.1-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "vgi9X+W/QEw6OPk2MYK1pD8xwie/lcfA86kHMzjUegE=",
           "pp37"
         ]
       }
