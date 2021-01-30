@@ -2469,6 +2469,20 @@
       }
     }
   },
+  "autoforecast": {
+    "0.0.1": {
+      "sdist": [
+        "Tgjy181xtOD3yoFsgbYZ3a76AqdHKzoK7bVyXXw5T5Q=",
+        "autoforecast-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "autoforecast-0.0.1-py3-none-any.whl": [
+          "PgCV4fcFzEVllyl65qzZjFhP5ZByUTsTAzd3Fd/WYCI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "automate-arduino": {
     "0.9": {
       "sdist": [
@@ -3076,6 +3090,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_iot_lambda-1.83.0-py3-none-any.whl": [
           "AQfY7gH4vC4+47Z2CKhr+14IElf6PF4YcX6if2BoDvM=",
+          "py3"
+        ]
+      }
+    },
+    "1.84.0": {
+      "sdist": [
+        "M1M5DA0MJ1gXXp3P0Z1NmV4rF18vaUao2PeZeWlxLvQ=",
+        "aws-solutions-constructs.aws-iot-lambda-1.84.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_iot_lambda-1.84.0-py3-none-any.whl": [
+          "VfScjEg35U1r2Irtn4A7Ra8PWQl1X03AU6anwMoI2FQ=",
           "py3"
         ]
       }
@@ -51614,6 +51640,18 @@
         ]
       }
     },
+    "1.16.63.0": {
+      "sdist": [
+        "765fa+K1jIYB7xfgaI7W3xtXVj6JmfNDIdeqKE8Aq9M=",
+        "mypy-boto3-lakeformation-1.16.63.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lakeformation-1.16.63.0-py3-none-any.whl": [
+          "P9hIt/EUz4s4H09et5CNPhdd5cp3sqRRok0H9FiUlmE=",
+          "py3"
+        ]
+      }
+    },
     "1.16.7.0": {
       "sdist": [
         "uX6SXk1ccvn61i34gDpYnqYhOA9z05w/FKTRdQUvhzk=",
@@ -61148,6 +61186,12 @@
         "pulumi_dnsimple-2.4.3.tar.gz"
       ]
     },
+    "2.5.0": {
+      "sdist": [
+        "eKvrgrNd8aXxy9TFYej2urN+1UrIVikPkMMKo20QePo=",
+        "pulumi_dnsimple-2.5.0.tar.gz"
+      ]
+    },
     "2.5.0a1606152024": {
       "sdist": [
         "RufJ6SEHrk9MynQfBW7NRZr7vkdge5vZIq0KpZe4N34=",
@@ -69044,23 +69088,23 @@
     }
   },
   "pyscp": {
-    "1.0.19": {
+    "1.0.21": {
       "sdist": [
-        "HybP2FnGghoivlsOD+vKlI3O5O6jwkVRZTVvGHuK1hM=",
-        "pyscp-1.0.19.tar.gz"
+        "+sRMa3uhoK/Yfgth3psB3RHPWOh3rrVaxnE+7BP5zGA=",
+        "pyscp-1.0.21.tar.gz"
       ]
     },
-    "1.0.20": {
+    "1.0.22": {
       "sdist": [
-        "TrzNL5SJazMVHdXI+PdfJu9HZZ84n6JNDrxNJmCxiIg=",
-        "pyscp-1.0.20.tar.gz"
-      ],
-      "wheels": {
-        "pyscp-1.0.20-py3-none-any.whl": [
-          "gWvLOZj7958hY0wtjkr4tbRhz8q/2jq7hc2gpNPp2w0=",
-          "py3"
-        ]
-      }
+        "/ck0rVes/Ygd28SMN4AUHa41RMpQRDvHKpj+N3N0xZE=",
+        "pyscp-1.0.22.tar.gz"
+      ]
+    },
+    "1.0.23": {
+      "sdist": [
+        "swLe5+s4MZcRg/4owWsuYh5hnHFU1CDnCas85fAkeMA=",
+        "pyscp-1.0.23.tar.gz"
+      ]
     }
   },
   "pysigmakoki": {
@@ -81026,6 +81070,34 @@
         ],
         "tensorflow_text_nightly-2.5.0.dev20210128-cp38-cp38-manylinux1_x86_64.whl": [
           "91tIq2kX9tkUzwQl6SUbuNRBQ2lX9jch7DWG+gx3DC8=",
+          "cp38"
+        ]
+      }
+    },
+    "2.5.0.dev20210129": {
+      "wheels": {
+        "tensorflow_text_nightly-2.5.0.dev20210129-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "RebY4knvQfhC5nXJLDUp9iGFrf/Pr7SpgQLxSLJ5r6s=",
+          "cp36"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210129-cp36-cp36m-manylinux1_x86_64.whl": [
+          "orcfv5DLGcfms39c7cmdX6IdcfVdbUPHxXje8kcr6ys=",
+          "cp36"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210129-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "O3vXR4D6s8//szNOvXXFkvoZBGPW0PW0yLCOnUYk9B0=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210129-cp37-cp37m-manylinux1_x86_64.whl": [
+          "o3EVkbQCgyMsvyLvQm8Ceoe+b8SD7To3lgZceg3bEFA=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210129-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "OUyhcfVzkaR9xjKNL/yuEqaK7eELUNpU7+5rMIk1kDs=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210129-cp38-cp38-manylinux1_x86_64.whl": [
+          "afpG2eNcT2eIM4swuFOkyHxSiktia9HsbLGcxq+6a/4=",
           "cp38"
         ]
       }
