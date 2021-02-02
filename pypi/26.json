@@ -3112,6 +3112,18 @@
         ]
       }
     },
+    "10.1.0": {
+      "sdist": [
+        "rEluQ/6SpDd6N4SM1yAShcAUc4pDzNmrs3+U6FaT6M0=",
+        "atlassian-jwt-auth-10.1.0.tar.gz"
+      ],
+      "wheels": {
+        "atlassian_jwt_auth-10.1.0-py2.py3-none-any.whl": [
+          "7j/9d4lwY/OFLve7jxZJl/4JGAtPT/Xcyc3Ns5Atg48=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.0.0": {
       "sdist": [
         "xBTh9nrXj/SrVo8riD98UgDwMVCpqNf6qosbNGaeJkM=",
@@ -21814,6 +21826,18 @@
       "wheels": {
         "djangocms_plus-0.4.16-py3-none-any.whl": [
           "atD27xhFZxwymXkmdnxqLBpQSK1Iv3go5RSbZViCYYg=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.17": {
+      "sdist": [
+        "NqDq280jdrwFCdfsYGcts0/QkwGBMmraeA1i/oWQ7xw=",
+        "djangocms_plus-0.4.17.tar.gz"
+      ],
+      "wheels": {
+        "djangocms_plus-0.4.17-py3-none-any.whl": [
+          "7jqTy70BYDdqzUDelgpKb/LT04/JRAtHbu2DAhfhdLE=",
           "py3"
         ]
       }
@@ -50185,32 +50209,6 @@
       }
     }
   },
-  "number-helper": {
-    "0.0.1": {
-      "sdist": [
-        "YE7ssFtqmXM1XvbnOm9kmhQ75kVbrj4Dt9hUlNg19VI=",
-        "number-helper-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "number_helper-0.0.1-py3-none-any.whl": [
-          "89uGF/OhhTcPq7HHcsTHGxRn8W+Mpc9zkkHSHVl8w/A=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "jLmyW9wR2zxKp+4YpTBIo9Qd8NPYM7A5b72l2HOlSUA=",
-        "number-helper-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "number_helper-0.0.2-py3-none-any.whl": [
-          "jmZICkXEBxQYNcbmcNNhwplnxbOnvNra9V4PAzYOORg=",
-          "py3"
-        ]
-      }
-    }
-  },
   "nuscenesdevkit": {
     "0.1.1": {
       "sdist": [
@@ -52599,20 +52597,6 @@
         "IiEWU6iSkWzxOfu7j8Ufz7jJPM7PszMHRt4w7MzLZhE=",
         "ok-0.0.0.tar.gz"
       ]
-    }
-  },
-  "onedrive-ignore": {
-    "0.0.4": {
-      "sdist": [
-        "ledQALSW1+ef3nWHA4sgzJu2Ocq1zu2bPkYjksr26AI=",
-        "onedrive-ignore-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "onedrive_ignore-0.0.4-py3-none-any.whl": [
-          "4AUiqlgDA4iNyr0+tAzPpZRJdsYtoQnzRDhQyiH7Dvs=",
-          "py3"
-        ]
-      }
     }
   },
   "opencensus-proto": {
@@ -75543,6 +75527,60 @@
         "d9rMh6D7rXSlGGpWzCAeeyisy2ZlGkqh8b97lqf9jTE=",
         "uniquid-0.5.6.tar.gz"
       ]
+    }
+  },
+  "uqoclient": {
+    "1.0": {
+      "sdist": [
+        "MEv2+XtmaluIGcYDjPeL6gCKAxSpRx/SW5K5ecu2+LA=",
+        "uqoclient-1.0.tar.gz"
+      ],
+      "wheels": {
+        "uqoclient-1.0.0-py3-none-any.whl": [
+          "sLHmr09qMrRjDJHBNwg24lzSIWD9WV8rdrs9lLiYagQ=",
+          "py3"
+        ],
+        "uqoclient-1.0-py3-none-any.whl": [
+          "nZXIuVRypA9MP70nAEApKNhrbFewU5xJvi2oJCbtyjs=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "gHjLRx52N2LYayQkEkATABZvg+d/R9woZLWmN76A5l0=",
+        "uqoclient-1.0.1-1.tar.gz"
+      ],
+      "wheels": {
+        "uqoclient-1.0.1-1-py3-none-any.whl": [
+          "yfoVOeYJVxRipnz0ukn7tltlOBH0up9rq/Howl5Ocps=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "uEw0xQSag4jClqqq1BOL8cfcjk4GRtIIsCxanpKxSd8=",
+        "uqoclient-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "uqoclient-1.0.2-py3-none-any.whl": [
+          "qMxhn/5Hz0xUxcgTWjXc00IY6Acoam00Yvs6k5b8nA8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "ztbVHHVpMc8tarSYkUSYXUv1SOFtzM1uWtkWzkD97b4=",
+        "uqoclient-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "uqoclient-1.0.3-py3-none-any.whl": [
+          "hCZZGtvzmDv4Mj1FaNYRNaAhFroUxZB7C9m/hh1zbRI=",
+          "py3"
+        ]
+      }
     }
   },
   "uranuspy": {
