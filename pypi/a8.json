@@ -3279,6 +3279,18 @@
           "py3"
         ]
       }
+    },
+    "1.88.0": {
+      "sdist": [
+        "BPcjQp+haWwgSO2vYDSYupwxiOk4PbHdvmFt3K+kkgI=",
+        "aws-cdk.aws-appconfig-1.88.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_appconfig-1.88.0-py3-none-any.whl": [
+          "OJrAp4FOBUbDlE30CtMhvj7ED7T1YeNBWBymib0aFRo=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-helpers": {
@@ -8786,6 +8798,18 @@
       "wheels": {
         "boto3-1.17.0-py2.py3-none-any.whl": [
           "tIYPVrxYXT0f3pDSiNpetNEZhAHXIgHcPiXeiIewgOI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.17.1": {
+      "sdist": [
+        "WKRA9MlqHy8HZXfHCFI3hUum20GnyR5KM/swBo+NRpI=",
+        "boto3-1.17.1.tar.gz"
+      ],
+      "wheels": {
+        "boto3-1.17.1-py2.py3-none-any.whl": [
+          "KQpZMktm+YLfUC00CAJmYiOBdv2cOy4VJZ+g0qRZrxQ=",
           "py2.py3"
         ]
       }
@@ -31100,6 +31124,18 @@
         ]
       }
     },
+    "0.4.1": {
+      "sdist": [
+        "txvWbYjvUokXJMj4nj0cSMpQipcl5qfZQ98lkOLS/Ys=",
+        "gcp-docuploader-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "gcp_docuploader-0.4.1-py3-none-any.whl": [
+          "ChIYFMLrLccKtiGYsGQIW01dEv8eEDUjy5XJETm8zQM=",
+          "py3"
+        ]
+      }
+    },
     "2019.3.5": {
       "sdist": [
         "fh4FV7iIA/Q1Xbe2n+kdpW8lVyYzz5xSwFiR0gyJgmQ=",
@@ -34684,6 +34720,12 @@
       "sdist": [
         "HiqP0xsuowlLWQnmyN9zATNFlIt/u+PtA3ODNIFP41c=",
         "ICPy-0.0.4.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "fNP3AA+uSTGn5sFJX2psWbIDI1Ylr2XKLZ5cVd/rZ4E=",
+        "ICPy-0.0.5.tar.gz"
       ]
     }
   },
@@ -46062,6 +46104,18 @@
       "wheels": {
         "mypy_boto3_application_insights-1.17.0.0-py3-none-any.whl": [
           "cP0GsSkMvv1iM78ltJjBE+60LJV4eeD0nI27zlVt5hg=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.1.0": {
+      "sdist": [
+        "41h8gqgO67ni4WCI4c7PeSyeS9hGnBwrfBv/EtyslxI=",
+        "mypy-boto3-application-insights-1.17.1.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_application_insights-1.17.1.0-py3-none-any.whl": [
+          "BZ+4zlPnfncg1RwYPdNeXeM3azHP0jcnk2TKaCfNcc8=",
           "py3"
         ]
       }
@@ -69813,104 +69867,6 @@
         "iTgPrjA3hHbRjwND48djYQ6ybenFHoCIInOoJPP2vhY=",
         "smartgarden_x-0.4.0.tar.gz"
       ]
-    }
-  },
-  "smush": {
-    "0.0.1": {
-      "sdist": [
-        "ReV81ZxH9T3NebykzEZGtYTzcErvQoWdVqi3kkWvMeI=",
-        "smush-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "smush-0.0.1-py3-none-any.whl": [
-          "CPvaw3miiYjs6vAGgg0ToV1yn9W2d0o3tGUoh+Vbr74=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "GxWZeT2F0ym+pUdxEK6o0zVkXk0BEfghhPaYPN1WJlw=",
-        "smush-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "smush-0.0.2-py2-none-any.whl": [
-          "oQKqXYJ9xFTJymyioLV+arZKHUkmjOWXFsQDBFQAJBw=",
-          "py2"
-        ],
-        "smush-0.0.2-py3-none-any.whl": [
-          "n8BeMsUolU5aHyroolqKyujcTgmc8/v0bYTTmIS7Z4Y=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "wzqyRlVXAF7HES3V5BZytSp43s6Jn3FoaZ8oRmvHExU=",
-        "smush-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "smush-0.0.3-py2-none-any.whl": [
-          "Jhce5TlnuiC6jqKIPSdJrpjObHpSPc4CEbVuHuHRcCc=",
-          "py2"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "utaXzZofqXdRELwLq3fVz9IxaezrgAkK9DNDjaHfSWc=",
-        "smush-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "smush-0.0.4-py2-none-any.whl": [
-          "WZqJPj0bFkmwvJaWS+grp4UJNbJ/ANOojPs2KH8IRX0=",
-          "py2"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "heM41VscT9pEI1QlZH0hfrlNYMmvl9HS4zOUUQPMcBw=",
-        "smush-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "smush-0.0.5-py2-none-any.whl": [
-          "uKLArpmkdGa7qmk/s+fC8yHlJBkZrb5G3gnGFCT1ZuM=",
-          "py2"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "jgPBnDNPXBSoXYit5Yx6IyzctH+0RjB9sRcrUGPZAj0=",
-        "smush-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "smush-0.0.6-py2-none-any.whl": [
-          "MvJIFwYaz+7x26H8bDrxZS+UrEmFpmsG2peI2WPBbts=",
-          "py2"
-        ],
-        "smush-0.0.6-py3-none-any.whl": [
-          "rfueaQ/zwKVT1YsB1Vz1SymFau6bZl5KeyGy9lsDKyw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "h3AiJg+Y2r8WbAhiHq/IDJywdZHH4M9rFGTPtOFpDQY=",
-        "smush-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "smush-0.0.7-py2-none-any.whl": [
-          "bgRvOSpGNAKs+4Da9rENfykyXz7dap4WN/a2zEZBWP4=",
-          "py2"
-        ],
-        "smush-0.0.7-py3-none-any.whl": [
-          "WTpXJYYBr0nhDKCvTygbS/W9EjD1rmAIE5K+4XZ9QZE=",
-          "py3"
-        ]
-      }
     }
   },
   "snowflakeconnectorpython": {
