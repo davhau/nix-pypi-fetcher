@@ -3061,6 +3061,44 @@
           "py3"
         ]
       }
+    },
+    "2.0.1rc1": {
+      "sdist": [
+        "haA7Z2gNxC6cJNlS5ASkspqmBLaVFxmr4DWVGl3Y1Hk=",
+        "apache-airflow-2.0.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow-2.0.1rc1-py3-none-any.whl": [
+          "SpvPGr4BME7jMBhmyBH22GXKjn/pIPgXgF90QxKxDas=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.1rc2": {
+      "sdist": [
+        "kwPfJXqtkVPTlGTQfpGqXsQhlSTjCF9oUvTbP797Jig=",
+        "apache-airflow-2.0.1rc2.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow-2.0.1rc2-py3-none-any.whl": [
+          "reN90Sky9gvX2qE0qG5jdsLeE43TOFv9xoAXt1A2E2A=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "apache-airflow-backport-providers-apache-beam": {
+    "2021.2.5rc1": {
+      "sdist": [
+        "NmSnJu2CtrrZXBw6ZmW9HQeFxFELZRNOGhQgFjgTWls=",
+        "apache-airflow-backport-providers-apache-beam-2021.2.5rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_apache_beam-2021.2.5rc1-py3-none-any.whl": [
+          "Sr1RSN6rLIOccst+zReYi3MTcSPs8ecxeK4r0h4+5ZY=",
+          "py3"
+        ]
+      }
     }
   },
   "apexpy": {
@@ -15057,6 +15095,18 @@
           "py3"
         ]
       }
+    },
+    "2.8.6": {
+      "sdist": [
+        "O+laLKFhA9UNraC9x6X1vQd6Nh0/KgHGSzznV91yVxE=",
+        "cognite-air-sdk-2.8.6.tar.gz"
+      ],
+      "wheels": {
+        "cognite_air_sdk-2.8.6-py3-none-any.whl": [
+          "Lo+5YXZv0xpUrDAyMYojL/0kNnKcORHfX7pxZh2bcqM=",
+          "py3"
+        ]
+      }
     }
   },
   "cohere": {
@@ -15080,6 +15130,18 @@
       "wheels": {
         "cohere-0.0.2-py3-none-any.whl": [
           "rViYDumFWoB45+wjs5pgChtLiDDYBCiB/vZ9sQWk+I4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "bIxFcP4OLJuUdN8lsX+s1dG1ILNdwFeCwuHbj8moPHI=",
+        "cohere-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "cohere-0.0.3-py3-none-any.whl": [
+          "yC/VvUpFOSJ4KkfRMPt73mWcy7wWS+ws38jrH/OOcF8=",
           "py3"
         ]
       }
@@ -20401,6 +20463,24 @@
         "deepmini-0.0.1-py3-none-any.whl": [
           "3qukmxOS/w8f//08Z1riKZ6x03esQ8dp7IrHScfIaVU=",
           "py3"
+        ]
+      }
+    }
+  },
+  "deepsparse-nightly": {
+    "0.1.0.20210204": {
+      "wheels": {
+        "deepsparse_nightly-0.1.0.20210204-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "Md6jXoAXOkAivDpHbe/vHezPXPSRWPHzgtw4xAWB/JE=",
+          "cp36"
+        ],
+        "deepsparse_nightly-0.1.0.20210204-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "4HS7zuF2/W6aJT6hX7k7mBo+9/7x33wFmJVqiWf+stk=",
+          "cp37"
+        ],
+        "deepsparse_nightly-0.1.0.20210204-cp38-cp38-manylinux2014_x86_64.whl": [
+          "V02RnVihx+JLo2xT9U+NzqaFEWPzRjWGV4PCpKZ4ZZc=",
+          "cp38"
         ]
       }
     }
@@ -46288,6 +46368,14 @@
       "sdist": [
         "fzHx832vJTeRFCGbL5rEwRW9DWuqLp36TFw2v7ebg9s=",
         "mess_server-0.8.9.tar.gz"
+      ]
+    }
+  },
+  "message-client-tchka": {
+    "1.0.0": {
+      "sdist": [
+        "51Q6IQYMT7XIuN4LzH9uXzbDh0ZxPsKr5BIPITdl25E=",
+        "message_client_tchka-1.0.0.tar.gz"
       ]
     }
   },
@@ -73068,6 +73156,12 @@
         "sparkmagic-0.17.1.tar.gz"
       ]
     },
+    "0.18.0": {
+      "sdist": [
+        "YJOHVGafEuOx1pHNe7SSY5w9wbb/NjYCr1RPMmnoFow=",
+        "sparkmagic-0.18.0.tar.gz"
+      ]
+    },
     "0.2.0": {
       "sdist": [
         "CXXRwFSFFCdZxrVwJr9g9qcYF0mrqJsQIwsKsR/UpdQ=",
@@ -77260,6 +77354,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cfs-3.0.339-py2.py3-none-any.whl": [
           "ZETWFaEXVBW/AZ/h7fD1pDEIbBluPumz85Pa8QhYGA4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.340": {
+      "sdist": [
+        "FDbJ/iUgDlSw4uFcNXXn6WrcQtAMWGh8UVE2LwNAii8=",
+        "tencentcloud-sdk-python-cfs-3.0.340.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cfs-3.0.340-py2.py3-none-any.whl": [
+          "wquqIm3SvgAr0ZGcSr+/5RKyXK6F2yaMihxxxf74nXM=",
           "py2.py3"
         ]
       }

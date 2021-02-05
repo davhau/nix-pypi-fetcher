@@ -2469,6 +2469,18 @@
           "py3"
         ]
       }
+    },
+    "2021.2.5rc1": {
+      "sdist": [
+        "h7eiX7P00+sL1yRJNLc1PZCnl22tTo3dNCpczUxfXww=",
+        "apache-airflow-backport-providers-amazon-2021.2.5rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_backport_providers_amazon-2021.2.5rc1-py3-none-any.whl": [
+          "dPtYpDLX6WZ+PbasoVZACFJyugbnrPb9EV8eXTEUb/0=",
+          "py3"
+        ]
+      }
     }
   },
   "apache-airflow-providers-facebook": {
@@ -2519,6 +2531,14 @@
           "py3"
         ]
       }
+    },
+    "1.0.1rc1": {
+      "wheels": {
+        "apache_airflow_providers_facebook-1.0.1rc1-py3-none-any.whl": [
+          "TFL5odZfDmtHxzjaZgnsaGchfRePv45nETspURgm26E=",
+          "py3"
+        ]
+      }
     }
   },
   "apache-airflow-providers-http": {
@@ -2566,6 +2586,14 @@
       "wheels": {
         "apache_airflow_providers_http-1.0.0rc1-py3-none-any.whl": [
           "JzSeR6rDlLdcTFUevsUlzUZTPOjd11FJjADkznZvTQE=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0rc1": {
+      "wheels": {
+        "apache_airflow_providers_http-1.1.0rc1-py3-none-any.whl": [
+          "iZ+n2ArOxX2nUl6Mu3xwiNI82SBk10SkT5eGP+Q+KX8=",
           "py3"
         ]
       }
@@ -8810,6 +8838,18 @@
       "wheels": {
         "casq-0.9.6-py3-none-any.whl": [
           "mqgzJHp9XHTVOrnpgwrnKCx3UN/jg1D8zpbrKLFp7wA=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.7": {
+      "sdist": [
+        "ukX3TAwUlO8KSOv9BbNCwXV9ehOUe0/jkP73g4dEDQA=",
+        "casq-0.9.7.tar.gz"
+      ],
+      "wheels": {
+        "casq-0.9.7-py3-none-any.whl": [
+          "z4Yb/4Pbxjqi0oTw9ulxk/Ta8w8YFmn8Akfntj5zrqo=",
           "py3"
         ]
       }
@@ -40681,6 +40721,70 @@
           "cp38"
         ]
       }
+    },
+    "2.5.2": {
+      "sdist": [
+        "P3SflXANQCHB7uO7i7ZXGx6QLxNMzu+F08PPXM1FReI=",
+        "MorphIO-2.5.2.tar.gz"
+      ],
+      "wheels": {
+        "MorphIO-2.5.2-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "70PMRRZDrUB/QtYnj9cR7C0icPEB80zTdKNUkC8P70Y=",
+          "cp36"
+        ],
+        "MorphIO-2.5.2-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "VJJI+xvqqxrdGeC9h7cwnoCuX6iZ0V+h2El04S7+WmU=",
+          "cp36"
+        ],
+        "MorphIO-2.5.2-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "YjLUotz0dbM4TfTHn7ldpqDamcZwjfDzjSCWXf7ACAs=",
+          "cp37"
+        ],
+        "MorphIO-2.5.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "P1oOC8CPjV2HaKT8f9fSU3VLOF8Tu83eKc4W+3hdKsM=",
+          "cp37"
+        ],
+        "MorphIO-2.5.2-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "9jGPAS7evlOHKoOV8TYmaKbXNYEVDvuA0/FUZRIf+H4=",
+          "cp38"
+        ],
+        "MorphIO-2.5.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "wZwAZibcUrmWTjJjufgXvegCfJCmt+ao9otPvUHuPZU=",
+          "cp38"
+        ]
+      }
+    },
+    "2.5.3": {
+      "sdist": [
+        "YuFxF8YCI/TMdboc8FiuKD7f1jzYowfOsWXKistraHU=",
+        "MorphIO-2.5.3.tar.gz"
+      ],
+      "wheels": {
+        "MorphIO-2.5.3-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "oVfaYB5uvR2ppuD9O1sMZAiq0/eeiw1GL7VnPRjQL7A=",
+          "cp36"
+        ],
+        "MorphIO-2.5.3-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "DmfT/k030rdZHBALEAKMu5+wuNUVV/ogSvlNLrI3UrU=",
+          "cp36"
+        ],
+        "MorphIO-2.5.3-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "RytHk9iAz1zCysZNhhMnb/nXTsYO1Tf7aLy9LssJZwk=",
+          "cp37"
+        ],
+        "MorphIO-2.5.3-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "Rdeo+BidR7jNP2dBiYNVt258FVC8GXHZTR2sfvBbRwU=",
+          "cp37"
+        ],
+        "MorphIO-2.5.3-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "+dJvFmQaQHaHGYNFWstadrIWWdWrl9dVN60j1sKjh4s=",
+          "cp38"
+        ],
+        "MorphIO-2.5.3-cp38-cp38-manylinux2014_x86_64.whl": [
+          "r7sJTccA3zqEeCD8Qh2QLdror6pFviWLNHWl3KEh+9g=",
+          "cp38"
+        ]
+      }
     }
   },
   "mosindistributions": {
@@ -63114,6 +63218,18 @@
       "wheels": {
         "rll-0.1.3-py3-none-any.whl": [
           "xA3aYgOBnBj6F8A1LVT6nV4Vq7jFIzBruySz6sEFRg8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "8FFtYCWANRf61IgYyJQwzBe9mWM07bu3G1jlF6Gvc4k=",
+        "rll-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "rll-0.1.4-py3-none-any.whl": [
+          "O+3+WzmQqiwV0hV679iCYTb5KTUKSi4BAighKANIZ4A=",
           "py3"
         ]
       }
