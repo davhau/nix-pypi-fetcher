@@ -8704,6 +8704,18 @@
         ]
       }
     },
+    "0.0.19": {
+      "sdist": [
+        "8fDyb8dRliAgPVzeONzfQ/x6ky27BJ32eFdpLHdvYYA=",
+        "cdk-ec2spot-0.0.19.tar.gz"
+      ],
+      "wheels": {
+        "cdk_ec2spot-0.0.19-py3-none-any.whl": [
+          "f4xsrA7t/gGp0rpdma6QbV4z2VyB/0i4VLcyCqjGFyU=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "ExDiZWo9ySX6Wf3SSIXYWv7CWXtZL9USWv8pxazrpE8=",
@@ -21671,6 +21683,34 @@
           "cp38"
         ]
       }
+    },
+    "8.1.0rc1": {
+      "wheels": {
+        "equinor_libres-8.1.0rc1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "5LK+9+H+HmkTpa6PBM9nVTfCl8i1SNzNkJruRyiZG0Q=",
+          "cp36"
+        ],
+        "equinor_libres-8.1.0rc1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "tbiZ+cLYa16pMVwRbLyRDDcJFtplI7cK4M6ZpyKldjg=",
+          "cp36"
+        ],
+        "equinor_libres-8.1.0rc1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "H+uJRBOK3DRSlwOVmHslNQEO5zoAxXvt58EKOhhoY6g=",
+          "cp37"
+        ],
+        "equinor_libres-8.1.0rc1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "IECT7GLIom277rWUjQZlBbDgGKtLxmzux3i9Evo/0xA=",
+          "cp37"
+        ],
+        "equinor_libres-8.1.0rc1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "E3bWKe8OpQjQgVwcUQD1lXr13nOW2f9ZTbv117+a6jQ=",
+          "cp38"
+        ],
+        "equinor_libres-8.1.0rc1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "FrEbXy4nQgHhhmjvsv/0NbvQj52VCIj967CChX4WEFw=",
+          "cp38"
+        ]
+      }
     }
   },
   "esm-full-backup": {
@@ -22500,62 +22540,26 @@
     }
   },
   "expai": {
-    "0.0.6": {
+    "0.0.7": {
       "sdist": [
-        "BE7otHhWGt1fbBG0LfOjZeadPT2HyrnEKavbt3WNKKM=",
-        "expai-0.0.6.tar.gz"
+        "Df0TG/sa/DlnCyp42Y/io1QlmESlhA218p5xSq92CSA=",
+        "expai-0.0.7.tar.gz"
       ],
       "wheels": {
-        "expai-0.0.6-py3-none-any.whl": [
-          "0yZv/15OhMNmVLehMg0MdxiOsZ641K83CTBcNdAMeBw=",
+        "expai-0.0.7-py3-none-any.whl": [
+          "qg+rKz+cABsxQngXQvxsxzBAZRiOUROYlxgj9AIgHXA=",
           "py3"
         ]
       }
     },
-    "0.0.6.1": {
+    "0.0.7.1": {
       "sdist": [
-        "GO0zAg6h+lMxOPKevW9xZ6E5HPaumgItuyfQXw0vY7s=",
-        "expai-0.0.6.1.tar.gz"
+        "2Qc5gakDK4Jkb0wzA5Zyzx3+mkZ4Y6TEwI81PsAXFW8=",
+        "expai-0.0.7.1.tar.gz"
       ],
       "wheels": {
-        "expai-0.0.6.1-py3-none-any.whl": [
-          "VyzTdkbD2SY2F2AXgjXU1lPjP1W+NS0cgl/UR1+be/k=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6.2": {
-      "sdist": [
-        "la2ZgZWSsqL+uxbLK5aa1igpAO5RjYowcZ5aMaHcAdo=",
-        "expai-0.0.6.2.tar.gz"
-      ],
-      "wheels": {
-        "expai-0.0.6.2-py3-none-any.whl": [
-          "0RH88ln9TztFZ3J3Eaeqsd7J1mYOGS5wk+xl4MOD+cY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6.3": {
-      "sdist": [
-        "L8wUUmg5OWS01af887AXPZvoYRnecisp5WOXsZRSpbM=",
-        "expai-0.0.6.3.tar.gz"
-      ],
-      "wheels": {
-        "expai-0.0.6.3-py3-none-any.whl": [
-          "hsyfthmPcsuORFJkciQggF7OL1Cti/+xXxhG3wcSbUk=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6.4": {
-      "sdist": [
-        "oulaR8GTIG11BGfPamfSaS7KwO/1W2W8S4sky26i598=",
-        "expai-0.0.6.4.tar.gz"
-      ],
-      "wheels": {
-        "expai-0.0.6.4-py3-none-any.whl": [
-          "tn6O5sJsnskHlmhvegVJolkJCLU+/vLSLhpnip5vdQs=",
+        "expai-0.0.7.1-py3-none-any.whl": [
+          "g1iDM6BReS3a2VkcmDhIboctByPjDsDcaCpfC44Mq/Y=",
           "py3"
         ]
       }
@@ -24527,6 +24531,18 @@
         "GH0TgIMoosfgF9P9ovHU5nbwM+Y3moTAZHny8rUhShE=",
         "forks-sync-2.0.0.tar.gz"
       ]
+    },
+    "2.1.0": {
+      "sdist": [
+        "cE2m3U5rycanuSMCZc+JuTvnVEWT1PBhI04tjHlHXv4=",
+        "forks-sync-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "forks_sync-2.1.0-py3-none-any.whl": [
+          "xei/bW5hySP6jMXK/+gzmagtfDlc5pOO29TmFIchokU=",
+          "py3"
+        ]
+      }
     }
   },
   "formdy-core": {
@@ -41011,6 +41027,30 @@
           "py3"
         ]
       }
+    },
+    "1.17.2.0": {
+      "sdist": [
+        "VYcwWYy8wx9NfawWYWaxhUPeOz9y6Cp/1J9uuV3w64w=",
+        "mypy-boto3-amplifybackend-1.17.2.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplifybackend-1.17.2.0-py3-none-any.whl": [
+          "3wJFAJsImbJQtKWXL75jSCPaMuzaLtMb/l7m1N6OpcA=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.2.1": {
+      "sdist": [
+        "gn9KurlrSZZSy/hNYM3TUmuONoCblkVwZKm8RAf66yo=",
+        "mypy-boto3-amplifybackend-1.17.2.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_amplifybackend-1.17.2.1-py3-none-any.whl": [
+          "XSGpLXMavgc5mUYeLXDyRVENUto/Urq98kaERN+eBOU=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-sagemaker-a2i-runtime": {
@@ -43974,6 +44014,30 @@
       "wheels": {
         "mypy_boto3_sagemaker_a2i_runtime-1.17.1.0-py3-none-any.whl": [
           "qEjaTtqU1PPgTIa/OgK1+NXdbeCX15O08hRZL5E8qOA=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.2.0": {
+      "sdist": [
+        "rt6lYrUhb2R710RZrdgym1xIPRee/s2Ry9yky++srOg=",
+        "mypy-boto3-sagemaker-a2i-runtime-1.17.2.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sagemaker_a2i_runtime-1.17.2.0-py3-none-any.whl": [
+          "lo4CF8scXbaAjxAxcHPG7OcJU72rPl7Q61g+/LPFXqo=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.2.1": {
+      "sdist": [
+        "i+qE3gIBQHUM5i9L6eaUU6khjGByY+rA5TELzewYloY=",
+        "mypy-boto3-sagemaker-a2i-runtime-1.17.2.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sagemaker_a2i_runtime-1.17.2.1-py3-none-any.whl": [
+          "CJeZe8MlF2IUyn3RWP3tVGtwXHtjjUHeX35Y6tK1kR0=",
           "py3"
         ]
       }
@@ -66084,6 +66148,78 @@
         ],
         "robotpy_halsim_gui-2021.2.1.2-cp39-cp39-win_amd64.whl": [
           "7crtktLHYEBo/erZZEtlPLgVa+u8TMapRkVNFkVUne0=",
+          "cp39"
+        ]
+      }
+    },
+    "2021.2.2.0": {
+      "sdist": [
+        "ppanA63ZZZB7fksOPvfV0/y8RLHeuaMQGmib7tehwdc=",
+        "robotpy-halsim-gui-2021.2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_halsim_gui-2021.2.2.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "rhSKO8W1aA9aU3lxUPiJ4CnDBtOHW+HFEetUoMSt5E0=",
+          "cp36"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp36-cp36m-manylinux_2_27_x86_64.whl": [
+          "t23iGR+2BND7emtf49cRfoP0CynMDiYLaFzTAVAYrUo=",
+          "cp36"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp36-cp36m-win32.whl": [
+          "+jpicRZPvkzxnxW8I98rPVgXl73lWNGY5hFo1Ffau4c=",
+          "cp36"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp36-cp36m-win_amd64.whl": [
+          "6wR86vxx6A3vFBveEyiGt5DjdgpzTeaBDtTCh9QVIXA=",
+          "cp36"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "qTfirVyF/zScVmZzGws5JA2z6Rjss4hmr9X/xRIH71I=",
+          "cp37"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp37-cp37m-manylinux_2_27_x86_64.whl": [
+          "KqwX5K+8ftp3HoQHdDaED1Aahne40pDrrDPs31/caxw=",
+          "cp37"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp37-cp37m-win32.whl": [
+          "nM1kD/Zrsm/HfnrR8+rQ0NKggmAhFRNIbfRF5NeTgx0=",
+          "cp37"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp37-cp37m-win_amd64.whl": [
+          "O2PAT1b3eSHlqa1g8LhGQ5kf0p7sAsM1XSdvHaU0qCk=",
+          "cp37"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "6DBv5lmg1MlDAqfAx+dVX/9u9vGEhJxUc5BX+A120wU=",
+          "cp38"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp38-cp38-manylinux_2_27_x86_64.whl": [
+          "K0Rvy6vyf4GcO1E2gUQxHMYIKc0jlb3Zw9Jus8e2drw=",
+          "cp38"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp38-cp38-win32.whl": [
+          "l6Crq/Xuuo/1jxSetsRkYdXBk3dRv7+jRL+SzKl8/Ow=",
+          "cp38"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp38-cp38-win_amd64.whl": [
+          "PRosSNNPgcMTkmMjVZa/mE1GeKBufn4KoRWM5mmzZVc=",
+          "cp38"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "Am0LbV1T1lvY7pItfjb9KwityKaHyJAPsIVBzbz1P+4=",
+          "cp39"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp39-cp39-manylinux_2_27_x86_64.whl": [
+          "+A/Wt6KACkMzw9R5Hm2QL/7gQfMCz8ei80e8T9Wvg1k=",
+          "cp39"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp39-cp39-win32.whl": [
+          "rVxSeQdUiyskeRKYxt9+9iu1EHA82ZbN2bp3xiZ82JU=",
+          "cp39"
+        ],
+        "robotpy_halsim_gui-2021.2.2.0-cp39-cp39-win_amd64.whl": [
+          "+LPjOxshjm7FLyN82ykQJb5nseXnEbGqls+r6UGctZA=",
           "cp39"
         ]
       }

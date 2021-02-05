@@ -8182,6 +8182,18 @@
         ]
       }
     },
+    "0.1.37": {
+      "sdist": [
+        "r7n2DhOC1kTn34R5Ga6zCN/JApBCpg41a4EvtNoYguQ=",
+        "cdk-lambda-extensions-0.1.37.tar.gz"
+      ],
+      "wheels": {
+        "cdk_lambda_extensions-0.1.37-py3-none-any.whl": [
+          "CgWN7NqrHJPT83YbnBDQvy/ipzRSMBYQwgA8LY6Tsn4=",
+          "py3"
+        ]
+      }
+    },
     "0.1.4": {
       "sdist": [
         "b3PSXRFvnGWiX1U0gJhbLUcRZtgKqx3nF0HoQkjE40I=",
@@ -33311,6 +33323,12 @@
         "CgzKFzr7pBiZizQnSJ7RFPK5jTjwSWxSXysLfb/7zu4=",
         "metacatalog-0.2.8.tar.gz"
       ]
+    },
+    "0.2.9": {
+      "sdist": [
+        "PN0L/p6l79bkrbFjAXl5MWHLPm0dzWW96MGGufUu1mU=",
+        "metacatalog-0.2.9.tar.gz"
+      ]
     }
   },
   "metricslog": {
@@ -39179,6 +39197,30 @@
           "py3"
         ]
       }
+    },
+    "1.17.2.0": {
+      "sdist": [
+        "d3LECqvffwy1vQRuqumhM5Yq6ZBwEbfW+G0EsZFFkqc=",
+        "mypy-boto3-comprehend-1.17.2.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_comprehend-1.17.2.0-py3-none-any.whl": [
+          "DJSoHHk3WnyaufikwtlASw36Lvv3XQHhghZpxIZ/SfM=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.2.1": {
+      "sdist": [
+        "7jCXLc7RhhIEDU1KvIKw3reGXdrw8PdYyjGXLFqWyms=",
+        "mypy-boto3-comprehend-1.17.2.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_comprehend-1.17.2.1-py3-none-any.whl": [
+          "nS+4u3bEBWWYArND6+jb7NFoPXv4Sa/VEPFEnyL7yf4=",
+          "py3"
+        ]
+      }
     }
   },
   "mysqlpython": {
@@ -39266,215 +39308,41 @@
         ]
       }
     },
-    "1.40.12": {
+    "1.100.3": {
       "sdist": [
-        "YODIcHDCsuV4/4Xn2SDprVzl5qYkdTo49BW4Vdt40No=",
-        "nautilus_trader-1.40.12.tar.gz"
-      ]
+        "NHXRxDAlPQabWh/KYI3zH/zFDCsIuP8uHER01sFhp3w=",
+        "nautilus_trader-1.100.3.tar.gz"
+      ],
+      "wheels": {
+        "nautilus_trader-1.100.3-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "E4gAhOgf5oFao9+w2ONPfwAqdUBAQJZCsxOPLZDdtMg=",
+          "cp37"
+        ],
+        "nautilus_trader-1.100.3-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "qMZDmAz8BYWPleyoi+GXzBdbhT1s3gzptw425QKdvSQ=",
+          "cp39"
+        ]
+      }
     },
-    "1.40.2": {
+    "1.100.4": {
       "sdist": [
-        "lZKYUIdVrxhkutPZxKf0fe3OAf5GprFYvtcth6qC97M=",
-        "nautilus_trader-1.40.2.tar.gz"
-      ]
-    },
-    "1.40.4": {
-      "sdist": [
-        "XmfjMOwpK615/mdUKuyOzffNyWsGJgBE0GD/Xeh6KGs=",
-        "nautilus_trader-1.40.4.tar.gz"
-      ]
-    },
-    "1.40.8": {
-      "sdist": [
-        "5fPSafyNGLMlLK5s1dmWIDTp1Rdw1EdGjRiUFcDI0h8=",
-        "nautilus_trader-1.40.8.tar.gz"
-      ]
-    },
-    "1.40.9": {
-      "sdist": [
-        "UEWckR+4zc/KtuaoCIWwMYhea5ctY3EsuyVg2aH/b2Q=",
-        "nautilus_trader-1.40.9.tar.gz"
-      ]
-    },
-    "1.44.0": {
-      "sdist": [
-        "lRYpp9wSVIqLacAf793vuKXcpU1eY+wdelq1VmhEiSw=",
-        "nautilus_trader-1.44.0.tar.gz"
-      ]
-    },
-    "1.45.0": {
-      "sdist": [
-        "nhtDDshK8q+GKRGM5BCgvQKIP2PWrB8pJ2d92/fck+8=",
-        "nautilus_trader-1.45.0.tar.gz"
-      ]
-    },
-    "1.45.1": {
-      "sdist": [
-        "xVvptgcd7yaV06Ald0zsFuoqmpeUVRDBxP6jYk0fni0=",
-        "nautilus_trader-1.45.1.tar.gz"
-      ]
-    },
-    "1.46.2": {
-      "sdist": [
-        "tHX1HRTHoZ8CqavfzHISakVfZ8RANfkkuJivi/yUUwQ=",
-        "nautilus_trader-1.46.2.tar.gz"
-      ]
-    },
-    "1.48.0": {
-      "sdist": [
-        "UlG2s1/3Wb3aOWFwVOXLzBy08JwBD7zMm01F3aslT+s=",
-        "nautilus_trader-1.48.0.tar.gz"
-      ]
-    },
-    "1.48.4": {
-      "sdist": [
-        "qu/M5gdEETjLn9EWj6t/eQK5kUAo4Zb3BilXMXptENY=",
-        "nautilus_trader-1.48.4.tar.gz"
-      ]
-    },
-    "1.50.2": {
-      "sdist": [
-        "CitvSTqN/ymHChxdadnYdcfnnpku4A14vZvUNpD58+w=",
-        "nautilus_trader-1.50.2.tar.gz"
-      ]
-    },
-    "1.53.1": {
-      "sdist": [
-        "JgDIHQ8Pmejo3twdGW1zk/HuCE9U61W6Jz0eR9SBgU0=",
-        "nautilus_trader-1.53.1.tar.gz"
-      ]
-    },
-    "1.54.0": {
-      "sdist": [
-        "8099uOAS6GPSgA/clTlBVtjUrmNlG2vc7W2q236rVLI=",
-        "nautilus_trader-1.54.0.tar.gz"
-      ]
-    },
-    "1.57.0": {
-      "sdist": [
-        "ifK1g+P2Z3ppzLf9AfPu45WfMst7i8/h8Ay9AcgdHqs=",
-        "nautilus_trader-1.57.0.tar.gz"
-      ]
-    },
-    "1.58.0": {
-      "sdist": [
-        "a1KlpFOJfR257QNNsr9HStl5jVmVWp8QZuE1GDhOFxI=",
-        "nautilus_trader-1.58.0.tar.gz"
-      ]
-    },
-    "1.60.1": {
-      "sdist": [
-        "fFQGFYg+uU3XThKTV0i+XQ4Ot+gnsqHqzLk600hKS8Y=",
-        "nautilus_trader-1.60.1.tar.gz"
-      ]
-    },
-    "1.62.1": {
-      "sdist": [
-        "aSCnwYRAkRUxdIpExGfc9Xv3thKIj5J3jFCl6QZmcZI=",
-        "nautilus_trader-1.62.1.tar.gz"
-      ]
-    },
-    "1.63.0": {
-      "sdist": [
-        "Ogxiny/iz/n8Sa3KbxgP69EqeitVyVyw+e8Yr4QUx5Q=",
-        "nautilus_trader-1.63.0.tar.gz"
-      ]
-    },
-    "1.65.1": {
-      "sdist": [
-        "MZmtMQEBURikbJpKsJFFjQOsnlWR24LT39BJ0mG/JZU=",
-        "nautilus_trader-1.65.1.tar.gz"
-      ]
-    },
-    "1.65.2": {
-      "sdist": [
-        "Y77U7gDJJV3daiuZc2lzpqSRcsERIhWUz+pcxjRMJbw=",
-        "nautilus_trader-1.65.2.tar.gz"
-      ]
-    },
-    "1.66.2": {
-      "sdist": [
-        "M8zOPTew5GcuVcTPs4Aum9g+bQdK9UeqVsveC4VPQcE=",
-        "nautilus_trader-1.66.2.tar.gz"
-      ]
-    },
-    "1.67.0": {
-      "sdist": [
-        "AdgmP33d0Nc8tLWl59weDA3RSOuKJNHk4zN7pyAaggY=",
-        "nautilus_trader-1.67.0.tar.gz"
-      ]
-    },
-    "1.68.0": {
-      "sdist": [
-        "yCs+GaDdBQZIWvZQBcAYVBCQuzI0KhDfiKUiBHYKoX4=",
-        "nautilus_trader-1.68.0.tar.gz"
-      ]
-    },
-    "1.69.0": {
-      "sdist": [
-        "AxeDgoLQ7PhMhwSjGMCMyPHd080nX4uhjEFVKh4lvdw=",
-        "nautilus_trader-1.69.0.tar.gz"
-      ]
-    },
-    "1.69.3": {
-      "sdist": [
-        "5bDzztLukdxHQu5EOXu8/jbuPkE8zsDuWLYfR3KJu2M=",
-        "nautilus_trader-1.69.3.tar.gz"
-      ]
-    },
-    "1.71.0": {
-      "sdist": [
-        "+EubqDcxg9ScX/hKg9kNJ3aya2173xlIpqmQofigPiw=",
-        "nautilus_trader-1.71.0.tar.gz"
-      ]
-    },
-    "1.72.0": {
-      "sdist": [
-        "ELD0P1Nf8VxhZH/bQ3LEYEhX/9fghl2XW8f3r1M5rGU=",
-        "nautilus_trader-1.72.0.tar.gz"
-      ]
-    },
-    "1.73.2": {
-      "sdist": [
-        "uG4QLYjuvJR0n/xh8K4C1Da8nfI7P1NWWy8EnJx8aH4=",
-        "nautilus_trader-1.73.2.tar.gz"
-      ]
-    },
-    "1.74.0": {
-      "sdist": [
-        "w+mVMScUl3oYMMe67iQ4ezVVblnE/tAsFY/EGP25l/M=",
-        "nautilus_trader-1.74.0.tar.gz"
-      ]
-    },
-    "1.74.4": {
-      "sdist": [
-        "vaX14F1JVzdQkpsdJ94hwbmxSaKXoSiZVrSQn6XxTLA=",
-        "nautilus_trader-1.74.4.tar.gz"
-      ]
-    },
-    "1.76.1": {
-      "sdist": [
-        "J5Qul2gb0l6SuYj5xmP5U1En2n64VYXrCbfpFokmhB0=",
-        "nautilus_trader-1.76.1.tar.gz"
-      ]
-    },
-    "1.77.1": {
-      "sdist": [
-        "+nXxZ7yTA16ON/VgA3rFCgqIJrRpzggDqpRVQaicD6A=",
-        "nautilus_trader-1.77.1.tar.gz"
-      ]
-    },
-    "1.77.6": {
-      "sdist": [
-        "uAqMSL0witwkAAFYW/MrfHX4iNXGI08mwORyXJFG3Ho=",
-        "nautilus_trader-1.77.6.tar.gz"
-      ]
-    },
-    "1.78.0": {
-      "sdist": [
-        "rCBE8YQm/6LChWIVhodxD9uszQEAkVxwH5Qzu3QhDlQ=",
-        "nautilus_trader-1.78.0.tar.gz"
-      ]
+        "TKXYoqzxs9aI3sfIpDpdzFokT+BIWfnWe83PrOF0+SA=",
+        "nautilus_trader-1.100.4.tar.gz"
+      ],
+      "wheels": {
+        "nautilus_trader-1.100.4-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "SC38Nb+24TXC5/mVIDjCn3O0oiU0qxYQPKqWAn8gphk=",
+          "cp37"
+        ],
+        "nautilus_trader-1.100.4-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "MdSSgd6CInHVu9sd+lGZedgTFiO4bECqk3BnNDoc19Q=",
+          "cp38"
+        ],
+        "nautilus_trader-1.100.4-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "/Mnl/bvtcMeXZAa0lCZtI6QppQZvYrYQng9IF2sCQJY=",
+          "cp39"
+        ]
+      }
     },
     "1.78.3": {
       "sdist": [
@@ -43442,6 +43310,20 @@
       "wheels": {
         "NovalIDE-1.1.8-py3-none-any.whl": [
           "OEHeGTcx7LZTEucVA2F4B45ySR3WkuSwGl6tLev+Uj4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "nt-app": {
+    "0.1.0": {
+      "sdist": [
+        "uJLaylz3vYcgf3LAQ8m6T4ZtLb4Yyy/NsIajFGUS56U=",
+        "nt-app-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "nt_app-0.1.0-py3-none-any.whl": [
+          "A0CTawSUm0j4nn2Ql3e5a9iRA6lKyDvb8isQMXTipVw=",
           "py3"
         ]
       }
@@ -50714,6 +50596,12 @@
       "sdist": [
         "Jeh8v7FxXP0MSAlKtwceWOSsVh8IsCYjdH9OmVUr5xk=",
         "py3x-0.1.11.tar.gz"
+      ]
+    },
+    "0.1.12": {
+      "sdist": [
+        "YdEuDbs24hgM8BkQIa1ELWa131V5yjQsRW10uloyUcw=",
+        "py3x-0.1.12.tar.gz"
       ]
     },
     "0.1.3": {
@@ -79477,6 +79365,20 @@
         "gRIPB8yzsBG/UgtxViCQAcC22F0SpXAUuwxh7KRLoiU=",
         "torweb-0.1.9.tar.gz"
       ]
+    }
+  },
+  "tql-ann": {
+    "2021.2.5.19.19.33": {
+      "sdist": [
+        "GpT6wmqj5fRZW+brrEWD0TdXYtGX8Dh0aHw/CNrkHQw=",
+        "tql-ANN-2021.2.5.19.19.33.tar.gz"
+      ],
+      "wheels": {
+        "tql_ANN-2021.2.5.19.19.33-py3-none-any.whl": [
+          "RGIXkw+4tPDjp1SXLSEHAGkW1e2inslmo+jGIpKOekM=",
+          "py3"
+        ]
+      }
     }
   },
   "tracquiet": {
