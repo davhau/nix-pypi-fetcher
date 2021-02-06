@@ -1700,6 +1700,18 @@
         ]
       }
     },
+    "1.23.0": {
+      "sdist": [
+        "/+PRpfIKlUTzO9e2k4n7CImV/fqKACDZmNdNpoTS32c=",
+        "AlexaPy-1.23.0.tar.gz"
+      ],
+      "wheels": {
+        "AlexaPy-1.23.0-py3-none-any.whl": [
+          "7UDdY8HbGc6if7PgsOsUBPkv9d7ibK2CMTO9iSaxP4c=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0": {
       "sdist": [
         "bTyqmquID89W17pvOUbJU5XAHqH/D0YD6WH4bC3S3D4=",
@@ -6489,6 +6501,20 @@
       }
     }
   },
+  "bitfinex-extractor-influxdb": {
+    "0.1.0": {
+      "sdist": [
+        "gTZfSyLlayKketCQnI66L/3rt2SCdJCiW2qH2P3H790=",
+        "bitfinex-extractor-influxdb-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "bitfinex_extractor_influxdb-0.1.0-py3-none-any.whl": [
+          "jq3CM4nQ4wgsT88HNB1jk0V4LmcB6Rr8BOHfXHx7rk4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "blade-runner": {
     "1.0.0": {
       "sdist": [
@@ -7184,6 +7210,16 @@
       "wheels": {
         "blockchain_etl-0.1.9-py3-none-any.whl": [
           "NuQ/haVnsom8HZpGmcX2d9bX3t4GIyjrtFouKUEsmBs=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "bluewhale-widget-base": {
+    "4.11.0": {
+      "wheels": {
+        "bluewhale_widget_base-4.11.0-py3-none-any.whl": [
+          "VBaNJwRosyWATQ6gKk5xbr0Uy3p6GWPJHU0W/OMDQDY=",
           "py3"
         ]
       }
@@ -61112,134 +61148,14 @@
     }
   },
   "python-algorithms-3x": {
-    "1.0.0": {
+    "1.4.6": {
       "sdist": [
-        "d+BInaCdTfkBtKysMZ3+sLn8Vea10nKWydCWmjU8/TU=",
-        "python-algorithms-3x-1.0.0.tar.gz"
+        "dzDO22nmrRq0B+y90Z6Ni8UcLtAlU8ZwzxC5n6gJJ4U=",
+        "python-algorithms-3x-1.4.6.tar.gz"
       ],
       "wheels": {
-        "python_algorithms_3x-1.0.0-py3-none-any.whl": [
-          "zekAWrzBtvr++kUH3Ph+ceu4IS8GO4d+ebQZpLvMUxc=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.0": {
-      "sdist": [
-        "mXFbvI8z6ym7aQZshzSCOEhgHixa6HgKwOj4LNKjY8w=",
-        "python-algorithms-3x-1.1.0.tar.gz"
-      ],
-      "wheels": {
-        "python_algorithms_3x-1.1.0-py3-none-any.whl": [
-          "MY3upyfs/WAVhGIHTv3yRWBmW5KckTaDnSFXyBwc2IY=",
-          "py3"
-        ]
-      }
-    },
-    "1.2.0": {
-      "sdist": [
-        "scMyfH+r4XtR6KkArVbRHxW8glKQvdzMuGRG7AQp2vM=",
-        "python-algorithms-3x-1.2.0.tar.gz"
-      ],
-      "wheels": {
-        "python_algorithms_3x-1.2.0-py3-none-any.whl": [
-          "h0yyW9vVqMmtwKHWbHP5j7og3cBS7LVI1twhZI3hFf0=",
-          "py3"
-        ]
-      }
-    },
-    "1.3.0": {
-      "sdist": [
-        "lvfIKpdYQPH8OfqZ4E+7bDbSBL7/kXkQEdfSQ15ngW0=",
-        "python-algorithms-3x-1.3.0.tar.gz"
-      ],
-      "wheels": {
-        "python_algorithms_3x-1.3.0-py3-none-any.whl": [
-          "061gxW7bmWrTeJJUfqGDI9giQ5mwfJt4SrEVAYyiAUA=",
-          "py3"
-        ]
-      }
-    },
-    "1.3.1": {
-      "sdist": [
-        "nGO3oo12AStjSc7mngmjmOeZrP20IkFsLXelMF7vkU0=",
-        "python-algorithms-3x-1.3.1.tar.gz"
-      ],
-      "wheels": {
-        "python_algorithms_3x-1.3.1-py3-none-any.whl": [
-          "wh3GV0JM/iNV6ENnq+B8W9NAErjTsrQtNSjW2xlq5p0=",
-          "py3"
-        ]
-      }
-    },
-    "1.3.2": {
-      "sdist": [
-        "ZjHkWh0ZHjxp/MPRuw3rYsQmauscYwLExxQ9uJvy/1U=",
-        "python-algorithms-3x-1.3.2.tar.gz"
-      ],
-      "wheels": {
-        "python_algorithms_3x-1.3.2-py3-none-any.whl": [
-          "C1sdcZyIYMc5wv80DKnraQeK7+DTj+tLdNtDPJaXEGg=",
-          "py3"
-        ]
-      }
-    },
-    "1.3.3": {
-      "sdist": [
-        "w6kYm6C18bCnq41/w8uAXNBCwn8dNZUn7/AkDPOeSdQ=",
-        "python-algorithms-3x-1.3.3.tar.gz"
-      ],
-      "wheels": {
-        "python_algorithms_3x-1.3.3-py3-none-any.whl": [
-          "/3BcI4Y2fzXTFbrmsFNAI3Z6MRoGRvPMyASHdn16VPw=",
-          "py3"
-        ]
-      }
-    },
-    "1.3.4": {
-      "sdist": [
-        "e2H2c0WgXhgW0BCXdWK57IfO4As+bGEfIo35KQtFK6Y=",
-        "python-algorithms-3x-1.3.4.tar.gz"
-      ],
-      "wheels": {
-        "python_algorithms_3x-1.3.4-py3-none-any.whl": [
-          "5xPBijw7WI69Ix89E6gZgxFtcyNvXPzGN9Sj7MS35qo=",
-          "py3"
-        ]
-      }
-    },
-    "1.3.5": {
-      "sdist": [
-        "a1YRow/FilCTkxrVeT78eB6+cVQ6JT3Gp/qliTtphuM=",
-        "python-algorithms-3x-1.3.5.tar.gz"
-      ],
-      "wheels": {
-        "python_algorithms_3x-1.3.5-py3-none-any.whl": [
-          "sT+C/T6IAMq4CZCBZkl2DThS2AJg8hXElCIPj7/LABA=",
-          "py3"
-        ]
-      }
-    },
-    "1.4.0": {
-      "sdist": [
-        "2AavqSuW3uVre+Zy1tA6zNpMJcRxJcCzY1TG/XitV4k=",
-        "python-algorithms-3x-1.4.0.tar.gz"
-      ],
-      "wheels": {
-        "python_algorithms_3x-1.4.0-py3-none-any.whl": [
-          "1UBrjh1hgP3TmvEiX3Ze5q7KGvYEFMY8NL+7grCBen8=",
-          "py3"
-        ]
-      }
-    },
-    "1.4.5": {
-      "sdist": [
-        "hLGmMFsZgMOAHvz62a4esp4uL2X9wBPwOsp4FTrDGgo=",
-        "python-algorithms-3x-1.4.5.tar.gz"
-      ],
-      "wheels": {
-        "python_algorithms_3x-1.4.5-py3-none-any.whl": [
-          "64dCTzCHvwGqpfzkJdxOURCV/APVSVPG/EnxgZ0A2bQ=",
+        "python_algorithms_3x-1.4.6-py3-none-any.whl": [
+          "xLUr1jikC+eFRVbZygdPzrCATpSlXq+r/74U4SaK+Hk=",
           "py3"
         ]
       }
