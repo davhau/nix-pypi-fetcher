@@ -30737,6 +30737,34 @@
           "cp38"
         ]
       }
+    },
+    "13.1.5": {
+      "wheels": {
+        "Geode_Common-13.1.5-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "Ce5yz9LS5zaKvy/PipUUnFKz4UbYLs1/jQMQSEiDPkA=",
+          "cp36"
+        ],
+        "Geode_Common-13.1.5-cp36-cp36m-win_amd64.whl": [
+          "gKNqXgBeMxJKy08arjvEYHsK6Z7Cj/dcZ0dM5lcrN5I=",
+          "cp36"
+        ],
+        "Geode_Common-13.1.5-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "ypIlpw/oaG4b7TNlVcR4r4eB0aXfYuxdjHjHP4zbqGI=",
+          "cp37"
+        ],
+        "Geode_Common-13.1.5-cp37-cp37m-win_amd64.whl": [
+          "JX4wwEIi+k8ylxgFsN7leXHxagX54XNtmV7fNNswaVg=",
+          "cp37"
+        ],
+        "Geode_Common-13.1.5-cp38-cp38-manylinux2014_x86_64.whl": [
+          "3+KCDRdmfbeXBt0g9oUmhQjnTHf9tfkOU5CGXFKviUY=",
+          "cp38"
+        ],
+        "Geode_Common-13.1.5-cp38-cp38-win_amd64.whl": [
+          "jC2OMiM4Fc6beWefyaxUaYXZNFDoigj+TSJvST4U8vU=",
+          "cp38"
+        ]
+      }
     }
   },
   "geometry-designer": {
@@ -37736,6 +37764,18 @@
     }
   },
   "lektor-limit-dependencies": {
+    "0.1": {
+      "sdist": [
+        "14iWQcf19eoNOTaHq0NaaL6YSOFRnRj8erG9cjOqgQg=",
+        "lektor-limit-dependencies-0.1.tar.gz"
+      ],
+      "wheels": {
+        "lektor_limit_dependencies-0.1-py2.py3-none-any.whl": [
+          "ORphOzoNzDB5nPRj6ChtImsYbnfEBmBPW6dTqSWXROo=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.1a1": {
       "sdist": [
         "dQwgnH3cVnA7ecF7y01p9h6iKUyx7OUcFdc2iGhn/Ls=",
@@ -45976,6 +46016,18 @@
       "wheels": {
         "mypy_boto3_cognito_idp-1.17.2.1-py3-none-any.whl": [
           "0G1cO5QQsuD+TXV1tHLbLbjwmh9WM1kz6LDKtBX37Cc=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.3.0": {
+      "sdist": [
+        "dJ5ZHHxyOo8EGKEzd0SbDntDuQunWFBym6sS/B+5ALY=",
+        "mypy-boto3-cognito-idp-1.17.3.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cognito_idp-1.17.3.0-py3-none-any.whl": [
+          "eunyq04g3Jveka8U/qz1XGXSnrqGS1PBAxu10GnxhME=",
           "py3"
         ]
       }
@@ -78327,18 +78379,42 @@
           "py2.py3"
         ]
       }
+    },
+    "2.7.3": {
+      "sdist": [
+        "u9CBy85RDOARauUX9qSvxPyIIwGCYD2rwkEEHLzQm+4=",
+        "spark-nlp-2.7.3.tar.gz"
+      ],
+      "wheels": {
+        "spark_nlp-2.7.3-py2.py3-none-any.whl": [
+          "MI4fAlyluDMjVJBQsLwvE1JvfOm/GEff++UBAGZXxWU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "spatial-kwd": {
-    "0.2.2": {
+    "0.2.5": {
       "sdist": [
-        "JxlBRN5Emq5lnRGHxO8hpTri7dVDAuAxuQ8rRTjdmCE=",
-        "Spatial-KWD-0.2.2.tar.gz"
+        "Gn+rU9/yBhQp37coOOV7F6ZBKOfIJe44srUqrXbWYN0=",
+        "Spatial-KWD-0.2.5.tar.gz"
       ],
       "wheels": {
-        "Spatial_KWD-0.2.2-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "gw22uJ73sUGy17Vn03JevtSAdbPBdkBxFYDcGX3tqkQ=",
+        "Spatial_KWD-0.2.5-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "I74e+edPK1eYywhFO9y9PMnR54iCOn6+uJukfInV48o=",
           "cp36"
+        ],
+        "Spatial_KWD-0.2.5-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "LPpPBoRS6AIytOK8Ta0cCTe2rNEkQL7as1YLBoHmsiY=",
+          "cp37"
+        ],
+        "Spatial_KWD-0.2.5-cp38-cp38-manylinux2010_x86_64.whl": [
+          "m9zZEhTUUKKFzqBmb1JI89vyic1fFw29zmuam+hqq9c=",
+          "cp38"
+        ],
+        "Spatial_KWD-0.2.5-cp39-cp39-manylinux2010_x86_64.whl": [
+          "UtC8fEe4N7/RQn2HXlswHmAN/RAZOD/HSqm0BCbABpY=",
+          "cp39"
         ]
       }
     }
