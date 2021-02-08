@@ -29140,6 +29140,18 @@
         ]
       }
     },
+    "3.0b17": {
+      "sdist": [
+        "V+sZvIRZyCuRyIxUjBtXJMi/0ex9w+1qzYMXbZO8IZE=",
+        "fondat-core-3.0b17.tar.gz"
+      ],
+      "wheels": {
+        "fondat_core-3.0b17-py3-none-any.whl": [
+          "/rWAdIgRBPu7W8VK77mNiQTxikx4rvBNa60P68mFe58=",
+          "py3"
+        ]
+      }
+    },
     "3.0b2": {
       "sdist": [
         "39qCBRZUIcT+y7E/Ku6XGGiq1GxEKQwB4+Gf160HSSI=",
@@ -29908,6 +29920,14 @@
       "sdist": [
         "Gvv0JitAQ0dYqd6EMYorc1MfkAtKJ5JDdc6x9NMeNTM=",
         "gazest-0.3.9.tar.gz"
+      ]
+    }
+  },
+  "gd.bot": {
+    "0.1.1": {
+      "sdist": [
+        "nRPike4wBenLgoxSqeoEJSAU/NRg4b54epohu943790=",
+        "gd.bot-0.1.1.tar.gz"
       ]
     }
   },
@@ -33949,6 +33969,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "1DD9goGm885rEg3tF6HcEdD/GKv6inzbPvYtA3A/pu4=",
+        "headbot-0.2.0.tar.gz"
+      ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "CdpA5Yri2rD223nO42Zk4qrnHe7aMKTJ0Wu2YxdIQIo=",
+        "headbot-0.2.1.tar.gz"
+      ]
     }
   },
   "hefmath": {
@@ -81084,318 +81116,6 @@
     }
   },
   "sme": {
-    "1.0.0": {
-      "sdist": [
-        "fUcdLKPxz7MGc3dq8JAE3SNUcBXUk0JU/1O2qgbh9JY=",
-        "sme-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "sme-1.0.0-cp27-cp27m-manylinux1_x86_64.whl": [
-          "aNyadhhRgjlb4n/BGRB6AmtNZow5c4cilqLNloDYzSg=",
-          "cp27"
-        ],
-        "sme-1.0.0-cp27-cp27m-manylinux2010_x86_64.whl": [
-          "OLbuDRVBxAtEytQ5pmbeA4I5nraps9G764+ifjbMRW4=",
-          "cp27"
-        ],
-        "sme-1.0.0-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "HPEtKREy3f1aehMpxgW3oXUi8iS/II7tqdbi2A045Uc=",
-          "cp27"
-        ],
-        "sme-1.0.0-cp27-cp27mu-manylinux2010_x86_64.whl": [
-          "lUO6n9taIApcPVVsUROEQ7PjUzT7/kO1RKEDL/DF0lk=",
-          "cp27"
-        ],
-        "sme-1.0.0-cp35-cp35m-macosx_10_14_x86_64.whl": [
-          "WUO6adNgKuId8lRkeS1B/4sIRGzqJl66o003c++0qxE=",
-          "cp35"
-        ],
-        "sme-1.0.0-cp35-cp35m-manylinux1_x86_64.whl": [
-          "/HZ4xNFutJ/1P76dS49llIbTI+ZDM4tWLmCM5835HCw=",
-          "cp35"
-        ],
-        "sme-1.0.0-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "QEGwNtINWp6yeDdRL1lyf90PpatRecOT4LqiDm41HAY=",
-          "cp35"
-        ],
-        "sme-1.0.0-cp35-cp35m-win32.whl": [
-          "vEC3d/Vaysy9xa0QV+NEbGGg0etd2U1aJ3+xceRjjrY=",
-          "cp35"
-        ],
-        "sme-1.0.0-cp35-cp35m-win_amd64.whl": [
-          "ZvnDpJ9tbRYh+HF1CB4sCC2wvjm5wbXNMh2tn/jtJm4=",
-          "cp35"
-        ],
-        "sme-1.0.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "53O1WhIMHQoo2qsUai0D/bWMmf4q9OnqlQLFwH0w7M4=",
-          "cp36"
-        ],
-        "sme-1.0.0-cp36-cp36m-manylinux1_x86_64.whl": [
-          "5PH/FFvSx/COJi0Y6gHOwquIdc2nUT+yBmZJ4tHyBCM=",
-          "cp36"
-        ],
-        "sme-1.0.0-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "pQbIZslCDJq/5/5trswQNe5484R2inGo3kl+FuuZz04=",
-          "cp36"
-        ],
-        "sme-1.0.0-cp36-cp36m-win32.whl": [
-          "Bf9bQznGekXsOl2SnJM0GPlmX1Qhq1fbUquPtHoq5eY=",
-          "cp36"
-        ],
-        "sme-1.0.0-cp36-cp36m-win_amd64.whl": [
-          "1/nEwQ8CzP4ZKuxCcUABQLltP1fY9POBu/3CCMKy/CQ=",
-          "cp36"
-        ],
-        "sme-1.0.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "ap/HNj7GazXwqrzOx21FIEvRDlIHOXF7n6hmfoGdv3k=",
-          "cp37"
-        ],
-        "sme-1.0.0-cp37-cp37m-manylinux1_x86_64.whl": [
-          "dxMnAxJvJtVeyuvvsqGVSRaeF0S8GUFnrURzQP2fLvc=",
-          "cp37"
-        ],
-        "sme-1.0.0-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "EXA1BJYzSyl/gV/LI9TUVSNFFzKM/4U/mnvDqIb2G6M=",
-          "cp37"
-        ],
-        "sme-1.0.0-cp37-cp37m-win32.whl": [
-          "9AhWGoo9ImOjVa1SZE6z233Q+G6JdOMXnln1ueYTVt0=",
-          "cp37"
-        ],
-        "sme-1.0.0-cp37-cp37m-win_amd64.whl": [
-          "Jm8A1h1aN7dHtVxxNexmPHjB91B7Y4GOvjkCLEX07OQ=",
-          "cp37"
-        ],
-        "sme-1.0.0-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "nzQBkQP8Sl/esqj/vcoFxxJHvGsXnA67e6HSNJGQe8M=",
-          "cp38"
-        ],
-        "sme-1.0.0-cp38-cp38-manylinux1_x86_64.whl": [
-          "On7QsbsvvUnGfDOSgqf6c8ixbrnt9tMX8RUT6JBfIb4=",
-          "cp38"
-        ],
-        "sme-1.0.0-cp38-cp38-manylinux2010_x86_64.whl": [
-          "/WQBKdw4X6z43SKxqRnGbbvjNLbArBNh6hgCAQZTgGo=",
-          "cp38"
-        ],
-        "sme-1.0.0-cp38-cp38-win32.whl": [
-          "ZEytAD9ucCPJc1QFsM/hdMZsy5gfS8VsXOKxahP6rZg=",
-          "cp38"
-        ],
-        "sme-1.0.0-cp38-cp38-win_amd64.whl": [
-          "fxj9ympf7qFajRyH0L2oG+p7aGyDgIAtcdYpPoikhpQ=",
-          "cp38"
-        ],
-        "sme-1.0.0-cp39-cp39-macosx_10_14_x86_64.whl": [
-          "FLUP7gG65GIS2uEkn4v/vJgNMyVHGS+YRSfCtxD8Aek=",
-          "cp39"
-        ],
-        "sme-1.0.0-cp39-cp39-manylinux1_x86_64.whl": [
-          "8VoO/3FmQmc5N6U2wXd/UhNmFeHYA+V3vSRmSnr8TCU=",
-          "cp39"
-        ],
-        "sme-1.0.0-cp39-cp39-manylinux2010_x86_64.whl": [
-          "UYNeduHzyaPKk6/tKar7o0/i56AkLdXiTvASafonVoo=",
-          "cp39"
-        ],
-        "sme-1.0.0-cp39-cp39-win32.whl": [
-          "Rj9pZMLCLHfU78eMw2LfgLz8HURFnz4oeoOgnoTpu1o=",
-          "cp39"
-        ],
-        "sme-1.0.0-cp39-cp39-win_amd64.whl": [
-          "9vnPXR1UbDBkBqpFVdsqRTlu3CKke1WWu6otVZ0BmVE=",
-          "cp39"
-        ],
-        "sme-1.0.0-pp27-pypy_41-manylinux2010_x86_64.whl": [
-          "LUMYiwIlxBpHq4bH/USfBuSXTiTwkq4CjN/5QIoRQBs=",
-          "pp27"
-        ],
-        "sme-1.0.0-pp27-pypy_73-macosx_10_14_x86_64.whl": [
-          "P06TX4YHJ4bYJ9QZw0Bue0fPbNtszYZ45CUWNgeLaNg=",
-          "pp27"
-        ],
-        "sme-1.0.0-pp27-pypy_73-manylinux2010_x86_64.whl": [
-          "au85sMDD3GW6IsrkxmWAR9Re38hNuSTAmDrnop9Sxf8=",
-          "pp27"
-        ],
-        "sme-1.0.0-pp36-pypy36_pp73-macosx_10_14_x86_64.whl": [
-          "VCVAoXmhkI15aJWyoBblxJio9FH6JiXUYvL6A3cJgW0=",
-          "pp36"
-        ],
-        "sme-1.0.0-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
-          "XqOwuHF0813ZCX+I7X8GX/lddx9BJUhJMS4/KUh+5yY=",
-          "pp36"
-        ],
-        "sme-1.0.0-pp36-pypy36_pp73-win32.whl": [
-          "FerNClckqM+nKKXacUScmOdmf6Xfjprrb8hu03LGhaU=",
-          "pp36"
-        ],
-        "sme-1.0.0-pp36-pypy3_72-manylinux2010_x86_64.whl": [
-          "JasuNd7EH71SGJUTIHlxNCMn2PWxF232qiuBwpefhPM=",
-          "pp36"
-        ],
-        "sme-1.0.0-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
-          "JFD/H0aHXWapQ2vVeAhzlMmDdSiOfsjMIZyhaXiYhPg=",
-          "pp37"
-        ]
-      }
-    },
-    "1.0.1": {
-      "sdist": [
-        "h/ZAEfQQSTZ29RpyoV7+Yixb9P5iMYfbQrmT7cME160=",
-        "sme-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "sme-1.0.1-cp27-cp27m-manylinux1_x86_64.whl": [
-          "loFW39KeVHsyjd2IsKJeLBLoh1z5nNOobDx68JR2jnA=",
-          "cp27"
-        ],
-        "sme-1.0.1-cp27-cp27m-manylinux2010_x86_64.whl": [
-          "NfLiQULEyKHcL99EedlwcYYXYSHj4NXs4NudYK8rFfo=",
-          "cp27"
-        ],
-        "sme-1.0.1-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "RXTULoSt9Q6WShlOM1rsTyI2iaBx1Yztp4hza5Zi8gU=",
-          "cp27"
-        ],
-        "sme-1.0.1-cp27-cp27mu-manylinux2010_x86_64.whl": [
-          "E47u+5bgPCFfCSPecWdzigvt0QDBs5uXJjRdC8CfdNY=",
-          "cp27"
-        ],
-        "sme-1.0.1-cp35-cp35m-macosx_10_14_x86_64.whl": [
-          "VtUEn3/ipaMKVFCbPlDhoc+ZkjIRklT/Ljgnq/yvQto=",
-          "cp35"
-        ],
-        "sme-1.0.1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "KoDjg1GpcikwOW/cySXQCMf3qEgUOpDiX8fh89XwX/A=",
-          "cp35"
-        ],
-        "sme-1.0.1-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "ul8P4Xz4KhZLzpEH6SGhrG0vvFkFHuPx7M6G6O8JBgA=",
-          "cp35"
-        ],
-        "sme-1.0.1-cp35-cp35m-win32.whl": [
-          "CtCKVm9rgA6NE2MXzHVicYTJbl1wmV9QjNcgNmemIvc=",
-          "cp35"
-        ],
-        "sme-1.0.1-cp35-cp35m-win_amd64.whl": [
-          "CkKhFEc072Ni6fY34GqB+h0vzVgphFhxxoIDjQTXE7U=",
-          "cp35"
-        ],
-        "sme-1.0.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "+O2JZVxU6cNlzLt9eWxsh37ACn5FrtKAoR3pwszr8XM=",
-          "cp36"
-        ],
-        "sme-1.0.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "vbWPQe0GAuru4GMOPJzXFDBY1HdtYVtSxjmpi+J5mgQ=",
-          "cp36"
-        ],
-        "sme-1.0.1-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "fYPbeWLr23Ck9mPMadbDS/rkv/YxfhlXpBzVhE3a+DE=",
-          "cp36"
-        ],
-        "sme-1.0.1-cp36-cp36m-win32.whl": [
-          "mYPdMwwATgpOno6FLRzayHIQqkV9hThPVxvoYCqHFdk=",
-          "cp36"
-        ],
-        "sme-1.0.1-cp36-cp36m-win_amd64.whl": [
-          "sSHygGZh2Ez62EVbqym9RtCkee/319lQc81z7xwg3LQ=",
-          "cp36"
-        ],
-        "sme-1.0.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "8TIinJpmEJU4kgyMBXHoImBsR8pDVzDGP883a/dFGgk=",
-          "cp37"
-        ],
-        "sme-1.0.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "tsvOQSKGJSoBtevypIfWoscOtcQ4/ySS0OqhGJ+ElHk=",
-          "cp37"
-        ],
-        "sme-1.0.1-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "bmRdD/Ytrq5WLh2H2M7JaXnoVsgcsB22pIbyiGLk9eE=",
-          "cp37"
-        ],
-        "sme-1.0.1-cp37-cp37m-win32.whl": [
-          "v7WlcB32s+EvnN635J4Oa6wOyGAnJX5BuW9qTC/PzT4=",
-          "cp37"
-        ],
-        "sme-1.0.1-cp37-cp37m-win_amd64.whl": [
-          "wBzpf9B6GjlTz7met8cLFWWrb/j/aMnbngL9QIh0e3s=",
-          "cp37"
-        ],
-        "sme-1.0.1-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "RvKDlvCz0y8JnhqL24zQHPRlwWQzJxV89TQyngxpNy0=",
-          "cp38"
-        ],
-        "sme-1.0.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "AW6S6Wm+Xb8xIPKVvOkMCSxto8EsRdC//2vniQ7UWkI=",
-          "cp38"
-        ],
-        "sme-1.0.1-cp38-cp38-manylinux2010_x86_64.whl": [
-          "u+0ZczNDw0a1/MHCki59gJ4nFMjfaNo5OD+lgJdmTJw=",
-          "cp38"
-        ],
-        "sme-1.0.1-cp38-cp38-win32.whl": [
-          "q85busTOwqECkU66TdtqJ4tM79s5qZW1cpKppV1DQts=",
-          "cp38"
-        ],
-        "sme-1.0.1-cp38-cp38-win_amd64.whl": [
-          "9b7NEjjx8O8btPJMFEooRVntci6jlIuMfezaf4znUNw=",
-          "cp38"
-        ],
-        "sme-1.0.1-cp39-cp39-macosx_10_14_x86_64.whl": [
-          "1PRU+23qWM8nY/zroYrmuM7k9S0VW8DrxUs8nE8d71w=",
-          "cp39"
-        ],
-        "sme-1.0.1-cp39-cp39-manylinux1_x86_64.whl": [
-          "wgaaTnyTjJ6TSJKkI64q92StOWvATJiHye669jqE+vU=",
-          "cp39"
-        ],
-        "sme-1.0.1-cp39-cp39-manylinux2010_x86_64.whl": [
-          "1Ih8ry/vn3DrJdIfQA6dB/gXiasYGc5vpxCd2G9+Ao4=",
-          "cp39"
-        ],
-        "sme-1.0.1-cp39-cp39-win32.whl": [
-          "EDiiI8sIazlLByNc5fs6iAuaQCh7+VYJBgG/a38syS8=",
-          "cp39"
-        ],
-        "sme-1.0.1-cp39-cp39-win_amd64.whl": [
-          "yfbE5KKIB8dXRJOAMxZjS7u3Ltd9WIVPedCj62Jvxdo=",
-          "cp39"
-        ],
-        "sme-1.0.1-pp27-pypy_41-manylinux2010_x86_64.whl": [
-          "VL7jrbLAdizUEA1mpG2Sc9IZayHUk8TgDquzsPwIgMs=",
-          "pp27"
-        ],
-        "sme-1.0.1-pp27-pypy_73-macosx_10_14_x86_64.whl": [
-          "rYJdTvR+E7E7Ldq7TMhA7C4qtFb9YY24doRmdQ4vWWc=",
-          "pp27"
-        ],
-        "sme-1.0.1-pp27-pypy_73-manylinux2010_x86_64.whl": [
-          "LhVW3TJNkGxQdJ8YdZhK/yB1b0kbNz35RrXwxckHGOc=",
-          "pp27"
-        ],
-        "sme-1.0.1-pp36-pypy36_pp73-macosx_10_14_x86_64.whl": [
-          "bT2KPgut8Z92POj5F8EcBlAl2QqR7AXKQVJE+FhXg9s=",
-          "pp36"
-        ],
-        "sme-1.0.1-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
-          "P7F5+yejHMf9PqA4gzyFtdhQ/GCgSH+cGUgtGDrnvRc=",
-          "pp36"
-        ],
-        "sme-1.0.1-pp36-pypy36_pp73-win32.whl": [
-          "7B/uhWR/qH2zBgOn1qoSLKbMCv+pgHBLntBQOG//3qA=",
-          "pp36"
-        ],
-        "sme-1.0.1-pp36-pypy3_72-manylinux2010_x86_64.whl": [
-          "J/1PhOrF2lCXzam/Nlt6JxQciC5UM+VWl9mSS1KihRg=",
-          "pp36"
-        ],
-        "sme-1.0.1-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
-          "CLfiDFqN8HB8PppHNR5ATXegGu5oBT/SqjSCrIuXlWg=",
-          "pp37"
-        ]
-      }
-    },
     "1.0.2": {
       "sdist": [
         "jNu7H23zCyALMSf6v4zlVQm5ompFKeQL1JufLX2mItc=",
@@ -82108,6 +81828,146 @@
         ],
         "sme-1.0.6-pp37-pypy37_pp73-win32.whl": [
           "PBkMOlTHJvlUCYg755NKO1v0oEZi8+7LLxOkD/efV+w=",
+          "pp37"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "f7hh2CAIpTKrlX3rrJV2ehrW9mt8V6n1YIYu3gmQQfA=",
+        "sme-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "sme-1.0.7-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "IE4XlHMG41DmDyF6wz6+QYOsxeAMeWzCMHFNFFLjXvg=",
+          "cp27"
+        ],
+        "sme-1.0.7-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "oqk9RcWclJ7lBnlkev3IjE5N2OOy1qH2XeC2AGIzJ78=",
+          "cp27"
+        ],
+        "sme-1.0.7-cp27-cp27m-win32.whl": [
+          "jHQiqCZIFNRLZzA4qIfuUj3JSa1Zb6Vm1/maPiV7K5A=",
+          "cp27"
+        ],
+        "sme-1.0.7-cp27-cp27m-win_amd64.whl": [
+          "qjHuyhKQkf288pUGkH34xJAT3rNkS+auQ9rlIT8+tIs=",
+          "cp27"
+        ],
+        "sme-1.0.7-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "cM4EAjxUahnMHBplXLBl+7F8SKo2ADvF59y9GwAZXFY=",
+          "cp35"
+        ],
+        "sme-1.0.7-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "DaGL79kiAIvaW3RzfoEG1HLFj3FpHVplRwqqHFyWPjs=",
+          "cp35"
+        ],
+        "sme-1.0.7-cp35-cp35m-win32.whl": [
+          "SqikH92IjCyh0LD2db+EDmlPjue4a7yxWZ+phuIHfOQ=",
+          "cp35"
+        ],
+        "sme-1.0.7-cp35-cp35m-win_amd64.whl": [
+          "u34Lxrld7RcNGxKukCKpaEMaQkvhgU6SWdNhZH6AeBM=",
+          "cp35"
+        ],
+        "sme-1.0.7-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "fdha7H/rA+0O5iP8WK5SKbfajdX2HKYXeN8SL7tDI5M=",
+          "cp36"
+        ],
+        "sme-1.0.7-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "no3mza9M1JD6l+cJNCQII+IzJkMxlQ69Z+zoF+CipBY=",
+          "cp36"
+        ],
+        "sme-1.0.7-cp36-cp36m-win32.whl": [
+          "y07nKugZfKhiJ2uZSZO7mtA2QV14aPliDbeFM7tDJlw=",
+          "cp36"
+        ],
+        "sme-1.0.7-cp36-cp36m-win_amd64.whl": [
+          "kwC7LPia2CteslNORylwQyjWe0Tir4qalIwTvXdFDM4=",
+          "cp36"
+        ],
+        "sme-1.0.7-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "gRJ/Tf3xXSLFgf5pXLq9wmVOe5PI5mJK0afm7zKvuFw=",
+          "cp37"
+        ],
+        "sme-1.0.7-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "0i5q4fQSUL6FrObwubip6WuemZeHHNKjizYr0mwrjgE=",
+          "cp37"
+        ],
+        "sme-1.0.7-cp37-cp37m-win32.whl": [
+          "Tu6kMgFEUdrovJZ34BN+LDPxlMnXFeOvbovgBLJd9ZM=",
+          "cp37"
+        ],
+        "sme-1.0.7-cp37-cp37m-win_amd64.whl": [
+          "uHKJWNGUZGDYMRlbjbEzFFemQPhtr2icjEdrZb1Hiek=",
+          "cp37"
+        ],
+        "sme-1.0.7-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "Vg3LpK/1MCx8A0BJ+wXi9XSLDMuhk2TtF8HQbDoR6Z4=",
+          "cp38"
+        ],
+        "sme-1.0.7-cp38-cp38-manylinux2010_x86_64.whl": [
+          "S2CEGSXvhQShJ+KqY1VIaWf2TZmi5vBi3ZgkAjH1PZE=",
+          "cp38"
+        ],
+        "sme-1.0.7-cp38-cp38-win32.whl": [
+          "HSj/HK9NyX+0CgfGouFQ9GfqfaO4kFXaM1Ma34At9VE=",
+          "cp38"
+        ],
+        "sme-1.0.7-cp38-cp38-win_amd64.whl": [
+          "ceCOgIYUq7GfNWS9xmiciVYDwaA7AGk4v0e7ZHpE49Q=",
+          "cp38"
+        ],
+        "sme-1.0.7-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "n7Nd0/Nu566Caw28iXD5XV4+JIBGDCcrvqFb5nBSqXs=",
+          "cp39"
+        ],
+        "sme-1.0.7-cp39-cp39-manylinux2010_x86_64.whl": [
+          "8Nk73d1XBaEElEg0/JaWn/4ByHhjtPB2Gf1fce77DSU=",
+          "cp39"
+        ],
+        "sme-1.0.7-cp39-cp39-win32.whl": [
+          "fN/n6gAmlmsWK6s6LDudyv2dUiQLXulo9tGTl/k8+hY=",
+          "cp39"
+        ],
+        "sme-1.0.7-cp39-cp39-win_amd64.whl": [
+          "66WIB7foBj/W2qTqbkIklhPIri4D4015joA7xuzzI50=",
+          "cp39"
+        ],
+        "sme-1.0.7-pp27-pypy_73-macosx_10_14_x86_64.whl": [
+          "A0fJK+//EVxE3BnIdcf6TZAXPQAsl4hUbvS5j1X+0sU=",
+          "pp27"
+        ],
+        "sme-1.0.7-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "k9CaLY+9GmdLVxTTR/TbtzlNeZNlDU9Oh11ilB6tY5g=",
+          "pp27"
+        ],
+        "sme-1.0.7-pp27-pypy_73-win32.whl": [
+          "+9M+CzMyjM/r3ts1Z08oD2e3WEUNrSsyhGd5z1RUl2w=",
+          "pp27"
+        ],
+        "sme-1.0.7-pp36-pypy36_pp73-macosx_10_14_x86_64.whl": [
+          "8ol2JqnJ+ji0lKzM7GpVPXoZ8bGG+hp+rToJIqdu6dc=",
+          "pp36"
+        ],
+        "sme-1.0.7-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "WHMJxOHFAkEp7+vijfLCThbN4MpIZqSnyS3nBTIoyyc=",
+          "pp36"
+        ],
+        "sme-1.0.7-pp36-pypy36_pp73-win32.whl": [
+          "ywhW8pDXC6qfEE33+kxy8RGC4UE3roigxh2A3uo/ryg=",
+          "pp36"
+        ],
+        "sme-1.0.7-pp37-pypy37_pp73-macosx_10_14_x86_64.whl": [
+          "vuy8Hy5eNgP9bvIuVXRGvcdZeA1FZUbzUQ/szAU51aw=",
+          "pp37"
+        ],
+        "sme-1.0.7-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "egoOPqEALvmb2ZVEzouzg4waRCAGi3MYRoCNjLJAKS0=",
+          "pp37"
+        ],
+        "sme-1.0.7-pp37-pypy37_pp73-win32.whl": [
+          "oPIU4lGMxeDx3g9nUh0EajpJA/ITHJDR9JnwgEGtLl8=",
           "pp37"
         ]
       }
