@@ -4087,6 +4087,18 @@
           "py3"
         ]
       }
+    },
+    "1.85.0": {
+      "sdist": [
+        "PJKlL9q2ExvJH9sM9/RJMwwMQgGKmh45DjsIUl6cezc=",
+        "aws-solutions-constructs.aws-cloudfront-s3-1.85.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_cloudfront_s3-1.85.0-py3-none-any.whl": [
+          "mrUgm1QyMcO701r1e84TL5QMBEbtQQHWHWEj7dQ/pMw=",
+          "py3"
+        ]
+      }
     }
   },
   "awsiot": {
@@ -4176,6 +4188,18 @@
       "wheels": {
         "azcam-21.1.4-py3-none-any.whl": [
           "hd5I0LTD9PnAoHCRcesHNlaHYq69XWE9WDZy/p+tZh0=",
+          "py3"
+        ]
+      }
+    },
+    "21.2.0": {
+      "sdist": [
+        "j7TFh8lIR64HEaq0Z4a1zlidgsRGL6+VRApOn2drPWI=",
+        "azcam-21.2.0.tar.gz"
+      ],
+      "wheels": {
+        "azcam-21.2.0-py3-none-any.whl": [
+          "p0T+4Rj7T2MYRD0EsKxe/FWfUgrNwUkZf8WtnycD94c=",
           "py3"
         ]
       }
@@ -17748,6 +17772,18 @@
         ]
       }
     },
+    "2.6.37": {
+      "sdist": [
+        "ZMsHK+f1MjEmnqetYixL4pxyHVC/IwZ61dd2TJR46F8=",
+        "discovery-behavioral-utils-2.6.37.tar.gz"
+      ],
+      "wheels": {
+        "discovery_behavioral_utils-2.6.37-py36-none-any.whl": [
+          "a4fgw53lwPf6Cf8RvVgBg/gEQPHkCIhRWnl6d5OGF1w=",
+          "py36"
+        ]
+      }
+    },
     "2.6.4": {
       "sdist": [
         "dNrn3e0g0yGLoDy2PBhD3oJDP4ylbv2Sg1rWNkqv2IY=",
@@ -26719,14 +26755,6 @@
       }
     }
   },
-  "full-hd-wrong-turn-2021-all-version": {
-    "0.1": {
-      "sdist": [
-        "3XZu7EE5Zm0MOnmyfuDEhHQazm+6dZLgvFqRWGcjXKY=",
-        "full-hd-wrong-turn-2021-all-version.tar.gz"
-      ]
-    }
-  },
   "funcomp": {
     "1.0": {
       "sdist": [
@@ -29940,14 +29968,6 @@
       "sdist": [
         "nGH5C0nFWzWh/qOXfRkdOKEvz9O1s6YfiByt6atQTeE=",
         "gw_probability-0.2.tar.gz"
-      ]
-    }
-  },
-  "hack-snapchat-account-2020-snapchat-hack-no-survey": {
-    "2.0.0": {
-      "sdist": [
-        "24aVDQh9XHEkpUZ6lQFfKmOintl6q0eSN36Hoxg4ArA=",
-        "HACK SNAPCHAT ACCOUNT 2020 SNAPCHAT HACK NO SURVEY-2.0.0.tar.gz"
       ]
     }
   },
@@ -37207,6 +37227,58 @@
           "cp38"
         ]
       }
+    },
+    "2.0.0rc2": {
+      "wheels": {
+        "lets_plot-2.0.0rc2-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "37HeE/gxWT0DQHA/JEi/tB47kTxO+gnMIoI+GjfAqEg=",
+          "cp36"
+        ],
+        "lets_plot-2.0.0rc2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "0w+AOR+YuH64oJL69IV52oI6hWusr1dSP2A/win79wk=",
+          "cp36"
+        ],
+        "lets_plot-2.0.0rc2-cp36-cp36m-win_amd64.whl": [
+          "5jtFqOQIUSpVv5WxVmoVyyHeY1N8jt7o8MqEBJ7HS1I=",
+          "cp36"
+        ],
+        "lets_plot-2.0.0rc2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "UCwQfez0OJTjOnZbmpaH3Gwhduok9Gexp9ooW3Rg1wY=",
+          "cp37"
+        ],
+        "lets_plot-2.0.0rc2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "dwJLiW41xALxKHI5E/7uoJg5wuRidg3rfHldbFK6tVc=",
+          "cp37"
+        ],
+        "lets_plot-2.0.0rc2-cp37-cp37m-win_amd64.whl": [
+          "8kipznxCfylp6myI68nzJcTQh2eYnxNSMkUZmpIHCDU=",
+          "cp37"
+        ],
+        "lets_plot-2.0.0rc2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "sUPfGvIAS+ux78Ze+iUFfXH2fxaMVMMlw2sJZzO9C2U=",
+          "cp38"
+        ],
+        "lets_plot-2.0.0rc2-cp38-cp38-manylinux1_x86_64.whl": [
+          "a1var/RG3DfxMhtTzrEfDiyAmm3qlYQpTBbzD7mEiGs=",
+          "cp38"
+        ],
+        "lets_plot-2.0.0rc2-cp38-cp38-win_amd64.whl": [
+          "pHXlndvH2H54pA+qDPtvgPpd51XtzLZaqDwUNvYbBDU=",
+          "cp38"
+        ],
+        "lets_plot-2.0.0rc2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "WXRSVBBXiqIXfrON2oR19jR98z55/L/OflDa5UIK8mA=",
+          "cp39"
+        ],
+        "lets_plot-2.0.0rc2-cp39-cp39-manylinux1_x86_64.whl": [
+          "DfrKARNqb4bH7xIDcvggvNUuQbR+FF5xWo8ENkZ83sM=",
+          "cp39"
+        ],
+        "lets_plot-2.0.0rc2-cp39-cp39-win_amd64.whl": [
+          "YQmWGv6eoFoa1PQSVGOd9xoMnY0BeD9jkhEtPeQhX48=",
+          "cp39"
+        ]
+      }
     }
   },
   "leviafunc": {
@@ -39100,6 +39172,30 @@
       "wheels": {
         "mcpkg-0.0.2-py3-none-any.whl": [
           "VndqgtrDz1SId6l1DirfCoeLr2vl8LtQK0tKW5YLzrE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "qwzJmFC+Mr/ccMJVq6kQWF39QdmQGTy1nvYk5mW7lEU=",
+        "mcpkg-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "mcpkg-0.0.3-py3-none-any.whl": [
+          "SfLq6y6H7Rv0+Iz4GDL5Bw4v+ck4G0n6y/Z401qLS2A=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "9OnOi5U47CYnY9EI6KuxLJ3WSCyHVH7CjR0OLAXk4Ls=",
+        "mcpkg-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "mcpkg-0.0.4-py3-none-any.whl": [
+          "5I+/C7GUKrD8IQf1BQNB2z/chJGVOZybcxFlGXXD3Yk=",
           "py3"
         ]
       }
@@ -41603,6 +41699,18 @@
           "py3"
         ]
       }
+    },
+    "1.17.4.0": {
+      "sdist": [
+        "+rlaGf5BLup282BtC5FO8wtijE8mayGP0PG57uqIHOA=",
+        "mypy-boto3-greengrassv2-1.17.4.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_greengrassv2-1.17.4.0-py3-none-any.whl": [
+          "CC4/PJyYC7hj2rVQi0svXfftfr9EKcfkacnlJe0h0Q0=",
+          "py3"
+        ]
+      }
     }
   },
   "mytopsis503": {
@@ -43978,6 +44086,126 @@
         ]
       }
     },
+    "0.1.10": {
+      "sdist": [
+        "/dfp5UV7FLTttpS/llI5d/rFAibum8GKIO/GiZlIk1o=",
+        "nlp4ml-0.1.10.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.10-py3-none-any.whl": [
+          "8ntEelBpbuzrPwz8CxB3AxuH/3pT6aj5//iuLBwkVZE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.11": {
+      "sdist": [
+        "EAlwszUO/as+wJ/6uy0vegnusDqkIJDaBX9Sw86MVnQ=",
+        "nlp4ml-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.11-py3-none-any.whl": [
+          "iB70iTMVnEC0nSKmFpFkxtPwLMC61jRoHUB0t70yiXE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.12": {
+      "sdist": [
+        "VgCBU2q5vQWTYrfpHHFFneB2BLwXR/g/hhtGgI+B4bI=",
+        "nlp4ml-0.1.12.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.12-py3-none-any.whl": [
+          "XA4YSHRnI/99Bx3XPjWsUPYpemaBxtI9J08bChcwGJc=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.13": {
+      "sdist": [
+        "jND61Cuw83z5lUuXe/nEA/wbrfQ5iOBGMPBlETmTbf4=",
+        "nlp4ml-0.1.13.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.13-py3-none-any.whl": [
+          "lW4oi8WNES1stWdZ9iqt6nXj/sdprn3xnO5fzmD8qd8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.14": {
+      "sdist": [
+        "QjvaRTz9PBz6Sbeo+YlN+ABKFo/hNMrZv4HOkWnIE7s=",
+        "nlp4ml-0.1.14.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.14-py3-none-any.whl": [
+          "h84zFObzsvjAdfnyzh0jep/WC9kHhJz/WTMze2sq49I=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.15": {
+      "sdist": [
+        "wxJn+ltTQ+0IjRMI6lgsrFzwrhx5AQ9Cr71bv6raGcc=",
+        "nlp4ml-0.1.15.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.15-py3-none-any.whl": [
+          "ARCe1WF26kb8DOd7/F8xvfrtnttoNxlM3E+WR0XNe7A=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.16": {
+      "sdist": [
+        "fCrDayCuHzvoTAMijfkmEYKJzVhVuP2u3TffzfGg1h8=",
+        "nlp4ml-0.1.16.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.16-py3-none-any.whl": [
+          "H+Y+shqyMaTDjd6Tu4WTehaUE/BL6N2x2NkNqE87CLM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.17": {
+      "sdist": [
+        "WpwV7RSwEQIqQ8AdJxegUg+/+3sFBHqET9Cg+UaaKBI=",
+        "nlp4ml-0.1.17.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.17-py3-none-any.whl": [
+          "fzJ9OTA/Y8cQTt55ngJrtEAEBUsTcLyunyE9SEyLbo4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.18": {
+      "sdist": [
+        "rb/55xpiHhSvNEF755aO70TCuL88U3M8jTM9se2TxnM=",
+        "nlp4ml-0.1.18.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.18-py3-none-any.whl": [
+          "4BczRQ/T5FGUF/U6uNUyQPRhTRZ7WDJpFMTJFy+O1jY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.19": {
+      "sdist": [
+        "s2Nxgc7/D71JJrR6rTNjRDmMoWMl/uAPehLFq+KjDlg=",
+        "nlp4ml-0.1.19.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.19-py3-none-any.whl": [
+          "peoJLO3IsBtAIAScX9nY7H2QZK2gHWX6/EUL2CEUWus=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "9Tizeuhl7Go3flLzS3bBalNhq8WE9h2WU0cKNjFAMZY=",
@@ -43986,6 +44214,42 @@
       "wheels": {
         "nlp4ml-0.1.2-py3-none-any.whl": [
           "Habzg6eJ0ErNnCdxRpEUbwX8yvAOGveZt6NeOhAU8wQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.20": {
+      "sdist": [
+        "awN5u1Jo4hXjmMYH5KuFHSV0ae5V6EbtIL9La7S5iww=",
+        "nlp4ml-0.1.20.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.20-py3-none-any.whl": [
+          "SVrlHL72tfFKcoRcPzPbsXjCiIDg/on11moGUMJTgQU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.21": {
+      "sdist": [
+        "9mA+gGMXrGQnDmRbU9UUJOBemz+3YHOfggMg0pu9F2Y=",
+        "nlp4ml-0.1.21.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.21-py3-none-any.whl": [
+          "vLkbCq15XH8V6D0Clk/upGTSusl32Og1yJB+PI029O0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.22": {
+      "sdist": [
+        "c25y9xQuJE6bY1P7Tpkdf9dmNx+I7pf8/9HGrRP2SY0=",
+        "nlp4ml-0.1.22.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.22-py3-none-any.whl": [
+          "7Y+oSl6JMk/LGjO6B8ts+Ntph0p5wthIr3tS7vb7jjY=",
           "py3"
         ]
       }
@@ -44034,6 +44298,42 @@
       "wheels": {
         "nlp4ml-0.1.6-py3-none-any.whl": [
           "H0AlrG6B1I8/jofzmIj8FB4CXjqHWMNva1U270EVngM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "GGv9cyfmiuVgPS+YacAHo/fk3VEUTspQSDu0+VOO2Kw=",
+        "nlp4ml-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.7-py3-none-any.whl": [
+          "UTZW6hjw08DbkIeFaUx+ify/FoHO/4UvUqO69CYY8/w=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "Awn6isFfBQepLtlOvgcG/rziToQ3rdErkhpHVIZn8LI=",
+        "nlp4ml-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.8-py3-none-any.whl": [
+          "RRTZahUz1uG4YrCYWJ5WieCDW+v8KOr/ZClFaY6UrHg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "Pn1sDf6caHXbiaO65HNA9eGoOOcIRqR5UD8mNStEVRI=",
+        "nlp4ml-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "nlp4ml-0.1.9-py3-none-any.whl": [
+          "JDMxd7mM/gD7DW+t7w1CJ/cJJLqXdKYml0Ki45IfDbU=",
           "py3"
         ]
       }
@@ -57489,6 +57789,26 @@
         "pyfletcher-0.0.18-cp38-cp38-manylinux2014_x86_64.whl": [
           "NytFc3wAdNUvsVdlkBAwOAUgYOoMm4tSKUqpxOJBdWA=",
           "cp38"
+        ]
+      }
+    },
+    "0.0.19": {
+      "wheels": {
+        "pyfletcher-0.0.19-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "4HEXKOHLlfaIfxtcYKDBZQgACifIJbs47Q84hvNX+AU=",
+          "cp36"
+        ],
+        "pyfletcher-0.0.19-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "vBGI2wNFGspu1NXSERiAUZnCBBx5qBIqmY4c+/eXgYs=",
+          "cp37"
+        ],
+        "pyfletcher-0.0.19-cp38-cp38-manylinux2014_x86_64.whl": [
+          "11qSllWPwxfrJ+u8yOfNSxHyCtXK9SC5JTSxwbaE5hg=",
+          "cp38"
+        ],
+        "pyfletcher-0.0.19-cp39-cp39-manylinux2014_x86_64.whl": [
+          "txciaq++uADmZ6edxIdhNd1MxzHQGHE6j1Tfj0Xb0Q8=",
+          "cp39"
         ]
       }
     },

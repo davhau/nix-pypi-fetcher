@@ -1724,6 +1724,18 @@
         ]
       }
     },
+    "1.0.1": {
+      "sdist": [
+        "MIou7OWV/9+cgHRxyYzZRAdSR9WryavMhm3aEaHgLMk=",
+        "apache-airflow-providers-elasticsearch-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_elasticsearch-1.0.1-py3-none-any.whl": [
+          "RqV2LTzXoAuoEocGKOKOHOECo810rw5yVQTxg8IG0RI=",
+          "py3"
+        ]
+      }
+    },
     "1.0.1rc1": {
       "wheels": {
         "apache_airflow_providers_elasticsearch-1.0.1rc1-py3-none-any.whl": [
@@ -4928,6 +4940,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_iot_kinesisfirehose_s3-1.84.0-py3-none-any.whl": [
           "y5DOeTxb5Wn1hMTyIY5ogziv3X7kg6NZMoEJ2kkhZp8=",
+          "py3"
+        ]
+      }
+    },
+    "1.85.0": {
+      "sdist": [
+        "nA/pipf+VTk1tWue3RRdPniqNKRL89WSbM3NkSjPFms=",
+        "aws-solutions-constructs.aws-iot-kinesisfirehose-s3-1.85.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_iot_kinesisfirehose_s3-1.85.0-py3-none-any.whl": [
+          "LEBtUWF4za0/iCWsDy5KrIE3Y2Djw4btbrGf5qcx5jQ=",
           "py3"
         ]
       }
@@ -14146,6 +14170,12 @@
         "damelibraries-0.0.17.tar.gz"
       ]
     },
+    "0.0.19": {
+      "sdist": [
+        "J/yYyMVtEG43Jhuy6O/2+deFITgbQN7W31IxL58cTWM=",
+        "damelibraries-0.0.19.tar.gz"
+      ]
+    },
     "0.0.2": {
       "sdist": [
         "FKIWXI2Leeq2WHnn5wLEWtNlUcYIiRncc87/snDP8Pw=",
@@ -22542,6 +22572,18 @@
       "wheels": {
         "flipt_grpc_python-0.1.0-py2.py3-none-any.whl": [
           "SWT3a+W1OGkEnEe4El8SF5Z+kNpIeRQKvm20eKTI2q8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "uG6TzMgjuvQkZiACT+3CsZOODwAmUQC0k/DMCglT91E=",
+        "flipt-grpc-python-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "flipt_grpc_python-0.2.0-py2.py3-none-any.whl": [
+          "IS2g+Rar+XyGSNcC2tMWECfVL0TaOSOGLoJ1t07g/K4=",
           "py2.py3"
         ]
       }
@@ -46676,6 +46718,50 @@
         ],
         "NEURON_nightly-8.0a415-cp39-cp39-manylinux1_x86_64.whl": [
           "VdeMUunJEvSGcVKvtJmPnF15Yeie7JMWaI8msbSkk1I=",
+          "cp39"
+        ]
+      }
+    },
+    "8.0a416": {
+      "wheels": {
+        "NEURON_nightly-8.0a416-cp35-cp35m-macosx_10_9_intel.whl": [
+          "iNEx1XHRV4O31rQlb3wo156+qBJl51xeRbSyxyi4kKI=",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0a416-cp35-cp35m-manylinux1_x86_64.whl": [
+          "6yJwUTGpXAK6zz8Fkx7QyQh+2hmjxwy4nuoOUfvZPnI=",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0a416-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "P0kQO75/kC6A7/+CgAjDMBpKObHRQVqHhIxBZ5SqPkU=",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0a416-cp36-cp36m-manylinux1_x86_64.whl": [
+          "b4+CrQncnSGpMamsxa+g39wf8x6a3iEmP99+EIJsOV4=",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0a416-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Gxiiod0gVyT+TsGbc3l5C/9ICNDIiFT1oux9SPxbjw4=",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0a416-cp37-cp37m-manylinux1_x86_64.whl": [
+          "LjSwUQyUUz49PeEUz3CB8kVqJvyvmrKocZ7Jg/mV2dA=",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0a416-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "3CJZT4AU1YN+JSg8oIJTP3LkmvFaUdSkLQvkKdWBCJk=",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0a416-cp38-cp38-manylinux1_x86_64.whl": [
+          "bloFnAeU/pQfy37JLI1Qe0V4idIGG1prgAoGHascJgI=",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0a416-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "TDeDdTZuOCqiKWQ4Up0TnfLydGlv4QijwvyzuAQcnUo=",
+          "cp39"
+        ],
+        "NEURON_nightly-8.0a416-cp39-cp39-manylinux1_x86_64.whl": [
+          "K/lbDKnd03t5el03SCli48PWUgcDSsWnoOBXJgnRLjo=",
           "cp39"
         ]
       }
@@ -78250,6 +78336,18 @@
         ]
       }
     },
+    "0.0.11": {
+      "sdist": [
+        "+qb38sqJO/wurxiT1S0LyWEXozrVumVjQ6F4HfNnmG4=",
+        "vit-keras-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "vit_keras-0.0.11-py3-none-any.whl": [
+          "aQ+FwNHK3OgBozsKTy8MjzTysrQil+OEF3bSsOpvmQg=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "f+25pvO8PfdlC1YLCi2k5+mDoXh1u3iCyaOGdvdK1r4=",
@@ -78489,20 +78587,6 @@
         "w3mo_kivy-0.1.1-py3-none-any.whl": [
           "qiuUc9lsFX9s/A2lI2vsiSY5Q1msLWmdBRHN/E/JAR8=",
           "py3"
-        ]
-      }
-    }
-  },
-  "watch-breach-full-movie-online-free-123movies-hd": {
-    "0.0.1": {
-      "sdist": [
-        "nRKXYFtb+jZZxXiCXSg8zpcaQRBHF3aY9PZkVxWbBMo=",
-        "WaTch-Breach-FuLl-MoVie-online-fRee-123moVies-HD-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "WaTch_Breach_FuLl_MoVie_online_fRee_123moVies_HD-0.0.1-py2-none-any.whl": [
-          "Lqv0sPXYdHMzJUWOBSVzeAvWGFpDNXBc/fX/mZLQ/hU=",
-          "py2"
         ]
       }
     }
