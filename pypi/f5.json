@@ -42859,6 +42859,18 @@
           "py3"
         ]
       }
+    },
+    "1.17.7.0": {
+      "sdist": [
+        "+3l8qGbeCfof0TrvDtE2ELwaCu8GZxyIhPoKtwrSCCM=",
+        "mypy-boto3-sdb-1.17.7.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sdb-1.17.7.0-py3-none-any.whl": [
+          "/NmrOWwytmgS7VPz+fk5LUB72VbRUyS61haFIrGFsC0=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-signer": {
@@ -46094,6 +46106,18 @@
       "wheels": {
         "mypy_boto3_signer-1.17.6.0-py3-none-any.whl": [
           "piyB3QdpXxB8DH3LH3RZl+8xYTeFmd66SRoTisG0iRg=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.7.0": {
+      "sdist": [
+        "dki5OU+pW1Mcd9RSfHE1I5IW1elOMJFL2/iELblfsXc=",
+        "mypy-boto3-signer-1.17.7.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_signer-1.17.7.0-py3-none-any.whl": [
+          "npp+cfhAwUen+MIyHwJGxQGttIYRCndD0ocUlkFKb1M=",
           "py3"
         ]
       }
@@ -52381,92 +52405,6 @@
           "py2.py3"
         ]
       }
-    }
-  },
-  "omfit-dmp": {
-    "0.0.0.0.0.0.0": {
-      "sdist": [
-        "0gzrz0iMo6fBX4qj2l2E6toQF2ydqqaCeYsE901iZhs=",
-        "omfit_dmp-0.0.0.0.0.0.0.tar.gz"
-      ]
-    },
-    "2020.10.19.12.24": {
-      "sdist": [
-        "ORi6Vj1/sUIx85D4xmbvmzXepZ2jZYHG8Rt8vDvFS9U=",
-        "omfit_dmp-2020.10.19.12.24.tar.gz"
-      ]
-    },
-    "2020.10.5.7.13": {
-      "sdist": [
-        "VRG675nZ/1653pSZeTe0iLXu2TbQAJDs1+49dhcMHqg=",
-        "omfit_dmp-2020.10.5.7.13.tar.gz"
-      ]
-    },
-    "2020.11.2.20.1": {
-      "sdist": [
-        "xzqvxETs1q9pvxgdpACHpbRYyQ7xZSBQeDZlQievAkI=",
-        "omfit_dmp-2020.11.2.20.1.tar.gz"
-      ]
-    },
-    "2020.12.2.22.59": {
-      "sdist": [
-        "9oF6kKU8pmF+VdqlHDjHEkaNVTo25CrMSrwMyMVZhzk=",
-        "omfit_dmp-2020.12.2.22.59.tar.gz"
-      ]
-    },
-    "2020.7.22.23.23": {
-      "sdist": [
-        "xqp28KSq1bS3l8xF4g4jjf8O+jwcadJMCw+lgevxlRg=",
-        "omfit_dmp-2020.7.22.23.23.tar.gz"
-      ]
-    },
-    "2020.7.28.11.4": {
-      "sdist": [
-        "iXshjBwSOXvb+Mlg+7AcoCcdTG4BE6OLO56mb0t3g4s=",
-        "omfit_dmp-2020.7.28.11.4.tar.gz"
-      ]
-    },
-    "2020.7.28.11.51": {
-      "sdist": [
-        "cYUDScvYDw1oByIxmOuxd5wz/NnaH4h3fwhYCl4CHtg=",
-        "omfit_dmp-2020.7.28.11.51.tar.gz"
-      ]
-    },
-    "2020.8.10.12.30": {
-      "sdist": [
-        "2Ffy9cJjJPvoedaHIpuzupBepoNmxfE/GdzcLjauYcM=",
-        "omfit_dmp-2020.8.10.12.30.tar.gz"
-      ]
-    },
-    "2020.8.6.13.57": {
-      "sdist": [
-        "I/5q96PZgPD1foy7P0vdfzQ0FGFcjtUn4OWF8qU9m3s=",
-        "omfit_dmp-2020.8.6.13.57.tar.gz"
-      ]
-    },
-    "2020.8.7.12.8": {
-      "sdist": [
-        "hqgjrP+x0wchNGow5H5kXG541W59Ki6SwgGrW7+3WIk=",
-        "omfit_dmp-2020.8.7.12.8.tar.gz"
-      ]
-    },
-    "2020.8.7.14.37": {
-      "sdist": [
-        "s2E6Gg+RpXX8+K8CUpW95Ggy5n1I30YgYgHO/A2BAMk=",
-        "omfit_dmp-2020.8.7.14.37.tar.gz"
-      ]
-    },
-    "2020.9.27.22.23": {
-      "sdist": [
-        "lNiMputuP8UTE1eG2BGFd1UO9AQO0DbhSjIpToVArYo=",
-        "omfit_dmp-2020.9.27.22.23.tar.gz"
-      ]
-    },
-    "2020.9.9.15.54": {
-      "sdist": [
-        "kUsMBjmIpx0ZauHp6ZwCRq/4+/bi6xiqKf0HsbvjGWY=",
-        "omfit_dmp-2020.9.9.15.54.tar.gz"
-      ]
     }
   },
   "oml": {
@@ -62404,6 +62342,42 @@
       "wheels": {
         "pymortar-1.0.9a2-py3-none-any.whl": [
           "qrHLfNkYPm3nih0eT7DhB5Ur40KbM1lYl21uFtqD+zY=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0a0": {
+      "sdist": [
+        "unzRy8RLn6dNGWrn2uKtM6JB+WekN3elW/iOHFob35M=",
+        "pymortar-2.0.0a0.tar.gz"
+      ],
+      "wheels": {
+        "pymortar-2.0.0a0-py3-none-any.whl": [
+          "7Egj2l2N6VTJGxbTBYHaGJ73UKxP36ulsooEgjVneEE=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0a1": {
+      "sdist": [
+        "4vMg7pBLMETC5hcDQ/rqb+6p1uuZLJhEMKm5Zqn6I9U=",
+        "pymortar-2.0.0a1.tar.gz"
+      ],
+      "wheels": {
+        "pymortar-2.0.0a1-py3-none-any.whl": [
+          "aGBArZY/zDn6TPwsKgBqAAPaB2nY2ZQmEhTSLx9HjD0=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0a2": {
+      "sdist": [
+        "B33eLu6RG8YIef0u/mrTg0wO0Mo7VTi4Cz/DOve/TJU=",
+        "pymortar-2.0.0a2.tar.gz"
+      ],
+      "wheels": {
+        "pymortar-2.0.0a2-py3-none-any.whl": [
+          "6tS/LQtnRICUVxglZk9Rnz6w2xcN4C5WgnjBBTWEOwU=",
           "py3"
         ]
       }
@@ -72621,20 +72595,6 @@
         "SPIEPy-0.2.0-py2.py3-none-any.whl": [
           "0h/SxWwDylTTJI3ejGS7cCPfEe94nLZVw3EgGONsDzE=",
           "py2.py3"
-        ]
-      }
-    }
-  },
-  "spinwheel": {
-    "0.0.1": {
-      "sdist": [
-        "BWJQ+Z2BCOfXzjX3sEkHgQH5QNbWpTOgj26Xrya62X0=",
-        "spinwheel-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "spinwheel-0.0.1-py3-none-any.whl": [
-          "3eveVWUQ+v62JmW8SS3Tt5DgxbF4CuOgCT5P6hy72ns=",
-          "py3"
         ]
       }
     }
