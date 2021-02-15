@@ -17595,6 +17595,12 @@
         "LiFGnrDlUfdZvt49jy+NFCgiC3935O3n2+FjUkkrQtU=",
         "dronesploit-1.1.2.tar.gz"
       ]
+    },
+    "1.1.3": {
+      "sdist": [
+        "3AyQwXvh91pKbS9EM1u+87H8i3VTmxb/zQ9q59fqSgE=",
+        "dronesploit-1.1.3.tar.gz"
+      ]
     }
   },
   "dsa-reg": {
@@ -27228,6 +27234,12 @@
       "sdist": [
         "UYaXc4s3rPpoKcfsmXZHdx7dd8gaU5FcNmkhOaP9eYc=",
         "gnuhealth_surgery-3.6.5.tar.gz"
+      ]
+    },
+    "3.8.0": {
+      "sdist": [
+        "dPkrOm3wLJM4FgJ9ewVYvzZv1vWKNX5i8/maVt9Iy84=",
+        "gnuhealth_surgery-3.8.0.tar.gz"
       ]
     }
   },
@@ -42264,6 +42276,14 @@
           "hSzXZxmIGbpDdh27W7tSPj8RKqhv4kqGTuQ6M3iUkFA=",
           "cp36"
         ],
+        "netCDF4-1.5.6-cp36-cp36m-win32.whl": [
+          "dc4fWtxS/mlmdNNpVupBn14Cm3g780LyyzXDsa4yzYM=",
+          "cp36"
+        ],
+        "netCDF4-1.5.6-cp36-cp36m-win_amd64.whl": [
+          "HhZOczZccdRuD3Iy7Lc4Qit+Ib5hTxPJbvbeaV9ToLE=",
+          "cp36"
+        ],
         "netCDF4-1.5.6-cp37-cp37m-macosx_10_9_x86_64.whl": [
           "/yfEIv1Fx6SCvttkPRvg/wxYxvCyiI5v4OPaBZBQ93k=",
           "cp37"
@@ -42290,6 +42310,14 @@
         ],
         "netCDF4-1.5.6-cp37-cp37m-manylinux2014_x86_64.whl": [
           "ECpT3/KQ6bon+z4qRvhyQsIRK+kf1gZjQTQ306eGIS8=",
+          "cp37"
+        ],
+        "netCDF4-1.5.6-cp37-cp37m-win32.whl": [
+          "UEORBDTlVrhIMdB7zeSqhnL/Fdbq50qQoH36qIFx4wE=",
+          "cp37"
+        ],
+        "netCDF4-1.5.6-cp37-cp37m-win_amd64.whl": [
+          "R0dkifbI5NRYS5mupVEf9prMeo09g1lFLkVxI/fsN40=",
           "cp37"
         ],
         "netCDF4-1.5.6-cp38-cp38-macosx_10_9_x86_64.whl": [
@@ -42320,6 +42348,14 @@
           "VNYOvM9E4npR94fLv3WTVONXseSllmhIRCebt19SEds=",
           "cp38"
         ],
+        "netCDF4-1.5.6-cp38-cp38-win32.whl": [
+          "zH96JIQvUPpzrGUghFCrhGJvEce0vBrHIwmnql5fIAs=",
+          "cp38"
+        ],
+        "netCDF4-1.5.6-cp38-cp38-win_amd64.whl": [
+          "roRvmQhSSE//qebHvBqtSqywHSSgvbIBaX8IMkKUnmY=",
+          "cp38"
+        ],
         "netCDF4-1.5.6-cp39-cp39-macosx_10_9_x86_64.whl": [
           "2KTAb3l6Vm5/gR+tv/d6f9axj1H6aoHMGtwY4UFAAjc=",
           "cp39"
@@ -42347,6 +42383,18 @@
         "netCDF4-1.5.6-cp39-cp39-manylinux2014_x86_64.whl": [
           "SEn/30k/YJTZhbNGX6wJqs03ZoT7vSQePSrMxuV2MhU=",
           "cp39"
+        ],
+        "netCDF4-1.5.6-cp39-cp39-win32.whl": [
+          "YcktyogYkDv6iDiFXRuhDidWCu/VtHwDtWlIwQ9rO9I=",
+          "cp39"
+        ],
+        "netCDF4-1.5.6-cp39-cp39-win_amd64.whl": [
+          "K/0UB2HNHs5G09W7Bc9dSsJsrDkoVe5wrPpNfBq3M5I=",
+          "cp39"
+        ],
+        "netCDF4-1.5.6-pp37-pypy37_pp73-win32.whl": [
+          "2Z74aUYz8JW4SR2xqCSTIFcv/w5e79jdYfGL36gpeoA=",
+          "pp37"
         ]
       }
     }
@@ -78500,10 +78548,106 @@
         ]
       }
     },
+    "0.33": {
+      "sdist": [
+        "oSWS+reu3rk7yAbukDRBBzpzEQPvT1dxfxoL5B11Rbk=",
+        "skelvis-0.33.tar.gz"
+      ],
+      "wheels": {
+        "skelvis-0.33-py3-none-any.whl": [
+          "to48aCwoVtR8q1uZf51v+QGT0vofXWuRg1QENdlocD4=",
+          "py3"
+        ]
+      }
+    },
+    "0.34": {
+      "sdist": [
+        "5b2Xp0jTRObtcpWzPZfIin8a+Gw6kS1AXwW+DbOirVo=",
+        "skelvis-0.34.tar.gz"
+      ],
+      "wheels": {
+        "skelvis-0.34-py3-none-any.whl": [
+          "YXSI5OCdMUdKkVKdkzNJ2d2h+YS0sX2mF3L6T0xs43A=",
+          "py3"
+        ]
+      }
+    },
+    "0.35": {
+      "sdist": [
+        "bfHtJ+Fi/8nDMNBdzyaklQAGPf0DBaLHxTQ5UESu514=",
+        "skelvis-0.35.tar.gz"
+      ],
+      "wheels": {
+        "skelvis-0.35-py3-none-any.whl": [
+          "hzKkdlLmYazEGgwLFucb43X6rw+e5wnedQ2uELlOb1Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.36": {
+      "sdist": [
+        "u3A7v9LaSiyuO9PwSii8kBlhrQAX3xXn6B/+QNpc05M=",
+        "skelvis-0.36.tar.gz"
+      ],
+      "wheels": {
+        "skelvis-0.36-py3-none-any.whl": [
+          "mwcb+vBTBSweMOO6yW8UWNwhjWR2GmyBIwyjaVPzlWM=",
+          "py3"
+        ]
+      }
+    },
+    "0.37": {
+      "sdist": [
+        "nEwDgTkC7P+FwfgXxQVyeX74ogiKi8FseixnGn5xdTk=",
+        "skelvis-0.37.tar.gz"
+      ],
+      "wheels": {
+        "skelvis-0.37-py3-none-any.whl": [
+          "ALRXG//54sTLps1FkQqDdrelT0FPI4HUPCcQHmiZ0mo=",
+          "py3"
+        ]
+      }
+    },
+    "0.38": {
+      "sdist": [
+        "kU45Vvngw776J49u48BkB+rcf5N18I4kxYMMOyg5yL4=",
+        "skelvis-0.38.tar.gz"
+      ],
+      "wheels": {
+        "skelvis-0.38-py3-none-any.whl": [
+          "x/8e0A/KEY9A1AaBsYiZooaGpHXDQhIgZTBlkdxOvOM=",
+          "py3"
+        ]
+      }
+    },
+    "0.39": {
+      "sdist": [
+        "ooeHtgdHD7rMxH3I+h0st7MmHdcsJAzwX4oC35wvIro=",
+        "skelvis-0.39.tar.gz"
+      ],
+      "wheels": {
+        "skelvis-0.39-py3-none-any.whl": [
+          "b2FGWU3J+Xs7NakiDp2nrnn0JGQGSeeYU05qL1PtENU=",
+          "py3"
+        ]
+      }
+    },
     "0.4": {
       "wheels": {
         "skelvis-0.4-py3-none-any.whl": [
           "i1nZJwkexz6zTCs/pF9FaG3WtsWOpL1OnrxUbm1LXwI=",
+          "py3"
+        ]
+      }
+    },
+    "0.40": {
+      "sdist": [
+        "QdLEy4uYUoEn+8G5aY4CVAg1GG3au7qAK/y7TKsidBo=",
+        "skelvis-0.40.tar.gz"
+      ],
+      "wheels": {
+        "skelvis-0.40-py3-none-any.whl": [
+          "9t76+V7YiWfVNeGSYfuBsKQc18f7tfPNvzg09utAzAw=",
           "py3"
         ]
       }

@@ -15485,6 +15485,20 @@
       }
     }
   },
+  "django-webpack5-loader": {
+    "0.7.0": {
+      "sdist": [
+        "NfzsZ9OUYJvKg3qM/1UquGOhzL4g9XzU0Nmde98mYJ8=",
+        "django-webpack5-loader-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "django_webpack5_loader-0.7.0-py3-none-any.whl": [
+          "TRZGwj6UFmNkv4QgK8bYkF91XGJ/nBsdmZOilRKYUR4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "django-wenzhi": {
     "0.0.1": {
       "sdist": [
@@ -27910,6 +27924,12 @@
       "sdist": [
         "sWvTlS7OLhpKc+MiVY2+WNn6X9wUnoDScNNrGOqVRKs=",
         "halo-bian-0.12.35.tar.gz"
+      ]
+    },
+    "0.12.36": {
+      "sdist": [
+        "uBcpncRTrG/zGBXXMETCM+dAx5tNJ62WNDz68lQREms=",
+        "halo-bian-0.12.36.tar.gz"
       ]
     },
     "0.12.4": {
@@ -45937,14 +45957,6 @@
       }
     }
   },
-  "oatomobile": {
-    "0.1.0": {
-      "sdist": [
-        "dg1PYfOp6YTYkOKTPDdU4xHTrJcfBpGdf6tB3/hIsBg=",
-        "oatomobile-0.1.0.tar.gz"
-      ]
-    }
-  },
   "ocrzzz": {
     "1.0.0": {
       "sdist": [
@@ -46385,24 +46397,6 @@
         "odoo10_addon_stock_cancel-10.0.0.1.1.99.dev6-py2-none-any.whl": [
           "7P97bjH2IIj/tcHnfqsG2LNL3FjmFfpcYumqXH6xa0Q=",
           "py2"
-        ]
-      }
-    }
-  },
-  "odoo11-addon-account-move-base-import": {
-    "11.0.1.0.0.99.dev4": {
-      "wheels": {
-        "odoo11_addon_account_move_base_import-11.0.1.0.0.99.dev4-py2.py3-none-any.whl": [
-          "Mv9IdAPZTCysoNMR2YZJWwD5Y4p/GZfY6kNMPGxfvdM=",
-          "py2.py3"
-        ]
-      }
-    },
-    "11.0.1.0.0.99.dev5": {
-      "wheels": {
-        "odoo11_addon_account_move_base_import-11.0.1.0.0.99.dev5-py2.py3-none-any.whl": [
-          "bMP0wn1/Imz4QKnlcmRqAX+GYsszSaR9HAF7MjL4Glk=",
-          "py2.py3"
         ]
       }
     }
@@ -69763,6 +69757,18 @@
           "3.7"
         ]
       }
+    },
+    "1.9.0.dev20210214": {
+      "sdist": [
+        "ZMayKC/3sFF1iSZg78SoTwI6vtBLOLnkadoKrGI9eu0=",
+        "pyramid_oereb-1.9.0.dev20210214.tar.gz"
+      ],
+      "wheels": {
+        "pyramid_oereb-1.9.0.dev20210214-py2.py3-none-any.whl": [
+          "slSD/bVE5TTCsB8FfR9O5gWzCgwfo5zXA370UP4/GvA=",
+          "3.7"
+        ]
+      }
     }
   },
   "pyredisrpc": {
@@ -77143,6 +77149,56 @@
         "HufGQcQj379Yp5G/nDmNMeQQqTINzCBnjuje8Z9LmQ8=",
         "root-solver-0.1.1.tar.gz"
       ]
+    }
+  },
+  "rpbook": {
+    "1.0.10": {
+      "sdist": [
+        "2AYfY1BN9qQLL+h2GavyoX4xEncLviSz4gkriC5R4FU=",
+        "RPBook-1.0.10.tar.gz"
+      ],
+      "wheels": {
+        "RPBook-1.0.10-py3-none-any.whl": [
+          "u/Keow7DNM2gjCNvsb4ZRJ70XfMdaE3gtbWm4rUSGqw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.16": {
+      "sdist": [
+        "7BTOmoQuTvz/rsAYQYSZ/uUIQaXRKEPVLujtSdDSn88=",
+        "RPBook-1.0.16.tar.gz"
+      ]
+    },
+    "1.0.17": {
+      "sdist": [
+        "lDdnjWTL3a6ByS1Shvvke9J41eePP70eODA5p65aXnE=",
+        "RPBook-1.0.17.tar.gz"
+      ]
+    },
+    "1.0.18": {
+      "sdist": [
+        "y1SxSH8oQkGLUgvTmKgKF7WnSpVxNAD8oOXAWeaXn3Q=",
+        "RPBook-1.0.18.tar.gz"
+      ],
+      "wheels": {
+        "RPBook-1.0.18-py3-none-any.whl": [
+          "hO7u9ot2scBVlSktEKqiRz9AsePVuR+H8iEdUjyCBHY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.19": {
+      "sdist": [
+        "db6IFBqsrpTo24otC0Y2zzORaYShZMAE8ZnZFYByX+o=",
+        "RPBook-1.0.19.tar.gz"
+      ],
+      "wheels": {
+        "RPBook-1.0.19-py3-none-any.whl": [
+          "R5fF/DkXTzc4GBcsYZmxvAybIdwIMzuJxehtFyB22Bs=",
+          "py3"
+        ]
+      }
     }
   },
   "rst2db": {
