@@ -4926,6 +4926,18 @@
         "boto3_extensions-0.15.1.tar.gz"
       ]
     },
+    "0.16.1": {
+      "sdist": [
+        "7jR1si7psN6JfTMkOoq7R+lVBpt6G4WGMAoOgdSksks=",
+        "boto3_extensions-0.16.1.tar.gz"
+      ]
+    },
+    "0.16.2": {
+      "sdist": [
+        "o+7iHXvscGu3uoH+6MELYbLl+C4NnJxqI1DXtV6qGK0=",
+        "boto3_extensions-0.16.2.tar.gz"
+      ]
+    },
     "0.3": {
       "sdist": [
         "65BM3SmgbWSUHqqt76xbYv1ZogMdudC4gozNZ1soRCA=",
@@ -43833,6 +43845,18 @@
           "py3"
         ]
       }
+    },
+    "1.17.8.0": {
+      "sdist": [
+        "ujmLKO2tE6oTtDv+x+OiG8HNyMG0O0E2YGOv/TF4Sis=",
+        "mypy-boto3-1.17.8.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3-1.17.8.0-py3-none-any.whl": [
+          "FS/iB0W3iYxDR1DCmae7/kEDTl3Zr+jrbFCp+JJbaBo=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-autoscaling-plans": {
@@ -47099,6 +47123,18 @@
           "py3"
         ]
       }
+    },
+    "1.17.8.0": {
+      "sdist": [
+        "Ftek+0uwi+Yqg3K73pMpBxkr+Ul3a2psH+5USGFYbbI=",
+        "mypy-boto3-autoscaling-plans-1.17.8.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_autoscaling_plans-1.17.8.0-py3-none-any.whl": [
+          "M4da2HQO0hlH6Ln0FR21EnIT2Uvp4I7Lc98lkk52DAo=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-ce": {
@@ -50362,6 +50398,18 @@
       "wheels": {
         "mypy_boto3_ce-1.17.7.0-py3-none-any.whl": [
           "RvhPiSB9PgVeXlN9jQtpuJQBGzUa6Y2n6ocLLjIWcjA=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.8.0": {
+      "sdist": [
+        "/ppBhIZbjWtzoF7lXOI3GRnK0JL1SNzjcPCiS3iaqQ0=",
+        "mypy-boto3-ce-1.17.8.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ce-1.17.8.0-py3-none-any.whl": [
+          "EurWyeAhFqsMjdXxi56ejkAMmodp88VeRO2uq1btKWo=",
           "py3"
         ]
       }
@@ -54034,6 +54082,24 @@
       "wheels": {
         "odoo12_addon_partner_group-12.0.1.0.1-py3-none-any.whl": [
           "2sVnw83SqQUF5UC0T7g3WO7GadRhvru1GJCMHFP1pcY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo12-addon-product-supplierinfo-picking": {
+    "12.0.1.0.0.99.dev1": {
+      "wheels": {
+        "odoo12_addon_product_supplierinfo_picking-12.0.1.0.0.99.dev1-py3-none-any.whl": [
+          "cdcVIGBAo6cY5kADzsiWhQzggLhFzD+N4+bhCG6asxs=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.0.99.dev3": {
+      "wheels": {
+        "odoo12_addon_product_supplierinfo_picking-12.0.1.0.0.99.dev3-py3-none-any.whl": [
+          "KUchMsManG6+OTbWbYcneSFrWxJP12RbAKo//lADyd4=",
           "py3"
         ]
       }
@@ -70107,6 +70173,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.1": {
+      "sdist": [
+        "SGF8vMzBGnv4M7c9IoZTra5s8++wMLHmhz2g6ZMZkMo=",
+        "setigen-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "setigen-1.4.1-py3-none-any.whl": [
+          "0lCf1E1v9yKWdudV8db2erwRehEVNx8fMu40JJQHF+s=",
+          "py3"
+        ]
+      }
     }
   },
   "setman": {
@@ -83878,6 +83956,44 @@
       "wheels": {
         "twsqlparser-1.0.1-py3-none-any.whl": [
           "wle+VYJ2SvaxMJr71c627h7gZ/pWBnTb9gbLGkzewVQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "typed-monads": {
+    "0.3.0": {
+      "sdist": [
+        "97br2/+ML2fcfd6qqyr8rTDg7ZInK0lw33i7ztW8VfE=",
+        "typed-monads-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "typed_monads-0.3.0-py3-none-any.whl": [
+          "gNyRsClxoUHzQzLqVU5YayRFr7cnFBxQ91dfTk981Kg=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.2": {
+      "sdist": [
+        "gOAlarxcM93i4UqVL1SB6TlcYRuVLoNdnb4PKii91qk=",
+        "typed-monads-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "typed_monads-0.4.2-py3-none-any.whl": [
+          "zcaev9ITaJ9OLjapwoAPqT+SAgSn1QXa3ICkjkFQ2QQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.3": {
+      "sdist": [
+        "GQLKoa5TGAPg4p8N2q4kDSdE7IzlZFbfvF84g5foJrQ=",
+        "typed-monads-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "typed_monads-0.4.3-py3-none-any.whl": [
+          "OIvnKa8HDFkF6eKOfXxOIMGVfVfnst2DNbDlBICGt3Q=",
           "py3"
         ]
       }
