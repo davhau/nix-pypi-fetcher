@@ -18935,6 +18935,44 @@
       ]
     }
   },
+  "detectorpy": {
+    "1.0.0": {
+      "sdist": [
+        "8pMH05YK2DMdStEEgTnMTWmVWKf5Ej525PBG0VqcTlg=",
+        "detectorpy-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "irXQDgF5YAcrjQ6g7uPyfvFyxkmFsLO7rJHl8bNE2B4=",
+        "detectorpy-1.0.1.tar.gz"
+      ]
+    },
+    "1.0.2": {
+      "sdist": [
+        "6G7DmKxT9H5VZLLTaKwpZm2PfTalUIdTxq5RyhjYQCA=",
+        "detectorpy-1.0.2.tar.gz"
+      ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "kafFfxMlyE286mNx5Abi8tLI9hXSuJJapNsjfoUmCJ8=",
+        "detectorpy-1.0.3.tar.gz"
+      ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "GLlUuztcvRzARN/Un7M+nxBjlQ1J9g6Mu46zwp3RBsg=",
+        "detectorpy-1.0.4.tar.gz"
+      ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "7fL/dVdV169CjWurT1gb1KQAZ4HKTtwwlaK89H/Gov0=",
+        "detectorpy-1.0.5.tar.gz"
+      ]
+    }
+  },
   "device": {
     "0.1": {
       "sdist": [
@@ -37966,6 +38004,18 @@
         ]
       }
     },
+    "1.2.19": {
+      "sdist": [
+        "XVki9LHfFuG1zjqGFTQopfJTAnyl0OpUFWaNE7WIeqo=",
+        "jupyterlab-1.2.19.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab-1.2.19-py2.py3-none-any.whl": [
+          "OuaI4gWO4VbQvZr3FYIMAcLxjdpSrnupjw1FFwqmwJ8=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.2.2": {
       "sdist": [
         "ltMUbrCf+goZjzGzZwaFna3UpZ7RhKqTKanBJzPmrws=",
@@ -48945,6 +48995,18 @@
           "py3"
         ]
       }
+    },
+    "1.17.9.0": {
+      "sdist": [
+        "GwqG0gmWCY5/PpykJG5qedDEASVF05YjKDcPTbj+Yeo=",
+        "mypy-boto3-workmailmessageflow-1.17.9.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_workmailmessageflow-1.17.9.0-py3-none-any.whl": [
+          "Fh1P3RRl3V3bBurEvEshy/bxvCj7fzOAizhiGSMtzOI=",
+          "py3"
+        ]
+      }
     }
   },
   "myquery": {
@@ -53760,6 +53822,18 @@
       "wheels": {
         "opentelemetry_instrumentation_fastapi-0.17b0-py3-none-any.whl": [
           "xWD/6/9IKQ55DSnzl3watGhx/4pPHE6crU33EDPlICY=",
+          "py3"
+        ]
+      }
+    },
+    "0.18b0": {
+      "sdist": [
+        "bsZGTjiNAgOZH458KwZjAWp1NfrVAbqh82qwe4qbmW0=",
+        "opentelemetry-instrumentation-fastapi-0.18b0.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_instrumentation_fastapi-0.18b0-py3-none-any.whl": [
+          "BgtMVLegnbwdAoA7NME/OaV8K4XQcogHZ2PyXioSO4I=",
           "py3"
         ]
       }
@@ -64796,46 +64870,10 @@
     }
   },
   "pywindowframes": {
-    "0.1": {
+    "0.147": {
       "sdist": [
-        "xzGw9m8gNMg1FUps2NiWG27gt8aknBgNz+vz7waZzL8=",
-        "pywindowframes-0.1.tar.gz"
-      ],
-      "wheels": {
-        "pywindowframes-0.1-py3-none-any.whl": [
-          "nXTvSIzXCWlIZU9lb8WQ8AtFJVQ4OrgPrEkiFPRk2Bs=",
-          "py3"
-        ]
-      }
-    },
-    "0.11": {
-      "sdist": [
-        "zWqhP+lE0BKKf2atrBGY2sScmI7V4o8Cb5J9VIQSUM8=",
-        "pywindowframes-0.11.tar.gz"
-      ],
-      "wheels": {
-        "pywindowframes-0.11-py3-none-any.whl": [
-          "IqrDWlr3dqH7KRkGz1iLjqHJ9HkEGFEs23fAM9YiGdQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.12": {
-      "sdist": [
-        "EAgiQaZzoshCaPigwnmmpUuCXkxJJlzeCBvmpv4SK5M=",
-        "pywindowframes-0.12.tar.gz"
-      ],
-      "wheels": {
-        "pywindowframes-0.12-py3-none-any.whl": [
-          "ocP8rKpg9N6vkTkoja7M7E7/yiqR8Hczu5xgjp7V2pw=",
-          "py3"
-        ]
-      }
-    },
-    "0.14": {
-      "sdist": [
-        "eCxiPpdNNrAVjV4Kj185itfO/CPqECPGUfcJ0MAlDc0=",
-        "pywindowframes-0.14.tar.gz"
+        "PsF4+RU7uvW57LwrpIjgeSqv4ZleUz1y/GAkdDziQVM=",
+        "pywindowframes-0.147.tar.gz"
       ]
     }
   },
