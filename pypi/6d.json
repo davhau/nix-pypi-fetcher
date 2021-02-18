@@ -4915,6 +4915,18 @@
           "py3"
         ]
       }
+    },
+    "1.90.0": {
+      "sdist": [
+        "XfQ7ZCEl8UrwEdQ3mWooV8c7TRKAd4mVR8Llh3iI5a8=",
+        "aws-cdk.aws-route53-1.90.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53-1.90.0-py3-none-any.whl": [
+          "fRSKgze1HkMtE4E4yWB0Va/FsTOOHQlUKZogPmq6WkU=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-inventory": {
@@ -9436,6 +9448,22 @@
       "wheels": {
         "c2cwsgiutils-5.0.0.dev20210215135250-py3-none-any.whl": [
           "bX2axVYPHV0HZiGRErjdr6Hby9PhFbZygP5FxtSaQio=",
+          "py3"
+        ]
+      }
+    },
+    "5.0.0.dev20210217140730": {
+      "wheels": {
+        "c2cwsgiutils-5.0.0.dev20210217140730-py3-none-any.whl": [
+          "KX+KTO4gp1p+4ZQhFCTroShiLJQSx08mAIPIPU0UAgc=",
+          "py3"
+        ]
+      }
+    },
+    "5.0.0.dev20210217141158": {
+      "wheels": {
+        "c2cwsgiutils-5.0.0.dev20210217141158-py3-none-any.whl": [
+          "nAtOynI0Q4b0hFamXJsEAERE+hiQJCuIb4GM9tdmIGY=",
           "py3"
         ]
       }
@@ -16425,14 +16453,6 @@
       ]
     }
   },
-  "ddvc-distributions": {
-    "1.0": {
-      "sdist": [
-        "v3gJwFyiniYjjoCPh7GyuzUlZI3UFETzlb0ybtOv+3U=",
-        "ddvc_distributions-1.0.tar.gz"
-      ]
-    }
-  },
   "deepsensemaking": {
     "0.1.2020.11.26.3": {
       "wheels": {
@@ -21968,50 +21988,6 @@
       "sdist": [
         "1/Lo9MFRvR06bees3UYc5gcG3AVDMYsNtHT6/Pxi3RA=",
         "edxanalyticsdataapiclient-0.1.1.tar.gz"
-      ]
-    }
-  },
-  "egrep": {
-    "0.0.1": {
-      "sdist": [
-        "ty5sXyOjFKeQODEA604MQaiEnoOEc0/M0/eBfkeruXA=",
-        "egrep-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "egrep-0.0.1-py3-none-any.whl": [
-          "mLUhWdBw/FQHbckGTh8wNSzGDU8V8zqUAn4ZS4DrGDk=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "bjTwMLiUh1vvXXcLHVfNt9m1r7Pz8tKV2j3wuyis7fs=",
-        "egrep-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "Mq5WkGFzViNXrKM2KW1BA0gdqwjah8qtg9a+6I4M2oQ=",
-        "egrep-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "3MC85BaKs+5tFqB1eDJeaDzrJ2P4y/AAvVKSz2vTxD4=",
-        "egrep-0.0.4.tar.gz"
-      ]
-    },
-    "0.0.5": {
-      "sdist": [
-        "krKBnxYSuS8OOW0iHCZ46W9x5CxoX18ybQvYPj3xue4=",
-        "egrep-0.0.5.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "Y3ELKVYGDw1Jt+Wtn2Rj7wMZRtqPP15Yen61ciZUBdY=",
-        "egrep-0.1.1.tar.gz"
       ]
     }
   },
@@ -35873,6 +35849,12 @@
         "OIrUBb90+APuHh5VGlcljPuvCzGGqtjIIX05iMqDIls=",
         "lastfm_stats-0.1.tar.gz"
       ]
+    },
+    "0.2": {
+      "sdist": [
+        "YxmYQM+c90Lz4xCj6QrvdZmx8MBu7lqDW1qXbwihFSo=",
+        "lastfm_stats-0.2.tar.gz"
+      ]
     }
   },
   "lazypredict": {
@@ -35980,6 +35962,18 @@
       "wheels": {
         "lazypredict-0.2.8-py2.py3-none-any.whl": [
           "H3i7BXxOkgn2DYoyM3rHy4LTDh/6Qoo4UwzazM5xdr8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.9": {
+      "sdist": [
+        "RThTF1UXvUuSjHEiw5cUaIII8OZtxOnXwalFQz8VcVg=",
+        "lazypredict-0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "lazypredict-0.2.9-py2.py3-none-any.whl": [
+          "jkj8HY1nKiV6OjtC4ekfpiJY7AQXzDekg4O4Q99ldQQ=",
           "py2.py3"
         ]
       }
@@ -42895,6 +42889,18 @@
         "zed5V/jOUuTQyCd7DxBUVYNUcHqRL5NAix661XBoUsU=",
         "MyCluster-1.0.1.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "QlSjrwGmCdq0KybJCzTFF25RYSbAuXzBjk+zoLDLtaA=",
+        "MyCluster-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "MyCluster-1.1.0-py3-none-any.whl": [
+          "81cikXyUz9F11ZnPoosncBwQ+F6AM0/cIAqihq9bgbo=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-kinesisanalyticsv2": {
@@ -46050,6 +46056,18 @@
       "wheels": {
         "mypy_boto3_kinesisanalyticsv2-1.17.1.0-py3-none-any.whl": [
           "UKgNe2Q6UbcssBYVe2IwwcOuoNIGWLFUiqek818F0O8=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.10.0": {
+      "sdist": [
+        "IviJMDWwgIPOtiCe112g4CPkPJEmc0sxmbRjbJIA/OY=",
+        "mypy-boto3-kinesisanalyticsv2-1.17.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kinesisanalyticsv2-1.17.10.0-py3-none-any.whl": [
+          "I0nN0qwKc/NgdbRfWmufKcczS3lerReqUJ38unErXkE=",
           "py3"
         ]
       }
@@ -49320,6 +49338,18 @@
         ]
       }
     },
+    "1.17.10.0": {
+      "sdist": [
+        "bplgc7ISkdIrdIFXx5Udy+H1CQQWqqcJPbL+3PlbzvY=",
+        "mypy-boto3-rds-1.17.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rds-1.17.10.0-py3-none-any.whl": [
+          "iKCSUbY9l8oQ11hJ73ySXf5HaJh8HuCcyhp+tzmDJlY=",
+          "py3"
+        ]
+      }
+    },
     "1.17.2.0": {
       "sdist": [
         "Vlh7tbpYImfRnKZ6+GWHVWhDdSGNjdABK7YRVGDxyQ0=",
@@ -49981,20 +50011,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "nester-blusli": {
-    "1.3.2": {
-      "sdist": [
-        "x2HjZWhhumweteJNibeAwXvIOs79FmcIBIK6W6sXXmU=",
-        "nester-blusli-1.3.2.tar.gz"
-      ]
-    },
-    "1.3.3": {
-      "sdist": [
-        "YwVoaQve+xCqYfrD7DwC2raCNZQWbUbkd/ClEN380zA=",
-        "nester-blusli-1.3.3.tar.gz"
-      ]
     }
   },
   "nesterwywywy": {
@@ -60263,6 +60279,16 @@
         "pulsarbat-0.0.4-py2.py3-none-any.whl": [
           "7rTMhAv+tiHsIVz4iIotO9wILWubyhACAmYCT/hzvv8=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "purplship.yunexpress": {
+    "2021.2": {
+      "wheels": {
+        "purplship.yunexpress-2021.2-py3-none-any.whl": [
+          "ypXDU/w0mwN9KknzmamZef37w0EFRI3RIDXu/zKVMgo=",
+          "py3"
         ]
       }
     }
@@ -80316,6 +80342,18 @@
       "wheels": {
         "vk_spammer-1.2.2.7-py3-none-any.whl": [
           "QTtY3d3HO2uuHAyxA2aN+ZZSZX1V/9zKujagKcu7Ktg=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.2.8": {
+      "sdist": [
+        "tqR2jUHJOYWeTOpmiWJfVqxEcf8kopc7E3tHcNuy9zc=",
+        "vk-spammer-1.2.2.8.tar.gz"
+      ],
+      "wheels": {
+        "vk_spammer-1.2.2.8-py3-none-any.whl": [
+          "OGnNCLTFeo9YFQpjY/E1SSgp+VpHfJv5fQI0ftaBTZM=",
           "py3"
         ]
       }

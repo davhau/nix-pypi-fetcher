@@ -9083,6 +9083,18 @@
           "py3"
         ]
       }
+    },
+    "1.90.0": {
+      "sdist": [
+        "R2eTk2+bZhP609Jkq0BsDVxn9cfAFsIkLk1im7QTRPI=",
+        "aws-cdk.aws-dynamodb-global-1.90.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dynamodb_global-1.90.0-py3-none-any.whl": [
+          "ZlS30WviCtiI8OiIxopeyX5pDjTgk25RUJWpFVXsiRo=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-encyrption-cli": {
@@ -24022,6 +24034,18 @@
         ]
       }
     },
+    "1.28.3": {
+      "sdist": [
+        "eKSO+P9P7QkiYeyxpg2bKLd3bnLtbfWRqQAAgDkwiw8=",
+        "docker-compose-1.28.3.tar.gz"
+      ],
+      "wheels": {
+        "docker_compose-1.28.3-py2.py3-none-any.whl": [
+          "zrIb15MWmPPiKO5uuV+v0sVg47ZE/nMoT3UpnvJ9cPY=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.3.0": {
       "sdist": [
         "mITlv+4lzgDo8jngXeS/3hzgg1m0WMohI7qUet0X0Mk=",
@@ -34230,6 +34254,30 @@
         ]
       }
     },
+    "0.27.3": {
+      "sdist": [
+        "S6E0kT3rtlgRYcn3q622AATh82uXFh9KauvTZ4K4vZc=",
+        "invenio-rdm-records-0.27.3.tar.gz"
+      ],
+      "wheels": {
+        "invenio_rdm_records-0.27.3-py2.py3-none-any.whl": [
+          "gI9FKO1Ih+m5N2GtCVprCYSv93x8vbnRFF8EKDwY/f4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.27.4": {
+      "sdist": [
+        "LFATY7SrrYh7mEURHl23UbO+nBHclMZ9JNiYixWU9KU=",
+        "invenio-rdm-records-0.27.4.tar.gz"
+      ],
+      "wheels": {
+        "invenio_rdm_records-0.27.4-py2.py3-none-any.whl": [
+          "HtG9yJpkRW73VwhiJ7lXjpVCnUPseicvASfVV+ksq2s=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.9.0": {
       "sdist": [
         "vgq+zhT4EGuUpQleHe6eJU+JMYgUZd/zcizw0ra2ZZM=",
@@ -40173,6 +40221,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "Zy03YEFywsX/TxUT3hQgiQa4EB7xm8+hL8TkAT9iDhM=",
+        "lxutils-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "lxutils-0.0.2-py3-none-any.whl": [
+          "LA8JrSFUoCJ5CtkVTVarCO4m9L6ZbwpgzdKPIkJiHuQ=",
+          "py3"
+        ]
+      }
     }
   },
   "m9s-party-address-type-strict": {
@@ -41786,6 +41846,18 @@
       "wheels": {
         "mewpy-0.1.3-py3-none-any.whl": [
           "5GZqbu/4i0tzOYkZfBAJr25sXUP691nfbsAKZJnNNDI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.4": {
+      "sdist": [
+        "G3FNg0hWuoBrMniJJHYqOa3UVAc44Zn4/aZbzSAbWn0=",
+        "mewpy-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "mewpy-0.1.4-py3-none-any.whl": [
+          "mn1AYXao26QIAmDXHdnOGxUnoYRhH8IihnskcHzIXU8=",
           "py3"
         ]
       }
@@ -52595,6 +52667,56 @@
         "polygeohash-0.2-py2-none-any.whl": [
           "bcWDvp6RKipcrxQj+Ct3wnVi504bnrCIoUR2+mUB+5g=",
           "py2"
+        ]
+      }
+    }
+  },
+  "poola": {
+    "0.0.1": {
+      "sdist": [
+        "B5gRyyZugNRlbe9/MFXLC53uL/S+/MptmnXMg+M5DMY=",
+        "poola-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "poola-0.0.1-py3-none-any.whl": [
+          "Bsb9jaAVYN0D5ryPlZ0F3o/gwPYAFPCzYYVlBjlergk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "Grq35y9oVew8F/iTdSS+MLK92603ToLd+iGZnzj+Jck=",
+        "poola-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "poola-0.0.2-py3-none-any.whl": [
+          "4JlTf5oDP2IPnWK8IfGEPjlfPyQVSnhXu9ITovNdJ4w=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "P6zJIf/mQKXVxIelqxFWtnSZcWTkLpPcNj2eWYIM0DM=",
+        "poola-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "poola-0.0.3-py3-none-any.whl": [
+          "FmeS7zjXeKb7r+mcbJRGu8I3ePzFD+cdQ5V0x49oHQ4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "lUnLaiUQrOFMHW+Av3rn3WF6XS0rbHaRE8SaoaByLFo=",
+        "poola-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "poola-0.0.4-py3-none-any.whl": [
+          "LbqZ8pc3OHV7W3ZEbG5OSUcPC5E8zwYGc2dUVNoQ518=",
+          "py3"
         ]
       }
     }
@@ -65238,6 +65360,14 @@
         ]
       }
     },
+    "2.3.15": {
+      "wheels": {
+        "shuup-2.3.15-py2.py3-none-any.whl": [
+          "dkM4CJ9pkn5CxyX//HPduMss2kAzqRkuSDNas8EQ9wc=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.3.2": {
       "wheels": {
         "shuup-2.3.2-py2.py3-none-any.whl": [
@@ -67983,6 +68113,32 @@
       ]
     }
   },
+  "structlog-overtime": {
+    "1.0": {
+      "sdist": [
+        "SQU6Usap4MFm8mbxWJfrNR5PjcHU5mntDjhTpo3YAWI=",
+        "structlog-overtime-1.0.tar.gz"
+      ],
+      "wheels": {
+        "structlog_overtime-1.0-py3-none-any.whl": [
+          "GDgNRo/ZxMqgMkxrtjiQgbTeiZ+bDSWckYMaHEj/ghA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "687nVXFSqaPvPirWYtENVWNBroL7LW6axFxQ92CkxD8=",
+        "structlog-overtime-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "structlog_overtime-1.0.1-py3-none-any.whl": [
+          "Dc84VRoogSO5wdX3oK6Vqd7JRHksCen4p2TTUJeLsqo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "stups-ssh-tunnels": {
     "0.1": {
       "sdist": [
@@ -69470,6 +69626,18 @@
       "wheels": {
         "tabulate-0.8.7-py3-none-any.whl": [
           "rGTLdtU7EjHTZLq81yq7sWhVrax95mZRIvl7WT8esro=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.8": {
+      "sdist": [
+        "JvJYnYDTMv79I3HTloY97euAb1G1S9tLJkV5JwtiHpI=",
+        "tabulate-0.8.8.tar.gz"
+      ],
+      "wheels": {
+        "tabulate-0.8.8-py3-none-any.whl": [
+          "1v4pj8CljYSNYWARjRfnCQXzZ2ZVLuePih9NZOjhaRY=",
           "py3"
         ]
       }
@@ -77405,6 +77573,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "wpatestpackage": {
+    "0.0.1": {
+      "sdist": [
+        "d6P4fCOGKtz+DCAOuCgFGrq2y68hx9xOVGHUMrQnvVw=",
+        "WpaTestPackage-0.0.1.tar.gz"
+      ]
     }
   },
   "wpexport": {

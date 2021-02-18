@@ -5451,6 +5451,18 @@
           "py3"
         ]
       }
+    },
+    "1.90.0": {
+      "sdist": [
+        "01MUIGicVh9efxcgjcqGawVoPQSI/qWVf0CSPLZ5jHo=",
+        "aws-cdk.aws-ecs-patterns-1.90.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ecs_patterns-1.90.0-py3-none-any.whl": [
+          "bfBMk9ICZxT/BiDlBZeKJ5ZrSZaU76Lr0eGS/qoObbo=",
+          "py3"
+        ]
+      }
     }
   },
   "awslambdalogging": {
@@ -33576,6 +33588,786 @@
         ],
         "dependency_injector-4.23.2-pp37-pypy37_pp73-win32.whl": [
           "Oigz4e2VTxIlBdeF0l0UNSEhz+k1INT7dtiHSzcDFHU=",
+          "pp37"
+        ]
+      }
+    },
+    "4.23.3": {
+      "sdist": [
+        "KB30dKgPktGcb8Q5OI+e1kGQZvTb3wcV6YsV7d2YKyk=",
+        "dependency-injector-4.23.3.tar.gz"
+      ],
+      "wheels": {
+        "dependency_injector-4.23.3-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "5+gkh2TqKY6NLHhAbB75x5gfjFt8g8HtOxFR3EiVLVw=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.3-cp27-cp27m-manylinux1_i686.whl": [
+          "LiwR7iBKq2iP2AQqAHUMFBeeEGjLDa8QtCvXHh613uU=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.3-cp27-cp27m-manylinux1_x86_64.whl": [
+          "WWbgZ2QL+nyxF/u8ACMBjCmLGxbpXGUzDjhcu07ngcw=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.3-cp27-cp27m-manylinux2010_i686.whl": [
+          "R0Lld/G0ztXWvUn+4NwprlqXpAxtLOKFNC9CYujAN0U=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.3-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "F31rdMiVXXmKq1BdU9Vt/pJ0c2U4YG9vOPG/Ct9FG5Y=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.3-cp27-cp27mu-manylinux1_i686.whl": [
+          "nYu+rwceQF8lV9EPoCVDjTagzvSbLM7+u7nVn3epiQA=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.3-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "DndRREmRMS8XTPdCZ1huxz3Vylh5SIon/s7UNxgCvu0=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.3-cp27-cp27mu-manylinux2010_i686.whl": [
+          "4hRbfKKMGtxU4CYRvPZlmc7ZfROcRVczXzRbh+52ZDA=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.3-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "VNMTRekZfpjU07PoPAZsomVB8cjObEUX4dekcSPCtx0=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.3-cp27-cp27m-win32.whl": [
+          "bny+KomfeY/z2R4EVoK9darnFNhSw0EpEBvCo5Dse1k=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.3-cp27-cp27m-win_amd64.whl": [
+          "QnGSbFwZBUwQYS/wIkfeF9XCVKhMaHT8xF9jpQQNGCo=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.3-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "k2knJbU0GeT9bbYi9E7k5K6T17bx2C51eDGPj+cZ57A=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.3-cp35-cp35m-manylinux1_i686.whl": [
+          "50qS0A+NrlCevoAfUl1zgY+G0hmTfVu3CrYigjYaH0Q=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.3-cp35-cp35m-manylinux1_x86_64.whl": [
+          "Htvo4x2onnGTQPQBX/85C+gtMaIEN1ExDYGJm1Ev2Fk=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.3-cp35-cp35m-manylinux2010_i686.whl": [
+          "zk6pzt0m9cl+UUXCgO6DnZbpmHPp9y6eqxvpaAYk9BI=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.3-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "KujfW8CxgnntrX7BLzs6iuJTE7wWKxkYlykIqnLzw2A=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.3-cp35-cp35m-manylinux2014_aarch64.whl": [
+          "dkRKygReVPxYbfgcrAA1xKauNRc4o/86AnjyTUMRB28=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.3-cp35-cp35m-win32.whl": [
+          "dQt0Xmn90x9iP4Tfk1HUwgAYTVgnieJMo1GkO4nwSws=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.3-cp35-cp35m-win_amd64.whl": [
+          "ZAx4cXuTFpBQintmUMBve0TN5nll7lA3dQbK+mhXqzA=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.3-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "e9dAhAdCYU3qfX1fILxDELnV0SNlNmMw9bSgnunayCY=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.3-cp36-cp36m-manylinux1_i686.whl": [
+          "Wjspg/oGj9EaQVoTscNiLvgowKfS2HBHRkNlhDIHZ4s=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "9Q2GNQdQ47iDiOiPVWoPC2hFOz+A/VQ0v//S4BOGrOM=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.3-cp36-cp36m-manylinux2010_i686.whl": [
+          "T75cTbHdDXvkzcLu/BC3T4SC+ncwBQPFwzqWmWLvJdk=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.3-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "UNvUaKbMYPoXC+cu52cjeKhza90FnYzZeClctC0hUQM=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.3-cp36-cp36m-manylinux2014_aarch64.whl": [
+          "kd+C87V0/PnpwnQq2KvTqR1/4RRLVWIVHn1zIUAQPRs=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.3-cp36-cp36m-win32.whl": [
+          "c25piGhyAeO4TRepYXsZJYFheJ2SzBQa3tjbf/8W6UI=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.3-cp36-cp36m-win_amd64.whl": [
+          "tULNyJr9Gz2E1IJ5RoEaDHlrCx360i/QxW0OAxAfpYI=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "U39iziWnwF/p9+yjupnAmJFsjUHTV/EF/iBK/NgAcmc=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.3-cp37-cp37m-manylinux1_i686.whl": [
+          "bJpB5E74orJZpyBNeMSKFkXwap4IfAV6riQIWqbtpxg=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "B2aPLCWedll1X8rGo1dJ6FhSSAvN4PtMndKL0+6KKZE=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.3-cp37-cp37m-manylinux2010_i686.whl": [
+          "tryDrAyYeNOSRmTL1CpLp3yMkOLqt8Vu5iWJ2jXt6II=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.3-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "GyIS/+Nnugyg2qURnamW09wa8+ESg2S55Fq1CDH4YOo=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.3-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "qNLnEnpY0ufRahVNZvzxGe08KUf/nV3oCtEV86uhoKo=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.3-cp37-cp37m-win32.whl": [
+          "ku9A3UOyEtKs7UuR1BAB6IXQ9T/LJFbo96MC40/QhIM=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.3-cp37-cp37m-win_amd64.whl": [
+          "cx3RSttvdiaQRSdYk1geTE5UX+coLzwVIc6kvolW9DA=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "QwPwZGHkueUp4L0Z/JBFfmITORl+Ax1U3bktJURg+K8=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.3-cp38-cp38-manylinux1_i686.whl": [
+          "MGxFkWIBIEpQ66yuQAvFjtsCcxSDkgNt7mCi/7VeZcA=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.3-cp38-cp38-manylinux1_x86_64.whl": [
+          "Pb31i4iT+cTnG1oUTRmHnUACPd91hOdQ3/EU/5/ixC0=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.3-cp38-cp38-manylinux2010_i686.whl": [
+          "B1hBdGLEaRMzFS/ooBneY89/JkM+p5zUjUiIrlnH4mA=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.3-cp38-cp38-manylinux2010_x86_64.whl": [
+          "S/mTx83juvTnGk51xA3SxTvQ5LX0rXAjWLbL/MtnejY=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.3-cp38-cp38-manylinux2014_aarch64.whl": [
+          "BFikiX31/DTRmELtshm69Dh+xK5aHCHwJbI1To5donE=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.3-cp38-cp38-win32.whl": [
+          "PCq13lzEju3g9eImVA8IsN2SmC5/bYJBX/76wd9h+R4=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.3-cp38-cp38-win_amd64.whl": [
+          "56jPpkyk99YgYec7QWtr0eoGCasEqKi7ob1ptjayXN8=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Q3kU+HWOFas//Uq0DaQoGuWeE9mKvPyU7mpYGvV/BUc=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.3-cp39-cp39-manylinux1_i686.whl": [
+          "x1LP9FD3F8H9yAaP3IOpDZGEkDDlsgfbSlTwmMs69t8=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.3-cp39-cp39-manylinux1_x86_64.whl": [
+          "RYAZOWPsZm/NnWD7W4MVOmW92/p0jWNuwlOAyN4Dkb8=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.3-cp39-cp39-manylinux2010_i686.whl": [
+          "R/RQ7108dkLrXxEV5viL/dcjuYoMy10UyNSOXuO+JHQ=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.3-cp39-cp39-manylinux2010_x86_64.whl": [
+          "1L8ufcsa2fvwXIKS2B20+H2cmQM0ye/jUNXKAFEfJAc=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.3-cp39-cp39-manylinux2014_aarch64.whl": [
+          "Z5snmXMYtx1Qnx169G/ZcFhqB0AGWUZsZDhEqrd/opw=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.3-cp39-cp39-win32.whl": [
+          "ZZcAjDg4uTcPrjOUcM+RVFqWWICS+IWj9TcMEU89pss=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.3-cp39-cp39-win_amd64.whl": [
+          "nvkJCqG3c7sjlkka5E9j8c3IQsBTVWbEwS/bpyEoFQU=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.3-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "rIYAcPx95q9xjJ5dPS9jjpPoMgfKEdOanWcxnJzKa9M=",
+          "pp27"
+        ],
+        "dependency_injector-4.23.3-pp27-pypy_73-manylinux1_x86_64.whl": [
+          "JAMNwUFcsanIpUwPzb3L6YNRd2wFpUXlcdyPCCEB8AI=",
+          "pp27"
+        ],
+        "dependency_injector-4.23.3-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "Mq3PLAOv4Epr2GH6BKulIej0KQGAnt9VEfR+K1AnNc4=",
+          "pp27"
+        ],
+        "dependency_injector-4.23.3-pp27-pypy_73-win32.whl": [
+          "RgqwUAQCI/jYl/hP45cmvRbEJK+YRZcA6IVV6DPlmYk=",
+          "pp27"
+        ],
+        "dependency_injector-4.23.3-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "Bfuvvhij4Pncjyeoy3HGcw2lxeojkAZ8C6Y11+tAtEM=",
+          "pp36"
+        ],
+        "dependency_injector-4.23.3-pp36-pypy36_pp73-manylinux1_x86_64.whl": [
+          "PUmgONp18D/oFDvQ+8aqnzZgabea3PBR0OLB1c4CdW8=",
+          "pp36"
+        ],
+        "dependency_injector-4.23.3-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "2sPXSpj0SAAzoWI1HS4/rBw0EVAOkwtqIYOI0y1fqMg=",
+          "pp36"
+        ],
+        "dependency_injector-4.23.3-pp36-pypy36_pp73-win32.whl": [
+          "eJtZeIiiWaFQHJ3bxUdzny5bcPDhPrCJMNl+mHPy10o=",
+          "pp36"
+        ],
+        "dependency_injector-4.23.3-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "684HLVmO5P030huGF23bTT4G7HIK/wHdqt9jfqNQOsQ=",
+          "pp37"
+        ],
+        "dependency_injector-4.23.3-pp37-pypy37_pp73-manylinux1_x86_64.whl": [
+          "rFgdHsrBISm4ZR62pu02CwH7UVOX+curOOd+j+JcJlw=",
+          "pp37"
+        ],
+        "dependency_injector-4.23.3-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "CJjv1IBZQbBQjbxuv/oL2q1W4m9z+DoFrzTGnXOprxA=",
+          "pp37"
+        ],
+        "dependency_injector-4.23.3-pp37-pypy37_pp73-win32.whl": [
+          "+qMxgEs18SqYooW4WRFqos32HxjNMJqvSUH25Hnbz7o=",
+          "pp37"
+        ]
+      }
+    },
+    "4.23.4": {
+      "sdist": [
+        "tNoGr+Rb2k96NwBR9p+rvTxno6plno7ZrDp2eZwxzSw=",
+        "dependency-injector-4.23.4.tar.gz"
+      ],
+      "wheels": {
+        "dependency_injector-4.23.4-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "5AuUX3mGIVb5R4TqgID0Y9yFW54C15MVljzk/YedBi4=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.4-cp27-cp27m-manylinux1_i686.whl": [
+          "K6/Ut/z22AbUwsJmRQgOS6woFFouB4LXtWpAKq6xpOU=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.4-cp27-cp27m-manylinux1_x86_64.whl": [
+          "T9a9PF+4ijNSPzvd7eD0bt2E8/UKJwGiCqb2FW6Umo0=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.4-cp27-cp27m-manylinux2010_i686.whl": [
+          "V9JmaA9OxYem4ZkiWC+ZOX77wuCKrVyRjAbaGnDraEI=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.4-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "G0fY+x44XtsgYWxyb2cBbESAXvqeVJWbAralZZAH3CM=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.4-cp27-cp27mu-manylinux1_i686.whl": [
+          "woKz8kDrkp/FswJM3Yfd9fnqcUYMEgvn/ON/e4NHDIM=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.4-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "CkBYOoyhPPMeU/GR4HOyS1X1I182pcSh07rvUf5oLLo=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.4-cp27-cp27mu-manylinux2010_i686.whl": [
+          "vfCojtjeeXcexjxjsa3QEIg3THhJzyzemAeEGS3I8AQ=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.4-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "q37PacqLAjtb2DaHXQaMBixLrBHJelB0MT5YB0hFbFE=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.4-cp27-cp27m-win32.whl": [
+          "5ulHLWBd0QDnt47jQdyeCbYHqrCr/RTT7bULP7xW9s8=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.4-cp27-cp27m-win_amd64.whl": [
+          "/JphvLoP5Hlgl6V6+32Rq2y8ck0epPYd4jjyhlQpW5o=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.4-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "94Y8m/h19eREd2273mw/Hvp8+3U8s8aS3xx0GW0VAF4=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.4-cp35-cp35m-manylinux1_i686.whl": [
+          "x0SaFm9Q3OrrDK1FgSL+oeSMBhjQFG8rmrWOQVVea38=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.4-cp35-cp35m-manylinux1_x86_64.whl": [
+          "lev3oNggeer9en01CjB4gXua4FFiJxorNcao4bv//FI=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.4-cp35-cp35m-manylinux2010_i686.whl": [
+          "RN+nlbnZbmrQgRsxTIq+yF2QGnnNbVccp1qEwisxiMQ=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.4-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "fCsUwt/yR/7lKizKvoguh3dW6MGjoCEL8IV1AgYEv/g=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.4-cp35-cp35m-manylinux2014_aarch64.whl": [
+          "AZpKr1xd/1xAFQzdmSzp23dEJW55YCY6meDGOyixOSc=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.4-cp35-cp35m-win32.whl": [
+          "FDIpoizyzG59nRrXIY3iCirvpzzk1xv8sNY3Jxp9KcU=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.4-cp35-cp35m-win_amd64.whl": [
+          "v0QcoE5MC00kTJ0aQGpyx6q6+CWD/U/cM5EPkJHim94=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.4-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "+rQsMrVQ8Ibau3QmHyfcumdafZXZS2b3zqlk8crBGXU=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.4-cp36-cp36m-manylinux1_i686.whl": [
+          "yN0di/BQNfszwgECp0coAYf9TfGVpdNExWGoRpLAmS4=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.4-cp36-cp36m-manylinux1_x86_64.whl": [
+          "xgYAzQDs48hlN/Xd/7TXENkFyXaJN/XAs1BjCheHwjM=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.4-cp36-cp36m-manylinux2010_i686.whl": [
+          "cSZ4lCBBaJ3jpXC5/OhiCeyxCMbyhdM51yv8WweLit4=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.4-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "3r8U/2eWM3WrRTPBr6Js4m44g29rXEF2JUvXcsch3Rk=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.4-cp36-cp36m-manylinux2014_aarch64.whl": [
+          "Qv92uwfAxA2RK5ENg1loSzuuumJDCsrmwPnU2IkqXeQ=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.4-cp36-cp36m-win32.whl": [
+          "hAuvQrHE5Iqyg5qkU6r93sXY104k/0chkys03mBwTp8=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.4-cp36-cp36m-win_amd64.whl": [
+          "QQ51tEs++Cp45pDLyQ11xXGNXe22ueCToIJhf6XkNB0=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.4-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "N5VsXg/d+U0GykF80Tv4Nqtjvj05W1FNszfIFNRBsio=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.4-cp37-cp37m-manylinux1_i686.whl": [
+          "yCaywAIv9kD8AtSbzuE15/DmQK5D4SXXt4xjBKUckkc=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.4-cp37-cp37m-manylinux1_x86_64.whl": [
+          "7ewD8EfPQ3/MzHl7Q92PP59jIYngWboiMyZ3Aa4FfYE=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.4-cp37-cp37m-manylinux2010_i686.whl": [
+          "2ijYNkrl3BN0s54RwO69u7O8PGW4VkW9P77ddbyXA7U=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.4-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "qi0wdRlSC1DXTA4aEFE01AisFAZwZk/lTJfKk0XXjCk=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.4-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "F6JVIKpe/LIBzt8vLQXLMSD19N5yT0I74aZejS2tIX4=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.4-cp37-cp37m-win32.whl": [
+          "5JRUgc/9xAP7/jrk/xQ6cnczH8FST9t9PN/ACM2WA1c=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.4-cp37-cp37m-win_amd64.whl": [
+          "/ikq/LTvrHmj/LBkFjtGUBZyQUZDOGt4m/0TEjXCwMw=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.4-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "k4p4o9FpF+ttQLbNHBb3C+AZrY2WFzfp+HYxGWdnc6w=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.4-cp38-cp38-manylinux1_i686.whl": [
+          "GuhDE3x826IQKGf1ltdEDX45URYxfSJxEnkWL4G4cLE=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.4-cp38-cp38-manylinux1_x86_64.whl": [
+          "hfLsbZTGxZvQoZVWLobcoOfSHiRcwaPc4AcM1W/I4dg=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.4-cp38-cp38-manylinux2010_i686.whl": [
+          "owvTFoZYDPyhglBqK+eeSi9EIF3djLi5YxblHRkiDI0=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.4-cp38-cp38-manylinux2010_x86_64.whl": [
+          "MmQbKyrPf7KBCl1m0lAX7tc586LQvH8ABIIbQS5culU=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.4-cp38-cp38-manylinux2014_aarch64.whl": [
+          "tN5GbKoDRh81HYSID+jvVV8Q4sGTVjOw8H+YQSYFRME=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.4-cp38-cp38-win32.whl": [
+          "+w84pJJQWZr+KF8fZ+abiwUuVPH6YnWfgeQBDIQTGZY=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.4-cp38-cp38-win_amd64.whl": [
+          "RtrSoPPrs6Y1Hr7qR4KrQCUN7MsLqMTRt/1G6Fxzey0=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.4-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "zkWA6UnlZx0IlFDs/SnE2DAAXERX7zEJQ93aJZzxUSQ=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.4-cp39-cp39-manylinux1_i686.whl": [
+          "7yRKP55u2DMj8kNAK2ghy+UhELyLVVa9ITEpRvF1/Mk=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.4-cp39-cp39-manylinux1_x86_64.whl": [
+          "lMLjybbXqCMFjg8uUrviJC76exZT0aNvQJZG2dhNMWs=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.4-cp39-cp39-manylinux2010_i686.whl": [
+          "now2Jd/0CU98nhUkjHegh4zKOrHeloIGDLVDvMg2K+M=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.4-cp39-cp39-manylinux2010_x86_64.whl": [
+          "RzQIKkKgO9TZqAi5V0GCyFq9ho8HScjXAgAJkX6a4Ho=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.4-cp39-cp39-manylinux2014_aarch64.whl": [
+          "U7lQdU6DVgUIui7vafGkpZWGOsuAmNdISPu0oWOW9SM=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.4-cp39-cp39-win32.whl": [
+          "/GBqBJl12oNxkS5jtDCMwKWS1N3HzVB1uSEPiPUVKAY=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.4-cp39-cp39-win_amd64.whl": [
+          "l5AXGr9vFqPSQb5y5PcZ0BrWmI5r9jz1kpdQQUoOMVs=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.4-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "bRyIX8yrtiS2XWWt39M9IkbIvvqz/jfvqbDGegFKUKI=",
+          "pp27"
+        ],
+        "dependency_injector-4.23.4-pp27-pypy_73-manylinux1_x86_64.whl": [
+          "BnJXOjzbztBCdBKGbkn2uWkiBAjkXu7WbsPyodolVq4=",
+          "pp27"
+        ],
+        "dependency_injector-4.23.4-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "ofoSWdO+NU482NSHyzWEQyXxoDLxDUO2goquvsI5IfI=",
+          "pp27"
+        ],
+        "dependency_injector-4.23.4-pp27-pypy_73-win32.whl": [
+          "SN9lCGePUM7WCtkEHHWr5Jze+X3WCZ10w6z5KUHzYCg=",
+          "pp27"
+        ],
+        "dependency_injector-4.23.4-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "WHshRv434+ZCyTLpVkhQZVMNB/NKvwMBlJohlzTQ1tw=",
+          "pp36"
+        ],
+        "dependency_injector-4.23.4-pp36-pypy36_pp73-manylinux1_x86_64.whl": [
+          "XMPnVWnzFXdkF0Ktchg79BEPn5kRFb2HOj0NTAVLZB4=",
+          "pp36"
+        ],
+        "dependency_injector-4.23.4-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "lonBzZfIs6F0X7rUrkYLS+XeKQ1FEEB3aOchMa7TS/w=",
+          "pp36"
+        ],
+        "dependency_injector-4.23.4-pp36-pypy36_pp73-win32.whl": [
+          "j9JEW2Gry9ZAZJTZHyW1C0OYr7OP3hchfNW66kgKN3U=",
+          "pp36"
+        ],
+        "dependency_injector-4.23.4-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "xy2fl/RUT3cFY+qyPU2NLETEsH62GLYHSWeuajoJ6BY=",
+          "pp37"
+        ],
+        "dependency_injector-4.23.4-pp37-pypy37_pp73-manylinux1_x86_64.whl": [
+          "11K4ky9sZtxswzu1Z+br+UWWUypVAsTkYtOd96h9rsc=",
+          "pp37"
+        ],
+        "dependency_injector-4.23.4-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "ub1Q0c7JE/WhkakRpyuImcVXwXyZgvtyH4JgQ6DMass=",
+          "pp37"
+        ],
+        "dependency_injector-4.23.4-pp37-pypy37_pp73-win32.whl": [
+          "JFQAl/yd40owy5FfJ1N3OesBx3cLoJNH1fWyhvzpzCg=",
+          "pp37"
+        ]
+      }
+    },
+    "4.23.5": {
+      "sdist": [
+        "bPeM1rvZpjG9aiol9TfMSI9xtGpR6G79r9zqKBKU7Ts=",
+        "dependency-injector-4.23.5.tar.gz"
+      ],
+      "wheels": {
+        "dependency_injector-4.23.5-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "KZQ226KzeiRcJBq2tNaMSjv2YxIWekGmuLa9AUlLo/Q=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.5-cp27-cp27m-manylinux1_i686.whl": [
+          "e0Yay12Zggv/crCm6SgPDVHchaMiPDMxJT8SymFVV0o=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.5-cp27-cp27m-manylinux1_x86_64.whl": [
+          "v5TY2FoOxkmYPE95EsQqz/aS8KBnFrZHQ85VkU55X5k=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.5-cp27-cp27m-manylinux2010_i686.whl": [
+          "lhYwUJXoGhiqRL4w0SumDhv/j9KDs6oRQc50FBxapA4=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.5-cp27-cp27m-manylinux2010_x86_64.whl": [
+          "rcFb0BwjEsXbYNAM0OZEGYa5CUWYehRqJfsL1hICGuU=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.5-cp27-cp27mu-manylinux1_i686.whl": [
+          "86fXq5pVWthUPQ0Odr/WlEVJS/nwi+TrPh3BiQy3nv8=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.5-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "DO8HAqo1SDbb0Zd55o1bRTw4qdCApld0EsybTi5DyS0=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.5-cp27-cp27mu-manylinux2010_i686.whl": [
+          "Y9GxVRSlgKbDlECKDLy08ODvo8P5w5KfYU7lPLhG7Ok=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.5-cp27-cp27mu-manylinux2010_x86_64.whl": [
+          "lMkUlknQoGNpG+a59JHMrJLD49q1VHomgGXFq8vI6a0=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.5-cp27-cp27m-win32.whl": [
+          "4ZDdmLZEnuNX/q2SEYljVFlOJOCSsTyluIQ+7/QdiKo=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.5-cp27-cp27m-win_amd64.whl": [
+          "fbcpGTHbIiTiHs0jcKbIY8SzPJ0jCfzQZFKA2leh8u0=",
+          "cp27"
+        ],
+        "dependency_injector-4.23.5-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "gTM8UXynfFHb5kxjI3xGCJ2ITFEVbIkQj3VQddELJvs=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.5-cp35-cp35m-manylinux1_i686.whl": [
+          "HtuPPd3QwuBhzzs3hbHuIJLLvmFJhzioYLDe/pB3Qzo=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.5-cp35-cp35m-manylinux1_x86_64.whl": [
+          "X0FtXwDmBWEek8m4eGWtjPPt5Nu0wLDqxJ/z5UQQBV0=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.5-cp35-cp35m-manylinux2010_i686.whl": [
+          "XKMbYf8R7Ci8mRg8+WatsIOBZqkR0FmLVphMSuOqDh4=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.5-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "p2WhbExJ7hesy9Q5M4HeB6UbTZaf3C6RoPND1ZE9UsU=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.5-cp35-cp35m-manylinux2014_aarch64.whl": [
+          "umXNwWhv+qjHL7aTDzGQG7jGdnyxvYPmXfZ7BzQFLRE=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.5-cp35-cp35m-win32.whl": [
+          "6eH1z1HTrocfJfr/S1W4xpRsDn4FLCurRi9OgIP5iCU=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.5-cp35-cp35m-win_amd64.whl": [
+          "3Kj4qS1Ggq2k6iNvIj3wizOPx2UAheMZQz3x+Q4iN1E=",
+          "cp35"
+        ],
+        "dependency_injector-4.23.5-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "u30mcx3y5PpviT8GooXUzHR9hPEnXcPXS12zyX0fRKM=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.5-cp36-cp36m-manylinux1_i686.whl": [
+          "lZNvtnsiRlTi9XWgApLgO6LJTnk8PMy7OBpopaSjcEQ=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.5-cp36-cp36m-manylinux1_x86_64.whl": [
+          "fWPGORZeeFQuz1Njhy7rtnMD3XAXN4iVoJsqVKyx8kc=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.5-cp36-cp36m-manylinux2010_i686.whl": [
+          "kOMcO5H1Qbeux3vDmIp6xbsgApDcnb4mjjFaidb1gh0=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.5-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "i5/uCKZ/i1BLSAGhha1agZF3TePK9AzB9tS4RGwkzwc=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.5-cp36-cp36m-manylinux2014_aarch64.whl": [
+          "IiVyyB3pqX6Aug7dBOlcEnkOUiHMxDqbPFYAzK+sNq0=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.5-cp36-cp36m-win32.whl": [
+          "gYvtO87dmGazduFv1kZbyoQ/jFb48bYrQkHgqyfT3Pk=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.5-cp36-cp36m-win_amd64.whl": [
+          "35m//hEFyRe5gsVNxUROfXzpNQaflNaGzyG+TtwVmUg=",
+          "cp36"
+        ],
+        "dependency_injector-4.23.5-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "eQtWUinHqvtEAQG/+0HAUHQdyy+i+FY7jEqIFa2Fi14=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.5-cp37-cp37m-manylinux1_i686.whl": [
+          "IgZOJg4g6JDK1AAnOBLWp6LxPsE0Ko4owD7qTsUsJu0=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.5-cp37-cp37m-manylinux1_x86_64.whl": [
+          "6pYCi+wgC1fCsZ2EaLVdxdlGGJqAN86lVLl50V6LAMk=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.5-cp37-cp37m-manylinux2010_i686.whl": [
+          "LuA5LL3YDSqDPlX/ZeeVZwkRBtylq4illo2B1U19wZM=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.5-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "zl0ODjd1KWZqQW+VuLFScgLL5861yS0kveAFKWkGdj0=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.5-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "u1uZv2q8TBUYrLCXZV7EzF61F8UJeAz8kmqQUywvPvo=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.5-cp37-cp37m-win32.whl": [
+          "CmciKfP4lQI/mDICvGtmesP92tzAlRjdKhv8qUlxrRg=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.5-cp37-cp37m-win_amd64.whl": [
+          "jNwWsOmm2MDzbueMve5/Zie3X5sVF1dWdmI0BMFGByI=",
+          "cp37"
+        ],
+        "dependency_injector-4.23.5-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "5NcuJOhlMDNUfbvjOu/BMgd2BumHVEeicyKPakzv3sU=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.5-cp38-cp38-manylinux1_i686.whl": [
+          "L2WVmkNY8xmvzfcBqNUO6Cfx3TknqAk1AzsitCpP9KI=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.5-cp38-cp38-manylinux1_x86_64.whl": [
+          "oEEP/Us+U8QBxFkQd6c7V4kHxew3PkCueJcpbHaulD0=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.5-cp38-cp38-manylinux2010_i686.whl": [
+          "jvFikGnHXu6Cl5cz4Yu4gjFiKQI2+LaT6zfIHVRc1jQ=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.5-cp38-cp38-manylinux2010_x86_64.whl": [
+          "lxGHaq9GQMM9Xpo2PwC4CopJ7eN9xOcVSRJ4nTqp5xA=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.5-cp38-cp38-manylinux2014_aarch64.whl": [
+          "gMqwNr9oBNcSPGuuKML5OcM85ndvi+FBkLQybkRx2Bw=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.5-cp38-cp38-win32.whl": [
+          "SZO3K8R4V/He93LZ+/rgvTns2kt+P9mB8D3RvjpA6fU=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.5-cp38-cp38-win_amd64.whl": [
+          "1adebyPp+a7F1liC1mj50snBOgpn3tW8KVzuDJI4bI0=",
+          "cp38"
+        ],
+        "dependency_injector-4.23.5-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "+3i8q/ZdGbrO7GhvJoBc1279HvpWYOQU1XDHCANk7gU=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.5-cp39-cp39-manylinux1_i686.whl": [
+          "WjJ1sbPExQgk2IQ21bQbtWkIDwh2w3onL3EIWMqzB9I=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.5-cp39-cp39-manylinux1_x86_64.whl": [
+          "kcB+XuKWERVJqTeMbU9wXzsEJ2GGVXuW640m4gdQcYk=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.5-cp39-cp39-manylinux2010_i686.whl": [
+          "IWLJbXMXfO4vZ6VPu6L1D9f0qwqcx+zOBmkMErKaBB8=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.5-cp39-cp39-manylinux2010_x86_64.whl": [
+          "Lq62aLdRcR5sKqbQLBXdmFk8naCOEMGadfWdEAQ1Ax4=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.5-cp39-cp39-manylinux2014_aarch64.whl": [
+          "wpQzgW8/2d7s0VzKwR0ux1pETlOhvTkjEgxPPYHlbv4=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.5-cp39-cp39-win32.whl": [
+          "Nn+/L1Or1ARbhRxysbGQyRQy2RpDQ1yzB5ctQpl5XUk=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.5-cp39-cp39-win_amd64.whl": [
+          "8nW1HhaPKpjQuDIBmVtBDhRqk0CsQIv2Fj0QhtkNVaE=",
+          "cp39"
+        ],
+        "dependency_injector-4.23.5-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "RWTJjxo2oO5DIiaQ0J/uB9auFFXR5kg1lBjGl955ehs=",
+          "pp27"
+        ],
+        "dependency_injector-4.23.5-pp27-pypy_73-manylinux1_x86_64.whl": [
+          "iDrc/cyc3+zbZ8T6ggyL+nDn5re5G5zdnju6U9f6ma4=",
+          "pp27"
+        ],
+        "dependency_injector-4.23.5-pp27-pypy_73-manylinux2010_x86_64.whl": [
+          "hr8n10Yc161VbClXh9sfkm3L7oN+zJ56/rwBGlppwU4=",
+          "pp27"
+        ],
+        "dependency_injector-4.23.5-pp27-pypy_73-win32.whl": [
+          "uU+3VN8n4I8LVEyKC9LnFm3RqQvsjxs9FcPOblZxV68=",
+          "pp27"
+        ],
+        "dependency_injector-4.23.5-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "5de4+o1YPKkcFSWdyFbBmZH2nXoPgLLsYQpszTBPL08=",
+          "pp36"
+        ],
+        "dependency_injector-4.23.5-pp36-pypy36_pp73-manylinux1_x86_64.whl": [
+          "6hRkesN7FDR4DKnAv0cXOxkoYQZtrWfpwpuCqA0zR9Q=",
+          "pp36"
+        ],
+        "dependency_injector-4.23.5-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "ddGvnNUdJ4fLKVOweJjBwYg1uPn6tEc3sZJTFncf9Ws=",
+          "pp36"
+        ],
+        "dependency_injector-4.23.5-pp36-pypy36_pp73-win32.whl": [
+          "VGL6vhAB70nvLEXJb4XfaNn2uyytjU94a9b3A5wRknA=",
+          "pp36"
+        ],
+        "dependency_injector-4.23.5-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "vFe2f2SsccPr8s8SoBFgWLLFRmOY8lcxKgMxJrJuqeo=",
+          "pp37"
+        ],
+        "dependency_injector-4.23.5-pp37-pypy37_pp73-manylinux1_x86_64.whl": [
+          "b8PupFt+g8f3+uU7Is6f6HmkAz+O8/yIxUj1cmApqDc=",
+          "pp37"
+        ],
+        "dependency_injector-4.23.5-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "kZutYBp/fynjn2nTgPXfi0upushfcM8nwFjbsNvLEFI=",
+          "pp37"
+        ],
+        "dependency_injector-4.23.5-pp37-pypy37_pp73-win32.whl": [
+          "KVidRcTNokqNfYAGImmcsUvINIvBWr2N4cBbrYkcZfU=",
           "pp37"
         ]
       }
@@ -63027,6 +63819,18 @@
           "py3"
         ]
       }
+    },
+    "5.9.0": {
+      "sdist": [
+        "EGVe5J8uuG9nuASq0mSsCnt7iZgVXA1kkGknLsixjIg=",
+        "intrinio-sdk-5.9.0.tar.gz"
+      ],
+      "wheels": {
+        "intrinio_sdk-5.9.0-py3-none-any.whl": [
+          "uCSvv/tEKfXEFvhHugTlKCUTb3+sKYVF+zCKy0uJeSc=",
+          "py3"
+        ]
+      }
     }
   },
   "invisibleroads-scripts": {
@@ -65427,6 +66231,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.2.3rc1": {
+      "sdist": [
+        "/X8V152XdtHY8wY6zzVx6bxsRDqArcCPr+jWD+BD3OU=",
+        "klio-core-0.2.3rc1.tar.gz"
+      ],
+      "wheels": {
+        "klio_core-0.2.3rc1-py2.py3-none-any.whl": [
+          "mDwy8Ve8BSNkUfQJBnGFY5pe8aTyVa6fhn+kABlCdWQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "klpdf": {
@@ -67548,6 +68364,14 @@
       "wheels": {
         "linode_cli-3.2.1-py2.py3-none-any.whl": [
           "sZkUbAVNZ2mXVhE6lfTg0CrgA2M4GAUwRvAOx9r+6Lg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.3.0": {
+      "wheels": {
+        "linode_cli-3.3.0-py2.py3-none-any.whl": [
+          "uWxJgrAjiZV6BA0SLCpkVyS9KYJN43YVy79/WVObVS8=",
           "py2.py3"
         ]
       }
@@ -70660,6 +71484,18 @@
       "wheels": {
         "meshzoo-0.7.0-py3-none-any.whl": [
           "/ZGR3BGuoKKtGlfRjOF8x8fTunXoo+PdrF1L8G0Rquc=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.1": {
+      "sdist": [
+        "wbAmnjqAEeAYFBSoeIRrVH4AXTND31KwSdSH2t9/MYQ=",
+        "meshzoo-0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "meshzoo-0.7.1-py3-none-any.whl": [
+          "owHb/RcDSzHdbrrgtxgqWvPGhHPjxDdg0pDM2L9uDVY=",
           "py3"
         ]
       }
@@ -75374,6 +76210,18 @@
         ]
       }
     },
+    "1.17.10.0": {
+      "sdist": [
+        "SM1HuMexf1AUqPRsUDwd5IwLyxz2VGV9HNhN0C/2tbo=",
+        "mypy-boto3-connect-1.17.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_connect-1.17.10.0-py3-none-any.whl": [
+          "1oAiZHBfDpNPGnZjsO1kfMr+ko/+5LHo1T3TVqhL7Ds=",
+          "py3"
+        ]
+      }
+    },
     "1.17.2.0": {
       "sdist": [
         "GWhngyiikaHHnp9emAttFa1WLuf7olIk9kzZjY0wUhc=",
@@ -78644,6 +79492,18 @@
       "wheels": {
         "mypy_boto3_sms-1.17.1.0-py3-none-any.whl": [
           "S1osrInvui893wBkSJC5x/ci+pa3n7jo2cu3njW7XBY=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.10.0": {
+      "sdist": [
+        "Gv4N/V9qqt92mAPpfp1F0Nxy7aZegnlL4E/X3zBmlKs=",
+        "mypy-boto3-sms-1.17.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sms-1.17.10.0-py3-none-any.whl": [
+          "I4JvaCdtmvvCVLUQzXt2TyvfwwKeP/GUz533qGASm68=",
           "py3"
         ]
       }

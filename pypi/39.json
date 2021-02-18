@@ -5047,6 +5047,18 @@
           "py3"
         ]
       }
+    },
+    "1.90.0": {
+      "sdist": [
+        "KWjps74Hi/eVYaSr3/QQLH7kJ5sLG1Hj1FeS3hnVW3w=",
+        "aws-cdk.aws-resourcegroups-1.90.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_resourcegroups-1.90.0-py3-none-any.whl": [
+          "GAhRR8zpJbQhvY6n7kIgU8vEeWILm0fnEBrjU6eUoGI=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.custom-resources": {
@@ -6426,6 +6438,18 @@
       "wheels": {
         "aws_cdk.custom_resources-1.9.0-py3-none-any.whl": [
           "r+HpQFFRhVfCKDoSMuUqQQsXzaO/WM6k5c6vpxr4Z50=",
+          "py3"
+        ]
+      }
+    },
+    "1.90.0": {
+      "sdist": [
+        "qF5J68YA/w3r6U3Dh0mVkQhxDmKdgK5rOpBOeJwzVKk=",
+        "aws-cdk.custom-resources-1.90.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.custom_resources-1.90.0-py3-none-any.whl": [
+          "7CZhumkMTWwz29NGLE9wOSJkfzBFtd98Egg0b3F/HQE=",
           "py3"
         ]
       }
@@ -9738,10 +9762,10 @@
     }
   },
   "carrier.australiapost": {
-    "2020.4.1": {
+    "2021.2": {
       "wheels": {
-        "carrier.australiapost-2020.4.1-py3-none-any.whl": [
-          "KDRM4BnyxvR7CLhYCXXQYUfk7Tfopw3/1qGQb32Imhs=",
+        "carrier.australiapost-2021.2-py3-none-any.whl": [
+          "eXUIn0QnoVwCm5iuzpCOxr1ZfHwmge3IIPFyKi1WrYk=",
           "py3"
         ]
       }
@@ -14108,10 +14132,10 @@
     }
   },
   "cybertk.line.api": {
-    "0.1.16": {
+    "0.1": {
       "sdist": [
-        "UcQf/EGEV8atmD4CAajlRCjOS1kjwY5GM7TDCA2gBwE=",
-        "cybertk.line.api-0.1.16.tar.gz"
+        "Oo0YjxIX3oarPMh2G+UTD+qOxjL9ZmtKrX8Xv/B3FAw=",
+        "cybertk.line.api-0.1.tar.gz"
       ]
     }
   },
@@ -23418,6 +23442,24 @@
       "sdist": [
         "IpTMPXLSUBhXYQwNj8uiqsfmdNl2XCPAX7hlG8z/sYw=",
         "firestore-collections-0.2.2.tar.gz"
+      ]
+    },
+    "0.2.3": {
+      "sdist": [
+        "jrV6kfDayoLp9m4pqsCEzWXbZ18UMrqp8mIjxTIRYNA=",
+        "firestore-collections-0.2.3.tar.gz"
+      ]
+    },
+    "0.2.4": {
+      "sdist": [
+        "VgMoU3Rg5V20uLBXYZlXf26HP+gLPv52nSvhEm1Um9s=",
+        "firestore-collections-0.2.4.tar.gz"
+      ]
+    },
+    "0.2.5": {
+      "sdist": [
+        "BEyMjlzxKSxa6hssWph9Z7AHCoytoc0lYxbUVQE5XOc=",
+        "firestore-collections-0.2.5.tar.gz"
       ]
     }
   },
@@ -32851,344 +32893,6 @@
       }
     }
   },
-  "jyrobot": {
-    "0.1.0": {
-      "sdist": [
-        "1t1ES8KOEx+BghfFILvkBR0ENuWu8nD5XBsPu6LKdw0=",
-        "jyrobot-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.1.0-py3-none-any.whl": [
-          "ze2hp+NPJ/wkwT4ZQjBbopZZCawNFxIdnpL6FY1y8po=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "sdist": [
-        "vAtwaltp7GOP0WOk+61eCLFkgOxibTvw891On3UKenA=",
-        "jyrobot-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.2.0-py3-none-any.whl": [
-          "ywdHQlQC+dGg66zpV/+Cf36teth3sM/kFK+Rmv462EM=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0": {
-      "sdist": [
-        "i4gNc1aTOckxViXzVHi5MkeyqkRh2jekiXizyFYpuQc=",
-        "jyrobot-0.3.0.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.3.0-py3-none-any.whl": [
-          "VVanr5/PpSJtj2KW5GfsbDUVRK4E7njHqabnE40dlRA=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0": {
-      "sdist": [
-        "hsfavqMdJNG9p/d4uPCZ3ThWft2+ZiAMFFnAHWjCMD8=",
-        "jyrobot-0.4.0.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.4.0-py3-none-any.whl": [
-          "K+IURKJ8kC/CaDWRXdUl5UwNW+nfzJESJ2PxVwxpI50=",
-          "py3"
-        ]
-      }
-    },
-    "0.5.0": {
-      "sdist": [
-        "FyIkTZTmpMRxcCAUZ6Jj9K4bel5/EPPfo+CghwdlGtw=",
-        "jyrobot-0.5.0.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.5.0-py3-none-any.whl": [
-          "nzoC6x2irZkYti/qErP8NHAt/7pCfgGzXyr/OIAVMVc=",
-          "py3"
-        ]
-      }
-    },
-    "0.5.1": {
-      "sdist": [
-        "bsEXY9AtsZ4Ift13NoM57ME46xxzJ9v3b4Ru6Jhb234=",
-        "jyrobot-0.5.1.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.5.1-py3-none-any.whl": [
-          "jXj9a/M5VUpD7hKgYscXEM/z3jsOgYoySVs9Fs5aoBQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.0": {
-      "sdist": [
-        "+tHT1kPugRQmW2zl7u9XI4/SZ2O8/KOZp8Ui/TC1kjc=",
-        "jyrobot-0.6.0.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.0-py3-none-any.whl": [
-          "eMHklb0DvM6FVuq2aWqhFaw0daX8fbIOyx2MZjm7a9s=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.1": {
-      "sdist": [
-        "1YYmgf3AxELLHLzYoZA4384D1BQQmDNdKoc3v0AcIco=",
-        "jyrobot-0.6.1.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.1-py3-none-any.whl": [
-          "B8KQFOalKg/yOxn1aAoDX6ZBKg8B2pB5uBPieECiroQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.10": {
-      "sdist": [
-        "FhC1nvG25k7+x00UtIUgUZXFUyf8JhopqOJeWG0ZN5o=",
-        "jyrobot-0.6.10.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.10-py3-none-any.whl": [
-          "Myt31RaA+qqZLe+dArUbN6CPrEWSaTlpqC/veJ1CmFQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.11": {
-      "sdist": [
-        "A3/HtasZugzoEw4y5R1pkV0hx0dIlXZ7N36oR7PL5/A=",
-        "jyrobot-0.6.11.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.11-py3-none-any.whl": [
-          "0//s7eBpBcbG0b7uFzOKPtsS96VI7z6NrpMljkWHSfs=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.12": {
-      "sdist": [
-        "c9rLKcxB+MHwnXHjDsRGtl6NPUVHYpC0+mrQHhtX4WU=",
-        "jyrobot-0.6.12.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.12-py3-none-any.whl": [
-          "n3JQx0jf4qMUjx2FAWUJfCO+X2uZsKoQhxx3dS2sCrY=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.13": {
-      "sdist": [
-        "IRr/8auF1YRogIgkensmzq9hrbP4srnbLdw75ZlfAAA=",
-        "jyrobot-0.6.13.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.13-py3-none-any.whl": [
-          "jBKGxLVHbmHrg58cW6Wx1lJwMkzKJP3BiXz17+UZ83g=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.14": {
-      "sdist": [
-        "mSYYjIAK8pAO/6ouxuQO9vYNQvL7xOgDVNBjR+8JU9A=",
-        "jyrobot-0.6.14.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.14-py3-none-any.whl": [
-          "3SUyUpNigpUzDHqY5/v5Gx97f0iLvx+sLdeYzcjB91g=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.15": {
-      "sdist": [
-        "2PCTHoVW9kqeychWezPFA9WtjQDNgJ7FwBLZSm08Q9E=",
-        "jyrobot-0.6.15.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.15-py3-none-any.whl": [
-          "k+FOAnDw91SfrdKO/13sG/FFrVdlCzMLlOKHkOl+/xc=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.16": {
-      "sdist": [
-        "yojdU+dWQ4XsGdqRkAEJZuYbtULbjtstzpfvuNHWlB0=",
-        "jyrobot-0.6.16.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.16-py3-none-any.whl": [
-          "z4O6genr2C2Jxew784kpOpLvSRcD1DXrnG3Nv3tOx8A=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.17": {
-      "sdist": [
-        "WtAruC+3uqA7Fsw4YKxOuAxK7dolNga10sUJdlntZEc=",
-        "jyrobot-0.6.17.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.17-py3-none-any.whl": [
-          "9KhAEQy1WAlOrkDf1m0CSg7JecNMkJJI7aYrblpq7I0=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.18": {
-      "sdist": [
-        "a6ka3GVkMZqZaAALFe8RABHS066yiYqiBnLTrCRrA+s=",
-        "jyrobot-0.6.18.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.18-py3-none-any.whl": [
-          "8kE0Tr9GGzo+k2pyEY82+uScusjlAqUWPVAr1d9Cxvo=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.19": {
-      "sdist": [
-        "dHui40DZ0dho7jAERAo8IUHEiRiRnfEfdty/5CAbBD0=",
-        "jyrobot-0.6.19.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.19-py3-none-any.whl": [
-          "XIFLyvt2/XjXzl/LfJzVpNLitqHUnwiMpLUvnLLiUxI=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.2": {
-      "sdist": [
-        "WPf0jAh/tg3kNWV2G+IX8k+J1CNebRVX5xHmvhSejQQ=",
-        "jyrobot-0.6.2.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.2-py3-none-any.whl": [
-          "xnbFFCgiZAaTU/QiX+wOr60ciunhPhBuGnufu+IrtH8=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.20": {
-      "sdist": [
-        "vah6WlHoPkfwli9qonPsaXP18+WMFWkQwDZiG+ZRTLU=",
-        "jyrobot-0.6.20.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.20-py3-none-any.whl": [
-          "hgQXv5DBWVPx5QC2Y1umuLxu0mjhUSk5Ncud1VZX+Qo=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.21": {
-      "sdist": [
-        "6Am4h3sZPfAfWw3R0v29MeTpci+lbV2ctn2hVu6u3U8=",
-        "jyrobot-0.6.21.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.21-py3-none-any.whl": [
-          "IQqIgGZzg5dK+TCD1AHx6NxkY0O0UE/5mKZBF/wZmEE=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.22": {
-      "sdist": [
-        "NI4NPDbKbkUZkh3Nck1A51OY7CLDFy+zLLVsVmlAASQ=",
-        "jyrobot-0.6.22.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.22-py3-none-any.whl": [
-          "EUkYdpobbeBBzTy94uX5oWuRY0Qb2pt46Y7ptzOm844=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.3": {
-      "sdist": [
-        "5W1hnEWCbuAdYulIf9Y2l4OfnNCK/BwLRVIl6dmKemw=",
-        "jyrobot-0.6.3.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.3-py3-none-any.whl": [
-          "VnfHSjdB0VTRSlrgwDZfSp28Pvxna0q6DuJuPQYlo4w=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.5": {
-      "sdist": [
-        "pFOh7VY35XkUHvYQ0tzG1AotBIAv0uNLCE6wbPnCen4=",
-        "jyrobot-0.6.5.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.5-py3-none-any.whl": [
-          "4VNVDS2D0oj7GEhNQEwV5KNJh9a6CgCMZmXM5OL69hQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.6": {
-      "sdist": [
-        "lfXpmMAD/Yw9SBcbAIMdknrpLJm+rgEQBCdwiO+2fz0=",
-        "jyrobot-0.6.6.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.6-py3-none-any.whl": [
-          "Or0FmOYyY69x6sXjxr8a0AVlGRfllG9qb/eFLfIEANw=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.7": {
-      "sdist": [
-        "JRDaWCflkxbdn8WqMbK4WUmy+64K4kvKw9HVplMhheA=",
-        "jyrobot-0.6.7.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.7-py3-none-any.whl": [
-          "Kz06qspaXXgksRzFjaeEjNkxW5ptcf/TS+r26AVhDkY=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.8": {
-      "sdist": [
-        "z+ZuCqClMlAsFMhIm8gek6qBw7+v85uH/APcTYb2jqA=",
-        "jyrobot-0.6.8.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.8-py3-none-any.whl": [
-          "ikS5eOj5w2hxCaJw2jEjehs1p5/L8LVe5btq8PYWs5c=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.9": {
-      "sdist": [
-        "CVvOAPey1l0m+K5o/0fMrGFJdxCalQgS1ncFyh8sg3I=",
-        "jyrobot-0.6.9.tar.gz"
-      ],
-      "wheels": {
-        "jyrobot-0.6.9-py3-none-any.whl": [
-          "NDQYpkmzVaph2Qmw6sb1jF9rJzUJVIKeXhveT3dTQb4=",
-          "py3"
-        ]
-      }
-    }
-  },
   "kajiki": {
     "0.2.2": {
       "sdist": [
@@ -42104,6 +41808,18 @@
       "wheels": {
         "mypy_boto3_iot_jobs_data-1.17.1.0-py3-none-any.whl": [
           "KLwP/pg8xdlAlDF/UO0pv2usaRhyDLqFNsfQjMCnFFQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.10.0": {
+      "sdist": [
+        "OcxO0ITc/NH67yoJQ3uXptaiXeHOI4Kt2UCAC8rjcio=",
+        "mypy-boto3-iot-jobs-data-1.17.10.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iot_jobs_data-1.17.10.0-py3-none-any.whl": [
+          "bKVSYKFSXpMQhHv7wEm5md+hBS2WdEeWfOx2l4XS4Vw=",
           "py3"
         ]
       }
@@ -51192,6 +50908,18 @@
       "wheels": {
         "psu_scheduler-0.0.7-py2.py3-none-any.whl": [
           "nAO6nvq8fxKhFntFFAbXYp9flGk4nJZRXHCv1vxLxzo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "iIMKpFhY0k4lUhSF5ZrtM5ddMK4ZepQiR5kOsZ+tfl4=",
+        "psu-scheduler-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "psu_scheduler-0.0.8-py2.py3-none-any.whl": [
+          "7sTwT9wCwe4ODU41Wq2C864WAnGH2MxOAWYC6S2YgcE=",
           "py2.py3"
         ]
       }
@@ -62681,6 +62409,12 @@
         "Tk5ToTBWXCNMlcIL7LkV9Ie+cfff3kfaMFVNcTUbObw=",
         "requests_oauth2client-0.8.1.tar.gz"
       ]
+    },
+    "0.9.0": {
+      "sdist": [
+        "NtTJ4FzSCXtIToBYWFz3HvtihybqLYEYTxD4AWyw3QY=",
+        "requests_oauth2client-0.9.0.tar.gz"
+      ]
     }
   },
   "requests-xml": {
@@ -73712,6 +73446,18 @@
       "wheels": {
         "thot_core-0.4.6-py3-none-any.whl": [
           "mr6d0TLac8fkJRxjnUgw86RsdwviNN+PKSK+zWD7RT4=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.7": {
+      "sdist": [
+        "F8v3eLcqR4u2hLP4EQHY3lyASb8jrSZRvWUdrt887I8=",
+        "thot-core-0.4.7.tar.gz"
+      ],
+      "wheels": {
+        "thot_core-0.4.7-py3-none-any.whl": [
+          "h9qNdFp029z+kVAycdf2HEN1nt00MBN+2gfLuDZS660=",
           "py3"
         ]
       }
