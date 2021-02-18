@@ -1293,10 +1293,6 @@
   },
   "aitk.networks": {
     "0.0.2": {
-      "sdist": [
-        "OFcKVoLajlwOMyzLiMCUF/vfwF9dvHSNBE52ByZpGnE=",
-        "aitk.networks-0.0.2.tar.gz"
-      ],
       "wheels": {
         "aitk.networks-0.0.2-py3-none-any.whl": [
           "GkTzdklRGpYHGuWALtVbux+BT8u1GvyyWJR1rJ1mjgs=",
@@ -1305,10 +1301,6 @@
       }
     },
     "0.0.3": {
-      "sdist": [
-        "G2IewORz14b1ICUOTEoZ6I/rxq9gkgpQI3JdEZP0n68=",
-        "aitk.networks-0.0.3.tar.gz"
-      ],
       "wheels": {
         "aitk.networks-0.0.3-py3-none-any.whl": [
           "IvGyEQtVzGMP1qK4fQw5GlGs8qPcQQlKD+ppiVdtMk8=",
@@ -1320,6 +1312,14 @@
       "wheels": {
         "aitk.networks-0.0.4-py3-none-any.whl": [
           "Olcj7I28/zsWyU6jzNEOjefG6po31sybOOhMRii6fTs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "wheels": {
+        "aitk.networks-0.0.5-py3-none-any.whl": [
+          "FVGkuFvqubOSYasPe0mrydKvm33ZOGh1WwdA3UjvPzo=",
           "py3"
         ]
       }
@@ -17984,6 +17984,50 @@
         ],
         "d3rlpy-0.61-cp38-cp38-win_amd64.whl": [
           "AC4nXh+/Hr9avMPF47O8Vijn7Vcvaa4+TZ019oiL1Lo=",
+          "cp38"
+        ]
+      }
+    },
+    "0.70": {
+      "sdist": [
+        "iz1Np7vfcqhCXUjoIMxIWRr6AsGrUFvhtjafhnhHKbM=",
+        "d3rlpy-0.70.tar.gz"
+      ],
+      "wheels": {
+        "d3rlpy-0.70-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "1n1jf9IK8MGh0jd0VuNBKnZrCVhWtjmA2oH5m++TQL4=",
+          "cp36"
+        ],
+        "d3rlpy-0.70-cp36-cp36m-manylinux1_x86_64.whl": [
+          "HaX3oToUmMDiEiFWIcChXVWEsn3PGK4XwUC3dNzjaKM=",
+          "cp36"
+        ],
+        "d3rlpy-0.70-cp36-cp36m-win_amd64.whl": [
+          "f+iIE5K8oc3zbPdc0i9cfJKfqab8ZoC4RGglO40DuTU=",
+          "cp36"
+        ],
+        "d3rlpy-0.70-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "bfbZ1MwWs5qYHA70PGV/Uny2ezI29ya+2ISDMuorHXI=",
+          "cp37"
+        ],
+        "d3rlpy-0.70-cp37-cp37m-manylinux1_x86_64.whl": [
+          "4GPVgKqCPt2n5Tdrj2UnUapJUtCKigsRFNVRHTtbPVQ=",
+          "cp37"
+        ],
+        "d3rlpy-0.70-cp37-cp37m-win_amd64.whl": [
+          "kjUnRFwBYJEIOrdb5eUJQWG/TWS4AO+/iUp45/ASYUw=",
+          "cp37"
+        ],
+        "d3rlpy-0.70-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "8+7Wk86+/HoFd7IWOm171bZUAdghY7SpyBIchcHjfrk=",
+          "cp38"
+        ],
+        "d3rlpy-0.70-cp38-cp38-manylinux1_x86_64.whl": [
+          "pQZMfQKEUS7tUI8zZk9p9a9xhF5/c0ZH/jR206uWy3w=",
+          "cp38"
+        ],
+        "d3rlpy-0.70-cp38-cp38-win_amd64.whl": [
+          "gZdc64Ls3FTQ+uSeDd4Y3fqd9IukvepQl3ai4uT6+JI=",
           "cp38"
         ]
       }
@@ -73587,6 +73631,42 @@
           "cp39"
         ]
       }
+    },
+    "6.81.1.dev20210218": {
+      "wheels": {
+        "lalsuite-6.81.1.dev20210218-cp36-cp36m-macosx_10_12_x86_64.whl": [
+          "0IS3OpKV64GeLvNx1Eyh3c9X1W/nALZeShHfeara0zM=",
+          "cp36"
+        ],
+        "lalsuite-6.81.1.dev20210218-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "2nvFMZvD5KXnXwkKuBjaKwktySjy13iyq1HThdBS90c=",
+          "cp36"
+        ],
+        "lalsuite-6.81.1.dev20210218-cp37-cp37m-macosx_10_12_x86_64.whl": [
+          "8S2JJXjqxRa/zEaFZuj59HD+shqWo/Grd8c4HvSIYQI=",
+          "cp37"
+        ],
+        "lalsuite-6.81.1.dev20210218-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "HzYNZDEi+9utaz3uplkh3CdX9nGlefO5mpAdpC8VrCA=",
+          "cp37"
+        ],
+        "lalsuite-6.81.1.dev20210218-cp38-cp38-macosx_10_12_x86_64.whl": [
+          "mxqoNxdpsPTS2AZGJ82OvPx/gG5jozBCD+3jn3/5IRw=",
+          "cp38"
+        ],
+        "lalsuite-6.81.1.dev20210218-cp38-cp38-manylinux2014_x86_64.whl": [
+          "z1iM5TEbVZP35Gp+qOrS4AITZcIadd3Puobcm5AskCA=",
+          "cp38"
+        ],
+        "lalsuite-6.81.1.dev20210218-cp39-cp39-macosx_10_12_x86_64.whl": [
+          "IneZGBJ5yeshCsRS2O8TQK5n7smTOEQ5uvl8ezyV2H4=",
+          "cp39"
+        ],
+        "lalsuite-6.81.1.dev20210218-cp39-cp39-manylinux2014_x86_64.whl": [
+          "8W+Qrp4JI7kMWDtMNjelxwxBV12hy5JlkR8gjrpLmMo=",
+          "cp39"
+        ]
+      }
     }
   },
   "largeman": {
@@ -79514,6 +79594,14 @@
       "wheels": {
         "odoo12_addon_website_form_recaptcha-12.0.1.2.2.99.dev4-py3-none-any.whl": [
           "6CHUQjYnLlYfr4jerRUiryMiqDDVFkA3oyo4oSzGq1E=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.2.2.99.dev5": {
+      "wheels": {
+        "odoo12_addon_website_form_recaptcha-12.0.1.2.2.99.dev5-py3-none-any.whl": [
+          "HIvPpaVleuPTMi0lnNOQ7Q9jkEtHudXXMHHXi6bPPQk=",
           "py3"
         ]
       }
@@ -93224,6 +93312,18 @@
       "wheels": {
         "raptorq-1.6.2-cp36-abi3-manylinux2010_x86_64.whl": [
           "yrZ6pUkZ4G0UzQkjYGIDhxOKkgjtapzBArmGrreX2d4=",
+          "cp36"
+        ]
+      }
+    },
+    "1.6.3": {
+      "sdist": [
+        "bzEkXGSJGzDa/9B92QA+70uojUIiGTGcvMAUE2X5GVA=",
+        "raptorq-1.6.3.tar.gz"
+      ],
+      "wheels": {
+        "raptorq-1.6.3-cp36-abi3-manylinux2010_x86_64.whl": [
+          "xd7JbMWw75vAkmnzcZy7Lb9CXRM3uGQHdNc7bSIKsZQ=",
           "cp36"
         ]
       }
