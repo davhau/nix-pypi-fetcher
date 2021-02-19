@@ -5908,6 +5908,18 @@
         ]
       }
     },
+    "1.41.1": {
+      "sdist": [
+        "fcFa3TWdWq9GfWSQOmtYmcn1kQEoqPZyDVU8DpqWNnk=",
+        "annofabcli-1.41.1.tar.gz"
+      ],
+      "wheels": {
+        "annofabcli-1.41.1-py3-none-any.whl": [
+          "w7O5ErCSMbwcCHITv4xD0cDgu0XZh9lT/fCaQlbxycU=",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "sdist": [
         "aq991K2CfF/07HDvO5Ies6eQ5TLNiIkX/G1mslbOCa8=",
@@ -14542,6 +14554,30 @@
       "wheels": {
         "cqh_util-0.1.4-py3-none-any.whl": [
           "DAaDnVkNOTI7eqKEimvQVYWuRvQBp+nfLNEjQWMB0xM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "AY4enFLo7sCQZFXCzLMYP9F1ljlcwU8mAQXSVl2JmC8=",
+        "cqh_util-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "cqh_util-0.1.5-py3-none-any.whl": [
+          "pufQe16HLBzmLvf4Elr6XNOr9fITlZjqAR/34au2n4o=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "wZ42TmampXMSaQRXMWVQ3j0CQIoDovaxabTd46MihLU=",
+        "cqh_util-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "cqh_util-0.1.6-py3-none-any.whl": [
+          "zpBAdiWqx41U41Uam6ZHFnsB4Iib306Xn2n0wZ/uKAI=",
           "py3"
         ]
       }
@@ -28475,6 +28511,20 @@
       ]
     }
   },
+  "feature-toggle-router": {
+    "0.0.1": {
+      "sdist": [
+        "poXN/EDFJvZyvFcSUCNMierxDzxim3hLzA5cR5aKD0s=",
+        "feature-toggle-router-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "feature_toggle_router-0.0.1-py2.py3-none-any.whl": [
+          "QEU3fyLH9o+0GhGf/dwcfUvYuqonFqLYYS+2ohMgDVU=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "ffmirror": {
     "0.3.0": {
       "sdist": [
@@ -39975,6 +40025,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "i2bW5o4lN7xRPtvB7p0BpTeWL/FsTivxMALP/7V8uEE=",
+        "Jinja2-template_info-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "Jinja2_template_info-0.2.2-py3-none-any.whl": [
+          "XtI+il2wueYOVxdYx+1ShnMsyn2jvo/2em1Te53PAvw=",
+          "py3"
+        ]
+      }
     }
   },
   "jinja2pipe": {
@@ -41772,6 +41834,12 @@
       "sdist": [
         "XMPZdTxJC18BatnGs/xL+fDQiF9xylfyVCxmgg2KRVU=",
         "linkedin-feed-scraper-1.1.5.tar.gz"
+      ]
+    },
+    "1.1.6": {
+      "sdist": [
+        "y6fubx3vl9LgWrTixrZ3V/MFt1tkwLWi52/kzEYzPrk=",
+        "linkedin-feed-scraper-1.1.6.tar.gz"
       ]
     }
   },
@@ -89340,56 +89408,6 @@
       "sdist": [
         "r/X+p9rqakvoTh+4u6ZVM9fg1Pl/ngQRXaLo4RncLkA=",
         "yubicoclient-0.3.0.tar.gz"
-      ]
-    }
-  },
-  "zakhar-pycore": {
-    "1.0.8": {
-      "sdist": [
-        "o/WBgywlkw8uEuiL7BlJVjzdRYK7WGZbzQk3/fu7wHU=",
-        "zakhar_pycore-1.0.8.tar.gz"
-      ]
-    },
-    "1.0.9": {
-      "sdist": [
-        "tv4CwYLNuzNfb/ely+iXMoUVQDkiF30g/k/Bw4FeKhs=",
-        "zakhar_pycore-1.0.9.tar.gz"
-      ]
-    },
-    "1.1.0": {
-      "sdist": [
-        "/TrnLQ2BYg0iXhvaGVU+P6VatDgEsYZsD43bIXpd8+g=",
-        "zakhar_pycore-1.1.0.tar.gz"
-      ]
-    },
-    "1.1.1": {
-      "sdist": [
-        "AL8RcIznBG6lHcbWrsI/q6aYGc+fTuZNAdf+g+ORNCk=",
-        "zakhar_pycore-1.1.1.tar.gz"
-      ]
-    },
-    "1.1.2": {
-      "sdist": [
-        "7GC9bQWRBYMpLCZjgr8+pVfDEzchus6DtOiCAajkRKc=",
-        "zakhar_pycore-1.1.2.tar.gz"
-      ]
-    },
-    "1.1.3": {
-      "sdist": [
-        "lx/2Ayo5QK8xPFjkV/Ij3c3S1HAmKUX5h5ZDlQLZo4w=",
-        "zakhar_pycore-1.1.3.tar.gz"
-      ]
-    },
-    "1.2.0": {
-      "sdist": [
-        "vlZ351ejfgAvTJDPy7qULnn2SdNtpQhOgkXNfnyuHcQ=",
-        "zakhar_pycore-1.2.0.tar.gz"
-      ]
-    },
-    "1.3.0": {
-      "sdist": [
-        "DzlK1EHT0IGGdxAf6wmOQUb34C/9FnPv7lO/j0Vfqbw=",
-        "zakhar_pycore-1.3.0.tar.gz"
       ]
     }
   },
