@@ -20861,6 +20861,20 @@
       }
     }
   },
+  "dpfp-pytorch": {
+    "0.1.0": {
+      "sdist": [
+        "M6uf3YqS0X+L1Jnl1ywbsfxFEVz8nseoKyhVA9pllC8=",
+        "dpfp-pytorch-0.1.0.tar.gz"
+      ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "u7Cf+L6FWHTMQoZWtNT5V2TUCSEwTRKAsBOdxkM7jyk=",
+        "dpfp-pytorch-0.2.0.tar.gz"
+      ]
+    }
+  },
   "drf-extensions-django2-patch": {
     "0.3.2": {
       "sdist": [
@@ -40638,6 +40652,12 @@
         "moodlexport-0.0.28.tar.gz"
       ]
     },
+    "0.0.29": {
+      "sdist": [
+        "VXxqQKDNrO3u3nZtFOmDurrqQOJWoMIl0bMspMu0Y9M=",
+        "moodlexport-0.0.29.tar.gz"
+      ]
+    },
     "0.0.3": {
       "sdist": [
         "Eax1fCxGoxbWZ0Nx7+ahsyj/3QpbAfcYFl4We/DOmlY=",
@@ -44584,14 +44604,6 @@
       "sdist": [
         "rriLPPJomorYkpJVRI/vnrrn7vqx/O+w26mi48JDqKM=",
         "nose-selenium-0.07.tar.gz"
-      ]
-    }
-  },
-  "nosetests": {
-    "99.99.99": {
-      "sdist": [
-        "/NcOyoEQJmHIVIJjL/obGwgED/vKvEHQhhGV4z2H1oQ=",
-        "nosetests-99.tar.gz"
       ]
     }
   },
@@ -53672,90 +53684,6 @@
     }
   },
   "pl-nightly": {
-    "0.11.5.20210121.1": {
-      "wheels": {
-        "pl_nightly-0.11.5.20210121.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "cY/5DqtEHtJM4brK0XBK6+TpgNcIRFb/RvdvfboBBc8=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20210121.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "V06PhmfZP9Z5J+OlZG5QnIvNxdLTQlQsFv4z3wWvfkI=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20210121.1-cp36-cp36m-win_amd64.whl": [
-          "pzrsjkf4DtX0CCbHz7KneG/UPIyKXmsgeNQEGlrL/3o=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20210121.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "dzcH9CWXFDC8XLrS8bOCQBV0do2xlQMr0Z7T1pvbvZU=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20210121.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "FadsP7aXCiqmhJZF/8vGqcnEcJn4RD7400+iVHbot1g=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20210121.1-cp37-cp37m-win_amd64.whl": [
-          "+XeV5GBszlf2DbJI6iZ7XyYZ1t/skAGjCpm5nGnWm54=",
-          "cp37"
-        ]
-      }
-    },
-    "0.11.5.20210122.1": {
-      "wheels": {
-        "pl_nightly-0.11.5.20210122.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "rXAmY/qAdCcn8L9NWN+9PjPgmsI6R7Q3s5xEpzC07WI=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20210122.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "eRynM/34hZKu3Hagvbf/oLlPdN9chNHYZMpZQndr7K8=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20210122.1-cp36-cp36m-win_amd64.whl": [
-          "OG3ViVesO/hH+sSmyh/GUzaz10Jr33S9aiy6JOFqx0k=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20210122.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "DsmI9uMVbzOwV+FadgMB/pk3KDq385Cfl1VVb6fR/Ik=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20210122.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "g4zfEbuY7kcor4Pduxf2k175WkD0Fccm/X/U9LMzowI=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20210122.1-cp37-cp37m-win_amd64.whl": [
-          "5nwf6We6hcsaj78eUsgmomFvjDjX6O1Wj4I60wbbIuE=",
-          "cp37"
-        ]
-      }
-    },
-    "0.11.5.20210126.1": {
-      "wheels": {
-        "pl_nightly-0.11.5.20210126.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "OWunyOVs5sSi/FUNJMz5L9H6BI8YQ0GFxrETBV0I/pc=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20210126.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "c9LnfWqI7M//SF9Z87h3t0MvEKGw+SHYvDElPc5n0VU=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20210126.1-cp36-cp36m-win_amd64.whl": [
-          "E6Liy57Y/BSpD+JUdI50jrpKg9YQGSFMiLLlx5B9Tq0=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.5.20210126.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "4+5VTrt844f8SChrfNeDabHq9dakNkv/EBIDbhKpo5c=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20210126.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "Rx4ORUSCtMPnE5hgaznv8EmtrFk+8P3M2echmbXEU6A=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.5.20210126.1-cp37-cp37m-win_amd64.whl": [
-          "2cU/dfth3IXzwOOjHALv4Vr/BkxfiV04/vMQFP55uAk=",
-          "cp37"
-        ]
-      }
-    },
     "0.11.5.20210128.1": {
       "wheels": {
         "pl_nightly-0.11.5.20210128.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
