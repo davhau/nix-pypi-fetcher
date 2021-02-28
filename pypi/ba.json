@@ -7731,6 +7731,14 @@
       ]
     }
   },
+  "birth-weight-prediction": {
+    "0.1.0": {
+      "sdist": [
+        "zYO3ZHpCpcWRhDUSFBTDtz/ekh8UUGDOMZP3UIM1qQY=",
+        "birth-weight-prediction-0.1.0.tar.gz"
+      ]
+    }
+  },
   "bitslicer9k": {
     "1.0.1": {
       "sdist": [
@@ -16617,6 +16625,14 @@
       }
     }
   },
+  "diff3lib": {
+    "0.1.0": {
+      "sdist": [
+        "MukIem7U8dhHbxm/X8BJvdFBS7TtW7isE+iWAK3jTa0=",
+        "diff3lib-0.1.0.tar.gz"
+      ]
+    }
+  },
   "digibit": {
     "1.1": {
       "sdist": [
@@ -19591,6 +19607,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "rTwsWTgRRBlV6AtEsYx43fPkqzIxFd6nJmjVVU77BZM=",
+        "dsc40graph-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "dsc40graph-0.2.0-py3-none-any.whl": [
+          "EORIq0AwSNsXKTPLjJE25pCTjI/6lvOT4SNMPslsOu8=",
+          "py3"
+        ]
+      }
     }
   },
   "dslink": {
@@ -21769,6 +21797,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "extras-vim": {
+    "0.1.0": {
+      "sdist": [
+        "u74WBZ5HprA4Ok80OTICtqG2oEpGbJ3r44lg91zBtF4=",
+        "extras-vim-0.1.0.tar.gz"
+      ]
     }
   },
   "exxablock": {
@@ -37686,6 +37722,14 @@
       "sdist": [
         "5srjpCA+Uw1RyWZ+0xD/47GUjyh249aWBbPeS32WkW8=",
         "littleutils-0.2.2.tar.gz"
+      ]
+    }
+  },
+  "livefyre-client": {
+    "0.1.0": {
+      "sdist": [
+        "fzjOqi/t91FaAhMWPQ2SyF2wnq2sdl7XUjzIhG3qyN4=",
+        "livefyre-client-0.1.0.tar.gz"
       ]
     }
   },
@@ -83069,6 +83113,14 @@
       }
     }
   },
+  "reddwarfclient": {
+    "0.1.0": {
+      "sdist": [
+        "E9RAf/b/QsQjLXvmRmio+wDlSjyam01JFx90eGuJ+Lo=",
+        "reddwarfclient-0.1.0.tar.gz"
+      ]
+    }
+  },
   "redis-clu": {
     "0.0.1": {
       "sdist": [
@@ -88957,6 +89009,14 @@
       ]
     }
   },
+  "statictyped": {
+    "0.1.0": {
+      "sdist": [
+        "CRbfEV6JzTpkOpY+qbr/c3Lwx/ljzkC8zscd2yyP+F4=",
+        "statictyped-0.1.0.tar.gz"
+      ]
+    }
+  },
   "statik": {
     "0.1.0": {
       "sdist": [
@@ -93403,6 +93463,42 @@
         "tf_nightly-2.5.0.dev20210227-cp38-cp38-win_amd64.whl": [
           "HhVvLauLN/BIY0NoLUTLIJ/qfcCeWJOtUTz4POd5/uk=",
           "cp38"
+        ],
+        "tf_nightly-2.5.0.dev20210227-cp39-cp39-manylinux2010_x86_64.whl": [
+          "BorHYpayH/ezD2SOYEXeD1fnHWQyqo7m3VdEf5XUdJo=",
+          "cp39"
+        ],
+        "tf_nightly-2.5.0.dev20210227-cp39-cp39-win_amd64.whl": [
+          "Aq1qFeQyp1PI8EZgL38XSSAIfvNaCW/6aCkUI/7PQ24=",
+          "cp39"
+        ]
+      }
+    },
+    "2.5.0.dev20210228": {
+      "wheels": {
+        "tf_nightly-2.5.0.dev20210228-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "BTfAK6hy4OX6Wejfxt/VXjaGoQfwEefjNV69A4P/vWc=",
+          "cp36"
+        ],
+        "tf_nightly-2.5.0.dev20210228-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "03l1w95707eBjIoeksMQnUuqkPXLWWpXXQ0XiwXMRHc=",
+          "cp36"
+        ],
+        "tf_nightly-2.5.0.dev20210228-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "TS6xHaCYtDsQmcLHiw8jUaIireRYgokEDRrONFyeF0o=",
+          "cp37"
+        ],
+        "tf_nightly-2.5.0.dev20210228-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "6Wo7igqFlpGV6veXRy0gRhYhXXMnrES8t15QDDAUSEU=",
+          "cp37"
+        ],
+        "tf_nightly-2.5.0.dev20210228-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "PuTCFImU6coBGn/IFcIArCqbtwoyaHF7MO35qq9JCSg=",
+          "cp38"
+        ],
+        "tf_nightly-2.5.0.dev20210228-cp38-cp38-manylinux2010_x86_64.whl": [
+          "pcZKoI134rurig7QePh4EI2jxSqsRPb16aarM95lpRE=",
+          "cp38"
         ]
       }
     }
@@ -96703,6 +96799,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "user-group-template": {
+    "0.1.0": {
+      "sdist": [
+        "r5b0FfSnL2MWId66BD3KEjdK1jWuqHA2mKAWU3gjwao=",
+        "User-Group-template-0.1.0.tar.gz"
+      ]
     }
   },
   "uvicorn": {
