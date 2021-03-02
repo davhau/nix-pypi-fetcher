@@ -3735,14 +3735,6 @@
       }
     }
   },
-  "antlr3": {
-    "0.1.0": {
-      "sdist": [
-        "4aY0/zDO8EhKqTeqm+ExOpy3q3DgrkFdNu6fnygPe5U=",
-        "ANTLR3-0.1.0.tar.gz"
-      ]
-    }
-  },
   "apachecn-python-zh": {
     "2020.10.22.0": {
       "sdist": [
@@ -25298,7 +25290,13 @@
       "sdist": [
         "6P9/lRjxGOKuiQDEx1Eo4p+eDAPswfbknu4Dr+ilKic=",
         "dciclient-2.0.2.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "dciclient-2.0.2-py3-none-any.whl": [
+          "UxirrK8TDn3ZyI7z1BAiztZ9Ap0dcxrD9jnBhGHjuCI=",
+          "py3"
+        ]
+      }
     }
   },
   "ddshape": {
@@ -27887,14 +27885,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "df2gspreadbeautifulsoup4": {
-    "0.1.0": {
-      "sdist": [
-        "Q1Ci/xAAvruIXGO1fiCLMV93eGNxZZ5gp5m6eGPcx4I=",
-        "df2gspreadbeautifulsoup4-0.1.0.tar.gz"
-      ]
     }
   },
   "dffml-model-autosklearn": {
@@ -39033,14 +39023,6 @@
       ]
     }
   },
-  "gudangapi": {
-    "0.1.0": {
-      "sdist": [
-        "I7ErDyhVHG8Z8PjT1AG7WfenuM1E1iiMmQk2QiC6v1k=",
-        "gudangapi-0.1.0.tar.gz"
-      ]
-    }
-  },
   "gurglefish": {
     "1.1.0": {
       "sdist": [
@@ -41503,14 +41485,6 @@
       }
     }
   },
-  "introducing": {
-    "0.1.0": {
-      "sdist": [
-        "7YA9rdKaJM906Oyln4yKQcj2Lw4tKt+70fecbAu9+Jo=",
-        "introducing-0.1.0.tar.gz"
-      ]
-    }
-  },
   "intype": {
     "0.0.1": {
       "sdist": [
@@ -41994,6 +41968,12 @@
       "sdist": [
         "fmXrEpf0UJJWntF9Mzq3hMDCC9L+0mkZk8G7tR92Xd8=",
         "italian_csv_type_prediction-1.1.51.tar.gz"
+      ]
+    },
+    "1.1.52": {
+      "sdist": [
+        "JHLa3loIKZY0gdR7w/71v5tAXpL1Ul4RiOo4UG9Egz8=",
+        "italian_csv_type_prediction-1.1.52.tar.gz"
       ]
     },
     "1.1.6": {
@@ -51529,6 +51509,20 @@
       }
     }
   },
+  "montycarlo": {
+    "0.0.1": {
+      "sdist": [
+        "Gdu+EbuFQney9zeAdTP3aXNVzXjdKbGOLXAS1YEwGiY=",
+        "MontyCarlo-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "MontyCarlo-0.0.1-py3-none-any.whl": [
+          "WDft3f1OZ9EFl0AIlwj7n598oWHsPWFDQuKWgAe2lus=",
+          "py3"
+        ]
+      }
+    }
+  },
   "motop": {
     "2.0": {
       "sdist": [
@@ -52690,6 +52684,18 @@
       "wheels": {
         "mypy_boto3_connect_contact_lens-1.17.17.0-py3-none-any.whl": [
           "FxXvFYsfd+2pW8OPw8VuqUmTOFTtfOQ/2I7ix0zh75Q=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.18.0": {
+      "sdist": [
+        "ylVus8yaltKeuby3MOb0czJYg+52TKJ9E8iV4phm3sc=",
+        "mypy-boto3-connect-contact-lens-1.17.18.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_connect_contact_lens-1.17.18.0-py3-none-any.whl": [
+          "Ci0V7zkZAmN7nS62FTa921QRqGrN5EqmIqpKLErx6Ao=",
           "py3"
         ]
       }
@@ -56064,6 +56070,18 @@
         ]
       }
     },
+    "1.17.18.0": {
+      "sdist": [
+        "qZx4rBs3VEjRyzBAwdpAQ6GoNleNIK6I1zKkriaCfp4=",
+        "mypy-boto3-pricing-1.17.18.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_pricing-1.17.18.0-py3-none-any.whl": [
+          "BCV6xtYEb2iCikHfv7t07D8QqTs6yBpGV829avyftDE=",
+          "py3"
+        ]
+      }
+    },
     "1.17.2.0": {
       "sdist": [
         "ZZWg/by6aJH3oWrpk/4Q7jAAXWxfFxCF9HrVlSyGUfY=",
@@ -59279,14 +59297,6 @@
       }
     }
   },
-  "noobs": {
-    "0.1.0": {
-      "sdist": [
-        "Gs0WPc1YS6N2kYP4CpxiW9nbbPzhxFO9kPW/ykbArRw=",
-        "noobs-0.1.0.tar.gz"
-      ]
-    }
-  },
   "nose-ignore-docstring": {
     "0.1": {
       "sdist": [
@@ -61829,6 +61839,32 @@
       }
     }
   },
+  "odoo13-addon-hr-holidays-validity-date": {
+    "13.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo13_addon_hr_holidays_validity_date-13.0.1.0.1.dev2-py3-none-any.whl": [
+          "LIFGWnZ44Q55HygBrOqQQjec5kZyZ4qt+VozOEnCj+0=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo13_addon_hr_holidays_validity_date-13.0.1.0.1.dev3-py3-none-any.whl": [
+          "HUgF8yq3GriUWp6SM3BcbDaM/Jk3tQGyS3Vs4BY/oUk=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.0.1.dev4": {
+      "wheels": {
+        "odoo13_addon_hr_holidays_validity_date-13.0.1.0.1.dev4-py3-none-any.whl": [
+          "kkNyRoD1J6NTKNwDKXl1hCy0g2QKogHy9LOw614me4Y=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo13-addon-multi-step-wizard": {
     "13.0.1.0.1.dev2": {
       "wheels": {
@@ -63280,14 +63316,6 @@
       "sdist": [
         "UIK46LlRUL8LbQB4TjxPxlJcTfj0bcXK3faE6g3De3A=",
         "parselx-0.0.4.tar.gz"
-      ]
-    }
-  },
-  "passdock": {
-    "0.1.0": {
-      "sdist": [
-        "P5WbA6GJca3CrYeXjI+gNqou+85AgPAeWOsFarnCjTo=",
-        "passdock-0.1.0.tar.gz"
       ]
     }
   },
@@ -85687,14 +85715,6 @@
       }
     }
   },
-  "s3put": {
-    "0.1.0": {
-      "sdist": [
-        "bh9eUxM6ehHzvqkIO8Q1E6cfLnqaDXtvSC/C8y+ajOU=",
-        "s3put-0.1.0.tar.gz"
-      ]
-    }
-  },
   "sacramathengine": {
     "0.0.1": {
       "sdist": [
@@ -88107,14 +88127,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "slicehost-api-wrapper": {
-    "0.1.0": {
-      "sdist": [
-        "UyGYckf4ycx5Q9mopTeATWfPQ7/GN5xpQERxsdQXIM8=",
-        "Slicehost-API-wrapper-0.1.0.tar.gz"
-      ]
     }
   },
   "slixmppbot": {
@@ -92017,14 +92029,6 @@
       }
     }
   },
-  "test-1p00": {
-    "0.1.0": {
-      "sdist": [
-        "ldcUDZG4EJ6Fpaf3uSY5W7WsDXhEPG+eA9CMr8BqaY4=",
-        "test-1P00-0.1.0.tar.gz"
-      ]
-    }
-  },
   "test-github-ci": {
     "0.0.2": {
       "sdist": [
@@ -94518,14 +94522,6 @@
       "sdist": [
         "Hk/7A216GY8rYqnPLEqnQ7s7vBTpMmSoL30KqXDdJXE=",
         "treesimi-0.1.1.tar.gz"
-      ]
-    }
-  },
-  "trendminer": {
-    "0.1.0": {
-      "sdist": [
-        "Cjrhoejv7JadHrgaMOC7/nKRfV9lfqrtD5B22G2PhYk=",
-        "trendminer-0.1.0.tar.gz"
       ]
     }
   },
@@ -98267,14 +98263,6 @@
       }
     }
   },
-  "various-js-and": {
-    "0.1.0": {
-      "sdist": [
-        "YTV34i9cr2zXFN1akk9dY9Ob8HHcFbqI1nB04tiqaw0=",
-        "Various-JS-and-0.1.0.tar.gz"
-      ]
-    }
-  },
   "vaspwiki": {
     "1.1.1": {
       "sdist": [
@@ -98344,14 +98332,6 @@
       "sdist": [
         "zbniKy2kcfqcRJDGOBNH/FaA7vjlaIXSPf19eld8GTY=",
         "vec2face-0.0.1a1.tar.gz"
-      ]
-    }
-  },
-  "video-club": {
-    "0.1.0": {
-      "sdist": [
-        "gg4fAJl0SRmIH2MIb5TdyzxWrpqYd8XyI3IGkGO7phs=",
-        "Video-Club-0.1.0.tar.gz"
       ]
     }
   },
@@ -99896,14 +99876,6 @@
       "sdist": [
         "lS9ZE98oaLaR/aaPKT/t0grzcEV2RuPxzbq0o9iFrjE=",
         "xinabox-SG33-0.0.1.tar.gz"
-      ]
-    }
-  },
-  "xlwtfolium": {
-    "0.1.0": {
-      "sdist": [
-        "F5srQvTUAW2y79grXNlmIfRkEqTDlisf1rPT8GFBCwk=",
-        "xlwtfolium-0.1.0.tar.gz"
       ]
     }
   },
