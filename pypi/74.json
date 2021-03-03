@@ -121,6 +121,12 @@
         "fiSUemmAPHaW8WLYVHbQ1/qHSvQrjiWp2nTxXumPieU=",
         "adafruit-circuitpython-max31856-0.9.5.tar.gz"
       ]
+    },
+    "0.9.6": {
+      "sdist": [
+        "ZqekTJRD78TK/8wvJz2pyC1qdMh7hEyB2zWUPsLAb98=",
+        "adafruit-circuitpython-max31856-0.9.6.tar.gz"
+      ]
     }
   },
   "adafruit-max9744": {
@@ -152,14 +158,6 @@
       "sdist": [
         "bYUZzDuQy3j2gy7oAFdy03SdDpf/YJnwRGSt+AEYfTQ=",
         "Adafruit_MAX9744-1.0.4.tar.gz"
-      ]
-    }
-  },
-  "addtrailingcomma": {
-    "0.1.1": {
-      "sdist": [
-        "WCmbsq7nM6I0ZCvKKDH5OM5wOvMvnADtQQ5m3o+Ra00=",
-        "addtrailingcomma-0.1.1.tar.gz"
       ]
     }
   },
@@ -1222,6 +1220,18 @@
       "wheels": {
         "aiomisc-12.0.0-py3-none-any.whl": [
           "QM0KTR17VoOOnXpNJoO4AU6UUvfS4pGpmX15BGb0H78=",
+          "py3"
+        ]
+      }
+    },
+    "12.1.0": {
+      "sdist": [
+        "N9eUdweTH6gwzN7glNilm9pgdCPB4mlEU8/diR+SoeQ=",
+        "aiomisc-12.1.0.tar.gz"
+      ],
+      "wheels": {
+        "aiomisc-12.1.0-py3-none-any.whl": [
+          "ZS6WwpLSqxQS1T4sgyPO+3WBnV3wzfr1bOEEG4YoJ8A=",
           "py3"
         ]
       }
@@ -7562,14 +7572,14 @@
     }
   },
   "bubot-modbus": {
-    "0.0.1": {
+    "0.0.2": {
       "sdist": [
-        "vyP/giT2O0r8Nc7u2euKxh82CptQqjcw8gg10jR6+28=",
-        "bubot_Modbus-0.0.1.tar.gz"
+        "kJQ2yWezZ9E+dO0bRW6+ODqy2+tn76UqPqzXbeVVkNI=",
+        "Bubot_Modbus-0.0.2.tar.gz"
       ],
       "wheels": {
-        "bubot_Modbus-0.0.1-py3-none-any.whl": [
-          "YVMMced7rLloQ0pEteops6Wejxo074pOezbx7kb+fKE=",
+        "Bubot_Modbus-0.0.2-py3-none-any.whl": [
+          "q9sCFTG17jGIDWQbhtoRYfW9SnKJjRFTz0PKtAACXIQ=",
           "py3"
         ]
       }
@@ -8556,6 +8566,50 @@
         ],
         "caio-0.7.0-cp39-cp39-manylinux2010_x86_64.whl": [
           "+WD6Gpd1qY5aTp44pCpEGx1Mr5rkGa4Fn92/o/54Ofw=",
+          "cp39"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "h2Ve4lEO9vDpvwtc13/ASnkjasAlmpc551Yi+i/RtnQ=",
+        "caio-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "caio-0.8.0-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "Esk1SVTM7VyG7aEBaF09C1ZWu9ULkpNgS2gVDOMvtds=",
+          "cp35"
+        ],
+        "caio-0.8.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "ht0QdgCK+iZl4wz2vj/uPVO4hgGr/X5zC1lUtOZPrEA=",
+          "cp36"
+        ],
+        "caio-0.8.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "01tCPxeNrd/ySBWUuU1mseBq/Z8mYp7sA0864MlQsxI=",
+          "cp36"
+        ],
+        "caio-0.8.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Hx0qQa1n+26a9NicQAVt83CzOPDMbKGz0veoVnW+qrc=",
+          "cp37"
+        ],
+        "caio-0.8.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "wwL+fEF84swcbDTrtLRiIFkgaKFKHjJMgBbxnXS01+0=",
+          "cp37"
+        ],
+        "caio-0.8.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "1FNhuE7cdIaORtW/NKKHn2mx0njmCSL5uYqylipZPwM=",
+          "cp38"
+        ],
+        "caio-0.8.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "YBshn+Fnwq63S/kfHKek0PwLpjdnzuefmhwUxnnhH98=",
+          "cp38"
+        ],
+        "caio-0.8.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "sbFj0mA6cAGsOfAMLfrw6f/1bT+iVTtwjpuw/DmslDI=",
+          "cp39"
+        ],
+        "caio-0.8.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "rlTQ5AlzKIJEiumnMBUay6msTLU20Dy/13EUWHy4WPc=",
           "cp39"
         ]
       }
@@ -13011,14 +13065,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "csshtmljsminify": {
-    "0.1.1": {
-      "sdist": [
-        "hlHEZD6XE6FbmBn+Q2zaXBym7URnhR60drpdTsm569s=",
-        "csshtmljsminify-0.1.1.tar.gz"
-      ]
     }
   },
   "csvutils": {
@@ -18181,38 +18227,6 @@
       ]
     }
   },
-  "djangogeojson": {
-    "0.1.1": {
-      "sdist": [
-        "A+Q1hZfTc5WkW8d+UhEATMQNUdNoVKWiyfpJecyVCfg=",
-        "djangogeojson-0.1.1.tar.gz"
-      ]
-    }
-  },
-  "djangopushnotifications": {
-    "0.1.1": {
-      "sdist": [
-        "qLNeb3Vr/wdIIDGlgpdbT+F8G45IHLFWsIBk97eR08Y=",
-        "djangopushnotifications-0.1.1.tar.gz"
-      ]
-    }
-  },
-  "djangorecurrence": {
-    "0.1.1": {
-      "sdist": [
-        "tVTLs/HDWjlviFvkrfABFq1umgJfHMbQwaVHVsdKoS4=",
-        "djangorecurrence-0.1.1.tar.gz"
-      ]
-    }
-  },
-  "djangoredisboard": {
-    "0.1.1": {
-      "sdist": [
-        "wgiEhDeZKz1LF//fUgiwYVtJX40rYZJ2HPVQifNGucA=",
-        "djangoredisboard-0.1.1.tar.gz"
-      ]
-    }
-  },
   "djaodjin-survey": {
     "0.1": {
       "sdist": [
@@ -20879,14 +20893,6 @@
       }
     }
   },
-  "expressionparser": {
-    "0.1.1": {
-      "sdist": [
-        "k21AbyaN4ijsRweYr+ECPwJgiiwnfRL8tJqUS5P0iIs=",
-        "expressionparser-0.1.1.tar.gz"
-      ]
-    }
-  },
   "extractor": {
     "0.5": {
       "sdist": [
@@ -22635,14 +22641,6 @@
       ]
     }
   },
-  "flake8doublequotes": {
-    "0.1.1": {
-      "sdist": [
-        "YPZJgwxZEIpGVShScE30ZBEw4ovphfSh3sewQJAIMZ8=",
-        "flake8doublequotes-0.1.1.tar.gz"
-      ]
-    }
-  },
   "flask-btsn-alchemy": {
     "0.0.1": {
       "sdist": [
@@ -23119,14 +23117,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "flaskmenu": {
-    "0.1.1": {
-      "sdist": [
-        "Dy2vM7tIdDKII5i03XSqAlQDVvjbDRSqXYecqai9IV0=",
-        "flaskmenu-0.1.1.tar.gz"
-      ]
     }
   },
   "flowws-freud": {
@@ -44058,6 +44048,18 @@
         ]
       }
     },
+    "1.17.19.0": {
+      "sdist": [
+        "Fbd/N3pw0t8Mf2NH3pH8fjWzFPElf7hGUFwckku9ZVc=",
+        "mypy-boto3-securityhub-1.17.19.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_securityhub-1.17.19.0-py3-none-any.whl": [
+          "xzUtEJf0/c+76x6TH73Fv6+/5NJURsIhvojTGLkL9Fc=",
+          "py3"
+        ]
+      }
+    },
     "1.17.2.0": {
       "sdist": [
         "/W66Mm954SZIh1OmdKFbK505Fd029aMMt/Bw33VxS8Y=",
@@ -47436,6 +47438,18 @@
       "wheels": {
         "mypy_boto3_worklink-1.17.18.0-py3-none-any.whl": [
           "i226CS5kRCbxwakTfEu6NYBPVQrNKiNr6QJO7TKuG6Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.19.0": {
+      "sdist": [
+        "ORa2a88ytrEz+lrzn6k7D7Des6h89yhJABlpxd01lHw=",
+        "mypy-boto3-worklink-1.17.19.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_worklink-1.17.19.0-py3-none-any.whl": [
+          "YZwFlPgavt4O9uHfcnWblunq0Js30yKV6NBLYi8Yz1E=",
           "py3"
         ]
       }
@@ -56128,6 +56142,14 @@
       "wheels": {
         "phone_gen-2.0.1-py3-none-any.whl": [
           "J8nOOxNSyT5dPfjxWQw+Fh3gAtzXDSrrB+pP01XppfI=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "wheels": {
+        "phone_gen-2.0.2-py3-none-any.whl": [
+          "spm/oldyYRqoqFfJdwpSls2FpyX/PLZdvjYV+ipQp5o=",
           "py3"
         ]
       }
@@ -64973,6 +64995,20 @@
       ]
     }
   },
+  "pysrim-executor": {
+    "0.1.0": {
+      "sdist": [
+        "BXi+px00RDE3BvitI+auCDC3mTHDI9hAFxEtvMJcGZc=",
+        "pysrim-executor-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pysrim_executor-0.1.0-py3-none-any.whl": [
+          "C2sXkTxFsUR8YDAay+isdvt6MajE6AwdLDV2lb0wyxE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pysurvey": {
     "0.1.0": {
       "sdist": [
@@ -65670,6 +65706,12 @@
       "sdist": [
         "W7ZqYccYbuEsbZR+rKDl7vgDcCPOFyXaHp/1hFjCcuY=",
         "pytket-ionq-0.2.0.tar.gz"
+      ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "vVxw2JXNOKJUSHc8B6qDSwXZNRLqMG895oXxCCuvWgo=",
+        "pytket-ionq-0.3.0.tar.gz"
       ]
     }
   },
@@ -72691,26 +72733,6 @@
       }
     }
   },
-  "setuptoolsgit": {
-    "0.1": {
-      "sdist": [
-        "kccwCLU1Nhpu21KQdl8uQISXiqfNn78UTfKQ8CRJLKQ=",
-        "setuptoolsgit-0.1.tar.gz"
-      ],
-      "wheels": {
-        "setuptoolsgit-0.1-py3-none-any.whl": [
-          "A0bhMLX4TJk/eHIy7aq2y+0fAb50TuRM76+TdzJZBbc=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "G1kB2iRDiAkTqz8U6oPPcQ5fMDVwNZEXhR23PtqoSTc=",
-        "setuptoolsgit-0.1.1.tar.gz"
-      ]
-    }
-  },
   "setux-logger": {
     "0.1.0": {
       "sdist": [
@@ -77683,14 +77705,6 @@
       }
     }
   },
-  "swagclient": {
-    "0.1.1": {
-      "sdist": [
-        "dlD4DIUGb/kLYaP5ONRo6ChxPLUzfqyZk+iaHCu60cI=",
-        "swagclient-0.1.1.tar.gz"
-      ]
-    }
-  },
   "swat": {
     "1.3.1": {
       "sdist": [
@@ -80639,14 +80653,6 @@
       ]
     }
   },
-  "traviscargo": {
-    "0.1.1": {
-      "sdist": [
-        "yfsMstOw97QFWJlpO8YlfDybWIVzZ8uuHgQSB22GFmc=",
-        "traviscargo-0.1.1.tar.gz"
-      ]
-    }
-  },
   "tree123": {
     "1.1.1": {
       "sdist": [
@@ -82242,14 +82248,6 @@
       "sdist": [
         "P/a0XZ4QIZpDY1gidHid54NIpTpddzHG46aedeugAwU=",
         "v_learn_nester-1.4.0.zip"
-      ]
-    }
-  },
-  "vaexastro": {
-    "0.1.1": {
-      "sdist": [
-        "FdRaFxpXVU51j5YD6WN7uY3P4COm3Wvd7kJhthvAlEI=",
-        "vaexastro-0.1.1.tar.gz"
       ]
     }
   },
@@ -86807,14 +86805,6 @@
       }
     }
   },
-  "zopeproxy": {
-    "0.1.1": {
-      "sdist": [
-        "8rx0cAkCVyrsElmqT4fn7aFglYfNJZvtFnGS25V0kfQ=",
-        "zopeproxy-0.1.1.tar.gz"
-      ]
-    }
-  },
   "zouaho-nester": {
     "1.0.0": {
       "sdist": [
@@ -86890,6 +86880,20 @@
       "wheels": {
         "zsh_startify-0.3.0-py3-none-any.whl": [
           "8uwbZDUCSx9IQmwzFayiVPxYtgBGkeoc/n6mRZXzIEo=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "zyte-autoextract": {
+    "0.7.0": {
+      "sdist": [
+        "ZaO78p1aaRSYGHrzoUNT9+2RxPYlT0V45VpE1ne0HK4=",
+        "zyte-autoextract-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "zyte_autoextract-0.7.0-py3-none-any.whl": [
+          "XafFoxcQPeksWQgS/QblD6Z/hypuFFG7hOGFrKRIqV0=",
           "py3"
         ]
       }

@@ -1249,14 +1249,6 @@
       ]
     }
   },
-  "allurebehave": {
-    "0.1.1": {
-      "sdist": [
-        "E4pl4/HNnnWEeeoqY6L9lwbPGHEN+hdJX7JH77ymZAk=",
-        "allurebehave-0.1.1.tar.gz"
-      ]
-    }
-  },
   "altair-catplot": {
     "0.0.1": {
       "sdist": [
@@ -1685,14 +1677,6 @@
           "py2"
         ]
       }
-    }
-  },
-  "apswwheels": {
-    "0.1.1": {
-      "sdist": [
-        "LWz7h2Y2nc5j3+olKR1LO3nU0V/Os6MkuMwwL66F2Y8=",
-        "apswwheels-0.1.1.tar.gz"
-      ]
     }
   },
   "arcgis": {
@@ -3519,22 +3503,18 @@
           "py3"
         ]
       }
-    }
-  },
-  "awscdkawsapplicationautoscaling": {
-    "0.1.1": {
+    },
+    "1.90.0": {
       "sdist": [
-        "VnlJTGWeExbTtHCzmLWouc+VnkrAm+3UgKd97FdbyHA=",
-        "awscdkawsapplicationautoscaling-0.1.1.tar.gz"
-      ]
-    }
-  },
-  "awscdkawssecretsmanager": {
-    "0.1.1": {
-      "sdist": [
-        "ynXughUmUr8tCL8M4MeWC05hO+hKTUyhCX8clr6s/gc=",
-        "awscdkawssecretsmanager-0.1.1.tar.gz"
-      ]
+        "p3WoXVc3p8X+RWUe4+UPc/IlqanTS+C6jE/X45DzdS8=",
+        "aws-solutions-constructs.aws-iot-lambda-1.90.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_iot_lambda-1.90.0-py3-none-any.whl": [
+          "ram179ISz7vuBklFpnhg9rwwBfs3TjWgK/Knn6UBiN4=",
+          "py3"
+        ]
+      }
     }
   },
   "awslimitchecker": {
@@ -8230,6 +8210,12 @@
         "cbmi_utils-0.1.1.tar.gz"
       ]
     },
+    "0.1.10": {
+      "sdist": [
+        "xU2hZ/l5BY8wTXmN4I62OK2Pr9T5KdZVZnK8KzDgdo0=",
+        "cbmi_utils-0.1.10.tar.gz"
+      ]
+    },
     "0.1.2": {
       "sdist": [
         "fZUP98/dg5mQxspCOWTOHti4hzR2ZUhUN/dOZ5FSyNQ=",
@@ -8258,6 +8244,24 @@
       "sdist": [
         "EpyXGoR35awL+SmC+xD+fbxg4g9xG8MvRApUMp8NiNc=",
         "cbmi_utils-0.1.6.tar.gz"
+      ]
+    },
+    "0.1.7": {
+      "sdist": [
+        "mI9XJl4vtjdu0Kix+i5SBTLvDE5HpuwwSDgUh0rut4E=",
+        "cbmi_utils-0.1.7.tar.gz"
+      ]
+    },
+    "0.1.8": {
+      "sdist": [
+        "Th0ppQykaU9/LGlnVnyLjRVLB1wGxCLn3bU7RhD1uI8=",
+        "cbmi_utils-0.1.8.tar.gz"
+      ]
+    },
+    "0.1.9": {
+      "sdist": [
+        "hb62CIhMGFrJJHDRvLKf7ys79qhP+WtwxYAbsG90YT4=",
+        "cbmi_utils-0.1.9.tar.gz"
       ]
     }
   },
@@ -10796,6 +10800,66 @@
         ]
       }
     },
+    "0.15.1": {
+      "sdist": [
+        "omGAtooXcfgTnT0eVJuUV867VuoUF3vYPf3RbNb5ERo=",
+        "chiavdf-0.15.1.tar.gz"
+      ],
+      "wheels": {
+        "chiavdf-0.15.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "vI3Ou3w9gSzqjZnaL452NnCp89qCIdwG+KVonF1LpEY=",
+          "cp37"
+        ],
+        "chiavdf-0.15.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "DUQaT7zbvCsH1CDzm8Nx0sGB6+hgIxy0sA5OVlBU7jI=",
+          "cp37"
+        ],
+        "chiavdf-0.15.1-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "8RbS2hHjDZIDmJ0B0FWWb3QiaidqwQP7Jw1AG0B3VFY=",
+          "cp37"
+        ],
+        "chiavdf-0.15.1-cp37-cp37m-win_amd64.whl": [
+          "tHHYzcY1b+W4HqOM7Wwun8kYoFaRTtpzavYeSnci20w=",
+          "cp37"
+        ],
+        "chiavdf-0.15.1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "238CDA801LtSUN/uHNiOkUsNqZeyxUinsQ6NWGiPp4g=",
+          "cp38"
+        ],
+        "chiavdf-0.15.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "JTYecAwBAVtGubg5r7JlYiUuHSyVxIa8CKiU/m7mMJs=",
+          "cp38"
+        ],
+        "chiavdf-0.15.1-cp38-cp38-manylinux2014_aarch64.whl": [
+          "3xE9srkuVXBaXz/BWBTndzclxWEwRgKLlWJxLZoxfho=",
+          "cp38"
+        ],
+        "chiavdf-0.15.1-cp38-cp38-win_amd64.whl": [
+          "REH/V3It34PPcZ9/Ja5234re6SufXoS+UBJU+ujJMho=",
+          "cp38"
+        ],
+        "chiavdf-0.15.1-cp39-cp39-macosx_10_14_universal2.whl": [
+          "Wpcp+a4DcFKxC64kq5Dt+8f83MjFrsAtdET7cKm2xPA=",
+          "cp39"
+        ],
+        "chiavdf-0.15.1-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "9lP+1II9NHflcdW2uZkZ8GE44f7AG0Kg2acAMsbOyYo=",
+          "cp39"
+        ],
+        "chiavdf-0.15.1-cp39-cp39-manylinux2010_x86_64.whl": [
+          "lTl9XLyc4GDs5Am1CvXP+ekCMURTjt9GtWVaoiMPHwQ=",
+          "cp39"
+        ],
+        "chiavdf-0.15.1-cp39-cp39-manylinux2014_aarch64.whl": [
+          "rgkvRSaS5VkWJ/6pmMj4qv+aM6Vp9L750uNdkCYNTWY=",
+          "cp39"
+        ],
+        "chiavdf-0.15.1-cp39-cp39-win_amd64.whl": [
+          "Kgb07avh32ovs42Sxdi/m/bg5ECdg1WEsmhasvgpBM0=",
+          "cp39"
+        ]
+      }
+    },
     "0.15.1b0": {
       "sdist": [
         "J04yocVI8INiWmxoXdwLo1RorTnOElByjUm/8sruP8o=",
@@ -12867,14 +12931,6 @@
           "cp38"
         ]
       }
-    }
-  },
-  "compressedrtf": {
-    "0.1.1": {
-      "sdist": [
-        "0mamhSbk2uHsNnt5GKEKQLD0Z2PnFKvZEsSoz/IfNIo=",
-        "compressedrtf-0.1.1.tar.gz"
-      ]
     }
   },
   "cone.ldap": {
@@ -24967,14 +25023,6 @@
       }
     }
   },
-  "djangoelasticsearchdsldrf": {
-    "0.1.1": {
-      "sdist": [
-        "SLLtRnUNlqn+rdl+8Liz5rAzqxXBqQ5YYuTbN2gZB8U=",
-        "djangoelasticsearchdsldrf-0.1.1.tar.gz"
-      ]
-    }
-  },
   "djangopackage-v0.1.6": {
     "0.1.6": {
       "sdist": [
@@ -25079,14 +25127,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "djangoses": {
-    "0.1.1": {
-      "sdist": [
-        "y2D7tFJ75RrA4V/FJr3hQwuhKHDo5JBPi+oVwlr9/8M=",
-        "djangoses-0.1.1.tar.gz"
-      ]
     }
   },
   "djangotalkto": {
@@ -29230,14 +29270,6 @@
       "sdist": [
         "CJKziCu72CiqKMzB9bzLLz84o3w8+um+YW+xBVjA5o8=",
         "factest-0.0.8.tar.gz"
-      ]
-    }
-  },
-  "fakeuseragent": {
-    "0.1.1": {
-      "sdist": [
-        "QT7Nzt0wCrL/24MPgumEA+ONpzp0q90JlnZcyhHvSBk=",
-        "fakeuseragent-0.1.1.tar.gz"
       ]
     }
   },
@@ -37291,6 +37323,18 @@
           "py2.py3"
         ]
       }
+    },
+    "4.9.5": {
+      "sdist": [
+        "NF3HIJ2lJJBA6cBMIK+14UUSJ2vZJlEFiD+ZCopI8Ak=",
+        "hdx-python-api-4.9.5.tar.gz"
+      ],
+      "wheels": {
+        "hdx_python_api-4.9.5-py2.py3-none-any.whl": [
+          "+bt5p1PtY3vGTNYHdaFGtLvSNrHU2KAS4ZtfgMcQNfQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "helloaaron": {
@@ -41032,6 +41076,18 @@
       "wheels": {
         "jet_django-1.0.7-py3-none-any.whl": [
           "0Ygq0+Il0XrI6NWj11xQdulURiQkFI4U974IlZO4jWM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "5wfpCNQoDg05bElLk+HBSOcyALQL4eHI96giwPM3KcY=",
+        "jet-django-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "jet_django-1.0.8-py3-none-any.whl": [
+          "GFLTTjxubhrmPQdtnDco0RXNunN9+vFX8Ud3R+H3kAI=",
           "py3"
         ]
       }
@@ -45868,6 +45924,12 @@
       "sdist": [
         "tT/rG1riXNWLvN4lnWtrXTJ+Ri0vDfALiGI/Jz+WpFg=",
         "markdownup-0.0.46.tar.gz"
+      ]
+    },
+    "0.0.47": {
+      "sdist": [
+        "/I7V/vfUjHcySCdYwvWIB1GKTyfnnCpJEwGCG489rwk=",
+        "markdownup-0.0.47.tar.gz"
       ]
     },
     "0.0.5": {
@@ -53510,6 +53572,18 @@
       "wheels": {
         "mypy_boto3_lakeformation-1.17.18.0-py3-none-any.whl": [
           "j1lPhndTL4a29LEApTL+62VZ5cdLbXFporwBXr9vhxI=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.19.0": {
+      "sdist": [
+        "LQKh9tRWh3CMWobbtPvVV9JKtiq0a9L5nncSlQIazsY=",
+        "mypy-boto3-lakeformation-1.17.19.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lakeformation-1.17.19.0-py3-none-any.whl": [
+          "Q8yC07fL8NRCXtGQD7y/MSy/6/nM6FYum0XXM3uTmTA=",
           "py3"
         ]
       }
@@ -68383,14 +68457,6 @@
       }
     }
   },
-  "pyjamarestclient": {
-    "0.1.1": {
-      "sdist": [
-        "c6QysqfwAPtAZZiPRRkWgdZiZugO3yA6C1+vs1mlOic=",
-        "pyjamarestclient-0.1.1.tar.gz"
-      ]
-    }
-  },
   "pykevo": {
     "1.0.0": {
       "sdist": [
@@ -72141,14 +72207,6 @@
       }
     }
   },
-  "pytestreorder": {
-    "0.1.1": {
-      "sdist": [
-        "nBdbLNJKLXhfn2RsJ01gF9F1TUdN5OgzC7gOJfBusRY=",
-        "pytestreorder-0.1.1.tar.gz"
-      ]
-    }
-  },
   "pytetgen": {
     "0.1.0": {
       "sdist": [
@@ -72663,14 +72721,6 @@
       }
     }
   },
-  "pythonjsonconfig": {
-    "0.1.1": {
-      "sdist": [
-        "551u3HYHf9lRSOqFATog6QVIMaPAkpLFdEedJiYIuPk=",
-        "pythonjsonconfig-0.1.1.tar.gz"
-      ]
-    }
-  },
   "pythonpackagetemplate": {
     "0.1.3": {
       "sdist": [
@@ -72707,14 +72757,6 @@
           "py2.py3"
         ]
       }
-    }
-  },
-  "pythonu2flibserver": {
-    "0.1.1": {
-      "sdist": [
-        "Hc18n7oh7rOIg9XDQmX8SO5TH5ZCbzjNMt5QjXMaHmw=",
-        "pythonu2flibserver-0.1.1.tar.gz"
-      ]
     }
   },
   "pytimesheet": {
@@ -80799,14 +80841,6 @@
       ]
     }
   },
-  "sqlalchemyredshift": {
-    "0.1.1": {
-      "sdist": [
-        "Tz4ufbvM+yfarpgcoxSwoCjcaZ1gAMLLJmMzUM3jsCs=",
-        "sqlalchemyredshift-0.1.1.tar.gz"
-      ]
-    }
-  },
   "sqlite-influx": {
     "0.0.1.dev3": {
       "sdist": [
@@ -81952,6 +81986,22 @@
       "wheels": {
         "stix_shifter_modules_splunk-3.3.6-py2.py3-none-any.whl": [
           "45OI7kcyx0jPcvPeRVvv/8wGs7oP9s1DihBmO+m1sms=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.3.6.dev466": {
+      "wheels": {
+        "stix_shifter_modules_splunk-3.3.6.dev466-py2.py3-none-any.whl": [
+          "KSm9KlacTSDO5w6mc+5sxXL4p9fmMn8dJbo6mmyvbMI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.3.dev465": {
+      "wheels": {
+        "stix_shifter_modules_splunk-3.3.dev465-py2.py3-none-any.whl": [
+          "Rw0UqBokSpBdoA4QOO1QUyK/o2BWDMvKPFDXNSBK+2U=",
           "py2.py3"
         ]
       }
@@ -84671,6 +84721,34 @@
           "cp38"
         ]
       }
+    },
+    "2.5.0.dev20210302": {
+      "wheels": {
+        "tensorflow_text_nightly-2.5.0.dev20210302-cp36-cp36m-manylinux1_x86_64.whl": [
+          "26t3dj5vGQZi8cvh6OSE3kREGoSW5UgFe7IxdoR2iD8=",
+          "cp36"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210302-cp36-cp36m-win_amd64.whl": [
+          "eBFk3PkHgTA6nuYUGdctJhG375GAshXTtkoahxH0RxQ=",
+          "cp36"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210302-cp37-cp37m-manylinux1_x86_64.whl": [
+          "thKUKUQ9DdqDIuCpPZZ2ewCWe+Ydo9winnzmBGobBbE=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210302-cp37-cp37m-win_amd64.whl": [
+          "aY/z6wD1YD+1vgbBRocZuXsyVNh1FhrvV5o11UpIZRY=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210302-cp38-cp38-manylinux1_x86_64.whl": [
+          "xMkYboIQvVSS3tczaSxdR2BvUJi4bzo+HumUsKdeHTg=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210302-cp38-cp38-win_amd64.whl": [
+          "IbfQ+GfDJSRKWsT7cK1Ms4on8bceQpbbiz7Piu9N8f4=",
+          "cp38"
+        ]
+      }
     }
   },
   "test-code1999": {
@@ -85179,14 +85257,6 @@
           "py2.py3"
         ]
       }
-    }
-  },
-  "tfestimatornightly": {
-    "0.1.1": {
-      "sdist": [
-        "J1I9SmBuoQCXa7yeLvMAxrJABohH44eQ0xSNuTATKII=",
-        "tfestimatornightly-0.1.1.tar.gz"
-      ]
     }
   },
   "thpoker": {
@@ -87955,14 +88025,6 @@
       }
     }
   },
-  "virustotalapi": {
-    "0.1.1": {
-      "sdist": [
-        "kIw8c1b0h9DLqVg5rIfPLgwn0Gm6b53Rc1FmkBi+oi8=",
-        "virustotalapi-0.1.1.tar.gz"
-      ]
-    }
-  },
   "visma-administration": {
     "0.1.1": {
       "sdist": [
@@ -90479,14 +90541,6 @@
       ]
     }
   },
-  "yelpencodings": {
-    "0.1.1": {
-      "sdist": [
-        "6mnF17KnbpW43c3+lk+00PWzHOzWRygdx59dViERn14=",
-        "yelpencodings-0.1.1.tar.gz"
-      ]
-    }
-  },
   "yesno": {
     "0.1": {
       "sdist": [
@@ -92182,14 +92236,6 @@
       "sdist": [
         "WIyY20GWABN0DZwgTYp4+HrFV9lgXYmLk7oT47wwi/E=",
         "zope.rdb-3.5.0.tar.gz"
-      ]
-    }
-  },
-  "zopeerror": {
-    "0.1.1": {
-      "sdist": [
-        "gS5zNaPnXu0YqO/8V3EuqQI+cq4bVRkAP/tNOx9dKdg=",
-        "zopeerror-0.1.1.tar.gz"
       ]
     }
   },

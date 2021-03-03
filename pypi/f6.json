@@ -111,6 +111,12 @@
         "SrA567PutUhX6lqp4Mdh33NHkprvSgTjXRE7rDiDjyI=",
         "adafruit-circuitpython-jwt-1.2.2.tar.gz"
       ]
+    },
+    "1.2.3": {
+      "sdist": [
+        "w4D5yViJbe2Qcgzdppf6jMJQ3L2LgVPqOw712gZY9rY=",
+        "adafruit-circuitpython-jwt-1.2.3.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-waveform": {
@@ -190,6 +196,12 @@
       "sdist": [
         "i0vQ9EFoParXdnQA6qwvaBoPK3RFjbGM6C+eGtRnHrU=",
         "adafruit-circuitpython-waveform-1.3.5.tar.gz"
+      ]
+    },
+    "1.3.6": {
+      "sdist": [
+        "g6VhxkEAkVW1D9si0vNtMTm7lkp8SPa0b1/HxptNrOM=",
+        "adafruit-circuitpython-waveform-1.3.6.tar.gz"
       ]
     }
   },
@@ -870,6 +882,14 @@
       "wheels": {
         "aitk.robots-0.6.25-py3-none-any.whl": [
           "vwrrDirrbM5Oib59/YlqtWyqgmGWv/wkD7UNuV2Kvto=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "wheels": {
+        "aitk.robots-0.7.0-py3-none-any.whl": [
+          "bDyv/2sf6UC6RYdTtUHzGPtzY1W+IAMyNmVHlhJPZGE=",
           "py3"
         ]
       }
@@ -2257,14 +2277,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "apachebeam": {
-    "0.1.1": {
-      "sdist": [
-        "7TNmJ0gHfgGLbXoVnMygjh+1/U6fQ+HGNDLs90/Rm1E=",
-        "apachebeam-0.1.1.tar.gz"
-      ]
     }
   },
   "apcs": {
@@ -4227,6 +4239,18 @@
           "py3"
         ]
       }
+    },
+    "1.90.0": {
+      "sdist": [
+        "a0q2gGpGj4hKYNW/YslJ0K7CjIW+juggU22piRI3t8I=",
+        "aws-solutions-constructs.aws-kinesis-streams-lambda-1.90.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_streams_lambda-1.90.0-py3-none-any.whl": [
+          "uUzrhy5pF0gEeYRPsCQ4JUrCOjFUl1gcMyqHVnbXe+4=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-ssh-proxy": {
@@ -4457,14 +4481,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "azuremltensorboard": {
-    "0.1.1": {
-      "sdist": [
-        "djN2PBIwiGIGWpGCPplyx75DIDP3s2RbViYH76mrrVc=",
-        "azuremltensorboard-0.1.1.tar.gz"
-      ]
     }
   },
   "babtools-example": {
@@ -9696,14 +9712,6 @@
       "sdist": [
         "RtVgLEUjV5Zwu1fHkSnh1LhAecY6ps2WcerKY5nKVsA=",
         "colab-gitlab-0.2.6.tar.gz"
-      ]
-    }
-  },
-  "colconcd": {
-    "0.1.1": {
-      "sdist": [
-        "ChwT9BxmXv5QtxjSiWIddvxR2wRpPPCeJinSxfQL2zI=",
-        "colconcd-0.1.1.tar.gz"
       ]
     }
   },
@@ -18389,14 +18397,6 @@
       ]
     }
   },
-  "djangoadminsortable": {
-    "0.1.1": {
-      "sdist": [
-        "RIJ8qwKE60m9HJEhH1qKMVY2Kv/wnLK98Z0Rhwm7xiY=",
-        "djangoadminsortable-0.1.1.tar.gz"
-      ]
-    }
-  },
   "djangocas": {
     "1.0.0": {
       "sdist": [
@@ -18429,30 +18429,6 @@
           "3.4"
         ]
       }
-    }
-  },
-  "djangocorsmiddleware": {
-    "0.1.1": {
-      "sdist": [
-        "wU3OK1JQzpV44b1mGx96ggGBfaLczw1WGdUiMazwm0k=",
-        "djangocorsmiddleware-0.1.1.tar.gz"
-      ]
-    }
-  },
-  "djangoguardian": {
-    "0.1.1": {
-      "sdist": [
-        "CA9gn9PG13Cbi1ySrXzp/Y6NPG9xNEci70YQjBoBr98=",
-        "djangoguardian-0.1.1.tar.gz"
-      ]
-    }
-  },
-  "djangoqueryinspect": {
-    "0.1.1": {
-      "sdist": [
-        "t5mnFWShjBtf4nqSANiOkDnGBtWiSXt88+Y1TdbAPzo=",
-        "djangoqueryinspect-0.1.1.tar.gz"
-      ]
     }
   },
   "djangorestframework-ext": {
@@ -19199,26 +19175,6 @@
       ]
     }
   },
-  "dockerpy": {
-    "0.1": {
-      "sdist": [
-        "ZOZYi+AuZcrwEYo7vOCtAc+jPs6HVg89X2nlUGZ0SIQ=",
-        "dockerpy-0.1.tar.gz"
-      ],
-      "wheels": {
-        "dockerpy-0.1-py3-none-any.whl": [
-          "Xc65A4Naa3egBLO/ODiQ3jz2J30QWEeLszkA20aIwEk=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "bNbUQtZlOPDKxehxeh7FZIlesF8W0JTkKq0IO7OckT0=",
-        "dockerpy-0.1.1.tar.gz"
-      ]
-    }
-  },
   "dolmen.field": {
     "0.2": {
       "sdist": [
@@ -19727,14 +19683,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "drfhaystack": {
-    "0.1.1": {
-      "sdist": [
-        "w1W3iBlKFbqG9GM7TgfQ+S/odMSBN3fJVZtFC8K1rCA=",
-        "drfhaystack-0.1.1.tar.gz"
-      ]
     }
   },
   "dsnd-probability-io-01": {
@@ -21603,14 +21551,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "ethtyping": {
-    "0.1.1": {
-      "sdist": [
-        "BTHFXlsphPs3RCzaAbhYPRXO4+HtrznZZClBydApeuo=",
-        "ethtyping-0.1.1.tar.gz"
-      ]
     }
   },
   "etrace": {
@@ -25974,14 +25914,6 @@
       "sdist": [
         "HwhR66mJ6AuB0AA6YcuULCcE5maUIqnwKikSuWOe88A=",
         "googleapis-common-protos-1.6.0b9.tar.gz"
-      ]
-    }
-  },
-  "googleapiscommonprotos": {
-    "0.1.1": {
-      "sdist": [
-        "twUbriVFmnSk53Z2DDjCisLSCjhZudjaE3s6XFcTmPQ=",
-        "googleapiscommonprotos-0.1.1.tar.gz"
       ]
     }
   },
@@ -30647,14 +30579,6 @@
       }
     }
   },
-  "jsregex": {
-    "0.1.1": {
-      "sdist": [
-        "YEKj/9xEYNZoeECF8R4ZH6uHKZfoyatyQ4Pf3DKIDHI=",
-        "jsregex-0.1.1.tar.gz"
-      ]
-    }
-  },
   "jstatmon": {
     "1.0.1": {
       "wheels": {
@@ -33639,14 +33563,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "libarchivec": {
-    "0.1.1": {
-      "sdist": [
-        "5BEIXEkcqw/OBPiFnvYHB+SjCQM+I2ww6oxlSEX17HE=",
-        "libarchivec-0.1.1.tar.gz"
-      ]
     }
   },
   "libpff-python": {
@@ -39051,14 +38967,6 @@
       ]
     }
   },
-  "moreitertools": {
-    "0.1.1": {
-      "sdist": [
-        "NY1LrwaKmSXfp1Z4hnwm5p0+Z3ZeZYxd9zJjdZnDG1c=",
-        "moreitertools-0.1.1.tar.gz"
-      ]
-    }
-  },
   "mozia-modules": {
     "1.0.0": {
       "wheels": {
@@ -43440,6 +43348,18 @@
         ]
       }
     },
+    "1.17.19.0": {
+      "sdist": [
+        "x15kIJIgI2LFb5uwQ09zm2jLoKi7lt9LdJgFZbUyoAM=",
+        "mypy-boto3-personalize-events-1.17.19.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_personalize_events-1.17.19.0-py3-none-any.whl": [
+          "2kbjd0P+hXyULPrgH7TmH/rXF6/IhuAw0KpW2HnOeas=",
+          "py3"
+        ]
+      }
+    },
     "1.17.2.0": {
       "sdist": [
         "nIHVIzJwpX7HANgbH15Wm7M3iWtPzTt+tj2SWoe089A=",
@@ -43978,6 +43898,18 @@
       "wheels": {
         "mypy_boto3_wellarchitected-1.17.18.0-py3-none-any.whl": [
           "AKF5GbI9jQER97SgCBLrKvJSIv0ikGujINOFxC7WocI=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.19.0": {
+      "sdist": [
+        "nEKbgyvkf7kSFHyraZ5dzAIAaV896L24BZkmAhHTZCo=",
+        "mypy-boto3-wellarchitected-1.17.19.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_wellarchitected-1.17.19.0-py3-none-any.whl": [
+          "q44u14ARIzVyA9MdO6mVGLBG2YMOXxmsjdazW3tPkOc=",
           "py3"
         ]
       }
@@ -45414,6 +45346,18 @@
       "wheels": {
         "ocli-0.0.2-py3-none-any.whl": [
           "PYRijWnZnUm5cUIb8cRj19/aA7AfBZgWN4Iaf/075j4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "2NDkU6TbnP3xLQiasmktainm06gEbBwp11+KQYbwMwo=",
+        "ocli-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "ocli-0.0.3-py3-none-any.whl": [
+          "Z2MySCTUZg7+bXjePk1qL6sBLVHxZ4XAA26DwCk9bqs=",
           "py3"
         ]
       }
@@ -47147,14 +47091,6 @@
       ]
     }
   },
-  "opencensusextrequests": {
-    "0.1.1": {
-      "sdist": [
-        "hWrziurmjPh1Qtkp4XvYgp5Adma7+b30Pf0mAK1QjyM=",
-        "opencensusextrequests-0.1.1.tar.gz"
-      ]
-    }
-  },
   "openerp-l10n-co": {
     "7.0.355": {
       "sdist": [
@@ -48516,14 +48452,6 @@
       "sdist": [
         "8t7VtR/WjLqm2sarGWFyTBm/Bdp4lvUwGCVVfrkUezI=",
         "paynowzw-2.0.0.tar.gz"
-      ]
-    }
-  },
-  "pcbledriverpy": {
-    "0.1.1": {
-      "sdist": [
-        "O+glFDsWl2vxqInqnsBhneCDTuh7DJ6N0MZnqwPpbGE=",
-        "pcbledriverpy-0.1.1.tar.gz"
       ]
     }
   },
@@ -54292,14 +54220,6 @@
       "sdist": [
         "OozKi8nDElmEXIlyP1eCiSJWPAAhVDfHdkoIqQQhufE=",
         "pip_install_privates-0.6.0.tar.gz"
-      ]
-    }
-  },
-  "pipfilerequirements": {
-    "0.1.1": {
-      "sdist": [
-        "y0SYIrpSYBxF9yScT9QF5VobtYAMS0f8inhnCWLTTGs=",
-        "pipfilerequirements-0.1.1.tar.gz"
       ]
     }
   },
@@ -60110,6 +60030,12 @@
         "PyBIS-1.18.2.tar.gz"
       ]
     },
+    "1.18.3": {
+      "sdist": [
+        "B+7xZ3fWrwkUR/aonsgHA9yMyoJ5XEkc94EWXfAeBAY=",
+        "PyBIS-1.18.3.tar.gz"
+      ]
+    },
     "1.2.0": {
       "sdist": [
         "JLEUzyACqf/LVa4+aKPQ7CbS+wCeGwTlV/e9dsi6IEM=",
@@ -63496,14 +63422,6 @@
       "sdist": [
         "aze7idlPllUr+lH46LidMq3d7Y3bWKMxSIKZ7wE32bY=",
         "pytest-faker-2.0.0.tar.gz"
-      ]
-    }
-  },
-  "pytestsentry": {
-    "0.1.1": {
-      "sdist": [
-        "jfx3a6ijuetRW8rSip+Jm0BcXpGeTSwKd8eAeBvtfBk=",
-        "pytestsentry-0.1.1.tar.gz"
       ]
     }
   },
@@ -74519,14 +74437,6 @@
       }
     }
   },
-  "sockjstornado": {
-    "0.1.1": {
-      "sdist": [
-        "9tuQgIgLBnbd612djkV7G9l0wulbNNPGk94qkz0ouzo=",
-        "sockjstornado-0.1.1.tar.gz"
-      ]
-    }
-  },
   "sohailpdf": {
     "1.0": {
       "sdist": [
@@ -75211,14 +75121,6 @@
           "2.7"
         ]
       }
-    }
-  },
-  "sphinxgit": {
-    "0.1.1": {
-      "sdist": [
-        "D5uPnP8D+SWJtjRLXLpY2haBnOP/ksPIMA4hhlZBxWE=",
-        "sphinxgit-0.1.1.tar.gz"
-      ]
     }
   },
   "spotify-me": {
@@ -76588,6 +76490,12 @@
       "sdist": [
         "qfBcfnNvZdTENVfOilWyStetiQgm8cssJfKDmvABd4g=",
         "tenable-jira-cloud-1.1.2.tar.gz"
+      ]
+    },
+    "1.1.20": {
+      "sdist": [
+        "Dd7kaihq0+TKIFP+2BqmwEeBtqtRyI51SE1XvVbHf6c=",
+        "tenable-jira-cloud-1.1.20.tar.gz"
       ]
     },
     "1.1.3": {
@@ -84096,14 +84004,6 @@
       "sdist": [
         "ss7kweHOhFAdsvAFAf/j7oJhbhx1oB3pivbONmj4qg0=",
         "zope.app.skins-3.4.0a1.tar.gz"
-      ]
-    }
-  },
-  "zopeappappsetup": {
-    "0.1.1": {
-      "sdist": [
-        "ARuGI0PzJSJpTZX5sNuN0DyZSuIecTYpn0JsapjxC4Q=",
-        "zopeappappsetup-0.1.1.tar.gz"
       ]
     }
   },
