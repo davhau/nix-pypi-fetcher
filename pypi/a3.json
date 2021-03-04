@@ -11878,6 +11878,18 @@
         ]
       }
     },
+    "1.90.13": {
+      "sdist": [
+        "kyabJdffUpCDIY2ATbWfWw0StKY1JQr70UknB41G6VM=",
+        "cdk-gitlab-runner-1.90.13.tar.gz"
+      ],
+      "wheels": {
+        "cdk_gitlab_runner-1.90.13-py3-none-any.whl": [
+          "d7mg2vE003NOhVN/wLX5toOEGKY7VFow9cYj8ejD8cU=",
+          "py3"
+        ]
+      }
+    },
     "1.90.2": {
       "sdist": [
         "/BrmINlzz5SfBDMBL8//u8NEc10XOrzIQt/vQhHfB44=",
@@ -33925,62 +33937,6 @@
       ]
     }
   },
-  "gramaddict": {
-    "1.2.0": {
-      "sdist": [
-        "5Z7Jrap2fKQ96Gydrq+sDaGDpvhX2J52rl1b27eXhtw=",
-        "gramaddict-1.2.0.tar.gz"
-      ]
-    },
-    "1.2.0b1": {
-      "sdist": [
-        "0WhatpcG6QnZgZo4Ng81QcUHs5Z8+HGCsPiKSVyZoBU=",
-        "gramaddict-1.2.0b1.tar.gz"
-      ]
-    },
-    "1.2.0b2": {
-      "sdist": [
-        "4pE9PJX3xFVCvzuEg4sWYpV0xqxGHfvguTBVGF5J514=",
-        "gramaddict-1.2.0b2.tar.gz"
-      ]
-    },
-    "1.2.0b3": {
-      "sdist": [
-        "MGcpGmDE0ty+ytpDSwdAvrOPZArZohCw8U8dkgm6iv8=",
-        "gramaddict-1.2.0b3.tar.gz"
-      ]
-    },
-    "1.2.1": {
-      "sdist": [
-        "wgkLXTPNzafPUm+bKr2iGUTUYcp4+TR12pQAsq3lnfI=",
-        "gramaddict-1.2.1.tar.gz"
-      ]
-    },
-    "1.2.2": {
-      "sdist": [
-        "uGL9ggeo1G4vzga55F1SQ7INW9Y3xlx/Xa9M2Cix5qU=",
-        "gramaddict-1.2.2.tar.gz"
-      ]
-    },
-    "1.2.3": {
-      "sdist": [
-        "d+qt78Q+Riwh3aZ09J58Rc4sE/Bg212KUq0kwCKIR6o=",
-        "gramaddict-1.2.3.tar.gz"
-      ]
-    },
-    "1.2.4": {
-      "sdist": [
-        "RqMG56OuPV9JtlK3k2FrzK1BNgz6LIcwRuuV5Aszizo=",
-        "gramaddict-1.2.4.tar.gz"
-      ],
-      "wheels": {
-        "gramaddict-1.2.4-py3-none-any.whl": [
-          "ZhS7oYM9JqTQSvjQVlz9wdi32aYj4TIlfF8mr1Dnh3U=",
-          "py3"
-        ]
-      }
-    }
-  },
   "graph-tools": {
     "1.0": {
       "sdist": [
@@ -40299,20 +40255,6 @@
         "lit-12.0.0rc1-py3-none-any.whl": [
           "CJiCweK9KTYsTAwmSe/L6p0PeFigBb4hHD3QEkdFnew=",
           "py3"
-        ]
-      }
-    }
-  },
-  "livetrader": {
-    "0.1": {
-      "sdist": [
-        "TIHgBR6GThoVWFDT1B/5UsTxFyCZXBYYw8598LPwmjg=",
-        "livetrader-0.1.tar.gz"
-      ],
-      "wheels": {
-        "livetrader-0.1-py2.py3-none-any.whl": [
-          "9zQf6KmWb4kooOf3pywQ0z4UCTpWpU/cSa+UPeH7zmI=",
-          "py2.py3"
         ]
       }
     }
@@ -61463,6 +61405,20 @@
       }
     }
   },
+  "pyamsd": {
+    "0.1.0": {
+      "sdist": [
+        "gX6xfmQczW+0CkD1yYWabbGzdlXk0Ohw1aoX4tiIdxs=",
+        "pyamsd-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pyamsd-0.1.0-py2.py3-none-any.whl": [
+          "IoToReRRsi8ulFJ+H94UrHQndox+HXCF5UJlflnYdps=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "pyatomdb": {
     "0.0.0.1": {
       "sdist": [
@@ -74083,6 +74039,14 @@
       }
     }
   },
+  "ruffin": {
+    "0.1.0": {
+      "sdist": [
+        "+kAxe6P1u3oPeU/wwuX189YO3WpM4AI58xWIcRJPMw8=",
+        "ruffin-0.1.0.tar.gz"
+      ]
+    }
+  },
   "runcible": {
     "0.0.3": {
       "sdist": [
@@ -77969,6 +77933,46 @@
         "Shapely-1.7b1-cp38-cp38-win_amd64.whl": [
           "LS5Xev4x6+c/yaodwjrymbJIrKeSnqJgUdJUDIOG3oY=",
           "cp38"
+        ]
+      }
+    },
+    "1.8a1": {
+      "sdist": [
+        "p0irdMGHBgJk586DiqrDDurSp5G76ozDqx38PMC00Gc=",
+        "Shapely-1.8a1.tar.gz"
+      ],
+      "wheels": {
+        "Shapely-1.8a1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "5LpUjkThNHYuTMSsnUTTj7tLtmqDGeu/NqgL76PcDXA=",
+          "cp36"
+        ],
+        "Shapely-1.8a1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "Rfsgg/0/iOFopkgsJT+Xcm57mGzEQxgY3jmGI7PCK14=",
+          "cp36"
+        ],
+        "Shapely-1.8a1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "u50I/i/nr1x96BmoNJ3dHK1QrhXR2kk+MmxPNcb+rOs=",
+          "cp37"
+        ],
+        "Shapely-1.8a1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "ozVwBt7F5cvw1ZGc0H+mDZPxa5F3ZaOlMfX49gte1pQ=",
+          "cp37"
+        ],
+        "Shapely-1.8a1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "kMSu7rJQHi81oEiP6ah1CCcPoIcPNCDSdBfWXuP5IFM=",
+          "cp38"
+        ],
+        "Shapely-1.8a1-cp38-cp38-manylinux1_x86_64.whl": [
+          "kfQ5wpBmkTM1UoEJFrpuDWd3xJ9szN4H+kk3iTHIOBM=",
+          "cp38"
+        ],
+        "Shapely-1.8a1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "D9Dys/joQETPWHAz0jPxL95cgm8Xu3hDCjk/VXT2hA8=",
+          "cp39"
+        ],
+        "Shapely-1.8a1-cp39-cp39-manylinux1_x86_64.whl": [
+          "gPMxuD4QLTQ+vK4A9hW5ltLq7uaY2bQknLwce2JjAU4=",
+          "cp39"
         ]
       }
     }
@@ -85508,6 +85512,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cpdp-3.0.348-py2.py3-none-any.whl": [
           "6WzAG2B2M/MFpoSEDPtKgdGlEk/mnwukeKF1SdKPr9M=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.349": {
+      "sdist": [
+        "eHzYZIi5nQtlDdcVPKMChnOU+3w6eMVq9deq+4sZ6v8=",
+        "tencentcloud-sdk-python-cpdp-3.0.349.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cpdp-3.0.349-py2.py3-none-any.whl": [
+          "tfq3SNsYGkNWEH9I9Sl7XI7TS5N4/QoGikXfrGAz0ck=",
           "py2.py3"
         ]
       }
