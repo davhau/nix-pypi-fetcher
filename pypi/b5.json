@@ -17288,6 +17288,12 @@
         "core_dashboard_common_app-1.13.0.tar.gz"
       ]
     },
+    "1.14.0": {
+      "sdist": [
+        "N89qkfc5cm7IFW3g1gThxMSz8n46N1Y5HOxAUIPHPVk=",
+        "core_dashboard_common_app-1.14.0.tar.gz"
+      ]
+    },
     "1.2.0": {
       "sdist": [
         "abWVA326/cGgPceLBFmxRRtdBoW8Zf7Ue5CFTqY584k=",
@@ -40224,6 +40230,14 @@
         ]
       }
     },
+    "0.12.2": {
+      "wheels": {
+        "keanu_etl-0.12.2-py3-none-any.whl": [
+          "N6Tsw0qsVMIoQGN2pRiYDYtQlwQaycFbqrIlkCP6Y7M=",
+          "py3"
+        ]
+      }
+    },
     "0.2": {
       "wheels": {
         "keanu_etl-0.2-py3-none-any.whl": [
@@ -48270,6 +48284,34 @@
         ],
         "modin-0.8.3-py3-none-win_amd64.whl": [
           "Ykm9AO8wOHIWQqx5Nxy/EOq8Naq6Gj3gbzzCM56XIA4=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "p9Kmty6smJp/GJP32kdtEHSyTwG/78NG5frPNmW1XW8=",
+        "modin-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "modin-0.9.0-py3-none-macosx_10_9_x86_64.whl": [
+          "94sGi7PPNgNcFIp0j6w6IjtPpNro0dcD8/dFwcaK0Xs=",
+          "py3"
+        ],
+        "modin-0.9.0-py3-none-manylinux1_i686.whl": [
+          "StAuf+6TRB8gSJ+OvpjzwXzeZSsl4sAkSM8xiY6be8Q=",
+          "py3"
+        ],
+        "modin-0.9.0-py3-none-manylinux1_x86_64.whl": [
+          "MR5iw4faMmf32ggaeadHnsgrZmWP4qlJMHLnX+FVdWo=",
+          "py3"
+        ],
+        "modin-0.9.0-py3-none-win32.whl": [
+          "y200Kz7THckTiHvCuYPd7Dux06WdSCmHtdtGvM2OdaE=",
+          "py3"
+        ],
+        "modin-0.9.0-py3-none-win_amd64.whl": [
+          "65aYsmPhtk0EVy9OPJ5H6wHVeuJ74h7nSRDQCPRnlqo=",
           "py3"
         ]
       }
@@ -74181,6 +74223,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.6": {
+      "sdist": [
+        "j6O+7hyFjSh5O4TJYYOQnwMJpMBJrqKw6VxPWy7leDI=",
+        "SOLIDserverRest-2.1.6.tar.gz"
+      ],
+      "wheels": {
+        "SOLIDserverRest-2.1.6-py3-none-any.whl": [
+          "TNAj+MXUSKY8gWOCbpIKLGRpVCNTgROAVBlY3we4tMo=",
+          "py3"
+        ]
+      }
     }
   },
   "solvate-step": {
@@ -78935,6 +78989,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.350": {
+      "sdist": [
+        "1R6lXKY7JpmudgzLwmBFO/WzGLrZQvdNUuC832Ucmuo=",
+        "tencentcloud-sdk-python-soe-3.0.350.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_soe-3.0.350-py2.py3-none-any.whl": [
+          "yntgnO6oHzlhf2X2aMGnxTdOUfY8LifIOu3/Dr4mmLI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-wss": {
@@ -80110,6 +80176,18 @@
       "wheels": {
         "tencentcloud_sdk_python_wss-3.0.349-py2.py3-none-any.whl": [
           "aEUyKun9Ud15I4ZS/EH1jPrfCGJKFd2XHHNLvJoeNL8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.350": {
+      "sdist": [
+        "42JZWSwMOR9puA/Oowncsked+Lgmi+122yqVkF8kngQ=",
+        "tencentcloud-sdk-python-wss-3.0.350.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_wss-3.0.350-py2.py3-none-any.whl": [
+          "I2zgcJmqoDU/Z5Tg+N7E0w7Pqh2uFv+o0s+8xvkQ4nY=",
           "py2.py3"
         ]
       }
@@ -82362,6 +82440,58 @@
         ],
         "torchaudio-0.7.2-cp39-cp39-manylinux1_x86_64.whl": [
           "QcP61CODyrlQqMKqFbB3Hg8lZ6YsXaEAjECv135Kp7Q=",
+          "cp39"
+        ]
+      }
+    },
+    "0.8.0": {
+      "wheels": {
+        "torchaudio-0.8.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "NNOdHvkpyyMd3W++kdGbuA3vrQCxbOyt4M33bNVZHdg=",
+          "cp36"
+        ],
+        "torchaudio-0.8.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "vIWLH/duk/tyrc10ZX/6CX+0sTquC0ISDxJuqt250ho=",
+          "cp36"
+        ],
+        "torchaudio-0.8.0-cp36-none-win_amd64.whl": [
+          "Rhl4qB6MuVHNDCJncOuiPnL2DABgXgETAjsKvQr6Nyw=",
+          "cp36"
+        ],
+        "torchaudio-0.8.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Ds8Tg1vRcrE4P7ogCno3verjNMOx+K2bQFBpQmM62EE=",
+          "cp37"
+        ],
+        "torchaudio-0.8.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "mlAzBkc8TxrsOUPHbbGxhVJts3njmiHNRy3uknM6Ha0=",
+          "cp37"
+        ],
+        "torchaudio-0.8.0-cp37-none-win_amd64.whl": [
+          "YhpUuTWDl1ef/q5qnp1fc/FpB8GZP+8/uFZT1+szVQ8=",
+          "cp37"
+        ],
+        "torchaudio-0.8.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "BPqPgST8LrqABSc2KwWVLJluaSrgQEDhQ5JngHra+UM=",
+          "cp38"
+        ],
+        "torchaudio-0.8.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "yBrt1j/AoB4Np1JOzbhb+JD+YhXoA7yOdEiJVuPG4Kc=",
+          "cp38"
+        ],
+        "torchaudio-0.8.0-cp38-none-win_amd64.whl": [
+          "xoiixHHa1o8b+OLV2xd70pKa2xtug37Cj40F5pENJ0s=",
+          "cp38"
+        ],
+        "torchaudio-0.8.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "vneFNxtT2mlDOsMR5TdwKtdav2j5hl9harcpNvK0r38=",
+          "cp39"
+        ],
+        "torchaudio-0.8.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "FTrYycKRXMvliM9MpgANAldYAaL+fUEQBfuw/GsSm7E=",
+          "cp39"
+        ],
+        "torchaudio-0.8.0-cp39-none-win_amd64.whl": [
+          "kdI1VZ23L50OFdMuLeDvKbSdtLvMCe8bgQWd8ysdPIw=",
           "cp39"
         ]
       }
