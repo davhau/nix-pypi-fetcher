@@ -5115,6 +5115,18 @@
           "py3"
         ]
       }
+    },
+    "1.90.1": {
+      "sdist": [
+        "ihNZxj1iKUpJ00C5AEi+xWqMdJTZZn0ROlViPb9ljn0=",
+        "aws-solutions-constructs.aws-iot-kinesisfirehose-s3-1.90.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_iot_kinesisfirehose_s3-1.90.1-py3-none-any.whl": [
+          "MTeHw106DwkMqaU+3syJDj4AmMrQROFhqsG6NP2k9Lg=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-toolkit": {
@@ -29006,7 +29018,49 @@
       "sdist": [
         "xkwLCguK05ZaY3kTtkWNWekrUf5CIK2bDF6udsmEmvQ=",
         "glnext-0.7.0.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "glnext-0.7.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "Nf/VuKD+ef1mhYXBvHVCNa5/3msrphNaqI6rZqSWBpA=",
+          "cp39"
+        ],
+        "glnext-0.7.0-cp39-cp39-win_amd64.whl": [
+          "GPZ+FK6gG/mNTFmAfOYzvrX24CW8uA2I7+LQLRt0qMc=",
+          "cp39"
+        ]
+      }
+    },
+    "0.7.1": {
+      "sdist": [
+        "9DeuTDJJgcUSISJF19c9eU9J9C5draSka+EMqgrB4Kk=",
+        "glnext-0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "glnext-0.7.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "g56xAVzWj6Q04qr3zhWmanM6skWc7M0p7g5om3KyMUw=",
+          "cp37"
+        ],
+        "glnext-0.7.1-cp37-cp37m-win_amd64.whl": [
+          "dG5i7qkclrV2wOc8uhabrOqg3kjKaw01Bd4cFeWV8QM=",
+          "cp37"
+        ],
+        "glnext-0.7.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "rWYO0/R1Hn0GlCEHTo9QeJkv2nWcdrgVP7S+CB26sCI=",
+          "cp38"
+        ],
+        "glnext-0.7.1-cp38-cp38-win_amd64.whl": [
+          "15v3BqmLSCHglXg5Kq4ISnzGqMhlDOOqMviIcwHKe0M=",
+          "cp38"
+        ],
+        "glnext-0.7.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "hZ+MCY+vSzaakRo1LmrLWhIGzhm14IkeW4k/NduHSZk=",
+          "cp39"
+        ],
+        "glnext-0.7.1-cp39-cp39-win_amd64.whl": [
+          "nbH6W3bVPyUxrz0j1MscWqK+KA+ugl1mMMN+EURlczw=",
+          "cp39"
+        ]
+      }
     }
   },
   "gmx-wrapper": {
@@ -48734,6 +48788,50 @@
         ],
         "NEURON_nightly-8.0a448-cp39-cp39-manylinux1_x86_64.whl": [
           "nO1aTZcGuJwjr4c6blpLkeosEAdlZL2rsJ0dSpxDPDM=",
+          "cp39"
+        ]
+      }
+    },
+    "8.0a450": {
+      "wheels": {
+        "NEURON_nightly-8.0a450-cp35-cp35m-macosx_10_9_intel.whl": [
+          "nOq3ng8429gLKOgZQXPBY0hrGTYLAbG+fb6PYVZVE7w=",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0a450-cp35-cp35m-manylinux1_x86_64.whl": [
+          "KC1QOTH6rJOZQ0nKjo4BkS8Fmv6Osmkokn6VSmgBZtI=",
+          "cp35"
+        ],
+        "NEURON_nightly-8.0a450-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "mqh3tcCgXBaKu0heimnYQ0eQbYgzWA1CZ2yoj/8Z5mc=",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0a450-cp36-cp36m-manylinux1_x86_64.whl": [
+          "o1IRZH5tq47/uzs5PD3tetAMtcOGAGJAgZqWJGcYwhQ=",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0a450-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "LLM7PubIOM0FjeVkQRUdOv590Qlu9TYeTvO27W+oy30=",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0a450-cp37-cp37m-manylinux1_x86_64.whl": [
+          "z231HQzO4Av7ZgDRfwtOg6qbT0rjT3Lluica7dXGwcE=",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0a450-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "Rv7PxOmK3rk9OqXQj96kxySPX9QdGH/SzrYHCM/FJFk=",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0a450-cp38-cp38-manylinux1_x86_64.whl": [
+          "aY0mhHK2h6ULC/jxh4Rq63HHDlBWCqhzaQmbJ1DCZ3A=",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0a450-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "grhqURkYy2rHdlEhhkXqHFvjhgGEtfgvSDEoDdpbKIE=",
+          "cp39"
+        ],
+        "NEURON_nightly-8.0a450-cp39-cp39-manylinux1_x86_64.whl": [
+          "doPT2giCDhtsICSh1tX2WR5Hv/kO8rI25wPBLVvbzy4=",
           "cp39"
         ]
       }
