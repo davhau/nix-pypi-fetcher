@@ -3859,6 +3859,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "fN1IuZ9fjxgRZv6qh9gg6v6KYpnKlXfnoLqfZCDXoRY=",
+        "azure-synapse-managedprivateendpoints-0.3.0.zip"
+      ],
+      "wheels": {
+        "azure_synapse_managedprivateendpoints-0.3.0-py2.py3-none-any.whl": [
+          "bS7qzZZUMaqpyDdou8vvbHlIhtuwIOpsduE9RAh1rGs=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "b64-stream": {
@@ -5060,6 +5072,12 @@
       "sdist": [
         "mAycxogx7WDF9Cs68XE53rU3UHLhNCuvTANVZTsxihs=",
         "boto3_extensions-0.16.4.tar.gz"
+      ]
+    },
+    "0.17.0": {
+      "sdist": [
+        "z/8Qm1UNfrgp8Ca/fID9Xsd/+EGJy79E83V4RkaLgWk=",
+        "boto3_extensions-0.17.0.tar.gz"
       ]
     },
     "0.3": {
@@ -7278,116 +7296,6 @@
       "wheels": {
         "celery_client_stubs-0.7.1-py3-none-any.whl": [
           "0vxih3+hslq8pdJLHPHyGRdvo6hLmPmTIlapLS4SU2c=",
-          "py3"
-        ]
-      }
-    }
-  },
-  "certificate-gen": {
-    "0.0.1": {
-      "sdist": [
-        "+8wzTgHnKARafIfp6dBQuzTwy+k3qfVlVe4ehfLzfKI=",
-        "certificate-gen-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "certificate_gen-0.0.1-py3-none-any.whl": [
-          "48NscaKpGvow+6uDNyMuqAqBW6vjTk8FDgoevJShmpo=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "8ejjdYR5/cIunC9OuZZFaKfPvdHwHHbmiUI0jEnoKo8=",
-        "certificate-gen-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "certificate_gen-0.1.1-py3-none-any.whl": [
-          "EG8WB1L5PoMMHyepxCHe6bpDI5eJlEE7h7ia5OcRMFQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "+lNX4yKl/uhPXeMerweC4xFtke5vwcy6IZWFRo9PGJA=",
-        "certificate_gen-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "certificate_gen-0.1.2-py3-none-any.whl": [
-          "81pOA+otJdXRhhyTdDh8dOftvoJZxjqxde+bzlp/KAY=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "WYU8sReuDrTgoxAOSSuCcjeNs3qv+VsIPi4LSbCBhQI=",
-        "certificate_gen-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "certificate_gen-0.1.3-py3-none-any.whl": [
-          "UCh178FuVW4dTsxDRR+bZA1teCZJ6HA2acJelKXQt74=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "BRfR/Rhv7B17xzpqK0KV7QH5/Bq2KAc0Yg5HA1qMvzs=",
-        "certificate_gen-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "certificate_gen-0.1.4-py3-none-any.whl": [
-          "SxDxqQClWpsBvHT+AeJiigXiueRMJGH504ZuyhSDMUU=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "BtY1L3VrVsdxHpuVYHf3GnvQenxf5GJt1YOz152QIuU=",
-        "certificate_gen-0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "certificate_gen-0.1.5-py3-none-any.whl": [
-          "Fi1Jl9nBQkB9YB8fnjgaS3KcZ8zShrGRzXwai7U8VV0=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.6": {
-      "sdist": [
-        "//kcbyg0rOJun41wa2X7vplU5tH5sKg4NiF7UsP9sUs=",
-        "certificate_gen-0.1.6.tar.gz"
-      ],
-      "wheels": {
-        "certificate_gen-0.1.6-py3-none-any.whl": [
-          "O9SXkeJzYq8WxSlxmxExkez4CEpcOH2aONvdRFzIUHE=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "orkTHDMdr3fhMNjcXdfdIrKLivZHpAZbm92Hstm5GX4=",
-        "certificate_gen-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "certificate_gen-0.1.7-py3-none-any.whl": [
-          "BTEzvyBSC4Kh1tamEZou0LUtijnnuDedeCS2K1ldeAY=",
-          "py3"
-        ]
-      }
-    },
-    "0.2": {
-      "sdist": [
-        "+QEpbd6drGEIvpXCNnj6vnJtjNBdDWh0b5xzOnDX8dM=",
-        "certificate_gen-0.2.tar.gz"
-      ],
-      "wheels": {
-        "certificate_gen-0.2-py3-none-any.whl": [
-          "yVxtR/BSKNjmaJhBsIB4xtt/uzMK5v+sFad4V2O5gjU=",
           "py3"
         ]
       }
@@ -38691,6 +38599,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "CkKLPR5/7SaZbStjtrAAcKZMTwPtdgKvcm9a6gDmg3o=",
+        "MeTEA-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "MeTEA-0.0.3-py3-none-any.whl": [
+          "TRPFoXw5cuaVe4OgKFoeFxdILkrnVrmXEgUgAfbRnEo=",
+          "py3"
+        ]
+      }
     }
   },
   "meteofrance-api": {
@@ -44702,6 +44622,18 @@
         ]
       }
     },
+    "1.17.24.0": {
+      "sdist": [
+        "Tw8QmiPWtXHT13UplZc5NjIdu1PegBJ4OTlpkunoVyE=",
+        "mypy-boto3-1.17.24.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3-1.17.24.0-py3-none-any.whl": [
+          "lTyWhOt3fEdkTIGlmifEdqiIxuNe3MYnJU2nR1Uexrs=",
+          "py3"
+        ]
+      }
+    },
     "1.17.3.0": {
       "sdist": [
         "l68xg16iLPHm4+0QiacuxjA7e//Pm5exFgkfmnjKdac=",
@@ -48160,6 +48092,18 @@
         ]
       }
     },
+    "1.17.24.0": {
+      "sdist": [
+        "6dZ/UjBcbv36T5eZETDT9YjDVTAWkOQJsnXdFTk95js=",
+        "mypy-boto3-autoscaling-plans-1.17.24.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_autoscaling_plans-1.17.24.0-py3-none-any.whl": [
+          "864aKwYN/ONOTFbqk9DJXdWH1KftzsAK8l1JkGN9Ekw=",
+          "py3"
+        ]
+      }
+    },
     "1.17.3.0": {
       "sdist": [
         "rr0jY6Jto2qmWa5kCSW4ec5BgFcsKVNbnRRtCUv0bzg=",
@@ -51614,6 +51558,18 @@
       "wheels": {
         "mypy_boto3_ce-1.17.23.0-py3-none-any.whl": [
           "iss7GyIAybC/qDtsrEQUnV5cd4x9pryh0R1cxAYGgx0=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.24.0": {
+      "sdist": [
+        "3mi5Y+hqFEhhkFETr/V8NTsF59LeRtVPnFCiAna44ro=",
+        "mypy-boto3-ce-1.17.24.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ce-1.17.24.0-py3-none-any.whl": [
+          "w4LiqavYs3s0Azn9jURMnCMe0P0xpC8QEF3cTxiIBb4=",
           "py3"
         ]
       }
