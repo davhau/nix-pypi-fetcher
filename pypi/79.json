@@ -681,6 +681,12 @@
         "TQK2Sk+acazGbVIPJ9e2ZUoYLjZTWigaOKvYpDTNlUQ=",
         "adafruit-circuitpython-esp32spi-3.5.5.tar.gz"
       ]
+    },
+    "3.5.6": {
+      "sdist": [
+        "gm6XeQltMu2VjUFn2jFf/yIyRLsnHxKcXte5dwyoV04=",
+        "adafruit-circuitpython-esp32spi-3.5.6.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-tfmini": {
@@ -3337,6 +3343,20 @@
         "g58GxH8d0mjxxbfJ+04fUHozLFHofmnWReg/8tQpG4k=",
         "ap-0.1.4.tar.gz"
       ]
+    }
+  },
+  "apache-aurora-kerbero": {
+    "1.2.3": {
+      "sdist": [
+        "/iWL2qYIYUuDLHm+HAv0fhWrwJW555j3LVYrbRj0hI8=",
+        "apache-aurora-kerbero-1.2.3.tar.gz"
+      ],
+      "wheels": {
+        "apache_aurora_kerbero-1.2.3-py3-none-any.whl": [
+          "A3ZKlbYb0eEp4b5Ergf6CEOW+Dx0D6c5qaj/vdjG8aU=",
+          "py3"
+        ]
+      }
     }
   },
   "apachecn-algo-zh": {
@@ -19529,38 +19549,6 @@
       }
     }
   },
-  "docker-ops": {
-    "0.0.2": {
-      "sdist": [
-        "Xo0W4kL7lXUhC3C97xGVxPNW2kJLBgAIyQDGKFQ1gww=",
-        "docker-ops-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "MqSkirpj18MEp5zl/Ry5pZv71WcHPm7bi/+d2y8FUyU=",
-        "docker-ops-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "wudblL2le6pXv2p4SafqjTunveCUTqBIfhw67z9OtHw=",
-        "docker-ops-0.0.4.tar.gz"
-      ]
-    },
-    "0.0.5": {
-      "sdist": [
-        "cR24neCASHznRg+6qOXmbVY6BUTrWT1Nx33dBJv0C58=",
-        "docker-ops-0.0.5.tar.gz"
-      ]
-    },
-    "0.0.6": {
-      "sdist": [
-        "omwBx9TUgHrKyJrsb4NLfjhOtebl55N/vVG+mEum0nc=",
-        "docker-ops-0.0.6.tar.gz"
-      ]
-    }
-  },
   "docker-postgres-client": {
     "0.0.1": {
       "sdist": [
@@ -21514,6 +21502,18 @@
       "wheels": {
         "eHelply_Microservice_Library-1.2.33-py3-none-any.whl": [
           "KbQu8OU/dILVLUbj1uxk2ww6gaI4PE6ZjBqgP5mXCqc=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.34": {
+      "sdist": [
+        "Izs5hodDy4VTFG8oUjm7u+5nIB4kgEELW8zuOsCh1/I=",
+        "eHelply-Microservice-Library-1.2.34.tar.gz"
+      ],
+      "wheels": {
+        "eHelply_Microservice_Library-1.2.34-py3-none-any.whl": [
+          "HVPdhGvugCP6QZELqPKFt/0+p+OJ1HBdcwcJYsrdc7k=",
           "py3"
         ]
       }
@@ -41176,6 +41176,18 @@
       "wheels": {
         "mead_baseline-2.2.9-py3-none-any.whl": [
           "h6tZhWy5d4bzgzWbffWR7VM0qP88WNgJc1XGB7HZ56I=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.0": {
+      "sdist": [
+        "8tf4J5Xbi8UC9r3+kdiN1iVguORWBwb1bMT8rFeLvDQ=",
+        "mead-baseline-2.3.0.tar.gz"
+      ],
+      "wheels": {
+        "mead_baseline-2.3.0-py3-none-any.whl": [
+          "OxaX9KJGyreQc1suMt9a0Rg6kc6rW08lIvzeBhdmgEQ=",
           "py3"
         ]
       }
@@ -75548,6 +75560,30 @@
         ]
       }
     },
+    "1.0.27": {
+      "sdist": [
+        "G3LRbeoezrt18GBErKpCItx3IYQbSaM/4jlJFbq8XnA=",
+        "selenium_firefox-1.0.27.tar.gz"
+      ],
+      "wheels": {
+        "selenium_firefox-1.0.27-py3-none-any.whl": [
+          "BPJIbc6sazx5z2kbndPZDr6nJkA9c0fz2Xi4UmxskmQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.28": {
+      "sdist": [
+        "Pk+j315227PzHeIndITekh9xCv5URGryavoDWQEzQUU=",
+        "selenium_firefox-1.0.28.tar.gz"
+      ],
+      "wheels": {
+        "selenium_firefox-1.0.28-py3-none-any.whl": [
+          "9J0c/PgpLH/izCzMNnh+ozBPn9+h64RlWa3Q9DwxabA=",
+          "py3"
+        ]
+      }
+    },
     "1.0.3": {
       "sdist": [
         "gYilpF5x1oCpok2BAeJ97X8NcYi3XfyAqaZgSw3gSPs=",
@@ -75556,6 +75592,18 @@
       "wheels": {
         "selenium_firefox-1.0.3-py3-none-any.whl": [
           "KBs7QylverfbowakyOdayLWh+GpeqsmPvV10LGekw/E=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.30": {
+      "sdist": [
+        "Rb+EW1A5Fyvncp7h2L/OJ8E3zILxLaQ72GoUGKcL7+k=",
+        "selenium_firefox-1.0.30.tar.gz"
+      ],
+      "wheels": {
+        "selenium_firefox-1.0.30-py3-none-any.whl": [
+          "Yt+jDC0MzvBxt+RF9H/olxzmpDpi+af5eg9lvihoJRs=",
           "py3"
         ]
       }

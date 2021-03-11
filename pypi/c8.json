@@ -583,6 +583,12 @@
         "5d5ERZQlwFD4m2rbGAQrAqOu8Pg+GmC9m/+FImH9tso=",
         "adafruit-circuitpython-lsm6ds-4.1.2.tar.gz"
       ]
+    },
+    "4.1.3": {
+      "sdist": [
+        "ODZ/UVhdzFFSTbCXIfqdvyIVltFHnFPRuaqxa80VfsE=",
+        "adafruit-circuitpython-lsm6ds-4.1.3.tar.gz"
+      ]
     }
   },
   "addsshkeys": {
@@ -20029,6 +20035,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.7": {
+      "sdist": [
+        "Os3gkS15P7OKuc0mfl4679H6jyFOB1wmZsrmntF+OfY=",
+        "deploy-lambda-functions-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "deploy_lambda_functions-1.0.7-py3-none-any.whl": [
+          "UIfumUquKIZffqNpSjozdg1xJfKB8BQr7oXzkG/i1lA=",
+          "py3"
+        ]
+      }
     }
   },
   "deppy": {
@@ -20713,6 +20731,18 @@
         "diff_cover-5.0.0-py2.py3-none-any.whl": [
           "Z0nd3cbLCJ40GTyZ0ucQE2cFcmEqpgmfmnMcqTh3tzc=",
           "py2.py3"
+        ]
+      }
+    },
+    "5.0.1": {
+      "sdist": [
+        "6A96SXm3qdNzkDd2WIJ57SiY8Xcp5gglXEEZRiyCLts=",
+        "diff_cover-5.0.1.tar.gz"
+      ],
+      "wheels": {
+        "diff_cover-5.0.1-py3-none-any.whl": [
+          "GVMYWpMPbJc9fqdSmJJG579tMYG3PpJUN2ZKR+OcY/8=",
+          "py3"
         ]
       }
     }
@@ -50057,6 +50087,82 @@
         "Mosek-9.2.4-cp38-cp38-win_amd64.whl": [
           "G+B9suBNVlRdJHLPVIrmxWotAPIjuaFEn6Dw5msXRLw=",
           "cp38"
+        ]
+      }
+    },
+    "9.2.40": {
+      "wheels": {
+        "Mosek-9.2.40-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "YGd1rJUn5HhtwIVxDTiD2+0MPqMANniKOt9UU+aDT7o=",
+          "cp27"
+        ],
+        "Mosek-9.2.40-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "iFv71Y18QbeHQIW9Cag39hFnmKj2UzpoebgZo04dqlI=",
+          "cp27"
+        ],
+        "Mosek-9.2.40-cp27-cp27m-win32.whl": [
+          "5nkIQBzEF9pnFbixaxzODWEgg93OS9mhvjHI3oRlUMY=",
+          "cp27"
+        ],
+        "Mosek-9.2.40-cp27-cp27m-win_amd64.whl": [
+          "WSftG8J1Hvh3M4QkSUmjJedh26JYsW6QVcRv5kll7RA=",
+          "cp27"
+        ],
+        "Mosek-9.2.40-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "iWkjoTFIuIxjiF/YZEKnIHuDFBMRMx8SUEYEX6tkbXE=",
+          "cp36"
+        ],
+        "Mosek-9.2.40-cp36-cp36m-manylinux1_x86_64.whl": [
+          "pX4w6kzdT3f3RnGTAWpbYgGhzhS3wCmJCo1bxdtbHio=",
+          "cp36"
+        ],
+        "Mosek-9.2.40-cp36-cp36m-win32.whl": [
+          "KVf5Dw5CrFeoMAiTLEaG3R48bR2qodA4AF85TtbxYFc=",
+          "cp36"
+        ],
+        "Mosek-9.2.40-cp36-cp36m-win_amd64.whl": [
+          "s+su5XHdzMBz3FQ3q7Yey1Dp1u9yh/2W9L35pRQxo/I=",
+          "cp36"
+        ],
+        "Mosek-9.2.40-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "yET0ljCEe7D/+fYIB82PZS2DqA3IG8OGSbF5SrLu3Mw=",
+          "cp37"
+        ],
+        "Mosek-9.2.40-cp37-cp37m-manylinux1_x86_64.whl": [
+          "a+ClwDXzPinqfBzbD4DmN67aG3QnDsqv3VyyPdy/Ess=",
+          "cp37"
+        ],
+        "Mosek-9.2.40-cp37-cp37m-win32.whl": [
+          "+P0WaahjuAfW4lMmpXk+2TUpW3WXPG1/1Ew+jTw1Dqg=",
+          "cp37"
+        ],
+        "Mosek-9.2.40-cp37-cp37m-win_amd64.whl": [
+          "W9drZrWD47Btu5nht/93pmInQlkkJ4pyEvJ46nVaQpg=",
+          "cp37"
+        ],
+        "Mosek-9.2.40-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "Svf62YEQZ5kvZ+M0aOwwZ4TpNC+dWjfCF429IR6Hrzs=",
+          "cp38"
+        ],
+        "Mosek-9.2.40-cp38-cp38-manylinux1_x86_64.whl": [
+          "Oziy57+LobWfkdxq/Q2Ea4ivYahl4Pc9aef7mRsRGFg=",
+          "cp38"
+        ],
+        "Mosek-9.2.40-cp38-cp38-win_amd64.whl": [
+          "5eIelLYH+XZI9/hEWddTXyPBYSNZy9c8l5pY1ZRDSBE=",
+          "cp38"
+        ],
+        "Mosek-9.2.40-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "/xWy1H2OpfY9Ege89JuqPUqcOJuZeYc5IH47Fd2lqlA=",
+          "cp39"
+        ],
+        "Mosek-9.2.40-cp39-cp39-manylinux1_x86_64.whl": [
+          "CDEBVWfr19W4846K14PjGxkYWCSDZ6fZ0mIpAJb89iU=",
+          "cp39"
+        ],
+        "Mosek-9.2.40-cp39-cp39-win_amd64.whl": [
+          "UEFClfWx42TBV/FFcJpLmwIKU5mlhu/NOkA6r6umJac=",
+          "cp39"
         ]
       }
     },
@@ -90140,6 +90246,14 @@
       "sdist": [
         "NLz4epynSAoo7Rqpyu24Hf3TNJot9r96d9tSw1uYNcU=",
         "xnlp_time-1.0.3.tar.gz"
+      ]
+    }
+  },
+  "xontrib-termcolors": {
+    "0.1.0": {
+      "sdist": [
+        "5rdyJ4YRv9hAY5ySiSBH/TqZ+LT8tV0Ny3vBLt9mzmM=",
+        "xontrib-termcolors-0.1.0.tar.gz"
       ]
     }
   },
