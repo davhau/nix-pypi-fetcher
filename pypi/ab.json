@@ -10829,6 +10829,18 @@
           "py3"
         ]
       }
+    },
+    "1.93.0": {
+      "sdist": [
+        "fF8uM2Inf1ds50jKKCdQv3bn4MWCIn7boggSqvu7T54=",
+        "aws-cdk.aws-codestar-1.93.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codestar-1.93.0-py3-none-any.whl": [
+          "LT+1yZEVut8IFA7TnaVWD42UWJA9gPc8CDW8FrVQv4k=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-events-targets": {
@@ -12352,6 +12364,18 @@
       "wheels": {
         "aws_cdk.aws_events_targets-1.92.0-py3-none-any.whl": [
           "B4PE4xQpVXVtNKmbnGo/C1VmSFZeGuneMBP/Emuuw1Q=",
+          "py3"
+        ]
+      }
+    },
+    "1.93.0": {
+      "sdist": [
+        "v5XLBQbweLdHCocgUpFdGJcttX0FCnLjoBCX8vduAvI=",
+        "aws-cdk.aws-events-targets-1.93.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_events_targets-1.93.0-py3-none-any.whl": [
+          "/jtk48lpLAv/NvKXMfyUxE3+LFOJ4nFJvCWbk7igTlA=",
           "py3"
         ]
       }
@@ -27057,6 +27081,14 @@
       }
     }
   },
+  "discordproxy": {
+    "0.1.0a1": {
+      "sdist": [
+        "qCVPnytxRj8B3DMi9AaLJIjer7mUg+zCLgINeLhuNlo=",
+        "discordproxy-0.1.0a1.tar.gz"
+      ]
+    }
+  },
   "django-admin-filtrate": {
     "0.1.0": {
       "sdist": [
@@ -30988,6 +31020,12 @@
       "sdist": [
         "4tJ1Hy4vrMKkn/MPdaB3H0FW3uC9qeiIvY8J/KchJ5U=",
         "dnsviz-0.9.2.tar.gz"
+      ]
+    },
+    "0.9.3": {
+      "sdist": [
+        "bzjz1xsrnKP0z/sAPIKFdNDEE7zFESu1KSH6nbTmklk=",
+        "dnsviz-0.9.3.tar.gz"
       ]
     }
   },
@@ -55242,6 +55280,18 @@
         ]
       }
     },
+    "1.17.26.0": {
+      "sdist": [
+        "04S+yqAzXERb+6830yLA0WBOK3kRVO2ak1S7C1bIP5Y=",
+        "mypy-boto3-resourcegroupstaggingapi-1.17.26.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_resourcegroupstaggingapi-1.17.26.0-py3-none-any.whl": [
+          "T1V5HYyALa0uyZIYdfBlB6CeXFNra4SLqr/i0fvOuh4=",
+          "py3"
+        ]
+      }
+    },
     "1.17.3.0": {
       "sdist": [
         "tiTXd50EGx9BEwgQPpL1cfl2v0WwhvRavoqQkPPbuxA=",
@@ -69815,6 +69865,44 @@
       }
     }
   },
+  "pyopenfisheries": {
+    "0.1.0": {
+      "sdist": [
+        "77wXZwwUXlS6SPfMuecYsiEjElQ7eaXo1ET97T5ez/s=",
+        "PyOpenFisheries-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "PyOpenFisheries-0.1.0-py3-none-any.whl": [
+          "mfSSUwjdeYf0hEKq4hU5FdgNjNYcNzb5XiG1T9W5zYg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "w758+YN9LmdVBvy3KUb1XdCF5gwYa4TGjYBoBMxgaFM=",
+        "PyOpenFisheries-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "PyOpenFisheries-0.1.1-py3-none-any.whl": [
+          "Nzv/AKyOwaSC6c3S6WLGXFBbOjUJJrlCVw7b1+ubFT8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "70Wzp9wo3+qN6JcoyLS0wQVOW6kzPS1Ike5Jclic3QI=",
+        "PyOpenFisheries-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "PyOpenFisheries-0.1.2-py3-none-any.whl": [
+          "srW2d2BJrSoQ4AOn3LqNkWQeoH5Whebq2UN4Dd7uWBE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyosc3": {
     "0.0.0": {
       "sdist": [
@@ -83202,12 +83290,144 @@
         "spookyhash-2.0.1.tar.gz"
       ],
       "wheels": {
+        "spookyhash-2.0.1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "vLKkmBzRkI0Jp62L7k7bVtpiv4ofGC/ELFk1Hv3MSvM=",
+          "cp35"
+        ],
+        "spookyhash-2.0.1-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "ZoSwHi5hwKjz8olIOHLjtWlxacFk7jcPy27+CknXraE=",
+          "cp35"
+        ],
+        "spookyhash-2.0.1-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "cWx79+waf9bE4pe3N2mVqafPEJ3qXq77jvHF3g3UB5M=",
+          "cp35"
+        ],
+        "spookyhash-2.0.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "UX9cLKB1qPQUMpuL9UDAw3xaWGcfo6jJHddjTFhrk7E=",
+          "cp36"
+        ],
+        "spookyhash-2.0.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "aqCrOUZ7hpOIw3Ml96pd85suZiVzPWJxqnBGGHuondI=",
+          "cp36"
+        ],
+        "spookyhash-2.0.1-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "x59ES90nuFmB7SguXZnOqG2iVf0yssg9ukgJr8QIxtg=",
+          "cp36"
+        ],
+        "spookyhash-2.0.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "1+onSHT3ydrPpIxfyMhn1XBjMOjHHGY0GiUl/15Y5Ag=",
+          "cp37"
+        ],
+        "spookyhash-2.0.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "4n99r9Hek0iNkvdMRp0Czxi1FpoUg0gU0jyvyXTAp14=",
+          "cp37"
+        ],
+        "spookyhash-2.0.1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "Dz8RipYVnean1sv2u63CWSLcke9CWaiCwA/tzyxLV+s=",
+          "cp37"
+        ],
+        "spookyhash-2.0.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "mMsXll7q+UeBB9+WZw4Fd7GDVfgAiQNzLkwuH6itZn0=",
+          "cp38"
+        ],
+        "spookyhash-2.0.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "yPCGmlLpyzvjCBBBBifqnnzhkkZ25yEnTasBcP2LkEU=",
+          "cp38"
+        ],
+        "spookyhash-2.0.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "BE8uWVhmjjD97/YKVcMxPPRkzwDCFBoEKi6Lg/nQlds=",
+          "cp38"
+        ],
         "spookyhash-2.0.1-cp38-cp38-win_amd64.whl": [
           "fhBhpxgbxVvndKsyxPrKCeEWXbM6pCW94+t3VlIr7eo=",
           "cp38"
         ],
+        "spookyhash-2.0.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "uXGk4LUCenyu/mR4CbFse8/O5oZa+tHQN0tsKwF0l1I=",
+          "cp39"
+        ],
+        "spookyhash-2.0.1-cp39-cp39-manylinux2010_x86_64.whl": [
+          "KfRHh6Ef0U4Ag0LaWcewaeeFAZSrhqS7heWheKT0kBw=",
+          "cp39"
+        ],
+        "spookyhash-2.0.1-cp39-cp39-manylinux2014_x86_64.whl": [
+          "7spldn97HgNIj9VfgHFaK3qo05zFbCzO45BYBPmKh80=",
+          "cp39"
+        ],
         "spookyhash-2.0.1-cp39-cp39-win_amd64.whl": [
           "RRswgnwNQLaBHE0JNuqHMz/41z7a4h8ehqQKrGwyu98=",
+          "cp39"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "jXVP1c7gFGQLIUtVvLPmrjMCEzHr1ML3FOhUkXzKLsk=",
+        "spookyhash-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "spookyhash-2.0.2-cp35-cp35m-manylinux1_x86_64.whl": [
+          "qnE103kC3NVCAT3sodJdsC3gmFmq8b2sRHTprkblLXU=",
+          "cp35"
+        ],
+        "spookyhash-2.0.2-cp35-cp35m-manylinux2010_x86_64.whl": [
+          "RhBrZ5fOOhQmCl95Ne9ghTq9xUB6fDD2EYBA3Po2mY8=",
+          "cp35"
+        ],
+        "spookyhash-2.0.2-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "Kfp4rzzal425qRu+jwKaK7d4AJXkGYqcN+ENE4V5KsE=",
+          "cp35"
+        ],
+        "spookyhash-2.0.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "EnPjTWmhwjEhCeWsyLjfnAeH04UtLrL278SxeeY/u58=",
+          "cp36"
+        ],
+        "spookyhash-2.0.2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "G50ededt2ZMUKwOEjTX3MJB+sP9W7Y+EwQQQ3VWvDyw=",
+          "cp36"
+        ],
+        "spookyhash-2.0.2-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "CKsWfFVcdxrS3QbTnbyJ5uKQNdEiXd05/Q8sJsW/N4g=",
+          "cp36"
+        ],
+        "spookyhash-2.0.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "hnfLmQ/7bpe0mXLpI3NtfW4j4TWib6wA8ultxXV30j0=",
+          "cp37"
+        ],
+        "spookyhash-2.0.2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "7G6pfM/HJUoR3NANkfiUB+oDesQGFABCKA0BuNYcbCc=",
+          "cp37"
+        ],
+        "spookyhash-2.0.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "OVmx8j0lE3vydbhckQTLVV4tmzD3udSQGptlaYrW40Y=",
+          "cp37"
+        ],
+        "spookyhash-2.0.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "ld7hr9qwpfIcYNnO8LLMmCWG1LixGa//nA/KOYZo8AA=",
+          "cp38"
+        ],
+        "spookyhash-2.0.2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "m7/uV4arBz0FKbuJRt39Ab+G1UmJwWCB6wuNLGr18z4=",
+          "cp38"
+        ],
+        "spookyhash-2.0.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "xRGBhhYMnujnfT/afzFXJGFtE8tslca6J2vQPbcjERU=",
+          "cp38"
+        ],
+        "spookyhash-2.0.2-cp39-cp39-manylinux1_x86_64.whl": [
+          "hzGD7lP22+JiTI8PA3PcjgTeHyLgRaYpvNUl1OKRaWQ=",
+          "cp39"
+        ],
+        "spookyhash-2.0.2-cp39-cp39-manylinux2010_x86_64.whl": [
+          "eYgWLj95KLcVcOCGxTxMKUryXB4rN4nKO+JDc5bbkig=",
+          "cp39"
+        ],
+        "spookyhash-2.0.2-cp39-cp39-manylinux2014_x86_64.whl": [
+          "DarOBXBzfVUWZ1yIAwdHrkAJDN9fvJq+rQ7FK3PQlXg=",
+          "cp39"
+        ],
+        "spookyhash-2.0.2-cp39-cp39-win_amd64.whl": [
+          "GN2cKmdX2Nl3JduB+rohbkk/0XDLLdvLZ4P20om5Kc4=",
           "cp39"
         ]
       }
@@ -93944,6 +94164,14 @@
       "wheels": {
         "zabel_elements-1.6.0-py3-none-any.whl": [
           "YP26RkpFR4u4BZuZF8Ao7dIUi3t2XUpSfaXpTKb8nfk=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.1": {
+      "wheels": {
+        "zabel_elements-1.6.1-py3-none-any.whl": [
+          "nOuL23fWLz0X2kJU9U31DxAp29RCbFTGLxBxSa/szMw=",
           "py3"
         ]
       }

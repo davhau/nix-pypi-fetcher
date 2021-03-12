@@ -4481,6 +4481,18 @@
           "py3"
         ]
       }
+    },
+    "1.93.0": {
+      "sdist": [
+        "2ww+TaXDixrJ2OA9vAwZCjrBwyBBt+i1dr6+0a3gq+M=",
+        "aws-cdk.aws-events-1.93.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_events-1.93.0-py3-none-any.whl": [
+          "Iv9N6iEipqnYs7yZ7Td+EvkKko6b3Y5DeM1QTUnFNfE=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-qldb": {
@@ -5728,6 +5740,18 @@
       "wheels": {
         "aws_cdk.aws_qldb-1.92.0-py3-none-any.whl": [
           "3gptGKb902KXWRhVgIWI/emeWOfRV16r4cKI+iG9LDY=",
+          "py3"
+        ]
+      }
+    },
+    "1.93.0": {
+      "sdist": [
+        "YFdsgFDATmhdbJO6rLf5xVdru7rlctsM7CmYDVt5LnA=",
+        "aws-cdk.aws-qldb-1.93.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_qldb-1.93.0-py3-none-any.whl": [
+          "iaDbGX+7NlWVmjwlofFkM0oO/2qiyLr13/lYlL9019g=",
           "py3"
         ]
       }
@@ -44754,6 +44778,12 @@
         "girder-client-3.1.4.dev36.tar.gz"
       ]
     },
+    "3.1.4.dev38": {
+      "sdist": [
+        "cEiEC8z0BoTLha7lKKTxRNSsmhLbqdxQRTnjcVXysV8=",
+        "girder-client-3.1.4.dev38.tar.gz"
+      ]
+    },
     "3.1.4.dev5": {
       "sdist": [
         "J+UO2MFoZo2ixbsd/xwjXFt39BKgPuLLuYEAcouGyCo=",
@@ -62064,6 +62094,18 @@
       "wheels": {
         "mypy_boto3_datapipeline-1.17.25.0-py3-none-any.whl": [
           "DqM8S4CQgGuAmmkXBEDA4Cg4UOWeFjK4wzgVfbZ1t6E=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.26.0": {
+      "sdist": [
+        "YDdHUrqnnnTnX9ERi5dcoMTifk/HieRThBTElZShOzE=",
+        "mypy-boto3-datapipeline-1.17.26.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_datapipeline-1.17.26.0-py3-none-any.whl": [
+          "29hO+TDpU4SbCkqcwR5WdvloACQFh7Wz5nZpkcuYwiM=",
           "py3"
         ]
       }
@@ -87006,6 +87048,18 @@
         ]
       }
     },
+    "11110": {
+      "sdist": [
+        "7+WPFFNp4LcNdxdMoH6IS3Q9aUEdRr5QtML5E2hkjcE=",
+        "quantconnect-stubs-11110.tar.gz"
+      ],
+      "wheels": {
+        "quantconnect_stubs-11110-py2-none-any.whl": [
+          "MkVA+hGf7+YtR9dm2mAQSoceCfMMiO6VwMz4Nm1ylc8=",
+          "py2"
+        ]
+      }
+    },
     "9811": {
       "sdist": [
         "px/L4DK/RjuKWL+wnz8sFh+4PdQJvdbUNlwCHRcuJog=",
@@ -93321,6 +93375,20 @@
       }
     }
   },
+  "sortcl": {
+    "2021.3.11": {
+      "sdist": [
+        "pTXwxxFvSxcgV1YGKf7EHGx95IYdJA7/pUp4AGC7e3s=",
+        "sortcl-2021.3.11.tar.gz"
+      ]
+    },
+    "2021.3.11.1": {
+      "sdist": [
+        "YiwUdH61KW/zqqLvw8i56EccJ3tBSkhe+mkNLrsNfgk=",
+        "sortcl-2021.3.11.1.tar.gz"
+      ]
+    }
+  },
   "sortpics": {
     "0.1.0": {
       "sdist": [
@@ -95750,6 +95818,30 @@
       "wheels": {
         "stix_shifter_modules_msatp-3.4.0.dev472-py2.py3-none-any.whl": [
           "Aqx4+Hr7w1PY0gG2iJCaZlZVyFdw5HoD6yzWYAyybbc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.4.1": {
+      "wheels": {
+        "stix_shifter_modules_msatp-3.4.1-py2.py3-none-any.whl": [
+          "dOTcdxerknatfXe7SWu9EQMexi+M+Z+ez/7mqkQ0XRE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.4.1.dev483": {
+      "wheels": {
+        "stix_shifter_modules_msatp-3.4.1.dev483-py2.py3-none-any.whl": [
+          "GsnaX1CNlT4rLyqznhBTY9Aqft49xAtNgmhjPZYAr9s=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.4.1.dev484": {
+      "wheels": {
+        "stix_shifter_modules_msatp-3.4.1.dev484-py2.py3-none-any.whl": [
+          "RbgoDSxasXhCA/EtHU2UA4MaRrsXgwkl7KTwjm8oNZ8=",
           "py2.py3"
         ]
       }

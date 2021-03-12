@@ -6165,6 +6165,18 @@
           "py3"
         ]
       }
+    },
+    "1.93.0": {
+      "sdist": [
+        "CAN0XGLmJdDLruwoOFFuIJkRlX7BWyBTa4ha/QoRsVg=",
+        "aws-cdk.aws-lookoutvision-1.93.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lookoutvision-1.93.0-py3-none-any.whl": [
+          "cDPxEMDWQ02yfq5gG7i5k0yYpLchliFSVnTmST0bB7g=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-servicecatalog": {
@@ -7715,6 +7727,18 @@
           "py3"
         ]
       }
+    },
+    "1.93.0": {
+      "sdist": [
+        "EgVJuZbtFJybrrwPORB0GJS6TVUEwtQQqVlsedrXmTI=",
+        "aws-cdk.aws-servicecatalog-1.93.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_servicecatalog-1.93.0-py3-none-any.whl": [
+          "tN1C4OGOSSedQEqrwzVFzRLfkpDNpejO4MkEeBZN1MI=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-lambda-sls": {
@@ -8178,6 +8202,12 @@
       "sdist": [
         "8M0QTnktc2BgF0IoZN223BG1x6DyC9onvuCdPvuw9AU=",
         "awsebcli-3.19.3.tar.gz"
+      ]
+    },
+    "3.19.4": {
+      "sdist": [
+        "dxxcdAIOmPqnUQ/eDYPWFUSVitX9StWqvvGI+VrP1cI=",
+        "awsebcli-3.19.4.tar.gz"
       ]
     },
     "3.2": {
@@ -31398,6 +31428,30 @@
       "wheels": {
         "ewah-0.4.21-py3-none-any.whl": [
           "99rPzCXEJSWXEbWmZERXt3bXXQS7+bX7v1ADo1hMhvE=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.22": {
+      "sdist": [
+        "ra/T4ttYRjcWtgOj+46o9MKIo9YC2rN2UOgt6Ichg3A=",
+        "ewah-0.4.22.tar.gz"
+      ],
+      "wheels": {
+        "ewah-0.4.22-py3-none-any.whl": [
+          "AWbYu+k+lIF3pmX1obuKq27BVcpZgF/E6l2barlQQoo=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.23": {
+      "sdist": [
+        "co+U1ig9RAyLY8oeclRX0IxCzt1Y6SQG441WqYi6lpw=",
+        "ewah-0.4.23.tar.gz"
+      ],
+      "wheels": {
+        "ewah-0.4.23-py3-none-any.whl": [
+          "pmsIbJHai16uN8ROmN2mNo4awLWWzUAFoK99gedCBa0=",
           "py3"
         ]
       }
@@ -79737,6 +79791,64 @@
       ]
     }
   },
+  "spyrit": {
+    "0.13.4": {
+      "sdist": [
+        "0rnfGAgXNnu7ZMu6E/tKnnTxtOtZTd5QrfbV9OEnCqA=",
+        "spyrit-0.13.4.tar.gz"
+      ],
+      "wheels": {
+        "spyrit-0.13.4-cp38-cp38-manylinux2014_x86_64.whl": [
+          "MRKVnbJmBWsJ11dFYvNpqqSAqJ8l5UlSDgiUBNesgDM=",
+          "cp38"
+        ]
+      }
+    },
+    "0.13.5": {
+      "sdist": [
+        "FsBRQQ7FTkslEwE1iGJW1MWhQlZigARow1Wfw8GR4IE=",
+        "spyrit-0.13.5.tar.gz"
+      ],
+      "wheels": {
+        "spyrit-0.13.5-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "b5eYIeIIFKe96Y9mf864jp/zR8m3VL48EUEohqZY/mc=",
+          "cp36"
+        ],
+        "spyrit-0.13.5-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "qHrdCv3HezNdQi0O2SdCYA0yyVylNqb7xh1oOdcKiaY=",
+          "cp36"
+        ],
+        "spyrit-0.13.5-cp36-cp36m-win_amd64.whl": [
+          "tlRQcXVOYXUG/ry7BRsCGxCJ4kirWaiyzK1N7dpciPQ=",
+          "cp36"
+        ],
+        "spyrit-0.13.5-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "J0PVRtF7efzplcvymGKn2l/CcYu0bLdhovu80uCdVes=",
+          "cp37"
+        ],
+        "spyrit-0.13.5-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "QxO5Sd+0gFKLXMA3dHQNbqPch1ucHwGpEWQAhvZzwtQ=",
+          "cp37"
+        ],
+        "spyrit-0.13.5-cp37-cp37m-win_amd64.whl": [
+          "U6lM2WYaOS8OL0CdxP3Dt5/qnyQhScQyguicGzUUJKY=",
+          "cp37"
+        ],
+        "spyrit-0.13.5-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "y9gc/FMmuOkx02qohK+BY3iiJAd0D3QOnVzVcGpOlPA=",
+          "cp38"
+        ],
+        "spyrit-0.13.5-cp38-cp38-manylinux2014_x86_64.whl": [
+          "dc3sAmxFTFtplU2hf2+wOPuUMH/jA9FzKFan/xVFk7k=",
+          "cp38"
+        ],
+        "spyrit-0.13.5-cp38-cp38-win_amd64.whl": [
+          "BGvKA0EhLEupixRATJg1H2LdCI0l/RAFmE4FCuBK84Y=",
+          "cp38"
+        ]
+      }
+    }
+  },
   "sql2statsd": {
     "0.0.1": {
       "wheels": {
@@ -81762,6 +81874,14 @@
       "wheels": {
         "suparunidic-0.7.4-py3-none-any.whl": [
           "JyhqhIv30P0IBF+61ct6jVJRQobaraB1q7AUJQSyRjc=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.6": {
+      "wheels": {
+        "suparunidic-0.7.6-py3-none-any.whl": [
+          "Q7PO2lqGFRLNPiDq9RGrSLZeyF3KV7DcHr0Xs0MkjEM=",
           "py3"
         ]
       }
