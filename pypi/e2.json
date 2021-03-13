@@ -24660,6 +24660,12 @@
         "edx-ecommerce-worker-1.1.11.tar.gz"
       ]
     },
+    "1.1.12": {
+      "sdist": [
+        "WLPisDkM7uM+3C5VQkYANIoVZGFsuvX1Tlzt4hPTlog=",
+        "edx-ecommerce-worker-1.1.12.tar.gz"
+      ]
+    },
     "1.1.2": {
       "sdist": [
         "kRx3S3x2y2yoCAqBmMGbC8UVw3uQI0c6IQ4sFCldLso=",
@@ -25198,6 +25204,18 @@
       "wheels": {
         "entitykb-21.3.10-py2.py3-none-any.whl": [
           "sgBkc5Nwa0N4dNrVSHBjrQ9s91l2ilf980BNVCfVWR0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "21.3.12": {
+      "sdist": [
+        "Ywlk+Datoi/LQaU9Zv4Q/a+x/kY+3e/whm5+Zjak+qs=",
+        "entitykb-21.3.12.tar.gz"
+      ],
+      "wheels": {
+        "entitykb-21.3.12-py2.py3-none-any.whl": [
+          "iOBS0aDj1cPfHb/5yNdjp4kt3b/QISvRAE1lJK1GCWc=",
           "py2.py3"
         ]
       }
@@ -29283,6 +29301,20 @@
         "flask_uio-0.1.6.2-py3-none-any.whl": [
           "XL/icP/dvePZRi/aNNtFLtK+a6WuoDujmTY8+vjh7sE=",
           "py3"
+        ]
+      }
+    }
+  },
+  "flexvalue": {
+    "0.0.1": {
+      "sdist": [
+        "dadCtVKLesUv0CszqF80CPrTmu3/C9r6tJ021wo/Tf4=",
+        "flexvalue-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "flexvalue-0.0.1-py2.py3-none-any.whl": [
+          "Pw0Ulrc32L6qA43hETYRG667K3CalqlHW1SrCTXTIH8=",
+          "py2.py3"
         ]
       }
     }
@@ -35039,80 +35071,6 @@
         "CbvNefF6/npiMKAfTh8rd4J/O6m+hc3s55EOnPVHfgQ=",
         "js.jquery_ba_resize-1.1.tar.gz"
       ]
-    }
-  },
-  "jsa-utils": {
-    "0.0.1": {
-      "sdist": [
-        "rIxvRCAUPJOPTMBSgRymfrPMsTk0wq/OebLLo9/NY+0=",
-        "jsa-utils-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "jsa_utils-0.0.1-py3-none-any.whl": [
-          "bAOQt+Hr+hRl7yV6efE4YFXnbld3J2Xdl/7A4DOVZms=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.1.1": {
-      "sdist": [
-        "4hB76jbzXApP7DwfW08iEF+d28VF9sRXANq7D0S5hX4=",
-        "jsa-utils-0.0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "jsa_utils-0.0.1.1-py3-none-any.whl": [
-          "3sIVfsguIkE82tXU5gpvNcAvdvTRl39EXVZRM6P3rhc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.1.2": {
-      "sdist": [
-        "Lv93Eu8RcZW082cEmDaTqDbhpsIfyzAhLwB8XH1sjpY=",
-        "jsa-utils-0.0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "jsa_utils-0.0.1.2-py3-none-any.whl": [
-          "q5TlfDnQN6Wo/Zzusr8foiji8Q4LBNbw/OTnh84oh6w=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.1.3": {
-      "sdist": [
-        "5NmfaO8X4YazDiL7wkJF7y/u0t6uZHPjX9phze1WjN4=",
-        "jsa-utils-0.0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "jsa_utils-0.0.1.3-py3-none-any.whl": [
-          "FvEYmxxKVPa9u13Xf1MeL7goah5n7AfPckgnr3zaIdk=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.1.4": {
-      "sdist": [
-        "nEp4aL56zu//u3nmnR/mjKIgYDi5O9YNvEwW7cwivsA=",
-        "jsa-utils-0.0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "jsa_utils-0.0.1.4-py3-none-any.whl": [
-          "0cHBDQAXhgFM810hjHlf4oWcPUQADUmp3WGIB2YxBYM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.1.5": {
-      "sdist": [
-        "98s3TwaCTmZ6nTITDT+Rx2lxiXTvnYLPvr1ocV4YJm4=",
-        "jsa-utils-0.0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "jsa_utils-0.0.1.5-py3-none-any.whl": [
-          "Nobd5o1PMuGmn+BBmkbn0cdoOntRxAz61kzUwC5Yr8Y=",
-          "py3"
-        ]
-      }
     }
   },
   "jsformat": {
@@ -45771,6 +45729,20 @@
       }
     }
   },
+  "mkg": {
+    "0.0.13": {
+      "sdist": [
+        "oXdIs7oND1F6s/y0LkGF08goNcmil8KZY6wKHibbtzA=",
+        "mkg-0.0.13.tar.gz"
+      ],
+      "wheels": {
+        "mkg-0.0.13-py3-none-any.whl": [
+          "jjiUwff4yxzzfLPGTafah4gg9ha7UKZfGlVjKHYHa+s=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mlearner": {
     "0.0.2.dev0": {
       "sdist": [
@@ -50092,6 +50064,18 @@
         ]
       }
     },
+    "1.17.27.0": {
+      "sdist": [
+        "7uzfkdr89/AP0bbfUCXwuR4dS8OcuLNSwaEecDsanN0=",
+        "mypy-boto3-cognito-identity-1.17.27.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cognito_identity-1.17.27.0-py3-none-any.whl": [
+          "rJh/4Vr5rw1xd+Pwc8HHFUB5LiaHIs/qnEWcU5NiRxk=",
+          "py3"
+        ]
+      }
+    },
     "1.17.3.0": {
       "sdist": [
         "dXhCbW6JX2u0WsuW3uGxijR7yet1EH/zCihx4JMDod8=",
@@ -53558,6 +53542,18 @@
       "wheels": {
         "mypy_boto3_kafka-1.17.26.0-py3-none-any.whl": [
           "tI9P/WbHBh1k9thgK6oG4GchAMG+IBtKb7q6PrubNok=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.27.0": {
+      "sdist": [
+        "QBpgoaZ3Nd5KCdssITjOPtISvZcFiSl3nlCkEwg0RJw=",
+        "mypy-boto3-kafka-1.17.27.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kafka-1.17.27.0-py3-none-any.whl": [
+          "9d9XR52YRyYnrZ8tzotqrKOffeIVreV43RZpamu+wfA=",
           "py3"
         ]
       }
@@ -66890,6 +66886,12 @@
       "sdist": [
         "8QoOJi9HZozTXHWSHsW8P2Tz2DvW9cseS3Y/+CZj6jk=",
         "pronto_commons-0.0.13.tar.gz"
+      ]
+    },
+    "0.0.14": {
+      "sdist": [
+        "9jHXe2UvxQ7PKJXAP1k9slb51XE0zovdBH97scHHqQA=",
+        "pronto_commons-0.0.14.tar.gz"
       ]
     },
     "0.0.2": {
@@ -99686,6 +99688,18 @@
       "wheels": {
         "torchlayers_nightly-1615508277-py3-none-any.whl": [
           "scWkmxfiNZialN/s0+HBRtJd21/4+FlZGcGSnQgPh4g=",
+          "py3"
+        ]
+      }
+    },
+    "1615594667": {
+      "sdist": [
+        "mv3P0wdWzNLk9+8b5SPCUwr3x5Ngjc0FFHZRllNvsj4=",
+        "torchlayers-nightly-1615594667.tar.gz"
+      ],
+      "wheels": {
+        "torchlayers_nightly-1615594667-py3-none-any.whl": [
+          "2tj60p1uMQ5eC3hYxJ+ax1m3kwhJwl4uvWGCEkJuLqo=",
           "py3"
         ]
       }
