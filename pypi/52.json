@@ -8413,6 +8413,12 @@
         "bfjCtaM2k8tzrmDQhzGbG4nC5ng66pusVNkuFIbc5YU=",
         "chia-blockchain-1.0rc8.tar.gz"
       ]
+    },
+    "1.0rc9": {
+      "sdist": [
+        "VOAAZjpmigzVj8uPvnC94egAZly6lVfpEALlP5Re89k=",
+        "chia-blockchain-1.0rc9.tar.gz"
+      ]
     }
   },
   "chord-finder": {
@@ -8987,6 +8993,20 @@
         "OVOw0aa0elzV2JNI+4HA9zFkDEM4b587txmtRMOp+AQ=",
         "cloudshell-networking-brocade-fastiron-1.0.27.zip"
       ]
+    }
+  },
+  "clynmut": {
+    "0.0.0": {
+      "sdist": [
+        "fjsfE5eRONs4VcZoSzkHAV5OxEYCAjR/CtUxy01FD88=",
+        "ClynMut-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "ClynMut-0.0.0-py3-none-any.whl": [
+          "G6rO84P56UqikPTNRycNX7wqnNU71K5ivkFeWdZySfY=",
+          "py3"
+        ]
+      }
     }
   },
   "cnh": {
@@ -23657,6 +23677,20 @@
       }
     }
   },
+  "fiftyone-devicedetection-cloud": {
+    "4.2.2": {
+      "sdist": [
+        "iPbaZ9y6wm9atoEkIO6rvOYfCwUrgHpmTW65rnvb9sQ=",
+        "fiftyone_devicedetection_cloud-4.2.2.tar.gz"
+      ],
+      "wheels": {
+        "fiftyone_devicedetection_cloud-4.2.2-py3-none-any.whl": [
+          "VpuE03R+6mvho+MK9SbUfSGK2NZ5UvpiBBRb2wvBEtE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "file-explorer-utils": {
     "1.0.0": {
       "sdist": [
@@ -29564,6 +29598,14 @@
       "wheels": {
         "huaweicloudsdkdds-3.0.35rc0-py3-none-any.whl": [
           "jLtdIzEmBw3yzgulLT/YxgIxyyhKVckqU5RNg8PI8Gg=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.36rc0": {
+      "wheels": {
+        "huaweicloudsdkdds-3.0.36rc0-py3-none-any.whl": [
+          "5cLjnsZrqnI/pnvrjGL2DY8FqmyQ/wD6J4pjujQmsjQ=",
           "py3"
         ]
       }
@@ -38082,106 +38124,54 @@
     }
   },
   "miind": {
-    "0.0.18": {
+    "1.0.7": {
       "wheels": {
-        "miind-0.0.18-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "4UpnMV/Tyzb4w1Ygp6whMwIqDKQiKsmf8an+FkdBRZs=",
+        "miind-1.0.7-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "rfhKWYz13JuAr3wVMBcAKpNZVv1Y32D7tjDXsLW+0es=",
           "cp36"
         ],
-        "miind-0.0.18-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "7xsxN4VW2YXbeA11qzAw6bQNHBuM8uU7RU8Tz94cv1c=",
+        "miind-1.0.7-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "H7XOwi3GgKkVHHjUmSvcOqZ8eSLYKa6jkppMOuTWlx0=",
           "cp36"
         ],
-        "miind-0.0.18-cp36-cp36m-win_amd64.whl": [
-          "yMS0zdcJ51QzQPxkMsNCbvGcLrgtGYjy74wxabJxtZ4=",
+        "miind-1.0.7-cp36-cp36m-win_amd64.whl": [
+          "FE+/yyFQ7KMpNTIhJK5PVnvMTFuAaqOS948Ffq5oDZI=",
           "cp36"
         ],
-        "miind-0.0.18-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "4IOp/9pSCsJXFOa5A8Txaj/P0WgnU/4lcovB2jGO/CE=",
+        "miind-1.0.7-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "HEMMPAPUyZ44VrDe+stHY3AIKErHMEdbjPtVo9FT4mA=",
           "cp37"
         ],
-        "miind-0.0.18-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "2rII5WvC7FEybHhhFBM8IPxp10Ls9sUYZW0BA7XRJFQ=",
+        "miind-1.0.7-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "SEctRVqyi6EMsHgFb9eVaCQ9nMNdNvx+ALqKyB7UMwI=",
           "cp37"
         ],
-        "miind-0.0.18-cp37-cp37m-win_amd64.whl": [
-          "nGMruyMcbRMhHW0/yMwacQleK0VaemxxqpcDKx23rH8=",
+        "miind-1.0.7-cp37-cp37m-win_amd64.whl": [
+          "PTpQRs3lEuhixI72QTjH4MQ0Ilxy4xQDNckuFVg5Log=",
           "cp37"
         ],
-        "miind-0.0.18-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "8lTxhH0Hawi63TJCCF9fUWhw9QuSqM68yBFbxuNfAbw=",
+        "miind-1.0.7-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "PVGIw7zQo8heC2qIFcjZavUN9Mwq0pAXFASjUt2tJDY=",
           "cp38"
         ],
-        "miind-0.0.18-cp38-cp38-manylinux2014_x86_64.whl": [
-          "kzDrX3xVg/DoKqDWOwhOQ0evJpJ6cD20AllanqMVmxs=",
+        "miind-1.0.7-cp38-cp38-manylinux2014_x86_64.whl": [
+          "ZpVTu09sZ1awJ3ZYWKDeNH/lO5i6oitEomusfWbZVmg=",
           "cp38"
         ],
-        "miind-0.0.18-cp38-cp38-win_amd64.whl": [
-          "8KcmDl61nw+PLgY867B6V/Wtg923tM+TjfzeZ2Qcy5s=",
+        "miind-1.0.7-cp38-cp38-win_amd64.whl": [
+          "0sFlRy96Ne284r0VcgbSUXotUytmwHHXIyrnQUFcCYc=",
           "cp38"
         ],
-        "miind-0.0.18-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "yYFHnDUF4QbhG+tEsHLgX5JMHWbcndjJquDwblF6VFs=",
+        "miind-1.0.7-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "cwHvHxavjmZMMsmSiX2BYUFAwMgunclb3XLC3FzTaF0=",
           "cp39"
         ],
-        "miind-0.0.18-cp39-cp39-manylinux2014_x86_64.whl": [
-          "SZ7xJ+d7KJxPgQGeSlt54sR2y+pcRsF9OGJ5UwFMB5M=",
+        "miind-1.0.7-cp39-cp39-manylinux2014_x86_64.whl": [
+          "9hlqfiNFeo4qGwev8LMKPim2dmdjcZo3+qs+Eb1p6U8=",
           "cp39"
         ],
-        "miind-0.0.18-cp39-cp39-win_amd64.whl": [
-          "KrcykS4wrWluZaVaOypM9zfHjFv4m3nRJw5skaHrRvM=",
-          "cp39"
-        ]
-      }
-    },
-    "0.0.19": {
-      "wheels": {
-        "miind-0.0.19-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "Os5ComZwVzkfntls5fJm9CHv3dnSA0+ROzY3rlK3px0=",
-          "cp36"
-        ],
-        "miind-0.0.19-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "+F8Rd/C7tgTixN9V5+W4KAn8v7iuMVbipaJJbXAPcug=",
-          "cp36"
-        ],
-        "miind-0.0.19-cp36-cp36m-win_amd64.whl": [
-          "okyrPMp004aH5YJ/risBqOq35ShW1tzDGXj7T+Rl9lo=",
-          "cp36"
-        ],
-        "miind-0.0.19-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "kdPZ5qN2FbbvwV4FDn8oPQThlZGpw5yv6jT1xHobR1M=",
-          "cp37"
-        ],
-        "miind-0.0.19-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "KlIIuCBrawkFQHX5Ty06sIuqkqkAsq8vFVJ1rTJth0Q=",
-          "cp37"
-        ],
-        "miind-0.0.19-cp37-cp37m-win_amd64.whl": [
-          "aUT7N7HQU3oPv4lL6tlnqvTlp5Nm1DvFlHA6YiUYK1k=",
-          "cp37"
-        ],
-        "miind-0.0.19-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "/JxMZaqpCdHnQMs6Tz1wseMCn+tK90pji8m8zqON3N8=",
-          "cp38"
-        ],
-        "miind-0.0.19-cp38-cp38-manylinux2014_x86_64.whl": [
-          "oQMPIQiotrF8XX+3TjccOdsD7IY1a+DEkMYS5UVHYU0=",
-          "cp38"
-        ],
-        "miind-0.0.19-cp38-cp38-win_amd64.whl": [
-          "vR8fiEALmUk3dvaGIPreCTPxjXXdbXKSowxl3+vagiI=",
-          "cp38"
-        ],
-        "miind-0.0.19-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "EBkn2MlY/2EGEHBVpx/Dm4pAL8nq2LM6Gbp1PxENCdw=",
-          "cp39"
-        ],
-        "miind-0.0.19-cp39-cp39-manylinux2014_x86_64.whl": [
-          "SWUFLoiRrdr2grG5L3lF1K6XXTbbK3RrzyMt4wkkv1o=",
-          "cp39"
-        ],
-        "miind-0.0.19-cp39-cp39-win_amd64.whl": [
-          "TEf6IO98UPZyfj8K+4e1VHyJXy6qXePV/G/z2j6N+VQ=",
+        "miind-1.0.7-cp39-cp39-win_amd64.whl": [
+          "FjLXiaXMIAIIupaZeh++71R3C8GHaHteEX1gI8GeMfE=",
           "cp39"
         ]
       }
@@ -43762,6 +43752,18 @@
         ]
       }
     },
+    "1.17.29.0": {
+      "sdist": [
+        "2mzeAW0CpT5ESm2s7iOxu1RUk4fv2Wf1PwX4i5ua8QE=",
+        "mypy-boto3-mediatailor-1.17.29.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mediatailor-1.17.29.0-py3-none-any.whl": [
+          "PXbH2njSlvkpSwzhqoclk7iT2MAel1M9z9qlt2fBM6A=",
+          "py3"
+        ]
+      }
+    },
     "1.17.3.0": {
       "sdist": [
         "cHls8lEcm1zlIGVdGJHh+TO7a/h2yBvnRrIh227KdQY=",
@@ -47264,6 +47266,18 @@
       "wheels": {
         "mypy_boto3_textract-1.17.28.0-py3-none-any.whl": [
           "/MABaz6TmdqYfAsZmTQ0IQ/S/Bkh3tbvGSP1a6y9L/0=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.29.0": {
+      "sdist": [
+        "EnndC+HYRTPDacnHunlu9h+cG/EI6/8UcgY3sHjxsaI=",
+        "mypy-boto3-textract-1.17.29.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_textract-1.17.29.0-py3-none-any.whl": [
+          "E57v/ahhJqR8Y+D6+RXvbbvo8xlLMjr9Iw8c5WZkGWU=",
           "py3"
         ]
       }
@@ -69147,6 +69161,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.1": {
+      "sdist": [
+        "j4v8qneddKre4ODcOH2wjHIByhOzgZUMWyCIyix65Vo=",
+        "sd_utils-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "sd_utils-0.2.1-py3-none-any.whl": [
+          "Xda6+6T4K44Yki9/v6Cq/+nKhXcbIItLOY65UYU8Di8=",
+          "py3"
+        ]
+      }
     }
   },
   "sdio": {
@@ -87798,20 +87824,6 @@
       "sdist": [
         "dkjOn2obY7hJNM1EpYTuIWXOznMmxzxwtZ3cy5udbpU=",
         "word-spell-0.6.9.tar.gz"
-      ]
-    }
-  },
-  "wtfbot": {
-    "1": {
-      "sdist": [
-        "+5PBvieNpwA1YtBRDrbONYNfmanvGXXF0out/Frastg=",
-        "wtfbot-1.tar.gz"
-      ]
-    },
-    "2": {
-      "sdist": [
-        "HRLYASsLc6eylLLtfND5Z6fQxdM8fANb+AFDM72s28M=",
-        "wtfbot-2.tar.gz"
       ]
     }
   },

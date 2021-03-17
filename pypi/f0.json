@@ -6381,6 +6381,18 @@
           "py3"
         ]
       }
+    },
+    "1.94.0": {
+      "sdist": [
+        "izwg2KTcZ3DBs1NwVG1Umjap5NympRESjtcxaVnCgg0=",
+        "aws-cdk.aws-s3-deployment-1.94.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_s3_deployment-1.94.0-py3-none-any.whl": [
+          "vTBjd9Lbmx34z094tzO0EfN+838+ZkYo9yKiTofomXA=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-lambda-rest-api": {
@@ -10674,6 +10686,18 @@
       "wheels": {
         "cats_python-2.2.2-py3-none-any.whl": [
           "F5ajNjfmnhRuehhNAFas9ds/Fbc/AIBgof6iMucyxR4=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.3": {
+      "sdist": [
+        "FjqZmQOU4uzXOJE1VNK2rh8Vfbwk6tNYECOUBn8N82g=",
+        "cats-python-2.2.3.tar.gz"
+      ],
+      "wheels": {
+        "cats_python-2.2.3-py3-none-any.whl": [
+          "34PzKBlMjQLlq5hdCGRJKuyCiLvFShA6NYfqPeTRlLI=",
           "py3"
         ]
       }
@@ -21088,6 +21112,18 @@
       "wheels": {
         "eaiscenarioreporter-0.0.10-py3-none-any.whl": [
           "VBnaGGTYF14VTZ9XdsjayzZ/Yo4rUXePSwJAJBaEv2Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "KbG9j0eKA7llaYQQEJ5+SuGpPAJUE4S4ZdGECBuIpCQ=",
+        "eaiscenarioreporter-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "eaiscenarioreporter-0.0.11-py3-none-any.whl": [
+          "zcI/Yv7iIrxQvRC62IpmRffxmYzvBy8JFntI0lgq32E=",
           "py3"
         ]
       }
@@ -35434,6 +35470,14 @@
         ]
       }
     },
+    "3.0.36rc0": {
+      "wheels": {
+        "huaweicloudsdklive-3.0.36rc0-py3-none-any.whl": [
+          "JOM00oyPKxatcVZPJa2HYqCxJV1sZgqiwiiLaeolaPc=",
+          "py3"
+        ]
+      }
+    },
     "3.0.8b0": {
       "wheels": {
         "huaweicloudsdklive-3.0.8b0-py3-none-any.whl": [
@@ -38039,6 +38083,16 @@
       }
     }
   },
+  "jira-333": {
+    "3.1.1": {
+      "wheels": {
+        "jira_333-3.1.1-py3-none-any.whl": [
+          "EeQTiRstUX0ECMw7MhyKfcmMAsqYYM06D3evJnFEOHI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "jk-mediawiki": {
     "0.2020.11.23": {
       "sdist": [
@@ -38274,6 +38328,12 @@
       "sdist": [
         "fzdMV7+hyxbR80DScLwNnx9WCPsaxsnqFXaMDm7OSLc=",
         "jsonrpc-base-1.1.0.tar.gz"
+      ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "pYOmZGzzhgpCfVbqZzLgRhipGcXqSnjT3LRNhmwRqOU=",
+        "jsonrpc-base-2.0.0.tar.gz"
       ]
     }
   },
@@ -39255,6 +39315,68 @@
         "sRaft5dci1JxZlyZGSeA4D5kUIALjkhrgFaogmmI6OM=",
         "KrATER-2.2b0.tar.gz"
       ]
+    }
+  },
+  "kubernetes-job": {
+    "0.0.3": {
+      "sdist": [
+        "ngXdtBkdnp84571BY57RE7kHY+lT7O1l6mvEdeki6Es=",
+        "kubernetes-job-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "kubernetes_job-0.0.3-py3-none-any.whl": [
+          "O/pM+iWR67T7AjHXSmeJ2i2MNcTEe6FPwLXlAQhHzr8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "z1rfRh7FJajWWbpgqGT2d9VsbpFt52Ogbwj9EU+q3iQ=",
+        "kubernetes-job-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "kubernetes_job-0.1.0-py3-none-any.whl": [
+          "NXaJIGuqJNEL2ORFJ34WWXubPmqbZJ8EE00T7rHzjic=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "S6RVW/VWU+yr2aQlSlRuqX/OhBFcn9IQt0GIHaaUQkw=",
+        "kubernetes-job-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "kubernetes_job-0.1.1-py3-none-any.whl": [
+          "E9RNu0FvPbagEoIuxwyYDvKNwYLn3WlVQ7FEbxx+IDw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "PsBhvZSpLA6n5MnCRh2BEH3j/gxyEQKgGHKfnqHdU8U=",
+        "kubernetes-job-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "kubernetes_job-0.1.2-py3-none-any.whl": [
+          "FT/tBq0Oy7jjEGBPpbvBE5OfAL1EFaS6ScJzEkoQXzQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "ezIjox4zEPhrtVwXE0uNKbJw12HY3uwPfOnZ+lRQaBY=",
+        "kubernetes-job-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "kubernetes_job-0.1.3-py3-none-any.whl": [
+          "AKkhkphcrtJ46cSe7npmTs/iXOL7MM/fpkeriIcfawI=",
+          "py3"
+        ]
+      }
     }
   },
   "kulc": {
@@ -56596,6 +56718,12 @@
         "PureCloudPlatformClientV2-112.0.1.tar.gz"
       ]
     },
+    "112.0.2": {
+      "sdist": [
+        "kXoYM3JlsRYURSE4jUEWuT4fSOMWSPfbwwsDrebThwc=",
+        "PureCloudPlatformClientV2-112.0.2.tar.gz"
+      ]
+    },
     "14.0.0": {
       "sdist": [
         "jrMS/Y5vqacsIKgdGB7mx5g1GtCwdZkXwCk2voTuTBg=",
@@ -61602,6 +61730,18 @@
       "wheels": {
         "pypr0-0.2-py3-none-any.whl": [
           "V24pi4hFfX4XCEFDkAh0/ZM/K6NuFiDbxyKI8ro44Xc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.5": {
+      "sdist": [
+        "H25IBvMh6xydLAzGzO1BZ9VToUDMk/2CH3FBAA6OZFw=",
+        "pypr0-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "pypr0-0.2.5-py3-none-any.whl": [
+          "0de7e7qEuFdicOn/tBNMAfrPthoDkZegYRq8HHY32u4=",
           "py3"
         ]
       }
@@ -68444,6 +68584,12 @@
       "sdist": [
         "ExShXyG3biS1FagKAL/vi6IJBCJK7b2xCiKQ/uLTId8=",
         "schema-markdown-0.9.4.tar.gz"
+      ]
+    },
+    "0.9.5": {
+      "sdist": [
+        "wLyNnnCFwmN9yyjNQAytzh4JTxuYSwWEZqJgwdWBnLc=",
+        "schema-markdown-0.9.5.tar.gz"
       ]
     }
   },

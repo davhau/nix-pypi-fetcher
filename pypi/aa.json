@@ -257,6 +257,12 @@
         "1dwtfs3YSSbLR4zBhE6guvPw6DmmkeH3KAAX/ZhxnsM=",
         "adafruit-circuitpython-minimqtt-5.0.4.tar.gz"
       ]
+    },
+    "5.0.5": {
+      "sdist": [
+        "vvAQrjzhpGkT3sIfEz4bJ4a/Ly0uhDPi/nxnQO+YtXw=",
+        "adafruit-circuitpython-minimqtt-5.0.5.tar.gz"
+      ]
     }
   },
   "address-parser": {
@@ -2899,6 +2905,18 @@
           "py3"
         ]
       }
+    },
+    "1.94.0": {
+      "sdist": [
+        "i0B2ZOczRRkGOZ1YIKjjtDr7qVXho1gtMkPkmhGanLI=",
+        "aws-cdk.aws-apigatewayv2-integrations-1.94.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2_integrations-1.94.0-py3-none-any.whl": [
+          "OGgIPd3+aiAwvP6jF6vW+GhX/6/gGhwvFdBFUbchPI8=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-kinesisanalytics": {
@@ -4458,6 +4476,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics-1.93.0-py3-none-any.whl": [
           "wSsLYHcb6MR+t5CQyfiWwaV1y9Si4g6hb9aMQ6yPhRM=",
+          "py3"
+        ]
+      }
+    },
+    "1.94.0": {
+      "sdist": [
+        "dF4gV0dMq+k1haH6daPKdyofDh7KfdT1i0r2OWHILT0=",
+        "aws-cdk.aws-kinesisanalytics-1.94.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics-1.94.0-py3-none-any.whl": [
+          "F35eoR3ER4WrPbfVpAUyGB3YzpeU2xJrvj2enDBEPCA=",
           "py3"
         ]
       }
@@ -11944,6 +11974,12 @@
       "sdist": [
         "J5Hq3F5x6/385XbtMKW4Z6zENgQ1FEFtWr38F9id+KQ=",
         "cselector-0.3.0.tar.gz"
+      ]
+    },
+    "0.3.1": {
+      "sdist": [
+        "kuP0U9Y1T8CXjJjnylDvdwU737TVN9WYMf5cNTtOxcU=",
+        "cselector-0.3.1.tar.gz"
       ]
     }
   },
@@ -29633,101 +29669,11 @@
       }
     }
   },
-  "koningrijk": {
-    "1": {
+  "kookaburra": {
+    "0.2.0": {
       "sdist": [
-        "vWXaYFal99PQv9OGZ5f3BAiJAbqCHfRTy/KZxqFfM/E=",
-        "koningrijk-1.tar.gz"
-      ]
-    },
-    "10": {
-      "sdist": [
-        "vmAocKZHHspzBf+YmkfZKimbqySSS3Xk3R3VPN/97b0=",
-        "koningrijk-10.tar.gz"
-      ]
-    },
-    "11": {
-      "sdist": [
-        "1HQqxxscZsqRa8M3uF9kzZH6yn7d0zse0+0oLnbNOpc=",
-        "koningrijk-11.tar.gz"
-      ]
-    },
-    "12": {
-      "sdist": [
-        "6whcpqf/WiOB8A7/nDWnZqqok1Dia4bw0I1Z8UBHXrs=",
-        "koningrijk-12.tar.gz"
-      ]
-    },
-    "13": {
-      "sdist": [
-        "ERZ1s/btsoevORhZeqG9zC8+/8CkyHwOgQZg1S41108=",
-        "koningrijk-13.tar.gz"
-      ]
-    },
-    "14": {
-      "sdist": [
-        "4jsHLlSYM3+PtyExHTLcNRj5d4ptbxN7+caoAUwNsgg=",
-        "koningrijk-14.tar.gz"
-      ]
-    },
-    "15": {
-      "sdist": [
-        "KGMaAWAheiY7iHHnepSxo4v4OPVzyAx1GFcy+7marZE=",
-        "koningrijk-15.tar.gz"
-      ]
-    },
-    "16": {
-      "sdist": [
-        "DFpvJBghi2eMWTY8d84Tu62bBEvnn1QO3XG/fFWvPC4=",
-        "koningrijk-16.tar.gz"
-      ]
-    },
-    "17": {
-      "sdist": [
-        "fh81diRrHEDM3HLdTUyWPjGhRvsnBZedgBX2XBI9r/s=",
-        "koningrijk-17.tar.gz"
-      ]
-    },
-    "3": {
-      "sdist": [
-        "PACyhebYkTrbi7TH6f82GCVD3PtP9Pz+gzvNFIB8lK4=",
-        "koningrijk-3.tar.gz"
-      ]
-    },
-    "4": {
-      "sdist": [
-        "CVfyIqgINw6TKGk3y/5rxjwjvRh2ujlUWmzx8IG0nHE=",
-        "koningrijk-4.tar.gz"
-      ]
-    },
-    "5": {
-      "sdist": [
-        "9xQtwh4VxfDF1KiOTJOJ61KkKnPBJOJNn1sGClG8Jmk=",
-        "koningrijk-5.tar.gz"
-      ]
-    },
-    "6": {
-      "sdist": [
-        "2xmntBTVgdOij113fpmviLPa+DIfB1+3JpAs71zoQ0g=",
-        "koningrijk-6.tar.gz"
-      ]
-    },
-    "7": {
-      "sdist": [
-        "p+52RPfRAKR6Hfh+DSlsIqs3R8cLhbGzCvOiXYvo8yk=",
-        "koningrijk-7.tar.gz"
-      ]
-    },
-    "8": {
-      "sdist": [
-        "InJiwokihH4l/UukoXKrnXuhVDvpDThG6XnY7a7uoRQ=",
-        "koningrijk-8.tar.gz"
-      ]
-    },
-    "9": {
-      "sdist": [
-        "jzRuGerQxBb9lQNKyhjdUftpeOkBHtn7tUuRoem70Ho=",
-        "koningrijk-9.tar.gz"
+        "rM6m+vVX+tJCDhEbCW4HzYoByYxofnhywSoUE1p+Mco=",
+        "kookaburra-0.2.0.tar.gz"
       ]
     }
   },
@@ -34344,6 +34290,30 @@
       "wheels": {
         "mitama-4.6.1-py3-none-any.whl": [
           "txh11YX1E3R4preIZbk3/igItrQMapvuloSTkiV2viY=",
+          "py3"
+        ]
+      }
+    },
+    "4.6.2": {
+      "wheels": {
+        "mitama-4.6.2-py3-none-any.whl": [
+          "xwOrgZTa8KRXVxcuwwj+yipp5PCIslFtvqUEPwsgmAc=",
+          "py3"
+        ]
+      }
+    },
+    "4.6.3": {
+      "wheels": {
+        "mitama-4.6.3-py3-none-any.whl": [
+          "/KRPFx0QhTA+qSz4hgNVNZxXATWeYeho8jBJK4xeNWk=",
+          "py3"
+        ]
+      }
+    },
+    "4.6.4": {
+      "wheels": {
+        "mitama-4.6.4-py3-none-any.whl": [
+          "ItWrT2G32WMDvxhe+yDjBGtMpvy355TiQSIlv5Jm76Q=",
           "py3"
         ]
       }
@@ -39544,6 +39514,18 @@
         ]
       }
     },
+    "1.17.29.0": {
+      "sdist": [
+        "WGzJLuBWOWazcdf+cyMalI2Hqsa1+HOJ5re3rzXhzHI=",
+        "mypy-boto3-iot-data-1.17.29.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iot_data-1.17.29.0-py3-none-any.whl": [
+          "Yhed+XnUc5NuRr8uVU/NHTOC8wndGKxTYN282duK9K8=",
+          "py3"
+        ]
+      }
+    },
     "1.17.3.0": {
       "sdist": [
         "akxdbqlhA0LcrIE8nZcMvY9Tz+Kj1IUrEv6i7LzT/3Q=",
@@ -43771,14 +43753,6 @@
           "py2.py3"
         ]
       }
-    }
-  },
-  "opdoc": {
-    "1": {
-      "sdist": [
-        "LJxhkssz8Q+lj0TD58wNxcZkI61+l9rD1SBkFJm967c=",
-        "opdoc-1.tar.gz"
-      ]
     }
   },
   "open-webrtc": {
@@ -51679,6 +51653,20 @@
         "Nw0waGIzHEHsRi0HLV8tw0bIeB5yjCOtEnUGQf55sDY=",
         "pylicense3-0.4.1.tar.gz"
       ]
+    }
+  },
+  "pymagicswitchbot": {
+    "1.0.0": {
+      "sdist": [
+        "hREZOwY3Y/LarSl6QdUAmBw5RjlwC9CTdwrE61tzSvk=",
+        "pyMagicSwitchbot-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pyMagicSwitchbot-1.0.0-py3-none-any.whl": [
+          "JgjxGmtLqu20l4M8WjqXc6xAHoXgyto4kAEXpIA1ppQ=",
+          "py3"
+        ]
+      }
     }
   },
   "pymixconf": {
@@ -71525,6 +71513,12 @@
         "T1o98VKTezyQF8oWp1CPIj0kFcp8oPUpOV2Sp1ABS8U=",
         "texta-parsers-2.7.6.tar.gz"
       ]
+    },
+    "2.7.7": {
+      "sdist": [
+        "vOfcMXGilcBq6HBXeWKLP7rWWHevoXP3koAWR5M5FZ4=",
+        "texta-parsers-2.7.7.tar.gz"
+      ]
     }
   },
   "tfoutputs": {
@@ -75275,15 +75269,15 @@
       }
     }
   },
-  "twitter-unfollow": {
-    "1.0.0": {
+  "twinpy": {
+    "3.0.1": {
       "sdist": [
-        "XQWw1nVtZQrbENlVc42NE36mcMtJI7YoE/su2dG41IQ=",
-        "twitter unfollow-1.0.0.tar.gz"
+        "LgDeRCZPYk3G5UVFc5+bASzjsaOmWfmnXrzI0SXPN/U=",
+        "twinpy-3.0.1.tar.gz"
       ],
       "wheels": {
-        "twitter_unfollow-1.0.0-py3-none-any.whl": [
-          "xYwRw9mLrM0dPyM8+NQdshrpHY3TJbSj9Z1KeucZaFk=",
+        "twinpy-3.0.1-py3-none-any.whl": [
+          "pzs3uMHI1tUIecReQb2KbWsSEOmzJC6TyQCYvRW6FNs=",
           "py3"
         ]
       }
