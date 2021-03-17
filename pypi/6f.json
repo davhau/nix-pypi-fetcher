@@ -3661,6 +3661,18 @@
           "py3"
         ]
       }
+    },
+    "1.94.1": {
+      "sdist": [
+        "CsxvzojXP1ofWvFOXmq9nimOR0+R4/PzuDVJqaflUeQ=",
+        "aws-cdk.aws-quicksight-1.94.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_quicksight-1.94.1-py3-none-any.whl": [
+          "NEPl3wAr+4Ve9AdR6PUKD6LT8OXQC1359hqAQlwrlfc=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-sso": {
@@ -4068,6 +4080,18 @@
       "wheels": {
         "aws_cdk.aws_sso-1.94.0-py3-none-any.whl": [
           "d6NQ7bAYKWjMuNqFqeFC/IKTZtY8LGd0wmqwzsN30wM=",
+          "py3"
+        ]
+      }
+    },
+    "1.94.1": {
+      "sdist": [
+        "V2A5eTzQ8Nvag3SRxfvu4LNAFSNcapGk9JpCrxvzBjs=",
+        "aws-cdk.aws-sso-1.94.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sso-1.94.1-py3-none-any.whl": [
+          "qfXheqxV10HlHnZDChDJGBCJ5oDRYR9jo7lF5zkC5o4=",
           "py3"
         ]
       }
@@ -13232,6 +13256,18 @@
       "wheels": {
         "deepcomp-1.2.0-py3-none-any.whl": [
           "/011IDokDoSX+4lzDISucd27rPQthsADmMk2m6XcAng=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "6keNquAEFr+3fgiXuqPh/475y6zBUOMseQFVbB00fjk=",
+        "deepcomp-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "deepcomp-1.2.1-py3-none-any.whl": [
+          "rkoHnj7PNflUddpsqx230K7pKudgYVbp6extWSdXNio=",
           "py3"
         ]
       }
@@ -27327,6 +27363,12 @@
         "gNC0xkJIJeWHMeeZ7yL8FQFySFjx4+2sRzjFBHdNDPg=",
         "fireant-7.8.0.tar.gz"
       ]
+    },
+    "7.8.2": {
+      "sdist": [
+        "IPO+x+egkLqP3adKRfcCaznNqGhMloJnSvEyN7eUd6A=",
+        "fireant-7.8.2.tar.gz"
+      ]
     }
   },
   "first-setup-cms-wagtail": {
@@ -40590,13 +40632,45 @@
           "GuTvyW1J5Kh2XU6oGZ2gMLT1chGjV9prf8PN93tS6vc=",
           "cp27"
         ],
+        "libscrc-1.6-cp310-cp310-linux_armv7l.whl": [
+          "ezDu0jB4Sz+m5FVHOII6su9H9C8gnFOatoeK20EOv7M=",
+          "cp310"
+        ],
+        "libscrc-1.6-cp34-cp34m-linux_armv7l.whl": [
+          "aJQAT9uEGMJRhXEOHYhOKewTLhQ3HvkvTawVawmFzy0=",
+          "cp34"
+        ],
         "libscrc-1.6-cp34-cp34m-manylinux1_x86_64.whl": [
           "pkY5Co5PXwGCYCDScC6V1qYu8IgdIpbiMqZ1QfMmVSg=",
           "cp34"
         ],
+        "libscrc-1.6-cp34-cp34m-win32.whl": [
+          "Hip6NUZzAXhTou2ph02QyW/CY2TTNADD88tpjqJLZx4=",
+          "cp34"
+        ],
+        "libscrc-1.6-cp34-cp34m-win_amd64.whl": [
+          "hAglSvSd0BkFl1sAmloDh0FuLoAcjoC2dZjjLPfn3sc=",
+          "cp34"
+        ],
+        "libscrc-1.6-cp35-cp35m-linux_armv7l.whl": [
+          "BMtCTQMC0TlnKfjjEOE3TVeGoImk32MlPGwCSoyVato=",
+          "cp35"
+        ],
         "libscrc-1.6-cp35-cp35m-manylinux1_x86_64.whl": [
           "TjtQ9G/O4iF45a6DjVf5S6o7ehH4oELr96u3a3CLtXQ=",
           "cp35"
+        ],
+        "libscrc-1.6-cp35-cp35m-win32.whl": [
+          "FUAqBPvIFm1OQEO1/6KJHCFaOtigPa+kxkdyUD9Ofgg=",
+          "cp35"
+        ],
+        "libscrc-1.6-cp35-cp35m-win_amd64.whl": [
+          "8lr/FhSje6EgJZDeWtkMhwAAXaR0LXRfDRRef2Nj7tg=",
+          "cp35"
+        ],
+        "libscrc-1.6-cp36-cp36m-linux_armv7l.whl": [
+          "9jH71JJmTNJDSmtY7gUgxmpBxdPsHnvC0sOfudnzF84=",
+          "cp36"
         ],
         "libscrc-1.6-cp36-cp36m-macosx_10_6_intel.whl": [
           "VQGdI8597CjTwN/Vv+djjkmTZ5RetGmDcBvZBIqi9dI=",
@@ -40610,12 +40684,24 @@
           "jUthuPAfOcV29s+qU5bNc201S7oIIsGGCuNOONiHt0U=",
           "cp36"
         ],
+        "libscrc-1.6-cp36-cp36m-win_amd64.whl": [
+          "sXUVJevIm775H4yZBzmNoiH6QUZAmOdLD9wLd9vQanI=",
+          "cp36"
+        ],
         "libscrc-1.6-cp37-cp37m-linux_armv7l.whl": [
           "sQnYbn9PCwF+6nGtlcGpn6rime0eRcABwNJryKYrAGo=",
           "cp37"
         ],
         "libscrc-1.6-cp37-cp37m-manylinux1_x86_64.whl": [
           "0ksKOOapqXlYDZcS7hsXyJUuAnlsAJTQETlbgtIQBSU=",
+          "cp37"
+        ],
+        "libscrc-1.6-cp37-cp37m-win32.whl": [
+          "SXAHaYXPEHlatr0e+xno4UoDUyohd29tluIsG97u47w=",
+          "cp37"
+        ],
+        "libscrc-1.6-cp37-cp37m-win_amd64.whl": [
+          "i+xBekhBoxaGjgJv32bFnGLvgjM2O4vnu6myOrnMAgw=",
           "cp37"
         ],
         "libscrc-1.6-cp38-cp38-linux_armv7l.whl": [
@@ -40628,6 +40714,10 @@
         ],
         "libscrc-1.6-cp38-cp38-manylinux1_x86_64.whl": [
           "Ql5VYkI/cK2RWBsPqGYh8JPA9SLXyAb39Fw4+QvAoEA=",
+          "cp38"
+        ],
+        "libscrc-1.6-cp38-cp38-win32.whl": [
+          "On5jV86sfs7181MHrLcJ1XqoL0R4RMGuTzRbYxDBHMk=",
           "cp38"
         ],
         "libscrc-1.6-cp38-cp38-win_amd64.whl": [
@@ -40644,6 +40734,14 @@
         ],
         "libscrc-1.6-cp39-cp39-manylinux1_x86_64.whl": [
           "IJMPZkCN7SBV/gfj5eWNSrJTVG8vboIBlZdywFDrThU=",
+          "cp39"
+        ],
+        "libscrc-1.6-cp39-cp39-win32.whl": [
+          "nwCKz74hSoHKAgKeb1yzv7ywN9Fl3lRa6Cq3DaR0ozw=",
+          "cp39"
+        ],
+        "libscrc-1.6-cp39-cp39-win_amd64.whl": [
+          "x43kzLikFqHVq2bKxzdnB5SJpaIXs+QnOA13ECD/gTI=",
           "cp39"
         ]
       }
@@ -50677,6 +50775,16 @@
       }
     }
   },
+  "odoo14-addon-pim": {
+    "14.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo14_addon_pim-14.0.1.0.1.dev3-py3-none-any.whl": [
+          "zT3YTtBPv+j9+oXT7OLRiAxqFEfCgVBsOHq0J3Pw6I0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo14-addon-stock-location-children": {
     "14.0.1.0.1.dev2": {
       "wheels": {
@@ -53802,6 +53910,18 @@
       "wheels": {
         "omegaconf-2.1.0.dev21-py3-none-any.whl": [
           "Iz5Jq/j/DtPiaA6bbBMzWz1z2KDK4uBLg7NxB//BIRg=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0.dev22": {
+      "sdist": [
+        "O2ag2/MsS0mguqRD5tFEgldK6UjS0IGzdq3YMvmBi5I=",
+        "omegaconf-2.1.0.dev22.tar.gz"
+      ],
+      "wheels": {
+        "omegaconf-2.1.0.dev22-py3-none-any.whl": [
+          "/fYU2vdd1PzNVCZ0GbOpRgoP6AjHhV1RBGHkf5sxKCI=",
           "py3"
         ]
       }
@@ -71350,6 +71470,54 @@
       "wheels": {
         "schema_salad-7.1.20210309094900-py3-none-any.whl": [
           "zUdvz3cwluv6c+vkvNkurNDu0rKeSlo0CEEt7s3eWC4=",
+          "py3"
+        ]
+      }
+    },
+    "7.1.20210316164414": {
+      "sdist": [
+        "M++eZ9WSOgYF+YtUJQhSy5+Lf+e6RLrhy9O6d9v0ShI=",
+        "schema-salad-7.1.20210316164414.tar.gz"
+      ],
+      "wheels": {
+        "schema_salad-7.1.20210316164414-cp36-cp36m-manylinux1_x86_64.whl": [
+          "Q4T3XWZJ84zvQGxSLuKw2ADMvoXe2h0fGbv1rD8+qjw=",
+          "cp36"
+        ],
+        "schema_salad-7.1.20210316164414-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "bC3oPuR+wN4m9/b+edKgFavzz7fB6qIUKQ1dTazgk8o=",
+          "cp36"
+        ],
+        "schema_salad-7.1.20210316164414-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "U+a7FWWyvpwubmDoKBHrpMUj9xQqmtgGET0A39hLIrI=",
+          "cp36"
+        ],
+        "schema_salad-7.1.20210316164414-cp37-cp37m-manylinux1_x86_64.whl": [
+          "CBsUE6Zi05FQjC3fziiQ+K9OT3qFNF7UI/J7Dhw6edg=",
+          "cp37"
+        ],
+        "schema_salad-7.1.20210316164414-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "niugcQyQRJ8r9lOpjpfbkvhk4BKN/qd8TSaiAaitA1M=",
+          "cp37"
+        ],
+        "schema_salad-7.1.20210316164414-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "ejYurmXL3o8qob1thWQGoAea21GMcxyS/x4X9vKScLE=",
+          "cp37"
+        ],
+        "schema_salad-7.1.20210316164414-cp38-cp38-manylinux1_x86_64.whl": [
+          "8Mtt6W5fvJl64aHYms455UvSl4I7Fl9tyQjlaPDkLw4=",
+          "cp38"
+        ],
+        "schema_salad-7.1.20210316164414-cp38-cp38-manylinux2010_x86_64.whl": [
+          "9xLPQP0YXq5sDdzqbY3noGdOXhSO2ShUjkcfo98wQP4=",
+          "cp38"
+        ],
+        "schema_salad-7.1.20210316164414-cp38-cp38-manylinux2014_x86_64.whl": [
+          "0wLIAyKfUm7jriQdU+zqdwUCY9Lr5sEWezcsDAZ5xRQ=",
+          "cp38"
+        ],
+        "schema_salad-7.1.20210316164414-py3-none-any.whl": [
+          "go5BLxIFnQT9oQGu6yir+vcGjz4eWcPalN8iZ3bZFuc=",
           "py3"
         ]
       }

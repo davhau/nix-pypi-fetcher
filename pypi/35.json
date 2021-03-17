@@ -1428,6 +1428,42 @@
     }
   },
   "agora-python-sdk": {
+    "3.1.2.10": {
+      "wheels": {
+        "agora_python_sdk-3.1.2.10-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "y3JSBc2KKwyDZ1mL651BjT0qE4wUzW6loK5LdqUz8Wg=",
+          "cp36"
+        ],
+        "agora_python_sdk-3.1.2.10-cp36-cp36m-win_amd64.whl": [
+          "t8iq6VP7MPmu9fEeAN/xVghLcFlif0+T8sfceU9upVY=",
+          "cp36"
+        ],
+        "agora_python_sdk-3.1.2.10-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "L4Na17p6UgVL4NU52/FCUL1b2nuK6hMBymfntktDyMk=",
+          "cp37"
+        ],
+        "agora_python_sdk-3.1.2.10-cp37-cp37m-win_amd64.whl": [
+          "ox2pC02g6K8UGfDGwUdc+1OSxew+4MeLAeCYWGgmSA0=",
+          "cp37"
+        ],
+        "agora_python_sdk-3.1.2.10-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "EY+MstmyomOu9/MGiEieiqscYvGUbDUkW7TJxfIGDkM=",
+          "cp38"
+        ],
+        "agora_python_sdk-3.1.2.10-cp38-cp38-win_amd64.whl": [
+          "F8I4cCEWK25WDAmPooShI4SeCYLOj7qoxQ4/kBE9XBI=",
+          "cp38"
+        ],
+        "agora_python_sdk-3.1.2.10-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "owQ0bwB2z+lLHYClgFNINVPJe2Grf4NnjPrk0ISRM38=",
+          "cp39"
+        ],
+        "agora_python_sdk-3.1.2.10-cp39-cp39-win_amd64.whl": [
+          "+PEBo6fr+vdB6u7yKVh2wS+MT3uRtj9/Rktbtq1Avao=",
+          "cp39"
+        ]
+      }
+    },
     "3.1.2.2": {
       "wheels": {
         "agora_python_sdk-3.1.2.2-cp36-cp36m-macosx_10_9_x86_64.whl": [
@@ -4358,6 +4394,12 @@
         "avro-1.10.1.tar.gz"
       ]
     },
+    "1.10.2": {
+      "sdist": [
+        "OBuZDMTEREdDwylzSP/Ubgw6XXoX4VsvSpBC9ulVwxo=",
+        "avro-1.10.2.tar.gz"
+      ]
+    },
     "1.3.3": {
       "sdist": [
         "Ag4P16TNEix57qS7rCGeVKxXdAOy9I044YyvtdlcPgk=",
@@ -5999,6 +6041,18 @@
           "py3"
         ]
       }
+    },
+    "1.94.1": {
+      "sdist": [
+        "r3RFy07lW5rzSERHfLFxNhc8trrnVqsaYnfCAuMoJAQ=",
+        "aws-cdk.aws-amplify-1.94.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_amplify-1.94.1-py3-none-any.whl": [
+          "Lv3mrIQhKEHC1YACmVfJF0bmuhU5BM6qRvE0SCA4btY=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-emrcontainers": {
@@ -6130,6 +6184,18 @@
       "wheels": {
         "aws_cdk.aws_emrcontainers-1.94.0-py3-none-any.whl": [
           "3R+9wPEf2Dhd+20ob2Xh2YMtEWZmJ1ix+utj2ugNOBw=",
+          "py3"
+        ]
+      }
+    },
+    "1.94.1": {
+      "sdist": [
+        "5gB3uPoqjbvaA8DN32fATid3QflkY3CD1u2jmOVtAsY=",
+        "aws-cdk.aws-emrcontainers-1.94.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_emrcontainers-1.94.1-py3-none-any.whl": [
+          "fKrh8v/lRlQGoG4qSQKFrahtAdNayMAGTKiOraTFL9A=",
           "py3"
         ]
       }
@@ -17078,6 +17144,20 @@
       "wheels": {
         "diffxpy-0.7.4-py3-none-any.whl": [
           "1/moFvxDhoR0bCV8FlaiPyPL64cO580JQrjsanJBc7c=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "digitalspot": {
+    "0.0.1": {
+      "sdist": [
+        "K/xtmveyzGoiKmtTz3oZ4Wv9lauEUDTrgUSnswm0NE4=",
+        "DigitalSpot-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "DigitalSpot-0.0.1-py3-none-any.whl": [
+          "xzCFmt0ucbs7bL4U0bPxZSR+yMzXT6kP8U9W1BLGkNI=",
           "py3"
         ]
       }
@@ -42458,6 +42538,12 @@
       "sdist": [
         "VuEncxuUN1B89ehzVHJNCLCnkEdRdxdEoupGyBTnU90=",
         "motorlib-0.1.0.tar.gz"
+      ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "I4l025gQFhGWkCydpXVycxN8+vWn3s0UBYMzQ+SXE5g=",
+        "motorlib-0.2.0.tar.gz"
       ]
     }
   },
