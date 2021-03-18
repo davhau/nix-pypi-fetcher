@@ -1552,6 +1552,10 @@
     },
     "1.2.2": {
       "wheels": {
+        "aletheia_dnn-1.2.2-cp36-none-macosx_10_9_x86_64.whl": [
+          "s9VA5af254dfNFrLPXIf4TGvDqE3IbkhRuaBXDa9b7g=",
+          "cp36"
+        ],
         "aletheia_dnn-1.2.2-cp36-none-manylinux1_x86_64.whl": [
           "hYiTZi/XKfGtqrs+HoP7wRlmSqoEidfzxLKjU1y3y1g=",
           "cp36"
@@ -1560,6 +1564,10 @@
           "DGk1/aRqkpxeGaRH6O7FALTuHgvZaAjrrYaVWqd+l7o=",
           "cp36"
         ],
+        "aletheia_dnn-1.2.2-cp37-none-macosx_10_9_x86_64.whl": [
+          "jZbMvs7q/Hq5QXKbT19bBXjm8JFINgv4NcIfYhWNJtA=",
+          "cp37"
+        ],
         "aletheia_dnn-1.2.2-cp37-none-manylinux1_x86_64.whl": [
           "RBJxbSij0KMGdfU660x08PP6Jj8zmnKLKUWCckv0SGI=",
           "cp37"
@@ -1567,6 +1575,10 @@
         "aletheia_dnn-1.2.2-cp37-none-win_amd64.whl": [
           "vbEu5XYi8oQDbg/BWy5CN0M0BAbD0+K2zPaHZ/xYLOA=",
           "cp37"
+        ],
+        "aletheia_dnn-1.2.2-cp38-none-macosx_10_9_x86_64.whl": [
+          "QghXVVgyphzJ3dXx9DYjZVbfVpZ/eAlZDcvnSne/uaQ=",
+          "cp38"
         ],
         "aletheia_dnn-1.2.2-cp38-none-manylinux1_x86_64.whl": [
           "LkGtkSZgl2G15qzyXZYuBkMP0ggQSnXnVYtzP08LP0Y=",
@@ -37387,6 +37399,32 @@
       ]
     }
   },
+  "manafa": {
+    "0.2.0": {
+      "sdist": [
+        "DYnLNUwbdQzTyYV8eKOVftsjnNYs+ZJKmRW3zbBCNDY=",
+        "manafa-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "manafa-0.2.0-py3-none-any.whl": [
+          "oiu5sBAlonC599d8nbFd13ZaQXKGoWxs90sSVIMlKOk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "Kbgr9NwHf3NEmvZkCZmZseJ3BHTNiwQymsWxtC+rrJk=",
+        "manafa-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "manafa-0.2.1-py3-none-any.whl": [
+          "H95eq9ljO9+0MhnIJR32Lz1nsFPzVns51WYRMM0HUMg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "manik-notebookc": {
     "1.1.2": {
       "sdist": [
@@ -41788,6 +41826,18 @@
       "wheels": {
         "mypy_boto3_iotfleethub-1.17.3.0-py3-none-any.whl": [
           "TDhL/wpthPwmTNzt1wccNKFy4+cqt2K5CIIegxtq4qk=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.30.0": {
+      "sdist": [
+        "2FmZTgvtjOR3oytzRSttSu83PLtkNDmNnfkT3X+ApyQ=",
+        "mypy-boto3-iotfleethub-1.17.30.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iotfleethub-1.17.30.0-py3-none-any.whl": [
+          "qsiJ3h52x3Nlr7ftrefimaMbYc0KGy0UWZwqghaF/Ks=",
           "py3"
         ]
       }
@@ -48484,6 +48534,20 @@
       "wheels": {
         "pd_sql_loader-1.4.2-py3-none-any.whl": [
           "YU/53tbhZdDiSo+SnaZuHODqDzwQKodL7u5W7Az0RQM=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pdftowrite": {
+    "2021.3.16": {
+      "sdist": [
+        "avd5LW13g63CYlbKWtBjozskI83Ffl4o5lM0jF2XDj4=",
+        "pdftowrite-2021.3.16.tar.gz"
+      ],
+      "wheels": {
+        "pdftowrite-2021.3.16-py3-none-any.whl": [
+          "7TMLrcjzZFSgNaFLjE4T73qelA1tBh5fsxlCSTvR9sI=",
           "py3"
         ]
       }
@@ -61515,6 +61579,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "tH+6bvdYRWIY3GLzCt4OFkpO/iI3FlItPO8LAYGeoR8=",
+        "sandpyper-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "sandpyper-0.0.5-py2.py3-none-any.whl": [
+          "ApGVMkQBI1maguO/JbghyVXPimiL+Pia+EEnkwQJ5Dc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "sanic-session-2": {
@@ -72043,6 +72119,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.359": {
+      "sdist": [
+        "pxusPHNM0c3y76D2/6ZYMsWsKFaPMs3gwzfxyqFNmus=",
+        "tencentcloud-sdk-python-lp-3.0.359.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_lp-3.0.359-py2.py3-none-any.whl": [
+          "OiPn27pSJYEgdg3AA7xtwYNpaFsbucLD8hr3yd9uhWA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "test-bb78-distributions": {
@@ -79146,6 +79234,20 @@
       "wheels": {
         "wf_video_io-2.0.2-py3-none-any.whl": [
           "9TEKSgVh4As2/ASv3cuihgkgNHmgupcGRLYwncwLGV4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "wftetration": {
+    "0.0.0": {
+      "sdist": [
+        "EDemY+MsBMBcsEbp0fCMXRoAL1ElB0BvsXUPyyJis5U=",
+        "wftetration-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "wftetration-0.0.0-py3-none-any.whl": [
+          "l2QK07fXFWR8jZHu4dpKki8yIUyE+m6NXxoh59daeBM=",
           "py3"
         ]
       }
