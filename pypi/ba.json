@@ -20381,6 +20381,12 @@
         "1JvPOxH4gA+fr+W26kxjv0oa+kOXK0MSCYr56tV1icw=",
         "dune-fem-dg-2.8.0.dev20201218.tar.gz"
       ]
+    },
+    "2.8.0.dev20210318": {
+      "sdist": [
+        "2k4gvPkayytNE9QZStJn6p/65dnvnjzEjIE1yiROHSg=",
+        "dune-fem-dg-2.8.0.dev20210318.tar.gz"
+      ]
     }
   },
   "duniterpy": {
@@ -30279,6 +30285,24 @@
         "hamster_cli-0.12.0-py2.py3-none-any.whl": [
           "d8Coa1OJGnaL70XK+rEmK0bgSIdnYIDnkeKsvbDIWOk=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "hanbitco-api": {
+    "1.0.1": {
+      "wheels": {
+        "hanbitco_api-1.0.1-py3-none-any.whl": [
+          "HE3NduLjCGKz/Yqk+VZMNHQib1u10iRjzikZaap5YRs=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "wheels": {
+        "hanbitco_api-1.0.2-py3-none-any.whl": [
+          "NjzSBBKutRuLZ5XsqC1eXo7OEuGMu6ATr1pFBB3uiOU=",
+          "py3"
         ]
       }
     }
@@ -41084,22 +41108,10 @@
     }
   },
   "micropython-am7020": {
-    "1.0.0": {
+    "1.0.3": {
       "sdist": [
-        "ON53RxPuTrOpMwGHh5gg6agkYcne0tDeYjskpmA3TsE=",
-        "micropython-am7020-1.0.0.tar.gz"
-      ]
-    },
-    "1.0.1": {
-      "sdist": [
-        "XQJjrsck/etZHGGrfEWCuKzZiDLiJhi1/j0VBhl9iLo=",
-        "micropython-am7020-1.0.1.tar.gz"
-      ]
-    },
-    "1.0.2": {
-      "sdist": [
-        "bvMLWf1tbgO+/c5GuajtS5DmpF5gHznJgvxWU2/yxrw=",
-        "micropython-am7020-1.0.2.tar.gz"
+        "tFUY/uK29Sf9KwxtfreLCRHXG8CsbhGuhEmGVmy4xY8=",
+        "micropython-am7020-1.0.3.tar.gz"
       ]
     }
   },
@@ -75686,6 +75698,18 @@
         "pycoalescence-1.2.8.post4.tar.gz"
       ]
     },
+    "1.2.8.post5": {
+      "sdist": [
+        "gEsbhjgm2lSqoumfrS7SuKkN7URUeHuIiAv22iYDDBM=",
+        "pycoalescence-1.2.8.post5.tar.gz"
+      ]
+    },
+    "1.2.8.post6": {
+      "sdist": [
+        "0B5B94wpzxNUFc7QN8d88Wi/Eam41ra0PXYluKeUMK4=",
+        "pycoalescence-1.2.8.post6.tar.gz"
+      ]
+    },
     "1.2.8a1": {
       "sdist": [
         "0o7Kwb7J2WLCxFQcBD1882ljxkJkASWwQ2lYB3+7J4U=",
@@ -96204,6 +96228,42 @@
         ],
         "tf_nightly-2.5.0.dev20210317-cp39-cp39-manylinux2010_x86_64.whl": [
           "A+NsCMx9FRV282vVB6wjI7N1mGEQlVv82oXoXVB+w/k=",
+          "cp39"
+        ]
+      }
+    },
+    "2.5.0.dev20210318": {
+      "wheels": {
+        "tf_nightly-2.5.0.dev20210318-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "4sYXh5rzKxJKmpDqwogHz1FfhzPjGXQcZzCRaouqtuM=",
+          "cp36"
+        ],
+        "tf_nightly-2.5.0.dev20210318-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "azG44UTyVlBIzmEchb+TQ+sKgMxD8kByk9XGWRmZia8=",
+          "cp36"
+        ],
+        "tf_nightly-2.5.0.dev20210318-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "Rr0o6UA0tkCfQ/TI3zCiMfZGL6S8xwntY1CGIS8bs/o=",
+          "cp37"
+        ],
+        "tf_nightly-2.5.0.dev20210318-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "OIpWZ2KjtqK1tPs1jn+bDRPhnQDxJ6miO7mlzYpHkJ0=",
+          "cp37"
+        ],
+        "tf_nightly-2.5.0.dev20210318-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "bkmgPONAfr8C+8Viql+ZoW5Ig7exV3HZ2MWKlfIM6es=",
+          "cp38"
+        ],
+        "tf_nightly-2.5.0.dev20210318-cp38-cp38-manylinux2010_x86_64.whl": [
+          "0jDs8JWaLx8HUagZzTKoScrJTzsUrDEjUPh05mJeOHg=",
+          "cp38"
+        ],
+        "tf_nightly-2.5.0.dev20210318-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "D+Plpnwi3EVZNglnhhFDDE96MTQ2iPgteNmbOIi2Xmo=",
+          "cp39"
+        ],
+        "tf_nightly-2.5.0.dev20210318-cp39-cp39-manylinux2010_x86_64.whl": [
+          "sWfjp3C/WcewnbYbDkUVMhXIHUj48Vcb4PALc1eBhyA=",
           "cp39"
         ]
       }
