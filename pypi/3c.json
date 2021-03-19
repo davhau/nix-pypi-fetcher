@@ -8635,6 +8635,18 @@
           "py3"
         ]
       }
+    },
+    "1.91.0": {
+      "sdist": [
+        "CtkPAIPo+Rk6G7NyFGEdTgPMsoO/aztiQMFTUyBgSzU=",
+        "aws-solutions-constructs.aws-apigateway-lambda-1.91.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_apigateway_lambda-1.91.0-py3-none-any.whl": [
+          "rUEaVc18Xhrb0hoIcxozWxBGLuyxfthblWdrrc8wgDc=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-solutions-constructs.aws-dynamodb-stream-lambda-elasticsearch-kibana": {
@@ -9222,6 +9234,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_dynamodb_stream_lambda_elasticsearch_kibana-1.90.1-py3-none-any.whl": [
           "fhvN+kWdXu/S2iFwCizfyUpJJvKSZflQBTSu82kk444=",
+          "py3"
+        ]
+      }
+    },
+    "1.91.0": {
+      "sdist": [
+        "I90vmcYPXyf0bHyo5eKn5U6CUjoYVpT//Clg/d/xc9s=",
+        "aws-solutions-constructs.aws-dynamodb-stream-lambda-elasticsearch-kibana-1.91.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodb_stream_lambda_elasticsearch_kibana-1.91.0-py3-none-any.whl": [
+          "KRSc3otZ0nLLZAeTaj5gJcP4H1pnifVakjNzIEgn2rI=",
           "py3"
         ]
       }
@@ -12467,6 +12491,18 @@
           "py3"
         ]
       }
+    },
+    "1.7.5": {
+      "sdist": [
+        "/O/eQONhCL55nHKilll4+d8mCxwYMMxKZZzdGH7R6c8=",
+        "bronotes-1.7.5.tar.gz"
+      ],
+      "wheels": {
+        "bronotes-1.7.5-py3-none-any.whl": [
+          "5Jrdxqi7KN4nIq+rpfoF1yqASG08QsR1vlLIqyv3MeA=",
+          "py3"
+        ]
+      }
     }
   },
   "brookesia": {
@@ -13656,6 +13692,82 @@
         ],
         "cassandra_driver-3.24.0-cp38-cp38-win_amd64.whl": [
           "x2/5dt9ZddRETDMNUuoXMk5/M+NaY2a4qChuUQK6zdg=",
+          "cp38"
+        ]
+      }
+    },
+    "3.25.0": {
+      "sdist": [
+        "itfXwJDrHKxhELO/wf0tM0rGL0FarAk1DruNJBt6p+4=",
+        "cassandra-driver-3.25.0.tar.gz"
+      ],
+      "wheels": {
+        "cassandra_driver-3.25.0-cp35-cp35m-win32.whl": [
+          "433XX8LzIjsFuAqnLMiktkpelQqf+XA+vMILE0pv0Os=",
+          "cp35"
+        ],
+        "cassandra_driver-3.25.0-cp35-cp35m-win_amd64.whl": [
+          "HVC5K4j7yHRf6j6q8xu/7H/6kFKMOgiVHtbs0tZkLZM=",
+          "cp35"
+        ],
+        "cassandra_driver-3.25.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "fqTPRenp/n+c8z7UaY4FkogFY8ZC+i1hh5odZ4n9RfA=",
+          "cp36"
+        ],
+        "cassandra_driver-3.25.0-cp36-cp36m-manylinux1_i686.whl": [
+          "oRsaeub0DWf3JY8WLB3c4cbcPnSa1Mt/PNtrm72uWp4=",
+          "cp36"
+        ],
+        "cassandra_driver-3.25.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "wu/0rQKf4pe4lIf3xfKb05F4b9SkulEZcDDrmGzBj5w=",
+          "cp36"
+        ],
+        "cassandra_driver-3.25.0-cp36-cp36m-win32.whl": [
+          "z7j3kmjljpVp9BRXtnB1et1qgLYyWoSKalmhA58xAiw=",
+          "cp36"
+        ],
+        "cassandra_driver-3.25.0-cp36-cp36m-win_amd64.whl": [
+          "+AEBr+cR9WSMJnpGV99vWx13oxfJhXV6VWie10HJcuY=",
+          "cp36"
+        ],
+        "cassandra_driver-3.25.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "loKaeluSVeatHu8cJVhZmjsoIzDL7TdVw0l2J1ZCUpQ=",
+          "cp37"
+        ],
+        "cassandra_driver-3.25.0-cp37-cp37m-manylinux1_i686.whl": [
+          "MWbTPYxjmRw0ntCaLvMSQqbrSLWI/BRPFqNQ4bEzXyk=",
+          "cp37"
+        ],
+        "cassandra_driver-3.25.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "kgLaIY8fa8Xbw+gHnp2fiCE6yiszl5CKaFD7MXnuhrQ=",
+          "cp37"
+        ],
+        "cassandra_driver-3.25.0-cp37-cp37m-win32.whl": [
+          "QueHDZ93Cvlwfrt5DfH3KaBbXdncGGXr6E0iXRO2SX4=",
+          "cp37"
+        ],
+        "cassandra_driver-3.25.0-cp37-cp37m-win_amd64.whl": [
+          "zkUt6O0EQPdZefKpBLTGkYHkItCLb9VaK3B4F9MR88E=",
+          "cp37"
+        ],
+        "cassandra_driver-3.25.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "ZvNHtvDSCMiURZ6DiROLLrB6e8Nrjcfuo7jsYsqJ03k=",
+          "cp38"
+        ],
+        "cassandra_driver-3.25.0-cp38-cp38-manylinux1_i686.whl": [
+          "lMEgYLMTyKPub2znKTw+mfEAaIwgT4ycl4d8rzYochM=",
+          "cp38"
+        ],
+        "cassandra_driver-3.25.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "8+gCNdOUnq3Sc/D8NspLnn7WVwBzNvYrLn4QMh4yK/s=",
+          "cp38"
+        ],
+        "cassandra_driver-3.25.0-cp38-cp38-win32.whl": [
+          "zIQxlzI1eDqRDo44ZL3SgVGUkU6TfOZAjWbXocB+7ng=",
+          "cp38"
+        ],
+        "cassandra_driver-3.25.0-cp38-cp38-win_amd64.whl": [
+          "Mofx4fSuplQyIdQYOJ4HCK1EZQ5+LbcNqnvqtwF0eoI=",
           "cp38"
         ]
       }
@@ -24611,6 +24723,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0": {
+      "sdist": [
+        "nDjF5svayZU7zp+PEWM8eMyeqmjlHjHV0MatZerysts=",
+        "effmass-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "effmass-2.1.0-py3-none-any.whl": [
+          "p4Ugp6bCvQilkykZk5MhoZAGnQ2fTuee8U6dlu/9x+o=",
+          "py3"
+        ]
+      }
     }
   },
   "ehour": {
@@ -25302,6 +25426,18 @@
       "wheels": {
         "eve_viz-0.0b11-py3-none-any.whl": [
           "IwZa+nalKwjfOo7NPv1K02fkiLDJLbSoKAAyyN5ZdLs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0b12": {
+      "sdist": [
+        "JbQSGw1lW7YQ2QcWBDnoXNT1t9XuLhfEDictBjLT4Es=",
+        "eve-viz-0.0b12.tar.gz"
+      ],
+      "wheels": {
+        "eve_viz-0.0b12-py3-none-any.whl": [
+          "SOv7edW7I/qHiGhCo41Hlsd4R//KbnUY+MoP4DUaZQA=",
           "py3"
         ]
       }
@@ -51552,6 +51688,18 @@
         ]
       }
     },
+    "1.17.31.0": {
+      "sdist": [
+        "PfBiaLlCo/VM5aJzjVBNzdSTyRZLnSUOw3206NQ9YtQ=",
+        "mypy-boto3-emr-1.17.31.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_emr-1.17.31.0-py3-none-any.whl": [
+          "sc2uJY2jSZfieWjq0S2U+tRfKP3i1ucgdGzSJ5fNnGQ=",
+          "py3"
+        ]
+      }
+    },
     "1.17.4.0": {
       "sdist": [
         "IQhdSELNO2O6QTs9W6WfrK68pRbCPOKh1QUj1Fp+DXU=",
@@ -66562,6 +66710,22 @@
         ],
         "pyswEOS-0.1.1-py3-none-win_amd64.whl": [
           "pq9y8t+HF/Wbr9iulHdsLbcbpKMJBNJ8LFKOMrxbG3w=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "pyswEOS-0.1.2-py3-none-macosx_10_9_x86_64.whl": [
+          "qw42xi67sD3BRIcAznxMMDSqNFn69/Qb1mzNdijLKy8=",
+          "py3"
+        ],
+        "pyswEOS-0.1.2-py3-none-manylinux2010_x86_64.whl": [
+          "CkSPCB1Z7g/EaReEmRJ4z29mQ9evJ6tZjLet3j5vvO4=",
+          "py3"
+        ],
+        "pyswEOS-0.1.2-py3-none-win_amd64.whl": [
+          "EdvtcfFyofNkpagsiVIQX6yW3YutNfY/iz99dU71JxA=",
           "py3"
         ]
       }
