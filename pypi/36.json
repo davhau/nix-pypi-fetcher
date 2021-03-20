@@ -3249,6 +3249,30 @@
           "py3"
         ]
       }
+    },
+    "1.92.0": {
+      "sdist": [
+        "ipAJyk7TT6m5vIuPQV+2+7zvVB66vzaQQ88phkh3iYA=",
+        "aws-solutions-constructs.aws-sns-lambda-1.92.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_sns_lambda-1.92.0-py3-none-any.whl": [
+          "Lq+q7UMMWohInjD/sDEd21NPXiasmMMcvNGmU3hKF3s=",
+          "py3"
+        ]
+      }
+    },
+    "1.93.0": {
+      "sdist": [
+        "xkSqJNyKRZ8e/g8YyVG4pzeEPclAQmkKAzK7o8VwVp8=",
+        "aws-solutions-constructs.aws-sns-lambda-1.93.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_sns_lambda-1.93.0-py3-none-any.whl": [
+          "SBxd2aZymXAyuFRWASjfYj1Gm+YcVqqBobk5qE7L6q8=",
+          "py3"
+        ]
+      }
     }
   },
   "azdummy": {
@@ -40486,6 +40510,18 @@
         ]
       }
     },
+    "1.17.33.0": {
+      "sdist": [
+        "WDvFkL/t7/afyO39KqsQwRLyWNIuVfuGkwDnrUlf1xI=",
+        "mypy-boto3-dax-1.17.33.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_dax-1.17.33.0-py3-none-any.whl": [
+          "BG04PseyjixTtjnw+1Flvc7+DKqM7a4xnkJpdkq2Y00=",
+          "py3"
+        ]
+      }
+    },
     "1.17.4.0": {
       "sdist": [
         "EXnUrNfN8hDpnRfQc7na2oYrI5xSb1o4EklMGHa3Q78=",
@@ -44040,6 +44076,18 @@
         ]
       }
     },
+    "1.17.33.0": {
+      "sdist": [
+        "kaQqDpjyy8j31wnrRN9j/KjxdSWphcoOq8K8/hpNTDw=",
+        "mypy-boto3-qldb-session-1.17.33.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_qldb_session-1.17.33.0-py3-none-any.whl": [
+          "uBbcC3KERK6AZBx7rvl0p21vHusqBRC65R2uTDelueM=",
+          "py3"
+        ]
+      }
+    },
     "1.17.4.0": {
       "sdist": [
         "XwRD3WNCVxabT87FdfVfkXJsB8U5NKri33mOUst4VmU=",
@@ -47586,6 +47634,18 @@
       "wheels": {
         "mypy_boto3_workspaces-1.17.32.0-py3-none-any.whl": [
           "rTM2zbzByRUMSgwFJnmFcjkQcejcIZvuWztfLG4213w=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.33.0": {
+      "sdist": [
+        "gdDD5lsipcTXXzzWfRGuSBGadhPyUB3EuWbnPZ6M43Y=",
+        "mypy-boto3-workspaces-1.17.33.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_workspaces-1.17.33.0-py3-none-any.whl": [
+          "VG75tD+Xe/mKosiN8dOBW8EbmFb/EFPeMfIWnwpZ6Po=",
           "py3"
         ]
       }
@@ -62068,6 +62128,50 @@
         ],
         "python_flirt-0.5.5-cp39-none-win_amd64.whl": [
           "pE71xHLbufkzAwn1B7/BYTFfebewGEgd7+PACjswFuI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.5.6": {
+      "wheels": {
+        "python_flirt-0.5.6-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "yhFaHGgJTkP5AvT8ESKxK0zebrpJAn9ghWGYaqU89zM=",
+          "cp36"
+        ],
+        "python_flirt-0.5.6-cp36-none-win_amd64.whl": [
+          "jKqaJYEQsrCkJ5cKT/EZ2DuBhvBdpyycmLxPN5yU50k=",
+          "cp36"
+        ],
+        "python_flirt-0.5.6-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "ZL9RFYr62fR8aXfMKXJBq83ptE02shWd0cIlC0RSbw4=",
+          "cp37"
+        ],
+        "python_flirt-0.5.6-cp37-none-win_amd64.whl": [
+          "d3BHBFZqYIlvW5cncza1mAOKoB0kNhUsGRBThY1Yy8s=",
+          "cp37"
+        ],
+        "python_flirt-0.5.6-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "dScY1hd9lwTvMDnx0SxJNHTrdJqY2Keqt97MVE6Dl5E=",
+          "cp38"
+        ],
+        "python_flirt-0.5.6-cp38-cp38-manylinux2010_x86_64.whl": [
+          "Ht2THZWNlPTMVpQxT+K857lv6crZAXufrqEQmGC9AEs=",
+          "cp38"
+        ],
+        "python_flirt-0.5.6-cp38-none-win_amd64.whl": [
+          "YcPG1Wpu51aA57yiktAnfynSA9ROYDZXzoe9FTqzjXA=",
+          "cp38"
+        ],
+        "python_flirt-0.5.6-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "KNAKqlO2FaQzefkM4uuMCvD+dw7WKUUyZBiPMWW0rLk=",
+          "cp39"
+        ],
+        "python_flirt-0.5.6-cp39-cp39-manylinux2010_x86_64.whl": [
+          "MEI4GzkEiL/JF1tqdzXYMAdzT5W9CXIA6Mjfh5TUN54=",
+          "cp39"
+        ],
+        "python_flirt-0.5.6-cp39-none-win_amd64.whl": [
+          "XI8anb4IJt3ITUpy1/+JFB42r2OAwmW9ADPd+2dfW18=",
           "cp39"
         ]
       }
