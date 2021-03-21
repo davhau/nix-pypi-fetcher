@@ -13141,20 +13141,6 @@
       }
     }
   },
-  "core2pkgs": {
-    "19.11.11.0": {
-      "sdist": [
-        "WE4G1gLBVqsV+BRIsfXt7dJ0S2qxMHLvMdgFGV+7OLg=",
-        "core2pkgs-19.11.11.0.tar.gz"
-      ],
-      "wheels": {
-        "core2pkgs-19.11.11.0-py3-none-any.whl": [
-          "8QtilDSMSHgKPIFdAgeS9qnVbrkbLimCwpVvhOw3FY4=",
-          "py3"
-        ]
-      }
-    }
-  },
   "cpytraceafl-regex": {
     "0.1.1": {
       "sdist": [
@@ -24228,6 +24214,18 @@
       "wheels": {
         "fastpip-0.10.0-py3-none-any.whl": [
           "LQY4q4AJcDbVS3MB230fmsTSCZ3tQw0rfqc8oSUEcic=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.1": {
+      "sdist": [
+        "JcbfVgwL86IvUvWJohrkG7eCKm41xnqWvrT7DQI8+n4=",
+        "fastpip-0.10.1.tar.gz"
+      ],
+      "wheels": {
+        "fastpip-0.10.1-py3-none-any.whl": [
+          "S17L52+lb44vPbT+40ypH3v8XCOBO/v3iAlSTHZ1TJo=",
           "py3"
         ]
       }
@@ -43364,6 +43362,14 @@
       "wheels": {
         "odoo13_addon_l10n_ro_partner_statement-13.0.1.0.1.dev5-py3-none-any.whl": [
           "/SUVFTG4zCFljOz4F6O8H0bMXKWkjvpp2gMkibzfagg=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.0.1.dev7": {
+      "wheels": {
+        "odoo13_addon_l10n_ro_partner_statement-13.0.1.0.1.dev7-py3-none-any.whl": [
+          "wYkpPQyOfKafOrEVNZamUNGJgqpEcDhldK5eiOcQbDU=",
           "py3"
         ]
       }
@@ -63681,44 +63687,6 @@
       }
     }
   },
-  "simple-serializer-nikita-koznev": {
-    "1.0.4": {
-      "sdist": [
-        "OjmIjLV7HiBQivLi6Z8yQjXqxQcqH8hFcMFE+WDX9Ys=",
-        "simple-serializer-NIKITA-KOZNEV-1.0.4.tar.gz"
-      ],
-      "wheels": {
-        "simple_serializer_NIKITA_KOZNEV-1.0.4-py3-none-any.whl": [
-          "yZd8F6ZSNruVd9Mgx9ptFpoyJOmdf2o5GkH7KWwXCFQ=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.5": {
-      "sdist": [
-        "Yz5j0TwuPHsIopKEP9l84bqy18lTVf//BG9pyyWPp74=",
-        "simple-serializer-NIKITA-KOZNEV-1.0.5.tar.gz"
-      ],
-      "wheels": {
-        "simple_serializer_NIKITA_KOZNEV-1.0.5-py3-none-any.whl": [
-          "kBj3WdkgPiyVD26NsHhjTuZT7BvuEBRoTGZaYa+jG+4=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.6": {
-      "sdist": [
-        "JQUdcyiVr9wPEVrYfhrYCyr++WxIkItRNe/QInXPZhk=",
-        "simple-serializer-NIKITA-KOZNEV-1.0.6.tar.gz"
-      ],
-      "wheels": {
-        "simple_serializer_NIKITA_KOZNEV-1.0.6-py3-none-any.whl": [
-          "2fL843g8Ag39i2RvOeiJ8a/LABagQITBaX+ImZ28koA=",
-          "py3"
-        ]
-      }
-    }
-  },
   "simplefc": {
     "1.0.0": {
       "sdist": [
@@ -68017,6 +67985,10 @@
       }
     },
     "0.7.0.post3": {
+      "sdist": [
+        "UXWo+2dvUAJwpUZIxxo5AUuRsGCAbFl2+lF4cysGkX4=",
+        "symengine-0.7.0.post3.tar.gz"
+      ],
       "wheels": {
         "symengine-0.7.0.post3-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "P2c3Wf99/5Lj3p8lzo9TJgapbBdgq5NEAi3JtkB74SA=",
@@ -68085,6 +68057,42 @@
         "symengine-0.7.0.post3-cp39-cp39-macosx_10_9_x86_64.whl": [
           "kGPoZyR33RN6zNn12N3eeSbqQctS5VHbCvCGQmOpS/U=",
           "cp39"
+        ],
+        "symengine-0.7.0.post3-cp39-cp39-macosx_11_0_arm64.whl": [
+          "HfeaHS/lAd8v1vJd8jcHZtkxg8aoNzETgQJAFj1oBEg=",
+          "cp39"
+        ],
+        "symengine-0.7.0.post3-cp39-cp39-manylinux2010_x86_64.whl": [
+          "mv8j6ipvkLaENtaa5UNPNEefBZyr9GBBhn4dHtH/fN8=",
+          "cp39"
+        ],
+        "symengine-0.7.0.post3-cp39-cp39-manylinux2014_aarch64.whl": [
+          "7GlclCjSQ+CKoFJOfb7r83gHz32XzS2HlPN4IRL6huA=",
+          "cp39"
+        ],
+        "symengine-0.7.0.post3-cp39-cp39-manylinux2014_ppc64le.whl": [
+          "yQiMZbFHLj8sdaCjBnLSNkCun4hhvDSDnjbw03UmJbI=",
+          "cp39"
+        ],
+        "symengine-0.7.0.post3-cp39-cp39-win_amd64.whl": [
+          "T8PQBYyt5nFTYYHFyEOwC27c+NY10KM7iApj9Cjx2t8=",
+          "cp39"
+        ],
+        "symengine-0.7.0.post3-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "n15qzkNSqjnx3O8iFNm5cIhFPIJxadZrfrSMkjZtYQg=",
+          "pp36"
+        ],
+        "symengine-0.7.0.post3-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "l1T/bioifj3ClYlVMSf5E7EyYaXM1XHhK6lIaSh0yrs=",
+          "pp36"
+        ],
+        "symengine-0.7.0.post3-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "oUWYLGDTDPPY2uGES97nfFQFrSEingmIbSMdwxA34Zg=",
+          "pp37"
+        ],
+        "symengine-0.7.0.post3-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "gEtA02T7O8ydmNB7Icmp2uHAIQ7vJgzJKDinKzYWMqM=",
+          "pp37"
         ]
       }
     }
