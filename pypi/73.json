@@ -446,16 +446,10 @@
     }
   },
   "agileutil": {
-    "0.0.1": {
+    "0.0.3": {
       "sdist": [
-        "5lo9nlwj7SsvUd1b5hYmJq7Id8e3ihUi0wM4HiSJOEY=",
-        "agileutil-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "8VzyHbTmt7VA8Lexy9EymT+neNH2tx/zzio8HWTx/B0=",
-        "agileutil-0.0.2.tar.gz"
+        "0KOm64uJs6XpgMwj2bsYyfXt7R89SS7Or3CzuKXJEdo=",
+        "agileutil-0.0.3.tar.gz"
       ]
     }
   },
@@ -19534,6 +19528,18 @@
         ]
       }
     },
+    "0.2.16": {
+      "sdist": [
+        "Mul38gnqTGOmp+01fOAWYxI39bS79n2lKwxCxjpf/o4=",
+        "coopstarter_data-0.2.16.tar.gz"
+      ],
+      "wheels": {
+        "coopstarter_data-0.2.16-py3-none-any.whl": [
+          "qTQZawpDfIx7b3wUJxe9pIOCuLCyVnO1vyc3jHCwQ2Y=",
+          "py3"
+        ]
+      }
+    },
     "0.2.2": {
       "sdist": [
         "LsbAxpJ/aonWoLRSAzQUjnOKmNhzrWB4lAL9j7Ox5+8=",
@@ -20318,17 +20324,37 @@
   "cupy-cuda112": {
     "8.5.0": {
       "wheels": {
+        "cupy_cuda112-8.5.0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "oF6zuqpMQxRJ8sBngQXfkfHdNjNVjv5DwoGGRMGdGl4=",
+          "cp35"
+        ],
+        "cupy_cuda112-8.5.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "3Nc2qECT2gJ2HudvCfe9k3Lkmfq7TZKgWoU8LAG6V00=",
+          "cp36"
+        ],
         "cupy_cuda112-8.5.0-cp36-cp36m-win_amd64.whl": [
           "Dv8J5bOrDTMq6lk7sH/YC7fa1+C4uyvNXOjchrK5xnw=",
           "cp36"
+        ],
+        "cupy_cuda112-8.5.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "NvEEx8Q9/lmtmIwnI2uxT+Vrea7RsgcbqAk+EUzNJqg=",
+          "cp37"
         ],
         "cupy_cuda112-8.5.0-cp37-cp37m-win_amd64.whl": [
           "BFKWZfr52Qvw5iv+aczC79AWwoL7JUBRyfMl41hM3V4=",
           "cp37"
         ],
+        "cupy_cuda112-8.5.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "pHOzk5l9F5PcU8Z87ccAZ3n5Cyyxjwi2FLP7SnUJSXM=",
+          "cp38"
+        ],
         "cupy_cuda112-8.5.0-cp38-cp38-win_amd64.whl": [
           "TOFEIrJnF/PVww72YSOXNtjgHC3CdmNg0BwYBN9SqVU=",
           "cp38"
+        ],
+        "cupy_cuda112-8.5.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "Tl8Va1ANinpzcD7D5JewTDyYWbrAVqK73qO3F3AsVrk=",
+          "cp39"
         ],
         "cupy_cuda112-8.5.0-cp39-cp39-win_amd64.whl": [
           "9shm+xbegFtxdXjRsFVn5aLICrF20H/kpT70/nfGP90=",
@@ -20338,17 +20364,33 @@
     },
     "9.0.0b3": {
       "wheels": {
+        "cupy_cuda112-9.0.0b3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "Kb9qw/PuQRXwgSukXpefM2C60fvLcnc0JI8cac3Ygto=",
+          "cp36"
+        ],
         "cupy_cuda112-9.0.0b3-cp36-cp36m-win_amd64.whl": [
           "5x7YWv4f3YBSbe1krV9gX9ZwWjAljjRNDWmtSQ+USyI=",
           "cp36"
+        ],
+        "cupy_cuda112-9.0.0b3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "ShmyCrD++uc4ohckrR+lXfvQam46DHM1IFDokTSMQ4w=",
+          "cp37"
         ],
         "cupy_cuda112-9.0.0b3-cp37-cp37m-win_amd64.whl": [
           "Hu+qyQiZP/i3lTNJFUyvrnH82BAL7mr+nMU4ZhIR4PA=",
           "cp37"
         ],
+        "cupy_cuda112-9.0.0b3-cp38-cp38-manylinux1_x86_64.whl": [
+          "aRjlvZq5njvq/hYOF7p4BEdrIGSbsVGLGaQGaUQl3kM=",
+          "cp38"
+        ],
         "cupy_cuda112-9.0.0b3-cp38-cp38-win_amd64.whl": [
           "R/DTft4aQJTVvNNzFvJN9UbMiqPrbvtoXh3rKXbpVcg=",
           "cp38"
+        ],
+        "cupy_cuda112-9.0.0b3-cp39-cp39-manylinux1_x86_64.whl": [
+          "RKBj3+1MZxiQryxkTqZgZOk+XviY7MS+if4amWZZNLE=",
+          "cp39"
         ],
         "cupy_cuda112-9.0.0b3-cp39-cp39-win_amd64.whl": [
           "FyXgTqhh175orI/BZzSmQAKaJhRTtDekQ9N0g2TDFe0=",
@@ -64695,6 +64737,14 @@
           "py3"
         ]
       }
+    },
+    "13.0.2.1.1.dev1": {
+      "wheels": {
+        "odoo13_addon_shopinvader_sale_packaging_wishlist-13.0.2.1.1.dev1-py3-none-any.whl": [
+          "g3td4QOvk7Fa9C2Fhjq5tVn5zTVLWwX4tCdWHz//lXw=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addons-oca-account-reconcile": {
@@ -88120,6 +88170,18 @@
     }
   },
   "sugarplot": {
+    "0.1.10": {
+      "sdist": [
+        "WVjW9sLa0NysE3WzvfpbEgaNfy6Whdb1klqMei0iWr0=",
+        "sugarplot-0.1.10.tar.gz"
+      ],
+      "wheels": {
+        "sugarplot-0.1.10-py3-none-any.whl": [
+          "2c7m6kmoUVkptL8kaRo9tl11DSF7dANytWuCjHS7gkQ=",
+          "py3"
+        ]
+      }
+    },
     "0.1.3": {
       "sdist": [
         "zi51tHBobWfIKYu+xVwMgqrNunTCDbpPSxiCyci+09w=",
@@ -90542,6 +90604,18 @@
       "wheels": {
         "tentaclio-0.0.14-py2.py3-none-any.whl": [
           "qSQzXHjpfm9lTtcX6XtyQzPa/OOsz1p7Y00PBKuM2D4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.15": {
+      "sdist": [
+        "r+//XfFvL3HXH9uVHbSTRS641nw4ayRE6P7t0VRMSk8=",
+        "tentaclio-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "tentaclio-0.0.15-py2.py3-none-any.whl": [
+          "o3f042nZRjBNiI613/0QJ+J1UUtGG1LnJHHJThGRqh0=",
           "py2.py3"
         ]
       }
