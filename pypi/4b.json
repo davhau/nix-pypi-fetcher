@@ -6917,82 +6917,6 @@
       ]
     }
   },
-  "basiclibrary": {
-    "1.0": {
-      "wheels": {
-        "BasicLibrary-1.0-py3-none-any.whl": [
-          "XE9NDjtHupCjdHEPuX3La1vfUEmAqg3Ut1aah/I242A=",
-          "py3"
-        ]
-      }
-    },
-    "1.1": {
-      "sdist": [
-        "i0Ew1yrMyZrR+x8Uy47n6P+IB/x908UKiDhaPQOeXQA=",
-        "BasicLibrary-1.1.tar.gz"
-      ]
-    },
-    "1.2.0": {
-      "sdist": [
-        "nFapK5G3pIwMmn/yuUXM+92NbNO7BoxisYcnKqPgYmA=",
-        "BasicLibrary-1.2.0.tar.gz"
-      ],
-      "wheels": {
-        "BasicLibrary-1.2.0-py3-none-any.whl": [
-          "1ZseVBT+VDMAPcyuR012U6YZ4AboV5PhpVQ17IEZxCc=",
-          "py3"
-        ]
-      }
-    },
-    "1.2.1": {
-      "sdist": [
-        "DO5nP0VQ0nE4QZY0LkWRm/93K+BTK578iAvQ17rPIcA=",
-        "BasicLibrary-1.2.1.tar.gz"
-      ],
-      "wheels": {
-        "BasicLibrary-1.2.1-py3-none-any.whl": [
-          "wc9ApUoPTg9sgW0RBb/XJnEM7/fHWFDz+dAoGEzTeRo=",
-          "py3"
-        ]
-      }
-    },
-    "1.2.2": {
-      "sdist": [
-        "xL+4kawSJ/hbYj9GjxZSyLf/3XH+XZRQVWNx9emnUrE=",
-        "BasicLibrary-1.2.2.tar.gz"
-      ],
-      "wheels": {
-        "BasicLibrary-1.2.2-py3-none-any.whl": [
-          "78MvVQANo2mq84P6dSSKSIEqQ6sGyHlcTwoyQX2lbLg=",
-          "py3"
-        ]
-      }
-    },
-    "1.2.4": {
-      "sdist": [
-        "RYDDQg80jVTtW5i+624LrypscxifRZ2sNLAXce6Zr+w=",
-        "BasicLibrary-1.2.4.tar.gz"
-      ],
-      "wheels": {
-        "BasicLibrary-1.2.4-py3-none-any.whl": [
-          "+8yk8XvWLD1aWZ47FpGWj5YrlQ8g7RIQiEiMc6x4gLE=",
-          "py3"
-        ]
-      }
-    },
-    "1.2.5": {
-      "sdist": [
-        "4KrlyGhNctD2sN4pkUMjW/QxDa4rEZe/RxXwKfky9RI=",
-        "BasicLibrary-1.2.5.tar.gz"
-      ],
-      "wheels": {
-        "BasicLibrary-1.2.5-py3-none-any.whl": [
-          "8Bz15pqLrIhwvJ9saRG1bXRIj+RYOOnzFRhMl400MRw=",
-          "py3"
-        ]
-      }
-    }
-  },
   "batch": {
     "0.1": {
       "sdist": [
@@ -51113,6 +51037,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "KXK8clQX3SbD1cOS3COPZPg/h1ILiF9bd1RwiDX85fI=",
+        "jupyterlab-tabular-data-editor-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_tabular_data_editor-1.0.0-py3-none-any.whl": [
+          "YIOmvcBtu/9jtxP2GEgmTvbsqnlstENR/ZcpqHVlzWU=",
+          "py3"
+        ]
+      }
     }
   },
   "jupyternb-task-review": {
@@ -62950,6 +62886,18 @@
       "wheels": {
         "mypy_boto3_datapipeline-1.17.35.0-py3-none-any.whl": [
           "7ZPHNbxHsPK83OhhcfXTcFbGPYuL7IxmD6Dag95zQRY=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.36.0": {
+      "sdist": [
+        "wUQKeLcKn67fm/CFeMkvnHZm+AoreMW7ec/IgGsy51w=",
+        "mypy-boto3-datapipeline-1.17.36.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_datapipeline-1.17.36.0-py3-none-any.whl": [
+          "UWwkM3duisH73Mpu9jDKO3F8JqpWrI/BOuINLoORNdM=",
           "py3"
         ]
       }
@@ -97244,6 +97192,14 @@
         ]
       }
     },
+    "3.3.8": {
+      "wheels": {
+        "stix_shifter_modules_msatp-3.3.8-py2.py3-none-any.whl": [
+          "iHrMlRNMKI08qSThKvBMptHo90ME98C4FEhHWKM68Yc=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.3.dev465": {
       "wheels": {
         "stix_shifter_modules_msatp-3.3.dev465-py2.py3-none-any.whl": [
@@ -101120,6 +101076,12 @@
       "sdist": [
         "yaT5zboQVJvh32i7d/zXV2Y487so4WSDg+Xuo7KasMI=",
         "torchneuromorphic-0.3.3.tar.gz"
+      ]
+    },
+    "0.3.4": {
+      "sdist": [
+        "iOWicHHOo5PD7Nx/dbBgsThBQxJs1D2/IBZN3siH4YU=",
+        "torchneuromorphic-0.3.4.tar.gz"
       ]
     }
   },

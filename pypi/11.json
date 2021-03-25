@@ -10994,6 +10994,14 @@
         ]
       }
     },
+    "1.25.0": {
+      "wheels": {
+        "azureml_mlflow-1.25.0-py3-none-any.whl": [
+          "IKRf1gwLzd5Z0cwHW7a4rMASq6WAjyoTFcBJPSpL5yA=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0": {
       "wheels": {
         "azureml_mlflow-1.3.0-py3-none-any.whl": [
@@ -29259,14 +29267,6 @@
       ]
     }
   },
-  "django-materialweb": {
-    "1.0": {
-      "sdist": [
-        "+Itm4uvMfrE+gEx5p2VVsGBXwx/9bN5ZjdyyRFQaU2c=",
-        "django-materialweb-1.0.tar.gz"
-      ]
-    }
-  },
   "django-mimemail": {
     "0.1": {
       "sdist": [
@@ -31136,6 +31136,14 @@
       "wheels": {
         "doblib-0.3-py3-none-any.whl": [
           "osAopdyaaFPzo1rKvkjk7IsWLnMh1/4DUavDnzHo/oI=",
+          "py3"
+        ]
+      }
+    },
+    "0.4": {
+      "wheels": {
+        "doblib-0.4-py3-none-any.whl": [
+          "zg7PVAqakIjeCpQSfb9ysKe4/iQhDE0F5606QxjgwJQ=",
           "py3"
         ]
       }
@@ -34368,6 +34376,18 @@
       "wheels": {
         "fastf1-2.1.3-py3-none-any.whl": [
           "3TXIh4Q2HUYPZ7UxOcAQC0ur7FKkX+Kzsjv6XRy2hOY=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.4": {
+      "sdist": [
+        "qiTx+QcztpoU/xSNp1tQqQSoLfvm1VXrduB2oCxd5Ys=",
+        "fastf1-2.1.4.tar.gz"
+      ],
+      "wheels": {
+        "fastf1-2.1.4-py3-none-any.whl": [
+          "hC0E9sKGChPUzLOx79dbY3RWvggrHYSPa3lWy+msuhU=",
           "py3"
         ]
       }
@@ -40809,6 +40829,12 @@
         "fsx7ehGMTYfOIteIjgvz4YL4swm1pdgLNI/IlUpK0jk=",
         "gofish-1.3.3.tar.gz"
       ]
+    },
+    "1.3.4": {
+      "sdist": [
+        "3LFvC1py7dLEqfoR+rAU70c6S6A3XVRiKLX2c8a36aw=",
+        "gofish-1.3.4.tar.gz"
+      ]
     }
   },
   "gopen": {
@@ -44038,6 +44064,62 @@
         ],
         "hyperjet-1.2.0-cp39-cp39-win_amd64.whl": [
           "KqrsmpE2ndrWqTsoSTc5kNP5m9P+CNhQooZjZA0wBbI=",
+          "cp39"
+        ]
+      }
+    },
+    "1.3.0": {
+      "sdist": [
+        "kgevNO9GGHWmkAO7hPMLJARB0dyTzDhDd3pSW6qdF/8=",
+        "hyperjet-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "hyperjet-1.3.0-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "I+sjozzPz5HniCbYaE47vQOfKRxJlnl/N5F54J/kivY=",
+          "cp36"
+        ],
+        "hyperjet-1.3.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "jArewdDWJ/DTH65fjKCqaRn1WgqCJKRs1Dkgx/EFZmE=",
+          "cp36"
+        ],
+        "hyperjet-1.3.0-cp36-cp36m-win_amd64.whl": [
+          "fKlUy5zcu9KIpF2y+vze4KIPQPiWzVDjYUndGHzz6bA=",
+          "cp36"
+        ],
+        "hyperjet-1.3.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "tIDnL7nbBlwib60G0LfJN79Aj2QSMw8AMEjdvcCsgck=",
+          "cp37"
+        ],
+        "hyperjet-1.3.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "fx2EMVJVez61vNKb97It9bYuw+ZePr5kMDneykDOloc=",
+          "cp37"
+        ],
+        "hyperjet-1.3.0-cp37-cp37m-win_amd64.whl": [
+          "phBOfft89QhN2Os+D148tXp+5A8mmUnhRrwt3qZIraM=",
+          "cp37"
+        ],
+        "hyperjet-1.3.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "u2hffFH33qQ5tOoF4ZDQDUnmDg8EjEVmQTeCz9ez9ZI=",
+          "cp38"
+        ],
+        "hyperjet-1.3.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "f1mC1n54oBHv5xWKsG12B3lYkwJIfbxSz01CPKpdKs8=",
+          "cp38"
+        ],
+        "hyperjet-1.3.0-cp38-cp38-win_amd64.whl": [
+          "JKH/OBL3F2C1m0QrwrvfAzzNRjqa6Pq218IOtN8fcXQ=",
+          "cp38"
+        ],
+        "hyperjet-1.3.0-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "GNFstDmxIpDaIMQA0w5waNc2eWXkzijE6QpxVdqYyJA=",
+          "cp39"
+        ],
+        "hyperjet-1.3.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "QXtmBcr89xdDthuLf0oB5GOaLX6jt9trAgOg4s3wzq0=",
+          "cp39"
+        ],
+        "hyperjet-1.3.0-cp39-cp39-win_amd64.whl": [
+          "Omh71F8QI0d+4qCqhCRH9Njfh+642wKb63J5P/KROyk=",
           "cp39"
         ]
       }
@@ -56718,6 +56800,18 @@
         ]
       }
     },
+    "1.17.36.0": {
+      "sdist": [
+        "B/DEubfkO/U0j/woKfYKHKpTuwm98i0/ecQFLoS0GJE=",
+        "mypy-boto3-honeycode-1.17.36.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_honeycode-1.17.36.0-py3-none-any.whl": [
+          "VkmUDZ/vR0QqYhycrvpn1zD+EzOSXA/FVvv9aZ76OmY=",
+          "py3"
+        ]
+      }
+    },
     "1.17.4.0": {
       "sdist": [
         "VpIZXTjp+M9oDKafmbHOwYcgR7oPKwjN/UiBz5Hr/q8=",
@@ -60300,6 +60394,18 @@
       "wheels": {
         "mypy_boto3_iotevents_data-1.17.35.0-py3-none-any.whl": [
           "U7uffOK6eFiAMpJnQDKPFEDzUXdGrauU3GggU5erUTI=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.36.0": {
+      "sdist": [
+        "giEm/O9+0hW1ErriKT+SfhK3Nw3RMImBMiFBNNs1NWc=",
+        "mypy-boto3-iotevents-data-1.17.36.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iotevents_data-1.17.36.0-py3-none-any.whl": [
+          "tYAa0y4JtcSS1vyasEkhohLLRVqJkVdzaYf5vO4jpUk=",
           "py3"
         ]
       }
@@ -78649,6 +78755,22 @@
           "py3"
         ]
       }
+    },
+    "0.0.13": {
+      "wheels": {
+        "RockyRoad-0.0.13-py3-none-any.whl": [
+          "13M4yD7cKuk8x7C6uLN/gelj3+9dhW8bYL1TOZgVytw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.14": {
+      "wheels": {
+        "RockyRoad-0.0.14-py3-none-any.whl": [
+          "XfVFyw7pXU+BD2gEBQ3cvFlnF7K7XOxFk4a8YnjOfVE=",
+          "py3"
+        ]
+      }
     }
   },
   "rpackutils": {
@@ -83573,6 +83695,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.1": {
+      "sdist": [
+        "dGSWFFf2WVwg2gdMuzgMtOy5e+Egq2IItODGsaLlc+U=",
+        "spock-config-2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "spock_config-2.1.1-py3-none-any.whl": [
+          "tvGrb6i7QsRlsqeHGHg3pvPzXbm4mnZn/qXOt1ByPFA=",
+          "py3"
+        ]
+      }
     }
   },
   "spotipywebapi": {
@@ -84346,6 +84480,14 @@
       "wheels": {
         "stix_shifter_modules_azure_sentinel-3.3.7-py2.py3-none-any.whl": [
           "0M/px/nUN5AaHLo7oZLUtAYVA9Jt8o8ftAZAQjpaA4M=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.3.8": {
+      "wheels": {
+        "stix_shifter_modules_azure_sentinel-3.3.8-py2.py3-none-any.whl": [
+          "fRAax7XqltlshEfDx1NSnVdac8st1aM1o8lT+PhaAuM=",
           "py2.py3"
         ]
       }
