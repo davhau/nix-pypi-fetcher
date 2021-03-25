@@ -5765,6 +5765,14 @@
           "py3"
         ]
       }
+    },
+    "1.95.0": {
+      "wheels": {
+        "aws_cdk.aws_kinesis-1.95.0-py3-none-any.whl": [
+          "xbadd5UoCNKPj2BdYuCJcnxCy5aJ/eefrcVicWYWR6U=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-ssh-sync": {
@@ -11156,6 +11164,18 @@
       "wheels": {
         "cdk_iam_floyd-0.151.0-py3-none-any.whl": [
           "f73B60ah1sYSz69OUazo/v0BKUIJNC3woxoPDc9uOX0=",
+          "py3"
+        ]
+      }
+    },
+    "0.152.0": {
+      "sdist": [
+        "K433UbV9Oog2N4nCUp7sKG6qEmLq+FYs1tDWDvUsBaU=",
+        "cdk-iam-floyd-0.152.0.tar.gz"
+      ],
+      "wheels": {
+        "cdk_iam_floyd-0.152.0-py3-none-any.whl": [
+          "4MhNY1zqJVUfVOS6v3sgqlxZtf845Z8UljWjnz6GOYw=",
           "py3"
         ]
       }
@@ -29541,6 +29561,44 @@
       ]
     }
   },
+  "ftp-cli": {
+    "0.1.0": {
+      "sdist": [
+        "iPNaMd+ftK5Vy99Xl5gZPZRQCTLpeH3i9+cT10z5UMo=",
+        "ftp-cli-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ftp_cli-0.1.0-py3-none-any.whl": [
+          "UhjyHzr6lxwIO9HtStaVw8EIeVUfNtbu3Tpo6CXCzz0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "R73mcjlzEfEyOTju3e9DSPdSnxJUsOczWFD4Rpx0naA=",
+        "ftp-cli-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "ftp_cli-0.2.0-py3-none-any.whl": [
+          "0V1C5CQFGVGRqiQ2YfaCxEwlDdPP2lDWfWL8F8NiWLU=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "JbTFWBXZNfSCfbPrKc2I/HBzn177fEIRCGsu0Qvi8Fo=",
+        "ftp-cli-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "ftp_cli-0.3.0-py3-none-any.whl": [
+          "L2ZIbp8GxalbF326aZZxBrkE33EEWjQa5Q4jOaQuvK0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "functional-predicates": {
     "0.1.0": {
       "sdist": [
@@ -39284,6 +39342,18 @@
         ]
       }
     },
+    "0.10.4": {
+      "sdist": [
+        "1JSs1vWV069L0F6BqjbDuIyFHVjIUjHRZne/JJ439ks=",
+        "lbt-recipes-0.10.4.tar.gz"
+      ],
+      "wheels": {
+        "lbt_recipes-0.10.4-py2.py3-none-any.whl": [
+          "y/O+rx3sIYF9t8RE9t5SZVIcPLVgZOHCGwlKGkBP7iU=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.5.0": {
       "sdist": [
         "qT4AOJNZdYxSg0e/5AEsGEucYUxWzee4WDsh4PDF6ec=",
@@ -43481,92 +43551,6 @@
       ]
     }
   },
-  "netbox-supervisor": {
-    "0.0.1": {
-      "sdist": [
-        "zt7Qxgdobw7k9bl4icSDAAa2eG0JglBalq1FOXUAvaI=",
-        "netbox-supervisor-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "45YmJuo1165N5VDc6xEnEk4wkhF2lH0dBLNSaP8M30A=",
-        "netbox-supervisor-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "i1DBvYSJd734cOuxTxSEnk20Zn8EkXpWdUN4AdSwCRg=",
-        "netbox-supervisor-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "cg7NjaujBc+3CBv82vlkDi8LzNTVWth3nhhIjwH88tE=",
-        "netbox-supervisor-0.0.4.tar.gz"
-      ]
-    },
-    "0.0.5": {
-      "sdist": [
-        "s/psqmZUqxsnvi7igoBPHmabKO6oUBhbZRSvk/vuKLM=",
-        "netbox-supervisor-0.0.5.tar.gz"
-      ]
-    },
-    "0.0.6": {
-      "sdist": [
-        "ZsVl3p9lY9augm/p3E/DoUxHW7WZQEe8RJ4s1KiIRNI=",
-        "netbox_supervisor-0.0.6.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "xvUXzvh+PaBYXHxI9+Xg8Tf4vTlEh/V0vNhRvFJdEbw=",
-        "netbox_supervisor-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "netbox_supervisor-0.1.1-py3-none-any.whl": [
-          "Su/N9Wj1ggQJbr1NJhZI/4q09hYFS4pglavkyhuRJfM=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "Oh/TUz0n7e25/FKUhzD01iiUdBGk0I2CXiAuhm0x0oU=",
-        "netbox_supervisor-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "netbox_supervisor-0.1.2-py3-none-any.whl": [
-          "HYssFX+ApckbFzITu/IEWm4AOIo/oI7ekJihE3v71z0=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "FJc8YjIUDK7JhRQWKrSQXE/Sjj91iyFZSO2uT0T4KTk=",
-        "netbox_supervisor-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "netbox_supervisor-0.1.3-py3-none-any.whl": [
-          "x89nwhBL+W9+g7DpSTe+b0PqUSAsXnlHNnTh/93wKxU=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "96yonQgNO70T0AL9AdgQv0iiOfFu6XZWWFdWAjkFMWY=",
-        "netbox_supervisor-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "netbox_supervisor-0.1.4-py3-none-any.whl": [
-          "2icXH8wH2HsWKvzLryqGChGnLMoEDAdvzYsPFPLR3Y0=",
-          "py3"
-        ]
-      }
-    }
-  },
   "netbox-tunnels-plugin": {
     "0.3.0": {
       "sdist": [
@@ -46316,6 +46300,14 @@
       "wheels": {
         "odoo12_addon_users_ldap_mail-12.0.1.0.0.99.dev2-py3-none-any.whl": [
           "8TmTjK9cU8kJnIpFv6gcoWxv2di7m7o6jqVPY9rhWTw=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.0.99.dev3": {
+      "wheels": {
+        "odoo12_addon_users_ldap_mail-12.0.1.0.0.99.dev3-py3-none-any.whl": [
+          "7OlUmOG2GxcwSCE6MId2UhmhByA8BSsLp3HC5V2hbto=",
           "py3"
         ]
       }
@@ -70466,6 +70458,20 @@
       "wheels": {
         "simplebot-1.0.1-py3-none-any.whl": [
           "Pz17ptaXPxVmWgEAJUDmYyBinkeq4sca4v0hRGu9/U0=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "simplebot-howdoi": {
+    "1.0.0": {
+      "sdist": [
+        "rYCEA4eKo4Ypj9gYswyfYGc5o5/rH9X2ywxClwrYdbs=",
+        "simplebot_howdoi-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "simplebot_howdoi-1.0.0-py3-none-any.whl": [
+          "9itVUEDNsqm+RH4DJrou65SrDREe8Eu8yjd9lUbGFX4=",
           "py3"
         ]
       }
