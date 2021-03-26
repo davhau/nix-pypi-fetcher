@@ -6225,6 +6225,18 @@
           "py3"
         ]
       }
+    },
+    "1.95.1": {
+      "sdist": [
+        "ps+Vm0xrdjmBD1YiCWnEKkPALgd5yewKEdyOrFakj3A=",
+        "aws-cdk.aws-cloudfront-origins-1.95.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudfront_origins-1.95.1-py3-none-any.whl": [
+          "aAEnY8ZF7O2arCJtW6+EzngYZyO6WzYDvmr1OOfp/lw=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-solutions-constructs.aws-lambda-sagemakerendpoint": {
@@ -23596,6 +23608,12 @@
         "docassemble.demo-1.2.46.tar.gz"
       ]
     },
+    "1.2.47": {
+      "sdist": [
+        "tF0JFm6msAecgJa3JM58YvFOPtTTba8O4ce0AsaPpfQ=",
+        "docassemble.demo-1.2.47.tar.gz"
+      ]
+    },
     "1.2.5": {
       "sdist": [
         "gXMeJiIRSq2jCJUlkL7rX4ZTbXEH+wwCWMEWWT7EvJo=",
@@ -24079,6 +24097,96 @@
         "YhEhwzBWoXOXMLufDkSxWLN6M1lsbgVT2z/ISHdZIhs=",
         "dropboxfs-0.1-9.tar.gz"
       ]
+    }
+  },
+  "dsgrn": {
+    "1.2.0": {
+      "sdist": [
+        "4m5llMnxHkjiLeYWmCi67fYHINv2q39kKynaVHUXTpI=",
+        "DSGRN-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "DSGRN-1.2.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "1H/tefG7kqAEpOwv/1xNfDxcdwv6Twv40ykf4iM6iVA=",
+          "cp36"
+        ],
+        "DSGRN-1.2.0-cp36-cp36m-manylinux2010_i686.whl": [
+          "WHZ0sHXMaw8uqNHa3GQtN+ftlYTjNTj7MxGQN8hF20A=",
+          "cp36"
+        ],
+        "DSGRN-1.2.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "CXvTx2zcAEyNztmlLCd7iJoYwgVDyXjhXqYq836e0N0=",
+          "cp36"
+        ],
+        "DSGRN-1.2.0-cp36-cp36m-win32.whl": [
+          "PYIc/YyAYWBG0YsjxsruU97LvzfsNPk2Y2VRW3uhkU0=",
+          "cp36"
+        ],
+        "DSGRN-1.2.0-cp36-cp36m-win_amd64.whl": [
+          "GwgS6AzdO+ZZkE7+inRHbG/d0C5Fj02jSqMHKb4tnrA=",
+          "cp36"
+        ],
+        "DSGRN-1.2.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "xxP0JW4B8fTSi3WPwpQ56NHqalSVdP54mTjA0px1sog=",
+          "cp37"
+        ],
+        "DSGRN-1.2.0-cp37-cp37m-manylinux2010_i686.whl": [
+          "NEMlXYgpdD9ysT7cBOGyU0sVC7IjrbcLMOaJtjpWq/Q=",
+          "cp37"
+        ],
+        "DSGRN-1.2.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "H/FMYofU5cCEzyswvmVwn5rrLAAESo3mux4WIBx23X8=",
+          "cp37"
+        ],
+        "DSGRN-1.2.0-cp37-cp37m-win32.whl": [
+          "UzQU3clXgUl8bkCRs3fIa9TXO1KBaCY1NQHQNFLAJ2c=",
+          "cp37"
+        ],
+        "DSGRN-1.2.0-cp37-cp37m-win_amd64.whl": [
+          "+KUxefydNhc9yC6IiHFUiyjp0uGn664p5cjvnEMMuds=",
+          "cp37"
+        ],
+        "DSGRN-1.2.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "0ivFNtlJGlC03b8kj/fJPICaNTR3erKwmSEsZFFFgRo=",
+          "cp38"
+        ],
+        "DSGRN-1.2.0-cp38-cp38-manylinux2010_i686.whl": [
+          "JaBTgAZSYwfF742BCa3LsM2teLNVlV5wy3miA7DdCTw=",
+          "cp38"
+        ],
+        "DSGRN-1.2.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "V6qql2YvHCWuz9fjG1qM+buAGhEvprnxBhcFTSMhSgc=",
+          "cp38"
+        ],
+        "DSGRN-1.2.0-cp38-cp38-win32.whl": [
+          "ZfDzPA/AEqaUFj6bgvUyorp/2pfTkQOrtW94NF7e/sA=",
+          "cp38"
+        ],
+        "DSGRN-1.2.0-cp38-cp38-win_amd64.whl": [
+          "24OmLlacnSJwZo6AB/Olf2o9hDa3w/5UJPN7rIVG5YU=",
+          "cp38"
+        ],
+        "DSGRN-1.2.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "yJFR/caunp0DTEH2HKYcpatQ+TBlzWEe8oKSsVT3g80=",
+          "cp39"
+        ],
+        "DSGRN-1.2.0-cp39-cp39-manylinux2010_i686.whl": [
+          "yxfnoNmjEB0ZnrdiCyHZrQoH3ITIWh1peeAtzTmLE6A=",
+          "cp39"
+        ],
+        "DSGRN-1.2.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "kpvsSr7PU79hbl00VTSDRX1sWaQrxZS88dpwNY1XOxc=",
+          "cp39"
+        ],
+        "DSGRN-1.2.0-cp39-cp39-win32.whl": [
+          "V8FRZZJO8FQ3gbJWzqxFwMTRuNMD2LNprOkt2tLGGjk=",
+          "cp39"
+        ],
+        "DSGRN-1.2.0-cp39-cp39-win_amd64.whl": [
+          "8r066/vHDpBZbMqJZC9CzKp7oW24rshirQCqHPjoq60=",
+          "cp39"
+        ]
+      }
     }
   },
   "dsnparser": {
@@ -49180,6 +49288,18 @@
         ]
       }
     },
+    "1.17.38.0": {
+      "sdist": [
+        "idU6scREO5XFzYovLmLisnzPllI/fsoL+Fa0z5H/9xE=",
+        "mypy-boto3-codedeploy-1.17.38.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codedeploy-1.17.38.0-py3-none-any.whl": [
+          "TclXZ3aj7AkuvcYiN8TeSf8aZv5yWQJuhWFUolLM0xc=",
+          "py3"
+        ]
+      }
+    },
     "1.17.4.0": {
       "sdist": [
         "1Fn4m7bPqiVeYFKOuhWVMazLrzFo8GJzhpUU3/zNmRg=",
@@ -61288,6 +61408,18 @@
       "wheels": {
         "pyoauthbridge-1.0.11-py3-none-any.whl": [
           "TgICAWjST3bN4V94K7TFi1EKABj5keHxiN9nn7O4/9U=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.12": {
+      "sdist": [
+        "egKwfoAZhii38h56QNr1Pu1dEXtqn14nLHnYWJ7JY/Q=",
+        "pyoauthbridge-1.0.12.tar.gz"
+      ],
+      "wheels": {
+        "pyoauthbridge-1.0.12-py3-none-any.whl": [
+          "m6AqEL0Uvh2gb16DTK751BTzhxjFRdO5x8DPe2LyX3w=",
           "py3"
         ]
       }
@@ -73765,24 +73897,6 @@
       }
     }
   },
-  "sinhala-song-download": {
-    "0.0.1": {
-      "wheels": {
-        "sinhala_song_download-0.0.1-py3-none-any.whl": [
-          "e1I2bHD/KEJnNrdm38g2VEbZEYNHqPvdrGLFILx2jkU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "wheels": {
-        "sinhala_song_download-0.0.2-py3-none-any.whl": [
-          "WY/crZ1Ccoft4jTF52Rd1LC2U3q9rPW8A9MO5pXDsSg=",
-          "py3"
-        ]
-      }
-    }
-  },
   "sipphone-automation": {
     "0.0.1": {
       "sdist": [
@@ -78562,6 +78676,18 @@
       "wheels": {
         "tencentcloud_sdk_python_rkp-3.0.363-py2.py3-none-any.whl": [
           "wZouQ9HpPzegaeTtAw3dUe1a8fceoZO3blLHKMlWzrg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.364": {
+      "sdist": [
+        "d12yoyxAdVgJ3OIy2j2qVq4JWLf6tAILpCpHzTGG8VQ=",
+        "tencentcloud-sdk-python-rkp-3.0.364.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_rkp-3.0.364-py2.py3-none-any.whl": [
+          "aTk4NxEJGRY6gMDb42Xee9uwivcjS01XR0MLOTbQ3Ho=",
           "py2.py3"
         ]
       }

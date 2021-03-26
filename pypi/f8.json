@@ -8231,6 +8231,18 @@
           "py3"
         ]
       }
+    },
+    "1.95.1": {
+      "sdist": [
+        "PJNfAB/TEFejUEgx24uNS7U9I+G0ZgJU3tAEZTZTN3E=",
+        "aws-cdk.aws-medialive-1.95.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_medialive-1.95.1-py3-none-any.whl": [
+          "sWNbhknyFi145jFEuYqLk8MAPj/R66I4LyqqGVOh0ds=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-es-auth-proxy": {
@@ -54050,6 +54062,18 @@
         ]
       }
     },
+    "1.17.38.0": {
+      "sdist": [
+        "nG3uxVXnJBA6qJ5bjyjDoSojGfT7wdtqbjcsqvmJ6oQ=",
+        "mypy-boto3-glacier-1.17.38.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_glacier-1.17.38.0-py3-none-any.whl": [
+          "6GTNXna9lRpJyYzHC6bvSVAC5pqENdKGzMAe8f01tYM=",
+          "py3"
+        ]
+      }
+    },
     "1.17.4.0": {
       "sdist": [
         "HgdYQCK4Dq0ppEyduSoLkSHzakEZSfZxHjjfAdw1uy8=",
@@ -58300,6 +58324,14 @@
       "wheels": {
         "odoo11_addon_sale_validity-11.0.1.0.0.99.dev3-py2.py3-none-any.whl": [
           "Ek30ngfTLg+F0ytfCqMmLOCZkWxbh/clQmJl8WouKGs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "11.0.1.0.0.99.dev5": {
+      "wheels": {
+        "odoo11_addon_sale_validity-11.0.1.0.0.99.dev5-py2.py3-none-any.whl": [
+          "sWcI/AuhRn+U9FX6+J2EP8Bf4pQOHNPiWqOoVedxXLM=",
           "py2.py3"
         ]
       }
@@ -71192,6 +71224,22 @@
         ],
         "pyre_check_nightly-0.0.101616670619-py3-none-manylinux1_x86_64.whl": [
           "vdmeZX4vobNJqC/s5k6W4SdR+CMiE2VbRT2yigu7YQk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.101616756983": {
+      "sdist": [
+        "CSIOHBzqVvzaxEiQRdMpS4e9Fcp+UbgR9xeSEZi4hU8=",
+        "pyre-check-nightly-0.0.101616756983.tar.gz"
+      ],
+      "wheels": {
+        "pyre_check_nightly-0.0.101616756983-py3-none-macosx_10_11_x86_64.whl": [
+          "0wpj9au7MclUZ0Bj73LSDIAI9FRGY0u9HnWCWqqFzE8=",
+          "py3"
+        ],
+        "pyre_check_nightly-0.0.101616756983-py3-none-manylinux1_x86_64.whl": [
+          "rZWwbOAMC5RVv/d1H6CfNvsRWhzSHtdVct/3llyluKg=",
           "py3"
         ]
       }
@@ -84565,6 +84613,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.364": {
+      "sdist": [
+        "epki8+DIMMRf3VhxZEMHEy6tQIH6ucJE2Yi+l8Q5uyw=",
+        "tencentcloud-sdk-python-tci-3.0.364.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tci-3.0.364-py2.py3-none-any.whl": [
+          "cSF0dC5GymlVMwFQ2JF7lQbNND5qJmXVvIOSofi7Lso=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-io-2.0-preview": {
@@ -96644,6 +96704,34 @@
         ],
         "tfq_nightly-0.5.0.dev20210325-cp38-cp38-manylinux2010_x86_64.whl": [
           "Pkw/z1NMQd1czqJJ7TftlN5Y5191TqCff4t6BX/YmvQ=",
+          "cp38"
+        ]
+      }
+    },
+    "0.5.0.dev20210326": {
+      "wheels": {
+        "tfq_nightly-0.5.0.dev20210326-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "5fMX0UdDkAuEI9nl1yommrclP17czPwo1AlQcsPZXnY=",
+          "cp36"
+        ],
+        "tfq_nightly-0.5.0.dev20210326-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "xvFHs48zvv/RrWjqSiuTaJbbuqRClDzEd2C9OF6PN3o=",
+          "cp36"
+        ],
+        "tfq_nightly-0.5.0.dev20210326-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "tG0Iny/gtV2ZwvZcoZhdioi0FHEjDixZHsN1oPy6BMU=",
+          "cp37"
+        ],
+        "tfq_nightly-0.5.0.dev20210326-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "dllKqRtU6bOiHmxu6JnMagd6OeFftT/1vzjE1T2E3dM=",
+          "cp37"
+        ],
+        "tfq_nightly-0.5.0.dev20210326-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "VTtVTg4GJxRufgCX751gLu0DO6riQaTO09/Q4UYsmO4=",
+          "cp38"
+        ],
+        "tfq_nightly-0.5.0.dev20210326-cp38-cp38-manylinux2010_x86_64.whl": [
+          "uY+cmyEvcRg7ZXjcMu2wV0xJX8fD+YfzhoTVMjxMbaY=",
           "cp38"
         ]
       }
