@@ -4803,6 +4803,18 @@
           "py3"
         ]
       }
+    },
+    "1.95.1": {
+      "sdist": [
+        "vM0vaDBcrMA/YyG2gkFajpHx9e6FRk2n+C8CA5jnWx4=",
+        "aws-cdk.aws-cloudwatch-actions-1.95.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudwatch_actions-1.95.1-py3-none-any.whl": [
+          "ZdWBGNFfhrSJgCll9Hs0krcKfTjiJZ/wFQghRtjBvvw=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-ec2-cli": {
@@ -39345,6 +39357,18 @@
         "m6hPJcMTqLdgqB+g4qoNtSG1dqzc3WbWvbKvgZpWx/I=",
         "idchecker-0.0.1.tar.gz"
       ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "0yx1smVqREXsf+e2hrGLupgtP+f30THDg6w27ERS61c=",
+        "idchecker-1.0.0.tar.gz"
+      ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "iWlvf3cjwXqNikolb9a1zggLl1TpLkXmcd8QLfWPKJ0=",
+        "idchecker-1.0.1.tar.gz"
+      ]
     }
   },
   "idem-vultr": {
@@ -64099,25 +64123,101 @@
       }
     },
     "2.0.0rc1": {
+      "sdist": [
+        "E1GEuVjxIL/YxY4L0zo+ISetTzUY7EjonlTg9DwAcgI=",
+        "PyGLM-2.0.0rc1.tar.gz"
+      ],
       "wheels": {
         "PyGLM-2.0.0rc1-cp35-cp35m-macosx_10_9_x86_64.whl": [
           "oW5RpBIEC7xQyfG4S1Bv4APISg4dc/IS1peE7wC0jzA=",
+          "cp35"
+        ],
+        "PyGLM-2.0.0rc1-cp35-cp35m-manylinux1_i686.whl": [
+          "S+CmG6b7O/zI4CZo0Gdz2OZSGRD9wNyDONNg8ZbKVgU=",
+          "cp35"
+        ],
+        "PyGLM-2.0.0rc1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "+VQeEFSRXo8o4TtMUehXHvVwJA/dsYqgbgj+FnxV0DQ=",
+          "cp35"
+        ],
+        "PyGLM-2.0.0rc1-cp35-cp35m-win32.whl": [
+          "Jnef6s6i4VoQa2IxjIAt1raFHmk7FLK+Hp6MQm3XEXs=",
+          "cp35"
+        ],
+        "PyGLM-2.0.0rc1-cp35-cp35m-win_amd64.whl": [
+          "MEqHZ2IAjx3fpNvd18vEdoEcnRR1ngrfmjqsVxBHdL8=",
           "cp35"
         ],
         "PyGLM-2.0.0rc1-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "tZFL4Hg06NmXRDmFYxqaMV7j3xELajguuHZZ49WQiJg=",
           "cp36"
         ],
+        "PyGLM-2.0.0rc1-cp36-cp36m-manylinux1_i686.whl": [
+          "TW+wxp+HK3Sjfhz9rUmgeN2gi6PyWhj8k46/tbU72Ik=",
+          "cp36"
+        ],
+        "PyGLM-2.0.0rc1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "iBeO2liDcBweI3wu9ruo0N/Kd4KXuqihPfMCpb7miQk=",
+          "cp36"
+        ],
+        "PyGLM-2.0.0rc1-cp36-cp36m-win32.whl": [
+          "/XZGwZCJRHqH5Dqvtw5KTj/IRFyfhTsLB3iumAlGzKc=",
+          "cp36"
+        ],
+        "PyGLM-2.0.0rc1-cp36-cp36m-win_amd64.whl": [
+          "SvSHruvOdXmqeZvgD18a147757PDUNCnpOAcFI9vBbA=",
+          "cp36"
+        ],
         "PyGLM-2.0.0rc1-cp37-cp37m-macosx_10_9_x86_64.whl": [
           "i7tGsDzlCs8FAyFV3mthb3W2JTj1oHA1orWVoEcJ5Z0=",
+          "cp37"
+        ],
+        "PyGLM-2.0.0rc1-cp37-cp37m-manylinux1_i686.whl": [
+          "kGAiCYnHiSSJVv1k1FSCkPsVbnXbmQwNja12tLqK+Bc=",
+          "cp37"
+        ],
+        "PyGLM-2.0.0rc1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "h9GQXUIo/mIll9dpYOjnIQDwuloTuAwbrYGpJkC2SRg=",
+          "cp37"
+        ],
+        "PyGLM-2.0.0rc1-cp37-cp37m-win32.whl": [
+          "uZFsmDAw2Ko4EseKinsshjV+FtPbZMqdG+yxQFEvT6s=",
+          "cp37"
+        ],
+        "PyGLM-2.0.0rc1-cp37-cp37m-win_amd64.whl": [
+          "Si3yeHXxKh+ZjfzNa0OaKWtNGa4LyuquHhjEtFuDG48=",
           "cp37"
         ],
         "PyGLM-2.0.0rc1-cp38-cp38-macosx_10_9_x86_64.whl": [
           "utgn158CdIxoQb1KuReJpKi8zNIREBJntquzBnxJ1do=",
           "cp38"
         ],
+        "PyGLM-2.0.0rc1-cp38-cp38-manylinux1_i686.whl": [
+          "FIE8O97FEzLEzGok7KDqoxEGdU9LyhMaSWKccaHWBRw=",
+          "cp38"
+        ],
+        "PyGLM-2.0.0rc1-cp38-cp38-manylinux1_x86_64.whl": [
+          "ntrttBDQoM6avgneoJvttXEqx20c00GK/YL5PRQ1dM0=",
+          "cp38"
+        ],
+        "PyGLM-2.0.0rc1-cp38-cp38-win32.whl": [
+          "r4uccSnExH5lyvcC3/KPIJiOEeflpLwP6T7j1Zum5cQ=",
+          "cp38"
+        ],
+        "PyGLM-2.0.0rc1-cp38-cp38-win_amd64.whl": [
+          "jWFOpHJtN3oS4F/RXsZAtL6AFupHP17T88OrdZpUAmk=",
+          "cp38"
+        ],
         "PyGLM-2.0.0rc1-cp39-cp39-macosx_10_9_x86_64.whl": [
           "1ujRqHnjIJtEAQ9wvNymeswmNFzJlIsqJp30ialnk3Y=",
+          "cp39"
+        ],
+        "PyGLM-2.0.0rc1-cp39-cp39-win32.whl": [
+          "A2PQ4etegr3Ofh1sgOq5YpvkASkTe7GtFetOcbbbIYI=",
+          "cp39"
+        ],
+        "PyGLM-2.0.0rc1-cp39-cp39-win_amd64.whl": [
+          "dKpx/fN9EPFd7FbKChO16w0xEmrrXarsS6CD5RkjY0E=",
           "cp39"
         ]
       }
@@ -78074,6 +78174,18 @@
         ]
       }
     },
+    "1.2.23": {
+      "sdist": [
+        "DaWdJQEvQsReLoAjJyaI0wd9dJYwM/4azbKAY5iGXJ4=",
+        "sunpy-sphinx-theme-1.2.23.tar.gz"
+      ],
+      "wheels": {
+        "sunpy_sphinx_theme-1.2.23-py3-none-any.whl": [
+          "KrxpvOTmhkA+HIcRTJtLpUQGF8GvTdHYu52IebeLXKY=",
+          "py3"
+        ]
+      }
+    },
     "1.2.3": {
       "sdist": [
         "k0IKwmHYv9oZ45/+ano1UGxrNKEUWENqntMWOMsK/SE=",
@@ -84370,6 +84482,58 @@
         ],
         "torchaudio-0.8.0-cp39-none-win_amd64.whl": [
           "kdI1VZ23L50OFdMuLeDvKbSdtLvMCe8bgQWd8ysdPIw=",
+          "cp39"
+        ]
+      }
+    },
+    "0.8.1": {
+      "wheels": {
+        "torchaudio-0.8.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "xBVWKKIqFF+DJOD2bdw3bJgoJxwrncfd/v+hqk1cY3o=",
+          "cp36"
+        ],
+        "torchaudio-0.8.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "nZlipDXcuRJR4ixoxo6Ht2rqPiiZDP9I4FCd1sueJyk=",
+          "cp36"
+        ],
+        "torchaudio-0.8.1-cp36-none-win_amd64.whl": [
+          "0Uuzv4fh7rkWSNTw8arswdUIDEZmpLeJCWfXVmaj7zM=",
+          "cp36"
+        ],
+        "torchaudio-0.8.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "kQTN+1zEZpnStUgD17VXF7XlVoKVm0GyBdnDv4m3ZfA=",
+          "cp37"
+        ],
+        "torchaudio-0.8.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "n/ys+AuG5tpSMwBxa8y4zgWAyGVZf74m1ActRZDZjns=",
+          "cp37"
+        ],
+        "torchaudio-0.8.1-cp37-none-win_amd64.whl": [
+          "JN4IuUxUR1hkzoG7rmQg/MbTIaV7Y8zfvwEF7YmLkHw=",
+          "cp37"
+        ],
+        "torchaudio-0.8.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "Pj0Bnaevm5q/QTh+rq0nlINi/rzGnjFTeFH9WyDaiZ4=",
+          "cp38"
+        ],
+        "torchaudio-0.8.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "Ath7nPiq9ofABAuXiRkMIQL4AaJfdMKwkv/FeCR45NU=",
+          "cp38"
+        ],
+        "torchaudio-0.8.1-cp38-none-win_amd64.whl": [
+          "wbSAiIkl08NCwYI0N0Ksxs2QrG+ck/pAR8EWbmR0LwM=",
+          "cp38"
+        ],
+        "torchaudio-0.8.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "NGLz4jzckboSc+pnvhMLjJ5E+IsnHPQzePAdeO/fryc=",
+          "cp39"
+        ],
+        "torchaudio-0.8.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "ouMp6GLx4AKKKpJaDtbgdg+7obH+VIEkGsUykEFZS/E=",
+          "cp39"
+        ],
+        "torchaudio-0.8.1-cp39-none-win_amd64.whl": [
+          "EwXbid21imEnKFM91ETygi7dEThWeVVdMJxnN00afD8=",
           "cp39"
         ]
       }
@@ -91133,6 +91297,18 @@
         "y+9s93RS8nfNoUJlt56PuNK6LTUpGX1E6PZsy3pygtY=",
         "wxcast-1.4.0.tar.gz"
       ]
+    },
+    "2.0.0": {
+      "sdist": [
+        "rQrmFsTuNX/1kOuTCi8Tc4v/8fw2HKw/FbrxR1MafRY=",
+        "wxcast-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "wxcast-2.0.0-py3-none-any.whl": [
+          "tew7xAD7RlzELJ1UdDxCPTAR96Ibs4dyPYyfScZRNyU=",
+          "py3"
+        ]
+      }
     }
   },
   "wy": {

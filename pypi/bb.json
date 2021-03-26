@@ -6839,6 +6839,20 @@
       }
     }
   },
+  "aws-cdk.aws-s3objectlambda": {
+    "1.95.0": {
+      "sdist": [
+        "ilV3eM7Dys6g09kWuzKL8/O8jRPcnV53NgW3ladWm1k=",
+        "aws-cdk.aws-s3objectlambda-1.95.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_s3objectlambda-1.95.0-py3-none-any.whl": [
+          "anXrWJ4jO4Qh7cq9H8sd336jXiT2vldBomCH1DiHKVc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "aws-session-management": {
     "0.0.1": {
       "sdist": [
@@ -10456,28 +10470,6 @@
       "wheels": {
         "chainlib-0.0.1a6-py3-none-any.whl": [
           "n7ClzsVYmW7bAlz5nncv787CgJM50ewJtfbi+JCWVoE=",
-          "py3"
-        ]
-      }
-    }
-  },
-  "chantilly": {
-    "0.1.0": {
-      "sdist": [
-        "AgXsXgOHDk/nhnzgjO86O9PR1vDIF0ebF8WWiJZ+abE=",
-        "chantilly-0.1.0.tar.gz"
-      ],
-      "wheels": {
-        "chantilly-0.1.0-py3-none-any.whl": [
-          "cQ94FAtzF7rSe6OVDjcP0ys/p6M0aej8IzQVAZj227M=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "wheels": {
-        "chantilly-0.2.0-py3-none-any.whl": [
-          "xNmyv+lEQetAwiNWf59BTUe5idayl9HCTf4NSvi7bnY=",
           "py3"
         ]
       }
@@ -57152,6 +57144,18 @@
         ]
       }
     },
+    "1.17.37.0": {
+      "sdist": [
+        "/3PzH8luNh44poyiLjGFA3aQliuRfrT8oF/NxxUxR4g=",
+        "mypy-boto3-cloudformation-1.17.37.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cloudformation-1.17.37.0-py3-none-any.whl": [
+          "pdNdO9EwsNGJH5w+tRlp3A2MoSW7LCQ/45CjOLMApaA=",
+          "py3"
+        ]
+      }
+    },
     "1.17.4.0": {
       "sdist": [
         "vRnaDKPMA7od9SP/2ItK/7VWYucdTn0BXkKfwS2FUlY=",
@@ -78635,6 +78639,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "WisM3XOQ3VFumL04J+GCGggtOV7j37H/rnByitcSARc=",
+        "pyspedas-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pyspedas-1.2.0-py2.py3-none-any.whl": [
+          "g2L8eszhS1GAe6OH2CPj5lr/+NiX8qhXPnyiBDqD+rY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pystackalytics": {
@@ -88504,6 +88520,58 @@
         ],
         "torchcsprng-0.2.0-cp39-cp39-win_amd64.whl": [
           "R9916jsJhhTmI8pxKhLeWgfbkIh6uWwGVe1kZ1vpYMc=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.1": {
+      "wheels": {
+        "torchcsprng-0.2.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "J+o7VH2ZOjjNrc0UQuTlYS/R8WdSTszl4yhWb4UIDbk=",
+          "cp36"
+        ],
+        "torchcsprng-0.2.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "orLCFWE3kORepDjoj2/ArHls07S158DJzZGCE1Rk428=",
+          "cp36"
+        ],
+        "torchcsprng-0.2.1-cp36-cp36m-win_amd64.whl": [
+          "tQdhJN7u6bh1dKnaOIHRJUl3xw62YIbaFkTqb6/DY1A=",
+          "cp36"
+        ],
+        "torchcsprng-0.2.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "e56Ujgdo8JZ+fG27gy7Z4GAyep+okoagj8FZPSas44s=",
+          "cp37"
+        ],
+        "torchcsprng-0.2.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "i7hiTDHuaptMZAQWhgfTS92Mu3hj4QeuJkC2Y3B1uds=",
+          "cp37"
+        ],
+        "torchcsprng-0.2.1-cp37-cp37m-win_amd64.whl": [
+          "Kz1BUU4gdzkvIdaymuHnhePRNQlLp6CLPw7jWWeOywM=",
+          "cp37"
+        ],
+        "torchcsprng-0.2.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "kK3pwP0hdQbdnpzog2yUr3tsHATDYSBoI+S12+hHx8w=",
+          "cp38"
+        ],
+        "torchcsprng-0.2.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "WN62/uR0UfrsvZ/fslRflzslS4RH/44ZBsNHzN4ddik=",
+          "cp38"
+        ],
+        "torchcsprng-0.2.1-cp38-cp38-win_amd64.whl": [
+          "c+W7Acaf4s5Ys9EDwyFS1ZFtXKdKMQpq9BjZtot80HM=",
+          "cp38"
+        ],
+        "torchcsprng-0.2.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "WFJAphdxCfa6ZunBDlmedWi+qOgnf2mgCaCWftSkZck=",
+          "cp39"
+        ],
+        "torchcsprng-0.2.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "/lT/mJO9S+8rDdRT3Gz8P+tvFWXdGmeC/nImefu/bdA=",
+          "cp39"
+        ],
+        "torchcsprng-0.2.1-cp39-cp39-win_amd64.whl": [
+          "xVMXUsIwdP2Dp60h9AHk75nFVMywMJ7Ahx4IabF48wo=",
           "cp39"
         ]
       }

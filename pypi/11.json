@@ -10001,6 +10001,18 @@
           "py3"
         ]
       }
+    },
+    "1.95.0": {
+      "sdist": [
+        "AD53SuGC8wWK+9U2qdRMjiMQPNedAJMekNhLhWNnoFs=",
+        "aws-cdk.aws-cloudwatch-1.95.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudwatch-1.95.0-py3-none-any.whl": [
+          "o44QNh74QG7z5j0VsthU/em7S2wolW+x+IHkYc8D58k=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cfn-bootstrap": {
@@ -18158,6 +18170,12 @@
       "sdist": [
         "p8y971LgKGv0uvmQXqc4QtKOLdEoD/on/9u7vNoS7tM=",
         "cfclient-2021.1.tar.gz"
+      ]
+    },
+    "2021.3": {
+      "sdist": [
+        "YgRb6SOEqpXJfC+QNHY7fIpNUkHzBye49B7IjRX/Gk0=",
+        "cfclient-2021.3.tar.gz"
       ]
     },
     "2021.3rc1": {
@@ -33367,432 +33385,6 @@
         "ViRVc65tJTZO4rwkW7rmIEBQHY0UMQJETLqu4SCfKmo=",
         "EvolutionaryParameterGrid-0.0.4.tar.gz"
       ]
-    }
-  },
-  "excelyzer": {
-    "0.0.1": {
-      "sdist": [
-        "FhMRju2q6Z1aV4+VmVb31C86VUwJXa7Akyl8rUtnj88=",
-        "excelyzer-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "++v2hez8cUR7LKneH7yBkzy4WaISoO1ej/0MFMSMlKw=",
-          "cp37"
-        ]
-      }
-    },
-    "0.0.10": {
-      "sdist": [
-        "c4Hs31SAJs4lXC41gdblvRilg6kctUszKqtHQPpAfCQ=",
-        "excelyzer-0.0.10.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.10-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "L6Mdpk8K+6Q25sVaoBSMM1s5ofdgX5l5U/Q5fU7kciM=",
-          "cp37"
-        ]
-      }
-    },
-    "0.0.11": {
-      "sdist": [
-        "jAbL7X/IlvRRBlf9vZnJAlx7FyotiWXGbL2PhkRBIIs=",
-        "excelyzer-0.0.11.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.11-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "/fuDIUB6YxUPXOY5zGqqe60FT1a0Jtj4jnoxDbywsys=",
-          "cp37"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "ERHYfpMEy2LvqimFS0B20cm9YdRiZnsjTP7Ns4eWOrY=",
-        "excelyzer-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.12-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "/Mrp7Httr+Sixw0hfeheFQXDcdpr2g/QDbKgAY60AZM=",
-          "cp36"
-        ],
-        "excelyzer-0.0.12-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "5cGlGRxrzruL+plQ7kr1jRNEaRski3hdGLDLG560SVs=",
-          "cp37"
-        ],
-        "excelyzer-0.0.12-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "AIAVVi/izfbGv+8jIAfwh7ewH5r1TO0MqzRMqLtpB88=",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.13": {
-      "sdist": [
-        "mgwUtZT6Cdnw5CAAF5itR39JWfXNmXz8uszjFEC4CuU=",
-        "excelyzer-0.0.13.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.13-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "amVefamp4xhAMclxnoKteLNwjQvQQE3vyVcEZYqV8b8=",
-          "cp36"
-        ],
-        "excelyzer-0.0.13-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "qvZ7C8BSaEy4sLGSeGisUUjWay3YRZdBg4Hfd20l9EY=",
-          "cp37"
-        ],
-        "excelyzer-0.0.13-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "IOOYNVAcroeKzvqnUBn4TOCgrUAsFYJ0q2Wgbh1IV5E=",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.14": {
-      "sdist": [
-        "zaGV/gh2dfwehTo3KxJ6fLuAEG0/8nS4eyn0ybneuIc=",
-        "excelyzer-0.0.14.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.14-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "jOQ0C2GHMmrk9gBxDB5Wvbcv+EUOaEZO0ctFjONMVsw=",
-          "cp36"
-        ],
-        "excelyzer-0.0.14-cp36-cp36m-manylinux1_x86_64.whl": [
-          "i4QU+LqJayh5wMi5DLmzAImHxRgcqWJ0rDKxdRRSyNE=",
-          "cp36"
-        ],
-        "excelyzer-0.0.14-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "4WlZ/nztzLfQjeetDJ56W/7w26b/m1lWoF12ofRMNeM=",
-          "cp36"
-        ],
-        "excelyzer-0.0.14-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "Jyl5SSr4FX59LwaHYJvFfq3jftET4Wypqw9GlmADnBo=",
-          "cp37"
-        ],
-        "excelyzer-0.0.14-cp37-cp37m-manylinux1_x86_64.whl": [
-          "JRhw1oVAo4qNHxcaDSaAILtrN9LeDmWpEIUlnDjmKBw=",
-          "cp37"
-        ],
-        "excelyzer-0.0.14-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "lUenqeJUIIAXuizhXvrzYtVjHV2ug4RGa6dot7CKah8=",
-          "cp37"
-        ],
-        "excelyzer-0.0.14-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "bKqd7wvoS4RUaPXiS2YsKYzRkj7H5sPcwMJixNXdMRo=",
-          "cp38"
-        ],
-        "excelyzer-0.0.14-cp38-cp38-manylinux1_x86_64.whl": [
-          "8E2NU8RZLHVqDe2VlGtzglUa7WdBjoWvdUiThvDbJfc=",
-          "cp38"
-        ],
-        "excelyzer-0.0.14-cp38-cp38-manylinux2010_x86_64.whl": [
-          "ZAt49Py0egClRYsceDunm9BFOs9PBxi4W6z0JOejGyo=",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.15": {
-      "sdist": [
-        "4SvaEk1VlLdCb5/f1dQFJekavZBI464FHOqJkH0WFqc=",
-        "excelyzer-0.0.15.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.15-cp35-cp35m-manylinux1_x86_64.whl": [
-          "RPsy36dHXN6OSptQ+jK1XtCGPHKMTaIeJ+xdjxoJQ1w=",
-          "cp35"
-        ],
-        "excelyzer-0.0.15-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "Fn+f2QyXqVloeP/UVZT5AAOOAIIWdO6+ZV3Ue4ni3eQ=",
-          "cp35"
-        ],
-        "excelyzer-0.0.15-cp36-cp36m-manylinux1_x86_64.whl": [
-          "OyGUgMkF88AvtBhMQ/ooyFO1wZog6QDffsYPCoPfKp4=",
-          "cp36"
-        ],
-        "excelyzer-0.0.15-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "Bds4Znm6vTp7cmckd0hXawjcppdf1jfKsnI3wng6WdU=",
-          "cp36"
-        ],
-        "excelyzer-0.0.15-cp37-cp37m-manylinux1_x86_64.whl": [
-          "oJD3lRyD3MzynngjlGHEwZq/ebTSTjDbNyQuQBr95E8=",
-          "cp37"
-        ],
-        "excelyzer-0.0.15-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "eEjA2AbqLY8t41D65vimtPcFnPlU4V7rtMho0su/VY0=",
-          "cp37"
-        ],
-        "excelyzer-0.0.15-cp38-cp38-manylinux1_x86_64.whl": [
-          "ERbS8oRPRd06lstL5ESfy3EVrYI5tZEM8mEBK3cJ1sk=",
-          "cp38"
-        ],
-        "excelyzer-0.0.15-cp38-cp38-manylinux2010_x86_64.whl": [
-          "+MEfOT70eI+jP83EHgd05RDJe/iJ/JDnNjuIhc7zijU=",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.16": {
-      "sdist": [
-        "HijM5V3lF9Y08ZqvdrScxKyAytVBeZ6vthoXfbvrMsk=",
-        "excelyzer-0.0.16.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.16-cp35-cp35m-macosx_10_14_x86_64.whl": [
-          "+FXnATw689bR9dVDFvzBGWKJSvJZsRADer1i3zdGBb4=",
-          "cp35"
-        ],
-        "excelyzer-0.0.16-cp35-cp35m-manylinux1_x86_64.whl": [
-          "mVZsFdwJhuDg2f/RC+7zlyN94pKA5oVV0gdy7tE4rMc=",
-          "cp35"
-        ],
-        "excelyzer-0.0.16-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "+nAmfM+nTW2Bz/KZpn3oQArR6TohTxvbtQSVsc+aNPg=",
-          "cp35"
-        ],
-        "excelyzer-0.0.16-cp35-cp35m-win_amd64.whl": [
-          "ucaKmqL5UV4chcHktLaJcpBNnlIRjA8G5en3HUyrYFc=",
-          "cp35"
-        ],
-        "excelyzer-0.0.16-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "s3eGkMQjkEfCAdXfX7vFD2LuEBAD/GoAdEK99LoN3jg=",
-          "cp36"
-        ],
-        "excelyzer-0.0.16-cp36-cp36m-manylinux1_x86_64.whl": [
-          "hdL+a2vEUeriNVNB2DefW7zdUvLOkvQeRLpq4O102ZU=",
-          "cp36"
-        ],
-        "excelyzer-0.0.16-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "GERHrJlR7VO3P1YTYcou3HCtiabUS/+z19jEAnqYgPc=",
-          "cp36"
-        ],
-        "excelyzer-0.0.16-cp36-cp36m-win_amd64.whl": [
-          "er6/eGqrphy6XrHl2noFLKnjUxQ3ameeJL/V+a7bNyY=",
-          "cp36"
-        ],
-        "excelyzer-0.0.16-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "Bkpc70zdqr0Aau8QEHZn3cFCEr8JSc0G5JVYL5eyLfM=",
-          "cp37"
-        ],
-        "excelyzer-0.0.16-cp37-cp37m-manylinux1_x86_64.whl": [
-          "CVZO6kDibkqZk35jLhpyoWFjutqc4xgJfd6Sv7cNNcA=",
-          "cp37"
-        ],
-        "excelyzer-0.0.16-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "bVNDL0hVR1Zo3DUg7MSnQXZa3Z5PYrsHhowY5rJ+1ik=",
-          "cp37"
-        ],
-        "excelyzer-0.0.16-cp37-cp37m-win_amd64.whl": [
-          "lFajnexYAPRLkuldurEcYFnoPUQOKq69ceJb8u9RtcY=",
-          "cp37"
-        ],
-        "excelyzer-0.0.16-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "tMB+BnTHom6qe/JSqDWZy6A860Xcj6IPMqZhrX2/uSs=",
-          "cp38"
-        ],
-        "excelyzer-0.0.16-cp38-cp38-manylinux1_x86_64.whl": [
-          "yEpbjt9GKmMOcmeLunYxJPvG1jIlBWx7ztJ7x6HI3Aw=",
-          "cp38"
-        ],
-        "excelyzer-0.0.16-cp38-cp38-manylinux2010_x86_64.whl": [
-          "P2tqncvS3zO1wF63HvHBEmTS5Lqv8Cd9duW5J7RN6T4=",
-          "cp38"
-        ],
-        "excelyzer-0.0.16-cp38-cp38-win_amd64.whl": [
-          "2Ca32us/hbntFoPzQeQxNiFShh916FChd50U+7jXS8E=",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.17": {
-      "wheels": {
-        "excelyzer-0.0.17-cp35-cp35m-macosx_10_14_x86_64.whl": [
-          "sqTlPicNe1qMWtx1pWV5DPHDJp6Phoy7E4wl1bI/zk0=",
-          "cp35"
-        ],
-        "excelyzer-0.0.17-cp35-cp35m-win_amd64.whl": [
-          "j4LNN/d72VGRI3O6wLwwjxzBWPkpmCZM7jLD3m2tof4=",
-          "cp35"
-        ],
-        "excelyzer-0.0.17-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "T3TlY+vtPzCPd0I4tpPuvgqc78lJQaa+jTBJl5FWep4=",
-          "cp36"
-        ],
-        "excelyzer-0.0.17-cp36-cp36m-win_amd64.whl": [
-          "JD04WT20jAGq46w+5W2HkQcQ/AYX3n16+IF4DbaPf5U=",
-          "cp36"
-        ],
-        "excelyzer-0.0.17-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "P+uE38Lj9RbtzCCx8NtBLBlbIjvfAc8ClVvGOJmzPdY=",
-          "cp37"
-        ],
-        "excelyzer-0.0.17-cp37-cp37m-win_amd64.whl": [
-          "vwGVU/8nDMzY7BqUJNXHBVpXYQJ4KAmdO+J383xk5rs=",
-          "cp37"
-        ],
-        "excelyzer-0.0.17-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "XRcXFwCroOtCrA25grdz9WaPxKC5223JHo1GHQkAC5k=",
-          "cp38"
-        ],
-        "excelyzer-0.0.17-cp38-cp38-win_amd64.whl": [
-          "zF1F2HKQkRRhYCV/EQqjAWWGXxSX32v5cFPwGAPnPQA=",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.18": {
-      "sdist": [
-        "+90yeYrMcFaLd/OB2VzmjoZQmiZM/1y/5GjrV/UdKRg=",
-        "excelyzer-0.0.18.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.18-cp35-cp35m-macosx_10_14_x86_64.whl": [
-          "0PQWNWcx2DVYUbEZSbQsMNwdYVkmqEsMxTuF8x33tIw=",
-          "cp35"
-        ],
-        "excelyzer-0.0.18-cp35-cp35m-manylinux1_x86_64.whl": [
-          "SKaecB7N+aFKD5p5d/v98YzlsLrKGaelYXMCtS4gDJs=",
-          "cp35"
-        ],
-        "excelyzer-0.0.18-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "1nv+ObWLq9+KuapKw/tQ9leSpOTVQxLbUxJHsGmVx+E=",
-          "cp35"
-        ],
-        "excelyzer-0.0.18-cp35-cp35m-win_amd64.whl": [
-          "Djb3r/rr+dSsGHeRoc3nhvi7dDjq/oJeqsoUz79uVwA=",
-          "cp35"
-        ],
-        "excelyzer-0.0.18-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "k9muHvf3PuzZPciTpBkNmJbffDlD9i7k+CNoLV6EZYg=",
-          "cp36"
-        ],
-        "excelyzer-0.0.18-cp36-cp36m-manylinux1_x86_64.whl": [
-          "y4Nxvpn5oPSAuKNeDg4xQM8z/Kgn2teOkWMAciz67eA=",
-          "cp36"
-        ],
-        "excelyzer-0.0.18-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "6rsSJMFLLAWb9PQhD8Mzi8vA0LkExBf/8vYiB6DEjd8=",
-          "cp36"
-        ],
-        "excelyzer-0.0.18-cp36-cp36m-win_amd64.whl": [
-          "rI2uX7jC1u/AGst30tRe7pssd6J2ONF+nbXp4TOod6M=",
-          "cp36"
-        ],
-        "excelyzer-0.0.18-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "yXOw8TVYg7zUOwtcGtLy4R+vexihr1SRAuvFKAnr+dQ=",
-          "cp37"
-        ],
-        "excelyzer-0.0.18-cp37-cp37m-manylinux1_x86_64.whl": [
-          "DjZI/gdjSseOrhDCu8bX/OFz1uLn21vp0vme1FBJaUI=",
-          "cp37"
-        ],
-        "excelyzer-0.0.18-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "6mE4cdnPB7kueHeS72TxDpbDoyoxyQ2endm2qnlyA8Y=",
-          "cp37"
-        ],
-        "excelyzer-0.0.18-cp37-cp37m-win_amd64.whl": [
-          "BGAtADmRh+yA7hu3Sj9MnzVsDq5pSBcbnKWhBpEQ934=",
-          "cp37"
-        ],
-        "excelyzer-0.0.18-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "6ubTgCdFxO6TZMqTQQY1vzMwGsvi1OvgXE9s+sB8qRM=",
-          "cp38"
-        ],
-        "excelyzer-0.0.18-cp38-cp38-manylinux1_x86_64.whl": [
-          "dJN4hLcV93reUUN8kAMnhs5ncI1vsw3E+Soc5qzkvEo=",
-          "cp38"
-        ],
-        "excelyzer-0.0.18-cp38-cp38-manylinux2010_x86_64.whl": [
-          "0g795zIlWwuCMtCPc89iLiGZMBO1nsHTYHLtzsidg6U=",
-          "cp38"
-        ],
-        "excelyzer-0.0.18-cp38-cp38-win_amd64.whl": [
-          "jYMbN+3nVztPy/JnDMCALLL0jPkxaNPf80dyJRJEBdk=",
-          "cp38"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "lTj4/zW6bNLoGWnqO+49VLHoVEdRW6UZBbAtm6PtIls=",
-        "excelyzer-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.2-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "AnE+dqOxHA9DxPd7I05O078NddMmBZJVUgV4Kl7idi4=",
-          "cp37"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "svKRPIvLSl/EaWlm1VN9E79+b/hlDsug4FmXTAKeWfk=",
-        "excelyzer-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.3-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "UeiCPgqS0NV1cPlCpbyaqEbf37r3t3MBaTteh1+H0Rc=",
-          "cp37"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "eTfLlNpCBbB0hYS45iLUWgqD7xdyuQWOc2ytrRULEYQ=",
-        "excelyzer-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.4-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "HzBqMH8m+KFGZqGkxNO61ENGTzDCJ9iM/7S+c2u5M2U=",
-          "cp37"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "M0Q0sNwSxQOrMknpyzhVBrz7xv4t4m8kx9gcIAyrjDc=",
-        "excelyzer-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.5-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "dw39eauidJdIscfXOgwtvB3e4wpxp+KpqiaM8YshTh4=",
-          "cp37"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "6+kL7EvotF4VfhNHcW0ah7untp5d4nsacqr0MP6nNGU=",
-        "excelyzer-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.6-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "Lr/eDGxL7kzo2RO6UL95HYltVbPD7fnqx45H7xVo9+o=",
-          "cp37"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "aNgQ4gRz+Qbo+w0UEHJmiHan/4GG8te3nMyc2VvZhAI=",
-        "excelyzer-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.8-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "VRVlM131s8QtC5ebFJxXS77mbZg3O4FBIeB+W3ucODU=",
-          "cp37"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "mSQQQOcadQ0wz2bPR0MidmM8f14WpH7sHC4ENfNc/lM=",
-        "excelyzer-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "excelyzer-0.0.9-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "1nYr58giE+7XXHIWmBuoA3U5uWHvvAqpXAM3Npex03g=",
-          "cp37"
-        ]
-      }
     }
   },
   "exceptable": {
@@ -51984,6 +51576,30 @@
         ]
       }
     },
+    "1.43": {
+      "sdist": [
+        "2sZJShkLzDZfWBhIMk05VNECd4xK1xNoivNuaqpSAMk=",
+        "miniaudio-1.43.tar.gz"
+      ],
+      "wheels": {
+        "miniaudio-1.43-cp37-cp37m-linux_armv7l.whl": [
+          "zdYvCTK60WI2cNyYEwkYkoKcuwYX6fyj0qcgh7oYCag=",
+          "cp37"
+        ],
+        "miniaudio-1.43-cp37-cp37m-win_amd64.whl": [
+          "YJc1iqdfJxAymq2W/ZnXZp/p79/0/Z27Qxz8pmYwG6Y=",
+          "cp37"
+        ],
+        "miniaudio-1.43-cp38-cp38-win_amd64.whl": [
+          "1sNpDPHWbi5phyHcqLb/OPv/P43e7xG+0tVQepsN74A=",
+          "cp38"
+        ],
+        "miniaudio-1.43-cp39-cp39-win_amd64.whl": [
+          "JK8SAQHUDtMOCSYtNzjnuG61O5tGckv9VVm4X3Jd9+E=",
+          "cp39"
+        ]
+      }
+    },
     "1.5": {
       "sdist": [
         "4oc5ebBGVdiFqbKp6MsPOC9fwaZxAY5uYo77iLEEn74=",
@@ -56856,6 +56472,18 @@
         ]
       }
     },
+    "1.17.37.0": {
+      "sdist": [
+        "uUBg41Wi0qgAlAbklKf31hys/8rvcx8nNeCmrNrH8cQ=",
+        "mypy-boto3-honeycode-1.17.37.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_honeycode-1.17.37.0-py3-none-any.whl": [
+          "mYL2wE2wzZGOIKK6iCAYdLdrnvy64jg7erzCqWkCxno=",
+          "py3"
+        ]
+      }
+    },
     "1.17.4.0": {
       "sdist": [
         "VpIZXTjp+M9oDKafmbHOwYcgR7oPKwjN/UiBz5Hr/q8=",
@@ -60450,6 +60078,18 @@
       "wheels": {
         "mypy_boto3_iotevents_data-1.17.36.0-py3-none-any.whl": [
           "tYAa0y4JtcSS1vyasEkhohLLRVqJkVdzaYf5vO4jpUk=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.37.0": {
+      "sdist": [
+        "xfUImva/ZCzEEzEuu1w8p6FVe109arG3WdIZ243wYM4=",
+        "mypy-boto3-iotevents-data-1.17.37.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iotevents_data-1.17.37.0-py3-none-any.whl": [
+          "GAbJE57UGj/QGdYA+KD/SMq8Lp+iwCMBqPgX48tm/Hg=",
           "py3"
         ]
       }
@@ -66066,6 +65706,14 @@
       "wheels": {
         "Origin_Ledger_SDK-1.0.18-py3-none-any.whl": [
           "svy5VjThZCScZtBdjBvcRBOnne4v8CXm4AfOB+uyMWg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.20": {
+      "wheels": {
+        "Origin_Ledger_SDK-1.0.20-py3-none-any.whl": [
+          "b6En7c3UcuCRsSgGY5MFFZ+lB4DMZY4e7geoRVyLBXg=",
           "py3"
         ]
       }
@@ -75793,6 +75441,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "OiyyEqDCxaLR+2nybM2NlWYZWnYdW9m8Hqrk+5qQzBA=",
+        "pyxtensor-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pyxtensor-0.2.0-py3-none-any.whl": [
+          "pMqU4WiwoYjzMORoczkrxAoylPkG1673VjlPV+0kFuc=",
+          "py3"
+        ]
+      }
     }
   },
   "pyzafa": {
@@ -78833,6 +78493,22 @@
           "py3"
         ]
       }
+    },
+    "0.0.15": {
+      "wheels": {
+        "RockyRoad-0.0.15-py3-none-any.whl": [
+          "r9Pxse+TGd097krLzdnBvnHr5ZW5nhEsWCt2LbRBTt0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.16": {
+      "wheels": {
+        "RockyRoad-0.0.16-py3-none-any.whl": [
+          "o6S2ewC2iknDTtJ8zn9TcYuxngI6MvB8vgacBbwmWYg=",
+          "py3"
+        ]
+      }
     }
   },
   "rpackutils": {
@@ -81849,6 +81525,20 @@
       }
     }
   },
+  "simplebot-xkcd": {
+    "1.0.0": {
+      "sdist": [
+        "AecVx5tUfjFPInHRZsXwktSdeW11O9P4UHfjHDmVwTk=",
+        "simplebot_xkcd-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "simplebot_xkcd-1.0.0-py3-none-any.whl": [
+          "asjC9KFhoPtA53fjK1csTTEw2CP9WfD5jTU/MoxJEbI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "simplerr": {
     "0.15.7": {
       "sdist": [
@@ -84654,6 +84344,14 @@
       "wheels": {
         "stix_shifter_modules_azure_sentinel-3.4.1.dev493-py2.py3-none-any.whl": [
           "H1dQXi7TZjZAVGB7Xd/BLv3ez/4kSrqFCuk37m8hGmw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.4.1.dev495": {
+      "wheels": {
+        "stix_shifter_modules_azure_sentinel-3.4.1.dev495-py2.py3-none-any.whl": [
+          "I8GFS9PCJTw6u1FAm5v0WlCXnKt2I1PCNAdm83xvu6c=",
           "py2.py3"
         ]
       }
@@ -89548,6 +89246,58 @@
         ],
         "torchtext-0.9.0-cp39-cp39-win_amd64.whl": [
           "L4vQA2JANIG2UYejzdb21hh0ZYUfYnxzN13BDWLe/OI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.9.1": {
+      "wheels": {
+        "torchtext-0.9.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "iLnpo9Gb+WG2ole92LXct0TWHxQTdEgvelQnqRZLkJ0=",
+          "cp36"
+        ],
+        "torchtext-0.9.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "4kTyD32BBPqpCxpQp/yVxqKormasx0/ge8CoQ0h8tfM=",
+          "cp36"
+        ],
+        "torchtext-0.9.1-cp36-cp36m-win_amd64.whl": [
+          "Lqml4xekcynuvVAjmU+cuESfOfT6WUc0aa/6xJQXNqc=",
+          "cp36"
+        ],
+        "torchtext-0.9.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "fm9GLn/O/alw/RC2fD2OlnVpGpDkZC3X7RefURiNRoA=",
+          "cp37"
+        ],
+        "torchtext-0.9.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "i40cP7iJeAb03NcYuUPzO4RiNkAcwVbMugIT7on2pTw=",
+          "cp37"
+        ],
+        "torchtext-0.9.1-cp37-cp37m-win_amd64.whl": [
+          "I9O2pTN4vVzvfHfUtNzNS1Y7C9+kIZZkYY/SNqXR1C4=",
+          "cp37"
+        ],
+        "torchtext-0.9.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "GSBJcnsS/ad09Dq/SJf1XuiWyNFjdEP8rPd+b8N/6S8=",
+          "cp38"
+        ],
+        "torchtext-0.9.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "G8MCQCBipngRbN/HD+XBwvJXzDQ+oXXc8k+crGORi9Q=",
+          "cp38"
+        ],
+        "torchtext-0.9.1-cp38-cp38-win_amd64.whl": [
+          "ky3M3o7LApgeibHbAdF5GpLyeKCtNTe+UPK1NfcelPA=",
+          "cp38"
+        ],
+        "torchtext-0.9.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "0K+REQpXr5AwC+qWIr7TIOZFnOuV2vr69vfuxMUYrhY=",
+          "cp39"
+        ],
+        "torchtext-0.9.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "l40gi/4MpG09FlCwKuo+Q4zpC+0aXMRrMft070SGnDI=",
+          "cp39"
+        ],
+        "torchtext-0.9.1-cp39-cp39-win_amd64.whl": [
+          "9rGVBdYpC+9BtScthNP7d+GHO9/tioes6MNO+VoqngQ=",
           "cp39"
         ]
       }
