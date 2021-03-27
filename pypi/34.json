@@ -5079,6 +5079,12 @@
         "OPXyDdBbtGziyaFePp3Rt27BzzufR80zCxm1GF/inSI=",
         "autoeap-0.2.1.tar.gz"
       ]
+    },
+    "0.2.1.1": {
+      "sdist": [
+        "r9rJLgkQ327CIq0Ve+Hi/dou2YcKJ46X/QQJbLjyPYQ=",
+        "autoeap-0.2.1.1.tar.gz"
+      ]
     }
   },
   "autohdl": {
@@ -37491,6 +37497,20 @@
       ]
     }
   },
+  "kafkalo": {
+    "0.1.0": {
+      "sdist": [
+        "xxKozrZJs0x2uH1byCIXR7f7Bcg1vvBzBevUHkIlcgk=",
+        "kafkalo-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "kafkalo-0.1.0-py2.py3-none-any.whl": [
+          "8Ald0RLTHsBHWcd4GPmXQYLTZYMHwYuQ+oZSZXRQ0I0=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "kaiba": {
     "0.1.0": {
       "sdist": [
@@ -50368,6 +50388,18 @@
         ]
       }
     },
+    "1.17.39.0": {
+      "sdist": [
+        "WvjiKyMFHhyiujDKecGEKJ6tfe5Be3G5e/ZuOlKw//w=",
+        "mypy-boto3-glue-1.17.39.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_glue-1.17.39.0-py3-none-any.whl": [
+          "KYm+ivmS73fFi+dpgFeOAJ3zcVZn7dOjd+u9mkL4C4I=",
+          "py3"
+        ]
+      }
+    },
     "1.17.4.0": {
       "sdist": [
         "QVcw/6+M2zss4BqvuQF3J9AwBnRk+yxeI0haSRkCDuE=",
@@ -53978,6 +54010,18 @@
       "wheels": {
         "mypy_boto3_machinelearning-1.17.38.0-py3-none-any.whl": [
           "lOeZtwYdP7UWoH1K9AJanJlF0Lb2G6G2CFjU7m6+ZN0=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.39.0": {
+      "sdist": [
+        "qtU9Lv0Q8A1yMhjXEvJqJ15yXKhA7dpZHts3elOl5VQ=",
+        "mypy-boto3-machinelearning-1.17.39.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_machinelearning-1.17.39.0-py3-none-any.whl": [
+          "4N2/5WJq4S/S0N5ID0gItGclDehMArsdIbNcasMymcQ=",
           "py3"
         ]
       }
@@ -60365,116 +60409,6 @@
         "MmUtd7OBEBoRMbV89xpPXVG6c3xgKzdC2uFVQX//Fk8=",
         "openstax-accounts-1.0.0.tar.gz"
       ]
-    }
-  },
-  "opentelemetry-ext-psycopg2": {
-    "0.10b0": {
-      "sdist": [
-        "j7dS5vg2GQsyFmwTIzqtLRnH8NsGkQ7zP/NaxHL+Y8g=",
-        "opentelemetry-ext-psycopg2-0.10b0.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_psycopg2-0.10b0-py3-none-any.whl": [
-          "cRVDTNzhaOvt6NcReG/2kTQGMOdzr96NV64YusepXm8=",
-          "py3"
-        ]
-      }
-    },
-    "0.11b0": {
-      "sdist": [
-        "oZNIA5EccLKJlUD+4zMx58yePD/kj7fk6fB5+fKHr34=",
-        "opentelemetry-ext-psycopg2-0.11b0.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_psycopg2-0.11b0-py3-none-any.whl": [
-          "AvPYAjQlEeqv1cMztuSAeVUMqQwQvXUljumgDH0KRuU=",
-          "py3"
-        ]
-      }
-    },
-    "0.11b1": {
-      "sdist": [
-        "ojRRCoEbs3PprNpXoY9wQtJMOBxCHRXxBoBWbpKmxmI=",
-        "opentelemetry-ext-psycopg2-0.11b1.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_psycopg2-0.11b1-py3-none-any.whl": [
-          "+23yoNQfnXCMAKKpY7b+vmJHAcDrkBz9quCiNsgrd3c=",
-          "py3"
-        ]
-      }
-    },
-    "0.4a1": {
-      "sdist": [
-        "nETf10SP/Or/BVNJlurGrf7F/R8CBFchyw6bfSFR2bw=",
-        "opentelemetry-ext-psycopg2-0.4a1.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_psycopg2-0.4a1-py3-none-any.whl": [
-          "ZeYVAz6amjUL3e8y/lXD1lJjDp4JF1XOkpkX5RM6Bww=",
-          "py3"
-        ]
-      }
-    },
-    "0.5b0": {
-      "sdist": [
-        "3Akl6cymZlZ4FjLxKG703iD06hUYIRQsI41CFAlZveA=",
-        "opentelemetry-ext-psycopg2-0.5b0.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_psycopg2-0.5b0-py3-none-any.whl": [
-          "sZUzP6l+yMpmULqhhBzE24WcZVp8a2OEbOUmw7YwE+Y=",
-          "py3"
-        ]
-      }
-    },
-    "0.6b0": {
-      "sdist": [
-        "kPkEXujnbTuEfcJAUMja6HiEBVnyEnBrZy21WK2GlYU=",
-        "opentelemetry-ext-psycopg2-0.6b0.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_psycopg2-0.6b0-py3-none-any.whl": [
-          "hg0VB/zqgcdFfTqtEq6c64dKcDrKLH9fzMB6qLxpOBc=",
-          "py3"
-        ]
-      }
-    },
-    "0.7b1": {
-      "sdist": [
-        "h9L44aBQNoxbHCJ93Z1yPq0q6w1ZyaTXTvhidM5Zs8g=",
-        "opentelemetry-ext-psycopg2-0.7b1.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_psycopg2-0.7b1-py3-none-any.whl": [
-          "V9JDB1RjGs6dPGYLtAFOpf63gGMx8VfLJiW6iVc8ZE0=",
-          "py3"
-        ]
-      }
-    },
-    "0.8b0": {
-      "sdist": [
-        "MZcLdEBh8tR4KjJqcoho2VEwad0nzpnzrd1B442yUgg=",
-        "opentelemetry-ext-psycopg2-0.8b0.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_psycopg2-0.8b0-py3-none-any.whl": [
-          "E9FMb/EsMveVb/HK/60pf9GxMZEjkX1IHq5EDwN/Zkg=",
-          "py3"
-        ]
-      }
-    },
-    "0.9b0": {
-      "sdist": [
-        "5edj/5ismWsiKlj6h4lOsqSORz9Av0pd69jiHQxQwHg=",
-        "opentelemetry-ext-psycopg2-0.9b0.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_psycopg2-0.9b0-py3-none-any.whl": [
-          "DFaNgLNXl74jovxA2HrxY3XKitVWLrras4oZIbF45yc=",
-          "py3"
-        ]
-      }
     }
   },
   "optga": {

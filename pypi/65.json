@@ -6864,12 +6864,6 @@
     }
   },
   "booltest": {
-    "0.1.0": {
-      "sdist": [
-        "T7bxB5451CVg7+q18VRHShdJK7GWdNMfNoyoo41pLLY=",
-        "booltest-0.1.0.tar.gz"
-      ]
-    },
     "0.1.1": {
       "sdist": [
         "tY4iaMJCIR3MolBlA4W8DYtUel6K6MSD1cQJfSw1PKQ=",
@@ -7034,10 +7028,10 @@
         "booltest-0.7.1.tar.gz"
       ]
     },
-    "0.7.2": {
+    "0.7.4": {
       "sdist": [
-        "9UtPI0lEabCf7XySCW47Sze7lbyrvmA8k4EAfMpzpQ8=",
-        "booltest-0.7.2.tar.gz"
+        "WFRzlpQQgI/v4fyUqbJyh1LYq+29B6KbxZQZMT6RTmo=",
+        "booltest-0.7.4.tar.gz"
       ]
     }
   },
@@ -27535,6 +27529,14 @@
       ]
     }
   },
+  "dutycalls-sdk": {
+    "0.1.0": {
+      "sdist": [
+        "I/lxmrmnppMzBjFsdF9Q3NCDft3z86cnWaIWXqvJKcI=",
+        "dutycalls_sdk-0.1.0.tar.gz"
+      ]
+    }
+  },
   "easy-parallel-py3": {
     "0.1.6.1": {
       "wheels": {
@@ -32991,6 +32993,18 @@
         "geohashlite-0.3.1-cp37-cp37m-macosx_11_0_x86_64.whl": [
           "FGnrD26jIAFysjqS8Zw46BtlCUXZ3aHV7MNw9Msg/rc=",
           "cp37"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "uwWjzBBx6djLKWr8fRXfKv58RRL+QIkKDPH3cCop2JE=",
+        "geohashlite-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "geohashlite-0.3.2-py3-none-any.whl": [
+          "lholSJZ5nSThZogqatjhzxZlzvuRsLeMuicjzrLIs9c=",
+          "py3"
         ]
       }
     }
@@ -48059,6 +48073,12 @@
         "9T6iVAxijCV1d1UbtyBauqtqA2PGOEkYlmOw6I/e9go=",
         "MEArec-1.5.1.tar.gz"
       ]
+    },
+    "1.7.0": {
+      "sdist": [
+        "AIOoRueLK3z+bWLftoqNu+eAghWexLb7roaZt90yPy0=",
+        "MEArec-1.7.0.tar.gz"
+      ]
     }
   },
   "mediawatcher": {
@@ -55142,6 +55162,18 @@
         ]
       }
     },
+    "1.17.39.0": {
+      "sdist": [
+        "qg/ppqRkswVExV5CO+N0G9qIIuJV5KUfe8W6mPzWZrs=",
+        "mypy-boto3-lakeformation-1.17.39.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lakeformation-1.17.39.0-py3-none-any.whl": [
+          "R4B+dVDszz0s9ImEaWpeDTTZpDMStZHtdQzxeUuRVM8=",
+          "py3"
+        ]
+      }
+    },
     "1.17.4.0": {
       "sdist": [
         "dL7WLDry4AnCV5G8W7YKcQx2OguKQW5JamARumjNRJA=",
@@ -61435,56 +61467,6 @@
         "openpathsampling-1.4.2-py2.py3-none-any.whl": [
           "61Ya5IW3i4s7EuPuMy0i4+J/Mx4INQhJfJoED7JA7Ds=",
           "py2.py3"
-        ]
-      }
-    }
-  },
-  "opentelemetry-ext-botocore": {
-    "0.10b0": {
-      "sdist": [
-        "rTz/6ZZDFIJuJBstR+SeUFaNkS/qAUiuP8KpZea8l8o=",
-        "opentelemetry-ext-botocore-0.10b0.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_botocore-0.10b0-py3-none-any.whl": [
-          "rc3i/Dq7nLxwefDtI5/4yLZAqQcpuEiBBJBWwTuu530=",
-          "py3"
-        ]
-      }
-    },
-    "0.11b0": {
-      "sdist": [
-        "Q3k+F7d5PSbLnNg2WHjxcrGt1mh1GzgPc8At8shZeYY=",
-        "opentelemetry-ext-botocore-0.11b0.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_botocore-0.11b0-py3-none-any.whl": [
-          "wVUEgS+rkmDAvXpr283PXG0xlrfaUm/can5wL349q3U=",
-          "py3"
-        ]
-      }
-    },
-    "0.11b1": {
-      "sdist": [
-        "cB0HxMeuVvUa5gx+LilayK5qFnTaWU6YUsmXDyJ6I1A=",
-        "opentelemetry-ext-botocore-0.11b1.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_botocore-0.11b1-py3-none-any.whl": [
-          "tDlKTk9yEZJSIGHSK0inhkPTkYlk+dtM9JtRZI08r5o=",
-          "py3"
-        ]
-      }
-    },
-    "0.9b0": {
-      "sdist": [
-        "wUiLV3s6nIF5XDahyYEznKsLEJt9axD8F+WmfefZiIc=",
-        "opentelemetry-ext-botocore-0.9b0.tar.gz"
-      ],
-      "wheels": {
-        "opentelemetry_ext_botocore-0.9b0-py3-none-any.whl": [
-          "YJuBI8TB6dOiw5ri+HyLNOvX2Zx49jQNEWX2OYNw3bQ=",
-          "py3"
         ]
       }
     }
@@ -87727,6 +87709,34 @@
           "cp38"
         ]
       }
+    },
+    "2.5.0.dev20210326": {
+      "wheels": {
+        "tensorflow_text_nightly-2.5.0.dev20210326-cp36-cp36m-manylinux1_x86_64.whl": [
+          "VDOmMXRv0fAQ/gHfBOFCZE3u1HHMA9NIwXKmth6ECoI=",
+          "cp36"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210326-cp36-cp36m-win_amd64.whl": [
+          "TTQAJxvDyDoUlQj07KyIrGEFOTsgVV0CgBw9twQUEU8=",
+          "cp36"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210326-cp37-cp37m-manylinux1_x86_64.whl": [
+          "YKy3vVSPS0HwFW305W4GZOS7EePkxwYTONxLhYyV3Jg=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210326-cp37-cp37m-win_amd64.whl": [
+          "J/ArYXSGU2Kk1tMqUq7f9BxEuy/wZbkPCG0mL3BDQPo=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210326-cp38-cp38-manylinux1_x86_64.whl": [
+          "/OtnjkRLCr70kMe/kNUVJYf5+Rf09f1pkZlQYGn5RlY=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.5.0.dev20210326-cp38-cp38-win_amd64.whl": [
+          "II+ypElXie2Cx8CsSnPuCj0bIn8hXV9hwVy3OL9RaHw=",
+          "cp38"
+        ]
+      }
     }
   },
   "test-code1999": {
@@ -89998,6 +90008,14 @@
       "sdist": [
         "FWg+assFqxN5rpvsgkNU+TeNHNP70tRbND7QV9gsQnw=",
         "ube-0.1.tar.gz"
+      ]
+    }
+  },
+  "ucraft-unsplash-api": {
+    "1.0": {
+      "sdist": [
+        "CwEj69Y4DIi6aN04MMRLJw8RYnk8jUX2W55EAlEavQA=",
+        "ucraft_unsplash_api-1.0.tar.gz"
       ]
     }
   },
