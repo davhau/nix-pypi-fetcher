@@ -7815,6 +7815,14 @@
       ]
     }
   },
+  "aws-cdk": {
+    "10.0.9": {
+      "sdist": [
+        "tX8SX33ypc7RniQiMyUqjTwJ9kuB2EEH4hXnw1ecMGs=",
+        "aws-cdk-10.0.9.tar.gz"
+      ]
+    }
+  },
   "aws-cdk.aws-servicecatalogappregistry": {
     "1.86.0": {
       "sdist": [
@@ -16002,6 +16010,18 @@
       "wheels": {
         "ctpysql-1.4.0-py3-none-any.whl": [
           "stQdhz+u1jMLY0TYQ51e+xb4h8qFxlOWYYw/lAoxuL8=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.5": {
+      "sdist": [
+        "QJgAPh7skmmeZZFfpnpiv1RwMySsLjTkiF2/6sZsYbw=",
+        "ctpysql-1.4.5.tar.gz"
+      ],
+      "wheels": {
+        "ctpysql-1.4.5-py3-none-any.whl": [
+          "v4I7PC8BGg2xgDinKNogMH3L0H5CpqNbLSOTjhawOxE=",
           "py3"
         ]
       }
@@ -43886,6 +43906,30 @@
         "mfem-4.2.0.1.tar.gz"
       ]
     },
+    "4.2.0.10": {
+      "sdist": [
+        "cQDuqsmp/DA5ftruTiCv9RHyR3Mz/XReX2Le1mhRSO0=",
+        "mfem-4.2.0.10.tar.gz"
+      ],
+      "wheels": {
+        "mfem-4.2.0.10-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "LTJeIjMoLohx7dKqyu370WVDDpGmKYACSdHCaS/VMQU=",
+          "cp36"
+        ],
+        "mfem-4.2.0.10-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "nGnT7gXM3GVwJy4JNf5IhFIUhKgaGIzD0lhzRUfFavg=",
+          "cp37"
+        ],
+        "mfem-4.2.0.10-cp38-cp38-manylinux2010_x86_64.whl": [
+          "+Wcf3gcf2kve30jv3+KwnE4pnxz82ZTfxmCqhdHPLu8=",
+          "cp38"
+        ],
+        "mfem-4.2.0.10-cp39-cp39-manylinux2010_x86_64.whl": [
+          "UsdxtqfqmM97W3KtpDN1YRS5nYgqi7glQ29C9OfWmII=",
+          "cp39"
+        ]
+      }
+    },
     "4.2.0.2": {
       "sdist": [
         "bjZCrIfOnxJgoaefoV17EGLR9aP81pNtzvgqcq+WxVI=",
@@ -43954,6 +43998,30 @@
         ],
         "mfem-4.2.0.8-cp39-cp39-manylinux2010_x86_64.whl": [
           "Sg9mYe1tdeXgNhcaJsjmf13F17R4f4lH2YCVzD6dSKk=",
+          "cp39"
+        ]
+      }
+    },
+    "4.2.0.9": {
+      "sdist": [
+        "klQZM8iyR/+vyjmdazPzEX438dJNC434ee6oA6DqPhw=",
+        "mfem-4.2.0.9.tar.gz"
+      ],
+      "wheels": {
+        "mfem-4.2.0.9-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "oqJ6tqGa8IYvS9/q2GEhQqBb3uyJeNj1BMn7Cgkgi9o=",
+          "cp36"
+        ],
+        "mfem-4.2.0.9-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "S3KmYmPrFCqahuTb0aasl12GBeDVRUSgQf965DHpQFw=",
+          "cp37"
+        ],
+        "mfem-4.2.0.9-cp38-cp38-manylinux2010_x86_64.whl": [
+          "DJXcZBtXv57CViUqipbSq05c1HxSCrgQ1DK/MQFI5Vc=",
+          "cp38"
+        ],
+        "mfem-4.2.0.9-cp39-cp39-manylinux2010_x86_64.whl": [
+          "V45F1/UTeEZkjxNA3vRCfub5TFulAaaMl4hUaX83mCU=",
           "cp39"
         ]
       }
@@ -52839,40 +52907,6 @@
         "niltech-0.4-py2-none-any.whl": [
           "PUlXeZxC+OyzcipeNsr5PQ3auUKvmJ/HK2gPPOIkHV4=",
           "py2"
-        ]
-      }
-    }
-  },
-  "nisystemlink-clients": {
-    "0.1.0": {
-      "wheels": {
-        "nisystemlink_clients-0.1.0-py3-none-any.whl": [
-          "njT0/HRYO6677+wnZlyxWMZhF2Mvz3L/ndT4XPkvr7U=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "wheels": {
-        "nisystemlink_clients-0.1.1-py3-none-any.whl": [
-          "oTdCEneLHfacYKUnhip7pC0Ar9USTEUGvAfTRQ4QfNY=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "wheels": {
-        "nisystemlink_clients-0.1.2-py3-none-any.whl": [
-          "eGZ/Skj/5KpgpFnEXNJYoM9Uccoyh3ebvF/vl+x/9z0=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "wheels": {
-        "nisystemlink_clients-0.1.3-py3-none-any.whl": [
-          "UPOL0hAez5DfneI1nL3sxTXjoqCkLHkYFD9FUmI3MSM=",
-          "py3"
         ]
       }
     }
@@ -68594,6 +68628,18 @@
       "wheels": {
         "proactive_jupyter_kernel-11.1.0.2103280142.dev0-py3-none-any.whl": [
           "Yfip3sDmxaNuPEeAbkrXZ0TklsVrBZd8gHu2CkELLio=",
+          "py3"
+        ]
+      }
+    },
+    "11.1.0.2103290141.dev0": {
+      "sdist": [
+        "RA+YTZmNigzMfaKHRaqz3u1kDE30CVJIgPq5dmhgFZ0=",
+        "proactive-jupyter-kernel-11.1.0.2103290141.dev0.zip"
+      ],
+      "wheels": {
+        "proactive_jupyter_kernel-11.1.0.2103290141.dev0-py3-none-any.whl": [
+          "6pAHmwPoBcsW/x6ec4Y7A9r+zlZx5RAUUgaL3khdIBY=",
           "py3"
         ]
       }

@@ -16239,6 +16239,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.36.5": {
+      "sdist": [
+        "VZ53TIcxVuWhsnAbEh+pkgI56lQtONRz6+KD+PSgOJw=",
+        "dbnd-luigi-0.36.5.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_luigi-0.36.5-py2.py3-none-any.whl": [
+          "X+HuTJRf5sGDHkYwnVBmlcNpVEKuUR3mZUTCSd6H1VU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "dcicwrangling": {
@@ -40269,20 +40281,6 @@
         "rMVItLRVSQcoJvbMmkfl2foWn0dQPpm1TkZg+RcsMTI=",
         "lupin_utils-0.2.9.tar.gz"
       ]
-    }
-  },
-  "lzsr-math": {
-    "1.7.9": {
-      "sdist": [
-        "Yipux9y5X8rUDiko1mCTZWGUm7pEMXCXDgyAC9nHxjE=",
-        "lzsr_math-1.7.9.tar.gz"
-      ],
-      "wheels": {
-        "lzsr_math-1.7.9-py3-none-any.whl": [
-          "+FNfTkC69wg7OWBOaMo53G2CJ0DU+JdzXWO5NA5eV9g=",
-          "py3"
-        ]
-      }
     }
   },
   "lztools": {
@@ -69037,68 +69035,6 @@
       ]
     }
   },
-  "requiremental": {
-    "0.0.1": {
-      "sdist": [
-        "bOCFVy/rUbY9WpcUEfK1kG/u01ZstT9CHsJwBxUGaFA=",
-        "requiremental-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "requiremental-0.0.1-py3-none-any.whl": [
-          "CkQVNhXUL9638EPyl23QFYlzfr3vDaXLzawVllvgAW0=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "zCPU77kD+CY+2QukswN9VHLSPUgoM2JE3PSTVs79RAU=",
-        "requiremental-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "requiremental-0.0.2-py3-none-any.whl": [
-          "cZF9wIacGCjQPGkV1i1aOdVF2msAWXodEOTSgFClVYo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "Lo5FPIEXu+EPJ7b46QTwo6yhx6i3C4oYkbyDxb3bI9c=",
-        "requiremental-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "requiremental-0.0.3-py3-none-any.whl": [
-          "2GUSK7/ODofdTTpCvA6Q4LKpETmlWIHpF1P839EfvTg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "jwKyToM6xI5YRJis/K7ImN0abCT3/zbCQW7zwizdu3c=",
-        "requiremental-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "requiremental-0.0.4-py3-none-any.whl": [
-          "c0yQPKU7SLMt3+wQ0g2SXM2I+49hdIAkq1xAjy8r6UM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "f0t289TPiBsua15JT5iZSC4vjwFMXoZE6lf48193GhY=",
-        "requiremental-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "requiremental-0.0.5-py3-none-any.whl": [
-          "VjhaXE+uLxi7j0dBuqITiDuIOXKChcpYZj4iwz99vAw=",
-          "py3"
-        ]
-      }
-    }
-  },
   "resetty": {
     "1.0": {
       "sdist": [
@@ -74899,40 +74835,6 @@
       }
     }
   },
-  "sysclean": {
-    "1.0": {
-      "wheels": {
-        "sysclean-1.0-py3-none-any.whl": [
-          "nbqyCAdsgfR9Nz8TSvfTzGDk6By4gbLDENtYevYslds=",
-          "py3"
-        ]
-      }
-    },
-    "1.1": {
-      "wheels": {
-        "sysclean-1.1-py3-none-any.whl": [
-          "1WJUY40dQ7hVZtjxu+Myzho4BC9BPsqsi40JSg5Cgew=",
-          "py3"
-        ]
-      }
-    },
-    "1.2": {
-      "wheels": {
-        "sysclean-1.2-py3-none-any.whl": [
-          "sGg8DIfrz/2F5Fzs+dRAxKEg6gfLQJfdaAHrxwMrBR0=",
-          "py3"
-        ]
-      }
-    },
-    "1.2.1": {
-      "wheels": {
-        "sysclean-1.2.1-py3-none-any.whl": [
-          "aWm4dLH6zyUat6xmrGYH0RJfg4ZJdNgWyt38X91/6+s=",
-          "py3"
-        ]
-      }
-    }
-  },
   "tableschema": {
     "1.0.0": {
       "sdist": [
@@ -77078,6 +76980,18 @@
       "wheels": {
         "terra_ai-4.9.26-py3-none-any.whl": [
           "/EvOaGE/HMtC+4IWtpS5kzL7tKYT54RsXCiMssPF+18=",
+          "py3"
+        ]
+      }
+    },
+    "4.9.27": {
+      "sdist": [
+        "L1u9KJilkdQMc/wums7zCOxqijEDtMMyH4W0vAqfovs=",
+        "terra_ai-4.9.27.tar.gz"
+      ],
+      "wheels": {
+        "terra_ai-4.9.27-py3-none-any.whl": [
+          "x18NR/0XO1eQPV+e8m6SmPXM0+zjl8Z9jy+6/n2q/a8=",
           "py3"
         ]
       }
@@ -85530,6 +85444,18 @@
       "wheels": {
         "torchdata_nightly-1616889854-py3-none-any.whl": [
           "CGCTzTj7PPGSa1Gm/Av3LQ1KB+/mSlb0GaUJM6IS0os=",
+          "py3"
+        ]
+      }
+    },
+    "1616976252": {
+      "sdist": [
+        "5VJ6aUlifm14K5hXZqH6fPdmNoW6N++ifMSqYm9wkxo=",
+        "torchdata-nightly-1616976252.tar.gz"
+      ],
+      "wheels": {
+        "torchdata_nightly-1616976252-py3-none-any.whl": [
+          "hb2N8/bwwIGlAkZNDstfwhit5NigI2MZmCXQNip4GxI=",
           "py3"
         ]
       }
