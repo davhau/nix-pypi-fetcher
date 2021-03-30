@@ -18875,6 +18875,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "oAXPKRfquJOwcAyAKXoh0HmYeO4I8b69dSihQGGJ66k=",
+        "cross-transformers-pytorch-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "cross_transformers_pytorch-0.0.2-py3-none-any.whl": [
+          "jq6FYDsCpmraCnPShg5ju+qGpUmLHNtCMzUUmkDk+dg=",
+          "py3"
+        ]
+      }
     }
   },
   "crypto-dev-signer": {
@@ -36410,6 +36422,18 @@
         ]
       }
     },
+    "0.3.1": {
+      "sdist": [
+        "Zv2zzIjlP0C40kjzujnkoulUV7TAqWqerktA72r9piA=",
+        "fluxio-parser-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "fluxio_parser-0.3.1-py3-none-any.whl": [
+          "reiwIPKdKhTYwwk9rHxq7oOggBqQvzl2mozG3W3soTQ=",
+          "py3"
+        ]
+      }
+    },
     "0.3.1.dev1": {
       "sdist": [
         "MBMNke0An7r/UST3xx0rrd1MMF4kr8RwCE13yJMcik8=",
@@ -40526,6 +40550,14 @@
         ]
       }
     },
+    "3.0.39rc0": {
+      "wheels": {
+        "huaweicloudsdkces-3.0.39rc0-py3-none-any.whl": [
+          "tEyfzAEjMFDNzDe+uBwYN0jq/Gjj+JbVKDlmjyphdLg=",
+          "py3"
+        ]
+      }
+    },
     "3.0.3b0": {
       "wheels": {
         "huaweicloudsdkces-3.0.3b0-py3-none-any.whl": [
@@ -43777,6 +43809,32 @@
         "PsPsAEm3Snv5szvmFh6NuRAjr6NbLe8yxRpEGcNK9Po=",
         "kong-0.2.1.tar.gz"
       ]
+    }
+  },
+  "kong-service-exporter": {
+    "0.1.0": {
+      "sdist": [
+        "1+LNMYcvPMF157N6zMKQUDS4EenuGpMxWdgNPeFfw84=",
+        "kong-service-exporter-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "kong_service_exporter-0.1.0-py3-none-any.whl": [
+          "zV1WWBx1CjBcXNdArL5Tch1VRDsxjGyBv76+Mn5nZVY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "qAJOhQqsmcvbktFJkVRJBfweT086y328JBQBQct3B5g=",
+        "kong-service-exporter-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "kong_service_exporter-0.1.1-py3-none-any.whl": [
+          "IG8DIcM9fVhpQQpc3iCv1Ui24MmTjlY2blaYt4+2m7s=",
+          "py3"
+        ]
+      }
     }
   },
   "krocus": {
@@ -59688,6 +59746,14 @@
         ]
       }
     },
+    "9.0.1.0.0.99.dev11": {
+      "wheels": {
+        "odoo9_addon_sale_cancel_reason-9.0.1.0.0.99.dev11-py2-none-any.whl": [
+          "wbGeBWpicXqsD+gUOssf0ZWldfzv/WHLg+IFfw+Z4m0=",
+          "py2"
+        ]
+      }
+    },
     "9.0.1.0.0.99.dev2": {
       "wheels": {
         "odoo9_addon_sale_cancel_reason-9.0.1.0.0.99.dev2-py2-none-any.whl": [
@@ -72498,6 +72564,38 @@
         ],
         "pyscf-1.7.6-cp39-cp39-manylinux1_x86_64.whl": [
           "+lz1xthkl1Wi5GZTkw4IwLZce58HQ7HeljZoX/cKEig=",
+          "cp39"
+        ]
+      }
+    },
+    "1.7.6.post1": {
+      "wheels": {
+        "pyscf-1.7.6.post1-cp27-cp27m-manylinux1_x86_64.whl": [
+          "5Xg0bupJOh4lA3rQDQYoGHwygYZDCYPeOTZTZoxapfY=",
+          "cp27"
+        ],
+        "pyscf-1.7.6.post1-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "n/b9RA+riHEt89AfjnJ0MJ8EZxSeJq8PmkB+8q7GSMc=",
+          "cp27"
+        ],
+        "pyscf-1.7.6.post1-cp35-cp35m-manylinux1_x86_64.whl": [
+          "j7PbHYuWJxI2QkhFYNbjdmwBff73zC9VLJp9wpwYWDg=",
+          "cp35"
+        ],
+        "pyscf-1.7.6.post1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "5Gi1Xsj/9F2tGwxMxpxBYlvUfGyUYcnShJeMQjsJJjg=",
+          "cp36"
+        ],
+        "pyscf-1.7.6.post1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "LXIpn77HIeY3VN+eQrHDBi0hM9H3fx5320KV30+Hm0c=",
+          "cp37"
+        ],
+        "pyscf-1.7.6.post1-cp38-cp38-manylinux1_x86_64.whl": [
+          "yZz/l8VtdB5eb+wzenYl1tv6OSicJaI9+4x9P6qLZxk=",
+          "cp38"
+        ],
+        "pyscf-1.7.6.post1-cp39-cp39-manylinux1_x86_64.whl": [
+          "KBMVWKeSKSzghpIgk3N0L/u8xaOx7hs5xWvzY3mzk9c=",
           "cp39"
         ]
       }
@@ -85929,6 +86027,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.365": {
+      "sdist": [
+        "cLLs5P3qsdafqs3HfK78vh8+AdrjcRRH5iuGVVDOK/Y=",
+        "tencentcloud-sdk-python-afc-3.0.365.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_afc-3.0.365-py2.py3-none-any.whl": [
+          "DIoO+Y7MolQcPnUE0zSMzVUfMqWvkUuiJzXyMS5ymF8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendenci": {
@@ -90896,6 +91006,18 @@
       "sdist": [
         "uroP0PyvV6brF7Cau2T4afiyM82oZLiOH87LputkShQ=",
         "terra-opp-0.5.3.tar.gz"
+      ]
+    },
+    "0.5.5": {
+      "sdist": [
+        "8HAAyD82Rd4Xas9rR/TDwPaSVpTIhS33HlFOOznobbs=",
+        "terra-opp-0.5.5.tar.gz"
+      ]
+    },
+    "0.5.6": {
+      "sdist": [
+        "uKEztMUiCAmGEae9mIasXdsIvj7uF0cdhU11mAdRU4Q=",
+        "terra-opp-0.5.6.tar.gz"
       ]
     }
   },
