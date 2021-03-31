@@ -1945,6 +1945,14 @@
       }
     }
   },
+  "amazon-redshift-python-driver": {
+    "10.10.10": {
+      "sdist": [
+        "t+RiUV0CrUKGyelqEjsbiPPIrY9WUBr64pVwS5NYAdw=",
+        "amazon-redshift-python-driver-10.10.10.tar.gz"
+      ]
+    }
+  },
   "anapass-python": {
     "1.0.0.10": {
       "sdist": [
@@ -6121,6 +6129,14 @@
       }
     }
   },
+  "aws-eks-best-practices": {
+    "10.10.10": {
+      "sdist": [
+        "io6kSAaeGRLvUNDsCF1hgkt/10f5amig2L/x5tt5EGg=",
+        "aws-eks-best-practices-10.10.10.tar.gz"
+      ]
+    }
+  },
   "aws-get-logs": {
     "0.0.2": {
       "sdist": [
@@ -6156,6 +6172,14 @@
       "sdist": [
         "YW7v01Lk/t5eC2atHm4FS00Y3TRdjh+JZqFSXC5ZMlE=",
         "aws_get_logs-0.0.7.tar.gz"
+      ]
+    }
+  },
+  "aws-lambda-base-images": {
+    "10.10.10": {
+      "sdist": [
+        "RfH8e+ZkYrQUK3hSev2vkiAdkyTKcujrMin0YNb3RXg=",
+        "aws-lambda-base-images-10.10.10.tar.gz"
       ]
     }
   },
@@ -6783,6 +6807,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "aws-ssm-data-protection-provider-for-aspnet": {
+    "10.10.10": {
+      "sdist": [
+        "yfvmp8UMmYYxDk8AA29FnFosS9A+wwIbSgtEhgs0dFk=",
+        "aws-ssm-data-protection-provider-for-aspnet-10.10.10.tar.gz"
+      ]
     }
   },
   "azdev": {
@@ -12762,18 +12794,6 @@
     }
   },
   "cucim": {
-    "0.0.0": {
-      "sdist": [
-        "Lp6xJ30+Rl1jdWNTDHdFpVrk/MVpJmFkEPh23tSSVqY=",
-        "cucim-0.0.0.tar.gz"
-      ],
-      "wheels": {
-        "cucim-0.0.0-py2.py3-none-any.whl": [
-          "CYP1Qcb58af1+IIP5cTgoln1DYa52Co23zisEDNIoww=",
-          "py2.py3"
-        ]
-      }
-    },
     "0.18.0": {
       "wheels": {
         "cucim-0.18.0-py3-none-manylinux2014_x86_64.whl": [
@@ -12786,6 +12806,14 @@
       "wheels": {
         "cucim-0.18.1-py3-none-manylinux2014_x86_64.whl": [
           "PU8QG2GnAs4AhtZf0U0RoQZJParguyspvM/S6EsjMg8=",
+          "py3"
+        ]
+      }
+    },
+    "0.18.2": {
+      "wheels": {
+        "cucim-0.18.2-py3-none-manylinux2014_x86_64.whl": [
+          "KqvZqf56pKPJ7OllmcAbjdGBe3XPjMR9tw2B0+fqBPI=",
           "py3"
         ]
       }
@@ -39136,6 +39164,18 @@
         ]
       }
     },
+    "1.17.41.0": {
+      "sdist": [
+        "CFTRdKYgH3NhRdzMnQu7wsjp8yoPYWHai2yScqvzXI4=",
+        "mypy-boto3-marketplace-catalog-1.17.41.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_marketplace_catalog-1.17.41.0-py3-none-any.whl": [
+          "Q3bxUNc4cCwUPrVBrOi3Ta7GAzVT31fQNiH3yG8lODY=",
+          "py3"
+        ]
+      }
+    },
     "1.17.5.0": {
       "sdist": [
         "xxIZoFoxO4KI9oYA9RsXLdKyA1vkQHCe4v3lsgdizRw=",
@@ -47119,6 +47159,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "GWlYZfPP+T1vE7VwfInkEhx2YatpIWPiQoFmxdp8C/w=",
+        "pdbr-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "pdbr-0.5.0-py3-none-any.whl": [
+          "Vv6X0LOih2gYlcOvkEccvDMIDkuQLIS+ULlKugsUFTc=",
+          "py3"
+        ]
+      }
     }
   },
   "pdfmap": {
@@ -47134,6 +47186,30 @@
         ],
         "pdfmap-0.0.1-py3-none-any.whl": [
           "EIcftJkGuexDqwa/zFsqVORrbmyELxLZJLmjAJAhyC0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.10": {
+      "sdist": [
+        "W8dKT0qPgTANT5QL6BalmnaKscD1I14Sm/EpiTL7ePs=",
+        "pdfmap-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "pdfmap-0.0.10-py3-none-any.whl": [
+          "4imgW/eX73ouizvC15ZfE7h5BpYLYorJDCejSEMZuMo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "MIhqQTc8ZJe0f0GEBq6VG5rOFDRpFlihKlu7SJJtpWM=",
+        "pdfmap-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "pdfmap-0.0.11-py3-none-any.whl": [
+          "mjiHGy0ghGUaXP2tEZ75qq0BWEFaQfwvS80F8nr6ln0=",
           "py3"
         ]
       }
@@ -70810,6 +70886,18 @@
       "wheels": {
         "SigProfilerTopography-1.0.33-py3-none-any.whl": [
           "oDKqIRttvHMZOZImubxPoFGuXsylFRc9ZteP2y3Ciek=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.34": {
+      "sdist": [
+        "nRhFYFjD1ryC/vjmnLOFZnUqBxqnsg6jNXoa0igUC4A=",
+        "SigProfilerTopography-1.0.34.tar.gz"
+      ],
+      "wheels": {
+        "SigProfilerTopography-1.0.34-py3-none-any.whl": [
+          "MvAUdG9qypnU9eutcYMm4j1SCRAM6wI8nSz/lzK1Ccg=",
           "py3"
         ]
       }

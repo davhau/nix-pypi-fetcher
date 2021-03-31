@@ -3945,6 +3945,14 @@
       }
     }
   },
+  "aws-aspnet-cognito-identity-provider": {
+    "10.10.10": {
+      "sdist": [
+        "oOvaejtydZiHgfbdGQ7vPU/Q8wL9baaupqI61R8cqqQ=",
+        "aws-aspnet-cognito-identity-provider-10.10.10.tar.gz"
+      ]
+    }
+  },
   "aws-cdk.aws-appmesh": {
     "0.27.0": {
       "sdist": [
@@ -12607,6 +12615,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "xGrqziEI6tgzqfpGLwrlqsy9dr47IhDJacNtB1fyt/A=",
+        "crontip-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "crontip-0.0.3-py3-none-any.whl": [
+          "8G+h4iWY8Q9owIpbAPI0lnm2QWGn9zV0MN9HnhpRqFY=",
+          "py3"
+        ]
+      }
     }
   },
   "croudtech-python-aws-app-config": {
@@ -13238,6 +13258,12 @@
       "sdist": [
         "aiwZcDWMi+BxkMVL39tbbpTWvrCR+myhSkNvhMWUHDM=",
         "cvnn-1.1.36.tar.gz"
+      ]
+    },
+    "1.1.38": {
+      "sdist": [
+        "y3ilQFURBGzFV3DsOafMuhmqd5IYQOQWReL5HTbh8fs=",
+        "cvnn-1.1.38.tar.gz"
       ]
     },
     "1.1.5": {
@@ -25292,6 +25318,18 @@
     }
   },
   "freebox-api": {
+    "0.0.10": {
+      "sdist": [
+        "jwaVWCQncNdYy22Fd7bVK8ArShy/2SCcrH5qeO4ksbM=",
+        "freebox-api-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "freebox_api-0.0.10-py3-none-any.whl": [
+          "+34drRTbi7ix0XC8fFGW0qTcTZ4/k+U3IqnqVnCs3Jk=",
+          "py3"
+        ]
+      }
+    },
     "0.0.9": {
       "sdist": [
         "c2XDwI07MHMdBg5L8LTyQvhTGL0SgEAQQuqajRrEyB8=",
@@ -32009,22 +32047,98 @@
       }
     },
     "0.9.0": {
+      "sdist": [
+        "zHsWycd6Z2wzRyE1D5TQtyz2rMxeK9RqWh7cqlieKsQ=",
+        "isal-0.9.0.tar.gz"
+      ],
       "wheels": {
+        "isal-0.9.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "rhq5Rw1HILjwIGIqvfTI2QRM6Jo519XZOpfcbhrbRzY=",
+          "cp36"
+        ],
+        "isal-0.9.0-cp36-cp36m-manylinux2014_aarch64.whl": [
+          "Q3ZtYUaI0H84/EsTdwnCOs5SfRklHXW21pS4kT8QCsY=",
+          "cp36"
+        ],
+        "isal-0.9.0-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "z42EtIb+gDAGCiDlj9DmgAyPpgVhF/Z6foBkVo5iyLw=",
+          "cp36"
+        ],
         "isal-0.9.0-cp36-cp36m-win_amd64.whl": [
           "4PWnfGoenj0Z49TbnDw3TYqr6mWWv26uKN4k7JG2ipo=",
           "cp36"
+        ],
+        "isal-0.9.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "L5sElImYimsr59o4rFkGfM8vm0ucgJPSBvt9kPnt+4A=",
+          "cp37"
+        ],
+        "isal-0.9.0-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "qHN/RaEyDxtzR8eK7FxAcNOq+YY3q7ywjWTf8H7otTs=",
+          "cp37"
+        ],
+        "isal-0.9.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "v6TknMktftdNV7opAfG2fNdI2YPdZ9Y8m0e5QS6isJg=",
+          "cp37"
         ],
         "isal-0.9.0-cp37-cp37m-win_amd64.whl": [
           "N8i2RgVt+g5bR+AM84tHrlAiQDWhJubVJwmNhdzHLnc=",
           "cp37"
         ],
+        "isal-0.9.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "k7DnrwQaDpyzyTlayMDnkKoVbos1PMkCPp08JLhZDig=",
+          "cp38"
+        ],
+        "isal-0.9.0-cp38-cp38-manylinux2014_aarch64.whl": [
+          "iajCnGU+b88c8hY2LqCeMTgT5EPP8+gklaU3ua82UVQ=",
+          "cp38"
+        ],
+        "isal-0.9.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "2pFjyDkqR/Nh0RJvNzhv2MJAugWeF5UgZm3LPxRBzBI=",
+          "cp38"
+        ],
         "isal-0.9.0-cp38-cp38-win_amd64.whl": [
           "7pXLyFQpO3AZRn842Ctj3sIo0OjpTPnJpwqh00ZqWyA=",
           "cp38"
         ],
+        "isal-0.9.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "UeNH1mdWGfxhpnzr6XGy8rn+hWciCvovayHWiYbWJBk=",
+          "cp39"
+        ],
+        "isal-0.9.0-cp39-cp39-manylinux2014_aarch64.whl": [
+          "fdsMo5ahZoVdxAIe3bMnnwz/9Aq6/acmBz6/9bn34T4=",
+          "cp39"
+        ],
+        "isal-0.9.0-cp39-cp39-manylinux2014_x86_64.whl": [
+          "Uj7a8rWR5U41fqrMRwosIqbFztiPuaAZh77874NHzbk=",
+          "cp39"
+        ],
         "isal-0.9.0-cp39-cp39-win_amd64.whl": [
           "9O3LfYwGxieG47OHqsPs6ffE32HqI24MYMkrqrElaWE=",
           "cp39"
+        ],
+        "isal-0.9.0-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "SB7fmfCFisgIypcnyA74ONl7XwP+AABClz4Dtf3Va/A=",
+          "pp36"
+        ],
+        "isal-0.9.0-pp36-pypy36_pp73-manylinux1_x86_64.whl": [
+          "mOm7MDGYeyPrlMafLqsodSqJI6csnRnO9UKqIsyNe3Q=",
+          "pp36"
+        ],
+        "isal-0.9.0-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "yZw5aCLQWP2Q+AZdap9bnlWdOUEH2IqHhlfKXwHfXAY=",
+          "pp36"
+        ],
+        "isal-0.9.0-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "6RGjQGcbJPxm5DZb4e192iRts4S9YnIATKdwk6w0jgE=",
+          "pp37"
+        ],
+        "isal-0.9.0-pp37-pypy37_pp73-manylinux1_x86_64.whl": [
+          "Hey+nqiPwJaUbL0TW6FdMiMg6hvYFuxGHxIU9Cn/LAk=",
+          "pp37"
+        ],
+        "isal-0.9.0-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "bRgQhdjL0c7cShVQHz/c6+Cyx/YxehdLFZ9g+aEuOtk=",
+          "pp37"
         ]
       }
     }
@@ -33762,6 +33876,30 @@
       "wheels": {
         "kolibri_app_desktop_xdg_plugin-1.0.6-py3-none-any.whl": [
           "ltAO9wgivbEqeVW+tjcQiCPabfmTE+6tpUU0sPdHjpw=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.7": {
+      "sdist": [
+        "Zbm5Iu7qhJeg7+BU53ASjoZwTiPRRTLH2tDQgah9a9A=",
+        "kolibri-app-desktop-xdg-plugin-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "kolibri_app_desktop_xdg_plugin-1.0.7-py3-none-any.whl": [
+          "3z/6OLbH55sLlvodMW3IdkO3KqqZ7vLs7lBzt9WClPQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "RhLstxc2T3Lb64kppPeL1hk7UGPXGkVoNjojHRt6Ubg=",
+        "kolibri-app-desktop-xdg-plugin-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "kolibri_app_desktop_xdg_plugin-1.0.8-py3-none-any.whl": [
+          "lDUmxk4iiu/2wojsz+JzYIY+inLKg3d596fRgFfpjkQ=",
           "py3"
         ]
       }
@@ -70206,6 +70344,18 @@
       "wheels": {
         "tfg_nightly-2021.3.30-py3-none-any.whl": [
           "0lubKjN3QuDImroyncxfxk2PhrDHy98Eftf4Qw/zZM4=",
+          "py3"
+        ]
+      }
+    },
+    "2021.3.31": {
+      "sdist": [
+        "fAwfbO7UyR1A2isLlr1maSx2/GPzYUm2kqOjZkAN/18=",
+        "tfg-nightly-2021.3.31.tar.gz"
+      ],
+      "wheels": {
+        "tfg_nightly-2021.3.31-py3-none-any.whl": [
+          "6mBQEl1sYpXP/e8GXzLoyYQMzeDePdrgJfsBK/DSkoI=",
           "py3"
         ]
       }
