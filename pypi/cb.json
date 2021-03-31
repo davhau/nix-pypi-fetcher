@@ -1395,14 +1395,6 @@
       ]
     }
   },
-  "amazon-vpc-cni-plugins": {
-    "10.10.10": {
-      "sdist": [
-        "z9Ssttive7/MgHVOZQTXB+1Qw54nLv0HmfvMCQqYCpo=",
-        "amazon-vpc-cni-plugins-10.10.10.tar.gz"
-      ]
-    }
-  },
   "amle-py": {
     "0.0.1": {
       "sdist": [
@@ -73237,14 +73229,6 @@
       }
     }
   },
-  "sagemaker-mxnet-training-toolkit": {
-    "10.10.10": {
-      "sdist": [
-        "DTbB21cSHxGGrlt/aBBTfSJKkTFUw3SelOhR7DljkOI=",
-        "sagemaker-mxnet-training-toolkit-10.10.10.tar.gz"
-      ]
-    }
-  },
   "salimness": {
     "0.1.0": {
       "sdist": [
@@ -77628,6 +77612,18 @@
       "wheels": {
         "sec_helpers-0.3.2-py3-none-any.whl": [
           "977UY6o0Q/h4HKddkZ0V6fGbsgs/Ky1y67bjkUldg/Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "nTXJmoY5GTz7GI/qtK30p8QZhkPFteUDx2BrL6FqR7I=",
+        "sec-helpers-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "sec_helpers-0.3.3-py3-none-any.whl": [
+          "nEeYxKrnUBrrJZPRSTdF46P/7Usuv487pg8l+XWCGZE=",
           "py3"
         ]
       }
@@ -84287,6 +84283,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.3": {
+      "sdist": [
+        "iwuR6b7mSlDL6V+bwyWf+5Byy+PudsSWoDCWdppvq/8=",
+        "tech_inspection_service_client-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "tech_inspection_service_client-1.0.3-py3-none-any.whl": [
+          "fG4BBdflN4SkD+wLX3BlFjjNAvumIcO/ZGet61pGII8=",
+          "py3"
+        ]
+      }
     }
   },
   "teedoc-plugin-search": {
@@ -87600,6 +87608,10 @@
     },
     "2.6.0.dev20210330": {
       "wheels": {
+        "tf_nightly_cpu-2.6.0.dev20210330-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "o+9s+gSsaB76z3UEqiMA0a6YztVKYaBxXUd5l6PFojI=",
+          "cp36"
+        ],
         "tf_nightly_cpu-2.6.0.dev20210330-cp36-cp36m-win_amd64.whl": [
           "G4EhJqb2EAwit3Fs5Xd8ECRy24fxXMIf9wWhsT56z6U=",
           "cp36"
@@ -87626,6 +87638,42 @@
         ],
         "tf_nightly_cpu-2.6.0.dev20210330-cp39-cp39-win_amd64.whl": [
           "AP7woALJz/9XbgMqO+moGOEbTfTX8gJL3+IMtt2i6Pc=",
+          "cp39"
+        ]
+      }
+    },
+    "2.6.0.dev20210331": {
+      "wheels": {
+        "tf_nightly_cpu-2.6.0.dev20210331-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "WduZXu6FhHuzbVIWT7clMu/sfyshMfOIcALmEJlTlWQ=",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210331-cp36-cp36m-win_amd64.whl": [
+          "Xz4WQ9RL5VRYZk6caDKr+QP7pbbgt//cO1wPNuvA85k=",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210331-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "DDCecsQkRqnJ4NzAJurYtU2BgRoGiu2EFAp8/MzUa7M=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210331-cp37-cp37m-win_amd64.whl": [
+          "bF1okgySpvDZyFa+mWzLJM1JD/vr88FB8vgpDC3hGPM=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210331-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "ddKI7yD30TgS+z5YhVoVI5U1xIIEwE53p0Z9fruozzQ=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210331-cp38-cp38-win_amd64.whl": [
+          "78z3tgVNTzdl0BNw/QlOJOdF0bnyCpLj9jx8zPt2lHE=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210331-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "Kqsw98KimLft4uOo/26SB1KGlNPXtKSZcBjH+hoikdc=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210331-cp39-cp39-win_amd64.whl": [
+          "ktqJYidxI3DLb6Q6/wNEQsdzw7QY1Innj8w+SrWwy5Q=",
           "cp39"
         ]
       }

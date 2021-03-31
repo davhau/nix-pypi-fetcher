@@ -3915,14 +3915,6 @@
       ]
     }
   },
-  "aws-elastic-beanstalk-cli-setup": {
-    "10.10.10": {
-      "sdist": [
-        "VYfLbzskb8oocY97GQa7UXkvz5L7lBOcbEiPmN40ncY=",
-        "aws-elastic-beanstalk-cli-setup-10.10.10.tar.gz"
-      ]
-    }
-  },
   "aws-mfa-login": {
     "1.0.1": {
       "sdist": [
@@ -3940,14 +3932,6 @@
       "sdist": [
         "Plj75hRnOHXWisKiwox8JWwSZe1zTOXe9OWxDjsd53I=",
         "aws-mfa-login-1.0.1rc1.tar.gz"
-      ]
-    }
-  },
-  "aws-neuron-tensorflow": {
-    "10.10.10": {
-      "sdist": [
-        "TELIkF8h+hm+DAw7+Yu8JGaUd0J2KcjzpbP3TaLTMzM=",
-        "aws-neuron-tensorflow-10.10.10.tar.gz"
       ]
     }
   },
@@ -4035,14 +4019,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "aws-sigv4-auth-cassandra-python-driver-plugin": {
-    "10.10.10": {
-      "sdist": [
-        "w4xG6pS01cD2byAjeDvtYm3bC75fn5PFdRlIh8z6uWw=",
-        "aws-sigv4-auth-cassandra-python-driver-plugin-10.10.10.tar.gz"
-      ]
     }
   },
   "azure-logger-bundle": {
@@ -17938,6 +17914,18 @@
       "wheels": {
         "dis_cover-0.1.1-py2.py3-none-any.whl": [
           "6aKspht8xX8dh7Mc39QiDPInnERNvR1JuB1ZgFJbG3w=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.10": {
+      "sdist": [
+        "VnhSg9g2fy50KPtWYXoKeECS3VwVCHNziIxnRASM49M=",
+        "dis-cover-0.1.10.tar.gz"
+      ],
+      "wheels": {
+        "dis_cover-0.1.10-py2.py3-none-any.whl": [
+          "UzwrRfB+gySVLNhGQHo50DwM8lzZp5GKQS+C5fzMtx4=",
           "py2.py3"
         ]
       }
@@ -35236,14 +35224,6 @@
       "sdist": [
         "OGmKjcQvPMBVHJ6+65Z75oV0SzuGAcZj2jWAGBMEUYk=",
         "Intellect-1.4.9.tar.gz"
-      ]
-    }
-  },
-  "iot-atlas": {
-    "10.10.10": {
-      "sdist": [
-        "FdgbWRLP7BfKDLKAIIEZCTxZW4n386m3AJCkkk7sjQQ=",
-        "iot-atlas-10.10.10.tar.gz"
       ]
     }
   },
@@ -72103,6 +72083,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.6b20210331": {
+      "sdist": [
+        "oeSHJHt+vC1szDqyfOx0WiNbc8oAdE2uvpVEgOUAUUM=",
+        "resnest-0.0.6b20210331.tar.gz"
+      ],
+      "wheels": {
+        "resnest-0.0.6b20210331-py3-none-any.whl": [
+          "F0WHCx3Cm6sEKhs5TyXjQR1Qsgy+QswsLNEBScp3oRk=",
+          "py3"
+        ]
+      }
     }
   },
   "restcountries": {
@@ -72738,6 +72730,30 @@
       "wheels": {
         "rrtv_httprunner-1.7.5-py3-none-any.whl": [
           "3lGeaUllBBNICa38dLDoTfIaWOuf5eiCCCz2fAv+ONY=",
+          "py3"
+        ]
+      }
+    },
+    "1.8.0": {
+      "sdist": [
+        "3Cxg3x1X+faP9gVcWL4+icIhk0gzGdmkONcD0EyS+Ik=",
+        "rrtv-httprunner-1.8.0.tar.gz"
+      ],
+      "wheels": {
+        "rrtv_httprunner-1.8.0-py3-none-any.whl": [
+          "sj1yCncpMXp/AWnQ2wvtbOapzUwlGhTOBaBy8djx7Lo=",
+          "py3"
+        ]
+      }
+    },
+    "1.8.1": {
+      "sdist": [
+        "trXEKAuLnT6u3cyITU3iOSNXj1Jc8MOdrQ5dJYlkKOc=",
+        "rrtv-httprunner-1.8.1.tar.gz"
+      ],
+      "wheels": {
+        "rrtv_httprunner-1.8.1-py3-none-any.whl": [
+          "c5D6uLaTFA+A9gxoF/Q4t1kAyZlW93A9OAb1ro17NJw=",
           "py3"
         ]
       }
@@ -84309,6 +84325,46 @@
           "cp38"
         ]
       }
+    },
+    "0.1.0.dev20210330": {
+      "wheels": {
+        "tflite_support_nightly-0.1.0.dev20210330-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "LzOIlDRR6UdXEwh8XwoFK2YLhiFev64BHnd+RQQR9JY=",
+          "cp36"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210330-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "98Rgy5UYkeUhHDVJTBT7BeSKfLV0PPPSDme3qLkTaFM=",
+          "cp36"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210330-cp36-cp36m-win_amd64.whl": [
+          "IA4To1dbTgWtlS8BDofGzlH7d+bJGhDw9cDhu581AWA=",
+          "cp36"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210330-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "jH5QM73zhdiT6BHlSBgBtPSa1SxzeNbOrBcJli47uWY=",
+          "cp37"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210330-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "1+x8OfILA3vy28HPcM65wEhNVBCQ+YV7ezlocIHHvYs=",
+          "cp37"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210330-cp37-cp37m-win_amd64.whl": [
+          "h41aq4edeanUTMBsswC8RzFdIYdSKCZw5pQneQeS+Qw=",
+          "cp37"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210330-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "4TAIGtkmme8gZrrRjAOQqGzu73oaZP+Wotl7TnPJLCs=",
+          "cp38"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210330-cp38-cp38-manylinux2010_x86_64.whl": [
+          "pe6kf70pXRdOZCNOne8wy7HdW8JK0K2CMRPGsLYD+HQ=",
+          "cp38"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210330-cp38-cp38-win_amd64.whl": [
+          "RWGoTbUrZR0xiDuxCHksf7y9lu03UMuQgWAkUqsjWSc=",
+          "cp38"
+        ]
+      }
     }
   },
   "thingflow": {
@@ -85554,6 +85610,18 @@
       "wheels": {
         "tonggong-0.1.32-py3-none-any.whl": [
           "RSJS0rNGKFVOjOHAlpCDyx+BVCsb3Z6Wy5cYGkhjFgs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.34": {
+      "sdist": [
+        "XHyZ/1w9Aj7nMykthypECY/W5HNmvWjU2BAHbWi+8JU=",
+        "tonggong-0.1.34.tar.gz"
+      ],
+      "wheels": {
+        "tonggong-0.1.34-py3-none-any.whl": [
+          "aCXFfGqPATr/NpTfWD8lrN7Qa5LWCzX+E/xgZaovYYg=",
           "py3"
         ]
       }
@@ -89714,6 +89782,30 @@
       "wheels": {
         "vpstool-0.0.2a5-py3-none-any.whl": [
           "Hz/qBA2moYSGEDPinFeOG4qdhCBc2ZlP4MndjDXC9Yg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "QE1xBhYdGZ59SCuiK8NuKVqfOULcV7YCZiPoF/Ac8+A=",
+        "vpstool-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "vpstool-0.0.3-py3-none-any.whl": [
+          "HD52t19RRw9DWc2kIHnJjjXbEdKaiB8G2XixmX8YCXE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "JmSiNqwUF3mYj9MdbCAAOysSw5VMp4LdZf7lrD6OyQY=",
+        "vpstool-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "vpstool-0.0.4-py3-none-any.whl": [
+          "H0zPmX/BsA3RpndTHqR22KI6VoFXM4/Od5zxi4xBmYI=",
           "py3"
         ]
       }

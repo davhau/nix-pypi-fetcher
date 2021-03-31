@@ -8069,14 +8069,6 @@
       }
     }
   },
-  "aws-extensions-for-dotnet-cli": {
-    "10.10.10": {
-      "sdist": [
-        "Ky4ZVYj2k1/OLWrMx/3r8qDskcIBPoS8hYG1ss300qc=",
-        "aws-extensions-for-dotnet-cli-10.10.10.tar.gz"
-      ]
-    }
-  },
   "aws-lambda-types": {
     "0.1.0": {
       "sdist": [
@@ -8113,14 +8105,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "aws-neuron-sdk": {
-    "10.10.10": {
-      "sdist": [
-        "16qEJg9SkkVVphpq2XOWG+Mw/NtR9zIPIFk9Pi4Y/po=",
-        "aws-neuron-sdk-10.10.10.tar.gz"
-      ]
     }
   },
   "aws.inlineuserpref": {
@@ -10508,6 +10492,12 @@
       "sdist": [
         "4t1EDDrja6KoF+hDKxNjbIoTLADWLdhfiWjD1IM+kYA=",
         "cairo-lang-0.0.3.zip"
+      ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "AZBMrPd5QmB8y0Esy8OKwQB2SEZmiOtVB0tU7rkP0/A=",
+        "cairo-lang-0.1.0.zip"
       ]
     }
   },
@@ -23443,14 +23433,6 @@
       }
     }
   },
-  "ec2-macos-init": {
-    "10.10.10": {
-      "sdist": [
-        "79Ea+HLknmRSAcngtj6tuU9uI+i09/AjgGGt1SuEqe0=",
-        "ec2-macos-init-10.10.10.tar.gz"
-      ]
-    }
-  },
   "ecmwflibs": {
     "0.2.3": {
       "wheels": {
@@ -23732,6 +23714,78 @@
         ],
         "ecmwflibs-0.3.0-py2.py3-none-any.whl": [
           "WFx/b2L9gQyio2zeltc1dXNuu9t9yWrKORPHsd4VnLQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "wheels": {
+        "ecmwflibs-0.3.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "iiZk3pcgjM9Lv8mnx386prTU0hB4UlxkRY+1nCgZ4ac=",
+          "cp36"
+        ],
+        "ecmwflibs-0.3.1-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "h0Dh8lLHvYachmcLysHbYl5pDHKxqjQh9HNoOLldDnM=",
+          "cp36"
+        ],
+        "ecmwflibs-0.3.1-cp36-cp36m-win32.whl": [
+          "kSLnlJD5sSZdYrgH0uh8sIc3JKeM8zR39jWilcjg9AU=",
+          "cp36"
+        ],
+        "ecmwflibs-0.3.1-cp36-cp36m-win_amd64.whl": [
+          "UVXVnS0N6EtAWH/bvfSSA+C/hgRbKrP1ocxUUTlupRk=",
+          "cp36"
+        ],
+        "ecmwflibs-0.3.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "5ME7ObIN3qEqmrdipZHfdRUEk1okVB73hC6sFnHtoyA=",
+          "cp37"
+        ],
+        "ecmwflibs-0.3.1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "H8cDdqyymH3h/IFY9ap9fzTgzfXrSz1CzmdAy6pLnao=",
+          "cp37"
+        ],
+        "ecmwflibs-0.3.1-cp37-cp37m-win32.whl": [
+          "AIQ9U8JSCWEVCX6OAp2THXoFsWErZhOBpzpyrc5veEE=",
+          "cp37"
+        ],
+        "ecmwflibs-0.3.1-cp37-cp37m-win_amd64.whl": [
+          "NKwviN2NRVYBJkQvaQZ2Yuiikee1iYBL8yrpKzG48OE=",
+          "cp37"
+        ],
+        "ecmwflibs-0.3.1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "HwBRLCwPL+i1c53PHFRlM+g0NUqCPEFY12b+uD5oj34=",
+          "cp38"
+        ],
+        "ecmwflibs-0.3.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "R607Mn7/QfG5TIqsehBzJOX7lxGhshkDjvUT55CYeCQ=",
+          "cp38"
+        ],
+        "ecmwflibs-0.3.1-cp38-cp38-win32.whl": [
+          "sR3R6e2iQpV+PKeyjA6iDy0rz9EkqhdNEeeeww/vlVg=",
+          "cp38"
+        ],
+        "ecmwflibs-0.3.1-cp38-cp38-win_amd64.whl": [
+          "J4OeD7RME3u9rSdxfgL6gWLhOWeZ6SjC0jzKcm17pHI=",
+          "cp38"
+        ],
+        "ecmwflibs-0.3.1-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "9hFr6ZdA/MMqJCrZaWfgxMeLj5fxy05n5sStDP3hj2w=",
+          "cp39"
+        ],
+        "ecmwflibs-0.3.1-cp39-cp39-manylinux2014_x86_64.whl": [
+          "UOTtR1prD2enYcMBlopDF3k2OBvGW0e0x7diRV/HDbE=",
+          "cp39"
+        ],
+        "ecmwflibs-0.3.1-cp39-cp39-win32.whl": [
+          "ipjeHiPiifVRcRYKyLjXj0OG4kUYyvyx0xoHRmbfD6w=",
+          "cp39"
+        ],
+        "ecmwflibs-0.3.1-cp39-cp39-win_amd64.whl": [
+          "a0QjHCLxeqWX2fngaOAxd6ASFxCcJVTG+00b3pX47gU=",
+          "cp39"
+        ],
+        "ecmwflibs-0.3.1-py2.py3-none-any.whl": [
+          "9Nw5Van67W1FXbD6W+fKLs0Dy8YplBYurKr41Rn1l/o=",
           "py2.py3"
         ]
       }
@@ -24148,6 +24202,12 @@
       "sdist": [
         "L+Gx92OAlD8GPolmFfcxwHSJ2gTQNGQ5xMkNBvd9ox8=",
         "emda-1.1.3.post3.tar.gz"
+      ]
+    },
+    "1.1.3.post5": {
+      "sdist": [
+        "c9rlCcqYhkMPnnlExTh3YmArWRjX2+dswfhUgFdDyr0=",
+        "emda-1.1.3.post5.tar.gz"
       ]
     }
   },
@@ -28332,6 +28392,18 @@
       "wheels": {
         "faraday_agent_dispatcher-1.4.2-py2.py3-none-any.whl": [
           "RmIJU/gsI1YZY+BdFhKBI0V2RbbK06/KOCiWDctFJyI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "SYJoQOD89ULzHc2XO7smVHJ9rqAZ7TiUDZI+SQth8co=",
+        "faraday_agent_dispatcher-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "faraday_agent_dispatcher-1.5.0-py2.py3-none-any.whl": [
+          "WakJ76TLaBncLH6KriZ1HFYae2u8Eu1Gec8Yfsvv98I=",
           "py2.py3"
         ]
       }
@@ -67239,6 +67311,38 @@
           "cp39"
         ]
       }
+    },
+    "0.1.7.dev1": {
+      "sdist": [
+        "fA7nafbjlp9vO0DVdaZinxdgqUAzuTMATOUn89FjkIk=",
+        "python-sat-0.1.7.dev1.tar.gz"
+      ],
+      "wheels": {
+        "python_sat-0.1.7.dev1-cp27-cp27m-macosx_11_2_x86_64.whl": [
+          "iIoM/3vH8YC3jRRFqnAk3PHPJ2DJfnYXjFy3gztFNsw=",
+          "cp27"
+        ],
+        "python_sat-0.1.7.dev1-cp36-cp36m-win_amd64.whl": [
+          "X37GSByFU9+N4dQk2JYrAVAo6yIgPK17KlLqGKc8pmE=",
+          "cp36"
+        ],
+        "python_sat-0.1.7.dev1-cp37-cp37m-win_amd64.whl": [
+          "EMEgb6B7k3TA6Ogi6qhaE5hWhRLwJEQViOtxmostN5g=",
+          "cp37"
+        ],
+        "python_sat-0.1.7.dev1-cp38-cp38-win_amd64.whl": [
+          "TCDGS0oGaDFiif8DOMbqUfW3ona6yr+LoRpEo8AesJk=",
+          "cp38"
+        ],
+        "python_sat-0.1.7.dev1-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "xeO/3xmnR0m6v30cI8m7LdPhlGwd8jQBcbWeVqsclu4=",
+          "cp39"
+        ],
+        "python_sat-0.1.7.dev1-cp39-cp39-win_amd64.whl": [
+          "0+fmXe12Wj8hd+kDV6Xs1cFw/dq2j0U2A77uUyJnkHw=",
+          "cp39"
+        ]
+      }
     }
   },
   "python-telegram-bot-raw": {
@@ -77641,14 +77745,6 @@
       ]
     }
   },
-  "sagemaker-tensorflow-serving-container": {
-    "10.10.10": {
-      "sdist": [
-        "W4iwGKMIoJ+RJ8f7fXRN5RQ7/+9rs+0UQejuquHi6JY=",
-        "sagemaker-tensorflow-serving-container-10.10.10.tar.gz"
-      ]
-    }
-  },
   "sandpilemodels": {
     "1.0.0": {
       "sdist": [
@@ -78180,6 +78276,14 @@
       "wheels": {
         "sdg_eth-0.22-py3-none-any.whl": [
           "bRY03PVck4+q36AnUm6OVhJ6TKktYS/5jQjMn5ZhySI=",
+          "py3"
+        ]
+      }
+    },
+    "0.23": {
+      "wheels": {
+        "sdg_eth-0.23-py3-none-any.whl": [
+          "fg/2JOoSa9KKzVrRbIfhsepwOPmnlWxLAJSYR38PCCs=",
           "py3"
         ]
       }
