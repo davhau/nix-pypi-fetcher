@@ -974,6 +974,14 @@
         ]
       }
     },
+    "0.8.11": {
+      "wheels": {
+        "aitk.robots-0.8.11-py3-none-any.whl": [
+          "pJarMG/UdXzLOeOOQef2f2opQA1IE/aWhufRZZ1lnAo=",
+          "py3"
+        ]
+      }
+    },
     "0.8.2": {
       "wheels": {
         "aitk.robots-0.8.2-py3-none-any.whl": [
@@ -7688,17 +7696,33 @@
         "bsbolt-1.4.5.tar.gz"
       ],
       "wheels": {
+        "bsbolt-1.4.5-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "qoY9Uic1laPzeKOCSp2X7yibJC1vHsJB96vzYyCzcvo=",
+          "cp36"
+        ],
         "bsbolt-1.4.5-cp36-cp36m-manylinux2010_x86_64.whl": [
           "NUZouz+pjmaaCSGtOvO8mBXH+xlNWirldRyd4t8hPvo=",
           "cp36"
+        ],
+        "bsbolt-1.4.5-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "OWMKYkBRlW9iGBSaONWbY3v+bWdPAAkPy6/OguGKpsg=",
+          "cp37"
         ],
         "bsbolt-1.4.5-cp37-cp37m-manylinux2010_x86_64.whl": [
           "c11C8IXqsh75ykIebzVYIeM6l4hpss7xBMS6AeFZeVc=",
           "cp37"
         ],
+        "bsbolt-1.4.5-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "28Izgy84GL/OFTuHGjgqqRbCyeXLX+VxOLtNb3vSPmQ=",
+          "cp38"
+        ],
         "bsbolt-1.4.5-cp38-cp38-manylinux2010_x86_64.whl": [
           "4e8ARiFLIRyoxVq+CG0GdVi/PwOVWjPM5NiQCgm/hXI=",
           "cp38"
+        ],
+        "bsbolt-1.4.5-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "oJEiRY73Z5c+aNOMhC7R4H1zHYx/VHGZAUZsymtg1r0=",
+          "cp39"
         ],
         "bsbolt-1.4.5-cp39-cp39-manylinux2010_x86_64.whl": [
           "bADBhxbAqN8pqGAjDujl91PbFW/zMqQdjrTuy4THBHE=",
@@ -24786,6 +24810,12 @@
       "sdist": [
         "7dApA6PJg5+Ukn/l1XWKuznlw9F0KT3vHSUTtYGAF7k=",
         "fromconfig-0.2.1.tar.gz"
+      ]
+    },
+    "0.2.2": {
+      "sdist": [
+        "JHVar8lJ4RlvPIfbU783QoP59jbktyX93H0Yltz7RIE=",
+        "fromconfig-0.2.2.tar.gz"
       ]
     }
   },
@@ -45168,6 +45198,18 @@
         ]
       }
     },
+    "1.17.42.0": {
+      "sdist": [
+        "QHts3CQNclZXWiJ08bzr2azy7JRWQc1b3RuR/a8P7Qo=",
+        "mypy-boto3-personalize-events-1.17.42.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_personalize_events-1.17.42.0-py3-none-any.whl": [
+          "aIGJwgYA7zf+SlMGcAKco4O4LRFmyB6SO8lzQu2tmic=",
+          "py3"
+        ]
+      }
+    },
     "1.17.5.0": {
       "sdist": [
         "8jwii1VZRPY6CZXoXBnLQY75TR1ouymYsAsNARUeR0s=",
@@ -45982,6 +46024,18 @@
       "wheels": {
         "mypy_boto3_wellarchitected-1.17.41.0-py3-none-any.whl": [
           "3lzC8I6cVttYuJ9GoS/RSWn/IgBxoVzKuBf3cr0MV94=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.42.0": {
+      "sdist": [
+        "IwJW2CV96y4G1+gRcCNDP0eoQkRRgsClcyhyoIaRIuE=",
+        "mypy-boto3-wellarchitected-1.17.42.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_wellarchitected-1.17.42.0-py3-none-any.whl": [
+          "bSGw2i7dirF8ZMeCSfnBiYKORa9mXw1WiXhe21Y/PH0=",
           "py3"
         ]
       }
@@ -62738,6 +62792,12 @@
         "PyBIS-1.18.5a2.tar.gz"
       ]
     },
+    "1.18.6": {
+      "sdist": [
+        "HijjZ17l8O3enWAOB2582D933zSz8YP87b4zX85Bkrg=",
+        "PyBIS-1.18.6.tar.gz"
+      ]
+    },
     "1.2.0": {
       "sdist": [
         "JLEUzyACqf/LVa4+aKPQ7CbS+wCeGwTlV/e9dsi6IEM=",
@@ -64681,32 +64741,6 @@
           "py3"
         ]
       }
-    }
-  },
-  "pyopm": {
-    "0.0.1": {
-      "sdist": [
-        "lmCDp5jz4sLladMhFy/4CwOgeF4S3YxVYkgjj9cPh2Y=",
-        "pyopm-0.0.1.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "wDl01ULbzDe3yHFkxW15xKAY/HiZQa3XuRWEZo5moWM=",
-        "pyopm-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "6zz7EEKDqO/hq4y10G0AGK7OvcyGwuHIIsUPqNvNqKI=",
-        "pyopm-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "l7avvaTd/Eo6DkPinAZft0beCtvYeueBLQdbUS9DIoU=",
-        "pyopm-0.0.4.tar.gz"
-      ]
     }
   },
   "pyoverchain": {

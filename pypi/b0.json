@@ -3826,6 +3826,12 @@
         "anyscale-0.3.51.tar.gz"
       ]
     },
+    "0.3.52": {
+      "sdist": [
+        "FJ96fDe7goWXGQf5QEtZK6EUKHYEXEuIA6Rdm9oCALM=",
+        "anyscale-0.3.52.tar.gz"
+      ]
+    },
     "0.3.6": {
       "sdist": [
         "cntSVLb7QqY1KXqIbpo91KPQOifCMFyUGgX97shUDZE=",
@@ -14381,6 +14387,14 @@
       }
     }
   },
+  "compute": {
+    "10.10.10": {
+      "sdist": [
+        "MJGJmw1VdCpUjzvYpGgp2XkhjCbcRPWQaLuDO6aRjQU=",
+        "compute-10.10.10.tar.gz"
+      ]
+    }
+  },
   "confman": {
     "0.1": {
       "sdist": [
@@ -20134,6 +20148,18 @@
       "wheels": {
         "django_auth_adfs_db-0.2.0-py3-none-any.whl": [
           "hl6OsJiS97T8VFR65ZfeM0B55v/zLgF8C1ZJLmWceR4=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "fS86ubetiA+AYSq9OFv5ZTLp9Khm0uZkcXazPVE7nVo=",
+        "django-auth-adfs-db-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "django_auth_adfs_db-0.3.0-py3-none-any.whl": [
+          "QGShU46njd6nP/OmnqY2MWpsjTG1IWHaSDmVIZQSJis=",
           "py3"
         ]
       }
@@ -57817,6 +57843,58 @@
           "cp38"
         ]
       }
+    },
+    "21.3": {
+      "wheels": {
+        "pyats.reporter-21.3-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "Ywx83EUQZxKgOvQVGseK362/MLXHAnPavEeCE9PUyA4=",
+          "cp36"
+        ],
+        "pyats.reporter-21.3-cp36-cp36m-macosx_10_16_x86_64.whl": [
+          "eXuvx76hFdWqcteX/EzDXh5U0VLb0YFMxUkbTTjQ5n8=",
+          "cp36"
+        ],
+        "pyats.reporter-21.3-cp36-cp36m-manylinux1_x86_64.whl": [
+          "PGAuDCd4n0PYwm+8nA2dCbiLKlpP6SS1RJIVu0mazJQ=",
+          "cp36"
+        ],
+        "pyats.reporter-21.3-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "L40/Ipq0UKAdyEUeMCiMRiH9PlY/zDdD1KYV5OWEYF0=",
+          "cp37"
+        ],
+        "pyats.reporter-21.3-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "8W0GBWVb9Exk5c/bnso1ufwoBrRhupgjEpssEqG+8j0=",
+          "cp37"
+        ],
+        "pyats.reporter-21.3-cp37-cp37m-manylinux1_x86_64.whl": [
+          "8gKTCDW9W4Bu4qlhjTtSBZ+NmDGLgKMQxhgMw4oIt5A=",
+          "cp37"
+        ],
+        "pyats.reporter-21.3-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "bHm0EqzHFEFFl4wasvgyHpIKI7BwTBZcRXywKsIh2tM=",
+          "cp38"
+        ],
+        "pyats.reporter-21.3-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "6rGQ51qTDL68KkjUlKA9DVoUHNkzdpJaoDOjvc3EucE=",
+          "cp38"
+        ],
+        "pyats.reporter-21.3-cp38-cp38-manylinux1_x86_64.whl": [
+          "ArawDaeR6AupSKae8AerNeBFqKoOqZJcf9lk0bNgsvw=",
+          "cp38"
+        ],
+        "pyats.reporter-21.3-cp39-cp39-macosx_10_10_x86_64.whl": [
+          "qPL+wPrFfZKr3pyQ5z10vw5iG6In0aUS8np55PlgviI=",
+          "cp39"
+        ],
+        "pyats.reporter-21.3-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "ArF4G5t29V1SiBm9+ey0AsbU7o0I6GdoB05TFh1HNek=",
+          "cp39"
+        ],
+        "pyats.reporter-21.3-cp39-cp39-manylinux1_x86_64.whl": [
+          "gO+MS/uV+Z7Z7EmPiLL/DLjdOhMJMDLFVDaNHFHwn5A=",
+          "cp39"
+        ]
+      }
     }
   },
   "pybettor": {
@@ -58323,6 +58401,20 @@
         "pydrobert_gpyopt-0.0.0-py2.py3-none-any.whl": [
           "6QIh3OQPnwyytSXdggbk6OsAkF2dwf299bfygPe3niE=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "pyeeg": {
+    "0.0.2": {
+      "sdist": [
+        "+R7ezWgGZZcL2m4vdHDOD5kTagP2hBDpvTVfnDm2/mw=",
+        "pyeeg-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pyeeg-0.0.2-py3-none-any.whl": [
+          "1BVGaoOmC6vBxyuhI0WkXTzuYZ6yvWvmSVM7lt0cQZo=",
+          "py3"
         ]
       }
     }
