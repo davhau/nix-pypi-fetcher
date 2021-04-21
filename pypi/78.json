@@ -2967,20 +2967,6 @@
       ]
     }
   },
-  "anabel": {
-    "0.0.0": {
-      "sdist": [
-        "V1RNkOMmOqO8q2Y0HTr/Q9BETFEvatJmvf/PBp2yh6w=",
-        "anabel-0.0.0.tar.gz"
-      ],
-      "wheels": {
-        "anabel-0.0.0-cp37-cp37m-win_amd64.whl": [
-          "FUiUjHP7VIszb23lB5hxb+1U/pELLrbTEcJ1Qaee3WQ=",
-          "cp37"
-        ]
-      }
-    }
-  },
   "anafero": {
     "0.1": {
       "sdist": [
@@ -3725,36 +3711,6 @@
         "MpQxNaZt3qrFwH2sXRrxfBCqL7V7aRRTz/fG2YUEESk=",
         "apttusvisualizations-0.11.tar.gz"
       ]
-    }
-  },
-  "arabic-stopwords": {
-    "0.2": {
-      "wheels": {
-        "Arabic_Stopwords-0.2-py2-none-any.whl": [
-          "54HdBGpBiHlbMWyjDDITG/wNR59SYDa2bcck75Jp3us=",
-          "py2"
-        ],
-        "Arabic_Stopwords-0.2-py3-none-any.whl": [
-          "oc7gUC6iQzaLtQZgBERURWYxz7Wt1w4ZaN4BYyZBE78=",
-          "py3"
-        ]
-      }
-    },
-    "0.3": {
-      "sdist": [
-        "eNzHKg688oDWbHOPklxRy3xK34tJ37pEbyiMG9NbO98=",
-        "Arabic_Stopwords-0.3.tar.gz"
-      ],
-      "wheels": {
-        "Arabic_Stopwords-0.3-py2-none-any.whl": [
-          "fKlnYkq9D/+ZBI1vMqva58iEuJmb8xaj/AX5K9t7SSw=",
-          "py2"
-        ],
-        "Arabic_Stopwords-0.3-py3-none-any.whl": [
-          "lClSYVpAJ6qoGRTZ1ngDLzL3IcaYnrHSkqoSAHIPOqY=",
-          "py3"
-        ]
-      }
     }
   },
   "archie-analyzer": {
@@ -5142,6 +5098,18 @@
       "wheels": {
         "aws_saving-0.0.6-py3-none-any.whl": [
           "tiKtBbfn/UMfIXoqIpWLOfAvMPemCjjNyalP6fsoTd0=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "ngVFT+ZQOt/GTR6U+yIhIXqpgREoPxiQsmrK5evYhN4=",
+        "aws-saving-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_saving-1.0.0-py3-none-any.whl": [
+          "yxXySExx8lH13XfdaggtQEERTRtBtBzFgDiaUrNvA8Y=",
           "py3"
         ]
       }
@@ -74257,6 +74225,12 @@
         "nnKR6zxdtcXA/luvp+8UwtCMVUu4DDVnvrcl9PqEesg=",
         "pulumi_auth0-2.0.0a1618660055.tar.gz"
       ]
+    },
+    "2.1.0a1618938202": {
+      "sdist": [
+        "wui9Fm+z+alUk5XZmc2ch0w6Z/nvFbtwoEUDkDBoOkE=",
+        "pulumi_auth0-2.1.0a1618938202.tar.gz"
+      ]
     }
   },
   "pulumi-wavefront": {
@@ -74522,6 +74496,12 @@
       "sdist": [
         "HoJarTeL0waQk+On/gfwsULnin1R5UfMiX4IbQWq1S0=",
         "pulumi_wavefront-1.0.0a1618782459.tar.gz"
+      ]
+    },
+    "1.1.0a1618935681": {
+      "sdist": [
+        "PdVOztSDtfiIWl2lupEtdw6LckNbIfb++VKBFDg8Hj0=",
+        "pulumi_wavefront-1.1.0a1618935681.tar.gz"
       ]
     }
   },
@@ -82234,6 +82214,18 @@
       "wheels": {
         "python_linq-1.4.1-py3-none-any.whl": [
           "eM2E3VMNFu+lzW/95BSn5+9Dx/OOhOJDDWEGSfy5FYg=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0": {
+      "sdist": [
+        "jwTqL2BscjuFYfb8ENXuz1OGVgeS+yy60YqVN01+kks=",
+        "python-linq-1.5.0.tar.gz"
+      ],
+      "wheels": {
+        "python_linq-1.5.0-py3-none-any.whl": [
+          "ZrIJ9nPQT3H6PS+b4qHMb6Gy312Rg2CjDgB5ZZ8ATDY=",
           "py3"
         ]
       }
@@ -91139,6 +91131,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.4.2": {
+      "wheels": {
+        "stix_shifter_modules_aws_cloud_watch_logs-3.4.2-py2.py3-none-any.whl": [
+          "WIOUuUa+K+5PqNAM9mpYI91tolDLd7+r7pK60660AEk=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "stix-shifter-modules-error-test": {
@@ -91194,6 +91194,14 @@
       "wheels": {
         "stix_shifter_modules_error_test-3.4.1.dev508-py2.py3-none-any.whl": [
           "WMm4xuCaoUTzJdzoPpWhX+FnTWcG1Y08e4Rhx0SXtbA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.4.2": {
+      "wheels": {
+        "stix_shifter_modules_error_test-3.4.2-py2.py3-none-any.whl": [
+          "FAUe4LG7beBJZxVKtcmj0MB890/NlZGA893118ZeGqQ=",
           "py2.py3"
         ]
       }
@@ -95304,6 +95312,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tts-3.0.376-py2.py3-none-any.whl": [
           "XQxQchydnaiFlaiLd/gUGDA+TmtAWhXBeOVy084ee9c=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.377": {
+      "sdist": [
+        "9fuXJZSMx8mB9VqPGg1eotpUHv6AxBfFpAj2I6kikIk=",
+        "tencentcloud-sdk-python-tts-3.0.377.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tts-3.0.377-py2.py3-none-any.whl": [
+          "DOu9FGuUV95wQOXq4ydj+cbJD4ebL4cSDVRA8Ru60oI=",
           "py2.py3"
         ]
       }
@@ -99564,6 +99584,18 @@
       "wheels": {
         "vmem-1.0.0-py3-none-any.whl": [
           "/6AXoIK4FmlP0rL9sSNhbcp+NiWS4zNIPV6X8kNGieY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "v/UFtTfjuOLEaGvlaPsT8GwTCYLlw8BoVn+luDPMchc=",
+        "vmem-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "vmem-1.0.1-py3-none-any.whl": [
+          "jq6gp1gCX8g34zJ/Ye7K2kAKeTJTHy/wnWTQBdiFj7c=",
           "py3"
         ]
       }
