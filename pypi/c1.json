@@ -15198,6 +15198,42 @@
         ]
       }
     },
+    "9.0.0": {
+      "wheels": {
+        "cupy_cuda101-9.0.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "1iE4JTNl5lLOGkO1Fx5jPZ79jMlQC7STm0VohIVnTYs=",
+          "cp36"
+        ],
+        "cupy_cuda101-9.0.0-cp36-cp36m-win_amd64.whl": [
+          "UfaSv4cL4xHq7HF0m9E6tacYc3JxqXmN3Jv5S6ztXj0=",
+          "cp36"
+        ],
+        "cupy_cuda101-9.0.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "vZjK+lxjExxgYM4mi9+ZHtFhc923SBBf6mZxiqFq7JQ=",
+          "cp37"
+        ],
+        "cupy_cuda101-9.0.0-cp37-cp37m-win_amd64.whl": [
+          "Q1mrUScuaEeN4jwO27pywstKXQGaIGdhAV+m5sHg8og=",
+          "cp37"
+        ],
+        "cupy_cuda101-9.0.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "oAz9XMgfF75/4nlvoEO2BML6T3XgsQ74tvh8R52NYZs=",
+          "cp38"
+        ],
+        "cupy_cuda101-9.0.0-cp38-cp38-win_amd64.whl": [
+          "+17EIR73LsPbRA3PIlyX7JoRPJKMLfB30kzthjbEEaU=",
+          "cp38"
+        ],
+        "cupy_cuda101-9.0.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "vPkZsEnC1OAm1aXcfoV6NeOHkKquxoBClw0Kj3BV06Y=",
+          "cp39"
+        ],
+        "cupy_cuda101-9.0.0-cp39-cp39-win_amd64.whl": [
+          "M2peTbYZasipSZ/Zk4AVuMlrtyl42SuCkKnUy+FnKZA=",
+          "cp39"
+        ]
+      }
+    },
     "9.0.0a1": {
       "wheels": {
         "cupy_cuda101-9.0.0a1-cp35-cp35m-manylinux1_x86_64.whl": [
@@ -19606,6 +19642,12 @@
       "sdist": [
         "0EsA43a09DBiORjO90IahKfKBSdMRnfJeV5CrB7BDEo=",
         "django-mcmailer-0.8.tar.gz"
+      ]
+    },
+    "0.9": {
+      "sdist": [
+        "GmJ1aFYBYtoGdAAO40njGdmpESwosxHq7GtlOkJxt/4=",
+        "django-mcmailer-0.9.tar.gz"
       ]
     }
   },
@@ -39204,74 +39246,38 @@
         ]
       }
     },
-    "0.1.5.1": {
+    "0.1.6rc1": {
       "sdist": [
-        "sXK6hyjtwkPt6dujMgEXb5p1Mv642UyMM0CBEynULKw=",
-        "kubeml-0.1.5.1.tar.gz"
+        "w6M2ghy+mRPRfQAws0jdtDxqrojR60Yr4bdRwIYVN5Y=",
+        "kubeml-0.1.6rc1.tar.gz"
       ],
       "wheels": {
-        "kubeml-0.1.5.1-py3-none-any.whl": [
-          "RGju1F5IQjOdu51NjXbB5/Az8S2rfkHVlOlBPgdk+qc=",
+        "kubeml-0.1.6rc1-py3-none-any.whl": [
+          "bd+Dmvx2SQ1CKNJi661bK0k9V/HFNana33g7jg5XIYI=",
           "py3"
         ]
       }
     },
-    "0.1.5.2": {
+    "0.1.6rc2": {
       "sdist": [
-        "bJ2SdISO2mbpCDP+nwi2RP2mkCrbpovwqPdQLp3sr70=",
-        "kubeml-0.1.5.2.tar.gz"
+        "LhXZvoUB8wOf6tyqhO3mgti4n/6zgixP1V52Kt4hkkE=",
+        "kubeml-0.1.6rc2.tar.gz"
       ],
       "wheels": {
-        "kubeml-0.1.5.2-py3-none-any.whl": [
-          "wCSq07xldDkW+LbM99iIfKv7oyvsIFTyQ/527hthK9U=",
+        "kubeml-0.1.6rc2-py3-none-any.whl": [
+          "+RV9ia8A9hkNtWsd08inUGsraZUBkA8vziIaE5szO0M=",
           "py3"
         ]
       }
     },
-    "0.1.5.3": {
+    "0.1.6rc3": {
       "sdist": [
-        "Cg8dIDdShTFZxRtcY0ngKNEsWU8Ey1X0TgGlxu07+i4=",
-        "kubeml-0.1.5.3.tar.gz"
+        "AWZcpw28Tp9zbP+Wsef+thRvjftnmoJA0ccQzlKnqs0=",
+        "kubeml-0.1.6rc3.tar.gz"
       ],
       "wheels": {
-        "kubeml-0.1.5.3-py3-none-any.whl": [
-          "ZeP3L/Pt8e4w5RpGpezoDLo/iEkR4mX+9416xx+364I=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5.4": {
-      "sdist": [
-        "LulCkQ2+9+O/xp0eGP66e3Oj+S2BRwQdbM21CeNC5a8=",
-        "kubeml-0.1.5.4.tar.gz"
-      ],
-      "wheels": {
-        "kubeml-0.1.5.4-py3-none-any.whl": [
-          "kTctsq7pGXCpWjq+gDUxbHLCng54Bl77fvl/nEb2ifc=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5.5": {
-      "sdist": [
-        "mUBIy8BMBprWlXiByhVnoFaPbwYcvKiJAeNCYWfPyGU=",
-        "kubeml-0.1.5.5.tar.gz"
-      ],
-      "wheels": {
-        "kubeml-0.1.5.5-py3-none-any.whl": [
-          "5Z/ay7wtCFC4g8Ugl3H9EEQe2msoWwUGk80rwJ0JCM0=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5.6": {
-      "sdist": [
-        "Lsxki7UquF11nnyjgi7aSH2zm2IWKmCdHx+hVuwIt50=",
-        "kubeml-0.1.5.6.tar.gz"
-      ],
-      "wheels": {
-        "kubeml-0.1.5.6-py3-none-any.whl": [
-          "ciRoCLSHOVMep9q+zpUXOWo7yEizFXS5jmb257i0OHQ=",
+        "kubeml-0.1.6rc3-py3-none-any.whl": [
+          "HnNkkXYLJB/Lh5s4a+8d7b+EzcXozbEUtxpakEP5RdA=",
           "py3"
         ]
       }
@@ -77144,6 +77150,30 @@
       "wheels": {
         "rovio_ingest-0.0.1.dev16-py3-none-any.whl": [
           "RGETUsZ9bNmdwn5IhRQ43WZ22/Py92XFu9M6kkRLMRM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.dev17": {
+      "sdist": [
+        "GxIJxhsNcoE8iY7VFbo84y4gL9Xu/WM9jLBuFj1yoUc=",
+        "rovio-ingest-0.0.1.dev17.tar.gz"
+      ],
+      "wheels": {
+        "rovio_ingest-0.0.1.dev17-py3-none-any.whl": [
+          "+EGtdmBSlDeutvDdxL8hFhi1JBeYk0viG0eX3AqOqBw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.dev18": {
+      "sdist": [
+        "3QOxDD3SgFAYMYjizHZO315PrI4OkIJh5Pg5cZkkkDk=",
+        "rovio-ingest-0.0.1.dev18.tar.gz"
+      ],
+      "wheels": {
+        "rovio_ingest-0.0.1.dev18-py3-none-any.whl": [
+          "iveoXvL8aPkAlSjmxwoGBtyEMGYKu8/pYATSPWI6ljM=",
           "py3"
         ]
       }

@@ -15811,6 +15811,14 @@
       ]
     }
   },
+  "connector-plugin": {
+    "0.0.1": {
+      "sdist": [
+        "35ZTmSRk33YVR83uTCFSq/XbZv85Ty9JdUarkQfOFK8=",
+        "connector-plugin-0.0.1.tar.gz"
+      ]
+    }
+  },
   "consent-decoder": {
     "1.0.1": {
       "sdist": [
@@ -19235,34 +19243,6 @@
         "delineate_io-0.0.18-py3-none-any.whl": [
           "H1zloiTZ/vCGlCn3FPTbUcNLx0cW/pikNdHYBEQ41iA=",
           "py3"
-        ]
-      }
-    }
-  },
-  "democritus-grammars": {
-    "2021.1.21": {
-      "sdist": [
-        "KwrWSHYfWD1F0CQRJ+UwaAUXDlbxSYxyzAb9FGZdQzw=",
-        "democritus_grammars-2021.1.21.tar.gz"
-      ],
-      "wheels": {
-        "democritus_grammars-2021.1.21-py2.py3-none-any.whl": [
-          "WALemWctN72odVgVNS1IEbWZI4hsCJnDf2eeIMKH4uw=",
-          "py2.py3"
-        ]
-      }
-    }
-  },
-  "democritus-yaml": {
-    "2021.1.21": {
-      "sdist": [
-        "HQgCPf/UhwgcZPiMBM8muEelEUqXigSUZZISAetEXb8=",
-        "democritus_yaml-2021.1.21.tar.gz"
-      ],
-      "wheels": {
-        "democritus_yaml-2021.1.21-py2.py3-none-any.whl": [
-          "xgttsi7A/yOjOmGAeG2icnkzQZIrU+7NpvYrBzvLGXo=",
-          "py2.py3"
         ]
       }
     }
@@ -50354,6 +50334,18 @@
         ]
       }
     },
+    "0.5.16": {
+      "sdist": [
+        "wXRcpeGtf2+mXwiy5NioxeLrN/GFUQahb8udPhfsvkw=",
+        "ocean-contracts-0.5.16.tar.gz"
+      ],
+      "wheels": {
+        "ocean_contracts-0.5.16-py2.py3-none-any.whl": [
+          "Qto8AB2rGz/5GPJBjVCqZy9k1vvx3frjpmuGszfL1Ws=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.5.2": {
       "sdist": [
         "1CeOlOKCJccWtQN2VEbhTrHP7ui1nsNgPBfcMdp1Y+M=",
@@ -58087,6 +58079,18 @@
           "py3"
         ]
       }
+    },
+    "5.0.4": {
+      "sdist": [
+        "acU882NwD4OeN94izwjFCCg995QWyG9vQnAJ7cxzz7w=",
+        "Products.EasyNewsletter-5.0.4.tar.gz"
+      ],
+      "wheels": {
+        "Products.EasyNewsletter-5.0.4-py3-none-any.whl": [
+          "LTXXi9gEgnTIXleSBSyo8pq1LlcMD6AtEcoESNl3i50=",
+          "py3"
+        ]
+      }
     }
   },
   "products.parsedxml": {
@@ -61380,6 +61384,18 @@
       "wheels": {
         "pulp_python_client-3.3.0.dev1618977365-py3-none-any.whl": [
           "xz57X1tmN4SZeV1CgUhnhsNVDfKGjR6YxNFQEmW72ms=",
+          "py3"
+        ]
+      }
+    },
+    "3.3.0.dev1619063746": {
+      "sdist": [
+        "G7xz5ZmizxkOU2r4I7tkPu3oV6sDTkeCDL860mS0L78=",
+        "pulp_python-client-3.3.0.dev1619063746.tar.gz"
+      ],
+      "wheels": {
+        "pulp_python_client-3.3.0.dev1619063746-py3-none-any.whl": [
+          "QEg83Fez3O21BkX71VLcbFHxtBynujNnUc7GC0a0Bkg=",
           "py3"
         ]
       }
@@ -67824,6 +67840,42 @@
         ],
         "quicksocket-0.1.0-cp39-none-win_amd64.whl": [
           "KVijRiR4SXneFhrBKCc839C1VY+DPPJkVCM/c7HRFqs=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.1": {
+      "wheels": {
+        "quicksocket-0.1.1-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "0rmK+txd1NkGi0btl0EVTKpxoNmcZcJlHG6e3XoAeeM=",
+          "cp36"
+        ],
+        "quicksocket-0.1.1-cp36-none-win_amd64.whl": [
+          "KqXokqIS/JlbkuB/Z9ZRSHNYRjnEomtx5uHRp6Yj67Q=",
+          "cp36"
+        ],
+        "quicksocket-0.1.1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "mX+/2eprbzk7S0dlkL5hUTHxEvyk+hoqzT/UoBeSutc=",
+          "cp37"
+        ],
+        "quicksocket-0.1.1-cp37-none-win_amd64.whl": [
+          "0AiRcc42rAd8JuRH7pw2ySVOCTxTjAAUByBkBoP/tQ0=",
+          "cp37"
+        ],
+        "quicksocket-0.1.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "DpPQA3Mk/ASTxmbjcPH3/612uUTaU/tEtrhpNkWf11M=",
+          "cp38"
+        ],
+        "quicksocket-0.1.1-cp38-none-win_amd64.whl": [
+          "STgJUIsN3Xwn+bCEE9+cp9WFvj4t/WYTd13SMR++4Mo=",
+          "cp38"
+        ],
+        "quicksocket-0.1.1-cp39-cp39-manylinux2014_x86_64.whl": [
+          "FoTr/uRLP8OmaxzI+wsQxijxhDo0FasVUdlP9b/lzKg=",
+          "cp39"
+        ],
+        "quicksocket-0.1.1-cp39-none-win_amd64.whl": [
+          "8/JS4iTJe62OXiQk9kuQTiwCyw5M53sdb03PuMNplFI=",
           "cp39"
         ]
       }
