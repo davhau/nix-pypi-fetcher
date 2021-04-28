@@ -4615,6 +4615,20 @@
       }
     }
   },
+  "azure-iot-modelsrepository": {
+    "1.0.0b1": {
+      "sdist": [
+        "huv6o3aErXUbQltCZmqt9Ri+gFo535b9DncLdITChv0=",
+        "azure-iot-modelsrepository-1.0.0b1.zip"
+      ],
+      "wheels": {
+        "azure_iot_modelsrepository-1.0.0b1-py2.py3-none-any.whl": [
+          "n2pyoAigy5NwajpkEXs3beb0+iu7EJUQ1Luy7lNvgNc=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "azureml-designer-serving": {
     "0.0.1": {
       "wheels": {
@@ -46593,6 +46607,12 @@
         "Ww0xM8iJ0Cg39xC6ZQp5CNcbxDfWrJqBZsF5b6ANVa4=",
         "microbeannotator-2.0.4.tar.gz"
       ]
+    },
+    "2.0.5": {
+      "sdist": [
+        "tdo994bFfaQ8pKfRL7cZVrID8l7Q2e2XEtwSQuaN2w4=",
+        "microbeannotator-2.0.5.tar.gz"
+      ]
     }
   },
   "microcosm-connexion": {
@@ -49957,6 +49977,12 @@
         "/zOwLfSJ+Tq910yMaljDcgFc1AakrYnSGFU1HKOybh4=",
         "nlptasks-0.3.1.tar.gz"
       ]
+    },
+    "0.3.2": {
+      "sdist": [
+        "qcWqbaX2b1ml5YfUmjiUd9czVkymVjZHT5Y4LWmR0Ww=",
+        "nlptasks-0.3.2.tar.gz"
+      ]
     }
   },
   "noaa-weather": {
@@ -52196,6 +52222,38 @@
         ],
         "OctoBot_Trading-1.12.7-cp38-cp38-win_amd64.whl": [
           "/6ueuLItxP7Lj64zBKiYcG/EBSrJA+ccutGSDIvH75s=",
+          "cp38"
+        ]
+      }
+    },
+    "1.12.8": {
+      "sdist": [
+        "9fYGI0xCbO057UL715gJare1jTkPRvo0m99Wc8fTwJA=",
+        "OctoBot-Trading-1.12.8.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-1.12.8-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "tCjh/nBsk41pghLsmuYpKRiIUwJzvaYjA9aizvoQREM=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.12.8-cp38-cp38-manylinux1_i686.whl": [
+          "a7TNqp4ClJH6F2EdqwMSDKVJXFA9Bwzwpfh4zAqQuPY=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.12.8-cp38-cp38-manylinux2014_aarch64.whl": [
+          "K485HnuQHRNUpc3kRTYDH0xV/428uDfSAu++q3hP53k=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.12.8-cp38-cp38-manylinux2014_i686.whl": [
+          "BEbhisCdqRyDCLHGEGKk2U1P7P4EQFBsz+f7wbsjie4=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.12.8-cp38-cp38-manylinux2014_x86_64.whl": [
+          "zFHHUFQezzcvsLXEvY/EFvzzMVYIfQrUTLf2WOi2IvE=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.12.8-cp38-cp38-win_amd64.whl": [
+          "cJ5QFTrYMwQ840l/QXHVK5hRiy3xBBhu6w2+dYbQYRs=",
           "cp38"
         ]
       }
@@ -59816,6 +59874,58 @@
         ],
         "pyats.utils-21.3-cp39-cp39-manylinux1_x86_64.whl": [
           "GM1OfnieEFMTk/DPxEpow+BeNwRNp2+sK4ZVbgtK9FU=",
+          "cp39"
+        ]
+      }
+    },
+    "21.4": {
+      "wheels": {
+        "pyats.utils-21.4-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "S73YYcfrIrjo2J5Qbn4Sfu+DFC1kOMlQqDyViHyMpOI=",
+          "cp36"
+        ],
+        "pyats.utils-21.4-cp36-cp36m-macosx_10_16_x86_64.whl": [
+          "en5+Xl69fpIXDxXB6wcw2iLTvRMc84yKH5FQl8wVMxo=",
+          "cp36"
+        ],
+        "pyats.utils-21.4-cp36-cp36m-manylinux1_x86_64.whl": [
+          "A7Yj6xqwgHUoVLYJxBzjoEPZ9LIJJWE3qxzJClMfIwQ=",
+          "cp36"
+        ],
+        "pyats.utils-21.4-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "RIZAwH9IadPdPQg4ghkHkCebZgFewM48/iWH9vTaQ9o=",
+          "cp37"
+        ],
+        "pyats.utils-21.4-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "iUtGTRMRmkzHl7T/dszLLzd6r2whLhDU2pki3LKGAbk=",
+          "cp37"
+        ],
+        "pyats.utils-21.4-cp37-cp37m-manylinux1_x86_64.whl": [
+          "Uy6abQnMrLTeQa5ipeeqF+FSkqi/Mu++okqVv1WIpc0=",
+          "cp37"
+        ],
+        "pyats.utils-21.4-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "lk1MyNp53qvwuGG4AvAp9PO2aZrUukzL7z9PndJtmLE=",
+          "cp38"
+        ],
+        "pyats.utils-21.4-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "D+VPNFVKA91e02YfJz9t2jXfo5fBBXSzGLHGo/Mw+co=",
+          "cp38"
+        ],
+        "pyats.utils-21.4-cp38-cp38-manylinux1_x86_64.whl": [
+          "foNQyGxbfKBqpZPQjvGFi4f4rI6hNKomXfsSkTlKX78=",
+          "cp38"
+        ],
+        "pyats.utils-21.4-cp39-cp39-macosx_10_10_x86_64.whl": [
+          "40u+pwFGPdQtuBX8id6Spl+UwGFRg289jqTwzbIu2a8=",
+          "cp39"
+        ],
+        "pyats.utils-21.4-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "GV8F9JSDFxF+3kg8DcdncEmSLbRZmqsrcVGtV1uoryI=",
+          "cp39"
+        ],
+        "pyats.utils-21.4-cp39-cp39-manylinux1_x86_64.whl": [
+          "G2LHG5uNgWnyceHghhHReXq4buB5Q2mIlI4sj1m30PE=",
           "cp39"
         ]
       }
@@ -78503,6 +78613,18 @@
           "py2.py3"
         ]
       }
+    },
+    "4.3.0": {
+      "sdist": [
+        "s30VXB7VyfLpAwGsXkeTSAD5em+Z3NExoGKcFdUDD2M=",
+        "sequoia-client-sdk-4.3.0.tar.gz"
+      ],
+      "wheels": {
+        "sequoia_client_sdk-4.3.0-py2.py3-none-any.whl": [
+          "IXW0limRslabSrUUZv/FGJ9MxKcQtQuypqNI11LgsLw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "serial2udp": {
@@ -87175,6 +87297,42 @@
           "cp39"
         ]
       }
+    },
+    "2.5.0rc2": {
+      "wheels": {
+        "tensorflow_gpu-2.5.0rc2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "EW8a2vG4iyGxZrg3bp3LNXs+9JkBV6n9sVu2tXgL8ys=",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.5.0rc2-cp36-cp36m-win_amd64.whl": [
+          "6XKZ23hfLOJiDWJdwywRABPfh0CrB1M0ybwgIPVsQ4Q=",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.5.0rc2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "hs3bS+xT0zLcOR+3ZtVisxG5eOqQnNrdtRA1M/wBNLw=",
+          "cp37"
+        ],
+        "tensorflow_gpu-2.5.0rc2-cp37-cp37m-win_amd64.whl": [
+          "90UavSrPxSqk62IMlpgZOGXd0qSJqo7sMRd6nlpWKRk=",
+          "cp37"
+        ],
+        "tensorflow_gpu-2.5.0rc2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "iDzY/mPu+CvLD6ucKXXgFYFbSC8DmabYMXrrHhshJPU=",
+          "cp38"
+        ],
+        "tensorflow_gpu-2.5.0rc2-cp38-cp38-win_amd64.whl": [
+          "fO9bfUOoi0kVd1OekCrbSf6vck4y+Yu413GrK2CZRPc=",
+          "cp38"
+        ],
+        "tensorflow_gpu-2.5.0rc2-cp39-cp39-manylinux2010_x86_64.whl": [
+          "rWb5lzNEOGhlAHANGHaLzK3IVTLU6iMTVSd8M2xXnQw=",
+          "cp39"
+        ],
+        "tensorflow_gpu-2.5.0rc2-cp39-cp39-win_amd64.whl": [
+          "vDBeegxd/e1xqAGMFJ4T+YyGJD8O7Cz8rjsRciQi8aA=",
+          "cp39"
+        ]
+      }
     }
   },
   "terminalmushroom": {
@@ -91694,14 +91852,14 @@
         ]
       }
     },
-    "2.1.2": {
+    "2.1.3": {
       "sdist": [
-        "+WQLZxYk4OpJkYn6b/y2cDovEYsKcFkmEisSYG6gAcs=",
-        "xdevs-2.1.2.tar.gz"
+        "ZdCPvhLFTsrzgSNs0sBme/btCgkn6K0cZnv/mI1zxM0=",
+        "xdevs-2.1.3.tar.gz"
       ],
       "wheels": {
-        "xdevs-2.1.2-py3-none-any.whl": [
-          "pFvxi11tpGqCfQEhrw7L2Unn30gWBY/5PVzlXkf9Ns0=",
+        "xdevs-2.1.3-py3-none-any.whl": [
+          "Qci2Gvxk4684Tfb7Ixs0Ch0NeZTGkm2x+vdER5X8dK4=",
           "py3"
         ]
       }
