@@ -4695,16 +4695,6 @@
       }
     }
   },
-  "become": {
-    "0.0.1": {
-      "wheels": {
-        "become-0.0.1-py3-none-any.whl": [
-          "9wp9EbimqMuVCPRWHg3WnLiDwJM6roToWfQw15u413c=",
-          "py3"
-        ]
-      }
-    }
-  },
   "benefactor": {
     "0.1": {
       "sdist": [
@@ -6552,16 +6542,6 @@
       "wheels": {
         "byase_gui-1.0.5-py3-none-any.whl": [
           "Sh/5Bzi0FAw7iXMgS1ELxqh8i9d8ihxJRg9wr3mjNww=",
-          "py3"
-        ]
-      }
-    }
-  },
-  "byref": {
-    "0.0.1": {
-      "wheels": {
-        "byref-0.0.1-py3-none-any.whl": [
-          "ql8WSij9G7HTSA26g679/39uMonGOR4SyGUFK1v2wWM=",
           "py3"
         ]
       }
@@ -10978,6 +10958,18 @@
       "wheels": {
         "dbnd_postgres-0.39.1-py2.py3-none-any.whl": [
           "c9JwcLn25a6dH350NhtzybDxx4K3fmfH+QO2H1fqMGQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.39.2": {
+      "sdist": [
+        "IvNA65nNOcQVwTj9FMc9xe0rkmf0ejHO1Kf3B6WVSqA=",
+        "dbnd-postgres-0.39.2.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_postgres-0.39.2-py2.py3-none-any.whl": [
+          "wMe8P8OZUP1x7CN7vIjjbq2bjNyTdqwrioryU7oFsVo=",
           "py2.py3"
         ]
       }
@@ -38470,6 +38462,30 @@
         ]
       }
     },
+    "1.17.62.1": {
+      "sdist": [
+        "lQtQQml35gmGRq0Yx4VaKKWdt5JYEnI6r+HoelAeL30=",
+        "mypy-boto3-databrew-1.17.62.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_databrew-1.17.62.1-py3-none-any.whl": [
+          "XHqZsL6a2QSnBOspm7AwzGx1fX0sUqeJn92fDD6HP7U=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.64.1": {
+      "sdist": [
+        "Bemm+tUc+x7IekVQLz3+RQ5mrv1Yh3Hef+/4luWFuwM=",
+        "mypy-boto3-databrew-1.17.64.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_databrew-1.17.64.1-py3-none-any.whl": [
+          "VfK2yB014sX5CWrDzq8+jD5Xmh9Y9kfbWG8EqA/lay0=",
+          "py3"
+        ]
+      }
+    },
     "1.17.7.0": {
       "sdist": [
         "EBXPov+AJGkXNB54tefaJLLyUDnBICWQ5wTu0wW36wQ=",
@@ -42404,6 +42420,30 @@
       "wheels": {
         "mypy_boto3_kms-1.17.62.0-py3-none-any.whl": [
           "8s6c9wODScrp5spQ0D3JdDzYW5LX2pcG30YhYk1aNuI=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.62.1": {
+      "sdist": [
+        "tJFo9NFbtDAVKEqIReZE8K9BRhRWxKjTOEvTvH9LYOc=",
+        "mypy-boto3-kms-1.17.62.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kms-1.17.62.1-py3-none-any.whl": [
+          "4k97Np9dXq0/5aZDhCE9lDi1nMtKZ6q/Gyvp8Jmi+hY=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.64.1": {
+      "sdist": [
+        "hzQ956Og7LxPNgfQ13lCKBOQyA+K8OfKBx4bb5vbEf8=",
+        "mypy-boto3-kms-1.17.64.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kms-1.17.64.1-py3-none-any.whl": [
+          "ULbnNPOmvMeADvOcSJwM028yAu6uCEvi3Oon5Q6iMsM=",
           "py3"
         ]
       }
@@ -91648,6 +91688,32 @@
       "wheels": {
         "trytond_account_credit_limit-5.8.1-py3-none-any.whl": [
           "Tuwhsb7J0Ui2VpN8E4k3i/ik3tonOK1pQ+BMSPRqZBU=",
+          "py3"
+        ]
+      }
+    },
+    "6.0.0": {
+      "sdist": [
+        "qHUY3vpR/ISuWK3EKITq0z2ftCQSMHdkm7lf37xjJNo=",
+        "trytond_account_credit_limit-6.0.0.tar.gz"
+      ],
+      "wheels": {
+        "trytond_account_credit_limit-6.0.0-py3-none-any.whl": [
+          "F4b2C/+23H2DdvkHy7IgqagWnnAJjcR52acWDX/CAtE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "trytond-purchase-price-list": {
+    "6.0.0": {
+      "sdist": [
+        "iAGIKBEamiBRiaGvVref/3r9hf5r90dZvTL4do5ZpHg=",
+        "trytond_purchase_price_list-6.0.0.tar.gz"
+      ],
+      "wheels": {
+        "trytond_purchase_price_list-6.0.0-py3-none-any.whl": [
+          "A+SRykIy770SFDQ4dRh6Q7TR1t330OWWHJqbQ7EPhrs=",
           "py3"
         ]
       }

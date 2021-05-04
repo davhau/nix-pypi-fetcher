@@ -789,16 +789,6 @@
       }
     }
   },
-  "after": {
-    "0.0.1": {
-      "wheels": {
-        "after-0.0.1-py3-none-any.whl": [
-          "TGNabXFQKeALFXjeMQAxOBol2HVLW1vu0fEhO75W5hk=",
-          "py3"
-        ]
-      }
-    }
-  },
   "ai-utils": {
     "1.0.1": {
       "sdist": [
@@ -6119,16 +6109,6 @@
       }
     }
   },
-  "branch": {
-    "0.0.1": {
-      "wheels": {
-        "branch-0.0.1-py3-none-any.whl": [
-          "R91K6zorNhcAm+vlXdgvtayELQ7s9eL0rgjoUGAN9p0=",
-          "py3"
-        ]
-      }
-    }
-  },
   "brian": {
     "1.0.0": {
       "sdist": [
@@ -11220,6 +11200,12 @@
       "sdist": [
         "A3IagkRJ5yoAVyBe3toe9Fm9e1Z6ZesxTFKvLv0XibY=",
         "cluster_tools-1.54.tar.gz"
+      ]
+    },
+    "1.55": {
+      "sdist": [
+        "6tl4XQ/zex0QoKnV06sdrbE5JrDl+lDnmD4Ke8eW+hY=",
+        "cluster_tools-1.55.tar.gz"
       ]
     }
   },
@@ -23904,6 +23890,94 @@
         ],
         "duckdb-0.2.6.dev790-cp39-cp39-win_amd64.whl": [
           "zeoShRK820RUX2aXnqYdWsqBoxmQOI8QfK++mzPufpA=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.6.dev795": {
+      "sdist": [
+        "+uMVWtDtvfW8pKbdBHGIIZ4EVW3czkmQTDrFQltS4NU=",
+        "duckdb-0.2.6.dev795.tar.gz"
+      ],
+      "wheels": {
+        "duckdb-0.2.6.dev795-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "fBEkSUtFpTcGAwqTySy7aIUYd4ZKPoU+kVaK85h2q4w=",
+          "cp36"
+        ],
+        "duckdb-0.2.6.dev795-cp36-cp36m-manylinux2010_i686.whl": [
+          "BMvqcygrchhsPMekO3cUMAcm/GJFkUeSpMVjq1e5jeI=",
+          "cp36"
+        ],
+        "duckdb-0.2.6.dev795-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "c+e7paKjRtJ9MbVdx6SEH6vZZdE9KwQ3en/ZMZl5lLM=",
+          "cp36"
+        ],
+        "duckdb-0.2.6.dev795-cp36-cp36m-win32.whl": [
+          "08sG+iU6YWySackGMbZi7XQVCJ4ibMZNISuy1KPIIC4=",
+          "cp36"
+        ],
+        "duckdb-0.2.6.dev795-cp36-cp36m-win_amd64.whl": [
+          "+ZVzZptZKdoW2rGbGhviZ2HnOh3Psgl5Oxl4omutxlg=",
+          "cp36"
+        ],
+        "duckdb-0.2.6.dev795-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "ad9I7rdONDJFx6pt7P2OjoraE423QshVfn1SbVpKcUk=",
+          "cp37"
+        ],
+        "duckdb-0.2.6.dev795-cp37-cp37m-manylinux2010_i686.whl": [
+          "o538j7kvsCqFmwSXs1VFI+k6e015euMK1TD5NavtNjI=",
+          "cp37"
+        ],
+        "duckdb-0.2.6.dev795-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "kknFiVI1J149IGnEE35hB6c8hpKoykhLBlddOhkihsg=",
+          "cp37"
+        ],
+        "duckdb-0.2.6.dev795-cp37-cp37m-win32.whl": [
+          "4McAN0H44OKTZOBgc2jsSkk2O6nqA0NuVIXO4fyViVo=",
+          "cp37"
+        ],
+        "duckdb-0.2.6.dev795-cp37-cp37m-win_amd64.whl": [
+          "b6lvnQ1y6PAeWG+FmA2Jd6JWGPGRmYR+AEyVUvmXexw=",
+          "cp37"
+        ],
+        "duckdb-0.2.6.dev795-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "/PVlDusrl6pQgiRbjc7GoKtYo9PwcPyJAE4AF9aWPq0=",
+          "cp38"
+        ],
+        "duckdb-0.2.6.dev795-cp38-cp38-manylinux2010_i686.whl": [
+          "PDX5Kiv2uv49Dx8xM+F8t6hEpYqbH3S0HrTAo2T4dp4=",
+          "cp38"
+        ],
+        "duckdb-0.2.6.dev795-cp38-cp38-manylinux2010_x86_64.whl": [
+          "CTHQX7y7opjzLeq0oEYeelh2MBoPj4NgdhXsgieHkBA=",
+          "cp38"
+        ],
+        "duckdb-0.2.6.dev795-cp38-cp38-win32.whl": [
+          "2taBQtzU6LqWiwd925Lt8aQdDW8VXD5sewyAhc/QGVE=",
+          "cp38"
+        ],
+        "duckdb-0.2.6.dev795-cp38-cp38-win_amd64.whl": [
+          "VK5PQzCCi0Tnp+i5faxT9UEOp4rUHfDavUwDKZOtcLY=",
+          "cp38"
+        ],
+        "duckdb-0.2.6.dev795-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "S+giVNieKzuub35d0JedW6m5em9q3Wkg99DVEV+kEOU=",
+          "cp39"
+        ],
+        "duckdb-0.2.6.dev795-cp39-cp39-manylinux2010_i686.whl": [
+          "iSf6SanAwSs7r6sFM81hu7x1Q2LNotq8YbzlZSw2eag=",
+          "cp39"
+        ],
+        "duckdb-0.2.6.dev795-cp39-cp39-manylinux2010_x86_64.whl": [
+          "DhnV+1RzsAJA2uAbrK97hf0qqjb4wzpipUft/MtEJWo=",
+          "cp39"
+        ],
+        "duckdb-0.2.6.dev795-cp39-cp39-win32.whl": [
+          "jRpOIfCzHDSvKy9anNBrExN2GZQjUy6+Ic8ARAGHE3o=",
+          "cp39"
+        ],
+        "duckdb-0.2.6.dev795-cp39-cp39-win_amd64.whl": [
+          "aANRY61CEdoOmiXma0Hg4NGLuf2FoTOVBpluF326DaY=",
           "cp39"
         ]
       }
@@ -42041,6 +42115,32 @@
       }
     }
   },
+  "memory-monitor-cli": {
+    "0.1.0": {
+      "sdist": [
+        "//Huyl/uVBPnAgSaGTiGYg3e9wWnH7sfQSof6vb5Bf8=",
+        "memory-monitor-cli-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "memory_monitor_cli-0.1.0-py3-none-any.whl": [
+          "cs4jT+UlKPJI3BjfBOrCJxB6nv49RBGaCoVUGIPKCQQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "xOXtVJnwI0WJpxl/Tw34R3Lr7Gd1xE2Psv9PKvHPSqY=",
+        "memory-monitor-cli-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "memory_monitor_cli-0.1.1-py3-none-any.whl": [
+          "RY6nZaJXED7oD+bkjWLPUEJ9ltY4zaH4yVLXSWWEz+Y=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mentos": {
     "0.1.6": {
       "sdist": [
@@ -43337,16 +43437,6 @@
         "mlx.xunit2rst-0.8.0-py2.py3-none-any.whl": [
           "qZmP1jZ06jePrlLb2Ofm1UWzTqWf7BNZKG/PIVY0AKI=",
           "py2.py3"
-        ]
-      }
-    }
-  },
-  "modelformset": {
-    "0.0.1": {
-      "wheels": {
-        "modelformset-0.0.1-py3-none-any.whl": [
-          "FHnUpNR1DJ+IdEedhIHd7JGLbWjTG4vIVOt/02xWi3Q=",
-          "py3"
         ]
       }
     }
@@ -83857,6 +83947,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.387": {
+      "sdist": [
+        "Pv70IPZiAwHldv4wshSlIzVi31TKnvZ5BiNnD8GjTss=",
+        "tencentcloud-sdk-python-tem-3.0.387.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tem-3.0.387-py2.py3-none-any.whl": [
+          "d+UUep37xpJuvLg9q0VW4fHZ54q3nb3LZIiENaQhz1Y=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendencia": {
@@ -90230,6 +90332,18 @@
       "wheels": {
         "yagmail-0.14.247-py2.py3-none-any.whl": [
           "7+UToVeznWCEYYZjQU9GiwDF8h0gAa7hu2WgGXKUBjg=",
+          "3.7"
+        ]
+      }
+    },
+    "0.14.248": {
+      "sdist": [
+        "vSFMLvZZB7LtjCHf0RcTo9Tczg5seKbToVffuqeN3mA=",
+        "yagmail-0.14.248.tar.gz"
+      ],
+      "wheels": {
+        "yagmail-0.14.248-py2.py3-none-any.whl": [
+          "nvuNSAqri57hDqFIHN1GCpZQ49KWbEzbtkXuJGJjiec=",
           "3.7"
         ]
       }
