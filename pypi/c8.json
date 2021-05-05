@@ -607,6 +607,12 @@
         "ovQeCpOhUjgxqFTkShsLouabc6I12RM5mR/GBeP0s8Q=",
         "adafruit-circuitpython-lsm6ds-4.1.4.tar.gz"
       ]
+    },
+    "4.1.5": {
+      "sdist": [
+        "O7Y48gqqD+t70tro66G338TlczYAu0sJu06148Kvs0g=",
+        "adafruit-circuitpython-lsm6ds-4.1.5.tar.gz"
+      ]
     }
   },
   "addsshkeys": {
@@ -5244,6 +5250,18 @@
         ]
       }
     },
+    "1.102.0": {
+      "sdist": [
+        "Iyj/7d8z6ILIGteZEUQ76ZSlHNTZbcLPf1sTZnqZADg=",
+        "aws-cdk.aws-appsync-1.102.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_appsync-1.102.0-py3-none-any.whl": [
+          "HiWQk4MlGykfUTc2PxEJqoP5KS6eo02eL+TMiYocm08=",
+          "py3"
+        ]
+      }
+    },
     "1.11.0": {
       "sdist": [
         "dG1y1HdSMN6jNloOrJD+81rmlQ38sMo98BYRy2Cn5mw=",
@@ -6694,6 +6712,18 @@
       "wheels": {
         "aws_cdk.aws_codestarnotifications-1.101.0-py3-none-any.whl": [
           "43p8yWINKs+saQ8pdb0jziMj2uvHE3YUeuTHPwT2Y0U=",
+          "py3"
+        ]
+      }
+    },
+    "1.102.0": {
+      "sdist": [
+        "rOWDK3ayg4JZXHVeg9cECBecXAP3Wi0p2Wn8MZBUB70=",
+        "aws-cdk.aws-codestarnotifications-1.102.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codestarnotifications-1.102.0-py3-none-any.whl": [
+          "wbqwSW39wFoHjz71cesXyn8WGLkiPvWHXSbPTSjS2bE=",
           "py3"
         ]
       }
@@ -26154,6 +26184,12 @@
         "djaodjin-signup-0.4.10.tar.gz"
       ]
     },
+    "0.4.11": {
+      "sdist": [
+        "sn7WYNspPqDAlAK/Na2ExUbhRvYkgjyv7Ub6TdXMkQ4=",
+        "djaodjin-signup-0.4.11.tar.gz"
+      ]
+    },
     "0.4.2": {
       "sdist": [
         "xC2YjJrz/u3jOjHdCJ3424hmk3Xi6ism2O4h6jQPQwQ=",
@@ -31888,6 +31924,66 @@
         ],
         "gazebo_yarp_synchronizer-0.1.dev28-cp39-cp39-manylinux_2_24_x86_64.whl": [
           "pk2tes/RPzAYitROYydlcfND1pFxfcM4dhhoyS/VU/I=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.dev30": {
+      "sdist": [
+        "4o457oIHU/ZWwAoVDjUcmT1YeQ+JWNz321QPMwPk4uY=",
+        "gazebo_yarp_synchronizer-0.1.dev30.tar.gz"
+      ],
+      "wheels": {
+        "gazebo_yarp_synchronizer-0.1.dev30-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "rxH4Kv3t+jlhdJjGthkSDwDybFlN2YY64fZPJSZjODU=",
+          "cp37"
+        ],
+        "gazebo_yarp_synchronizer-0.1.dev30-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "QGAkuXNzikiQym6IbeAAcTfBPUor4xBxK+oabqhQPbo=",
+          "cp38"
+        ],
+        "gazebo_yarp_synchronizer-0.1.dev30-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "1THbeZPZA7ifydWy0wnvcqgGaKHvJgcAlGRdQ23yTyA=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.dev31": {
+      "sdist": [
+        "Jnk0ZIlh7stAS8bnVgIkBlo/dhNHvajWeex0cL0JEAM=",
+        "gazebo_yarp_synchronizer-0.1.dev31.tar.gz"
+      ],
+      "wheels": {
+        "gazebo_yarp_synchronizer-0.1.dev31-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "f3QfAYT56E/zOp7aZM8qk8EWxWxZ9d+jeBNnvHb8seo=",
+          "cp37"
+        ],
+        "gazebo_yarp_synchronizer-0.1.dev31-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "o17AnC8uAULl0h2YutPjfgUm6OSoh3eVx7DTtJ1mDvw=",
+          "cp38"
+        ],
+        "gazebo_yarp_synchronizer-0.1.dev31-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "Vh2PE7OdtI5D8FGiaHAi6ohhi24VKfq2vu25ic5MqQE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.9.0": {
+      "sdist": [
+        "yTvvwdk3zvnjcI2GWEtsMfHHkpH1iY+o3rJZ0RK4ZGc=",
+        "gazebo_yarp_synchronizer-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "gazebo_yarp_synchronizer-0.9.0-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "US7lc9ty6j0TZLHCDuOOeSg0L5xnhpdI+gKHhEPY03I=",
+          "cp37"
+        ],
+        "gazebo_yarp_synchronizer-0.9.0-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "vTzNN54SWIwQb0F/XQbPSK+oj0MS1Z67XRr6rvPu44I=",
+          "cp38"
+        ],
+        "gazebo_yarp_synchronizer-0.9.0-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "0rveyN3kB+NLYAJ4obu1pJltBT3D2mVPeTREc6o8T2k=",
           "cp39"
         ]
       }
@@ -73843,6 +73939,42 @@
           "py3"
         ]
       }
+    },
+    "0.4.3": {
+      "sdist": [
+        "H1uZmAmNix1vlvqV+6Bwn0me/RVR7weU39uwg4TzZOg=",
+        "pydwf-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "pydwf-0.4.3-py3-none-any.whl": [
+          "oEw4/UROunr5MDKKKGo958BQ9DAw+yb5DbvJs0vqxdg=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.4": {
+      "sdist": [
+        "e2XUJE94YqNtQkhAmQtzCvDunHgtxiLDxglReidm8TA=",
+        "pydwf-0.4.4.tar.gz"
+      ],
+      "wheels": {
+        "pydwf-0.4.4-py3-none-any.whl": [
+          "faqvhTIG/adrfsIkmtm1hLWeueqeNw2E1y7P6ykWCpA=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.5": {
+      "sdist": [
+        "6u+cCwfp2rpQwACIY5y5n9lsEzWwViMOmN5iNSeyIUM=",
+        "pydwf-0.4.5.tar.gz"
+      ],
+      "wheels": {
+        "pydwf-0.4.5-py3-none-any.whl": [
+          "Hv77Ll3Uh3VbOKWAlgjaA4SSQGqSnBFxcZjJVZtPsDE=",
+          "py3"
+        ]
+      }
     }
   },
   "pyenest": {
@@ -88883,6 +89015,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.9": {
+      "sdist": [
+        "P7HbQ7xjnu9PLZiIzh5clWs8BNsIzD70v/Zasl60SLs=",
+        "t3dn-bip-converter-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "t3dn_bip_converter-0.0.9-py3-none-any.whl": [
+          "JEVy+3/QPtbtwoWivtyd5epNPBz3kepTiWtCpZm5kJ8=",
+          "py3"
+        ]
+      }
     }
   },
   "tacklebox": {
@@ -91296,6 +91440,18 @@
       "wheels": {
         "tokendito-1.1.0-py2.py3-none-any.whl": [
           "ELL8DJSXbyDm1XVdlV3Lu7ylVBld2TUEgw+CyI+uFXM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "NI+fU3rtP1hv+KJ6V57iEqPqUZ1IESqCN6j5YE5ikhY=",
+        "tokendito-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "tokendito-1.1.1-py2.py3-none-any.whl": [
+          "+1plfsTDM1fuZqE/7Ty/CF31alEP322OVzjn8XSt71U=",
           "py2.py3"
         ]
       }

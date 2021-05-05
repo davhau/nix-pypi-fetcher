@@ -254,6 +254,12 @@
         "adafruit-circuitpython-display-text-2.18.3.tar.gz"
       ]
     },
+    "2.18.4": {
+      "sdist": [
+        "q2N4KdIsWos3d4xzIqx9Pdf2xhlFuKMAK7HBrMb4p6Y=",
+        "adafruit-circuitpython-display-text-2.18.4.tar.gz"
+      ]
+    },
     "2.7.10": {
       "sdist": [
         "QXE6JQGaVm+RDHEkWa8NsVpKJkPXER6wAIYWTXogXCY=",
@@ -5619,6 +5625,10 @@
       }
     },
     "1.102.0": {
+      "sdist": [
+        "SQ9NdvIoP/YidOQkRarpNLRVVaeTzQDBUNaB5PkbWW4=",
+        "aws-cdk.aws-wafv2-1.102.0.tar.gz"
+      ],
       "wheels": {
         "aws_cdk.aws_wafv2-1.102.0-py3-none-any.whl": [
           "VVfvazeBpXZ1T/KUjHC38mkLzRO2621Kottr0dB0cOY=",
@@ -9116,6 +9126,18 @@
       "wheels": {
         "bonsai_cli-1.0.7-py2.py3-none-any.whl": [
           "pMGkxph6gfbKwQL7oljx4CPGbGiHWCyW9ysrhhUBqcc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "8g1PYWm7S4c21hCWGhK4urssjSYlhkQMjMwMw+Jh5S8=",
+        "bonsai-cli-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "bonsai_cli-1.0.8-py2.py3-none-any.whl": [
+          "8vlX9CzUKMnpAXyLJ4KJszFe1W2dDxBnsSRKsFgSkuE=",
           "py2.py3"
         ]
       }
@@ -19779,6 +19801,32 @@
       }
     }
   },
+  "dropbox-api-team-3": {
+    "0.1.0": {
+      "sdist": [
+        "IX1SPBljnSf6ALelPOXS0YPSJZYwekZPoI9LSqnQrXE=",
+        "dropbox_api_team_3-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "dropbox_api_team_3-0.1.0-py3-none-any.whl": [
+          "uiqa988k2aWIPlc947A2YiK97rZWAZi2V25FRSX5yu4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "met6naqlxGMSB1tGI4eCbAqviVFGX9bIcA23wSytnvc=",
+        "dropbox_api_team_3-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "dropbox_api_team_3-0.1.1-py3-none-any.whl": [
+          "+k8mhkFmOnhlpS5sSxf37+IyBmOfH+HLbqzFj5Vwovc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "dscan-4e656f": {
     "0.1.0": {
       "sdist": [
@@ -20877,6 +20925,80 @@
         "6SZev+nBWptysq2r/zaYtuDkWe2/qiZYH0/fFr3ZXYg=",
         "Erudite-1.1.1.tar.gz"
       ]
+    }
+  },
+  "etl-bq-tools": {
+    "0.0.1": {
+      "sdist": [
+        "LT89457kZjp4xfC7Ol1EJitp4jeK51cXao50CZD7ZQM=",
+        "etl_bq_tools-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "etl_bq_tools-0.0.1-py3-none-any.whl": [
+          "PU54ANRXuNWI/AxEIN4T0cKDryqAE47vAgM8lCuE4TM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "HG9HjfjOJOuluX4AmdKijcvzkenXBNt/HCaiQFS6Vqs=",
+        "etl_bq_tools-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "etl_bq_tools-0.0.2-py3-none-any.whl": [
+          "3ZljZPHURE7xmpgb9F3llpbMbDx54YhkxiXoxAbZfeU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "KV5PhCSnsDyYOBXJVODToiVyfVa3AIJVHIWcrUCNpck=",
+        "etl_bq_tools-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "etl_bq_tools-0.0.3-py3-none-any.whl": [
+          "K2QU+zflCkxoa5qpx3XIwSdfpCPenXMxT6VVVLde7fc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "xzAJwiKNwSUAs071D732EPqnJ8tAoE0yOdg4airpruk=",
+        "etl_bq_tools-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "etl_bq_tools-0.0.4-py3-none-any.whl": [
+          "NLfnvsMVz2F7ES7Fd0u8hCAy658rup1avbeGxN3Mgs0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "Otm+rLCb/ldH0Trzm7Z8ULIyw/N5UXmQdlhgPpsE8Rw=",
+        "etl_bq_tools-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "etl_bq_tools-0.0.5-py3-none-any.whl": [
+          "ThZeFy4KQrB0u0y30wHszMSqZyG2SsSQSSNd6ims+Pg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "9d5I3vGybVuiVUP3K/1t3X1ZEAX2OwnytXumfoOEBbM=",
+        "etl_bq_tools-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "etl_bq_tools-0.0.6-py3-none-any.whl": [
+          "tsRmUyRnHK295FlkomPVoWUXtz83iFADMuG6Xzmbumw=",
+          "py3"
+        ]
+      }
     }
   },
   "eve-panel": {
@@ -49868,6 +49990,18 @@
         ]
       }
     },
+    "1.17.63.1": {
+      "sdist": [
+        "GFKsfjCIFVQEpL5+BOQJF7GNuD1RFpdhxKXiS+VepK0=",
+        "mypy-boto3-kendra-1.17.63.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kendra-1.17.63.1-py3-none-any.whl": [
+          "IEwVFVW6P9q5ceW1rHMgeO3h4Up7fj5E0gSjtraUrUM=",
+          "py3"
+        ]
+      }
+    },
     "1.17.64.1": {
       "sdist": [
         "hKNLkHiZ5bJYYIGFTAnVG99iew4iH8P8GhAYndsFXkk=",
@@ -49876,6 +50010,30 @@
       "wheels": {
         "mypy_boto3_kendra-1.17.64.1-py3-none-any.whl": [
           "SQXiEruW3NmGi2MxsIx8i/svkuZ0mp5OBEFFlflMY4w=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.64.2": {
+      "sdist": [
+        "cDZlawHupxGfGSzkVL3PEmxMHFzTopEXnXO5f3jIHYk=",
+        "mypy-boto3-kendra-1.17.64.2.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kendra-1.17.64.2-py3-none-any.whl": [
+          "RkLsoUYtpeyyMmZf2ipM1gFTHVqnP4+3t5eIoO3fcZU=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.65.0": {
+      "sdist": [
+        "2cC1qsNsTUH1AYd1keMlDFekX1PQlZpFZPlZ+y5rAzM=",
+        "mypy-boto3-kendra-1.17.65.0.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kendra-1.17.65.0-py3-none-any.whl": [
+          "IraIlORZUwBI0+mX+7u7Hx7DXH+qxHsTP+bNiKdhzCs=",
           "py3"
         ]
       }
@@ -99020,6 +99178,18 @@
       "wheels": {
         "xml_json_yaml_convert-1.0.1-py2.py3-none-any.whl": [
           "So2X7FGW1BesOOiNsmMCgrn/iDjMEsac/LUY0BPCzro=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "jmkE4fz6SvWNjvJubO1rPfrjMVKOU61P1WspX8G+Yio=",
+        "xml_json_yaml_convert-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "xml_json_yaml_convert-1.0.2-py2.py3-none-any.whl": [
+          "6W04Jde0LNmpW0fSqYNtw0LRpk7xfYqGapPv6OlRdZs=",
           "py2.py3"
         ]
       }

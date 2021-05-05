@@ -3928,6 +3928,18 @@
         ]
       }
     },
+    "1.102.0": {
+      "sdist": [
+        "0rxU6Sara+rMOWCiNj2iLjkRYuk4QIqPggHGnVA7zwA=",
+        "aws-cdk.aws-databrew-1.102.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_databrew-1.102.0-py3-none-any.whl": [
+          "UyoWS+zWxg+KDXiOeUaQyLw4M073Q736Y3C7B6Wb2FY=",
+          "py3"
+        ]
+      }
+    },
     "1.75.0": {
       "sdist": [
         "shXiBSv7ZVgq1gELcdKDQ9umQS+0dbUZ319U3g5ymdw=",
@@ -4550,6 +4562,18 @@
       "wheels": {
         "aws_cdk.aws_dynamodb-1.101.0-py3-none-any.whl": [
           "eW8552Srsu/z7q3Sn5FDpOREvCA/TlMByMiztXa6H8I=",
+          "py3"
+        ]
+      }
+    },
+    "1.102.0": {
+      "sdist": [
+        "raSi9Ps0daPWmXdyTbhSk/grQJbAtJti9kJ2v+XUUzw=",
+        "aws-cdk.aws-dynamodb-1.102.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dynamodb-1.102.0-py3-none-any.whl": [
+          "FXC3naRM+tgJ/DHkBirHC4h6u4m1jvvcWV1TkzdbHrs=",
           "py3"
         ]
       }
@@ -26429,6 +26453,20 @@
         "faststat-17.10.0-cp27-cp27m-macosx_10_11_intel.whl": [
           "gjkQtkNyuz4p/wCZBPJsblgUcfyIAcW+lwZjIyvMhw0=",
           "2.7"
+        ]
+      }
+    }
+  },
+  "fchepil-pdf-files": {
+    "1.0": {
+      "sdist": [
+        "hW+Ml+uBUPlSinr46u7ETnawacRT4EUn2zA/S+3Jfg0=",
+        "fchepil_pdf_files-1.0.tar.gz"
+      ],
+      "wheels": {
+        "fchepil_pdf_files-1.0-py3-none-any.whl": [
+          "4Hv1TrsO4JYV0OmIjY9DOONnxTqpmhG8JUG/2DaFHl8=",
+          "py3"
         ]
       }
     }
@@ -78408,6 +78446,74 @@
         ],
         "starry-1.1.1-cp39-cp39-win_amd64.whl": [
           "LmBHkoI7DiCv3KGaxqfH+cpUjODdd9Uxng8OAcZE2n4=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "0FB1BdIGnGTZVerzCwxzZH7cTXw/OlTaTCm0DFagLTM=",
+        "starry-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "starry-1.1.2-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "i9ufs5wnMPCOVNb3XkR3QHu2yeU6qeW8VXeVYL5YXoQ=",
+          "cp35"
+        ],
+        "starry-1.1.2-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "iYTxLOI2LP0t8u6eqBnhzRZCGBggbco+QaIyTwNQwAI=",
+          "cp35"
+        ],
+        "starry-1.1.2-cp35-cp35m-win_amd64.whl": [
+          "ZN8oH84OqfejhWDshl9lJuUxOTr7XvqHipbwyc1jijc=",
+          "cp35"
+        ],
+        "starry-1.1.2-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "l3MPcisJuRY/Bjwy4/ENTWr7vde7hUAsc1MAggyK4dI=",
+          "cp36"
+        ],
+        "starry-1.1.2-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "dfaIMu2dj1g+ndsmK5PLp/5nFJJ3z4VWVAc3i2UX36Y=",
+          "cp36"
+        ],
+        "starry-1.1.2-cp36-cp36m-win_amd64.whl": [
+          "5Ty5yjhVwzPqsESCafI7skilr+2TuxvWjWxsKtv1DRo=",
+          "cp36"
+        ],
+        "starry-1.1.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "L9pnzYHH/EIlP3f3BeQUktaMP2UYWUq1TA34N60vdyk=",
+          "cp37"
+        ],
+        "starry-1.1.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "oFceK7OfFpvk5M2qZEAfgtekAmo3SaaPwAMv0GHDCgA=",
+          "cp37"
+        ],
+        "starry-1.1.2-cp37-cp37m-win_amd64.whl": [
+          "sxmK5NkzlT58gVFBx4Zg952rUH/6a1PLlm8bzoJVwMk=",
+          "cp37"
+        ],
+        "starry-1.1.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "VhJQZgjpOec0wopuwX9R4D9FrkCh92K+q24r7FkClYg=",
+          "cp38"
+        ],
+        "starry-1.1.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "8PWs2pfCmuS4B0sP8WoVbfXW4eZUgcOpuGlYhs+WAAI=",
+          "cp38"
+        ],
+        "starry-1.1.2-cp38-cp38-win_amd64.whl": [
+          "ThgdUQ6oEb4Gw0RZYLAwNS6ienMFoiPGNT9mxN+teKI=",
+          "cp38"
+        ],
+        "starry-1.1.2-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "Y6vmb5eTU+7wVQlU3qM9xxDrRRQ10IFk2RefAywrxYQ=",
+          "cp39"
+        ],
+        "starry-1.1.2-cp39-cp39-manylinux2014_x86_64.whl": [
+          "EhcwkmoieToKaXTZdYh7wvkefl9rOk02dG0DkLV/Qus=",
+          "cp39"
+        ],
+        "starry-1.1.2-cp39-cp39-win_amd64.whl": [
+          "nr7TkLqetDlucAC+eCkGlvhT/2xrIFAqVQkdJ3I61u4=",
           "cp39"
         ]
       }
