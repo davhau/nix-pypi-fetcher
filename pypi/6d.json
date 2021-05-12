@@ -50932,6 +50932,18 @@
         ]
       }
     },
+    "1.17.71": {
+      "sdist": [
+        "h6lBUZ3OJmpszoan/ni7mdA5tGtvTbFyBX3o7oMUqkY=",
+        "mypy-boto3-kinesisanalyticsv2-1.17.71.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_kinesisanalyticsv2-1.17.71-py3-none-any.whl": [
+          "K0TIEgOM3X9ZgiLn5UdtDbpi2O4YS/CeHksfNgvAakA=",
+          "py3"
+        ]
+      }
+    },
     "1.17.8.0": {
       "sdist": [
         "gs9hd4zDPnFQ6mEE7LhqF4Xkr+xx9sUdrnAyO4u2E/U=",
@@ -55046,6 +55058,18 @@
       "wheels": {
         "mypy_boto3_rds-1.17.70.post2-py3-none-any.whl": [
           "YrjYh+nDA0ryhgeVwuXS+s5d++H+37Zeh8cQuC6Q9jY=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.71": {
+      "sdist": [
+        "e5C+Rjt2khwlaieh7spZNOWcwdgXGtgbhSrc9XmhgKs=",
+        "mypy-boto3-rds-1.17.71.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rds-1.17.71-py3-none-any.whl": [
+          "s+1kNTdBEvi16ARD+pEPWbGJ61yj1wQcyb1dAiVdEVQ=",
           "py3"
         ]
       }
@@ -75743,6 +75767,20 @@
       ]
     }
   },
+  "riskweightassets-sm": {
+    "1.0": {
+      "sdist": [
+        "rFhNJdQKuDyQsv36sjirbZ9pzhp9MQE1qygbNOgw6uU=",
+        "RiskWeightAssets_sm-1.0.tar.gz"
+      ],
+      "wheels": {
+        "RiskWeightAssets_sm-1.0-py3-none-any.whl": [
+          "ibASJ3vZn/GBzQwrzgjtgJmpBBcWEnfbDf5vAxQevjg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "rlockertools": {
     "0.1.1": {
       "sdist": [
@@ -80031,6 +80069,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b5": {
+      "sdist": [
+        "ZmjuJtUC33BrYUCXN7WqzdDBpju6qVVycms34ZkIGM8=",
+        "soda-sql-bigquery-2.1.0b5.tar.gz"
+      ],
+      "wheels": {
+        "soda_sql_bigquery-2.1.0b5-py3-none-any.whl": [
+          "gRW4z8yZIs/Ss9YpN40IefC5jbiNWqShPa3ahCKdmww=",
+          "py3"
+        ]
+      }
     }
   },
   "softfloat": {
@@ -81028,6 +81078,58 @@
         ],
         "sqloxide-0.1.10-cp39-cp39-win_amd64.whl": [
           "eRSmBPnTSh9Mr36xsiZma7y1o01XS+1DqR1v7k2XccM=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.11": {
+      "wheels": {
+        "sqloxide-0.1.11-cp36-cp36m-macosx_10_9_universal2.whl": [
+          "XxEIy1ZWE07rtq/96ZHtWkMjyAKUqmK+/YxuRjSdO9k=",
+          "cp36"
+        ],
+        "sqloxide-0.1.11-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HBVT2KHCNA/I6uFmuaP/vzOtkRuWuEvt6aVgDmqFi9w=",
+          "cp36"
+        ],
+        "sqloxide-0.1.11-cp36-cp36m-win_amd64.whl": [
+          "wbQ9oJNVbwfNVP3Yf1VZ2D7lZhZjwRuyvH0nudmHzFs=",
+          "cp36"
+        ],
+        "sqloxide-0.1.11-cp37-cp37m-macosx_10_9_universal2.whl": [
+          "gK3k2eksEvpSXO1cXWSRi13Ogd5FqatuERle2BW11Fc=",
+          "cp37"
+        ],
+        "sqloxide-0.1.11-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "stulnJvcwS+XZQ1nqe/rckAiTa2d5SsEHsp/Ze5Q5Iw=",
+          "cp37"
+        ],
+        "sqloxide-0.1.11-cp37-cp37m-win_amd64.whl": [
+          "9Ixf9lSf7ooMgtLOVtz9q18JVcDoiK/yH3/NTOHu7s8=",
+          "cp37"
+        ],
+        "sqloxide-0.1.11-cp38-cp38-macosx_10_9_universal2.whl": [
+          "XohPszGaJv3sz0biQvXkavjO49iVKJ8mc0Z4WHJ/Hxk=",
+          "cp38"
+        ],
+        "sqloxide-0.1.11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fCe7SDen+yWhddwf5eXs2EuVMEdXELsCdhDRxLUMaO4=",
+          "cp38"
+        ],
+        "sqloxide-0.1.11-cp38-cp38-win_amd64.whl": [
+          "tBkfdmpgpkRdGSfJDh9JhZBdIjlcNUfdYgjOhK9AKko=",
+          "cp38"
+        ],
+        "sqloxide-0.1.11-cp39-cp39-macosx_10_9_universal2.whl": [
+          "k62qlZRBFqaTg47c6JxfzWD9rBiSvZMOVabTI6ee7bY=",
+          "cp39"
+        ],
+        "sqloxide-0.1.11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "K2JAf0aNCtOsVbJjM9DOP2zswA0eQqTMfIhKXd8yXaI=",
+          "cp39"
+        ],
+        "sqloxide-0.1.11-cp39-cp39-win_amd64.whl": [
+          "O4/fwyz5si/h7Y8N2pSaqgiwlxLdxjHNSntiNUEGjIw=",
           "cp39"
         ]
       }
