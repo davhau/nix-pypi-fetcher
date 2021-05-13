@@ -52731,6 +52731,12 @@
         "4hQ3QqXAI3Edk0vvM9ELC2seAeYYkmcwLjw6c8EcXh8=",
         "mlphon-3.0.6.tar.gz"
       ]
+    },
+    "3.0.7": {
+      "sdist": [
+        "XGeUfk50YM0rfDfhaPkuU2D31yms4+Ozm5l3yFxQzv8=",
+        "mlphon-3.0.7.tar.gz"
+      ]
     }
   },
   "mock.gpio": {
@@ -70368,110 +70374,14 @@
     }
   },
   "pypws": {
-    "1.1.7": {
+    "2.2.0.4": {
       "sdist": [
-        "txOs07pCsZelE1mVSxjBuccAc9gARxQQ4tbgCdndt4o=",
-        "pypws-1.1.7.tar.gz"
+        "Ez4K4fZlEIrfPfNLZDF041SsvfNguIuwFavzxVB4yn8=",
+        "pypws-2.2.0.4.tar.gz"
       ],
       "wheels": {
-        "pypws-1.1.7-py3-none-any.whl": [
-          "jcOmQsdfrWK+K6FX/8+3yOsz34C2Z/TkK0kSsbsGdQM=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.8": {
-      "sdist": [
-        "HmczrbuAs1UNDHHYV96L3H5Xcrh9Bs6mlZQcWfTUQ9s=",
-        "pypws-1.1.8.tar.gz"
-      ],
-      "wheels": {
-        "pypws-1.1.8-py3-none-any.whl": [
-          "X6t+Tv9+qTnvghKumrWAsPYl5n3UIjGyw38Ah7jXjTI=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.9": {
-      "sdist": [
-        "nCwbgVBzrUfAhrVDh7GYk7sX6E6zpaJSaSIkf0VRgB0=",
-        "pypws-1.1.9.tar.gz"
-      ],
-      "wheels": {
-        "pypws-1.1.9-py3-none-any.whl": [
-          "P+k2EJbsXiC93ZjLv6jse4UggkFHLtNISvdUhVgn0Yw=",
-          "py3"
-        ]
-      }
-    },
-    "2.1.0": {
-      "sdist": [
-        "9ZxqmPbiVgZDJQCphRFCPFPxhXj1pkbCC2Nd1KVXS48=",
-        "pypws-2.1.0.tar.gz"
-      ],
-      "wheels": {
-        "pypws-2.1.0-py3-none-any.whl": [
-          "VKgznPr9AaJLFhorbBWAuG4bnQVDy0nY5FO2JCeKbsA=",
-          "py3"
-        ]
-      }
-    },
-    "2.1.1": {
-      "sdist": [
-        "D3b7jE8gjjx0xjRToXAl8cqMxwogfN63GZdG3eWqbtc=",
-        "pypws-2.1.1.tar.gz"
-      ],
-      "wheels": {
-        "pypws-2.1.1-py3-none-any.whl": [
-          "Z6IXC1itMr84sAt2WBGPBkPVjKRWWChkdsFCBZYPNqo=",
-          "py3"
-        ]
-      }
-    },
-    "2.1.3.0": {
-      "sdist": [
-        "0vFlvQpUJrOqZ7bHUE3mxYha8P/QCYDI4JBR63gB2HE=",
-        "pypws-2.1.3.0.tar.gz"
-      ],
-      "wheels": {
-        "pypws-2.1.3.0-py3-none-any.whl": [
-          "fJdyk7FOEzPoAkGPSm8HD+NA6C4cMjG1Un5ajq7zzbY=",
-          "py3"
-        ]
-      }
-    },
-    "2.2.0.1": {
-      "sdist": [
-        "5Mg+rnCl1E8CUG/JieodbTuBVQCGmS5YzNwSAjz2RGM=",
-        "pypws-2.2.0.1.tar.gz"
-      ],
-      "wheels": {
-        "pypws-2.2.0.1-py3-none-any.whl": [
-          "tPl85W/XgVWzYUxefFnrSKulV5QESSlMlck+xUfrdSU=",
-          "py3"
-        ]
-      }
-    },
-    "2.2.0.2": {
-      "sdist": [
-        "BiJwBknpE1wmK7wX2Xfgiidt656kojX0UiOFnLM72tU=",
-        "pypws-2.2.0.2.tar.gz"
-      ],
-      "wheels": {
-        "pypws-2.2.0.2-py3-none-any.whl": [
-          "K9rfGbKUAm6mTWRQ22T1DvRpR5Gd2HCQXlSWQfkrYso=",
-          "py3"
-        ]
-      }
-    },
-    "2.2.0.3": {
-      "sdist": [
-        "ssqE58lsPGPxnGFaMLeguSvWqqPtrOIlHNeHHjvOMW8=",
-        "pypws-2.2.0.3.tar.gz"
-      ],
-      "wheels": {
-        "pypws-2.2.0.3-py3-none-any.whl": [
-          "8t+fj9eaemoLKUXTSnCU4bx26wWKNWlyxXdJpdJMnI4=",
+        "pypws-2.2.0.4-py3-none-any.whl": [
+          "meMU2cgnJtjvwRGMBzB8hh4BVSAGThcmCufXHfJw22k=",
           "py3"
         ]
       }
@@ -87545,6 +87455,38 @@
           "cp39"
         ]
       }
+    },
+    "2.6.0.dev20210513": {
+      "wheels": {
+        "tf_nightly_cpu-2.6.0.dev20210513-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "+tvFBDExphcl4U2tll5CCVJ55Oni8A7WBrBP2d6rZAM=",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210513-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "AvS6sACHsjTIyLEDkxJvDF1R9YsYpBl19UegAW7vf4Y=",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210513-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "X1Eyho72njPK1t6q9OPPyJYr5T6A+0Klir3JzunRTJ0=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210513-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "9RMBAIhOJAymfC72vmE/YGPNw9vTF2y2cJcbbh1aiHc=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210513-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "kW3spYyQLRRsnnoPJOSUE8tGBDwqqPDVbFPRRBDr1Rw=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210513-cp38-cp38-manylinux2010_x86_64.whl": [
+          "1yoCXQhMmykb3TmrScQcRnB0xuE9QXVxORrpK3viFw0=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210513-cp39-cp39-manylinux2010_x86_64.whl": [
+          "0Qu/h2nDWTxM2Hb606oxspFl1NRkhtMVyUAzdnk1oxU=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfaip": {
@@ -91346,6 +91288,18 @@
       "wheels": {
         "u3driver-1.0.34-py3-none-any.whl": [
           "d9l0ox9pp3K9w6aCNNldUQUQAlDH9pZhAsnDozLR+7c=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.35": {
+      "sdist": [
+        "LcZKhYMizSNnJR7hTgbY4jyPKKccxKkUmBB0G0jnBC4=",
+        "u3driver-1.0.35.tar.gz"
+      ],
+      "wheels": {
+        "u3driver-1.0.35-py3-none-any.whl": [
+          "4ABBICNi93lU1i5EirR5mExmUAB9QmXQSCptpBtVin0=",
           "py3"
         ]
       }
