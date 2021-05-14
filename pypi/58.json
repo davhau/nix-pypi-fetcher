@@ -22539,6 +22539,12 @@
         "lI+rdza0gtWtMmq3Dgt6c/wJgSYAw96UeVMkP7AZClU=",
         "dotabase-7.2.1.tar.gz"
       ]
+    },
+    "7.2.2": {
+      "sdist": [
+        "b93mJKIzFiKT4X6VIUecjm3Qjg2Wbu/E7CMLlq9cmik=",
+        "dotabase-7.2.2.tar.gz"
+      ]
     }
   },
   "dox-data-integration": {
@@ -71668,16 +71674,40 @@
     },
     "2.65.dev20210514": {
       "wheels": {
+        "smoldyn-2.65.dev20210514-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "BZy7+1Qen/RwjfViochF/vY5V0l3v4UztqNVo1FtmdA=",
+          "cp37"
+        ],
         "smoldyn-2.65.dev20210514-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "9lO5J24VNZOfkP35ENAZGlb/S0dyWp8VfakVFyowv0k=",
           "cp37"
+        ],
+        "smoldyn-2.65.dev20210514-cp37-cp37m-win_amd64.whl": [
+          "7QQIB4qMFpo/goJu5W9H/fzsaYUmIjaAjT+gn+jr0Rk=",
+          "cp37"
+        ],
+        "smoldyn-2.65.dev20210514-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "x0FYv2G2un5yv4QIcLdQnEDe5I1HfSRNR/QrmSBjUlU=",
+          "cp38"
         ],
         "smoldyn-2.65.dev20210514-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "2Uycpu/A7E3f4G9eOKiC1Dxp8cJrHmeEHR4v6GIbvR8=",
           "cp38"
         ],
+        "smoldyn-2.65.dev20210514-cp38-cp38-win_amd64.whl": [
+          "5OIFwNHdYR9XzVq2DRyTk65jpp569bYYfwHBsSLxhdY=",
+          "cp38"
+        ],
+        "smoldyn-2.65.dev20210514-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "YJPAYaWNZUajiiBQiA4bsJzv6pvSNneNap9yNO3OVoM=",
+          "cp39"
+        ],
         "smoldyn-2.65.dev20210514-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "twAj7hRgLYokggYaldu/IuDzwmZCwzWh6LW/bAbsWQ0=",
+          "cp39"
+        ],
+        "smoldyn-2.65.dev20210514-cp39-cp39-win_amd64.whl": [
+          "FfiOqCsMrpI+P6T2UqKwdixi9+juIUnVw6rJqzRz1FA=",
           "cp39"
         ]
       }
@@ -76751,6 +76781,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.395": {
+      "sdist": [
+        "69IiBBl+MVcum3chcOH89U7lR+sX25rJ8mKBeO65L2k=",
+        "tencentcloud-sdk-python-billing-3.0.395.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_billing-3.0.395-py2.py3-none-any.whl": [
+          "zQm3ClMWDdN/M35057WKGQ0Ej+ONiMD4jO6aVNiv9DQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-sqlserver": {
@@ -78478,6 +78520,18 @@
       "wheels": {
         "tencentcloud_sdk_python_sqlserver-3.0.394-py2.py3-none-any.whl": [
           "coV5CWCKMSxFl8cQxTdyBOLYQHRCPp4aBj3EomMYOug=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.395": {
+      "sdist": [
+        "MlO10irEdHj46cLKS6oIUjRCOT+Rni6SOGn2U2aPDV0=",
+        "tencentcloud-sdk-python-sqlserver-3.0.395.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sqlserver-3.0.395-py2.py3-none-any.whl": [
+          "JoiYCooT6+GR+SiM797Ty6Ps/UN1eLWUO9Ty90XB63A=",
           "py2.py3"
         ]
       }
