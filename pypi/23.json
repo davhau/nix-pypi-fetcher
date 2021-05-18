@@ -9838,6 +9838,12 @@
         "burlap-0.9.85.tar.gz"
       ]
     },
+    "0.9.86": {
+      "sdist": [
+        "VkogPA8vpnfaN5QFtDbi+XgiyhcfQEukOTdRzxtr2hI=",
+        "burlap-0.9.86.tar.gz"
+      ]
+    },
     "0.9.9": {
       "sdist": [
         "nBMJ78AK1PnN06B46iDEAsx8OW0m0bOfTpW8aIf3PEA=",
@@ -19421,6 +19427,12 @@
         "TFXHYwzTYFpzSDY7gryyYBmwFXvP27mPmDDOUPIXYKI=",
         "django-multiform-views-0.1.0a6.tar.gz"
       ]
+    },
+    "0.1.0a7": {
+      "sdist": [
+        "Gu4Rc4J6YPny9YqB9zHA9U8HJHW4TgBXmh/5Basp5hs=",
+        "django-multiform-views-0.1.0a7.tar.gz"
+      ]
     }
   },
   "django-navbuilder": {
@@ -27912,6 +27924,32 @@
       "wheels": {
         "glue_wwt-0.5-py3-none-any.whl": [
           "A3ZkBSegfkqnnYswtT8St0xaBZa5YrZrXCoCjoTRt+M=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "gluons": {
+    "0.0.1": {
+      "sdist": [
+        "EJed0tb+3DqeLjJfJrMgO3wCH3sQK2G0A75m6rCeYKI=",
+        "gluons-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "gluons-0.0.1-py3-none-any.whl": [
+          "fvL9j8GsG7Q3wztynETgLE7jndU7dSAv/GCmIMyh1FM=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "RbA38MPpQuOJIUA4pQ3k1PBR3UjpVku526AwhGkySMM=",
+        "gluons-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "gluons-0.0.2-py3-none-any.whl": [
+          "wmQ62Kbq0IRDtzO5fwWrw13jrjOd4aSWK/00RXSjt4Q=",
           "py3"
         ]
       }
@@ -44260,6 +44298,18 @@
         ]
       }
     },
+    "1.17.74": {
+      "sdist": [
+        "OYZP+RJqARqE6jliEn1fMX7ip0aGfGKY11vryGBxJm8=",
+        "mypy-boto3-sesv2-1.17.74.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sesv2-1.17.74-py3-none-any.whl": [
+          "5/fRZE+cmsjBFoLns04Oj6vz8+VM0otX+5TOjyJ+3II=",
+          "py3"
+        ]
+      }
+    },
     "1.17.8.0": {
       "sdist": [
         "hvr5XhxFQASVJuNegfpF8Eu6gaxR94rcc9vSdBc8zBg=",
@@ -59613,56 +59663,6 @@
         "xLYKlPQ1b7PrAM5C6YXWW40g1JWiSMT9LoHpIJUFRZ4=",
         "pypigit-version-0.1.9.tar.gz"
       ]
-    }
-  },
-  "pypipublishonreleasetest": {
-    "0.0.0": {
-      "sdist": [
-        "r9/8TxA1dt7un/X5A1c2HAzfx9j3GPEOr+vu+TMMbxg=",
-        "pypipublishonreleasetest-0.0.0.tar.gz"
-      ],
-      "wheels": {
-        "pypipublishonreleasetest-0.0.0-py3-none-any.whl": [
-          "vcmF3dEN8rJi937P1lJ0tXDgF/hXkRCtkiD5fGO2vxw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "DGCLBgyErElRJGP+yv/isQ42PRxp5LdQO00dXjGnU7U=",
-        "pypipublishonreleasetest-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "pypipublishonreleasetest-0.0.3-py3-none-any.whl": [
-          "ErMJxJgqiQ1fXmlt68fIAQKbrL5viLBN0gji2yZIWMU=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.2": {
-      "sdist": [
-        "UGE04toh50+fkjODotOj1Aey7ck2dP7SaDc3+Orvfb4=",
-        "pypipublishonreleasetest-1.0.2.tar.gz"
-      ],
-      "wheels": {
-        "pypipublishonreleasetest-1.0.2-py3-none-any.whl": [
-          "8q/QhzRYEBlX45p+iqEOg3eHjRyktY/5ftsA0r9z2qw=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.5": {
-      "sdist": [
-        "XjWw9Vi+AhstXou/nZMRurNOpyy4g3smfNfADiJOb/o=",
-        "pypipublishonreleasetest-1.0.5.tar.gz"
-      ],
-      "wheels": {
-        "pypipublishonreleasetest-1.0.5-py3-none-any.whl": [
-          "09lJEDpQkIDQTl9tSw71TNfuEN3iSUzA6uD30/E3+Jo=",
-          "py3"
-        ]
-      }
     }
   },
   "pypiwrap": {
@@ -77551,6 +77551,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.397": {
+      "sdist": [
+        "OG3NSEi8UVhrVIW4hHUlunhMYdOb1ip/psqu4zfFqVM=",
+        "tencentcloud-sdk-python-mariadb-3.0.397.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mariadb-3.0.397-py2.py3-none-any.whl": [
+          "7OSgSR/MZgmWn13fQmGyLMXAEuSwQ7QwjUqEjOx7/CY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-ssm": {
@@ -79302,6 +79314,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ssm-3.0.396-py2.py3-none-any.whl": [
           "3ennoqZs1h5GBxicSjdEcELJSrsb0HMZW4PH2Cd0k5o=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.397": {
+      "sdist": [
+        "XL8Gn0iYD23DTOXd/uhrdnr1GYOQvKtAyI8YyRgzDKo=",
+        "tencentcloud-sdk-python-ssm-3.0.397.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ssm-3.0.397-py2.py3-none-any.whl": [
+          "TaRUPkljPPdT8OzcARd62MebFjXM+inXJiM0ojEMZvc=",
           "py2.py3"
         ]
       }
