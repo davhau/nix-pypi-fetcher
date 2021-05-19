@@ -20944,6 +20944,12 @@
         "ec2tools-0.6.23.tar.gz"
       ]
     },
+    "0.6.24": {
+      "sdist": [
+        "hN9C989xK4WeqD4vsIHxn6eJ/iYdnmF+SO5zBb9xKxU=",
+        "ec2tools-0.6.24.tar.gz"
+      ]
+    },
     "0.6.3": {
       "sdist": [
         "nUsQZ/8HLIINbE65JRlSC5d1wVeLrWCZJAgJP40MCVk=",
@@ -21914,6 +21920,12 @@
       "sdist": [
         "RYM0aHO4Y7SFatby57dSCMT1jVmvleA+Mn+ynnhVS1A=",
         "estoult-0.7.6.tar.gz"
+      ]
+    },
+    "0.7.7": {
+      "sdist": [
+        "rQhnjQIJjdg9FvRNJMOcBU9YlcNsxcUpm9+meeKhN90=",
+        "estoult-0.7.7.tar.gz"
       ]
     }
   },
@@ -45890,6 +45902,18 @@
       "wheels": {
         "mypy_boto3_waf_regional-1.17.74-py3-none-any.whl": [
           "UAgFTXJVpJV/9G9SAVuVkmMwo/gVk5ZscU/7j/kZjtk=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.75": {
+      "sdist": [
+        "AdDt/5XADVvzq6fB9qmCHerT0sDJs50vPxC56sn+CJ4=",
+        "mypy-boto3-waf-regional-1.17.75.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_waf_regional-1.17.75-py3-none-any.whl": [
+          "cgGnniaH2WrJ0NbRxntdN5T5PQuTIcz3zkUjb9Oy0Sg=",
           "py3"
         ]
       }
@@ -74729,6 +74753,18 @@
           "py2.py3"
         ]
       }
+    },
+    "5.6.2": {
+      "sdist": [
+        "ePWuZyD11wuSFF8Z8pqIgl4l+BobC4wJRFROxQMxuoU=",
+        "runestone-5.6.2.tar.gz"
+      ],
+      "wheels": {
+        "runestone-5.6.2-py2.py3-none-any.whl": [
+          "/hwcUyZ011b8VamrC1tUAfTRqg9QQi1mN0b8iZuzw8U=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "s-html": {
@@ -77560,6 +77596,42 @@
       "wheels": {
         "solar_data_tools-0.4.1-py3-none-any.whl": [
           "WwQBgtDvLkFyFWkGTcm8oYeBBYHEexYLLg9HN8oyLgs=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.10": {
+      "sdist": [
+        "J6HUfNAZ/J+93/lDLUVSWf79VX3fOO9ZYoroocQyHpY=",
+        "solar-data-tools-0.4.10.tar.gz"
+      ],
+      "wheels": {
+        "solar_data_tools-0.4.10-py3-none-any.whl": [
+          "9RbuxYnt4S76xuYdrDtadSgJBZB4ndJ7HILiLHj7MsM=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.11": {
+      "sdist": [
+        "4aGy6705ckmMUQY3PVync8EiEXkOHAMmRxf2pJnoK7s=",
+        "solar-data-tools-0.4.11.tar.gz"
+      ],
+      "wheels": {
+        "solar_data_tools-0.4.11-py3-none-any.whl": [
+          "YwDYcX1RCKDASrqpMcSGVQfhVCY4vFMM5kINU1jGHeY=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.12": {
+      "sdist": [
+        "F5yIv3lNhYiHp7s/qbIDg55RDgTiHMd4PNNty5Eu4ok=",
+        "solar-data-tools-0.4.12.tar.gz"
+      ],
+      "wheels": {
+        "solar_data_tools-0.4.12-py3-none-any.whl": [
+          "erQrmsqgu9UJk/GdQrqOq6Zi2fwJhtVpldqLOr/uTCE=",
           "py3"
         ]
       }
@@ -83912,6 +83984,58 @@
         ],
         "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518014747-cp39-cp39-win_amd64.whl": [
           "LRj40u2Jau7FOwlwVyAywZQipGdI7aAIpivmPf28JXI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.18.0.dev20210518185841": {
+      "wheels": {
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518185841-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "kO21N6MTEjXxmGWH/IBlHyao+JViBh01SEQ3Sgc92HM=",
+          "cp36"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518185841-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "YbdTIvfkS1/fnucSPUD9dDlxizT4QDJ59fPBj4tqJsk=",
+          "cp36"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518185841-cp36-cp36m-win_amd64.whl": [
+          "2DUMZQ6gX31orxQByL8QfJw1r/KJee/+Ie7q5ZGYZHY=",
+          "cp36"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518185841-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "0GLAElrglI9P0WUDbFIhDSEZiNSoBD3zGxrNMnVyEOE=",
+          "cp37"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518185841-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "OYJh4P9u1W03zPh65k4avK8f6188ytmJMXgyjZu0MNc=",
+          "cp37"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518185841-cp37-cp37m-win_amd64.whl": [
+          "oOt7W40NLH6mZxH1OOjNAJNniI7ns/fudgGMaVQnfSM=",
+          "cp37"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518185841-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "SQ3XRQTULtRK9xe0H+LgGKP+U4Op2Rwy8c/rA3i+yvA=",
+          "cp38"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518185841-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "vD65uyMu/0dwIH4rlPIZv8Chbmjcp8eMLxtHoYm4C6Y=",
+          "cp38"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518185841-cp38-cp38-win_amd64.whl": [
+          "WfvVHIRNTp1kTOEfrk9pazUNU/EpBXZNlgpSQbqjmto=",
+          "cp38"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518185841-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "JtG4AQyTzdO/bX2KRfs4NIBpFAJ9+e2ChnZnGFrnLv0=",
+          "cp39"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518185841-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "M3D5ZpSTkAPAXR+rlTcwkW9Vz/tv/bVFqZ4dDCyq3yU=",
+          "cp39"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210518185841-cp39-cp39-win_amd64.whl": [
+          "Mc5PDgfovmlGYoGO/50T9/13xa2Qd9spHidwLocFQbE=",
           "cp39"
         ]
       }
@@ -90549,6 +90673,20 @@
         "8qBGXC8J9razUCC0a0HDqc9KE59m8aDPPYHiW5o9S/M=",
         "wsgibrotli-0.0.4.tar.gz"
       ]
+    }
+  },
+  "wsy": {
+    "0.0.1": {
+      "sdist": [
+        "18WdOHOHdZWUsyxOaLcuXByYgf8M/uq3wr45hQhwliY=",
+        "wsy-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "wsy-0.0.1-py3-none-any.whl": [
+          "refeROO0DI01NDULAw4kHwVhfxixKUoNRUz3lXcwP2g=",
+          "py3"
+        ]
+      }
     }
   },
   "xcodearchive": {
