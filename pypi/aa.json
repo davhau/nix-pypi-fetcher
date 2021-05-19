@@ -2894,6 +2894,18 @@
         ]
       }
     },
+    "1.105.0": {
+      "sdist": [
+        "VksBk4MxkZPUSoQKmig4lsEYR7qEXf2Ya92VDVt/0jM=",
+        "aws-cdk.aws-apigatewayv2-integrations-1.105.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2_integrations-1.105.0-py3-none-any.whl": [
+          "MvdBVK9oZ5Zy9Vp7T27p8SHSARc5ueUovCWtsXdq1lM=",
+          "py3"
+        ]
+      }
+    },
     "1.72.0": {
       "sdist": [
         "yYHLcJ33KBk5uHF4pkruWoPMToKZN9I9/Uyvt5MO8mw=",
@@ -3588,6 +3600,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisanalytics-1.104.0-py3-none-any.whl": [
           "qG25CzKI8P9Qg7+XhcIUdlJL4kQoDaJWnDIxeeM9RvQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.105.0": {
+      "sdist": [
+        "w7vSTfwYp+edQMfpf/3UFanexXfFh5nIGMqVIqo59EI=",
+        "aws-cdk.aws-kinesisanalytics-1.105.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisanalytics-1.105.0-py3-none-any.whl": [
+          "zGvzMYnEMgzAc0HUFel82MNVNPiE0EL/uNZRrV2ZfCQ=",
           "py3"
         ]
       }
@@ -28246,6 +28270,50 @@
         ]
       }
     },
+    "9.21.12.0": {
+      "wheels": {
+        "isystem.connect-9.21.12.0-cp36-none-manylinux1_x86_64.whl": [
+          "srY5VsD5uuYSLSiEDT8T1MEE7X40ELVTQCmsaxlHM24=",
+          "cp36"
+        ],
+        "isystem.connect-9.21.12.0-cp36-none-win32.whl": [
+          "Ui78LckVO5CO3oZeqw48DIu1SvJdVy7DB8oi5WwFt9g=",
+          "cp36"
+        ],
+        "isystem.connect-9.21.12.0-cp36-none-win_amd64.whl": [
+          "7Qn16WISkDC/I8LVca/Dq8v2k5AT/H17cc1mhzrJqDg=",
+          "cp36"
+        ],
+        "isystem.connect-9.21.12.0-cp37-none-win32.whl": [
+          "RN3+R+mqeDJdRYa4CFGlzD66TLjLERGo0Slf8yAYIHY=",
+          "cp37"
+        ],
+        "isystem.connect-9.21.12.0-cp37-none-win_amd64.whl": [
+          "at4tzOa/YKu0X96kARfogGCu5MRhweoIXAU41HLdCJY=",
+          "cp37"
+        ],
+        "isystem.connect-9.21.12.0-cp38-none-manylinux1_x86_64.whl": [
+          "X01tmXFf0vI7bv0OIsS6ploDPGDHipUq55aswCVrMcA=",
+          "cp38"
+        ],
+        "isystem.connect-9.21.12.0-cp38-none-win32.whl": [
+          "ELScgZH1ugcPNs7bfbA37kUH/YBiDkWAn4UlskZBx2A=",
+          "cp38"
+        ],
+        "isystem.connect-9.21.12.0-cp38-none-win_amd64.whl": [
+          "uwmB8GClNPiQ+0Sl6mT6W/+N1XAfkx0v8svEd75q23M=",
+          "cp38"
+        ],
+        "isystem.connect-9.21.12.0-cp39-none-win32.whl": [
+          "qMgvWlEEs4apezJRTsQ5jQoRAHLKPZzE8el9adoh9qI=",
+          "cp39"
+        ],
+        "isystem.connect-9.21.12.0-cp39-none-win_amd64.whl": [
+          "tch5F1NkyaTCcqam4yxfoJDd688R5O6hnZkEWlVLUdY=",
+          "cp39"
+        ]
+      }
+    },
     "9.21.2.0": {
       "wheels": {
         "isystem.connect-9.21.2.0-cp36-none-win32.whl": [
@@ -45681,6 +45749,16 @@
       }
     }
   },
+  "odoo10-addon-rest-log": {
+    "10.0.1.3.0": {
+      "wheels": {
+        "odoo10_addon_rest_log-10.0.1.3.0-py2-none-any.whl": [
+          "RPPqNufcMrRd/vrZo/O3Kx+E80tisZbduwadm/Tdwdo=",
+          "py2"
+        ]
+      }
+    }
+  },
   "odoo10-addon-shopinvader-delivery-instruction": {
     "10.0.1.0.1": {
       "wheels": {
@@ -57282,14 +57360,18 @@
     }
   },
   "pyltp-binary": {
-    "0.2.1": {
+    "0.2.1.0": {
+      "sdist": [
+        "Ts7ddP1qcEqLfCYjlSsrsfd1Di8DDxnWgU062y2iitg=",
+        "pyltp-binary-0.2.1.0.tar.gz"
+      ],
       "wheels": {
-        "pyltp_binary-0.2.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "FRk5p/XizJIKlSyNHOL43/5gQGje7W0deXGOPmbjPUI=",
-          "cp36"
+        "pyltp_binary-0.2.1.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "IPzw2JAFBy89Qcdt042O6AiYyjY332L6SyY4Fc2B550=",
+          "cp38"
         ],
-        "pyltp_binary-0.2.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "5vH9Ho6jTBUCxf/xz6kvfXsQvoeE24OxaPiMl/Yjm3w=",
+        "pyltp_binary-0.2.1.0-cp38-cp38-win_amd64.whl": [
+          "7RS2YKCbC9wGsRW1EMuMzMsDu5kUMWcVo+pKiIpf1VU=",
           "cp38"
         ]
       }
