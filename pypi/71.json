@@ -4371,6 +4371,18 @@
           "py2.py3"
         ]
       }
+    },
+    "6.0.0b1": {
+      "sdist": [
+        "vlBfYyGOCAHHEKT1dDAluAH8Kvq54JywfkRtx+0W/LY=",
+        "azure-mgmt-msi-6.0.0b1.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_msi-6.0.0b1-py2.py3-none-any.whl": [
+          "5bELeqTt1CT3EAn4Xm8/cTpw0oYOmq87xCOVA89eme8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "b2b-rms-sdk": {
@@ -12130,6 +12142,18 @@
       "wheels": {
         "cdktf_cdktf_provider_kubernetes-0.2.53-py3-none-any.whl": [
           "OsSnCQcxWhH21oQLhTkFTUrthlF4diMbWp4uF+Uo6nU=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.54": {
+      "sdist": [
+        "gxuPA98mXMPG4iXdXAicVx0ghTZxV7YjNGJ8zvCsETQ=",
+        "cdktf-cdktf-provider-kubernetes-0.2.54.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_kubernetes-0.2.54-py3-none-any.whl": [
+          "Ca+ox5VqxuDpRyciD4XXxxVxO+9gJzQGjahWm/y1850=",
           "py3"
         ]
       }
@@ -30690,6 +30714,30 @@
       "wheels": {
         "fonttools-4.24.0-py3-none-any.whl": [
           "A1POjSaaERokDxlZGS5NhBsJPIZ0uba4WKlmaMC8drs=",
+          "py3"
+        ]
+      }
+    },
+    "4.24.1": {
+      "sdist": [
+        "goawCCps+sIMu/EYTAscB7OavkFdfCccKop+j92g+zo=",
+        "fonttools-4.24.1.zip"
+      ],
+      "wheels": {
+        "fonttools-4.24.1-py3-none-any.whl": [
+          "kn9lvxrE7bhIKyi8FkQs4Up/N0KIoNt44kzMBziMoaw=",
+          "py3"
+        ]
+      }
+    },
+    "4.24.2": {
+      "sdist": [
+        "YY8vCsk46DJJNmut5AswqsinU+PNgCQovGu+IeLspn4=",
+        "fonttools-4.24.2.zip"
+      ],
+      "wheels": {
+        "fonttools-4.24.2-py3-none-any.whl": [
+          "gKU01AAxotceSuD+MtR2qHl2R0kzzEcA9dCwZucsAeU=",
           "py3"
         ]
       }
@@ -63645,6 +63693,20 @@
       ]
     }
   },
+  "pylucky": {
+    "1.1": {
+      "sdist": [
+        "GoP3jrCVePZZS7rvgF5n+b4HnFnSVMQzxz91mp/8A+Q=",
+        "pylucky-1.1.tar.gz"
+      ],
+      "wheels": {
+        "pylucky-1.1-py3-none-any.whl": [
+          "+7hCZUcK9rwAMW0IkBq6MqYROpJKIBcbh1hYBBzNzDY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pymarkoff": {
     "0.1.0": {
       "sdist": [
@@ -75316,6 +75378,18 @@
       "wheels": {
         "resnest-0.0.6b20210519-py3-none-any.whl": [
           "ZvSkv+ryNS+0tn+zKofN49d5GDp8S/NKytWxjXAEq5w=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6b20210520": {
+      "sdist": [
+        "eHkNqUxdlsIXaWWWNje2svSIqWhbLNncg7xxcZDjvQk=",
+        "resnest-0.0.6b20210520.tar.gz"
+      ],
+      "wheels": {
+        "resnest-0.0.6b20210520-py3-none-any.whl": [
+          "jW0lX25pmemwgOFh8VuzicbEdag1Gt3aXKfT/UROxwY=",
           "py3"
         ]
       }
@@ -90348,16 +90422,48 @@
           "pyfqEnne1ksstc2C8/JtOx6TBAEeWmiHfZKx0hrJspA=",
           "cp36"
         ],
+        "tflite_support_nightly-0.1.0.dev20210519-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "P5Kh3WqB2hDa3QMaL6RFfrBSmxAnDdE884Mae5jLbHg=",
+          "cp36"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210519-cp36-cp36m-win_amd64.whl": [
+          "hATPBe+0vzrCvqYvZZVxo2iSXy0G/v9xM3X3JBgCBdE=",
+          "cp36"
+        ],
         "tflite_support_nightly-0.1.0.dev20210519-cp37-cp37m-macosx_10_11_x86_64.whl": [
           "SCij8kLEkSaMOkflKbCW+Wl6IWQWS95GAocAAmdSl1g=",
+          "cp37"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210519-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "M8Yrk3W1VM2l6SpHtDdSYRkqtABW4qo4cPOaBFYGo7A=",
+          "cp37"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210519-cp37-cp37m-win_amd64.whl": [
+          "S9Xw2ea1N0IRaB+TOK2Phgxt0vHiaBndf8Mic9hARNU=",
           "cp37"
         ],
         "tflite_support_nightly-0.1.0.dev20210519-cp38-cp38-macosx_10_11_x86_64.whl": [
           "ItIPRQNZKjTn1Pzq06JgQXjF+JhUfA4YsJnto+s107o=",
           "cp38"
         ],
+        "tflite_support_nightly-0.1.0.dev20210519-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "jitpsXiXXfO2UYN0B9FkV8KR9SgxO88zxmZuuWdyc1E=",
+          "cp38"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210519-cp38-cp38-win_amd64.whl": [
+          "+u8N8zKaoaaSCYMK5G2OB/1UXX+/bRBKocvW1/LAeLY=",
+          "cp38"
+        ],
         "tflite_support_nightly-0.1.0.dev20210519-cp39-cp39-macosx_10_11_x86_64.whl": [
           "6dfThcSXnIp7Musw+NyJbw0IcjD/T53FXTsfS9Hlqpo=",
+          "cp39"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210519-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "X9bnAUYyRSE4sirkMSCoH93orApxp6IyMzeK8gH624c=",
+          "cp39"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210519-cp39-cp39-win_amd64.whl": [
+          "2BxRsZOB1wtp6qGfHwW5VwGe2ReCYIAKFjNmBo7oWyc=",
           "cp39"
         ]
       }
