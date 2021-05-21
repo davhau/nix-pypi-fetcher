@@ -6980,6 +6980,18 @@
         ]
       }
     },
+    "1.15.0": {
+      "sdist": [
+        "v/u4nySGqsvMLvOrheh5mDKag+I3Mnkmd0jZpnBur38=",
+        "audeer-1.15.0.tar.gz"
+      ],
+      "wheels": {
+        "audeer-1.15.0-py3-none-any.whl": [
+          "njJfrKdzG8f2mZkjCeDm9GTaB8rSYVLr/5b8cFjnjZ0=",
+          "py3"
+        ]
+      }
+    },
     "1.6.1": {
       "sdist": [
         "OWyKbapEAYz8k2CNouWq3qGBzVcM2Q8fHfVBdeU74PM=",
@@ -11596,6 +11608,18 @@
       "wheels": {
         "bitcoin_utils-0.4.9-py3-none-any.whl": [
           "+MCUPEZQrxtPgHR1AAZCDc7uc3FbSCFHwUhfvd2Ma4M=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "jJFUhYfHlSNd74q3/CcjMmkBi6rHf9JdoOm5ebu8KB4=",
+        "bitcoin-utils-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "bitcoin_utils-0.5.1-py3-none-any.whl": [
+          "dC/EL4XqzBaBjhFFH6GYA8gccl+aQt27Y8phT+PBt+M=",
           "py3"
         ]
       }
@@ -66523,6 +66547,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.6": {
+      "sdist": [
+        "Sz8fB5MQQh9gITncF+HYX8NFnACQ/Cms/V21gEDbJ04=",
+        "opensourcetest-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "opensourcetest-0.3.6-py3-none-any.whl": [
+          "QQPEUTK2LDXp15TWyXCTIowy1gtPdmtWOs7z6qPn9Ek=",
+          "py3"
+        ]
+      }
     }
   },
   "opentelemetry-instrumentation-pyramid": {
@@ -78886,6 +78922,22 @@
         ],
         "pyre_check_nightly-0.0.101621509024-py3-none-manylinux1_x86_64.whl": [
           "bzZVgL+7ROcuHJtmtCIomxhegNiQGjHTeRGcNk/3BOg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.101621595356": {
+      "sdist": [
+        "Ct3ZsmLPe0e3nXhJYnkIkauIQLifwPTXcU/aVC1pu7A=",
+        "pyre-check-nightly-0.0.101621595356.tar.gz"
+      ],
+      "wheels": {
+        "pyre_check_nightly-0.0.101621595356-py3-none-macosx_10_11_x86_64.whl": [
+          "cqyY4hUbd48qjoV6npvObWBXhGeVUgBk252YnwDkkU8=",
+          "py3"
+        ],
+        "pyre_check_nightly-0.0.101621595356-py3-none-manylinux1_x86_64.whl": [
+          "LCv320ygnDcJv/oiyiS6tzAHQh5wqyORzxch9nSHTAg=",
           "py3"
         ]
       }
@@ -93407,6 +93459,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.403": {
+      "sdist": [
+        "zKVM5FOzUdnsNNm+lb7EML5aE+fNX7q213PFkQBL41s=",
+        "tencentcloud-sdk-python-tci-3.0.403.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tci-3.0.403-py2.py3-none-any.whl": [
+          "UyE3sxEmp/7WEllW+0hiobwprgNoJ2gL6BXi+ZGpo+0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-io-2.0-preview": {
@@ -103181,6 +103245,34 @@
           "cp38"
         ]
       }
+    },
+    "0.6.0.dev20210521": {
+      "wheels": {
+        "tfq_nightly-0.6.0.dev20210521-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "mb3stPD9p+iFn76nDjOBtCBOlMwgT3k12FkPY7F8vz4=",
+          "cp36"
+        ],
+        "tfq_nightly-0.6.0.dev20210521-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "vWdTAOXPVqzihxMlIYQ5dEbewYPfQzOPqwgYXmHe2d4=",
+          "cp36"
+        ],
+        "tfq_nightly-0.6.0.dev20210521-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "luvUH+CW6NsFe+xlIs6aaMHecqP8xX/DvnIr8RKTNtw=",
+          "cp37"
+        ],
+        "tfq_nightly-0.6.0.dev20210521-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Bkwn4o0WBS5GejkZSK7aKjZ1ZBITxOek4AHjFaq2JAs=",
+          "cp37"
+        ],
+        "tfq_nightly-0.6.0.dev20210521-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "wdgAvQcpeNI0HQ1lSpaECOqlZyhmQUCDJzpbg8XYMLs=",
+          "cp38"
+        ],
+        "tfq_nightly-0.6.0.dev20210521-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "vvUPM7pEgcm2EGOtpm4/X2kb3/yCR2l/heq6IujXkIY=",
+          "cp38"
+        ]
+      }
     }
   },
   "tgcalls": {
@@ -104506,6 +104598,18 @@
       "wheels": {
         "trailrunner-1.0.0-py3-none-any.whl": [
           "C+iHKmPd18hcouWx2WSKo0pNA0H65TAz+ePf3DuBbsQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0b1": {
+      "sdist": [
+        "9ybwc3pduOZsHScK2EDBNnKYls8etNPYUKP5NFtP1ss=",
+        "trailrunner-1.1.0b1.tar.gz"
+      ],
+      "wheels": {
+        "trailrunner-1.1.0b1-py3-none-any.whl": [
+          "+eBe0pi+OLLj6jBn6TB+yN+TTlIsOQQrC1tweeML9rg=",
           "py3"
         ]
       }
