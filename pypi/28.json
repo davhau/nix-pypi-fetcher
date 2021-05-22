@@ -5216,6 +5216,30 @@
         ]
       }
     },
+    "1.103.0": {
+      "sdist": [
+        "oz62iHqvZ+dvxapBwhl6ciIsu2mf482JYlLaikFKGcw=",
+        "aws-solutions-constructs.aws-events-rule-kinesis-streams-1.103.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_events_rule_kinesis_streams-1.103.0-py3-none-any.whl": [
+          "e1x5+jGQPJJiqu4zKPWUNe4U0uQ9nNlwwBfrptHofPc=",
+          "py3"
+        ]
+      }
+    },
+    "1.104.0": {
+      "sdist": [
+        "LtcEFrwhVOLv3rk3UAdOQwYNLokjz9NYPHt6+sg3vG0=",
+        "aws-solutions-constructs.aws-events-rule-kinesis-streams-1.104.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_events_rule_kinesis_streams-1.104.0-py3-none-any.whl": [
+          "CIVoYcPmWK/tGCbhwdpcQ0XZh9h3PU9YxwMGTzhWTO4=",
+          "py3"
+        ]
+      }
+    },
     "1.70.0": {
       "sdist": [
         "KW/sa+0zaYHzvN0TpuB0Rf/+ih1aHlVzXUkjWLz2mvM=",
@@ -5670,6 +5694,30 @@
       "wheels": {
         "aws_solutions_constructs.aws_lambda_dynamodb-1.102.0-py3-none-any.whl": [
           "oHXM/Ba6CseAfkJxlmiuciL9AHfbP3pzm++WiGH/7Ks=",
+          "py3"
+        ]
+      }
+    },
+    "1.103.0": {
+      "sdist": [
+        "8bDszLVAd6jkZ4rIVRSwSazJU0ky/z/pMzXgh30JkoQ=",
+        "aws-solutions-constructs.aws-lambda-dynamodb-1.103.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_lambda_dynamodb-1.103.0-py3-none-any.whl": [
+          "ryRbL5DMxGv/tbMyjrG8b34d29GU/sRm8VMdBIgA+7Q=",
+          "py3"
+        ]
+      }
+    },
+    "1.104.0": {
+      "sdist": [
+        "qkW4Ycxq4t2Mpu10LK/MwwTorWmiSZAYLn3rqLkXPoI=",
+        "aws-solutions-constructs.aws-lambda-dynamodb-1.104.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_lambda_dynamodb-1.104.0-py3-none-any.whl": [
+          "TxvVPVmAMWYXYAgnKhGlgnwZEvXPZ9resO9hMWePfEo=",
           "py3"
         ]
       }
@@ -28616,6 +28664,14 @@
           "Od+4EG3zOExrpGXbWWyUTKqk/DL+62B85/pX7ij7xYQ=",
           "cp35"
         ],
+        "dimod-0.9.15-cp35-cp35m-win32.whl": [
+          "4GnS7Bv18NPe970dvSMYUdxcvBi1TfUMc9PRknkfK/g=",
+          "cp35"
+        ],
+        "dimod-0.9.15-cp35-cp35m-win_amd64.whl": [
+          "QDtJv6yjKGHsXLsNuBRGSzNRfXuRjfreqPTMiCtHHz8=",
+          "cp35"
+        ],
         "dimod-0.9.15-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "bXrhUQFCJZLm9KJa4B6vV7MITaojUDafTehtrfRoCvk=",
           "cp36"
@@ -28626,6 +28682,14 @@
         ],
         "dimod-0.9.15-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
           "WTF04CGvfktBHtoar26U+LKybIXOnISw+78aRQmtsKI=",
+          "cp36"
+        ],
+        "dimod-0.9.15-cp36-cp36m-win32.whl": [
+          "DdIuNe6PRXUioD1w+D8UO/bSlXMvZD1QjcBM48rgsJo=",
+          "cp36"
+        ],
+        "dimod-0.9.15-cp36-cp36m-win_amd64.whl": [
+          "AlA3lQ3erZG4+0BhHJPBMK0fYkKsc8Ni/q3xeVuvvFI=",
           "cp36"
         ],
         "dimod-0.9.15-cp37-cp37m-macosx_10_9_x86_64.whl": [
@@ -28640,6 +28704,14 @@
           "9nzAI9cr61CUEes8fyrEeMQpkquI8rEHrY9VGOnoQrE=",
           "cp37"
         ],
+        "dimod-0.9.15-cp37-cp37m-win32.whl": [
+          "HRHTs5Bkel/7/MlMHSyIzHuW/beC9iOl4UcP/eHtKAk=",
+          "cp37"
+        ],
+        "dimod-0.9.15-cp37-cp37m-win_amd64.whl": [
+          "f6qDMJf6DyXj3LT525fVavopg4ZeMecKJXzjeYd5kos=",
+          "cp37"
+        ],
         "dimod-0.9.15-cp38-cp38-macosx_10_9_x86_64.whl": [
           "fgEzzfCl+RMCo26M26dvJGaTJvXTAMyE2nzPQIBbrh4=",
           "cp38"
@@ -28652,12 +28724,32 @@
           "V2k6CMrKHEJhxF2DXY3Q/0XQ4gmSuRKQmgeLDMbIe4M=",
           "cp38"
         ],
+        "dimod-0.9.15-cp38-cp38-win32.whl": [
+          "+o6ejy3wLN+ZULbrbXC3C1O8O2wgJwUmPfxO3EYCM8Y=",
+          "cp38"
+        ],
+        "dimod-0.9.15-cp38-cp38-win_amd64.whl": [
+          "Qos1PAPbGl9Opaw4uQLBj12sasagqeFsj72eNqOL41g=",
+          "cp38"
+        ],
+        "dimod-0.9.15-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "RaaH703NPxCyo2xJdPx7y0/QjmH7oDUq965L1hTFCaU=",
+          "cp39"
+        ],
         "dimod-0.9.15-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.whl": [
           "MkJULSxrTrDAhOX+63r78n50FEXvOlVK3wAZTiYoWw4=",
           "cp39"
         ],
         "dimod-0.9.15-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
           "w2eBdPGDZAGB3nx7ItvOJmgB1//hzTf3Y0FOqY7Vd80=",
+          "cp39"
+        ],
+        "dimod-0.9.15-cp39-cp39-win32.whl": [
+          "7STE2iVzE/hgeLwzA2WvyLG0R2ecMLRGJJwSpNXy6/E=",
+          "cp39"
+        ],
+        "dimod-0.9.15-cp39-cp39-win_amd64.whl": [
+          "Blu2PhB0FrjIr2ujbF98q0tFa+x6iFdqHoseSee9OLI=",
           "cp39"
         ]
       }
@@ -58168,6 +58260,18 @@
         ]
       }
     },
+    "1.17.78": {
+      "sdist": [
+        "wO61308iKCaKIFgIp88vDvAlxGCvuhDDnR1+dC3lbJA=",
+        "mypy-boto3-codepipeline-1.17.78.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_codepipeline-1.17.78-py3-none-any.whl": [
+          "YNX0ifCTyKnB6QGbsZrWy1ucQ6+JZCuTmfo2gPqcLCk=",
+          "py3"
+        ]
+      }
+    },
     "1.17.8.0": {
       "sdist": [
         "kF5R4emKPQjqmua5ih3F/5dPoXCQG9gTX06gvVakVAY=",
@@ -85684,6 +85788,36 @@
       "sdist": [
         "fZO+hIWwAwhLJzDHjfyNJnkJx7afZkJYeiugS7NvcSs=",
         "simple-gpg-0.1.tar.gz"
+      ]
+    },
+    "0.2": {
+      "sdist": [
+        "K5AHEt+/BA63rGFUD4lV+8SMLSWGbMSz2DPz8aUJmcY=",
+        "simple-gpg-0.2.tar.gz"
+      ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "wT8iJ4SF6HpoOgpsSjrF5zQW1bTr2N815vFXzdKRKHI=",
+        "simple-gpg-0.2.1.tar.gz"
+      ]
+    },
+    "0.2.1.1": {
+      "sdist": [
+        "EN8uvx2nvdOUT2+IRe4NGJNheWhK4DrGf8sMrcryHwY=",
+        "simple-gpg-0.2.1.1.tar.gz"
+      ]
+    },
+    "0.2.1.2": {
+      "sdist": [
+        "rlrhsipuMb4iIBVKzFzw0V6+nWDqzdyYL3ozrvicySk=",
+        "simple-gpg-0.2.1.2.tar.gz"
+      ]
+    },
+    "8.1": {
+      "sdist": [
+        "qXUeV/su6Hkj3dNGDYhdaTqjkWU2kEXDrlvCcGg7OIk=",
+        "simple-gpg-8.1.tar.gz"
       ]
     }
   },
