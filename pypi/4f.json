@@ -3558,6 +3558,18 @@
         ]
       }
     },
+    "1.106.0": {
+      "sdist": [
+        "RyDpXVxye6itlYnfXi9itM2cC9aYvbA2A6Ux6rPWn98=",
+        "aws-cdk.aws-detective-1.106.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_detective-1.106.0-py3-none-any.whl": [
+          "p6pdj8RQw9gjRpPbpScR857HHTDpVGtKCGYta3JjYVo=",
+          "py3"
+        ]
+      }
+    },
     "1.33.0": {
       "sdist": [
         "o5ZR1K9zow5cKpPNGdG/EXOfbK7P3WyCRS4OuHgzC+4=",
@@ -8632,6 +8644,18 @@
       "wheels": {
         "behavioral_signals_swagger_client_3-3.10.0-py3-none-any.whl": [
           "iKhVJXz1Xw2HoAzqg9xknKV/zvL77HV6IQLceUQu5Zc=",
+          "py3"
+        ]
+      }
+    },
+    "3.10.1": {
+      "sdist": [
+        "BA4EuzC0kunlhzqiHzeIePZPv2mxBkwSTCXTsRkvJYI=",
+        "behavioral_signals_swagger_client_3-3.10.1.tar.gz"
+      ],
+      "wheels": {
+        "behavioral_signals_swagger_client_3-3.10.1-py3-none-any.whl": [
+          "XLfa+zjcd256Suq9WvN71SEQqP9Oq4PBRarP8s6NIF0=",
           "py3"
         ]
       }
@@ -15478,6 +15502,12 @@
       "sdist": [
         "vgpGmi2bxAkhxoXRFLaezbv0Jp5HHGgUMq0DtRIV910=",
         "datagoose-1.5.0.tar.gz"
+      ]
+    },
+    "1.6.0": {
+      "sdist": [
+        "7nAI1OLz3ZDcUSpWbhlWfSHlE4Ld5BnqIW8A5GaxdRM=",
+        "datagoose-1.6.0.tar.gz"
       ]
     }
   },
@@ -35578,6 +35608,18 @@
         ]
       }
     },
+    "0.0.34": {
+      "sdist": [
+        "14iLLvKg84jLhcHXwFr+mBZCqhIw83jR62G5iLQcDeA=",
+        "jupyter-workflow-0.0.34.tar.gz"
+      ],
+      "wheels": {
+        "jupyter_workflow-0.0.34-py2.py3-none-any.whl": [
+          "EruxOilZ63HFYvHM0Zh9BdSl6N87fhROacfvsuFdcqE=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.0.4": {
       "sdist": [
         "XvCyuXupkV2MSqv/1vBpNtK4ooUd8KMRND+VdFEjhN8=",
@@ -39118,6 +39160,18 @@
       "wheels": {
         "leadguru_data-0.40.0-py3-none-any.whl": [
           "/6WwWf7rcor1jFCzBZ+ZDFseIa55PuJKGC+6Q21iazw=",
+          "py3"
+        ]
+      }
+    },
+    "0.41.0": {
+      "sdist": [
+        "2PhHsNpyQw3Pbfw+oQ/6dU2esgPxzOh7uAW2GZKDTP0=",
+        "leadguru_data-0.41.0.tar.gz"
+      ],
+      "wheels": {
+        "leadguru_data-0.41.0-py3-none-any.whl": [
+          "g9Hjs3a2hQPY0MI55RFC9gfuMj0DVaZOaLS13/uFw5I=",
           "py3"
         ]
       }
@@ -44267,6 +44321,54 @@
           "pp37"
         ]
       }
+    },
+    "14.29.30036": {
+      "wheels": {
+        "msvc_runtime-14.29.30036-cp35-cp35m-win32.whl": [
+          "wYzFT9PTY5T2XhViw02Ey7uezZSSohRvzfN2XCkq71I=",
+          "cp35"
+        ],
+        "msvc_runtime-14.29.30036-cp35-cp35m-win_amd64.whl": [
+          "riMjoN7k/qYlUhmPUhzMS6r6WPNgOvOnb+i8T6nkiIo=",
+          "cp35"
+        ],
+        "msvc_runtime-14.29.30036-cp36-cp36m-win32.whl": [
+          "emyxhGDpnBH8al+4qDAUKPM5iY4YJRk9RWQfHFo9JoA=",
+          "cp36"
+        ],
+        "msvc_runtime-14.29.30036-cp36-cp36m-win_amd64.whl": [
+          "3SuizZgDqyOwH4EdOL4wHl0JRJsoTbkRjSzKm3iVDfU=",
+          "cp36"
+        ],
+        "msvc_runtime-14.29.30036-cp37-cp37m-win32.whl": [
+          "u9IIJQcQFnsMX8V3rov9hDJodNbl0yRvbonNakhM/w4=",
+          "cp37"
+        ],
+        "msvc_runtime-14.29.30036-cp37-cp37m-win_amd64.whl": [
+          "c9s5ddR7z260jXseK6pWhXO/wLtcu1/0d4oacItr/HY=",
+          "cp37"
+        ],
+        "msvc_runtime-14.29.30036-cp38-cp38-win32.whl": [
+          "QcTnGmNY6WUvpWaRVkmSmOa5Ly1pMAAICalANLV7Y1g=",
+          "cp38"
+        ],
+        "msvc_runtime-14.29.30036-cp38-cp38-win_amd64.whl": [
+          "QHG0lyYjQ4WCHo5kDA0cH4Xqi8UDuSzoL4tgQenq04o=",
+          "cp38"
+        ],
+        "msvc_runtime-14.29.30036-cp39-cp39-win32.whl": [
+          "d2hhTyFliZhZV1evZwFHjg1c08n01jAFFcnEUInuVaM=",
+          "cp39"
+        ],
+        "msvc_runtime-14.29.30036-cp39-cp39-win_amd64.whl": [
+          "tQIyF5nZYxQwP9tbt5/gUzAGRo9/xeWp1r8kxci3QsE=",
+          "cp39"
+        ],
+        "msvc_runtime-14.29.30036-pp37-pypy37_pp73-win_amd64.whl": [
+          "UKOuoLH4f24RG593uUX+lqqStv2SS2mgxQwrqeJVTNE=",
+          "pp37"
+        ]
+      }
     }
   },
   "mt940-writer": {
@@ -47382,6 +47484,14 @@
       "sdist": [
         "wSQ6TJ8bkpqZ0lwsWN3fhKekclyoMhNWg58cq9gknUo=",
         "nvidia-dali-cuda110-0.0.1.dev5.tar.gz"
+      ]
+    }
+  },
+  "nvidia-nvjpeg-cu11": {
+    "0.0.1.dev5": {
+      "sdist": [
+        "c4+gDCctzqxyHN12lg7srGtGKddjHYNvglGThtzKD6k=",
+        "nvidia-nvjpeg-cu11-0.0.1.dev5.tar.gz"
       ]
     }
   },
@@ -79082,6 +79192,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cloudhsm-3.0.405-py2.py3-none-any.whl": [
           "EHVHVbX/D5CD+O+EIoIfQSYJi1SUcs9f/KEBDNWVVbE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.406": {
+      "sdist": [
+        "P5cd9qLunDEpV3V5sfgHbubHSfnss6p0flf6FTd7X6g=",
+        "tencentcloud-sdk-python-cloudhsm-3.0.406.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cloudhsm-3.0.406-py2.py3-none-any.whl": [
+          "oFf0+d6Wu0cT22nwq8OFV42/lLb69a4x1CIMp85LFUo=",
           "py2.py3"
         ]
       }
