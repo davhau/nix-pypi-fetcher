@@ -1709,6 +1709,18 @@
           "py3"
         ]
       }
+    },
+    "3.4.6": {
+      "sdist": [
+        "PvDHaWpNFse30apvNvGdCRcyH19J+GZrmjBW6lHwAvQ=",
+        "aiosolr-3.4.6.tar.gz"
+      ],
+      "wheels": {
+        "aiosolr-3.4.6-py3-none-any.whl": [
+          "kVzbXPedLJdfJKbsrNdwfYgyk0J7XrVrsNUnjKD37ec=",
+          "py3"
+        ]
+      }
     }
   },
   "aiscot": {
@@ -4346,6 +4358,18 @@
       "wheels": {
         "azure_mgmt_datadog-1.0.0b3-py2.py3-none-any.whl": [
           "yLfN/MKLypneM9yK1lRZaEzsTYYkpEuf6/lzJ7UB3Zw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "po7KFT9NA0tqPgZ+S5mMNSc7m/Xo949d3x2hvIczDuU=",
+        "azure-mgmt-datadog-2.0.0.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_datadog-2.0.0-py2.py3-none-any.whl": [
+          "CG2KRYij07dARMW1ONm0F6TQRxzUHhG9AUJJTuq5APY=",
           "py2.py3"
         ]
       }
@@ -22996,34 +23020,10 @@
     }
   },
   "easypydb": {
-    "0.3": {
+    "0.4.4": {
       "sdist": [
-        "EfDromH+Aztt1QC93Ea5Q1olP6VqIYf0ygDIGxpHw+o=",
-        "easypydb-0.3.tar.gz"
-      ]
-    },
-    "0.4": {
-      "sdist": [
-        "BzVZp5ProsE5orvBptWVRTnubDA34R0XK/9I/w50cJY=",
-        "easypydb-0.4.tar.gz"
-      ]
-    },
-    "0.4.1": {
-      "sdist": [
-        "TRYoNxxxp9wiwTtnP1e/bI7z4d0gWd3dG/kVuSED1Pw=",
-        "easypydb-0.4.1.tar.gz"
-      ]
-    },
-    "0.4.2": {
-      "sdist": [
-        "2ebb7mzTH7YCO8j6U78trqgqtvjUPIMxoq9UVbNZJK0=",
-        "easypydb-0.4.2.tar.gz"
-      ]
-    },
-    "0.4.3": {
-      "sdist": [
-        "tPTCMHg/6k5QWJdITUzwGbjdAma9/Ueg05+ndOdhafA=",
-        "easypydb-0.4.3.tar.gz"
+        "+bVQuIwwy3MpzuH3O1cGmtbyAaEKQ+NkHLT/o81IWLk=",
+        "easypydb-0.4.4.tar.gz"
       ]
     }
   },
@@ -95299,6 +95299,42 @@
           "cp39"
         ]
       }
+    },
+    "2.6.0.dev20210526": {
+      "wheels": {
+        "tf_nightly_gpu-2.6.0.dev20210526-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "jrqAXNADkhiozXNjDS2a+djRWMTtMA//lsDci+phrSQ=",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.6.0.dev20210526-cp36-cp36m-win_amd64.whl": [
+          "0oXOurDgrtCRaUQ7DmNC/OeYSEV7CrqSJMF6t+5pUPg=",
+          "cp36"
+        ],
+        "tf_nightly_gpu-2.6.0.dev20210526-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "uGA78elRV25+z3py4y/MEIB/yt2/CMNWWqgmqUk+1JM=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.6.0.dev20210526-cp37-cp37m-win_amd64.whl": [
+          "2wD+kIm2ZMbLt6AjGldNa0NhU8a5fP/0Y6nr98NlKTc=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.6.0.dev20210526-cp38-cp38-manylinux2010_x86_64.whl": [
+          "BzBF6bxk12Tk/EKGZHPYUFlmVPVMfGePSFCj+4E9dXU=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.6.0.dev20210526-cp38-cp38-win_amd64.whl": [
+          "rSVSnBZEFXfHl3Eq5Ktyy0hpXM8+UbtlU4Q6c9Zod2Y=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.6.0.dev20210526-cp39-cp39-manylinux2010_x86_64.whl": [
+          "ZKgaP3rQ+UXnLNj2MYhO7+gtEE0jm+RsdCOJZ8tHu50=",
+          "cp39"
+        ],
+        "tf_nightly_gpu-2.6.0.dev20210526-cp39-cp39-win_amd64.whl": [
+          "3bXWsoDqkeV/aOK7UFT6jKvooyAEWVDxs9LJIcEiKtM=",
+          "cp39"
+        ]
+      }
     }
   },
   "thecatapi": {
@@ -102963,6 +102999,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "ymcntr": {
+    "0.0.1": {
+      "sdist": [
+        "cgFZCvn+5tMtdXwmyonS2cYYqkvZx+5tpKgaAKJZBOs=",
+        "ymcntr-0.0.1.tar.gz"
+      ]
     }
   },
   "yo-fluq": {
