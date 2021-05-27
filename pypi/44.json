@@ -4548,6 +4548,18 @@
         ]
       }
     },
+    "1.106.1": {
+      "sdist": [
+        "ygWQees2RkQCHqP/QRCPFXj2nJaMQrv5f1lqLFoJOoA=",
+        "aws-cdk.aws-ce-1.106.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ce-1.106.1-py3-none-any.whl": [
+          "JgJsL5268aEZeS3+Ai0cRFlkssHlFQoT2Lp7LQCvYHQ=",
+          "py3"
+        ]
+      }
+    },
     "1.36.1": {
       "sdist": [
         "/mSjT9CLHoSTSpJ7v14G4C3BXJWcfJLoyRzdN6Aw+8o=",
@@ -7155,7 +7167,19 @@
       }
     },
     "1.0.3": {
+      "sdist": [
+        "VlO3KO6n8KNV1zludwcwJinj/2tQjR7VrQqj0eqURaE=",
+        "bark-simulator-1.0.3.tar.gz"
+      ],
       "wheels": {
+        "bark_simulator-1.0.3-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "ICRTwGu8nmp+xJ7MywxZlMO31NNNsmjjKPB1HZMR2Tk=",
+          "cp37"
+        ],
+        "bark_simulator-1.0.3-cp37-cp37m-macosx_11_0_x86_64.whl": [
+          "U61z3N780XuB/8AN57dLpPy4uxlGIPot5imnqNC50Vs=",
+          "cp37"
+        ],
         "bark_simulator-1.0.3-cp37-cp37m-manylinux2014_x86_64.whl": [
           "u/TTz62DYt0ItkrroYQWdy6qKOfCPu0uJNBoaUSjGn0=",
           "cp37"
@@ -7174,6 +7198,58 @@
         ],
         "bark_simulator-1.0.3-cp39-cp39-manylinux2014_x86_64.whl": [
           "eFdsfEJrtMxCNjutUl2mqcb85l59L7HPT483v1GlYbQ=",
+          "cp39"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "ihNqODNw0F6tzR+tl9xCdBL60lgYury6ENE8FiyR+T0=",
+        "bark-simulator-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "bark_simulator-1.0.4-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "jRvHcwUCgfymKUjePaFK2T15Ji6GqhcyKsuU0GxxDe0=",
+          "cp37"
+        ],
+        "bark_simulator-1.0.4-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "kJyyRMrguf3n78rNm9kMbz9HoMfWjGBGTfvtmlpwtfM=",
+          "cp37"
+        ],
+        "bark_simulator-1.0.4-cp38-cp38-manylinux2014_x86_64.whl": [
+          "0ZPiamKCBGqGoCcMFXudA4Zf8chEh7Rj96I1gB5GOYU=",
+          "cp38"
+        ],
+        "bark_simulator-1.0.4-cp39-cp39-manylinux2014_x86_64.whl": [
+          "yywVcjV+F/4dJanhzvnaz8xf/MFGlBuOXRq7AH9WmAs=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.0": {
+      "wheels": {
+        "bark_simulator-1.1.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "2s37Vs9b7Pj3Vj6HibyV4bXW7wyIO9slxVgsas8sJf0=",
+          "cp37"
+        ],
+        "bark_simulator-1.1.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "1aHMOHfKV2STqRLsm+3asanEPaSQr27kFFVHRbkOw9w=",
+          "cp37"
+        ],
+        "bark_simulator-1.1.0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "9EyLBYP3ykgKPPnGP9A6PxKYc/Lth8W+VGdF1bAs+7g=",
+          "cp38"
+        ],
+        "bark_simulator-1.1.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "QCC3vYBk5fR++KZCdXU4Uj2sN3wslcBxwseMAwCp91s=",
+          "cp38"
+        ],
+        "bark_simulator-1.1.0-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "/pRZbh57L+a2pjf69doxwWlrRZV9IxeyayNo46tun7E=",
+          "cp39"
+        ],
+        "bark_simulator-1.1.0-cp39-cp39-manylinux2014_x86_64.whl": [
+          "ZoKC4cYBiKgdbsrorAnUgWxVjLsUCKb2/UVcwGEQFeg=",
           "cp39"
         ]
       }
@@ -37369,6 +37445,18 @@
           "py3"
         ]
       }
+    },
+    "0.9": {
+      "sdist": [
+        "ur29baJArPv2mF7ko1QoswMgaYIunLBZBKTs0q/iZk4=",
+        "mpi-sppy-0.9.tar.gz"
+      ],
+      "wheels": {
+        "mpi_sppy-0.9-py3-none-any.whl": [
+          "nYb6uEIVhLmnlfyvp2GqYZ8hC6pt4m/Ilozc3XGPo+c=",
+          "py3"
+        ]
+      }
     }
   },
   "mpl-volume-viewer": {
@@ -39132,6 +39220,30 @@
       "wheels": {
         "mypy_boto3_lexv2_runtime-1.17.80-py3-none-any.whl": [
           "feo3/1CjEQteCykOXArazB5LACpqDPxFWL6Ltb5NvgI=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.81": {
+      "sdist": [
+        "GHLUdSbecjMUq76LK7WvU8LzsH0JeiYW1ku3ZwDkRc0=",
+        "mypy-boto3-lexv2-runtime-1.17.81.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lexv2_runtime-1.17.81-py3-none-any.whl": [
+          "06sCVMduzVcVN2O8gXmoXIGu6mKsGCLXltJHCSvQvgs=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.82": {
+      "sdist": [
+        "M6gba+fd/Hga36E2ckBX+jYpC9UubDL6pwof1z12YDQ=",
+        "mypy-boto3-lexv2-runtime-1.17.82.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lexv2_runtime-1.17.82-py3-none-any.whl": [
+          "eyF65dncriO8mTNuLAgIYh6Tgzuha4DR4+fs24Vrrs4=",
           "py3"
         ]
       }
@@ -43206,6 +43318,30 @@
         ]
       }
     },
+    "1.17.81": {
+      "sdist": [
+        "AoDy/tgrkIVxB7SK2SBp01zmzqcg9zrFcljSY9ydgpw=",
+        "mypy-boto3-schemas-1.17.81.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_schemas-1.17.81-py3-none-any.whl": [
+          "KjwITDuOXNNE5AFELMNUB1cIGOq9YTD5v2Wd+w1eIdw=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.82": {
+      "sdist": [
+        "HcSnnmCzyaT1xjGwPCW4evw+KW3Xz7o2nDmcccIZGJI=",
+        "mypy-boto3-schemas-1.17.82.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_schemas-1.17.82-py3-none-any.whl": [
+          "cI8T0G1En+bQzDov4RG8y1M+i3OdQLna8g9wV/9A/wA=",
+          "py3"
+        ]
+      }
+    },
     "1.17.9.0": {
       "sdist": [
         "mlr6M7Yzc79Rt1eg6AABZwM/2xS4aFnf8uzDMqzKEfg=",
@@ -44222,6 +44358,14 @@
       "wheels": {
         "numerical_analysis-0.0.4-py3-none-any.whl": [
           "i9i3EF9AkWAwm9pfgsCD7XBWpf8ghirZVGJloQ0TgzA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "wheels": {
+        "numerical_analysis-0.0.5-py3-none-any.whl": [
+          "LYW2+Kc3mfYb3G6uZV6RaQBpLYHYvNwDWSS+MDWlHv4=",
           "py3"
         ]
       }
@@ -74670,6 +74814,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mna-3.0.406-py2.py3-none-any.whl": [
           "6W+JM5EjD0lRh8BHcQjQG2Jg0eoPuKnSRKoViIrR2uY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.407": {
+      "sdist": [
+        "hqVNfA67XDOyQpcfdynInYxGrNre0/haXjZ3t020tHE=",
+        "tencentcloud-sdk-python-mna-3.0.407.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mna-3.0.407-py2.py3-none-any.whl": [
+          "oYQnomaKNtI9C5IsBGKA1ZZ/id8E+/NkimRsF/XzU04=",
           "py2.py3"
         ]
       }
