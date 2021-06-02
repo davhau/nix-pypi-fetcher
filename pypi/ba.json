@@ -7904,6 +7904,18 @@
         ]
       }
     },
+    "1.106.0": {
+      "sdist": [
+        "hd+vzENZ0LQjoexFsG/XbE3y0ajIaFsn1iGKV1+DYE4=",
+        "aws-solutions-constructs.aws-dynamodb-stream-lambda-1.106.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodb_stream_lambda-1.106.0-py3-none-any.whl": [
+          "CQT6Mirw3mOssHcziVPBTuCQN0v49Q+wxbN/caacG4w=",
+          "py3"
+        ]
+      }
+    },
     "1.46.0": {
       "sdist": [
         "l50peKxadAx3TBbPlomoPGZ9s03TW2H2sDVBwC0M82Y=",
@@ -19415,6 +19427,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.41.4": {
+      "sdist": [
+        "W3HcTeheMy0jHnIyZqzngavhDIK20OLf3ZYk3/rl36k=",
+        "dbnd-airflow-0.41.4.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.41.4-py2.py3-none-any.whl": [
+          "PlvN2SOjF4hmvD8/84zaLbzGpr7nqjibE7BJpaCAmVY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ddtestlib": {
@@ -27443,6 +27467,20 @@
       ]
     }
   },
+  "flask-first": {
+    "0.1.1": {
+      "sdist": [
+        "S/rvngkwIWRkRQX5YlEpCeZKOsXhZQ3EcZj7OuAPYBY=",
+        "flask_first-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "flask_first-0.1.1-py2.py3-none-any.whl": [
+          "tvQOAu0C73yJPR+JFBvs2RzznqHKrVrgQG3AjVJ7RGI=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "flask-vises": {
     "1.0.0": {
       "sdist": [
@@ -31121,6 +31159,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.3": {
+      "sdist": [
+        "LjyzeH7hQ5Hl/R9acr92SSAktwbNcdPV0bbWIdna9bo=",
+        "golicense_classifier-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "golicense_classifier-0.0.3-py3-none-any.whl": [
+          "wCLDPyAyOWqCbxjgl7vwKTYXfDrPHX9irzKGLoKu6wA=",
+          "py3"
+        ]
+      }
     }
   },
   "goodreadsapi": {
@@ -31181,6 +31231,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "gpc": {
+    "0.0.0.0a0.dev20210602": {
+      "sdist": [
+        "KnI6xr+CTzs46EVSSvGQUDR8Q4URI5LZ2eGIZGENBmc=",
+        "gpc-0.0.0.0a0.dev20210602.tar.gz"
+      ]
     }
   },
   "gpds": {
@@ -46318,6 +46376,14 @@
       "wheels": {
         "mindmeld-4.3.5rc6-py2.py3-none-any.whl": [
           "DgDIi0vRVHb2xTjB3kRa5teN9iK7+T6NJ8rR7a3Hr9k=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.3.5rc7": {
+      "wheels": {
+        "mindmeld-4.3.5rc7-py2.py3-none-any.whl": [
+          "9QmdOIeMkmAncPZhcfBqVtkbDHkNMCNrogT8CbUZVio=",
           "py2.py3"
         ]
       }
@@ -70602,6 +70668,16 @@
       "wheels": {
         "odoo13_addon_l10n_th_tax_report-13.0.1.2.1.dev1-py3-none-any.whl": [
           "0hKXuXn2owZ6GHQBePpK4rMtLz+8SXGrq3plE6NMHko=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo13-addon-product-brand-purchase-report": {
+    "13.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo13_addon_product_brand_purchase_report-13.0.1.0.1.dev2-py3-none-any.whl": [
+          "CBG+iWazdjZI/txiv+5yyZc/DaXn1+o0wZ3O0fjnB3A=",
           "py3"
         ]
       }
@@ -101209,6 +101285,46 @@
           "cp39"
         ]
       }
+    },
+    "0.7.2.0": {
+      "wheels": {
+        "samna-0.7.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "J9wCQYCHwPgtj6XB5hNMUnwi9FiTLu4IcR24TYLwRt8=",
+          "cp310"
+        ],
+        "samna-0.7.2.0-cp35-cp35m-macosx_10_15_x86_64.whl": [
+          "GX3iiRxEwMlITxPMhpLNx/tIpQ+3niIUXg20jFi45Aw=",
+          "cp35"
+        ],
+        "samna-0.7.2.0-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "0UsaLkCb7h6r2Q/j+HpTUMzJqOC4q712RWfr4dfrsfw=",
+          "cp36"
+        ],
+        "samna-0.7.2.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sf6yYBN1xc2nzfGhLQi6IZJODnuCwaCUoFzrU5jS8rQ=",
+          "cp36"
+        ],
+        "samna-0.7.2.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "/IznXDPWmVOf6JMMWMTRWWsNdD/rEj3ZX/CDGk3rjdU=",
+          "cp37"
+        ],
+        "samna-0.7.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XuPnIPB7zBkPjfyzZRTicA4FTFpxuo/AvmtOhs83aeE=",
+          "cp37"
+        ],
+        "samna-0.7.2.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "HKlMvPFO1HqJDCRWz0xBzkoWv03MHBk2E0j11//fZ00=",
+          "cp38"
+        ],
+        "samna-0.7.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2P+bLuRBTvYwMDFHPJ592IJVNYrIbeRVGr9W5DOYFW0=",
+          "cp38"
+        ],
+        "samna-0.7.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TkRmB8Y+bJ/YL4S36JsakcmwiVQQLxFgU/1XQz0KsX4=",
+          "cp39"
+        ]
+      }
     }
   },
   "sanic-aioorm": {
@@ -108672,6 +108788,26 @@
         ],
         "tf_nightly-2.6.0.dev20210601-cp39-cp39-win_amd64.whl": [
           "eOuTj9vY3aUpYpnsKI9xcp3j5ZovSWh/8G1HCONkX2s=",
+          "cp39"
+        ]
+      }
+    },
+    "2.6.0.dev20210602": {
+      "wheels": {
+        "tf_nightly-2.6.0.dev20210602-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "sG38UumsqZLWjtnJRzFuzjfPkLIDVV67uZ46Dytngsg=",
+          "cp36"
+        ],
+        "tf_nightly-2.6.0.dev20210602-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "Y6wa/1OA5Hp6e7yVukVcREQQx5jivcP2QJ+hGO+PvBw=",
+          "cp37"
+        ],
+        "tf_nightly-2.6.0.dev20210602-cp38-cp38-manylinux2010_x86_64.whl": [
+          "+V9YvvYo06rn5uqm0S+V+EvUQpKxN8ZV9z7V0xJsh20=",
+          "cp38"
+        ],
+        "tf_nightly-2.6.0.dev20210602-cp39-cp39-manylinux2010_x86_64.whl": [
+          "gwyDtNaJCE8X1AJcnDX76spRIGuvVY4GlLyT3LqPXmQ=",
           "cp39"
         ]
       }
