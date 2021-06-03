@@ -2273,6 +2273,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "wheels": {
+        "aitk.algorithms-0.0.2-py3-none-any.whl": [
+          "+/b5cSU133+b6nerjsWqk9mnBAgzHJSsb6SWu7JKnDk=",
+          "py3"
+        ]
+      }
     }
   },
   "aldryn-background-image": {
@@ -11337,6 +11345,20 @@
       ]
     }
   },
+  "chalice-http-toolkit": {
+    "0.0.1": {
+      "sdist": [
+        "MOZda7BI/Dje+BGdiNG+QcSAuRFoDSTwAqzeWESX4ws=",
+        "chalice-http-toolkit-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "chalice_http_toolkit-0.0.1-py3-none-any.whl": [
+          "w9CzNelSH0oZXtye49nGgy8t+fF1yUuoNXizTp4tK8g=",
+          "py3"
+        ]
+      }
+    }
+  },
   "challenge-cli": {
     "0.0.1.0": {
       "sdist": [
@@ -16123,6 +16145,12 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "5vHdJhZp5rN1+2kf7FgJ3WxfIob4CTN4PA2Lywhyl2E=",
+        "db2text-0.0.5.tar.gz"
+      ]
     }
   },
   "dbnomics-api": {
@@ -41820,6 +41848,18 @@
       "sdist": [
         "ynTN3WR1laX5h0LS7jQCU7KWXDmNyk5rbjnciupfP/c=",
         "multiego-0.0.5.tar.gz"
+      ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "NxIoBbFjpmphm6sWcGGxh1BBm8V0o9WNRg/4sDpSnXg=",
+        "multiego-0.0.6.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "KYPvw6zi5h/4BwAqFnUfN/gi6IXplPLjxPdSd2lGEFU=",
+        "multiego-0.0.7.tar.gz"
       ]
     }
   },
@@ -83667,6 +83707,12 @@
         "E6GmZ/zd56jA+IgmPYwBqp6Kn8kTylCvDeK41ZK9vnU=",
         "superannotate-4.1.5b4.tar.gz"
       ]
+    },
+    "4.1.5b5": {
+      "sdist": [
+        "Pr9V+dtCaJ/GQwqJZmTP1S/EbhpgijgbUZCupGy9Ea0=",
+        "superannotate-4.1.5b5.tar.gz"
+      ]
     }
   },
   "superintendent": {
@@ -85696,6 +85742,58 @@
         ],
         "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210602143333-cp39-cp39-win_amd64.whl": [
           "x//ND4xJjATA+CQs3vcOLz4LTO1/EpWEYOy8JjPYqPk=",
+          "cp39"
+        ]
+      }
+    },
+    "0.18.0.dev20210603171642": {
+      "wheels": {
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210603171642-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "4hUaBt6Vxgi/TOcJkvQDfHA3/+12RQf7Nx+0Jou8TOc=",
+          "cp36"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210603171642-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "MBQT8pZHLELvUE83F8+6FdNQKSBETh9MgaHIhHl7lJw=",
+          "cp36"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210603171642-cp36-cp36m-win_amd64.whl": [
+          "+mVuDZi49Grp4XYH0cZ48i/gKlQzgTwSVKlOl00Zy7w=",
+          "cp36"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210603171642-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "lQsFrDHpzZ8Ik1RSQhiA0+TjRfGdjKdcfLDK/iuS7MA=",
+          "cp37"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210603171642-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "FSgaPrPJLJw0N3yzSuqMfxifsQMjwXm+BKzkmFwLtek=",
+          "cp37"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210603171642-cp37-cp37m-win_amd64.whl": [
+          "TCuzL0eE7FaOdakgyw464zzyXeazLf8x4zlzQrxkEUU=",
+          "cp37"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210603171642-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "s1NzFYDvwjXahayrl1UDtGCJklUjkvPJ6bsY7DF6Mss=",
+          "cp38"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210603171642-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "dVME68s/NMA6hFUSicaUlrbWG8Av3KJ0UXVKOoja3gA=",
+          "cp38"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210603171642-cp38-cp38-win_amd64.whl": [
+          "iuIdXNvpZTqY/ghrX3mxsb67HjvM/91NI0p4zbnLFqg=",
+          "cp38"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210603171642-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "RoEohanIzqwwjf+jWvPyNyEFsfFNKGlLSzGZXmk04OQ=",
+          "cp39"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210603171642-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Kf7P4E35blyUN8hgG5aO69PdStiTKEnlgObsDrbwcqU=",
+          "cp39"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.18.0.dev20210603171642-cp39-cp39-win_amd64.whl": [
+          "XYnocx1CLs5w1c0nQvAuaeGjoAZy9EfZqfPKjwsLbIM=",
           "cp39"
         ]
       }
