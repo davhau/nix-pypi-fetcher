@@ -520,10 +520,10 @@
         "aiodiskdb-0.0.2.tar.gz"
       ]
     },
-    "1.0a1": {
+    "0.1": {
       "sdist": [
-        "8cSLq1jBN9L1kSVg83+2yG71srD1p+siwuhIgaE6hz0=",
-        "aiodiskdb-1.0a1.tar.gz"
+        "idFqSXfUnz7BVRXJS+h9QdbFEX1cJEl9tGex5IDGoFc=",
+        "aiodiskdb-0.1.tar.gz"
       ]
     }
   },
@@ -4772,6 +4772,18 @@
         ]
       }
     },
+    "1.108.1": {
+      "sdist": [
+        "T+6ChpIbbnbMYdricKPmCDp6pUNTYSWOIeQcNfNejNM=",
+        "aws-cdk.aws-datasync-1.108.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_datasync-1.108.1-py3-none-any.whl": [
+          "FGrmQWIpy4z0n6z/bIc1kx4CVkuh9Y+h2pinMdeEpxc=",
+          "py3"
+        ]
+      }
+    },
     "1.85.0": {
       "sdist": [
         "ajd60b0k9KxLG9B3khjh2hcqORBcF8MQcBCR41NN0Yg=",
@@ -5370,6 +5382,18 @@
       "wheels": {
         "aws_cdk.aws_dlm-1.108.0-py3-none-any.whl": [
           "aXRgYq0epMGBxnNYKw6+RUXwPqgdmhBHD5oc4/n/Qc8=",
+          "py3"
+        ]
+      }
+    },
+    "1.108.1": {
+      "sdist": [
+        "7LPUHm/8p/HFMBVFiRhYheOfT4F0DZRphAoQmqHyq/Y=",
+        "aws-cdk.aws-dlm-1.108.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dlm-1.108.1-py3-none-any.whl": [
+          "0jZX3ifPoqlUC3X7CEiqfcbBf+2X3I4phsSPIzW/UtY=",
           "py3"
         ]
       }
@@ -23663,6 +23687,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "gPRxlT0lfH711zLkjH7/C/D1PAsXPP5wSKOadyudi14=",
+        "dafni-cli-dafni-facility-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "dafni_cli_dafni_facility-0.0.6-py3-none-any.whl": [
+          "28TY/Kn/hoAFuWXg2LKkA0QTJ1mO3dpuJKk1NZhF8/c=",
+          "py3"
+        ]
+      }
     }
   },
   "dataclass-plus": {
@@ -39479,6 +39515,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.1": {
+      "sdist": [
+        "giBUPndxARx+0tpsO2S1n6QjWXjXIwkXQSNmefmlPpo=",
+        "freesurfer-volume-reader-2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "freesurfer_volume_reader-2.1.1-py3-none-any.whl": [
+          "8f2H+Rk0aqPatyJEzQp6tV9iU6qkl4XICW8Mr9eJ+ec=",
+          "py3"
+        ]
+      }
     }
   },
   "fs-hash": {
@@ -54910,6 +54958,18 @@
       "wheels": {
         "mypy_boto3_lookoutmetrics-1.17.92-py3-none-any.whl": [
           "KD/0wUtpG2/OZaxRFifYZwSaYQVrS/or+Yi2aEHyJxI=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.92.post1": {
+      "sdist": [
+        "WLm/gpmOL2kErwqiS9vXzL6Ki05c7L14jhwXozU5fek=",
+        "mypy-boto3-lookoutmetrics-1.17.92.post1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lookoutmetrics-1.17.92.post1-py3-none-any.whl": [
+          "fPj8SPvP0eapBH5VwBTpHADzkhBjOXgqlf7Fk0kdoN0=",
           "py3"
         ]
       }
@@ -91042,6 +91102,58 @@
         ],
         "tf_nightly_cpu-2.6.0.dev20210610-cp39-cp39-win_amd64.whl": [
           "wsyHVBByhWGuyps3nvRvAm8t0CHspl9kqCFpPL7Q/3A=",
+          "cp39"
+        ]
+      }
+    },
+    "2.6.0.dev20210611": {
+      "wheels": {
+        "tf_nightly_cpu-2.6.0.dev20210611-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "dJh0YxpmwHec/VOV8MTi2XnVCdlFInaeyuYU9IV8KnY=",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210611-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "lLCZ/CfNLrrump0N8kJ1h3vRTrmH0oP/PeGV7wBqPP0=",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210611-cp36-cp36m-win_amd64.whl": [
+          "L/TIA6K8SbJxmbl8zEYVEF2Zcu42672ketRb3DddPFE=",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210611-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "v3kWUx73+LLrJA506iGSdjkfw5D56MzVko1CqnC1LEY=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210611-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "kLAMoZYwaClMH0q8DJWQAjRbc3elxfGmknCJRah/ZjM=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210611-cp37-cp37m-win_amd64.whl": [
+          "9Jcblka1ZUQDDUWjEO6sxlVlD5aF4EeTk4MKLoq7D5I=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210611-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "yAzAceEI6WgIXLG/BnaXNnIb25MHremnK/hmp5Bn4mA=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210611-cp38-cp38-manylinux2010_x86_64.whl": [
+          "NjHkg86UZ1DaBLa9HHAVh8oTDeFtoBWxHey9VMbxmao=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210611-cp38-cp38-win_amd64.whl": [
+          "wpBzLcVbTdX8AaJGEEFm9+dAVg8UXe+/EYzsjPxMLW4=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210611-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "dgJmMMpaE7pfJjMQofYmbT7a7XwD/9fRq3FJ1kuizfQ=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210611-cp39-cp39-manylinux2010_x86_64.whl": [
+          "hSmPZirx854HNFXxSdw3hYQKqeATuysR6F/tvcf7T3g=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210611-cp39-cp39-win_amd64.whl": [
+          "s6YrYBbi1s5H1TKca5oPIp9XPYdJSzaYh1p6BYq6xoc=",
           "cp39"
         ]
       }
