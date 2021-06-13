@@ -19631,6 +19631,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.42.2": {
+      "sdist": [
+        "uMYu8JAvDFnr0JQXBHHXTccybw2AHTDcLIM6YMiMINo=",
+        "dbnd-airflow-0.42.2.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.42.2-py2.py3-none-any.whl": [
+          "aTUL0MobMQO+ivVJ3vrs2rzlLJIxAjETGEnSpqftgjA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ddtestlib": {
@@ -31466,6 +31478,18 @@
       "wheels": {
         "golicense_classifier-0.0.3-py3-none-any.whl": [
           "wCLDPyAyOWqCbxjgl7vwKTYXfDrPHX9irzKGLoKu6wA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "IvXM1kGR+VW8lbYRwrfPi+/jOocywzSSvNe/e/ov+5U=",
+        "golicense_classifier-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "golicense_classifier-0.0.4-py3-none-any.whl": [
+          "pR/jAlDPbkvZTgwu7l1siJWoKAuHfxuIZ28Cpj1F6qM=",
           "py3"
         ]
       }
@@ -45284,6 +45308,18 @@
       "wheels": {
         "marketpsych-0.0.1.7-py3-none-any.whl": [
           "j6+0QokhAwG0g2IKW/2bMG7FVbwhjNki9IGrostMbiQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "e4CxPov6yBUqCuJYk+eUMiPAntKYQa4MQotdD3f1mZg=",
+        "marketpsych-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "marketpsych-0.0.2-py3-none-any.whl": [
+          "GfqyoPHilf9ZfMEZpl3baxZDyqwJKUpefSbcbqKt3/M=",
           "py3"
         ]
       }
@@ -87157,6 +87193,14 @@
       }
     }
   },
+  "pyhtmlchart": {
+    "1.0": {
+      "sdist": [
+        "m0jT+Jm9SWeexO8Wz4o6ZfJRMAqgyphLPSS3juU7xKA=",
+        "pyhtmlchart-1.0.tar.gz"
+      ]
+    }
+  },
   "pykeops": {
     "0.0.10": {
       "sdist": [
@@ -102130,6 +102174,46 @@
         ]
       }
     },
+    "0.7.12.0": {
+      "wheels": {
+        "samna-0.7.12.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5u+oxCI5ZtwQ5jt1uhLV/LYc++TL+W5eSt3gfeL7pko=",
+          "cp310"
+        ],
+        "samna-0.7.12.0-cp35-cp35m-macosx_10_15_x86_64.whl": [
+          "jNiWBHYGf3TJDneqwpkOuiGs7zjFtiwwxQVwXlUC8qs=",
+          "cp35"
+        ],
+        "samna-0.7.12.0-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "swLPN5yKDlmebz/cS8MvQglNn1MzCwTrGzZOy5e5438=",
+          "cp36"
+        ],
+        "samna-0.7.12.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XtwA+4+vW23BNJ2ZrHJ/tch/8+Mb/cYXF9LYUXV/ckU=",
+          "cp36"
+        ],
+        "samna-0.7.12.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "dIXAVhfQtBQIw2y0nbLAJrpJhRJ1M7g9D38ZGA2OW7g=",
+          "cp37"
+        ],
+        "samna-0.7.12.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ppRD1H8UptFhs/85yh8/qszOUnE6GrEMeLhAyd7nW5M=",
+          "cp37"
+        ],
+        "samna-0.7.12.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "ISnXE5fGTzQknlPQ3sqW9jiOPtLbpfCDG8z4TjB4lxw=",
+          "cp38"
+        ],
+        "samna-0.7.12.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3LWQiAVXZlcbFVuqAN8aMt7LmxoRd0ha3X2qurgYSXE=",
+          "cp38"
+        ],
+        "samna-0.7.12.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "K+I2ybX+lwJYnZMaKknBjPH7LFx/3A8GAAstH8Y7rzM=",
+          "cp39"
+        ]
+      }
+    },
     "0.7.2.0": {
       "wheels": {
         "samna-0.7.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -110349,6 +110433,42 @@
           "cp39"
         ]
       }
+    },
+    "2.6.0.dev20210613": {
+      "wheels": {
+        "tf_nightly-2.6.0.dev20210613-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "PMK675sKbh8Ixlq+hHB8jnWFOV+eR/bMuUodU8qQfMQ=",
+          "cp36"
+        ],
+        "tf_nightly-2.6.0.dev20210613-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "0DNGlrThxZZEbRepdKo3HHbVH78Z8MaMkUrI+ExN7mk=",
+          "cp36"
+        ],
+        "tf_nightly-2.6.0.dev20210613-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "ESZ6TF59l66yVwPq+kniCMRznBaVSOCiPCZVFV5Ka5c=",
+          "cp37"
+        ],
+        "tf_nightly-2.6.0.dev20210613-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "nIAY33wDlcmmsnSOhxapMP7x86xE0OV875Xa0SfAtAk=",
+          "cp37"
+        ],
+        "tf_nightly-2.6.0.dev20210613-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "oMf52fK+zHYha8SpEkKLKha4iJnJ6UeOYGK7qw3+2KI=",
+          "cp38"
+        ],
+        "tf_nightly-2.6.0.dev20210613-cp38-cp38-manylinux2010_x86_64.whl": [
+          "zDAmnFaTZsSKVMQ0VFuFyBCFRGxRI/OorToina9Iqlc=",
+          "cp38"
+        ],
+        "tf_nightly-2.6.0.dev20210613-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "kXJ1LRnM//u11To5GNyDQBarA5XeOt6hq+FcIER4gxE=",
+          "cp39"
+        ],
+        "tf_nightly-2.6.0.dev20210613-cp39-cp39-manylinux2010_x86_64.whl": [
+          "REAOeO08weiL7VN8OqghgD83yN9TrYDJXIKI78JsnO0=",
+          "cp39"
+        ]
+      }
     }
   },
   "tf-slim": {
@@ -112324,6 +112444,12 @@
       "sdist": [
         "/lIhpXdqw8yYeX7Mkn5jooQWudAlBWQ+hxygKDUzy9g=",
         "tornado_models-0.1.6.tar.gz"
+      ]
+    },
+    "0.1.7": {
+      "sdist": [
+        "C83z/plS68YfEVuMAv9EvhLsI8lDwyh4Xq1MvKQmxms=",
+        "tornado_models-0.1.7.tar.gz"
       ]
     }
   },
