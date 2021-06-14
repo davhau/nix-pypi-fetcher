@@ -12606,6 +12606,30 @@
         ]
       }
     },
+    "0.2.70": {
+      "sdist": [
+        "EF7uo6X40AoJBdry75Ok20oxMdPRfJaGI3OOow3hSGo=",
+        "cdktf-cdktf-provider-kubernetes-0.2.70.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_kubernetes-0.2.70-py3-none-any.whl": [
+          "T6J/2Ou+32Y4XYe8G5MyGmZqXWp66zL6YdT+KiV+zv4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.71": {
+      "sdist": [
+        "EoZaUWWtO/y0wz4nOKHvnhKmJjld9wLktaHFOnvxtqo=",
+        "cdktf-cdktf-provider-kubernetes-0.2.71.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_kubernetes-0.2.71-py3-none-any.whl": [
+          "HOV1TtyXuxcP2yau6TKQrCR/LEadOuoNXOgRJCdHydI=",
+          "py3"
+        ]
+      }
+    },
     "0.2.9": {
       "sdist": [
         "CDo6hK9dKtGAKkYmS9BqtAW2+G5hLwq4sLSAP2+5MxA=",
@@ -35322,10 +35346,10 @@
         "hist-loss-0.0.8.tar.gz"
       ]
     },
-    "0.0.9": {
+    "0.10.0": {
       "sdist": [
-        "Cknar5pRt+OlMsv/bNXFMg/lLX3t9c0ZrlczMx+uggM=",
-        "hist-loss-0.0.9.tar.gz"
+        "VGJvBXXTMW1ZuxSjtxyB7tS2WKSuWR/yg3xizoN8QOA=",
+        "hist-loss-0.10.0.tar.gz"
       ]
     }
   },
@@ -62413,6 +62437,12 @@
         "DdpFWg9w3Dq9ru6TTMYCayyL71IoQ5CVAWoIZJZT0MM=",
         "pyforest-1.0.3.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "uIbFFUXZL1NNLMlc03q4e8qLSWVYavQiQOChEWZQ2Rg=",
+        "pyforest-1.1.0.tar.gz"
+      ]
     }
   },
   "pygeojson": {
@@ -77204,6 +77234,18 @@
       "wheels": {
         "resnest-0.0.6b20210613-py3-none-any.whl": [
           "ewAqc2jrCJDr/6oUGgKbUDwltV2exLhzkkqXe2myASg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6b20210614": {
+      "sdist": [
+        "TLaI4uGXxMQc5LEFqks8AQrcqZ/vMozsUUQkb6zn+/E=",
+        "resnest-0.0.6b20210614.tar.gz"
+      ],
+      "wheels": {
+        "resnest-0.0.6b20210614-py3-none-any.whl": [
+          "qPF1HYRXw3kSho88KZ4/FfvVY4mQXuw4Fmhp5VWt22E=",
           "py3"
         ]
       }
@@ -94090,16 +94132,48 @@
           "DfIt7PEhAQt7DrWZlA8eyrELyzGyqagXqNKG7qxo75c=",
           "cp36"
         ],
+        "tflite_support_nightly-0.1.0.dev20210613-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "xsFQcMctGXVIFgOkso6g2TC/mWPopA2/h8b+tx5S+0Y=",
+          "cp36"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210613-cp36-cp36m-win_amd64.whl": [
+          "Jbk+FIyuMCmUt06DVia1F5lC5cdZ4+2uslqSE7mSxvs=",
+          "cp36"
+        ],
         "tflite_support_nightly-0.1.0.dev20210613-cp37-cp37m-macosx_10_11_x86_64.whl": [
           "BpCQHJOAFa7+D6lETspqu4kzgc/6bbKeKgG8GJidta8=",
+          "cp37"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210613-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "qGAd65gY5Pnqmj0Wp8S5PAMylk8vEAGgYozCmuRJ2xM=",
+          "cp37"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210613-cp37-cp37m-win_amd64.whl": [
+          "325w2mEEOAhviAyqyYk1lpR/D5rqLO1l0pRX+98dApc=",
           "cp37"
         ],
         "tflite_support_nightly-0.1.0.dev20210613-cp38-cp38-macosx_10_11_x86_64.whl": [
           "ZpI1At5pGc+jr8ONNq20PFU5zKW0f35OZZRuA6+qN5Y=",
           "cp38"
         ],
+        "tflite_support_nightly-0.1.0.dev20210613-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "aqkUZfzUFW+r8vd+2CktPHJs7L/tNZU808QEHheTwRw=",
+          "cp38"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210613-cp38-cp38-win_amd64.whl": [
+          "F1vagRrAwTxfX2BMlephXG6WaKRLOhN6MEDqLYHT9Xc=",
+          "cp38"
+        ],
         "tflite_support_nightly-0.1.0.dev20210613-cp39-cp39-macosx_10_11_x86_64.whl": [
           "ntpThd/X3DIn7yOMkg6GZkwCxiBA6MNn8cjqwVir3sM=",
+          "cp39"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210613-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "7YX/5355Jq+eGqqg54ji1YzTtBPqG2Gy6EXDGrj0zT8=",
+          "cp39"
+        ],
+        "tflite_support_nightly-0.1.0.dev20210613-cp39-cp39-win_amd64.whl": [
+          "CC59GAf6VJj8OhaY9c7DHu5dA3/IFPb6WB6fCf7R+V8=",
           "cp39"
         ]
       }

@@ -2075,6 +2075,12 @@
         "gE8Nv8wp57P/XXc8Z8IWlM5WD6WzCnKJHTZg+ALwICY=",
         "amuse-galaxia-2021.4.3.tar.gz"
       ]
+    },
+    "2021.6.0": {
+      "sdist": [
+        "Xg2nZ/JkcdzPkdRrMtORwpwjkbhQsZVR11YqtOQLt9c=",
+        "amuse-galaxia-2021.6.0.tar.gz"
+      ]
     }
   },
   "anhima": {
@@ -7222,6 +7228,18 @@
       "wheels": {
         "autogluon.mxnet-0.2.1b20210613-py3-none-any.whl": [
           "9AQeazjSiOMbPD64/Ed0vsP3rOsWmaeTTFVH14faA88=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b20210614": {
+      "sdist": [
+        "Rhf3TwSN3h+a4VzLGcKvsBdOtDxxcD6UH6rEmsgV988=",
+        "autogluon.mxnet-0.2.1b20210614.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.mxnet-0.2.1b20210614-py3-none-any.whl": [
+          "nZGaLcQgjdsc6v/WwdYGCpVkvmBSJZru2V89eBLE2BI=",
           "py3"
         ]
       }
@@ -20662,6 +20680,14 @@
       "wheels": {
         "django_cfdi-1.15-py3-none-any.whl": [
           "B6LHTJweqLZU7VNj6xFlgGG8wfIXgRML2wOMdE9NzXs=",
+          "py3"
+        ]
+      }
+    },
+    "1.16": {
+      "wheels": {
+        "django_cfdi-1.16-py3-none-any.whl": [
+          "OTJO81irEl1x1mCHsE/LKzxgUWM7ZehoLHLazZaow48=",
           "py3"
         ]
       }
@@ -60234,62 +60260,6 @@
     }
   },
   "pl-nightly": {
-    "0.11.17.20210504.1": {
-      "wheels": {
-        "pl_nightly-0.11.17.20210504.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "+ChwlQH+PlpAxVVukCgYYsbBU8mbXup1pQOrq27Sx10=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.17.20210504.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "/pMWXnvk+Meg4xYH/prBcS0XF/mVDvZKvyVJi39PWWY=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.17.20210504.1-cp36-cp36m-win_amd64.whl": [
-          "SdrE9qBci7I/xvZnTeyl9WgBIiiUIckD+f3UiK2fano=",
-          "cp36"
-        ],
-        "pl_nightly-0.11.17.20210504.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "FQYbfLgCAVx7GRRQP74ZyaZWG4EyhFAyUEH02V/lmDk=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.17.20210504.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "Dwd2rXeow43HRTo0E7I4hV3z21oWDakctLjIlbGeJmY=",
-          "cp37"
-        ],
-        "pl_nightly-0.11.17.20210504.1-cp37-cp37m-win_amd64.whl": [
-          "nVk7JvMZSHCm/6t76UEKyUqOQQtatvS7SrIBAqYo1RU=",
-          "cp37"
-        ]
-      }
-    },
-    "0.12.3.20210514.1": {
-      "wheels": {
-        "pl_nightly-0.12.3.20210514.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "2suhxpmm1xW8covnz/bPjLZIYakymXkjN1Fz+0S2p64=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.3.20210514.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "1K6v/BO0GcF2tqvG7+sjxanTkWjPmLIxuNVxdmxFptU=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.3.20210514.1-cp36-cp36m-win_amd64.whl": [
-          "kjPraINuhaEYq/+CplqdUOGpc3iKXyvckmG9+WGNFqc=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.3.20210514.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "/FfBbVJaXcZNc+MsEchyJ4NOMkmlXT3GxP+0j0L7pZk=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.3.20210514.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "Ki3rYgoZF0UEJwUmD0kJ8CU4n9uAKZ4Tt6/o46eKrqE=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.3.20210514.1-cp37-cp37m-win_amd64.whl": [
-          "mcrIK6om8lUkd90b6ErBTbRhdJJgAfvGMLkJAXjDKR0=",
-          "cp37"
-        ]
-      }
-    },
     "0.12.3.20210515.1": {
       "wheels": {
         "pl_nightly-0.12.3.20210515.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
@@ -93246,6 +93216,18 @@
       "wheels": {
         "yamcs_client_kerberos-1.1.0-py3-none-any.whl": [
           "Hj1E/EE1VdrV4HNGi0OcS0eG4iKjC0y9CMrYuJbVoNQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "CjEd/tbOUOK4oQYDkWE3C8vHgQIl1tUnFYQPEPvpZC8=",
+        "yamcs-client-kerberos-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "yamcs_client_kerberos-1.2.0-py3-none-any.whl": [
+          "e88UsQ5FuMhVk+hz+8pL+vGpbzoUyBz9B4i20hDHZc8=",
           "py3"
         ]
       }
