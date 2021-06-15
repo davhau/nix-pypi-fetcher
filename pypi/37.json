@@ -1829,6 +1829,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0rc1": {
+      "sdist": [
+        "Hq6WAHkCgtn5Mz8509QhuPJ35aCAh4EAW5nT0nDsPX8=",
+        "apache-airflow-providers-tableau-2.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_tableau-2.0.0rc1-py3-none-any.whl": [
+          "dyd0ynhHQnsSfi8vdAp6AZ+hAN9QAeRetDyw2PLJFNo=",
+          "py3"
+        ]
+      }
     }
   },
   "api-base": {
@@ -15486,6 +15498,18 @@
       "wheels": {
         "deepss-0.18.0-py3-none-any.whl": [
           "NbS7NJGCusrnXYEEO6HkOxCPg/S4a3fBPq7eQsFKUko=",
+          "py3"
+        ]
+      }
+    },
+    "0.18.1": {
+      "sdist": [
+        "kvvHE21IeQOYHJnCa/RIDUnMxFXUFyLjFmAWDlJw4HU=",
+        "deepss-0.18.1.tar.gz"
+      ],
+      "wheels": {
+        "deepss-0.18.1-py3-none-any.whl": [
+          "XdAV0whRp+zklAPWSwGLDiCaQEKzyukgktpms/s8bcA=",
           "py3"
         ]
       }
@@ -71993,6 +72017,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.1.67": {
+      "sdist": [
+        "XeUwXSuxwAqFJVnM9w5nE6DVV3guZCC580tff5p+r7s=",
+        "hypers_nacos-0.1.67.tar.gz"
+      ],
+      "wheels": {
+        "hypers_nacos-0.1.67-py2.py3-none-any.whl": [
+          "YxoMwx4unzaKw7dUfu8o+q0DYhOVJGxlGJMFV9oFi3M=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "iconv-codecs": {
@@ -95952,6 +95988,14 @@
       "wheels": {
         "odoo14_addon_account_financial_report-14.0.1.2.4-py3-none-any.whl": [
           "K9gS43KbKcYp+klmSSVADUf9kCmmWdGZrqiG0e80O+M=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.3.0": {
+      "wheels": {
+        "odoo14_addon_account_financial_report-14.0.1.3.0-py3-none-any.whl": [
+          "02Nu2vAsfMs8ufppnOLRserz049+A1A+sZDq0jVwNvE=",
           "py3"
         ]
       }
@@ -132989,6 +133033,18 @@
         "dJBK14M1zxeltEWbV5XIq/4IvK51TTmWyKRdtup/uzc=",
         "th2_grpc_data_provider-0.0.1.dev885394419.tar.gz"
       ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "kN1Agf1Mblz34w9TEGuZMRuCHHi2pBqLdRAwVijpGRA=",
+        "th2_grpc_data_provider-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.2.dev939379570": {
+      "sdist": [
+        "8LNFaJweUQm2nCQKmM661WGweKIpCfg0/apr/1bVHJ0=",
+        "th2_grpc_data_provider-0.0.2.dev939379570.tar.gz"
+      ]
     }
   },
   "thinkify": {
@@ -135998,6 +136054,82 @@
         ],
         "torch-1.8.1-cp39-none-macosx_10_9_x86_64.whl": [
           "Il7kI4wBmyg2nHGXcyfe7rK9HGuFV+b89jG4hmvcVEc=",
+          "cp39"
+        ]
+      }
+    },
+    "1.9.0": {
+      "wheels": {
+        "torch-1.9.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "Oi0HDPKIYNKF1KsVbzlUwMHRL0wDeqMSp8ApInwNEGs=",
+          "cp36"
+        ],
+        "torch-1.9.0-cp36-cp36m-manylinux2014_aarch64.whl": [
+          "spbmXiUIGvFHr5NvHjofF/WDqa+s+lMJdCZ4/+9yis4=",
+          "cp36"
+        ],
+        "torch-1.9.0-cp36-cp36m-win_amd64.whl": [
+          "EXCY1JJLJgokpHxrP+N/KuQfBKLqLv+fVTrpIQsS+lQ=",
+          "cp36"
+        ],
+        "torch-1.9.0-cp36-none-macosx_10_9_x86_64.whl": [
+          "1hA7mmNJk72WczehFJ+diyOSL0KjZgZ2I5OZ4VwbRRU=",
+          "cp36"
+        ],
+        "torch-1.9.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "AWRnOQjmspGs5ZLTguuj4lizutAJuAeMrY87ngDY8j4=",
+          "cp37"
+        ],
+        "torch-1.9.0-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "UlSLRe//dy/jgQ/pHa80+YGsDKGnIn9iJv1Wk/U7W4g=",
+          "cp37"
+        ],
+        "torch-1.9.0-cp37-cp37m-win_amd64.whl": [
+          "YsCn5DNoHQhhSU0e3pbSSF5Nuz6o/YZ+hBmt3r9d4a8=",
+          "cp37"
+        ],
+        "torch-1.9.0-cp37-none-macosx_10_9_x86_64.whl": [
+          "2IMzCR/RYniUu/DW3O9YqQ42vfDZCl1GdbXgfnIHVRE=",
+          "cp37"
+        ],
+        "torch-1.9.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "HYE53Mhk9I3DFjdjhPUOR6RZKErRy4REkkL0lk4lquw=",
+          "cp38"
+        ],
+        "torch-1.9.0-cp38-cp38-manylinux2014_aarch64.whl": [
+          "CqTMo/Fvq0DLja5qSdDszcj06tnRpkKM2boSvv4IKyo=",
+          "cp38"
+        ],
+        "torch-1.9.0-cp38-cp38-win_amd64.whl": [
+          "ZG3hvvhdbHWQ6Y+OpS5HrNz1gzCYLk9dc/XKKN6i1VI=",
+          "cp38"
+        ],
+        "torch-1.9.0-cp38-none-macosx_10_9_x86_64.whl": [
+          "5ZbwEF90jPCdR2MVLYFXqvWNUjEjLq8sVnPUViuoatM=",
+          "cp38"
+        ],
+        "torch-1.9.0-cp38-none-macosx_11_0_arm64.whl": [
+          "7McZP/93Qc7T2x92BmbIRU1mZJViiMVNG0lhO5h6QvQ=",
+          "cp38"
+        ],
+        "torch-1.9.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "le7sOmxC/TWspVJ3e32Zee1Il2BCPel8ARikXoSaYfQ=",
+          "cp39"
+        ],
+        "torch-1.9.0-cp39-cp39-manylinux2014_aarch64.whl": [
+          "iisgErPH1gGeGJSWaI+nfecCmiIIQLQG2DAtHIAhoRw=",
+          "cp39"
+        ],
+        "torch-1.9.0-cp39-cp39-win_amd64.whl": [
+          "fisU/ls6gmbL4vZ0DAGVSXUHl0zte8IemZcVYZE6DCg=",
+          "cp39"
+        ],
+        "torch-1.9.0-cp39-none-macosx_10_9_x86_64.whl": [
+          "Cp50tQV0Y85OVdkzKlZwmT/J4SmcUuF0DlBe2hBvs1U=",
+          "cp39"
+        ],
+        "torch-1.9.0-cp39-none-macosx_11_0_arm64.whl": [
+          "Vp6taua7DmNt8PyK9mDvAyYOYw3F8vTPMZgCfntrtIE=",
           "cp39"
         ]
       }
@@ -139416,6 +139548,42 @@
       "wheels": {
         "upswingutil-0.0.20-py3-none-any.whl": [
           "LOhN6DiGFqJaoHWj4u4wG1Iqi1D+1mega7fK8TpuD5A=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "JyFUtzG8hm+aJ6vRbU7nX+aURZ6cQ+KGWbTl6wZZrMA=",
+        "upswingutil-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "upswingutil-1.0.1-py3-none-any.whl": [
+          "P+Y9hkfzNkGVU7MrxqO5FUZzA6xhIFS7ZwSTmjFTlGA=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "pzuDDpWmwwmV/e/gViekptukxYLv0PuvmsKpr5NNo6M=",
+        "upswingutil-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "upswingutil-1.0.2-py3-none-any.whl": [
+          "Gm2Tj93WZ7cJColq4L2Tr75mNUlATh5JiqeQIK2T0Ko=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "AzSTSLpySn2LXBxJhJIDyE4CAbajRppd5MBzicll8sE=",
+        "upswingutil-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "upswingutil-1.0.3-py3-none-any.whl": [
+          "CrVyJnCVD6cv0S9SxWe50mkx7D0NOw+BbG7DjHb5oeY=",
           "py3"
         ]
       }
@@ -145310,6 +145478,18 @@
       "wheels": {
         "vstutils-5.0.0b21-py3-none-any.whl": [
           "PS4Bq30+kmH1W15L1ki1It0glA2bSvO2iAcUPNL/4Xk=",
+          "py3"
+        ]
+      }
+    },
+    "5.0.0b22": {
+      "sdist": [
+        "GIO/uFxibIDYSjyhzYUKIGO5gus3oSEvg1TmaNa4toE=",
+        "vstutils-5.0.0b22.tar.gz"
+      ],
+      "wheels": {
+        "vstutils-5.0.0b22-py3-none-any.whl": [
+          "3Wmc7DTAlnorGDaBCWeP7LCaS2rRlM1U651ANGxUwrE=",
           "py3"
         ]
       }
