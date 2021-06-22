@@ -12268,6 +12268,18 @@
         ]
       }
     },
+    "0.2.13": {
+      "sdist": [
+        "ikzH/e0PKrAmSpRx2q+KdS7FTwFZx5+/jJ58DVFy9Ys=",
+        "clumper-0.2.13.tar.gz"
+      ],
+      "wheels": {
+        "clumper-0.2.13-py2.py3-none-any.whl": [
+          "HV1r1d4Bk9xoUrFAQgCYkkW0Tg740OoTX4phxZAGQ/Y=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.2.2": {
       "sdist": [
         "Qh9cJJs9URbmT05+8RxrEkqui2cKjzJI/uJTleGNBn8=",
@@ -16622,6 +16634,18 @@
       "wheels": {
         "daml_dit_ddit-0.5.3-py3-none-any.whl": [
           "d3tSZZW6h1jBi8tZbauGAVR9Peg70+Zmfj6M0J2AME8=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "Iu9mW/BXTo90ZCAw7WUo5TDu7JtJMm50fhhE5sgafnE=",
+        "daml-dit-ddit-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "daml_dit_ddit-0.6.0-py3-none-any.whl": [
+          "dODxMxZM+svwkLlCZOBvrUTFq70wcGX8rrd/GYtsWY8=",
           "py3"
         ]
       }
@@ -40490,30 +40514,62 @@
         ]
       }
     },
-    "2.0.1rc1": {
+    "2.0.0": {
       "sdist": [
-        "k6iRqSlhAMnRHkoPmVHs04yaW6IJUi0rREXRag2HqqQ=",
-        "lightseq-2.0.1rc1.tar.gz"
+        "WYTjqX9rEJZo9fqKISRCYx/ySIuiuSFhmF6gY2F5/ko=",
+        "lightseq-2.0.0.tar.gz"
       ],
       "wheels": {
-        "lightseq-2.0.1rc1-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
-          "Q7m2U8y42b7SHbkfc3ngZCDwxMps1clAg09DkAHk7jg=",
+        "lightseq-2.0.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "jHfnri9fsLJDAEjY4u6eCMHZq2Jihag7EszUlE1Xjxs=",
           "cp310"
         ],
-        "lightseq-2.0.1rc1-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
-          "O8+g8XPCB00Kl142/vlBuj/Ott7rRIsUcowrLZD9TJ8=",
+        "lightseq-2.0.0-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "EsTkRUpN1Wr/ycQtkawTwOinsuPqQNAH3gHP2K0bph0=",
           "cp36"
         ],
-        "lightseq-2.0.1rc1-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
-          "fjbOOeOQ0JZK1527GB/GkMnNLrgKtfIGq1pi3aRpGro=",
+        "lightseq-2.0.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "S7lyc7KzEvaF6bEviJeq1psF+k9yQ0PWNvi4GdZjjkU=",
           "cp37"
         ],
-        "lightseq-2.0.1rc1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
-          "gv9KXOJ0LWxdY71P1oV9JfgcdHVjumOKfxxJ2qrokWk=",
+        "lightseq-2.0.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "fDWcjGBV5eg5yjWf6OGz8M16GheIOXpS8UV0jdhwbVA=",
           "cp38"
         ],
-        "lightseq-2.0.1rc1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
-          "7EeXj0yOXks2h8frRwrVjtlb2MSQy3eDWctvcgLHv2o=",
+        "lightseq-2.0.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "lQAuTMHmXYBEQ86XzI81fpwSSCbuLwKwCo9fGf7mtGI=",
+          "cp39"
+        ],
+        "lightseq-2.0.0-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Tb7Y2ovf/1/IG6Eb8PVxwZIQoYWns/+HiNMGhTAUDvs=",
+          "pp37"
+        ]
+      }
+    },
+    "2.0.0rc1": {
+      "sdist": [
+        "tV69H69CTxUJ4xvKKfUYBNDuXLZcJI9cFWzB+6lHYcE=",
+        "lightseq-2.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "lightseq-2.0.0rc1-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "bpcZXJkcLH7FSA5rVOwOfAp74jkDrChFOlKs8Z0+dUY=",
+          "cp310"
+        ],
+        "lightseq-2.0.0rc1-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "aCcCmn4TIiQrsJkzOvFQlxxsdMok3Iwh0fr9uP+KV/s=",
+          "cp36"
+        ],
+        "lightseq-2.0.0rc1-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "bPsPZStP4hpdF1tmnRkbHvP7sMS/cXTS504g/sJi3Do=",
+          "cp37"
+        ],
+        "lightseq-2.0.0rc1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "TReKsagXWgGObRVbz0jrmUQ1et8hUzKLtpfYG07ehyk=",
+          "cp38"
+        ],
+        "lightseq-2.0.0rc1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "X59OSrR46ylS2FHoPX2LTAZFWlRkmvz2qZuLu7ZpFrY=",
           "cp39"
         ]
       }

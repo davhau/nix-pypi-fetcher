@@ -7401,6 +7401,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.1b20210622": {
+      "sdist": [
+        "fXfV3rndxw4XR2de75+lIKFPca8M0ZWeQaHWEini7hA=",
+        "autogluon.mxnet-0.2.1b20210622.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.mxnet-0.2.1b20210622-py3-none-any.whl": [
+          "PybWPFSLNqQnhL+TcpJ4HC+2PXnI+AGukFNIEMdg5vE=",
+          "py3"
+        ]
+      }
     }
   },
   "autokernel": {
@@ -52003,6 +52015,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.0.1.99.dev5": {
+      "wheels": {
+        "odoo12_addon_website_lazy_load_image-12.0.1.0.1.99.dev5-py3-none-any.whl": [
+          "4iI1kf/cKKxvQKZL8RGF1rmoHpI4lt/1SqK/xYqS7IA=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo13-addon-mrp-multi-level": {
@@ -52588,6 +52608,14 @@
       "wheels": {
         "odoo13_addon_storage_file-13.0.1.4.0-py3-none-any.whl": [
           "OnY4r80YWlmAOSshnGkjHqJaqMmbG4BKLtilOJF4Z1Q=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.5.0": {
+      "wheels": {
+        "odoo13_addon_storage_file-13.0.1.5.0-py3-none-any.whl": [
+          "cgQz0c+wuyKZIo/uZDxlOHC51xlOnQmvYmrUbZ3fvE8=",
           "py3"
         ]
       }
@@ -60648,146 +60676,6 @@
     }
   },
   "pl-nightly": {
-    "0.12.3.20210515.1": {
-      "wheels": {
-        "pl_nightly-0.12.3.20210515.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "CuTLf2+2QFZpSeM5C8w/aNHb8pinnEd5vsOQefLy238=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.3.20210515.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "qn0BekknQROdkgvexuaVNKWcayMe8tbF7mbvizSFAkY=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.3.20210515.1-cp36-cp36m-win_amd64.whl": [
-          "HsqVdz0TpN+bEPPYbUZf/8HX+tUfi+IemHUcJxEI4dA=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.3.20210515.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "7oZw6UTi7AqdJMlr6UU/azsnKNChO1D0VxXKvma501o=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.3.20210515.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "C+ii2yZ/u21uYyiZd6tC3AqiRVUMhkVnd5jmHL2UDbM=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.3.20210515.1-cp37-cp37m-win_amd64.whl": [
-          "18nmO1aeVD6Vc85yFUPhdZoBbdQ9A/ld6Nwe6puSFus=",
-          "cp37"
-        ]
-      }
-    },
-    "0.12.3.20210518.1": {
-      "wheels": {
-        "pl_nightly-0.12.3.20210518.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "HXBwUcQtfeK+dOmufalhFFH7hdRhb31CKO3mK0e7WRw=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.3.20210518.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "fi4i0UPzw1wyb45iqcg2uxIt38+JgQ2FqIrf/X4/Ycc=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.3.20210518.1-cp36-cp36m-win_amd64.whl": [
-          "o8A8h2oG2mS1MaegzOO8qr2Vaw1JL1XLlKXqjNuqDsI=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.3.20210518.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "F384mutQ2sJqRp3qB/CfdCJIM2ilXRUjHPj+jPol44w=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.3.20210518.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "xOr2CU5rBWhlbg69+ywxdosnKgiCLPlmAMZClpZgMew=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.3.20210518.1-cp37-cp37m-win_amd64.whl": [
-          "jADmSKEpboeetuY2yNs+oML/7HayOe8/m6TjwAyk3R8=",
-          "cp37"
-        ]
-      }
-    },
-    "0.12.4.20210519.1": {
-      "wheels": {
-        "pl_nightly-0.12.4.20210519.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "mDI9uJYCvsnuYRfdtL11yndk8oLuAACsayGcrd5MguQ=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.4.20210519.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "4fLpg+i7/tGuONAUJJkn6h7lgcZP1xVFTsQ4qB8pdIw=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.4.20210519.1-cp36-cp36m-win_amd64.whl": [
-          "cWOLPTlQv3QU0aPy6LDTa4QPcF1ojmtG4fH4ztRjIXc=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.4.20210519.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "F7z7Mxc4nRa3X3bmhlwYSM/Cvf8mG5b9a57v4n588w8=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.4.20210519.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "gQ/rmSBJp1UFH/Ad0v4g4niB6Gs4v1+9YlwWeU5fhEU=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.4.20210519.1-cp37-cp37m-win_amd64.whl": [
-          "UPMY2DNeJtcy5SVIhwEgj3aDIZlyBUqMhZnE4j1eEvw=",
-          "cp37"
-        ]
-      }
-    },
-    "0.12.4.20210520.1": {
-      "wheels": {
-        "pl_nightly-0.12.4.20210520.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "LX1z8qp1j3aYO2vu47rEPRgeqfYwL0m1ZaPZzdADr8Y=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.4.20210520.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "6qlJS5vE1U+ZqfbbyP8a/mge7IctFDnuwoVNTyRdsZY=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.4.20210520.1-cp36-cp36m-win_amd64.whl": [
-          "mc8/3s6m7lXbw20RTe31aTWCtByeAwTw/oq8InkmHfM=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.4.20210520.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "jS1sZcdvWTjw1QG/gJPsVPkXVUBLh9opGHz+RjnlKlk=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.4.20210520.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "vOiGhOzE3c22M+6mpaeJKbEfBhf/btoLM+heGuyWOko=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.4.20210520.1-cp37-cp37m-win_amd64.whl": [
-          "1gJ8LHC3kMej8MvzbaeIWtgzIZezNtRFTUZvQ8P0p5Y=",
-          "cp37"
-        ]
-      }
-    },
-    "0.12.4.20210521.1": {
-      "wheels": {
-        "pl_nightly-0.12.4.20210521.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "YGp4WfxHb0/qj4JpUw4aKm6wiXh+3XPcZozHt9jam34=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.4.20210521.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "nJ75MbZIg3MMF93Nyboaz/cIq/OgI21r/6qVnTaAUG4=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.4.20210521.1-cp36-cp36m-win_amd64.whl": [
-          "91X/4ZvKUzm2YCaM9O7oWHQ4UakjmbbVok9kYO/npQA=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.4.20210521.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "IzVfXDq8jQmHRygCikulV1rBOczlYsg9789vX3srmqw=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.4.20210521.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "FIoqUU2b7qQijRBgVtJd/fI9YPGuDcr7pVxTIoRh8fY=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.4.20210521.1-cp37-cp37m-win_amd64.whl": [
-          "jxRe9suR/uGdrWxUtn/DEWyl+fjwd4vcs9QArK2/RAk=",
-          "cp37"
-        ]
-      }
-    },
     "0.12.4.20210525.1": {
       "wheels": {
         "pl_nightly-0.12.4.20210525.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
@@ -61172,6 +61060,46 @@
         ],
         "pl_nightly-0.12.9.20210619.1-cp38-cp38-win_amd64.whl": [
           "nabhXkU3hOO6ARD9Gld+uRJRJTmUV+UQ5UZy3eVwusM=",
+          "cp38"
+        ]
+      }
+    },
+    "0.12.9.20210622.2": {
+      "wheels": {
+        "pl_nightly-0.12.9.20210622.2-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "g8tjxIGKYA1SjUadqPRHkHXHwbuogfZRH64e1pFxUMU=",
+          "cp36"
+        ],
+        "pl_nightly-0.12.9.20210622.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "R1A4IX0q6sLwUxetwzBpDLWkdi7fhfpHZNTG21gZk8A=",
+          "cp36"
+        ],
+        "pl_nightly-0.12.9.20210622.2-cp36-cp36m-win_amd64.whl": [
+          "vCc+gVoPM0mv2HPB/uHV3u1qp7zZ9h8VxCxVxoPUF7s=",
+          "cp36"
+        ],
+        "pl_nightly-0.12.9.20210622.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "ibVYZicfbCDPmzQ8SD/Topw1Ofby3eK7OcLIbA+OIdk=",
+          "cp37"
+        ],
+        "pl_nightly-0.12.9.20210622.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "ohjFui13/vY+73osLks3OGzney1LTrlfUmAvvJLTzQM=",
+          "cp37"
+        ],
+        "pl_nightly-0.12.9.20210622.2-cp37-cp37m-win_amd64.whl": [
+          "wST7ngUMrXfc36mMMNJxaG3nsdpKNgy6DDDrouqTP1o=",
+          "cp37"
+        ],
+        "pl_nightly-0.12.9.20210622.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "HVjCZbBKlag4d6h3kXcX3S3UkzrEOmQkxIIHLzCtMt0=",
+          "cp38"
+        ],
+        "pl_nightly-0.12.9.20210622.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "NfpqYpYi/EvFiLvsy+BcX+gkS2aiHuByPh+ojIs02xk=",
+          "cp38"
+        ],
+        "pl_nightly-0.12.9.20210622.2-cp38-cp38-win_amd64.whl": [
+          "uWe5+Sz7rF11ab3pW5mfHAwjebgqaBwJ46i8uMdlIls=",
           "cp38"
         ]
       }
@@ -84483,6 +84411,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.5.1": {
+      "sdist": [
+        "AE08T2RDt6Oq7CtldGPF8FF/9weT6Cq93O7k1DWU4kg=",
+        "tc_mailmanager-1.5.1.tar.gz"
+      ],
+      "wheels": {
+        "tc_mailmanager-1.5.1-py2.py3-none-any.whl": [
+          "sENqnlSLoBKMIjk+250eNptCEYrDCmBgmkRPPE7lfpw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tefla": {
@@ -90568,6 +90508,24 @@
     }
   },
   "vlm-security-dll": {
+    "0.0.2": {
+      "sdist": [
+        "BIGHOncmeBc4oYYGa9g6+dO48GALhcZbxpazUajr1LM=",
+        "vlm_security_dll-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "vlm_security_dll-0.0.2-py3-none-any.whl": [
+          "DNawUbCQ0CCAHRtMok8AoHBPtqRwBLpfV2/rm4SiHRo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "PT7Q9QZfxyAsBLY66iPzeBiFCK5ZJxl73v0YNxBwpUs=",
+        "vlm_security_dll-0.0.3.tar.gz"
+      ]
+    },
     "1.0.0": {
       "sdist": [
         "uALyL9rZe7i288oGDBAofXtCXoLvEgXBUYTSVJxI2jY=",
@@ -90591,6 +90549,12 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "PJoUUakeUuw/ncbihSB2DaH+tyMUyem4Uc1X4lNw2I4=",
+        "vlm_security_dll-1.0.2.tar.gz"
+      ]
     }
   },
   "vocmax": {
