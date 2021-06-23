@@ -2454,6 +2454,18 @@
         ]
       }
     },
+    "2.0.0": {
+      "sdist": [
+        "5AG2L/oqNZvG6ICATJY9GdpzEJZXFHV4WyiQjuU7aRM=",
+        "apache-airflow-providers-apache-livy-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_apache_livy-2.0.0-py3-none-any.whl": [
+          "0Fn6emGmk/C0bwTSGURVYIP45hxCsKAZJWqc7c4ju4k=",
+          "py3"
+        ]
+      }
+    },
     "2.0.0rc1": {
       "sdist": [
         "wkur9LcWfb2m+8bGoGWUOQ4sJZpRgHJtu7PoCPULsB0=",
@@ -7410,6 +7422,18 @@
       "wheels": {
         "autogluon.mxnet-0.2.1b20210622-py3-none-any.whl": [
           "PybWPFSLNqQnhL+TcpJ4HC+2PXnI+AGukFNIEMdg5vE=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1b20210623": {
+      "sdist": [
+        "BKaNdTnN3FxiuRXkuFxF595hwBhvLYZIV6J58BsNdCw=",
+        "autogluon.mxnet-0.2.1b20210623.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.mxnet-0.2.1b20210623-py3-none-any.whl": [
+          "5DOwyWqDAY06naZv9+lj8tS/MSYweXcoMlIzaGubxOg=",
           "py3"
         ]
       }
@@ -30147,6 +30171,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.8.1": {
+      "sdist": [
+        "Odcei37rM8Ddwl6Uwa5kvyk0Cu6kQ/Qyc5LyvjgXX1Q=",
+        "fontMath-0.8.1.zip"
+      ],
+      "wheels": {
+        "fontMath-0.8.1-py2.py3-none-any.whl": [
+          "Et39CqIBTXDCNx7as6vxiOZ1dIQiO5WG4SVFuUvOcaw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "foorti": {
@@ -45539,6 +45575,18 @@
           "py3"
         ]
       }
+    },
+    "0.11.1": {
+      "sdist": [
+        "ZSFfda1aOu+vxdL3aPKYqAdczkWZHBheFgPr2/GBeGs=",
+        "mkdocs_schema_reader-0.11.1.tar.gz"
+      ],
+      "wheels": {
+        "mkdocs_schema_reader-0.11.1-py3-none-any.whl": [
+          "/eE46r+FWmXB1Y0WYUs3dX5euh3nsldT/GGdiPYqkjw=",
+          "py3"
+        ]
+      }
     }
   },
   "mlserving": {
@@ -60700,6 +60748,46 @@
     }
   },
   "pl-nightly": {
+    "0.12.10.20210623.2": {
+      "wheels": {
+        "pl_nightly-0.12.10.20210623.2-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "4bEMW/Q2yxjr7zYE69eHWcSqvb2ge77OB3BOCuAUO/Q=",
+          "cp36"
+        ],
+        "pl_nightly-0.12.10.20210623.2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "UN31JjSZ6HcLj57og3s6cDby6D2v5qSBUeaA2pNGm5I=",
+          "cp36"
+        ],
+        "pl_nightly-0.12.10.20210623.2-cp36-cp36m-win_amd64.whl": [
+          "aUX6tFAc38zSF7ZC7r0Zyipxx/agl58VQoHZi82ui+8=",
+          "cp36"
+        ],
+        "pl_nightly-0.12.10.20210623.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "wJLSf6PxU51bkF8p6hh7Wk26bGNZ5hqNXPcuznU1fE4=",
+          "cp37"
+        ],
+        "pl_nightly-0.12.10.20210623.2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "suDs70Kw813s2ndu8CXKy4Q1QRcKxMARxyW6+sZl5So=",
+          "cp37"
+        ],
+        "pl_nightly-0.12.10.20210623.2-cp37-cp37m-win_amd64.whl": [
+          "eDMaErvo4/wcpsSXoX2FW/NbZIdHgIp5oRrhKosDHiw=",
+          "cp37"
+        ],
+        "pl_nightly-0.12.10.20210623.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "dy/ZnZ3BbNQGUVQgkrP+KHXB+sf/LEllaP8FzCb/LBY=",
+          "cp38"
+        ],
+        "pl_nightly-0.12.10.20210623.2-cp38-cp38-manylinux1_x86_64.whl": [
+          "ZK5bElW7YXYt9huuEEFcCgUn9fFY5kbHqQEUJKlF/xQ=",
+          "cp38"
+        ],
+        "pl_nightly-0.12.10.20210623.2-cp38-cp38-win_amd64.whl": [
+          "367dAo9gu2+uT/zCzUQwErXv6Bn4EGdElRZHk6xilFA=",
+          "cp38"
+        ]
+      }
+    },
     "0.12.4.20210525.1": {
       "wheels": {
         "pl_nightly-0.12.4.20210525.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
@@ -69274,6 +69362,18 @@
       "wheels": {
         "pyefun-1.0.24.20210614.2356-py3-none-any.whl": [
           "K6GZnJKRBBNAzC5Bht4+6jM8MnLlywC9GOJavBb4Ti8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.25.20210623.712": {
+      "sdist": [
+        "4SV4WsudsSx0s/YHoSUCciwtcymfH045FmijtrTs3Wc=",
+        "pyefun-1.0.25.20210623.712.tar.gz"
+      ],
+      "wheels": {
+        "pyefun-1.0.25.20210623.712-py3-none-any.whl": [
+          "wEa+nM2P2emZOQV+cL2gvWxZUnV9G0HEQUJZhBl8In4=",
           "py3"
         ]
       }
