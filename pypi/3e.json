@@ -5462,6 +5462,18 @@
         ]
       }
     },
+    "1.110.0": {
+      "sdist": [
+        "E2K4y7s2UNg4ph0s1gDDH2EOJwhimSqUUCsbFC7kqqA=",
+        "aws-cdk.aws-acmpca-1.110.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_acmpca-1.110.0-py3-none-any.whl": [
+          "KbXQEQWR1wzb8UurUOTTNaXAjXnnzgEKwcfaFfgrwdI=",
+          "py3"
+        ]
+      }
+    },
     "1.23.0": {
       "sdist": [
         "0xs4kSlnnf5zsO7fYZJ5YQT/qG89Sa73eC1TG8lm5bM=",
@@ -6960,6 +6972,18 @@
       "wheels": {
         "aws_cdk.aws_applicationautoscaling-1.11.0-py3-none-any.whl": [
           "7uy4q0HUvH8Gt4UrN1MVRf86sp1uLVNufvuTBX8CY1U=",
+          "py3"
+        ]
+      }
+    },
+    "1.110.0": {
+      "sdist": [
+        "EmRjMRHwlHQaq6Xh1sfDkduhCTKwLY41fj7v+z4GdAU=",
+        "aws-cdk.aws-applicationautoscaling-1.110.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_applicationautoscaling-1.110.0-py3-none-any.whl": [
+          "U1eBnUXHb4JK4BGLu6UGpXcoJ8vjL7WsACr/nqilYks=",
           "py3"
         ]
       }
@@ -8774,6 +8798,18 @@
       "wheels": {
         "aws_cdk.aws_elasticache-1.11.0-py3-none-any.whl": [
           "92nnH0UXvvSD+FMO46OHMRRXN1MtuFrn2Wkja9jgAcw=",
+          "py3"
+        ]
+      }
+    },
+    "1.110.0": {
+      "sdist": [
+        "UY5kHUnOmP9KAQqsR6e5kJOiEcMZP3HdF9rCC/QwcGg=",
+        "aws-cdk.aws-elasticache-1.110.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_elasticache-1.110.0-py3-none-any.whl": [
+          "9GWkE726yP4GIDXzhMIXzgqcMG2+86AR040S5Mux+qA=",
           "py3"
         ]
       }
@@ -20363,6 +20399,80 @@
         "KB8qMxfijxyUIxBayTzqkxBVU0N6ULVqtTsjEQzkJlQ=",
         "csvfilter-0.3.1.tar.gz"
       ]
+    }
+  },
+  "cupy-cuda113": {
+    "10.0.0a2": {
+      "wheels": {
+        "cupy_cuda113-10.0.0a2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "XTC2sCloStd9QNT3Pz35/NGxxTC4k9Yb2W6CDuoPI1c=",
+          "cp36"
+        ],
+        "cupy_cuda113-10.0.0a2-cp36-cp36m-win_amd64.whl": [
+          "B3mJpMWlF8QnSu1oRaFpIvwl+vOZ1E7w+hfdXEysCwc=",
+          "cp36"
+        ],
+        "cupy_cuda113-10.0.0a2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "zKsbraIOQeTwTRpyNvZcYgtBhgPMY/fMvv7OwPVJw88=",
+          "cp37"
+        ],
+        "cupy_cuda113-10.0.0a2-cp37-cp37m-win_amd64.whl": [
+          "1raXeaHMhaWLOp5nty0DzziBsGmQtNaaJWdQkREey/k=",
+          "cp37"
+        ],
+        "cupy_cuda113-10.0.0a2-cp38-cp38-manylinux1_x86_64.whl": [
+          "FsK9dEnQCtQGA0nR2Masj05+o0Gk48yCfsrvpMF4K/A=",
+          "cp38"
+        ],
+        "cupy_cuda113-10.0.0a2-cp38-cp38-win_amd64.whl": [
+          "wRe9BduhkfVaE2ghDVrtKvXKdL/xQsx81JWZDb+LW8g=",
+          "cp38"
+        ],
+        "cupy_cuda113-10.0.0a2-cp39-cp39-manylinux1_x86_64.whl": [
+          "/3gIKSxodcDL/8H1lQCQ004mjcxxOwXLM5LYf5xLpI8=",
+          "cp39"
+        ],
+        "cupy_cuda113-10.0.0a2-cp39-cp39-win_amd64.whl": [
+          "ojAxzoWfbOEXvbLxYjRGdjcix62Mia+OzzdJT1Jb1tg=",
+          "cp39"
+        ]
+      }
+    },
+    "9.2.0": {
+      "wheels": {
+        "cupy_cuda113-9.2.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "40k/u59gUriXkS+OLzNEhNfJPsJiY4/53SoSY1Xt4sI=",
+          "cp36"
+        ],
+        "cupy_cuda113-9.2.0-cp36-cp36m-win_amd64.whl": [
+          "pPxgFB2gZ/4aGovMN7w64i/NwvHuO+UKaGgqYKWBRCE=",
+          "cp36"
+        ],
+        "cupy_cuda113-9.2.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "TMyMg+jVAMDtlWug+odKWnAdZMwJW8dmcJu8BKMtpvI=",
+          "cp37"
+        ],
+        "cupy_cuda113-9.2.0-cp37-cp37m-win_amd64.whl": [
+          "LK2RqfwIUoJskBYkV67Mt+gH88F5sy8S1H+b0Ii9744=",
+          "cp37"
+        ],
+        "cupy_cuda113-9.2.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "3IzATeYCKiWi37EXCs3j/WRNa3UleBbW4bWi8Uw1fG8=",
+          "cp38"
+        ],
+        "cupy_cuda113-9.2.0-cp38-cp38-win_amd64.whl": [
+          "4AoW/GGyzn1XpilMr+FzuvLpuCtnlc45P2s58IVTSbs=",
+          "cp38"
+        ],
+        "cupy_cuda113-9.2.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "VJez6TFG3tH7HrWVjBMjjDch7mu9ylB9fQEMxsiH2Cw=",
+          "cp39"
+        ],
+        "cupy_cuda113-9.2.0-cp39-cp39-win_amd64.whl": [
+          "BiFuPyZrrZ1ug+ua7JMN8oQxHcXh5mIcpp6v83DDWN4=",
+          "cp39"
+        ]
+      }
     }
   },
   "customgui": {
@@ -75766,6 +75876,12 @@
       "sdist": [
         "pDF7yOvbOrF0z90dd8fjSPhAN4cKYx1AG6mb3EE/9Pk=",
         "openmldb-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "5OwDxUbaV+Y3kdHC/k5bFQhVL3AjU3zxaLe2F0ABGC8=",
+        "openmldb-0.1.1.tar.gz"
       ]
     }
   },
