@@ -10813,6 +10813,18 @@
         "NFDla+SotcoSwL6j0o4pawQqZGicCt4DRNsKmtm1RsA=",
         "certbot-bigip-1.1.0.tar.gz"
       ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "DWjeR/5EJPyvUlYZX6OuhyaNqmA1MG6Q2m5ofimxpRM=",
+        "certbot-bigip-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "certbot_bigip-1.1.1-py2.py3-none-any.whl": [
+          "+wwXYWHno51W1tttsxQADE0GPiPNsv2O+eJArjSp8oU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "certbot-dns-corenetworks": {
@@ -45017,6 +45029,30 @@
           "cp35.cp36.cp37.cp38.cp39"
         ]
       }
+    },
+    "1.1.0": {
+      "wheels": {
+        "iknowpy-1.1.0-cp36.cp37.cp38.cp39-cp36m.cp37m.cp38.cp39-macosx_10_9_x86_64.whl": [
+          "zRMe5USrqpODuvuEPB74zmZKEt4n6qwFHMLEZeJzujA=",
+          "cp36.cp37.cp38.cp39"
+        ],
+        "iknowpy-1.1.0-cp36.cp37.cp38.cp39-cp36m.cp37m.cp38.cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "GiJws03T+9tiXnQDUqbxMoB4NL7LYVtFRuHhlL1mOXc=",
+          "cp36.cp37.cp38.cp39"
+        ],
+        "iknowpy-1.1.0-cp36.cp37.cp38.cp39-cp36m.cp37m.cp38.cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7fXLjkhg52C63bslxc1FW4ntjV1D7JbKAZHBCJbZUSA=",
+          "cp36.cp37.cp38.cp39"
+        ],
+        "iknowpy-1.1.0-cp36.cp37.cp38.cp39-cp36m.cp37m.cp38.cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "oTCnHulOem4uTLJWA5Z03vblizeITJnh9ZVUKGJsuEw=",
+          "cp36.cp37.cp38.cp39"
+        ],
+        "iknowpy-1.1.0-cp36.cp37.cp38.cp39-cp36m.cp37m.cp38.cp39-win_amd64.whl": [
+          "foH183c4gzHap4cL5jJ6nkYI64+Laf0LjUIl9WGTw4U=",
+          "cp36.cp37.cp38.cp39"
+        ]
+      }
     }
   },
   "image-formatter": {
@@ -70379,6 +70415,12 @@
         "DHG2GBjPTABj4GEQpGphsfzi8ihH8HMDMRI53rCxmaM=",
         "pycollector-0.2.7.tar.gz"
       ]
+    },
+    "0.2.8": {
+      "sdist": [
+        "AeEfIQau9DozjRp6RJcu40Jg7AzYPJjtG66jrRO6qTs=",
+        "pycollector-0.2.8.tar.gz"
+      ]
     }
   },
   "pyconcz2016wifi": {
@@ -78432,26 +78474,14 @@
     }
   },
   "sansorchi": {
-    "20215281234": {
+    "2.0.0": {
       "sdist": [
-        "sIxWfHuyMdoLcZTSIFCJXxGkfh/RpJewxBM3bb3eqzA=",
-        "Sansorchi-20215281234.tar.gz"
+        "mkFFYpS10NxKqKZMZHHwdSZgPTzohpJ7EDtnUvZqm2w=",
+        "Sansorchi-2.0.0.tar.gz"
       ],
       "wheels": {
-        "Sansorchi-20215281234-py3-none-any.whl": [
-          "IIJa5OnN/yedoKtmNwW9gUld5nUGtRogxbwRdyojNus=",
-          "py3"
-        ]
-      }
-    },
-    "20215281249": {
-      "sdist": [
-        "BM+YV6i4wIafbigeicOrefXNK6WlN/B4NNgESsMnEmk=",
-        "Sansorchi-20215281249.tar.gz"
-      ],
-      "wheels": {
-        "Sansorchi-20215281249-py3-none-any.whl": [
-          "ys8SFRbs2V8SibtCvK+KLzP2jBrSJ0n+ZN8L+VL8DXM=",
+        "Sansorchi-2.0.0-py3-none-any.whl": [
+          "uvalrYLf3daxlmnWOCdwF0jrMXeM75wSal+KV+gVGcQ=",
           "py3"
         ]
       }
@@ -92934,6 +92964,42 @@
         ],
         "tf_nightly_cpu-2.6.0.dev20210624-cp39-cp39-win_amd64.whl": [
           "6XJSwUXvsSZhgE55Ofi5V413BlnoBT/dlMeie7Ul9s0=",
+          "cp39"
+        ]
+      }
+    },
+    "2.6.0.dev20210625": {
+      "wheels": {
+        "tf_nightly_cpu-2.6.0.dev20210625-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "/MuATUqwgwUZHrH0ZUMLV11ZxjaMoGwVjv+3WoXPMvk=",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210625-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "OfoPC4XJQsR7wS/6Pnt9YuNEGdeNHAHvau6Z7HlHQW0=",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210625-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "xeMr9JB+9Kr2b2ctW0h/lyGMCGH+sF3H3DY0g3o4sFY=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210625-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "7oDr1gSbo4LJMZ5NvwtYuT1YH1beWw6yRvLO9A1tlXI=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210625-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "N/Yi08KaiMRDm2545JK1FxItRoUQJAzetpT7oVNrMZw=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210625-cp38-cp38-manylinux2010_x86_64.whl": [
+          "5mDTNgLcVjax0sGGeuiHQjUsIQxyyegXRCRaeH+mIuk=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210625-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "ToYd+K6swJC8l0Swrp+ghtqRXfntEyGDhjZV4hMXZTE=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.6.0.dev20210625-cp39-cp39-manylinux2010_x86_64.whl": [
+          "GWkfPWgxpbUuYTkMGvYxCXHR1Lixgi5KXgfDsU/Y8jc=",
           "cp39"
         ]
       }
