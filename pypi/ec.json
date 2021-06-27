@@ -5544,6 +5544,18 @@
         ]
       }
     },
+    "1.110.0": {
+      "sdist": [
+        "EjD31O5kgdpqTZM476mcdC16pceg8t81OYN2bhCpmbA=",
+        "aws-solutions-constructs.aws-cognito-apigateway-lambda-1.110.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_cognito_apigateway_lambda-1.110.0-py3-none-any.whl": [
+          "pF1puNtprHqOmX3KMzD/f8j391Ma57znbN3ZRRMHbXs=",
+          "py3"
+        ]
+      }
+    },
     "1.46.0": {
       "sdist": [
         "lDYjDEXCWQmE3/lG5ONBKRThB8hLEe2UWK3r5xEA5/w=",
@@ -6418,6 +6430,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_lambda_elasticsearch_kibana-1.109.0-py3-none-any.whl": [
           "m6wuQZAif9G9blfkJ9b3eFoSVzQDkMBbodQL31NWM+0=",
+          "py3"
+        ]
+      }
+    },
+    "1.110.0": {
+      "sdist": [
+        "YauHQHSl6Brc1loUEFtCAjHb9/pK74CmY5sglbCMs3o=",
+        "aws-solutions-constructs.aws-lambda-elasticsearch-kibana-1.110.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_lambda_elasticsearch_kibana-1.110.0-py3-none-any.whl": [
+          "0kHHevCzbIqiMFZtlfJDbteilBbKlUvHDPIgrulHTEU=",
           "py3"
         ]
       }
@@ -35003,6 +35027,30 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "PBFoXeQIVaJV68npFeVdQSAC6K34zOGnIsgNl85LIyc=",
+        "corva-sdk-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "corva_sdk-1.0.2-py3-none-any.whl": [
+          "9AoENto7j18ziD1NIXMV6D84ZFOIVWsr986nLdIk+n4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "66TZns/X0GVMuQrQydtLpcZZr5c9r6wJVEBJBp1XLio=",
+        "corva-sdk-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "corva_sdk-1.0.3-py3-none-any.whl": [
+          "odGfrnG4zw5QXx2vEqvUPuJxtc+VKa7ACKwUgjON6nk=",
+          "py3"
+        ]
+      }
     }
   },
   "cos-python-sdk-v5-logging": {
@@ -37872,58 +37920,6 @@
         ],
         "dearpygui-0.8.0-cp39-cp39-win_amd64.whl": [
           "9BM+2gs6dHVXelfm5jU1c2+rcRybiwiiZpwyyhlCxrs=",
-          "cp39"
-        ]
-      }
-    },
-    "0.8.1": {
-      "wheels": {
-        "dearpygui-0.8.1-cp36-cp36m-macosx_10_6_x86_64.whl": [
-          "jpBBshxC6ekFHyF/YMuFLisY/OpxzUOIFAotexynquM=",
-          "cp36"
-        ],
-        "dearpygui-0.8.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "7VM5akV6vQbUdyI+zY09XC0z8g3iH+Uvbm7Pq/kwPdU=",
-          "cp36"
-        ],
-        "dearpygui-0.8.1-cp36-cp36m-win_amd64.whl": [
-          "jGR3iGoAy66t3DR5C3y/EqKMqbZYhG1DimaZrs2BfHk=",
-          "cp36"
-        ],
-        "dearpygui-0.8.1-cp37-cp37m-macosx_10_6_x86_64.whl": [
-          "/djVvfXF7eYK3SDUOqs2RKQdMIBvBMdwJSYhDW/f1Sk=",
-          "cp37"
-        ],
-        "dearpygui-0.8.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "UpdcYaGZdt33o3UXu9DByVY5rPP4tJino+Z+Cx+KeVI=",
-          "cp37"
-        ],
-        "dearpygui-0.8.1-cp37-cp37m-win_amd64.whl": [
-          "ttMDZmiNV74DsqxeQzbniSzrqzzmJgwZijLUff7LCaw=",
-          "cp37"
-        ],
-        "dearpygui-0.8.1-cp38-cp38-macosx_10_6_x86_64.whl": [
-          "NEIMnH7mMpoIWkVWN4wmnNaBMnU92tc2dB6duiWNjzw=",
-          "cp38"
-        ],
-        "dearpygui-0.8.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "+mKWvC2KSMJOInw/ZhSJgQXNR7g5/k+STbDXr1lyUZ4=",
-          "cp38"
-        ],
-        "dearpygui-0.8.1-cp38-cp38-win_amd64.whl": [
-          "O64FC++NbueEzMbb1ikVDNsRG+uFf15uD283qR1jzJY=",
-          "cp38"
-        ],
-        "dearpygui-0.8.1-cp39-cp39-macosx_10_6_x86_64.whl": [
-          "GcLv1+pIWi4NooTX08FSKMFn80Ht/DN2eoIIUWLvI9U=",
-          "cp39"
-        ],
-        "dearpygui-0.8.1-cp39-cp39-manylinux1_x86_64.whl": [
-          "qHxAwPPYgLiDfiK+/T3twKhiU4a/M1tQWxCHFbExhLQ=",
-          "cp39"
-        ],
-        "dearpygui-0.8.1-cp39-cp39-win_amd64.whl": [
-          "hVle/7Z6XgyfwFyknTNDp1YNP1GgZM6vfxlb+wt9zA4=",
           "cp39"
         ]
       }
