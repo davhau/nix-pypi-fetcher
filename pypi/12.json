@@ -1826,6 +1826,10 @@
     },
     "1.3": {
       "wheels": {
+        "aletheia_dnn-1.3-cp36-none-macosx_10_9_x86_64.whl": [
+          "jDn0uppsJBIlvekNq8lve+9PKPT6YV4biO3w5qtYgRU=",
+          "cp36"
+        ],
         "aletheia_dnn-1.3-cp36-none-manylinux_2_5_x86_64.whl": [
           "oY/jJdT4yT2Mh5Cv4hmcto8D8aTBgp6iEg28PN6F2rY=",
           "cp36"
@@ -1834,6 +1838,10 @@
           "uLo5NgSkOVV27ctKA4udD8mELrmMkFaEldNM9sWlmXs=",
           "cp36"
         ],
+        "aletheia_dnn-1.3-cp37-none-macosx_10_9_x86_64.whl": [
+          "+gI4nrKaMPfTz8RkSWGFT0aiVIIevmTDKPO3hdfHtFI=",
+          "cp37"
+        ],
         "aletheia_dnn-1.3-cp37-none-manylinux1_x86_64.whl": [
           "hPhxpavD68/DBPMqQKATehtb+KPojI1ZVUor2nUFhGM=",
           "cp37"
@@ -1841,6 +1849,10 @@
         "aletheia_dnn-1.3-cp37-none-win_amd64.whl": [
           "IHy98ixKpl3oZGF6TaQ6ekSi7bcEANjDubc5ENoG5xQ=",
           "cp37"
+        ],
+        "aletheia_dnn-1.3-cp38-none-macosx_10_9_x86_64.whl": [
+          "GCdxUMgOQHX0D0PlBqna051iW/TTHmyn+iWwghAJIeo=",
+          "cp38"
         ],
         "aletheia_dnn-1.3-cp38-none-manylinux1_x86_64.whl": [
           "48tbcZ5383wfoGfIaSW5bP6UkA+fOZyBrnu3eKGyvhw=",
@@ -1852,6 +1864,10 @@
         ],
         "aletheia_dnn-1.3-cp39-none-manylinux_2_5_x86_64.whl": [
           "PfDvi/YAmrWXvBMhKT7rWxtfSR+bwSMQ3WVfb4+/5zk=",
+          "cp39"
+        ],
+        "aletheia_dnn-1.3-cp39-none-win_amd64.whl": [
+          "JPXNXDRICiEtqAp4C9eEbqaPsXCG/XYWg2tVLDPCC00=",
           "cp39"
         ]
       }
@@ -6622,6 +6638,18 @@
       "wheels": {
         "aws_cdk.aws_mediaconnect-1.110.0-py3-none-any.whl": [
           "kQFaj3zlIVBidMivbHExvKR66hK8CASAb1RAcv+gK3s=",
+          "py3"
+        ]
+      }
+    },
+    "1.110.1": {
+      "sdist": [
+        "tmY2SIYyKwLm7QK73zMcyUKTNiCf0Bf1xFTMgeziL9E=",
+        "aws-cdk.aws-mediaconnect-1.110.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_mediaconnect-1.110.1-py3-none-any.whl": [
+          "19RjPSJcvw1/+icuaWjD3KB0O2H5al75vqBmJUL0vps=",
           "py3"
         ]
       }
@@ -22285,6 +22313,14 @@
           "py3"
         ]
       }
+    },
+    "0.1.64": {
+      "wheels": {
+        "dve_lumipy_preview-0.1.64-py3-none-any.whl": [
+          "HbIc+WELEUabuCl9vIp+m3vyOoYiPFpVhUObd+0xuI4=",
+          "py3"
+        ]
+      }
     }
   },
   "easy-logging-config": {
@@ -24296,6 +24332,20 @@
       "wheels": {
         "evohome_async-0.3.8-py3-none-any.whl": [
           "pSAwDIKFwifaABpTTvpRQmPFbU8bOkkYmmLZ5TstFfY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "evxpredictor": {
+    "0.1.3": {
+      "sdist": [
+        "gKgbvMrHDmDdloBgNI3fLJy0sq+uw6zbWtHFKQoLZ1s=",
+        "evxpredictor-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "evxpredictor-0.1.3-py3-none-any.whl": [
+          "JAftmdQYSNCYvuHe9zE3GrtkiwVRvD2T7Rs7gFEG0Pw=",
           "py3"
         ]
       }
@@ -28418,6 +28468,18 @@
       "wheels": {
         "graphanime-0.1.0-py3-none-any.whl": [
           "BU97lJlDYUrWop1XhqssqJ08wuwnq96bYQ0aAkNku/k=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "Lh6odkjC2KFgd5q9LWrUBaxkxD0Oh0ivy0F86xl/Ivc=",
+        "graphanime-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "graphanime-0.1.1-py3-none-any.whl": [
+          "rO51JseNQXD+sOrfJpaH4aFTHVFUh1dlEhkWu7bCZhs=",
           "py3"
         ]
       }
@@ -46422,6 +46484,54 @@
         ]
       }
     },
+    "1.17.101.post1": {
+      "sdist": [
+        "OStinZI9+LtmlTFa8GWVY6x6HroqIDLtFJItaxDlBys=",
+        "mypy-boto3-iotfleethub-1.17.101.post1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iotfleethub-1.17.101.post1-py3-none-any.whl": [
+          "TaR6FJoa8G3hMbeLtbZJDXA46ZM4FW4VFrUHrL18ZzA=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.101.post2": {
+      "sdist": [
+        "vDba7R4ZIjF/e+bQaSaRD94oM8Dx8ItnzoHd/GPRpeU=",
+        "mypy-boto3-iotfleethub-1.17.101.post2.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iotfleethub-1.17.101.post2-py3-none-any.whl": [
+          "zW2jY1X7vcC0/h6v53QLW6pe4vNQZ/ZX8IS5nn7pdKo=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.102": {
+      "sdist": [
+        "cmzw/6mNnEjWRYisb7bMRhXjzz1tnWfuuNSHoQG2hFQ=",
+        "mypy-boto3-iotfleethub-1.17.102.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iotfleethub-1.17.102-py3-none-any.whl": [
+          "ddIM59arwdG7anE8ow55hdGgMu49vsywy5XUApSNwxc=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.102.post1": {
+      "sdist": [
+        "SIHX+7jCOEcwTw2JQhPrre26SxwTZ2HJCTnXCn/nD6s=",
+        "mypy-boto3-iotfleethub-1.17.102.post1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iotfleethub-1.17.102.post1-py3-none-any.whl": [
+          "2/bB58e4rzmcBlacMvpTnu0A5JbdpUtXXEiImNH72RE=",
+          "py3"
+        ]
+      }
+    },
     "1.17.11.0": {
       "sdist": [
         "EqPHr5iff0MXEhb3i05n1KpjP2OK5NG2jWNxyJOHVmM=",
@@ -58251,6 +58361,12 @@
         "PcC09UkGfX7Oj55wRYHSQbsUE24SysvWl5BQrqOFQcM=",
         "polygon-etl-0.1.3.tar.gz"
       ]
+    },
+    "0.1.4": {
+      "sdist": [
+        "7U9INs2OSesj70Zit0BXoqZPoO2Jrj8ox6W/Kkvtgvc=",
+        "polygon-etl-0.1.4.tar.gz"
+      ]
     }
   },
   "ponstrans": {
@@ -69416,6 +69532,12 @@
       "sdist": [
         "m1buvbYB+IF/rW+orGmIEmhbS+ZSs/ytItYDAaPjDW8=",
         "roman_datamodels-0.1.2.tar.gz"
+      ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "P2LBAwJCaq9K42wwSzUc7plfQLq7bIGbWdh47jKrDOw=",
+        "roman_datamodels-0.2.0.tar.gz"
       ]
     }
   },
