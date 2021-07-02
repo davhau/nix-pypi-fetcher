@@ -3666,6 +3666,18 @@
         ]
       }
     },
+    "1.111.0": {
+      "sdist": [
+        "olnOD3V2+FT9W0sCyPeA0Pu9DyAWLfEFnk9XXLlBApk=",
+        "aws-cdk.aws-dms-1.111.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dms-1.111.0-py3-none-any.whl": [
+          "3TD5+XS3V05kkCXLWZNQeUBxiw7YrWOc77+kX8klsuo=",
+          "py3"
+        ]
+      }
+    },
     "1.12.0": {
       "sdist": [
         "R+gD9WMD18X0ziKpEbPlfpQvaOsWsie2PHFQip4nBC0=",
@@ -12074,6 +12086,18 @@
       "wheels": {
         "cdk_lambda_extensions-0.1.148-py3-none-any.whl": [
           "l+xy/LKTPTqIBU10P6qzGkU2P7nav6L0iJM8JkdCivI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.149": {
+      "sdist": [
+        "aGKFdAoycWvVyEn8oDmeVCeoaDK1e9hRfqCOXoBNJQU=",
+        "cdk-lambda-extensions-0.1.149.tar.gz"
+      ],
+      "wheels": {
+        "cdk_lambda_extensions-0.1.149-py3-none-any.whl": [
+          "7hluXNmY3KKCs9OpMDcNd5xawZXJMa41OCGJXG2Sazk=",
           "py3"
         ]
       }
@@ -36053,6 +36077,20 @@
       ]
     }
   },
+  "libestudosdnl": {
+    "0.1": {
+      "sdist": [
+        "b7iWYq2Q9zbZb+vomeQf89C0dqEkl627TJ0dHxU06fI=",
+        "libestudosdnl-0.1.tar.gz"
+      ]
+    },
+    "0.2": {
+      "sdist": [
+        "XHM7mIoM063A5AKlQ7K1AgLG5JEc93f889NIclAyB+E=",
+        "libestudosdnl-0.2.tar.gz"
+      ]
+    }
+  },
   "libindic-soundex": {
     "1.0.0": {
       "sdist": [
@@ -41628,6 +41666,14 @@
       "wheels": {
         "metdig-0.1.3.3-py3-none-any.whl": [
           "EmEXGCL6D2cb2Su0hexJ8dIYmkySK3k310SUcFd/FPM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3.4": {
+      "wheels": {
+        "metdig-0.1.3.4-py3-none-any.whl": [
+          "k+zSzEpfn4y3chVcIkRlYZnbthYm8ecVuKADU2FgnG0=",
           "py3"
         ]
       }
@@ -48134,6 +48180,18 @@
       "wheels": {
         "mypy_boto3_comprehend-1.17.103.post1-py3-none-any.whl": [
           "AiceyROs9lYT7HcStDF8laOQWcybFFdUGcQmLAMgHfQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.104": {
+      "sdist": [
+        "eH4IXWWQ0FfDlSFcW0OYFvrqz1BclxslLGt0zFfAEio=",
+        "mypy-boto3-comprehend-1.17.104.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_comprehend-1.17.104-py3-none-any.whl": [
+          "nC7vUx5K0l69ht86MnwCmvLsGrOR8b0MpIE0960zS2M=",
           "py3"
         ]
       }
@@ -89934,6 +89992,46 @@
         ],
         "tcod-12.7.1-pp37-pypy37_pp73-win_amd64.whl": [
           "zQKo/oNWy4bsyxSViB49FOsobfpqpquVjRuJzSxF1d8=",
+          "pp37"
+        ]
+      }
+    },
+    "12.7.2": {
+      "sdist": [
+        "9ERkGvLcrwtaX5cHrDnHF7bPp96TeEL9zQu3B9eOCM4=",
+        "tcod-12.7.2.tar.gz"
+      ],
+      "wheels": {
+        "tcod-12.7.2-cp36-abi3-macosx_10_9_universal2.whl": [
+          "eVt+7yjXmgVBYGa7JFUi7TmHemE9AlaFW0MLUs8s1VE=",
+          "cp36"
+        ],
+        "tcod-12.7.2-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "DHbaFJw3ntHJcc3Xl3QfcIPtIFZya53AwRVd0KAPhUM=",
+          "cp36"
+        ],
+        "tcod-12.7.2-cp36-abi3-macosx_11_0_arm64.whl": [
+          "mhF86Soijr8UrR7H7t19abV+pHbYhY3arxVxLWrEpEQ=",
+          "cp36"
+        ],
+        "tcod-12.7.2-cp36-abi3-win32.whl": [
+          "G+DyS0PTveVX1Smy4g3CgQ22LPS4uw5Zqv4Ju6ip7nM=",
+          "cp36"
+        ],
+        "tcod-12.7.2-cp36-abi3-win_amd64.whl": [
+          "LrpsujEjzzz2rjmCfE6tyQ4hLEq57cRawMW20T8pikI=",
+          "cp36"
+        ],
+        "tcod-12.7.2-pp36-pypy36_pp73-win32.whl": [
+          "lFtJpSaxuXg92QqK8IURYzG+Dj2szZ+s/ZUhUypnsAk=",
+          "pp36"
+        ],
+        "tcod-12.7.2-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "aaHGJCf843gVFwGd2TSebH4sIh9DIlYPVp8H/iu1JWA=",
+          "pp37"
+        ],
+        "tcod-12.7.2-pp37-pypy37_pp73-win_amd64.whl": [
+          "nBgHopxhFTAH5L1fP8DmdbOl14/2+wktO6J8RCQpg1E=",
           "pp37"
         ]
       }
