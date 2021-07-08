@@ -12581,6 +12581,12 @@
         "C6ylRT1ID1D7J34NKT4h7/OCwmQWX1xpMvusClzEa/Y=",
         "cloudify-5.2.3.tar.gz"
       ]
+    },
+    "5.2.4": {
+      "sdist": [
+        "WWKxx3RmkkueCFYFue9SdHVr+vYjH1uv0T3B+iIU5Ac=",
+        "cloudify-5.2.4.tar.gz"
+      ]
     }
   },
   "cloudselect": {
@@ -17642,6 +17648,18 @@
         ]
       }
     },
+    "0.43.5": {
+      "sdist": [
+        "VAXdBL1QsrlLzRdcQ2P1IaJYgfdDWI9zPSgISS0roeQ=",
+        "dbnd-airflow-operator-0.43.5.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow_operator-0.43.5-py2.py3-none-any.whl": [
+          "xGEbB0RIm0IREEKjYFyrk6qWoL266XoZyoGpt7y5ZSo=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.44.0": {
       "sdist": [
         "2sw27hrqDY5M0kdpzL2Ed8Ip659KoXPbjBvnjrywJhY=",
@@ -19692,6 +19710,18 @@
       "wheels": {
         "dbnd_gcp-0.43.4-py2.py3-none-any.whl": [
           "fvdsDCoe1o5UcswYCzmPQ69zxPhG1GK+ME8Q7lmzLnQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.43.5": {
+      "sdist": [
+        "3S+MNVqgn5k2pRJTe9WIlS4Huh/4vKGJyedD+r1LprY=",
+        "dbnd-gcp-0.43.5.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_gcp-0.43.5-py2.py3-none-any.whl": [
+          "OkIteFgog6YwBAsJMsOQJc4Wrv8cU7rzKknd6T7V3Uw=",
           "py2.py3"
         ]
       }
@@ -27514,14 +27544,26 @@
     }
   },
   "ftap-autom": {
-    "0.2": {
+    "0.2.1": {
       "sdist": [
-        "OeyQfQpm/kM1qds0HgL4Y9CKveg/F9CaFKM6QB8fvi4=",
-        "ftap_autom-0.2.tar.gz"
+        "tRfPNRt9SBQSsXXwexUgH+PPjtXI80948KSGd9cczp8=",
+        "ftap_autom-0.2.1.tar.gz"
       ],
       "wheels": {
-        "ftap_autom-0.2-py3-none-any.whl": [
-          "OUB95FNZQqvM85XfFbNK+tsZB8vEYg3c997rvATqxIQ=",
+        "ftap_autom-0.2.1-py3-none-any.whl": [
+          "iXrDTH80vKbpGQY+wtV3xEr/kHDQ6JnIAbEpdCVgsV8=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1.210708": {
+      "sdist": [
+        "oLyUyHhTv3jAbnU5DuisqEjuuljnf+vnTafs0a9xyRo=",
+        "ftap_autom-0.2.1.210708.tar.gz"
+      ],
+      "wheels": {
+        "ftap_autom-0.2.1.210708-py3-none-any.whl": [
+          "NmRFBGMi22FH16J7EqkuLsVdY8YPFlf65Q5N6NdTwg8=",
           "py3"
         ]
       }
