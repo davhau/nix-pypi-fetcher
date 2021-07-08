@@ -19606,6 +19606,12 @@
         "bokeh-2.3.2rc1.tar.gz"
       ]
     },
+    "2.3.3": {
+      "sdist": [
+        "pf3MGBg1VhRH/MWjcTAJc/zkEUaS1YU63ewoTRzetnc=",
+        "bokeh-2.3.3.tar.gz"
+      ]
+    },
     "2.3.3rc1": {
       "sdist": [
         "g86Ydn8GQ9ijJeiISWeTXTNhbBfFYkrtHBwwe0VulCg=",
@@ -27952,6 +27958,12 @@
       "sdist": [
         "AxGsu7g3pHEL09pbAhanbepY8FA1KVvMtf0lIo5lu4A=",
         "csip-1.1.11.tar.gz"
+      ]
+    },
+    "1.1.12": {
+      "sdist": [
+        "APOR9nEBZ/RzTlUOcbc2Mco8cX/UaUiNKNNM7vQuTjg=",
+        "csip-1.1.12.tar.gz"
       ]
     },
     "1.1.2": {
@@ -42319,6 +42331,18 @@
           "py3"
         ]
       }
+    },
+    "0.20.1": {
+      "sdist": [
+        "Q3PPHRIgBFefoGoJgbbkwtWxlarpZQwvVf7KmKYXVm0=",
+        "flytekitplugins-athena-0.20.1.tar.gz"
+      ],
+      "wheels": {
+        "flytekitplugins_athena-0.20.1-py3-none-any.whl": [
+          "kEiCVPosle95/FRzw2jnIhY4ADXPyopdh3LzdocJ/3g=",
+          "py3"
+        ]
+      }
     }
   },
   "forgebox": {
@@ -51080,18 +51104,6 @@
       "wheels": {
         "ignnition-1.2.0-py3-none-any.whl": [
           "9MWg9aqPSleNZp2ILAM/2XIQhKgwfqaET6P8Zpyyk7c=",
-          "py3"
-        ]
-      }
-    },
-    "1.2.1": {
-      "sdist": [
-        "tNGIlmdMC+PRP2kqdVylXGGSULrMatoD5fw66v+v0pI=",
-        "ignnition-1.2.1.tar.gz"
-      ],
-      "wheels": {
-        "ignnition-1.2.1-py3-none-any.whl": [
-          "sX9h064VTJeBjWpRXy9MMbQymbhK/Y98bfGJk3JAfYs=",
           "py3"
         ]
       }
@@ -75980,6 +75992,74 @@
         ],
         "onnxruntime-1.8.0-cp39-cp39-win_amd64.whl": [
           "E1exWeNAwKy/L5XIQtR39wx9Ps7+V12Y7DMne29F3VY=",
+          "cp39"
+        ]
+      }
+    },
+    "1.8.1": {
+      "wheels": {
+        "onnxruntime-1.8.1-cp36-cp36m-macosx_10_12_x86_64.whl": [
+          "LY64nU1iupVvWzOSsKAuUN+jum4lVWHBbj/RDVorDeU=",
+          "cp36"
+        ],
+        "onnxruntime-1.8.1-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "qnNGr2Pq3poEG3k2OyvgSmDkpdT+grzk3isc3D9jzPQ=",
+          "cp36"
+        ],
+        "onnxruntime-1.8.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IgGxLHNsfBzmgyif8BKnaNxuoO64HJJ2/eMchtauvfY=",
+          "cp36"
+        ],
+        "onnxruntime-1.8.1-cp36-cp36m-win_amd64.whl": [
+          "V5o49avuPoloTuIjcB1iQJviB0J2c1bZguks8tcLvw8=",
+          "cp36"
+        ],
+        "onnxruntime-1.8.1-cp37-cp37m-macosx_10_12_x86_64.whl": [
+          "QX0JR105KLIkIl5L0aaqjOBh3nRYzNorht/hJQjzRIA=",
+          "cp37"
+        ],
+        "onnxruntime-1.8.1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "c5XYbBwYxeGR9tfP557MWQ/o7TD0sBpl4dpsbPMwDkI=",
+          "cp37"
+        ],
+        "onnxruntime-1.8.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wUApmw+U9KPN+HIwiyGUFiK5c4aPSRo35/MUj5bWmDQ=",
+          "cp37"
+        ],
+        "onnxruntime-1.8.1-cp37-cp37m-win_amd64.whl": [
+          "HCz31f6J5082NZbZC5UsNnZTdj8WZVqLUGDH3qg4aLk=",
+          "cp37"
+        ],
+        "onnxruntime-1.8.1-cp38-cp38-macosx_10_12_x86_64.whl": [
+          "LfKZn9wPH1vMhzZbk/2VGtvNthXTErHraao/+usNZsM=",
+          "cp38"
+        ],
+        "onnxruntime-1.8.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "kjchOFoz1oHSCHigkK6enmU8QOqldmWkqH3bzbvYXgs=",
+          "cp38"
+        ],
+        "onnxruntime-1.8.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aV6bretTi66H4l7hfDMMUKMhFOvm6um/LaA9Zr2kmIg=",
+          "cp38"
+        ],
+        "onnxruntime-1.8.1-cp38-cp38-win_amd64.whl": [
+          "j9kgDDJwQjWf9zNznKTQ4kkdUvVAsxo/op4oBQOroR0=",
+          "cp38"
+        ],
+        "onnxruntime-1.8.1-cp39-cp39-macosx_10_12_x86_64.whl": [
+          "ifpuOSY3yUwX5pN3IpTtmv4kA4MveMXvoczXn0Y8VkY=",
+          "cp39"
+        ],
+        "onnxruntime-1.8.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "p6mOggtqLZojkI760ozksMcYHolyc+cNqiK2EQAZvXs=",
+          "cp39"
+        ],
+        "onnxruntime-1.8.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "r/2m6SxN46PXs1yNo13t+Pxhixdjj3GbtTmKzLXQu1c=",
+          "cp39"
+        ],
+        "onnxruntime-1.8.1-cp39-cp39-win_amd64.whl": [
+          "ysjjX5U/+YmPC1/coLdvSSrlCOmeLusC6nAzniW5ZxU=",
           "cp39"
         ]
       }
