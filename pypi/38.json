@@ -12140,18 +12140,6 @@
     }
   },
   "behavex": {
-    "1.4.1": {
-      "sdist": [
-        "XO066i6mKvB8X6QrQS1jjD4FrajISv0WcPfQDAXWgqk=",
-        "behavex-1.4.1.tar.gz"
-      ]
-    },
-    "1.4.2": {
-      "sdist": [
-        "chCYhcbTXJnsejfeVjESZC05X7pBHweIxAwoQRKDy70=",
-        "behavex-1.4.2.tar.gz"
-      ]
-    },
     "1.5.0": {
       "sdist": [
         "MeBxo5CIVwoELm9idKZRRWDzJ0kw+3JE++koEedZHLs=",
@@ -73882,6 +73870,18 @@
         ]
       }
     },
+    "1.17.112": {
+      "sdist": [
+        "PoikB2dcQ8glP5u4hNz9h6H6j9r8Z1XHIgmXERv+kAk=",
+        "mypy-boto3-sagemaker-runtime-1.17.112.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_sagemaker_runtime-1.17.112-py3-none-any.whl": [
+          "wCdP5ITlcvttTOOPC0pxaRhzNtDpM+BEDGaZuTTtzmM=",
+          "py3"
+        ]
+      }
+    },
     "1.17.12.0": {
       "sdist": [
         "2vq6cPEVcpqoDpQT8gLR0AA/yMtdLrLAC6OuZuRez8k=",
@@ -78608,6 +78608,18 @@
       "wheels": {
         "mypy_boto3_waf-1.17.111-py3-none-any.whl": [
           "0s70EiQdxem7M5qT6bihhcNAxEBjjBDUDKoD4WFg5ZI=",
+          "py3"
+        ]
+      }
+    },
+    "1.17.112": {
+      "sdist": [
+        "buYFr/ZROQPEvU23HDtYHpTpT58gVJTUMSxMHkKlybs=",
+        "mypy-boto3-waf-1.17.112.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_waf-1.17.112-py3-none-any.whl": [
+          "ZU0XybSkEPPy439k76M/lt2bIJ2l8tWyMHzSYf4x6DI=",
           "py3"
         ]
       }
@@ -99916,12 +99928,28 @@
           "dBKjZ5iWZiTcTFfWSqQ8LREAs0ir2Y2qrI6Z5X2H4dc=",
           "cp27"
         ],
+        "pymongo-3.12.0-cp27-cp27m-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "6KguNdUq1vhn6ICWoaK5vcfsTV5lx7SXaiSL8tGjKpM=",
+          "cp27"
+        ],
+        "pymongo-3.12.0-cp27-cp27m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "3NPQAJ+7bkVNcp+LItAGO9kXHDGlXg8CcRGb1PJwACM=",
+          "cp27"
+        ],
         "pymongo-3.12.0-cp27-cp27mu-manylinux1_i686.whl": [
           "MWwbhyOvqYcFZ81t/zXUQLKv7aU6oT2mxauF+Y7W9co=",
           "cp27"
         ],
         "pymongo-3.12.0-cp27-cp27mu-manylinux1_x86_64.whl": [
           "JVo1vykYX0S0EuMakn2dzt2nwsOAEn7MT78vYbcvqXg=",
+          "cp27"
+        ],
+        "pymongo-3.12.0-cp27-cp27mu-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "/7rkKbqeQtBYLTrGP9tBAziJJGiiEH2P9oIo7Jo5oO0=",
+          "cp27"
+        ],
+        "pymongo-3.12.0-cp27-cp27mu-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "wYjbbPnhTbu0L1JUKSvpbwU3SjXn36CHzCFA8P9PEPY=",
           "cp27"
         ],
         "pymongo-3.12.0-cp27-cp27m-win32.whl": [
@@ -99984,6 +100012,14 @@
           "cHYf08V2sCfuyIK0PuCo5bIv+cIM300EAOEEvCnlPjQ=",
           "cp35"
         ],
+        "pymongo-3.12.0-cp35-cp35m-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "Mzv613qpzRFxH+v7de7Qu1N6HQIuHCUnFNrTiZNZAkA=",
+          "cp35"
+        ],
+        "pymongo-3.12.0-cp35-cp35m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "+olX6aGyAstF5rg5wkHNmGyJe+HnIrgdLzLpxq7ugLA=",
+          "cp35"
+        ],
         "pymongo-3.12.0-cp35-cp35m-win32.whl": [
           "S6De9KvvBYwOUQHgXj1SZub/+5eVu/i+D+kSpzYaAgk=",
           "cp35"
@@ -100022,6 +100058,34 @@
         ],
         "pymongo-3.12.0-cp36-cp36m-manylinux2014_x86_64.whl": [
           "s7Wzy8P99Pz6KSUp3yqFtdnHBTkTpznTBprx4S4SIZ8=",
+          "cp36"
+        ],
+        "pymongo-3.12.0-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "/ThUFIAFyAjEhcdUoYTHERY3ImNwmVi0Ku++8uXdNzo=",
+          "cp36"
+        ],
+        "pymongo-3.12.0-cp36-cp36m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "9Vwd3MH2BQsH1GjOWU9V2/YQe0WeFvc10mgY174elTg=",
+          "cp36"
+        ],
+        "pymongo-3.12.0-cp36-cp36m-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "ztlE3N1WFHbe73y3v9SYfGn/+/7/bQLKTV1P1ZLVWbc=",
+          "cp36"
+        ],
+        "pymongo-3.12.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eOy41C9Q05OvkSv7H7Hcyaq+mWeXPvtJ7ld+jxzqSUw=",
+          "cp36"
+        ],
+        "pymongo-3.12.0-cp36-cp36m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "GXDP4q7Bv3S0DPMMEwrRDNlolBaUYwOG2zPh0ETCKi4=",
+          "cp36"
+        ],
+        "pymongo-3.12.0-cp36-cp36m-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "uL9C07MvWG9MnjdUF2mZN4OlNK01UxzopDefb6Zk+6k=",
+          "cp36"
+        ],
+        "pymongo-3.12.0-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "vJrIHnNXNRYHDSTOFdqRKBkigR84VkXfMr08ikWrRoQ=",
           "cp36"
         ],
         "pymongo-3.12.0-cp36-cp36m-win32.whl": [
@@ -100064,6 +100128,34 @@
           "+Ux9Ivs2sYRzTd7XNFoE7F+VEwQhx3W4sMZQRO8HPzQ=",
           "cp37"
         ],
+        "pymongo-3.12.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7FynwAB84mgEi74P/GhG7RYWzz2GKLE26B1eZP8/UqI=",
+          "cp37"
+        ],
+        "pymongo-3.12.0-cp37-cp37m-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "fHLQis31c0VbK50rdbgjdlSEHWOki8IyfcECxu6Jt1o=",
+          "cp37"
+        ],
+        "pymongo-3.12.0-cp37-cp37m-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "tuoIdYtmc2ELPFvfRxiShs+cWLEHdVhwai9vh0SSJSc=",
+          "cp37"
+        ],
+        "pymongo-3.12.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RtXskCdvca86KZF7MPKuwjFaJ1m1+NRbO2OgfKigcKM=",
+          "cp37"
+        ],
+        "pymongo-3.12.0-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Ylvvo7ybQHRqdJEVzGoVvyC5vXWXylXWRiBbR5osmcc=",
+          "cp37"
+        ],
+        "pymongo-3.12.0-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "0RMVYt3C6opEb2bCZI19q+wrOBb8gYUo65eKdabSOy4=",
+          "cp37"
+        ],
+        "pymongo-3.12.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "7uQqHMBlZfayHKofUE7BXgfefr/VIKtX+MszCLwRjiI=",
+          "cp37"
+        ],
         "pymongo-3.12.0-cp37-cp37m-win32.whl": [
           "lNOOuk0bXrPmv+zgZRuFWjXETzL9kfUSq0ukG4wNPmY=",
           "cp37"
@@ -100104,6 +100196,34 @@
           "GCkGSXWfnbZglyRCqmBvhFw2jbmwjExzdw9toUETVps=",
           "cp38"
         ],
+        "pymongo-3.12.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ZXrYDejsntZW8ohE78gBoIApYejGqFA42X/29VXvSRk=",
+          "cp38"
+        ],
+        "pymongo-3.12.0-cp38-cp38-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "t3K6sxy9nLkR5B4aYR68lJf5oypzSOJ0fDghD3XAD0E=",
+          "cp38"
+        ],
+        "pymongo-3.12.0-cp38-cp38-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "I5moW1T2gAjkg7KHH0pFi0yYBGnH/pIVle3gc+SETx4=",
+          "cp38"
+        ],
+        "pymongo-3.12.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bmZ4DxTC76+YnNOsYTsD7mqOOgunuWwLsUrcpxpCflU=",
+          "cp38"
+        ],
+        "pymongo-3.12.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "AtwLD0jtPNBsE7fjGwZr+R4A2sX4FHsKCkX5AJv6uFc=",
+          "cp38"
+        ],
+        "pymongo-3.12.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "BwpO9onJQ4qZnsODDmmyCP8NEiUYRuBk2Uf5fYGdHQU=",
+          "cp38"
+        ],
+        "pymongo-3.12.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "25NgiiRtpE1yiEK4+p5FqpeC23aVX2NKcHc5qNU/9UQ=",
+          "cp38"
+        ],
         "pymongo-3.12.0-cp38-cp38-win32.whl": [
           "WvOQ+p+vVskyUtqwnqV80CDJEjqpIbY6DtUYMv20kuc=",
           "cp38"
@@ -100142,6 +100262,34 @@
         ],
         "pymongo-3.12.0-cp39-cp39-manylinux2014_x86_64.whl": [
           "56MzIuCAIcN+icro/wYydQPooXGel8afMsMcv2ww1yw=",
+          "cp39"
+        ],
+        "pymongo-3.12.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "3R9J+UmmWMTo+B7XP5qtJfzH1PYvdn9ZHnSeMAOMTh0=",
+          "cp39"
+        ],
+        "pymongo-3.12.0-cp39-cp39-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "ptBV8BuDsaTfi7DGGYPTvf+pE3ZEiJEK82IOXCRQv4M=",
+          "cp39"
+        ],
+        "pymongo-3.12.0-cp39-cp39-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "3W/yGS80vWIog8dFpW9JKxyczUThSVPoBRwzAkopR9U=",
+          "cp39"
+        ],
+        "pymongo-3.12.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GdS9D8KapAW7F4FFbJz/+fzqu2hUN0HrFyNJUtvCu7A=",
+          "cp39"
+        ],
+        "pymongo-3.12.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "JPiu7E1riUphKIROUP9CPdAkYu6Drd9QPFmO46gN3z0=",
+          "cp39"
+        ],
+        "pymongo-3.12.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "C2BV4O9FH/c8k9A0jRIqB1Dd3zI7k2HeWDXawvbPf8E=",
+          "cp39"
+        ],
+        "pymongo-3.12.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "YmG+58WrrerHSX+PHEPlIdp43ROwokOfUmp7D8N4iCQ=",
           "cp39"
         ],
         "pymongo-3.12.0-cp39-cp39-win32.whl": [
@@ -122660,6 +122808,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mongodb-3.0.442-py2.py3-none-any.whl": [
           "Qfu/FocCETTJ+LqZTotuOqnLAILNGbF2OyjbV1hhwWs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.443": {
+      "sdist": [
+        "NGYdcns0B+uHwa2UvHhW0ZEVyKKO2STXgCJkNgaCZIE=",
+        "tencentcloud-sdk-python-mongodb-3.0.443.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mongodb-3.0.443-py2.py3-none-any.whl": [
+          "F6sEIwW6raGploPKEkBYQ67tSr5X0BOqOzKAqGbx2ho=",
           "py2.py3"
         ]
       }
