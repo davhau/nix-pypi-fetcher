@@ -17254,6 +17254,12 @@
         "cngrid-0.0.20.tar.gz"
       ]
     },
+    "0.0.21": {
+      "sdist": [
+        "9GXusWo00RYheVVjYxMTUvvolCDx3rAZNuxdz/8y+5M=",
+        "cngrid-0.0.21.tar.gz"
+      ]
+    },
     "0.0.3": {
       "sdist": [
         "4sP1IgjNAZMY1cwcx4YAhzcOObKPwdTOb45kEV6iY0c=",
@@ -58805,6 +58811,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.20210720.0": {
+      "wheels": {
+        "odoo14_addons_oca_pos-14.0.20210720.0-py3-none-any.whl": [
+          "Wg3F5962yG/6aNJpHtOCh7io2mSnpj7z8kFA7AcoGX4=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo8-addon-account-payment-order-sequence": {
@@ -71549,21 +71563,121 @@
       }
     },
     "2.2.1": {
+      "sdist": [
+        "RMN32bFpt8WpjOWe5HziKP0nH7oISEgW1FY+clfg9js=",
+        "PyGLM-2.2.1.tar.gz"
+      ],
       "wheels": {
         "PyGLM-2.2.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "CekDWnYm/PzRuLHA6F7vppiV+YWjI7CQf25eALidkaI=",
+          "cp36"
+        ],
+        "PyGLM-2.2.1-cp36-cp36m-manylinux_2_17_i686.manylinux2014_i686.manylinux_2_24_i686.whl": [
+          "YslcIOKC9dIfBVwyfxQLOQv2APSTeeGaNZk3VYqM9cM=",
+          "cp36"
+        ],
+        "PyGLM-2.2.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "HdP51WUFylOIyR9R4yqeE6o3Akm0KORtS7+HQjcKSgk=",
+          "cp36"
+        ],
+        "PyGLM-2.2.1-cp36-cp36m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "D6xQHdkfclyU9FsEEwEKqQrfZnQ1QtBH383tO5exUvs=",
+          "cp36"
+        ],
+        "PyGLM-2.2.1-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Ww7FS7pnYkTV1PXZb4j0KFgO0kBT4mJB50naRpDah2o=",
+          "cp36"
+        ],
+        "PyGLM-2.2.1-cp36-cp36m-win32.whl": [
+          "zJHZAqUxLoEub/wzI7ZCifijWWdm1ToFBgGHpFsOoWw=",
+          "cp36"
+        ],
+        "PyGLM-2.2.1-cp36-cp36m-win_amd64.whl": [
+          "GLOjBNexR5JbDo+i2rShZOQfj1OCvLK3NkzBJ6Btv94=",
           "cp36"
         ],
         "PyGLM-2.2.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
           "A0mlESraUtUKUxjRKSpS4mJOoH4J/4V6/ScWK1OmiLI=",
           "cp37"
         ],
+        "PyGLM-2.2.1-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.manylinux_2_24_i686.whl": [
+          "rBa3/LyInFYoV8Y1GBb7Baos+dAtLbgiQEtnjaCR7e4=",
+          "cp37"
+        ],
+        "PyGLM-2.2.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "GfwvgSjLooaHaQ6ykm92J7fWJ8ZEgMva6dhXt9iEoRw=",
+          "cp37"
+        ],
+        "PyGLM-2.2.1-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "ReBH4dIgr8YVxHclWEhzvQZsTQoV41ksFuejF9H4fUc=",
+          "cp37"
+        ],
+        "PyGLM-2.2.1-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "5uhxIFFFDV9KG5js+kgm5bMjme+fypHDWDekS0zz57s=",
+          "cp37"
+        ],
+        "PyGLM-2.2.1-cp37-cp37m-win32.whl": [
+          "zVl7liSnToYeBsQUT/rUtoYkgTqQdEA1r6Gpt/Km3lc=",
+          "cp37"
+        ],
+        "PyGLM-2.2.1-cp37-cp37m-win_amd64.whl": [
+          "hrGK7T1g7ir2SZOKebBQraVR/MdQZAuIDmVmigQBrHY=",
+          "cp37"
+        ],
         "PyGLM-2.2.1-cp38-cp38-macosx_10_9_x86_64.whl": [
           "gUhoVNuTlEHHhpRRbP0DEWQJxnDdwHagujAthOy6lL8=",
           "cp38"
         ],
+        "PyGLM-2.2.1-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.manylinux_2_24_i686.whl": [
+          "cG9w/12RkxR7cGWxgaYKRkeLkTcb6V7WO6GtX+9xkQs=",
+          "cp38"
+        ],
+        "PyGLM-2.2.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "NVr+mxummmaz/3C9KNSU6mj+EF5RwDHnH2lpNGPNybU=",
+          "cp38"
+        ],
+        "PyGLM-2.2.1-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "Qs5l2bUIygsapyu/uWCfE4shn2AwyaZYWLKobNcKC50=",
+          "cp38"
+        ],
+        "PyGLM-2.2.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "jXmp3orbYzcvJLxtBj38JpQU3rTX1PNVOCcSSVhgLug=",
+          "cp38"
+        ],
+        "PyGLM-2.2.1-cp38-cp38-win32.whl": [
+          "3d+ZJRvEYZICY4YkwByhp6P+UGMUWNGn3lyk2WVxkR8=",
+          "cp38"
+        ],
+        "PyGLM-2.2.1-cp38-cp38-win_amd64.whl": [
+          "vOspRMLPDy6d8NHOOom7/yI8R6+esn40GicvnRJ5dH0=",
+          "cp38"
+        ],
         "PyGLM-2.2.1-cp39-cp39-macosx_10_9_x86_64.whl": [
           "Qv5xI6hB/MukOgE/RjNQPVHv39X27Onj/+XhsBpIO/0=",
+          "cp39"
+        ],
+        "PyGLM-2.2.1-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.manylinux_2_24_i686.whl": [
+          "ht3h4MKOuEYtNrfFFZT3PijxVUlO4fOBWGR0TgcGAZM=",
+          "cp39"
+        ],
+        "PyGLM-2.2.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "kwe6BFglqFodFdZ9WZNcxIIwmQawFesNw4WVUKXc0aw=",
+          "cp39"
+        ],
+        "PyGLM-2.2.1-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "WLbI8Z8HE2DziP1jE7lfFLM9A2AAseU5JdjIp7ismNs=",
+          "cp39"
+        ],
+        "PyGLM-2.2.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "x1qci0RPEtwWq35HWYtq6DczZQdx7J6qVH4ueYx41WU=",
+          "cp39"
+        ],
+        "PyGLM-2.2.1-cp39-cp39-win32.whl": [
+          "wjhXshOj79T+NvVFjS2CorM2KUveitmPd00QJhlu/OQ=",
+          "cp39"
+        ],
+        "PyGLM-2.2.1-cp39-cp39-win_amd64.whl": [
+          "dKbPnQXvuqzxGVsWpCtyuM7NkxPtawlyhMKtASZOF7s=",
           "cp39"
         ]
       }
@@ -90743,6 +90857,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.447": {
+      "sdist": [
+        "2tgPY+7NelCB+InEhZk2UkUIJWJ9VxEZGANbkOZMKyM=",
+        "tencentcloud-sdk-python-soe-3.0.447.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_soe-3.0.447-py2.py3-none-any.whl": [
+          "5FiKNcr3D013rOYKyHwa4Cu90ZOqvRKJd/5zS9EY3xg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-wss": {
@@ -93085,6 +93211,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.447": {
+      "sdist": [
+        "c86UNuV9LS9Xd2bD2+GwIm8HrtvCACk0BVk+5xzSi78=",
+        "tencentcloud-sdk-python-wss-3.0.447.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_wss-3.0.447-py2.py3-none-any.whl": [
+          "BSRsiVOmlfbt50JWSdqbCTCUd0CgTeCysDq4C167YE0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendawifi": {
@@ -94484,6 +94622,18 @@
       "sdist": [
         "sQK8H/DK2eq0M6nKOJ+0V524VZbHrzOuh0OEucYlFfE=",
         "testflows-1.7.10.tar.gz"
+      ]
+    },
+    "1.7.11": {
+      "sdist": [
+        "IeHxOq7g3773mCOMpAkzjfdseEL8gwlXJWDDHXojwrQ=",
+        "testflows-1.7.11.tar.gz"
+      ]
+    },
+    "1.7.12": {
+      "sdist": [
+        "5DOg7QFPsiJM4fhBLvPa1sVdSMKPBVg0TQiIUPIVr9w=",
+        "testflows-1.7.12.tar.gz"
       ]
     },
     "1.7.2": {
