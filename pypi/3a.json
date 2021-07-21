@@ -2068,6 +2068,18 @@
         ]
       }
     },
+    "1.16.0": {
+      "sdist": [
+        "6DKq6HqE10ukja1RQ9Y/uTyoUx3VlhmUveNxfcYmPyU=",
+        "ask-sdk-core-1.16.0.tar.gz"
+      ],
+      "wheels": {
+        "ask_sdk_core-1.16.0-py2.py3-none-any.whl": [
+          "Deoyx6T0hkosoTnFc4BLynQ5eAw2AylFpOidnXALzkA=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "Vb8PIk4XhCs7LmDeOnlMp8UKmw2kwFPFvVNyy87p4RY=",
@@ -15700,24 +15712,92 @@
           "upKT6WBd5Vgajt1jT9Yv/X5Xhe5CArlFSbOLtCK+TVs=",
           "cp36"
         ],
-        "disparity_interpolation-1.0.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "n1VTwLTnuT/i1O1upMj4luYIcMhS+f7jaV4No4zMEdc=",
-          "cp37"
-        ],
         "disparity_interpolation-1.0.3-cp37-cp37m-manylinux2014_x86_64.whl": [
           "cjFH1wakE8FjdSmcdUeoXbssQeVGDd7XS7JkRd/3Cao=",
           "cp37"
         ],
-        "disparity_interpolation-1.0.3-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "7aexiUiSnOA91ppI2ZyOVVqouVE8Icw1bpxgJ0nBrqI=",
-          "cp38"
-        ],
         "disparity_interpolation-1.0.3-cp38-cp38-manylinux2014_x86_64.whl": [
           "r87FjIqzDWfyuqybNnGbvAQvVsDiQfU5Yt/6RhbE69w=",
           "cp38"
+        ]
+      }
+    },
+    "1.0.4": {
+      "wheels": {
+        "disparity_interpolation-1.0.4-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "hB5pWjB1hxSr0uq4RVU69RKhtBczx3htEifaXFmsosM=",
+          "cp37"
         ],
-        "disparity_interpolation-1.0.3-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "LNEJIMMSzIc3RCdhG1fJnZJ39AzbOxqSUpHmQSumw3k=",
+        "disparity_interpolation-1.0.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6iATdQumxjtX4PELWC4njY7+POmxAku9zUaoThFS5WI=",
+          "cp37"
+        ],
+        "disparity_interpolation-1.0.4-cp37-cp37m-win_amd64.whl": [
+          "Kc2SY+ZES6rHnKRqBqF3lqX8P/W8SCfvzjAq2ASaxC0=",
+          "cp37"
+        ],
+        "disparity_interpolation-1.0.4-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "5hR1SypdtwP3XeDI8wT0a5hIa9LN5FGFLdK2deGnITI=",
+          "cp38"
+        ],
+        "disparity_interpolation-1.0.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xX6JXXj13VPg/osLqsOYfo8VXe6NClcgv29BgGycBNU=",
+          "cp38"
+        ],
+        "disparity_interpolation-1.0.4-cp38-cp38-win_amd64.whl": [
+          "VEmxIPoQJYkSPQVPZyAsn60NQemE1Wn/KwhFyUnbrBY=",
+          "cp38"
+        ],
+        "disparity_interpolation-1.0.4-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "9tIfprGPdpFT2AqxxxBk08Nzbk+QraGYNVvcYIb2vs8=",
+          "cp39"
+        ],
+        "disparity_interpolation-1.0.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4YrVporDKh/v7o/I6MPUFXhJOoutGlN60gqgikzqES4=",
+          "cp39"
+        ],
+        "disparity_interpolation-1.0.4-cp39-cp39-win_amd64.whl": [
+          "Xoym+JKQ94QAy3oypyPQp/gEOdvqo9zJgu95puxAGa0=",
+          "cp39"
+        ]
+      }
+    },
+    "1.0.5": {
+      "wheels": {
+        "disparity_interpolation-1.0.5-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "7KJ/qxp8HX/pZmIGkMalfOAEVB0ju29diLkON6XIbXs=",
+          "cp37"
+        ],
+        "disparity_interpolation-1.0.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "otC4f93MoccNyQo33vvUDyPa2ZU3dHIdnOEkK9xATh4=",
+          "cp37"
+        ],
+        "disparity_interpolation-1.0.5-cp37-cp37m-win_amd64.whl": [
+          "/FqvXgZlavy0vPAP8gaOOLYB5gLHCTsS8qIaNgm4gos=",
+          "cp37"
+        ],
+        "disparity_interpolation-1.0.5-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "D2QocBgj1/p66YVswoUPGLjPmNTxsCQLDqXyEFyc2OY=",
+          "cp38"
+        ],
+        "disparity_interpolation-1.0.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kIl++i1YMvJqfw+crHk4/WoU12xBjzb8qjle03X5sno=",
+          "cp38"
+        ],
+        "disparity_interpolation-1.0.5-cp38-cp38-win_amd64.whl": [
+          "kNZ6WjF83aDgfqkLJjPHJOzXqBfpashX0cSb8UmRzQM=",
+          "cp38"
+        ],
+        "disparity_interpolation-1.0.5-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "6UdUVlVnZQHfy8EX2u0P8/CujNkatU1NTxumUX/S8Ig=",
+          "cp39"
+        ],
+        "disparity_interpolation-1.0.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "saO0UuQrKyi8bmzjicg/Us1xz1LKvEUxcd5mYxsc8pE=",
+          "cp39"
+        ],
+        "disparity_interpolation-1.0.5-cp39-cp39-win_amd64.whl": [
+          "+pF0TYfsU0tQ7jBcp0TYL9+JR5aTDsr/8Pjdc0U25ks=",
           "cp39"
         ]
       }
@@ -87033,6 +87113,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.2": {
+      "sdist": [
+        "1RBjNhYd21/BM9RGA5PzRqvhH1etoow3g7QWR2H3ZVA=",
+        "rival_regions_wrapper-1.3.2.tar.gz"
+      ],
+      "wheels": {
+        "rival_regions_wrapper-1.3.2-py3-none-any.whl": [
+          "WzHBlqlUoFyrKBfoHMpZZbgNwLi70hP/jGd3CEfQsAk=",
+          "py3"
+        ]
+      }
     }
   },
   "rivr-rest": {
@@ -88540,6 +88632,12 @@
       "sdist": [
         "4y+WkblH+NDGuUqi1cEBkbSbVMSzcLMiiKKROAnOvyc=",
         "sarus-0.2.19dev4.tar.gz"
+      ]
+    },
+    "0.2.19dev5": {
+      "sdist": [
+        "lRR4HnlM6Nqcj6dmN12D2qjk9y6Ltx/6ADdQ/J+sYXU=",
+        "sarus-0.2.19dev5.tar.gz"
       ]
     },
     "0.2.2": {
