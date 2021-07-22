@@ -1087,6 +1087,12 @@
         "/II0MonUcZuyKUl3KtD2LDDrNXzX/SLHpJI6J3NI348=",
         "aiopioneer-0.1.6.tar.gz"
       ]
+    },
+    "0.1.7": {
+      "sdist": [
+        "nUZmD+i1V3QSIPtuW7L+Mf75w1v7QlR2fspSX1E8VZ4=",
+        "aiopioneer-0.1.7.tar.gz"
+      ]
     }
   },
   "akash-test2": {
@@ -4606,6 +4612,18 @@
       "wheels": {
         "aws_cdk.aws_efs-1.114.0-py3-none-any.whl": [
           "qXgIGJ1o0sh7MWGaUy2hR2xRLmDg3nkdxYzgHSQWG2Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.115.0": {
+      "sdist": [
+        "65bQFjUoPb7hEB/lfgoZMQl0yN4C912QQq26tEE5/mU=",
+        "aws-cdk.aws-efs-1.115.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_efs-1.115.0-py3-none-any.whl": [
+          "jp4/D4N+H/PP6W2l1wAJXyTRMsEcx1RPep8gAk+ic3I=",
           "py3"
         ]
       }
@@ -8154,6 +8172,30 @@
       "wheels": {
         "beep-2021.6.3.21-py3-none-any.whl": [
           "WMDiOkmcqZ4rFbZl65LjPijVWJgnNkM2c7M1nU7EQGU=",
+          "py3"
+        ]
+      }
+    },
+    "2021.7.21.14": {
+      "sdist": [
+        "jNAq1TsYmGV5WTVxKdsJ2a4TO7mSBsWAreh80SoRK84=",
+        "beep-2021.7.21.14.tar.gz"
+      ],
+      "wheels": {
+        "beep-2021.7.21.14-py3-none-any.whl": [
+          "qR9EKIwIgeth1B6hLABSyh2UYsRNmcuniSNryNwqtjk=",
+          "py3"
+        ]
+      }
+    },
+    "2021.7.21.18": {
+      "sdist": [
+        "ko8M3r2oj6yHnEbITB2BtIpoVR3BnxqCy+Y6ydoYTzM=",
+        "beep-2021.7.21.18.tar.gz"
+      ],
+      "wheels": {
+        "beep-2021.7.21.18-py3-none-any.whl": [
+          "Aao8lV0EhAWYBGX4QCjWSDxScTHfrEM2UHkmJGRgU4w=",
           "py3"
         ]
       }
@@ -28361,6 +28403,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.5.1": {
+      "sdist": [
+        "XZAImGuuEVBfSeukoPyK6gg5jImdVZfUrTnpa5syIO8=",
+        "google-cloud-texttospeech-2.5.1.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_texttospeech-2.5.1-py2.py3-none-any.whl": [
+          "0oB2QbEANWEjmnHE+iWupL/UWzI9VEaSL26vkbd8cCM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "goslide-api-fork": {
@@ -36806,98 +36860,14 @@
     }
   },
   "metaflow-cdk": {
-    "0.0.12": {
+    "0.0.7": {
       "sdist": [
-        "fdqsVUwCrOWKUiP9e1lCHrsrRtwTvskaTGa8OL2ijUc=",
-        "metaflow-cdk-0.0.12.tar.gz"
+        "u2lhrdnrFkKiVctjykV7jV8UWxiQAff4CAyRDzxNFns=",
+        "metaflow-cdk-0.0.7.tar.gz"
       ],
       "wheels": {
-        "metaflow_cdk-0.0.12-py3-none-any.whl": [
-          "XsoJ9UU79Fx0E3rkLkAzeiNhmNleMpoInt7eEpEph5w=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.16": {
-      "sdist": [
-        "4I3hZNfUJp+Kdg18C4byMIUfim1vmO1Rl3a/i7K/6yI=",
-        "metaflow-cdk-0.0.16.tar.gz"
-      ],
-      "wheels": {
-        "metaflow_cdk-0.0.16-py3-none-any.whl": [
-          "FqrvE4nOMRNHf8+Z1m/DiIRQaZZTqvGbMh+jWwmsCXs=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.18": {
-      "sdist": [
-        "i55948+ly1OJ4KadrHwUZZ2p055awVDJbdCY+Ci8Ud8=",
-        "metaflow-cdk-0.0.18.tar.gz"
-      ],
-      "wheels": {
-        "metaflow_cdk-0.0.18-py3-none-any.whl": [
-          "7haB7asFqB+rl4N5Uf6lcLVtp5HUyPKrJlfWwQyxW0U=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "PZ5fOle1LoON47cD+TO7hBY/QvChyzNRAFfkm0KeWok=",
-        "metaflow-cdk-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "metaflow_cdk-0.0.2-py3-none-any.whl": [
-          "c3zjw8R3qNOd9azg9yPHAyLnGhfyQwbroHr6O4ySgH8=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "4cwsygYFIY+cntAsPWKtEEirvuQFPDcyO7MpT6T/NoE=",
-        "metaflow-cdk-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "metaflow_cdk-0.0.3-py3-none-any.whl": [
-          "PVo07sdg/crX2Fz8VJpgBg3dbyN/xZXw4guc8YrC7Ow=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "bv+uVNRxYFia7I+OKhr/jvgX4NfUPtb9O9SyYjgrwZI=",
-        "metaflow-cdk-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "metaflow_cdk-0.0.4-py3-none-any.whl": [
-          "UCrrXD5+NOWd1wkG+453uJvQ1lwZCiR8ed1LccX/uvM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "aArQz1YYGO3VsC6gU6jM3RI4TvJgQPK1WpRWPQnwKFU=",
-        "metaflow-cdk-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "metaflow_cdk-0.0.6-py3-none-any.whl": [
-          "g/g3/5YHI5oKg55ecVG+6SdlP/QyQvo/1DdRwskgiRY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "d4cE9oIG79QUle0buO4csUl/gu6HnWuDrvt5QZ5EJ6c=",
-        "metaflow-cdk-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "metaflow_cdk-0.0.8-py3-none-any.whl": [
-          "cn7jFyYQPZMzUPWpjWEUh3NSx2AuzNsVKXPyYrhA+tM=",
+        "metaflow_cdk-0.0.7-py3-none-any.whl": [
+          "AzRJOEaXa+F1MvAJkG5EaJV5z4e9x6wfXOX0zjZJZ6c=",
           "py3"
         ]
       }
@@ -37980,6 +37950,12 @@
       "sdist": [
         "8XJh6hIOpE4m3jk7cCraFk0RgUEZWn2FnQZtoorhFBU=",
         "microsip_api-3.4.8.tar.gz"
+      ]
+    },
+    "3.4.9": {
+      "sdist": [
+        "RJ1L12UN+v1ivI/sZRh5snw8QNzKTLp8sJiKcafYSXY=",
+        "microsip_api-3.4.9.tar.gz"
       ]
     }
   },
@@ -50718,28 +50694,10 @@
         "PyGenphi-0.1.9.tar.gz"
       ]
     },
-    "0.2.10": {
+    "0.2.12": {
       "sdist": [
-        "m672X/62Ybf5ZY7mwje3Ew4j90c5rFQZZqMQjM7f42U=",
-        "PyGenphi-0.2.10.tar.gz"
-      ]
-    },
-    "0.2.11": {
-      "sdist": [
-        "z/Azz/znOYJz7WVT/WMXoQ5bt+PqF8PvdvLbsLfLzEo=",
-        "PyGenphi-0.2.11.tar.gz"
-      ]
-    },
-    "0.2.7": {
-      "sdist": [
-        "vhmmfQFjWbO5h9Kp2lcnuJk/Iqc92k8GzZbJJyOHBEE=",
-        "PyGenphi-0.2.7.tar.gz"
-      ]
-    },
-    "0.2.9": {
-      "sdist": [
-        "3pDp2vNq6XNu+m3Ry94WdESK94jdLDz0zf9xlP0zz0k=",
-        "PyGenphi-0.2.9.tar.gz"
+        "F1TOFXLqIwf8yVwKkcjBcB3DIJ0OWBWHd6p2GUkOc+E=",
+        "PyGenphi-0.2.12.tar.gz"
       ]
     }
   },
