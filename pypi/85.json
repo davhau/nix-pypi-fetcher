@@ -19740,10 +19740,16 @@
     }
   },
   "cv2-test": {
-    "1.7": {
+    "2.2": {
       "sdist": [
-        "P9wp2ej51CsyrWxXSpbmVBzjdObIExXQ1rf3BgbpFaQ=",
-        "cv2-test-1.7.tar.gz"
+        "wnyVV2oxFK36/ZXEedRaC70uD+Ra6kjH7eXdXZGpK8s=",
+        "cv2_test-2.2.tar.gz"
+      ]
+    },
+    "2.3": {
+      "sdist": [
+        "w5fLmcqPKKVXnopKY1uQiSfHrysSAwP1Es/4zJoetUs=",
+        "cv2_test-2.3.tar.gz"
       ]
     }
   },
@@ -48553,6 +48559,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.0": {
+      "sdist": [
+        "hF8j0ASe38JVsdRDEWpczDJ2l9hyozUWRv9vRZqDvtw=",
+        "midb-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "midb-0.5.0-py3-none-any.whl": [
+          "+nVlfrNv7z0RAzii/+hzw+qmsoPa4NElrd+3r6AOjd8=",
+          "py3"
+        ]
+      }
     }
   },
   "mirrors": {
@@ -51302,6 +51320,12 @@
       "sdist": [
         "K7lmJ6AtCJcx50sMuevvIewi6k5eO62rOjKSLgbHrEQ=",
         "mountwizzard4-2.0.0b3.tar.gz"
+      ]
+    },
+    "2.0.0b30": {
+      "sdist": [
+        "bAQ8eDpaXWrOTz/7/vn1JGvngwjC/9djo8u9tG27Rbk=",
+        "mountwizzard4-2.0.0b30.tar.gz"
       ]
     },
     "2.0.0b4": {
@@ -98450,6 +98474,70 @@
         ],
         "slideio-0.6.0-cp39-cp39-win_amd64.whl": [
           "so8H6qQyCtJccSLaHRREYUg0xzAai7IlfgYRYsVwVsE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.6.1": {
+      "wheels": {
+        "slideio-0.6.1-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "VjaCDBfKsjs0+uSZ19lXA3fqLDvMwmh8g2tsF3uIj2w=",
+          "cp310"
+        ],
+        "slideio-0.6.1-cp35-cp35m-macosx_10_6_x86_64.whl": [
+          "QD6hV57JBVHZeybUpIIU7xmHMpDLk8BRnqSWTdwJpYA=",
+          "cp35"
+        ],
+        "slideio-0.6.1-cp35-cp35m-win_amd64.whl": [
+          "VTLgFqKK/ZPxsy5XGl2eakH/VYzX8IVB2lMIKwks2Ig=",
+          "cp35"
+        ],
+        "slideio-0.6.1-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "RNu+f2VD8/L8tPxH4QnkHvSW7e8RTVcaaS4x/XuRjAg=",
+          "cp36"
+        ],
+        "slideio-0.6.1-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "LgE54SaSeVF3qXjh95Xq7MZeyU5kjX0sdTo0zBvRlVA=",
+          "cp36"
+        ],
+        "slideio-0.6.1-cp36-cp36m-win_amd64.whl": [
+          "HOCP8EvS+6Jjd186G4LgfhvygODzi7YZfNXa0mUd+90=",
+          "cp36"
+        ],
+        "slideio-0.6.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "p7EzZ21OHFuB3Q4BzorOjk+rLLnL2i2kluOzpkZIMvU=",
+          "cp37"
+        ],
+        "slideio-0.6.1-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "JcbJk+tASMvUk+jHHX2JGSaoVQMMOYR2MxZpzL4fdeo=",
+          "cp37"
+        ],
+        "slideio-0.6.1-cp37-cp37m-win_amd64.whl": [
+          "wESaRr6Z+bnyoqx1f+10/LYpPXHWLeK/7MnxmIx0LsE=",
+          "cp37"
+        ],
+        "slideio-0.6.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "OlCJyeRT2o3TvR/VjkWi4qMf84FUMqqvMxJyD5f1TsY=",
+          "cp38"
+        ],
+        "slideio-0.6.1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "KadgizgN9GGWMB0/Tek9A6TMIYiG1k64evvgA/yBo+A=",
+          "cp38"
+        ],
+        "slideio-0.6.1-cp38-cp38-win_amd64.whl": [
+          "1mMTGTBwmtc8xiaqHM3Tsjn8BSH/NiwjsE/cdpQjYQU=",
+          "cp38"
+        ],
+        "slideio-0.6.1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "sj0a/zIOUHFNsdNAur8c9F+DqZkPwtlQR5wxEChuhcI=",
+          "cp39"
+        ],
+        "slideio-0.6.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "XOolcFn+asI1nSRHhctTs3FvHJDwHV/4BQTCcDkbVXg=",
+          "cp39"
+        ],
+        "slideio-0.6.1-cp39-cp39-win_amd64.whl": [
+          "fAa5EW14lPPfKx5VpQ1eciI4F9DvxXoSveoKDMgpQ5s=",
           "cp39"
         ]
       }
