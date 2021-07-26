@@ -30140,7 +30140,13 @@
       "sdist": [
         "BQILapl5zOXptWwzxUcBIhKcyiWOEhsweqsUOgzD+K8=",
         "hpccm-21.6.0.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "hpccm-21.6.0-py2.py3-none-any.whl": [
+          "+zGI6GFw5ASM4+CmBnQHp6kSLk7P8cZRPMI0yUdHd4Q=",
+          "2.7"
+        ]
+      }
     }
   },
   "hpconfig": {
@@ -36131,6 +36137,20 @@
         "ZEJjfyOVW/ZP67dRxgfxXYXk1fv7D39IWVXz93I5SUs=",
         "magnebot-1.2.2.tar.gz"
       ]
+    }
+  },
+  "mailshot": {
+    "1.0.0": {
+      "sdist": [
+        "1DcgicU+qk7waYTZJvnWpkWN58TpuFVz14qeri8ENfQ=",
+        "mailshot-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "mailshot-1.0.0-py3-none-any.whl": [
+          "QYvbtLTsSl+XCLmSJLwDEvGaW4FC883PKEIePfcKgrI=",
+          "py3"
+        ]
+      }
     }
   },
   "mailspoof": {
@@ -47827,6 +47847,20 @@
       }
     }
   },
+  "portainer-deploy-tool": {
+    "0.0.1": {
+      "sdist": [
+        "PXxwENpM1CJUzbVHf0YX+6pjgqvge1cXDsYgkyLuPXs=",
+        "portainer_deploy_tool-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "portainer_deploy_tool-0.0.1-py2.py3-none-any.whl": [
+          "JxRAJzZycE2tCUv8uhYsxbs2R489wpNoLXapygzKikQ=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "portal": {
     "0.1": {
       "sdist": [
@@ -53665,6 +53699,20 @@
       }
     }
   },
+  "pyvogon": {
+    "0.0.1": {
+      "sdist": [
+        "RtqRvRVXE7XBChruWpUrEG1bTvYi+t8JqHJNduX4AHI=",
+        "pyvogon-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyvogon-0.0.1-py3-none-any.whl": [
+          "UtE2mammKEexngCw/WZGlQUWXdyKIeNgXK8v/z+ogq0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pywasmi": {
     "0.6.0": {
       "wheels": {
@@ -57860,6 +57908,12 @@
       "sdist": [
         "+ZB3qyiWiseJO7h5QpbQQevtH3Am54fo8u/35Oio9RA=",
         "ryzom-0.6.7.tar.gz"
+      ]
+    },
+    "0.6.8": {
+      "sdist": [
+        "Rt5nab/f/IArUkPf39mqMCNcBz17SCQ5sgEYU3tMK9k=",
+        "ryzom-0.6.8.tar.gz"
       ]
     }
   },
@@ -75629,6 +75683,14 @@
           "py2.py3"
         ]
       }
+    },
+    "2.7.0.dev2021072601": {
+      "wheels": {
+        "tf_estimator_nightly-2.7.0.dev2021072601-py2.py3-none-any.whl": [
+          "QptbiNkwbPgz7T1gMOMsYie3+mKTzmxIa/rH/nld0/g=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tfasta": {
@@ -78342,6 +78404,54 @@
       "wheels": {
         "tues-1.6.1-py3-none-any.whl": [
           "3BHSP1dz36vXZ99x0aqcP3Tzg13qtN7uveadrhKVMG0=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "bNaRN/O4IbDOSPX+e/kwzirLsqnfqRE5you/P5/iCsc=",
+        "tues-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "tues-2.0.0-py3-none-any.whl": [
+          "X1hgRPfS8N7pbIcTBMtv0RV3KB9f/mpSuLcFi7r1iG0=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0rc1": {
+      "sdist": [
+        "SoYwtjKSpiCS30IoV5BDZ7UAYWJTNlTrbuvclTReUNc=",
+        "tues-2.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "tues-2.0.0rc1-py3-none-any.whl": [
+          "cycy4cDuOaXyKSj5fvbOfH7+ImwFuU8CkFTAoJstOkA=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0rc2": {
+      "sdist": [
+        "CEhxEXfQL7NsMprkfjt5U/8Jw855wnJ25+NZJv5MHzM=",
+        "tues-2.0.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "tues-2.0.0rc2-py3-none-any.whl": [
+          "0qdKhZmFir0KS/rsc9ae8+uUKu2xf+8Da95YlhoEP1c=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0rc3": {
+      "sdist": [
+        "0q4hVluOM00a6I0deLR8LKd+ucLj2Kb0xbmuGHA2BO4=",
+        "tues-2.0.0rc3.tar.gz"
+      ],
+      "wheels": {
+        "tues-2.0.0rc3-py3-none-any.whl": [
+          "3Ue35ExAuv193XZ3VnjLPQi+LggVdGr37gMEzuBF0fY=",
           "py3"
         ]
       }
