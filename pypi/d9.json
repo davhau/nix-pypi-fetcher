@@ -6265,6 +6265,14 @@
           "py3"
         ]
       }
+    },
+    "1.95.2": {
+      "wheels": {
+        "bloxroute_cli-1.95.2-py3-none-any.whl": [
+          "N7JPyFOMSyoBy6yJIkAVim11LWBqhYL2ltdcAsgu5QE=",
+          "py3"
+        ]
+      }
     }
   },
   "blt-funcx-toolkit": {
@@ -14196,6 +14204,18 @@
       "wheels": {
         "dafits-0.0.1-py2.py3-none-any.whl": [
           "DdStsVwT5+F+2s/3Ud3srIQxJxvNoDtXjmBdtXljgvs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "BT0OwE3+2nC3jz2WgBCsb3loUir2q+D0E1FQPa+Civg=",
+        "dafits-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "dafits-0.0.2-py2.py3-none-any.whl": [
+          "Z23EwvQ8TPin2QbrX2PGxTzxhqVbusZ9tHK8OJe41vc=",
           "py2.py3"
         ]
       }
@@ -52026,6 +52046,14 @@
       "wheels": {
         "odoo13_addon_l10n_eu_product_adr-13.0.1.0.2.dev3-py3-none-any.whl": [
           "VGoS4bg7yGo0Pbvg0BLVTDMPHlO+R4pX/JmZBGXh8+Q=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.2.0.0": {
+      "wheels": {
+        "odoo13_addon_l10n_eu_product_adr-13.0.2.0.0-py3-none-any.whl": [
+          "+bAazZlPPtqG7niSATSoANKJFZafffYvoglkBxBjXOo=",
           "py3"
         ]
       }
@@ -92058,86 +92086,14 @@
     }
   },
   "xeasy-ml": {
-    "0.0.1": {
+    "0.1.0": {
       "sdist": [
-        "UwbVE1v4/hKBwSvqZFtdR4klskP7Stupxkqk66TRk/s=",
-        "xeasy-ml-0.0.1.tar.gz"
+        "dTIsO3016nFHzz7dBfZVlsUyQtcRW3MolF+KByiPtOc=",
+        "xeasy-ml-0.1.0.tar.gz"
       ],
       "wheels": {
-        "xeasy_ml-0.0.1-py3-none-any.whl": [
-          "E0fFxF0xEhrHmHIDfeYHhj7Nb+48SkwvFoFdVFZ2xaw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "sNjzVA5Pyl3G0y5e6nstC0U/iAJGZXArhxyMRi+PkEQ=",
-        "xeasy-ml-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "xeasy_ml-0.0.2-py3-none-any.whl": [
-          "V2gzdjOevapoQVUNaRz4Lu/R9zm4+vWFYgIJdQGk/UA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "r50lpsgzjdJlyVKzHtjwoZ2HM8jXrpiycr1vKLGdmkE=",
-        "xeasy-ml-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "xeasy_ml-0.0.3-py3-none-any.whl": [
-          "R9o9krMByeKJLOD0q5umr6lKRt8VYbJZaQTtXJ/tYuU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "j4Y0Zacc6S7fZElDL8k0g52edRngT8EZYLuri2IKFSY=",
-        "xeasy-ml-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "xeasy_ml-0.0.4-py3-none-any.whl": [
-          "sfUWA3gOsh9qjS2fuWIcBFx5IEVcl9afKNQ6H3tyULc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "iCK8dcXffLuBHeCmL5A9emIbZamtmBCZNpzrogZqV4s=",
-        "xeasy-ml-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "xeasy_ml-0.0.5-py3-none-any.whl": [
-          "lVwj9tKu5mv6JpI8yqDpb8eISLXMneZX1mMhvu7K+gs=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "E0dwZ6/XrMRPApTcxh4DmIS6fCgBFYBwuNbGW4xOeKc=",
-        "xeasy-ml-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "xeasy_ml-0.0.6-py3-none-any.whl": [
-          "c3SFt2lKnkbJFCxtfBiS1gsVvQfFP90dVS1WmP8pAz0=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "y9sftPdJKtSB5VrsRFaC84q3zKJPEW1hOkNjyaSoJSQ=",
-        "xeasy-ml-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "xeasy_ml-0.0.7-py3-none-any.whl": [
-          "NMvy08y4N5g0ydYG6mFU4HVNWrIWJYFcirh+AbA7/VM=",
+        "xeasy_ml-0.1.0-py3-none-any.whl": [
+          "zLvEXlmutFJCUhnAIuG3f2WdK5xCDP6vHMBn9yFIYTo=",
           "py3"
         ]
       }
