@@ -6132,6 +6132,18 @@
         ]
       }
     },
+    "1.116.0": {
+      "sdist": [
+        "HCKzcrlImCYyJvCylguNGl9xv6h40CxkPTtcjC2EUbQ=",
+        "aws-cdk.aws-devopsguru-1.116.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_devopsguru-1.116.0-py3-none-any.whl": [
+          "WRgDUnyH1DpkKyKyzkrm7kN9hh1lXNXwlcdRfhM7iOs=",
+          "py3"
+        ]
+      }
+    },
     "1.83.0": {
       "sdist": [
         "yPcsRtJE+rTf67zaWBtDAlzNGmAS1t2DGcbdQLwj6M0=",
@@ -6778,6 +6790,18 @@
       "wheels": {
         "aws_cdk.aws_msk-1.115.0-py3-none-any.whl": [
           "qH6XQ0nSqY3H2pvgnqb8kT3r+Zc36ofXjNC7+h8nt9U=",
+          "py3"
+        ]
+      }
+    },
+    "1.116.0": {
+      "sdist": [
+        "CgsT+3Rj5VJD8FSMtGZPm3jukUbjEEQC/TJTCKvZkxM=",
+        "aws-cdk.aws-msk-1.116.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_msk-1.116.0-py3-none-any.whl": [
+          "OUkVLEKQixz6affiR+TnLAOL8DR37q1ws6kuziT5qK8=",
           "py3"
         ]
       }
@@ -14616,6 +14640,18 @@
       "wheels": {
         "c3_toolset_nightly-20210727-py3-none-any.whl": [
           "wJsYv3lSw6ZGvAOrtQeE57DMtcXItMYga1hw9SdypJQ=",
+          "py3"
+        ]
+      }
+    },
+    "20210728": {
+      "sdist": [
+        "SwjP5yuCZePUmvDTUgR79xROCLNSoTy+N+6jt50Y4l4=",
+        "c3-toolset-nightly-20210728.tar.gz"
+      ],
+      "wheels": {
+        "c3_toolset_nightly-20210728-py3-none-any.whl": [
+          "okG/dElAZTSN9bqwE78KIi4yhM0ve7f2NG4qhBWp21w=",
           "py3"
         ]
       }
@@ -24790,6 +24826,18 @@
       "wheels": {
         "dbt_coves-0.19.2a10-py3-none-any.whl": [
           "XyVGYpKlVn7wSX19Ge2dI4lkCKy+mykJV4S+C963mFg=",
+          "py3"
+        ]
+      }
+    },
+    "0.20.0a1": {
+      "sdist": [
+        "ExzykHIMgPQZY8s6FGOsUq7r3qBU9vUPhhOURPuPlOM=",
+        "dbt_coves-0.20.0a1.tar.gz"
+      ],
+      "wheels": {
+        "dbt_coves-0.20.0a1-py3-none-any.whl": [
+          "Kuu3AVyAehBOmz71cZJSHo/aWyqIEJT7kBluaFsPbTw=",
           "py3"
         ]
       }
@@ -110830,14 +110878,6 @@
     }
   },
   "xquant-python": {
-    "3.0.249": {
-      "wheels": {
-        "xquant_python-3.0.249-cp36-none-macosx_10_9_x86_64.whl": [
-          "un+lF6ZzUmaNfZKpGUr1JEalrD1lOdaoo9Qpsub/jqs=",
-          "cp36"
-        ]
-      }
-    },
     "3.0.260": {
       "wheels": {
         "xquant_python-3.0.260-cp36-none-manylinux2014_x86_64.whl": [
@@ -110890,6 +110930,42 @@
         ],
         "xquant_python-3.0.268-cp36-none-win_amd64.whl": [
           "BGqwHxivREoGBKTfkG2kq0WhULvvHyXkQw/QdfnrUwM=",
+          "cp36"
+        ]
+      }
+    },
+    "3.0.269": {
+      "wheels": {
+        "xquant_python-3.0.269-cp36-none-manylinux2014_x86_64.whl": [
+          "oenuOQSiZ7dWlefy42stgnLnn4o9zaOhpFyxIRwNSjY=",
+          "cp36"
+        ],
+        "xquant_python-3.0.269-cp36-none-win_amd64.whl": [
+          "Q9LKSCsB+eULKyOlXqmH0mIebwnImzqdpf8p4Qe7E3Y=",
+          "cp36"
+        ]
+      }
+    },
+    "3.0.270": {
+      "wheels": {
+        "xquant_python-3.0.270-cp36-none-manylinux2014_x86_64.whl": [
+          "geM4JU7GHvowrbG/7FnlmMIE0xHbYp5A0bEEpK1Gl6w=",
+          "cp36"
+        ],
+        "xquant_python-3.0.270-cp36-none-win_amd64.whl": [
+          "754Rm6dbXfNb1M5U6W9olFKz/K6kbXNi+9wMmWTdf1o=",
+          "cp36"
+        ]
+      }
+    },
+    "3.0.271": {
+      "wheels": {
+        "xquant_python-3.0.271-cp36-none-manylinux2014_x86_64.whl": [
+          "O2GCReNrscoG6u1UzFNsj9ieZPskWI04Y11DmgNNEyI=",
+          "cp36"
+        ],
+        "xquant_python-3.0.271-cp36-none-win_amd64.whl": [
+          "+TIWKjlz+2bNGOgS6zlCZQclR0frKAiVwpwHT2khO7Q=",
           "cp36"
         ]
       }
