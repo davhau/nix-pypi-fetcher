@@ -8362,6 +8362,14 @@
         ]
       }
     },
+    "1.33.0": {
+      "wheels": {
+        "azureml_contrib_dataset-1.33.0-py3-none-any.whl": [
+          "DFzJlHc82ILrkBvqV/i++dXmCn64Bc+j4UV3cHWHR9Q=",
+          "py3"
+        ]
+      }
+    },
     "1.4.0": {
       "wheels": {
         "azureml_contrib_dataset-1.4.0-py3-none-any.whl": [
@@ -14042,6 +14050,18 @@
       "wheels": {
         "cereja-1.5.0-py3-none-any.whl": [
           "Gj/xQkSr2AX6LeuhwiB22690KRZXesYGJdXRt9BCwnQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.1": {
+      "sdist": [
+        "keI+XDLbSBFtHyb0eJbjEhV/EfiTDhKoYA1gmG4nSHw=",
+        "cereja-1.5.1.tar.gz"
+      ],
+      "wheels": {
+        "cereja-1.5.1-py3-none-any.whl": [
+          "AI6R/srnZfAt+4TLaIlfT9aHtF61PHuS2S464RTj8P4=",
           "py3"
         ]
       }
@@ -37331,6 +37351,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.5.0b1": {
+      "sdist": [
+        "H6YysyVQqRLxkqu9MI6SenevuzIvke1ijM1+x+nSgCw=",
+        "invenio-records-1.5.0b1.tar.gz"
+      ],
+      "wheels": {
+        "invenio_records-1.5.0b1-py2.py3-none-any.whl": [
+          "+f7xUQVZevyMi1LxfqUUMn/PLt+Y8DAax2yVrlVmxfw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "invenio-workflows-ui": {
@@ -54843,6 +54875,20 @@
       ]
     }
   },
+  "nnrl": {
+    "0.1.0": {
+      "sdist": [
+        "KU1XemFAyK7eXAK98FcBa2oNJdosQL6uiHjd5KuJ2WI=",
+        "nnrl-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "nnrl-0.1.0-py3-none-any.whl": [
+          "V3lL4r3xTRplboVuv1C2qKNBPGJwxUrN2tm2wjf8D30=",
+          "py3"
+        ]
+      }
+    }
+  },
   "number-line": {
     "0.0.1": {
       "sdist": [
@@ -59427,6 +59473,16 @@
         "HH7Jb0f2I5X27djWw2SCpvGFu7/Z3a3NV4Uy7Hc9B9w=",
         "openerp-web-kanban-7.0.406.tar.gz"
       ]
+    }
+  },
+  "opensmog": {
+    "0.0.1": {
+      "wheels": {
+        "OpenSMOG-0.0.1-py3-none-any.whl": [
+          "92f2bmO5p7Iy110vjFP56GZKApRNxaa431kbdI/CZC4=",
+          "py3"
+        ]
+      }
     }
   },
   "opentelemetry-opentracing-shim": {
@@ -75389,6 +75445,64 @@
         "rl_bot_model-0.0.4-py3-none-any.whl": [
           "rgNC4CWpEugxjs4Q8ZYA/GAvRCtGxi1Bt+4IYUMCFg0=",
           "py3"
+        ]
+      }
+    }
+  },
+  "rmc-discord": {
+    "0.0.0": {
+      "sdist": [
+        "C7GiK9qMo6IxhHu0uyd48S7g5LLHvMhoBNhIB9EDO3M=",
+        "rmc-discord-0.0.0.tar.gz"
+      ],
+      "wheels": {
+        "rmc_discord-0.0.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "X6dVEkZSr9zHUXNyGwBr5/CE5ZIssM8BZbGH51SJ6LI=",
+          "cp36"
+        ],
+        "rmc_discord-0.0.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "l4ECPHxw6gzwHBpx1FkS26FFLA0cE7tVZwMyNr2eKpU=",
+          "cp36"
+        ],
+        "rmc_discord-0.0.0-cp36-cp36m-win_amd64.whl": [
+          "BeLSPz3gz/TQssEWxN9wlvTQLDNEMNGBDEI+0pM89Lc=",
+          "cp36"
+        ],
+        "rmc_discord-0.0.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "iRQRwyptYvOcW3MMj1O4t/LlZEeerRn9mzJrzirYIwE=",
+          "cp37"
+        ],
+        "rmc_discord-0.0.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5iVzhuHBGL7Qolk3q0PKEUXySOJ6dL9UpupU07+aXpQ=",
+          "cp37"
+        ],
+        "rmc_discord-0.0.0-cp37-cp37m-win_amd64.whl": [
+          "pvY/mpwebPMvVenEMhWgxkRp3sv3kQ54wCiZvmQnkXw=",
+          "cp37"
+        ],
+        "rmc_discord-0.0.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "Rud346ZLXJYl3aDdV3+truuDwW31mnCedEOenU5NH7Q=",
+          "cp38"
+        ],
+        "rmc_discord-0.0.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8aIm0pou3ksq8ViYNAEyJSnBCn86yG3RyoygzWSfxgY=",
+          "cp38"
+        ],
+        "rmc_discord-0.0.0-cp38-cp38-win_amd64.whl": [
+          "kibqN1Bl4quwWDbHhvUtY+WSvvJabdFcpgi0GrU0jfQ=",
+          "cp38"
+        ],
+        "rmc_discord-0.0.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "G6QShDal3RxmNR0jC9pGjqS9WKv/asHzO3Kc9ZU+/WI=",
+          "cp39"
+        ],
+        "rmc_discord-0.0.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "duaJY7PVSC6kBaqn8bf4X5cfCyBn/QO8VYpY5PD5qRs=",
+          "cp39"
+        ],
+        "rmc_discord-0.0.0-cp39-cp39-win_amd64.whl": [
+          "M9kR2Dij1HH/k5eJ25ce1/0YJBNmbiUNSf2RaTL9e30=",
+          "cp39"
         ]
       }
     }

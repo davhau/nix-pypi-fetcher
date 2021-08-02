@@ -10564,6 +10564,14 @@
         ]
       }
     },
+    "1.33.0": {
+      "wheels": {
+        "azureml_train_automl_client-1.33.0-py3-none-any.whl": [
+          "al7fzwCtUqEv5SlegX34gBCKpOBwZiZgVBpjK9PqULk=",
+          "py3"
+        ]
+      }
+    },
     "1.4.0": {
       "wheels": {
         "azureml_train_automl_client-1.4.0-py3-none-any.whl": [
@@ -19638,6 +19646,14 @@
         ]
       }
     },
+    "0.12.0.dev20210802154505": {
+      "wheels": {
+        "cirq-0.12.0.dev20210802154505-py3-none-any.whl": [
+          "UG8zNVcnXNegDAkGxl2jThCS/XYtq4+PmGKRG5D2lG8=",
+          "py3"
+        ]
+      }
+    },
     "0.3.1.27": {
       "sdist": [
         "NDgt63K7eG+0UPLac41tEvX4eHhPaNZ70KhnreQkBPk=",
@@ -21706,6 +21722,24 @@
       "sdist": [
         "yMWM99SQ8H8xw3l6+l686XOwve/WSDy0ktJQ7F5kpHs=",
         "cmds.py-0.154.tar.gz"
+      ]
+    },
+    "0.155": {
+      "sdist": [
+        "k4P/wnmxeaLOmj0RevhQgU8jd0Oy1Td7B+DXBOjyogM=",
+        "cmds.py-0.155.tar.gz"
+      ]
+    },
+    "0.156": {
+      "sdist": [
+        "gYdHPUXZfXYKbTjTcc3FTPlZHdyGu9SVwwCu0AS9P7k=",
+        "cmds.py-0.156.tar.gz"
+      ]
+    },
+    "0.157": {
+      "sdist": [
+        "S96PI7/yicQcWPBqErU9Ify054PeXDlhaEpXThKYnUI=",
+        "cmds.py-0.157.tar.gz"
       ]
     }
   },
@@ -87241,6 +87275,22 @@
           "py3"
         ]
       }
+    },
+    "0.0.101627902648": {
+      "sdist": [
+        "GeUgbw+FEjq/rYGpmvQKP9FN/nV6Ox1k9ZMxUHT81+g=",
+        "pyre-check-nightly-0.0.101627902648.tar.gz"
+      ],
+      "wheels": {
+        "pyre_check_nightly-0.0.101627902648-py3-none-macosx_10_11_x86_64.whl": [
+          "hIn3xeoAxYXRm/fHkF/OZFpzt7ZZLmeW+jzWJmMF94Q=",
+          "py3"
+        ],
+        "pyre_check_nightly-0.0.101627902648-py3-none-manylinux1_x86_64.whl": [
+          "NcimDVIDfMH8w8Wb4r4RhEqF8UV1NxPsJ0HrwrFMmKg=",
+          "py3"
+        ]
+      }
     }
   },
   "pyreleaser-io": {
@@ -106403,6 +106453,16 @@
       }
     }
   },
+  "testpackage-0495": {
+    "1.0.0": {
+      "wheels": {
+        "TestPackage_0495-1.0.0-py3-none-any.whl": [
+          "JgFnLnSVbRN2oa1txhny23/wQLQM/idIi4x0Mi4yZMU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "text-numbered-list-analyser": {
     "1.1.0": {
       "wheels": {
@@ -114748,6 +114808,34 @@
         ],
         "tfq_nightly-0.6.0.dev20210801-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "osGXvNJFCZVVh7urzZcQO/IWVivlua7A23BQVT/dq4U=",
+          "cp38"
+        ]
+      }
+    },
+    "0.6.0.dev20210802": {
+      "wheels": {
+        "tfq_nightly-0.6.0.dev20210802-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "d3F9J+vPF4JfTXr05cXNm33mBBWg1MTOq4ZQwdVSSMY=",
+          "cp36"
+        ],
+        "tfq_nightly-0.6.0.dev20210802-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "ZaPm3/TEKi7kaGSlOGmV5ARMP0WUZdXXRpaeGS+WoU8=",
+          "cp36"
+        ],
+        "tfq_nightly-0.6.0.dev20210802-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "i7V39HIGBBT952sERDAXHlZHIhYouwMtbAycShh0kAU=",
+          "cp37"
+        ],
+        "tfq_nightly-0.6.0.dev20210802-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "NZMP490y0H2cXxMq6mbccQTyaDPGwEFPdmG/v+e3E8I=",
+          "cp37"
+        ],
+        "tfq_nightly-0.6.0.dev20210802-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "UR+BjQRuNo2mOXZwNEyk55wSrospsqIoJhRjwteMcJo=",
+          "cp38"
+        ],
+        "tfq_nightly-0.6.0.dev20210802-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "mJOW8xISKtN55VHq3ci9pRfi1/+QWOkQw9N1Fv7C6T4=",
           "cp38"
         ]
       }
