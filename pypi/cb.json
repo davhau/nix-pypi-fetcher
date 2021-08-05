@@ -5310,6 +5310,18 @@
         ]
       }
     },
+    "1.117.0": {
+      "sdist": [
+        "u+9XodLeswey1A4IEFWE7SQNk81Bh1kfGKjTU58v4Xk=",
+        "aws-cdk.aws-datasync-1.117.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_datasync-1.117.0-py3-none-any.whl": [
+          "hjU44/JhDmpoFCS0cvPQXKwIckQrAaQHIrL2RjlhqFo=",
+          "py3"
+        ]
+      }
+    },
     "1.85.0": {
       "sdist": [
         "ajd60b0k9KxLG9B3khjh2hcqORBcF8MQcBCR41NN0Yg=",
@@ -6040,6 +6052,18 @@
       "wheels": {
         "aws_cdk.aws_dlm-1.116.0-py3-none-any.whl": [
           "gipdtAOL5G17oaVgFq5Kz3NwEM3nvrfIhXZwi4bNDGw=",
+          "py3"
+        ]
+      }
+    },
+    "1.117.0": {
+      "sdist": [
+        "rvznc4yUvgH5K6XqhGInoy/uNQpgGLPt9s8nsDq+dF4=",
+        "aws-cdk.aws-dlm-1.117.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dlm-1.117.0-py3-none-any.whl": [
+          "e/fOyBatYbfI82mg5W344Id8mWn3WLuFttExrbbpB+A=",
           "py3"
         ]
       }
@@ -46057,6 +46081,12 @@
         "R2ZDdNVXIBMprL4p9eGR1Pu0SvsA8VHYTUzWrSjPbfs=",
         "idds-client-0.6.0.tar.gz"
       ]
+    },
+    "0.6.1": {
+      "sdist": [
+        "834dmvEYWp5owjyPjoK/ETNvJyW8l8AytS7UOBw9338=",
+        "idds-client-0.6.1.tar.gz"
+      ]
     }
   },
   "ideal": {
@@ -55303,6 +55333,10 @@
       }
     },
     "0.7.7": {
+      "sdist": [
+        "u+r7fZKDncIhNlNA550BLLUO5IofPzDdkW6zWouT2wA=",
+        "marisa-trie-0.7.7.tar.gz"
+      ],
       "wheels": {
         "marisa_trie-0.7.7-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "YspyGxvpqivhFXs4a+XdVcD3inuSolOQpvpmPtR+0iI=",
@@ -55315,6 +55349,106 @@
         "marisa_trie-0.7.7-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "c5F4qPmNdYTVYTxZoDRic9ipUVSwvLDrC9EdZRSmHf8=",
           "cp36"
+        ],
+        "marisa_trie-0.7.7-cp36-cp36m-win32.whl": [
+          "ZOduntXHtZKdnFmPNDA59170rhiBqLsbYz1f5iSua4Q=",
+          "cp36"
+        ],
+        "marisa_trie-0.7.7-cp36-cp36m-win_amd64.whl": [
+          "jbjlEeLTtCIh3g7ZXtYoitUU3w9/iNCBOZDqhxzNC68=",
+          "cp36"
+        ],
+        "marisa_trie-0.7.7-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "r6Bv/jqZLel4WCJGVQ8/42XPPq8EaLJ+jN8ErCtdvus=",
+          "cp37"
+        ],
+        "marisa_trie-0.7.7-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "VcmaP9QCWl9Cj4O6Z4kShEAUgG82aEyGkN61nKCMk68=",
+          "cp37"
+        ],
+        "marisa_trie-0.7.7-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "MyyhB3ld1n8hqvvAFBJS3DPR+PG0I5zHu2G2fK4zzzA=",
+          "cp37"
+        ],
+        "marisa_trie-0.7.7-cp37-cp37m-win32.whl": [
+          "FQu8eLmBNenEPu5DrFSP5Dk70GkhPFEEVV5cwQjfBUY=",
+          "cp37"
+        ],
+        "marisa_trie-0.7.7-cp37-cp37m-win_amd64.whl": [
+          "mE7GWHVqktcue/ZkvgLmoZSaDghljVEg5D/Sa5vUkYc=",
+          "cp37"
+        ],
+        "marisa_trie-0.7.7-cp38-cp38-macosx_10_9_universal2.whl": [
+          "4GAzSGK6QlVoR4/bri7GWZpuEjrCtMlGtQ9eNBftIHI=",
+          "cp38"
+        ],
+        "marisa_trie-0.7.7-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "iubvh2EEifm3VpFhRVULmaGof2ciMxEcINfJyRw897I=",
+          "cp38"
+        ],
+        "marisa_trie-0.7.7-cp38-cp38-macosx_11_0_arm64.whl": [
+          "Cb9LDi338H5aWeLge2qp7ngdSL51CeuhEIe8Ko4alK0=",
+          "cp38"
+        ],
+        "marisa_trie-0.7.7-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "jfkQUIQi6iszHSzkGiyW8m8RBmPvtMMYUl7tzNexA68=",
+          "cp38"
+        ],
+        "marisa_trie-0.7.7-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "apYQDMXNb1ChsC4g7OjdBfR20d6zBigyJZ2HpvRymuQ=",
+          "cp38"
+        ],
+        "marisa_trie-0.7.7-cp38-cp38-win32.whl": [
+          "09bjF02entc66ZNLDI6cYwoZoxgtylCIJfROPloWQc0=",
+          "cp38"
+        ],
+        "marisa_trie-0.7.7-cp38-cp38-win_amd64.whl": [
+          "fJePeVkhhhB4B3ByXrW9iEUeQvl69H7iIMGugC+55AI=",
+          "cp38"
+        ],
+        "marisa_trie-0.7.7-cp39-cp39-macosx_10_9_universal2.whl": [
+          "oGFKrbYR4RxI2NTVcQgn5bOpROv7TFGpmb/d4TPcTps=",
+          "cp39"
+        ],
+        "marisa_trie-0.7.7-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "iCugqQ2WH5PsibNsOI3Apqf/uHGm6yg6epJIWYchLiI=",
+          "cp39"
+        ],
+        "marisa_trie-0.7.7-cp39-cp39-macosx_11_0_arm64.whl": [
+          "mrgY3NVXptZzvB8S4fLcaeYtrP561ETnI0EKp0WIIhA=",
+          "cp39"
+        ],
+        "marisa_trie-0.7.7-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "FukUd1PyohH5Z057hmvJMVZpUKZpXYmw2Surj280/is=",
+          "cp39"
+        ],
+        "marisa_trie-0.7.7-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "ZD+1L2ZY75939mtzYges3U03InI4GpWw7NwgyYYU+bo=",
+          "cp39"
+        ],
+        "marisa_trie-0.7.7-cp39-cp39-win32.whl": [
+          "8lQEYycJmXGNxDTXM+FysJGFQf4SNGBJThm8wYXbrv4=",
+          "cp39"
+        ],
+        "marisa_trie-0.7.7-cp39-cp39-win_amd64.whl": [
+          "omOOmr0FubPPGa37MKxQPn+zIke43vqXyaXwn6gzAGM=",
+          "cp39"
+        ],
+        "marisa_trie-0.7.7-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "k5wUqBxGbrvAmF0awrjxZ8Uq3VIxeJNZ6SYtZVi+cxw=",
+          "pp37"
+        ],
+        "marisa_trie-0.7.7-pp37-pypy37_pp73-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "GXtB3s2khludbiTzwOzOv1gEyJ17vjXHf+5F26OYnIo=",
+          "pp37"
+        ],
+        "marisa_trie-0.7.7-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "suJexWT1HWfkQGzbUsuklC684Hy5O5Wd2tr7vc2FI7E=",
+          "pp37"
+        ],
+        "marisa_trie-0.7.7-pp37-pypy37_pp73-win_amd64.whl": [
+          "N9EhMZgT2+np/yfzpQzP93LZMpayfWqOMsCEYIJ/R3w=",
+          "pp37"
         ]
       }
     }
@@ -99041,6 +99175,58 @@
           "cp39"
         ]
       }
+    },
+    "2.7.0.dev20210805": {
+      "wheels": {
+        "tf_nightly_cpu-2.7.0.dev20210805-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "ZUOoLSCuDpNlyq8kg3+OaetUWXwKVE8RVMW3thmKvT8=",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.7.0.dev20210805-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "w1vJDXco6oYtuk81ZhQII+/wRrRygupFdIg8mMUmb4I=",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.7.0.dev20210805-cp36-cp36m-win_amd64.whl": [
+          "tzGvYS5Ry9cZ8ulhEBm3wmTCwiCDhxCsdXhdPsHJDsw=",
+          "cp36"
+        ],
+        "tf_nightly_cpu-2.7.0.dev20210805-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "vfZQW4jpRke+Tg2Z4aLxBEJbteXmFH2eHD68dhBmGEs=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.7.0.dev20210805-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "aZ3vKINoOlZ6cPK9mTqQmtT1O79eGRolQWsXpxBZpTk=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.7.0.dev20210805-cp37-cp37m-win_amd64.whl": [
+          "CRsm+8GsJmqwaVjMepsaYmQT7FcQv3tU9GMIhIquKMk=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.7.0.dev20210805-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "0HUDZrCeWBDmTrrEmBfcjNedK3V69f4C0ORusrSMsgQ=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.7.0.dev20210805-cp38-cp38-manylinux2010_x86_64.whl": [
+          "gbmKo6Ay2xR7eNFn6IiU7D2zUxWJPQGMtfZjUY7aw5g=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.7.0.dev20210805-cp38-cp38-win_amd64.whl": [
+          "BKPWM8+3Hkk3TMZpz/T85GmpKsYWApm/3aXoRHGHS6s=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.7.0.dev20210805-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "Ba/XuVDoU3TDcNuvVb/xofUSI/8Xguz78BhuMOwlBEk=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.7.0.dev20210805-cp39-cp39-manylinux2010_x86_64.whl": [
+          "PJ+ok/CFYtFLc2YL3okGJJqqr740JibJAR2hu+w9Prs=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.7.0.dev20210805-cp39-cp39-win_amd64.whl": [
+          "q6OKDTW2IMJ8wmKIQd3pbIub7USg9R7HCbNQROebue4=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfaip": {
@@ -104628,6 +104814,18 @@
       "wheels": {
         "vintools-0.0.44-py3-none-any.whl": [
           "41yO5hVulticOh7VLyv1ic2pyOfRz9ttlcMSYDuVACQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.45": {
+      "sdist": [
+        "rZuBULx6saAE0uW5JjyTV/1VA9U1kxutMaaUPFBF1Hw=",
+        "vintools-0.0.45.tar.gz"
+      ],
+      "wheels": {
+        "vintools-0.0.45-py3-none-any.whl": [
+          "tPEcGfXUeiGtSc82RCsLVBH3D+lDWl6GuoujzmB+ovo=",
           "py3"
         ]
       }

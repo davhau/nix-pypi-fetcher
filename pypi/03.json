@@ -6402,6 +6402,18 @@
         ]
       }
     },
+    "1.117.0": {
+      "sdist": [
+        "E+a0kiDCr3un0+Onl9fTOLxNGhhpxK8zcqrzDsg02DQ=",
+        "aws-cdk.aws-cloudfront-origins-1.117.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudfront_origins-1.117.0-py3-none-any.whl": [
+          "sU7rGbKqr+1yEcvFK7XI3HMw/8tcYLWmx4tKN0a+gk4=",
+          "py3"
+        ]
+      }
+    },
     "1.55.0": {
       "sdist": [
         "/vDPbM7gPTfLwyA/6r4A/eJngGQhDICRIPltwPjtazc=",
@@ -27939,6 +27951,20 @@
       ]
     }
   },
+  "ecl-data-io": {
+    "0.0.1": {
+      "sdist": [
+        "5nibuGqSON/gTjhJxO/Y7F7Cx0PepBLNRCVTt6CVz98=",
+        "ecl-data-io-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ecl_data_io-0.0.1-py3-none-any.whl": [
+          "mryLxSpgxftYaaBOexZiKS1YrW3IxvVm/4/di+6QVW8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "eddy-mc-core": {
     "0.4.0": {
       "sdist": [
@@ -46476,14 +46502,14 @@
     }
   },
   "lign": {
-    "0.1.0": {
+    "0.1.1": {
       "sdist": [
-        "ulMQbmnUFwzLrMLRICs+8hQbJKiobuSVlp01KJm3yi0=",
-        "lign-0.1.0.tar.gz"
+        "LbnGH+i7R5vdykIiercNKdwC3iVNv1spB+VJaYPXqlc=",
+        "lign-0.1.1.tar.gz"
       ],
       "wheels": {
-        "lign-0.1.0-py3-none-any.whl": [
-          "DIwGRGTX1QO1zL+X7i8EAf5PD44YXZGoxTuk5y27SGE=",
+        "lign-0.1.1-py3-none-any.whl": [
+          "w3S5usu8vtPp5gp01cmrv78xbis/Nm+SeNQw9nlwYoQ=",
           "py3"
         ]
       }
@@ -51491,6 +51517,64 @@
         "mouse_jerk-0.4.2-py3-none-any.whl": [
           "4wAw3ffdmDxFykHn0jde2EZkj1YCkA1rY2uWhyY3kkw=",
           "py3"
+        ]
+      }
+    }
+  },
+  "mozjpeg-lossless-optimization": {
+    "0.9.0": {
+      "sdist": [
+        "boz56je235OJdJL2ByD05vWxFZhxeWjdc2A7I1dHe2I=",
+        "mozjpeg-lossless-optimization-0.9.0.tar.gz"
+      ],
+      "wheels": {
+        "mozjpeg_lossless_optimization-0.9.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "dx9vcBAZUJsxEze6naU6fUnlqxnm++CDCps3l7VZODk=",
+          "cp37"
+        ],
+        "mozjpeg_lossless_optimization-0.9.0-cp37-cp37m-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "TPM8k4CJQjSt9tu7Kg6Pw3ei+ogKvgibOPo5V55tb2o=",
+          "cp37"
+        ],
+        "mozjpeg_lossless_optimization-0.9.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "vDk1rFdd6KM2R+gOHAQec68EkKxakPMDn93UGgtcXt0=",
+          "cp37"
+        ],
+        "mozjpeg_lossless_optimization-0.9.0-cp37-cp37m-win_amd64.whl": [
+          "nkecaUskFqXQi2ajifN/oMNrLN02Si/lTveJRGGaEH0=",
+          "cp37"
+        ],
+        "mozjpeg_lossless_optimization-0.9.0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "ylicsxNab/SDA8HmqmhVlQwRAHLga2TYTql7gfiwXdY=",
+          "cp38"
+        ],
+        "mozjpeg_lossless_optimization-0.9.0-cp38-cp38-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "GHO3BO8CiwYo7LACAgPVnGcStic6fmD+vimjgapHIYY=",
+          "cp38"
+        ],
+        "mozjpeg_lossless_optimization-0.9.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "HB83vRsfz5xZ7trGapyDDrcuclWewJdZvPuHl2mpyls=",
+          "cp38"
+        ],
+        "mozjpeg_lossless_optimization-0.9.0-cp38-cp38-win_amd64.whl": [
+          "nhvTwQTfsCex1Lzwx9Tiypxr+7aztS1GXRjGNaugoLA=",
+          "cp38"
+        ],
+        "mozjpeg_lossless_optimization-0.9.0-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "w/chC5FD+9IKa8gy1K0jkHcTEMVlGdpEpchVe8oVvDw=",
+          "cp39"
+        ],
+        "mozjpeg_lossless_optimization-0.9.0-cp39-cp39-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "ymQSCcYf0X+iZuOuGZeRKzgZMpihDYayumOIZwe02wA=",
+          "cp39"
+        ],
+        "mozjpeg_lossless_optimization-0.9.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "C52XLM2vASPil+W1kNOZH+omATzZr1AL0kgUiq7vuok=",
+          "cp39"
+        ],
+        "mozjpeg_lossless_optimization-0.9.0-cp39-cp39-win_amd64.whl": [
+          "1ogpFuFA8FcAhIMYML7OuaDffX7885hotT6IcdKqipA=",
+          "cp39"
         ]
       }
     }
@@ -100292,6 +100376,20 @@
       "wheels": {
         "zuul_registry-1.0.0-py3-none-any.whl": [
           "LJMan+/hjd9hiM6nHzrGqAc2DCizd//rYxBI8bIUbzc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "zxz646piptry": {
+    "0.0.1": {
+      "sdist": [
+        "cKXTK8Fi8boyWNsv6orn+JkdDF0fY0zzMnaV9WiK/ss=",
+        "zxz646piptry-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "zxz646piptry-0.0.1-py3-none-any.whl": [
+          "+sjYrifXVTRyd9LfAZTl0oc7HVBygPKjsqsBmoD6e4Q=",
           "py3"
         ]
       }

@@ -4502,6 +4502,18 @@
         ]
       }
     },
+    "1.117.0": {
+      "sdist": [
+        "ODVn9Aky4h7ZRXk4K81H2XJtgA73q0san02XBC6V/Kk=",
+        "aws-cdk.aws-cassandra-1.117.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cassandra-1.117.0-py3-none-any.whl": [
+          "sQ4MzkxSV37EnaHJaojibSlgytVqdZV4nbDcaGBgDsA=",
+          "py3"
+        ]
+      }
+    },
     "1.32.0": {
       "sdist": [
         "P6XNMdqKML8U0Sjy9y0xVtXLh7/bp7qQiSqfidzdcgY=",
@@ -8593,6 +8605,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "0cZS60s2iwz6BzwmNXYB45fsSMmZlun62afGfD6vGhs=",
+        "bmt-lite-1.8.2-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "bmt_lite_1.8.2-2.0.0-py3-none-any.whl": [
+          "IvXF5f2wZwy4tdHdkWhQBwKYTVN80dBNbfeT2lTWL4M=",
+          "py3"
+        ]
+      }
     }
   },
   "boardgame2": {
@@ -8944,6 +8968,18 @@
       "wheels": {
         "bote-1.2.0-py3-none-any.whl": [
           "SMzmUrcWlShtIFS5Ta9KjOpG6513vAwD5zJYvutEcaI=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "rgXV2/uWTu/hwlJWmoIrBDYNLMtw9zsl+EJ7msQ/ypU=",
+        "bote-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "bote-1.2.1-py3-none-any.whl": [
+          "Mx4SMffCo33HA1SWhS1ViRBlYs0LSUfpjIyzceCMGFM=",
           "py3"
         ]
       }
@@ -16155,6 +16191,14 @@
       }
     }
   },
+  "climetlab-maelstrom-ens10": {
+    "0.1.0": {
+      "sdist": [
+        "+qmhxKVDqJMXffLs1kS9zjiR6ZQjBHZyetcgNQ4eFA4=",
+        "climetlab-maelstrom-ens10-0.1.0.tar.gz"
+      ]
+    }
+  },
   "clitoo": {
     "0.1.0": {
       "sdist": [
@@ -19191,6 +19235,80 @@
         "cuprocell-0.0.2-py3-none-any.whl": [
           "Gpd6P9psrk7FjJOrYL0AtoHdYsLUipssaiufVWH97pE=",
           "py3"
+        ]
+      }
+    }
+  },
+  "cupy-cuda114": {
+    "10.0.0b1": {
+      "wheels": {
+        "cupy_cuda114-10.0.0b1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "hP1CBQ0qWTnB65wWAHeqZQ1jS8mJqupTLSDG9dkjvho=",
+          "cp36"
+        ],
+        "cupy_cuda114-10.0.0b1-cp36-cp36m-win_amd64.whl": [
+          "f0CGk1xPkdYzRf/gDdTr9xnFN3r0wI9STWHOzcyhprc=",
+          "cp36"
+        ],
+        "cupy_cuda114-10.0.0b1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "tn/hlhJYUn0qKkD2VMKl8GNWrGpkN+6OZAwO4/XMUS8=",
+          "cp37"
+        ],
+        "cupy_cuda114-10.0.0b1-cp37-cp37m-win_amd64.whl": [
+          "cqiz91DNiW9d7ZpQZEuzWWpbAwd7hX3bu31gxhnupo8=",
+          "cp37"
+        ],
+        "cupy_cuda114-10.0.0b1-cp38-cp38-manylinux1_x86_64.whl": [
+          "w7ap4CxJXBcAblLUrQed82LuLfSJ55AGmOLzmqr5aVc=",
+          "cp38"
+        ],
+        "cupy_cuda114-10.0.0b1-cp38-cp38-win_amd64.whl": [
+          "tUrKo37SB9FzduydZsVcjgvBwpJ686YDQv99MWIP/yc=",
+          "cp38"
+        ],
+        "cupy_cuda114-10.0.0b1-cp39-cp39-manylinux1_x86_64.whl": [
+          "8OETPijGrBZugwyC7IYFaGFvAGRGUWp+tSuFVsA8s60=",
+          "cp39"
+        ],
+        "cupy_cuda114-10.0.0b1-cp39-cp39-win_amd64.whl": [
+          "fm0QAvi9KOl9sUU3kSwpMdUYqc7XiE2kJpJwYt0Yi1o=",
+          "cp39"
+        ]
+      }
+    },
+    "9.3.0": {
+      "wheels": {
+        "cupy_cuda114-9.3.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "lev/UpOl7R3CHWYzH/xHdvR8G8GyxkYB2nbQrd5Ecrg=",
+          "cp36"
+        ],
+        "cupy_cuda114-9.3.0-cp36-cp36m-win_amd64.whl": [
+          "KpKJ4ITXAy611EjVvTr6VU90RA8o1FmfokvDt0N9W/Q=",
+          "cp36"
+        ],
+        "cupy_cuda114-9.3.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "flU0JniuosXYezkCjAI2HcYg/oE/yT5ye/WxX7QlAII=",
+          "cp37"
+        ],
+        "cupy_cuda114-9.3.0-cp37-cp37m-win_amd64.whl": [
+          "1H0ifg7hxHBPSvJyf6svsL5U4AiS33HVqVunPbjGvmk=",
+          "cp37"
+        ],
+        "cupy_cuda114-9.3.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "WnZww/eCrYcrhBLVPa2xZBIOczrE6ry9EhDPL9P7gAI=",
+          "cp38"
+        ],
+        "cupy_cuda114-9.3.0-cp38-cp38-win_amd64.whl": [
+          "B0qq91PC+wrnV6ohSn3WgDblQXwtQ1DfKL4l18hSHsw=",
+          "cp38"
+        ],
+        "cupy_cuda114-9.3.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "Vf7KWK/qAroqRigRYtY0vDduqw5oiyiUVCoZrLZeLGM=",
+          "cp39"
+        ],
+        "cupy_cuda114-9.3.0-cp39-cp39-win_amd64.whl": [
+          "hsh9sf0mfCd5yBLxySC369XkcjmSOCH9OFR24GO7v/Y=",
+          "cp39"
         ]
       }
     }
@@ -66595,6 +66713,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.4.6": {
+      "wheels": {
+        "pyocs-3.4.6-py2.py3-none-any.whl": [
+          "uzgeNBS0abDExbtVQ9f9/Xhw0TbIgSXl4Ej5nPkDFwM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyoko": {
@@ -83718,6 +83844,46 @@
         ],
         "shioaji-0.3.2.dev9-cp38-cp38-win_amd64.whl": [
           "zYVGXA1dNQMdZIea9A0MoKZvQ1jR5RE/E8LGggCCUGo=",
+          "cp38"
+        ]
+      }
+    },
+    "0.3.3.dev0": {
+      "wheels": {
+        "shioaji-0.3.3.dev0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "36cDWOUpLlyXLQzJBF8iVn0khTo7p+Cwq2InrWE6T1M=",
+          "cp36"
+        ],
+        "shioaji-0.3.3.dev0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "KOSC2xIO9SkdN6WEDCUpiF48Yuvh26zTPnLAMC7Bbtg=",
+          "cp36"
+        ],
+        "shioaji-0.3.3.dev0-cp36-cp36m-win_amd64.whl": [
+          "Sluy8v+vPiA1FI/NirZiEevDxIfqeTJS0IZEBMik8Cc=",
+          "cp36"
+        ],
+        "shioaji-0.3.3.dev0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "030y7BXspLOfT3Z9eRncJ2voMmBFrecGEk9v8eDCWI0=",
+          "cp37"
+        ],
+        "shioaji-0.3.3.dev0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "uYzMV7IUQYY0mS/83TEwuvtwwRCs16YvuIWmUAtZScg=",
+          "cp37"
+        ],
+        "shioaji-0.3.3.dev0-cp37-cp37m-win_amd64.whl": [
+          "pO4c6mtxzkjf9V/1/31JOllSVD9z3gqTqhDsChMOI5s=",
+          "cp37"
+        ],
+        "shioaji-0.3.3.dev0-cp38-cp38-manylinux1_x86_64.whl": [
+          "OfE7PbdoRvfCmlsW9TxHACTKW8BSEG/LLZRm7l1PhTo=",
+          "cp38"
+        ],
+        "shioaji-0.3.3.dev0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "ADKJ6mEg0/+F1GqFmUpLXRFuh5jY23eVo4b7iRpfkfo=",
+          "cp38"
+        ],
+        "shioaji-0.3.3.dev0-cp38-cp38-win_amd64.whl": [
+          "Y5L2JxSF1o7yd7xpw5t0ZSTIZeeUp1qfWjRc0rOxyHg=",
           "cp38"
         ]
       }
@@ -102438,6 +102604,18 @@
       "wheels": {
         "zoviz-0.4.148-py3-none-any.whl": [
           "X6h/gZljkWyk0CiMFuRGd+xIUm/oYqBtrioZsvPgqTY=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.149": {
+      "sdist": [
+        "wCS8HvqVL5O7G986LLfmhZZKKKVDlpHAo9I4eRJVRwo=",
+        "zoviz-0.4.149.tar.gz"
+      ],
+      "wheels": {
+        "zoviz-0.4.149-py3-none-any.whl": [
+          "eaoL/25P9Z/ZSzCLVm4bYF4LXPVTF6gO6s4W4jD2aIw=",
           "py3"
         ]
       }
