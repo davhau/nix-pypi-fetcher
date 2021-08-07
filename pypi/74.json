@@ -2357,6 +2357,32 @@
       }
     }
   },
+  "airflow-sqlcmd-operator": {
+    "0.1": {
+      "sdist": [
+        "sKt5WzkTZh6dDRZQW3IYH09f35eBLrEG+caK4mBYOaI=",
+        "airflow-sqlcmd-operator-0.1.tar.gz"
+      ]
+    },
+    "0.2": {
+      "sdist": [
+        "3Dg41O5GTgC8GVXuFjXOStcDGvD9Gs0O0RN06mmcyXg=",
+        "airflow-sqlcmd-operator-0.2.tar.gz"
+      ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "Ia2QLVnZAiMO+jZM204Letj8oA+VTATvhBU2LDKQE0c=",
+        "airflow-sqlcmd-operator-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "airflow_sqlcmd_operator-0.3.0-py3-none-any.whl": [
+          "stiiurD/QZyBR2nINZEZ5JBF007YbjkScdPPaZlmn5w=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ais-wordnet-sim": {
     "1.4": {
       "sdist": [
@@ -51002,6 +51028,18 @@
         ]
       }
     },
+    "1.18.16": {
+      "sdist": [
+        "FwRRbtyUqmOw26jSyXCdaPkuvL2IA3b50EAnyjSPBns=",
+        "mypy-boto3-securityhub-1.18.16.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_securityhub-1.18.16-py3-none-any.whl": [
+          "/U951iXRsNRuKhNpDR8uOrFbKE0ZTojCmVjnqeU5Q/c=",
+          "py3"
+        ]
+      }
+    },
     "1.18.2": {
       "sdist": [
         "Px2w/0LcPzhEB+5rnRt0Ffuxomrlmr4U3pTNxV1VAso=",
@@ -55928,6 +55966,18 @@
       "wheels": {
         "mypy_boto3_worklink-1.18.15-py3-none-any.whl": [
           "QNYne4NLrMUEfl27P5JCWkfSMQnXwUh879ffLDd9ULA=",
+          "py3"
+        ]
+      }
+    },
+    "1.18.16": {
+      "sdist": [
+        "FxFL3xtnuIK3FgqDywiZUOxMFwArJyAuRo6SAYGdKWE=",
+        "mypy-boto3-worklink-1.18.16.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_worklink-1.18.16-py3-none-any.whl": [
+          "qjAS61hwy6T0FhMVK0GhVUSYQg5wWC1TWLvDqLk5b+s=",
           "py3"
         ]
       }
@@ -90632,6 +90682,122 @@
         ],
         "swat-1.9.2-0-cp39-cp39-win_amd64.whl": [
           "NsKZ3hrZkhA0zVyXCvx7Q3hWMkbi80CyY8SbRuhhGfk=",
+          "cp39"
+        ]
+      }
+    },
+    "1.9.3": {
+      "wheels": {
+        "swat-1.9.3-0-cp27-cp27m-macosx_10_9_x86_64.whl": [
+          "ojg7KYjPiBNuzXnQg25cJIhmg56FLoikNw0NGxCRyn4=",
+          "cp27"
+        ],
+        "swat-1.9.3-0-cp27-cp27m-manylinux1_x86_64.whl": [
+          "flExc6GeHFu2g86tjG+8YIuMXHikooc44BwMtc0HhU8=",
+          "cp27"
+        ],
+        "swat-1.9.3-0-cp27-cp27m-manylinux2014_ppc64le.whl": [
+          "Qm5CsmNOzYBU3mu1Iekh0rW0Tufrx0kUJNRnY1TyAkw=",
+          "cp27"
+        ],
+        "swat-1.9.3-0-cp27-cp27mu-macosx_10_9_x86_64.whl": [
+          "NzCZP3si5zKKqrQsm8mzCrJmutEA4CfMvBBgkU8mXJU=",
+          "cp27"
+        ],
+        "swat-1.9.3-0-cp27-cp27mu-manylinux1_x86_64.whl": [
+          "WsyC7sEY3acgDxTMv3rzSIema6ro3PpLmAMdguOCFQI=",
+          "cp27"
+        ],
+        "swat-1.9.3-0-cp27-cp27mu-manylinux2014_ppc64le.whl": [
+          "OBZ2v0yX+vPk3Ovm8ZocsxcmEXChnRxKe9L0EoT0VQ4=",
+          "cp27"
+        ],
+        "swat-1.9.3-0-cp27-cp27mu-win_amd64.whl": [
+          "sZ0TBJL5hK34fRjGpNO43uZgdWDvfB342CnV5CLXkYY=",
+          "cp27"
+        ],
+        "swat-1.9.3-0-cp27-cp27m-win_amd64.whl": [
+          "WsTZyM9/u1hE392KeOr26fkJoNUtTrFI+pAqPVfP234=",
+          "cp27"
+        ],
+        "swat-1.9.3-0-cp35-cp35m-macosx_10_9_x86_64.whl": [
+          "/7uTB9WabJK96e0wgjqZKud3mk6/ZhpADBOriq1WtDE=",
+          "cp35"
+        ],
+        "swat-1.9.3-0-cp35-cp35m-manylinux1_x86_64.whl": [
+          "cbmL880L4pKPLQcLCrHk7o0FVhHVKWavO023EV/21fg=",
+          "cp35"
+        ],
+        "swat-1.9.3-0-cp35-cp35m-manylinux2014_ppc64le.whl": [
+          "OLeQFyLBjLUR9oCOCTtCRAsq9b1PCJAjD58NQCIvp8w=",
+          "cp35"
+        ],
+        "swat-1.9.3-0-cp35-cp35m-win_amd64.whl": [
+          "tPGZ8wa0265wge/SO8FLR3bDrUkpMYQkRKjFC/2RyNs=",
+          "cp35"
+        ],
+        "swat-1.9.3-0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "Fo994W4B50rr5NSUqtfEyfa1TR+ONnb/zwOEciqQv3Y=",
+          "cp36"
+        ],
+        "swat-1.9.3-0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "JLnbu3ptFBmSnTuoc/D1mnDtEUkO4Mf8kQpy6AKgw/s=",
+          "cp36"
+        ],
+        "swat-1.9.3-0-cp36-cp36m-manylinux2014_ppc64le.whl": [
+          "5RhUHKG5uYZv4wClDbdcEBp7gG2PDv9D+uegCaQM1iM=",
+          "cp36"
+        ],
+        "swat-1.9.3-0-cp36-cp36m-win_amd64.whl": [
+          "3IBD2+BxueJTrT4MZpIAXrjoQpU5gIZ8/yNEF8zRukQ=",
+          "cp36"
+        ],
+        "swat-1.9.3-0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "rOTd1TRvtQHVhqsUaM+7UZYMxVV18sSXl4zAIJRfqi0=",
+          "cp37"
+        ],
+        "swat-1.9.3-0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "r8TpQoN7FWXHQnO+X+EW5rY6uPszNPy0RZNrd7dq/Wc=",
+          "cp37"
+        ],
+        "swat-1.9.3-0-cp37-cp37m-manylinux2014_ppc64le.whl": [
+          "i+z5hvq99hr1BGueONX1l54pwUaggaWMJzPyVzPG7Hw=",
+          "cp37"
+        ],
+        "swat-1.9.3-0-cp37-cp37m-win_amd64.whl": [
+          "MQILejbTJdwVAWh9io9VB/90N1AyiyMZTTGeWO7PMnk=",
+          "cp37"
+        ],
+        "swat-1.9.3-0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "y79D0O7SlM3CZmmdwq+r05+OUrMa002jBJUcLxhBt4s=",
+          "cp38"
+        ],
+        "swat-1.9.3-0-cp38-cp38-manylinux1_x86_64.whl": [
+          "Pxnt6ZFtw2CKlMHOuN76ZyIVleytdtsfV9KIZpQbdXw=",
+          "cp38"
+        ],
+        "swat-1.9.3-0-cp38-cp38-manylinux2014_ppc64le.whl": [
+          "fgyOARcR0zJMYETu/4sUBeIrd5ElyPchlO7I8VyHyys=",
+          "cp38"
+        ],
+        "swat-1.9.3-0-cp38-cp38-win_amd64.whl": [
+          "FHuGvqr/zGTmjFy/8fYWQoCnc4uMh0U7K/Ky/w09FfM=",
+          "cp38"
+        ],
+        "swat-1.9.3-0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "gTX1l99rGB/lVqhMP8jON731yEG2B4NOSHDpQ++ltrU=",
+          "cp39"
+        ],
+        "swat-1.9.3-0-cp39-cp39-manylinux1_x86_64.whl": [
+          "/CBMYDXrJHxzuvOmP5C3lPjRFxkywsWy96tcAhIojuw=",
+          "cp39"
+        ],
+        "swat-1.9.3-0-cp39-cp39-manylinux2014_ppc64le.whl": [
+          "CXXwVWjmbj6S6kcOOn3Zd51mbW9WaDgyrSkzGRG6qqU=",
+          "cp39"
+        ],
+        "swat-1.9.3-0-cp39-cp39-win_amd64.whl": [
+          "hMh+V5kYv2d+zKCVqf0JpPsqCv+KT/vil7HW1cN2N+4=",
           "cp39"
         ]
       }
