@@ -3316,6 +3316,18 @@
         ]
       }
     },
+    "0.11.5": {
+      "sdist": [
+        "229AiFJ9d4Z8merXT4ItIR+WNBZiihkZ8WBJikZqdGQ=",
+        "audformat-0.11.5.tar.gz"
+      ],
+      "wheels": {
+        "audformat-0.11.5-py3-none-any.whl": [
+          "dPZ45eeYAzY07WmX+KNQFwWr9cD+FrMOEoPdmwwfaMs=",
+          "py3"
+        ]
+      }
+    },
     "0.9.0": {
       "sdist": [
         "f6GLdAWSDpvjnHaK74OUdxvWRQgYH9nYGfZqHET8qH0=",
@@ -85641,6 +85653,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "N3uMZRC7gaCCaU9GjLp1+AZazbU3/mtbu1G4Qzo70OU=",
+        "pyusb-chain-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pyusb_chain-0.2.0-py3-none-any.whl": [
+          "zCETA3ZVBd+IRd6GBFRqqQhcjxb4WQ5zhh8XpHFboiM=",
+          "py3"
+        ]
+      }
     }
   },
   "pyutopia": {
@@ -96560,26 +96584,14 @@
     }
   },
   "target-s3-jsonl": {
-    "0.0.1": {
+    "0.0.4": {
       "sdist": [
-        "+cgoAQxxscYpfI+/5NdFUHfrWm0P8B9UGh5clXMeex4=",
-        "target-s3-jsonl-0.0.1.tar.gz"
+        "mdLerpQQ3pgJBBAx7FyRyYfkKtcftgFp2b0b2Ya+79U=",
+        "target-s3-jsonl-0.0.4.tar.gz"
       ],
       "wheels": {
-        "target_s3_jsonl-0.0.1-py3-none-any.whl": [
-          "LBmGEF0iGqrvGACh/W/gdhGDF+iih3LXgf8WSxztPG4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "ReCWbgUa7tCtydk9Hk0OhExvBh9jcO0HITA3bWq5NBc=",
-        "target-s3-jsonl-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "target_s3_jsonl-0.0.2-py3-none-any.whl": [
-          "p2K9IlDOMExI+Ys1tl1jh/rBXLo+3djd1tgU54VBzM8=",
+        "target_s3_jsonl-0.0.4-py3-none-any.whl": [
+          "4aGDd0TvyZC/7vdvDuAfNRrV8dbrq0N8Xzh9YU5HOQo=",
           "py3"
         ]
       }
@@ -104234,6 +104246,58 @@
         ],
         "tensorflow_text_nightly-2.7.0.dev20210808-cp39-cp39-win_amd64.whl": [
           "rlJqjLI3lTvR2crgvPrW4msBwkUJiMBxsWrbgI4uQYg=",
+          "cp39"
+        ]
+      }
+    },
+    "2.7.0.dev20210809": {
+      "wheels": {
+        "tensorflow_text_nightly-2.7.0.dev20210809-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "O8IlqKJbmPecOq2rxaNUCkx3+FpmO/gwrjDPBnUOIdI=",
+          "cp36"
+        ],
+        "tensorflow_text_nightly-2.7.0.dev20210809-cp36-cp36m-manylinux1_x86_64.whl": [
+          "pxhsd9Ks5JVVUj9PzDUaPrNykrYxM8Dns+0779JWzOM=",
+          "cp36"
+        ],
+        "tensorflow_text_nightly-2.7.0.dev20210809-cp36-cp36m-win_amd64.whl": [
+          "J/XyCxbxajGLOCbdTfmXEuk7NbwSdHWwSWJXg34kz4s=",
+          "cp36"
+        ],
+        "tensorflow_text_nightly-2.7.0.dev20210809-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "a2gawocLSX5Fw54d4p+fJvpx8WWifrmgXAMZ1N4MBHQ=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.7.0.dev20210809-cp37-cp37m-manylinux1_x86_64.whl": [
+          "0EMoX8erRFdCbhFGI3FBBRq/OGlDmRuSFsUUAPcyh/s=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.7.0.dev20210809-cp37-cp37m-win_amd64.whl": [
+          "meedYcfsCJSMfnz2tTHWEVWBKFAByobS+RjIiM3aI8s=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.7.0.dev20210809-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "/H+ZhMqWk/tCkFxWxr+wc6d70FKdpyef5L8/28zn6iE=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.7.0.dev20210809-cp38-cp38-manylinux1_x86_64.whl": [
+          "uHm0t3wqIVBGL5aNLUfNH9AUxoEwOGIVgiN5ov+FkoM=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.7.0.dev20210809-cp38-cp38-win_amd64.whl": [
+          "UEA2z+GyuuWGrMRM1H7PwgSA/2PzmOE2u+cExlF+Vh8=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.7.0.dev20210809-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Begr6QmrpIT9YFYCPg2K+YHxQivB2XGpO/qQoR9Iviw=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.7.0.dev20210809-cp39-cp39-manylinux1_x86_64.whl": [
+          "+wry3NJk0lzxZ5A4hujNrUuVGVIHfTDVTO7I1IX3Sko=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.7.0.dev20210809-cp39-cp39-win_amd64.whl": [
+          "DkTgAnn0hIyvgcclmCVpUyBC63TZK+/g0atUFYkTk3o=",
           "cp39"
         ]
       }
