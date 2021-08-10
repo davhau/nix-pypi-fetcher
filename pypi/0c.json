@@ -3060,6 +3060,12 @@
         "ansible-2.9.24rc1.tar.gz"
       ]
     },
+    "2.9.25rc1": {
+      "sdist": [
+        "pnpE29SiZowgMdJCWE6YafzIm0TuBfinH537QEIRZZY=",
+        "ansible-2.9.25rc1.tar.gz"
+      ]
+    },
     "2.9.3": {
       "sdist": [
         "NvUBoX+xXSEHIrZJ1TWCrPR4NeoLvafqt54TyUXk6sI=",
@@ -8074,6 +8080,18 @@
       "wheels": {
         "azure_mgmt_security-1.0.0b1-py2.py3-none-any.whl": [
           "u5L/tqNXRyk3xFanwkO3tj6YcjWKQwfG+ziqN/AB7qE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.0.0b1": {
+      "sdist": [
+        "8Ksa08w8EeZEKXIk2AQ4zHCmfvTDwzV/k9I67CVusIQ=",
+        "azure-mgmt-security-2.0.0b1.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_security-2.0.0b1-py2.py3-none-any.whl": [
+          "H7VvbHWgwsFcKqNlFhEp1SgM7b3TjtVgt3Kpm027JKM=",
           "py2.py3"
         ]
       }
@@ -17678,6 +17696,22 @@
       "wheels": {
         "cirq_web-0.12.0.dev20210810005821-py3-none-any.whl": [
           "hrnlFffWRzlf4YW0JLzSddyvcQjuIvHlRurV68ltl4M=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.0.dev20210810045225": {
+      "wheels": {
+        "cirq_web-0.12.0.dev20210810045225-py3-none-any.whl": [
+          "hLahYEoEHKh6Lbve51sp5lJBjNcxclYpD8JtNRW02uE=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.0.dev20210810051536": {
+      "wheels": {
+        "cirq_web-0.12.0.dev20210810051536-py3-none-any.whl": [
+          "/3+Z2UvlB4kFtfbkwpdIj8D/K3AZwnruhZi36JcRUlA=",
           "py3"
         ]
       }
@@ -48364,6 +48398,54 @@
         ]
       }
     },
+    "0.10.1": {
+      "sdist": [
+        "19CyjOtQdgP9Es0X6Wr7rtE/Jvj5yLzCtpoUN/YZz7o=",
+        "jupyterlab_requirements-0.10.1.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_requirements-0.10.1-py3-none-any.whl": [
+          "ubmZbiskyyq7yCRCekR3XPF5QrU/ZHjaJ/MoOX6ntEg=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.2": {
+      "sdist": [
+        "oeRc12vM5cNqywuWffHu/L66jjZJtPMvJ0rl6+CXs78=",
+        "jupyterlab_requirements-0.10.2.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_requirements-0.10.2-py3-none-any.whl": [
+          "vrgcSi6HgNDHUSIACC5NrZCVY98B0yt50f/oIi2pzvs=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.3": {
+      "sdist": [
+        "2SxyZ8n/K/z4dZsQ57qx+OH2HNuxtIFN1InSNd9ocyM=",
+        "jupyterlab_requirements-0.10.3.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_requirements-0.10.3-py3-none-any.whl": [
+          "Yj6e9NfNMXVHy/DpkqSruaHYaimbzs0POq8NxuBenRw=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.4": {
+      "sdist": [
+        "9XCu9aQBRhYPsBtyjASW99P+asJMOPGugH0hoUvISNQ=",
+        "jupyterlab_requirements-0.10.4.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_requirements-0.10.4-py3-none-any.whl": [
+          "y9tom8Fs6n6ZXcBbv4XGA3hxLxS902khoOUTJApjONY=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "wjq9zWzhORSGiDRBxhw4CGTYnwLmuJbLtdLmOOTzDlg=",
@@ -68855,6 +68937,32 @@
       ]
     }
   },
+  "num-dual": {
+    "0.3.0": {
+      "wheels": {
+        "num_dual-0.3.0-cp36-abi3-macosx_10_7_x86_64.whl": [
+          "du0IKbiMl2uicZS/BzGA0d2I+XhT+6DY6NUqU8EO6DU=",
+          "cp36"
+        ],
+        "num_dual-0.3.0-cp36-abi3-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "NNkvUTzn9zPFesRS/NgBGSRrYABpTR/QyKP6fEEDWH4=",
+          "cp36"
+        ],
+        "num_dual-0.3.0-cp36-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "sXo14/JTOk4CtcI/U94xwNyXG5ZpOv5kxpAgBtZZZvU=",
+          "cp36"
+        ],
+        "num_dual-0.3.0-cp36-abi3-win32.whl": [
+          "+b/eCNsOBZxtC5eSGuZtTHph5fOGV3kWic8MfWVRTYY=",
+          "cp36"
+        ],
+        "num_dual-0.3.0-cp36-abi3-win_amd64.whl": [
+          "vERr7IGUBC3keZweNSE8Egpa93uMXiH5jss2XsF3kOk=",
+          "cp36"
+        ]
+      }
+    }
+  },
   "numerus": {
     "0.1.0": {
       "wheels": {
@@ -71066,6 +71174,14 @@
       "wheels": {
         "odoo14_addon_account_invoice_mode_monthly-14.0.1.0.1-py3-none-any.whl": [
           "5EhoEoiJAqIAGYpActJB03xWdlLdbe6r7dOBly60tAw=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.1.0": {
+      "wheels": {
+        "odoo14_addon_account_invoice_mode_monthly-14.0.1.1.0-py3-none-any.whl": [
+          "gHFe99jWh2TJM7Oj5DV2qxd1up6INRzWT6wZJYyuOOs=",
           "py3"
         ]
       }
