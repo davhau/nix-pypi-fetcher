@@ -5349,6 +5349,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.0.0b4": {
+      "sdist": [
+        "Xb6Bu6OqmQydLvBvLbW+y/wxiukUuYbh4WcXaYb5nGY=",
+        "azure-ai-translation-document-1.0.0b4.zip"
+      ],
+      "wheels": {
+        "azure_ai_translation_document-1.0.0b4-py2.py3-none-any.whl": [
+          "s1gma4mMKiuFn8GQupOK2LeMwr9qfumyn4LMhguW2/o=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "azure-cognitiveservices-anomalydetector": {
@@ -41383,6 +41395,24 @@
       ]
     }
   },
+  "mrmino.third-test": {
+    "1": {
+      "wheels": {
+        "mrmino.third_test-1-py3-none-any.whl": [
+          "he5yUEBuP4i8lrbPu9gCMIRAORKNiMcYMJn7mHm71pA=",
+          "py3"
+        ]
+      }
+    },
+    "4": {
+      "wheels": {
+        "mrmino.third_test-4-py3-none-any.whl": [
+          "qC9loyGj49kPGCVIn36MKQ37M0YWS3/u5ydaNvWvCJU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mte": {
     "0.0.2": {
       "sdist": [
@@ -75307,6 +75337,12 @@
         "2WwlBbMsvFVZAlROOfRmrWLmyouPG88T6FUuKf5/pMU=",
         "saspy-3.7.3.tar.gz"
       ]
+    },
+    "3.7.4": {
+      "sdist": [
+        "cL3Le/fWPAdfS5sStyQpqfO4GIyP0Kwt6sSX+rcyy24=",
+        "saspy-3.7.4.tar.gz"
+      ]
     }
   },
   "saturno": {
@@ -95255,6 +95291,42 @@
         "EKlo1jKMZVkhut4qZW21B/g5f7FqHYxiMBgua6CH568=",
         "vissccnet-0.1.tar.gz"
       ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "tvvALNV8Na0y7ObtuyiUeu0iQeab7G1UvGwu/jEbbnU=",
+        "vissccnet-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "vissccnet-0.2.0-py3-none-any.whl": [
+          "XxeEnhcZbmsQmzpEzFyNxmVsWx9w5aZH+dQaG3vt/2s=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "mPnxm+z3bfwnX29OIKoPUYbxxExi/MQ1irLPI9a1wm8=",
+        "vissccnet-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "vissccnet-0.2.1-py3-none-any.whl": [
+          "Siq+k37K9csstDhyXb/WDHEzpYitisAzamT3nlHjiGY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "M8qUbD/m1Yd1Tj5YFNzyIBo3wcYr7AFO+xPNBMLRUJY=",
+        "vissccnet-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "vissccnet-0.2.2-py3-none-any.whl": [
+          "8vaqmTeXVDCV6O7ctn/rCGnPfy32tdVo/9Z2my+tPsQ=",
+          "py3"
+        ]
+      }
     }
   },
   "vistec-ser": {
@@ -96866,12 +96938,16 @@
         "Wasserstein-1.0.1.tar.gz"
       ],
       "wheels": {
-        "Wasserstein-1.0.1-cp310-cp310-win32.whl": [
-          "64C0ZXdSxeDU0L9hlZWjbaS6ZjBVpNcbmY4IVgSBqFY=",
-          "cp310"
-        ],
         "Wasserstein-1.0.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "0VRvqXV7cNAaJZiHNhcr3A3rKUPOkCBSmmE8fA1P89U=",
+          "cp36"
+        ],
+        "Wasserstein-1.0.1-cp36-cp36m-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "TP9IZnYYTjrw+VHYRkduA7Vi1F0ps77XZoiGTmmUQRE=",
+          "cp36"
+        ],
+        "Wasserstein-1.0.1-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "RmulikT3zmxKPWtU8/uSZfgqMuTWXtfryfmOL8+hs+I=",
           "cp36"
         ],
         "Wasserstein-1.0.1-cp36-cp36m-win32.whl": [
@@ -96886,6 +96962,14 @@
           "IldOpY0zYajsOvwbbdydyHiXgH3BTH1O7DkET0L2ucY=",
           "cp37"
         ],
+        "Wasserstein-1.0.1-cp37-cp37m-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "9/NFN5G+nOKWSNWrDjPgqoR9KuquYmS0ZVMstJaiWcg=",
+          "cp37"
+        ],
+        "Wasserstein-1.0.1-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "cw1e+8m1ZUvRB2tBxgR/p5LG31xfU7wb8zslbeVpp2A=",
+          "cp37"
+        ],
         "Wasserstein-1.0.1-cp37-cp37m-win32.whl": [
           "cWp6XvSeBjjWRnK2sUoXhB8BWKzNHmMNIGz07dmQSsw=",
           "cp37"
@@ -96896,6 +96980,14 @@
         ],
         "Wasserstein-1.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
           "X0KgQtLtwyyTAxVdDZM/kIP/yebCwTVQAhXA7LQ39zk=",
+          "cp38"
+        ],
+        "Wasserstein-1.0.1-cp38-cp38-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "4OF1j6XNFi/HrItvRwdSouwaNtFgm24uHk/R8VlbURU=",
+          "cp38"
+        ],
+        "Wasserstein-1.0.1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "vSDI8HYkV8YDyS8NoKG32H7yazenmLnpwB3+6lns5eQ=",
           "cp38"
         ],
         "Wasserstein-1.0.1-cp38-cp38-win32.whl": [
