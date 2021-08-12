@@ -3576,6 +3576,30 @@
         ]
       }
     },
+    "1.115.0": {
+      "sdist": [
+        "9PvBAHfwVhcypcY++Ev81+rv55Q/OpauXqqM7e15UlI=",
+        "aws-solutions-constructs.aws-apigateway-dynamodb-1.115.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_apigateway_dynamodb-1.115.0-py3-none-any.whl": [
+          "7lu8Mt+VoxPA5NKtJWdI1B3HKgqLBp+ty0zNOM28EF0=",
+          "py3"
+        ]
+      }
+    },
+    "1.116.0": {
+      "sdist": [
+        "jkYu+aETfObfP0O3MqxpkNINka661sdsBRJfZiBs+qI=",
+        "aws-solutions-constructs.aws-apigateway-dynamodb-1.116.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_apigateway_dynamodb-1.116.0-py3-none-any.whl": [
+          "PS603HJ9jNQ15c/ynHV/8RzFuc5L6KR6+Vr7ed41ElY=",
+          "py3"
+        ]
+      }
+    },
     "1.46.0": {
       "sdist": [
         "wuZLbRC5tScFC9J9iGwrMG+pW+LBKBFPjvE1k28mR7w=",
@@ -4632,6 +4656,30 @@
       "wheels": {
         "azcam_expstatus-21.3.1-py3-none-any.whl": [
           "fs5nBFVq4nEtcx/8uq7zRZ540+AWadERU3Jqf/PxQu0=",
+          "py3"
+        ]
+      }
+    },
+    "21.3.3": {
+      "sdist": [
+        "uZi87OSEwE67738roTttUH2yTZXjRPEW6C7gdW8jb8c=",
+        "azcam-expstatus-21.3.3.tar.gz"
+      ],
+      "wheels": {
+        "azcam_expstatus-21.3.3-py3-none-any.whl": [
+          "C7A3BS071LDmOwvnpAiLlj8QKDAfTtAPUvOU85xhovA=",
+          "py3"
+        ]
+      }
+    },
+    "21.3.4": {
+      "sdist": [
+        "vV+7YdkFSQKjuuUusiZnT+zUL2b2NJHRKctvuJ8nD7U=",
+        "azcam-expstatus-21.3.4.tar.gz"
+      ],
+      "wheels": {
+        "azcam_expstatus-21.3.4-py3-none-any.whl": [
+          "JkRDUMnrl8V7FzL7qBkN8y//qj8h2iNhZ6feDYHjy/o=",
           "py3"
         ]
       }
@@ -10834,14 +10882,62 @@
     }
   },
   "cdk-datalake-constructs": {
-    "0.0.5": {
+    "0.0.10": {
       "sdist": [
-        "BEkl7/q1aIws913G8NRtbcrR+yHIjo/u0A58axG7TOs=",
-        "cdk-datalake-constructs-0.0.5.tar.gz"
+        "+iocOOnORrmxVMncAy3dqNts6uNL/5ufsAXpqxEVBhk=",
+        "cdk-datalake-constructs-0.0.10.tar.gz"
       ],
       "wheels": {
-        "cdk_datalake_constructs-0.0.5-py3-none-any.whl": [
-          "sPs4ulmqFovRIPwuLEkccVjejd+6QzBS4JEkUb78wG4=",
+        "cdk_datalake_constructs-0.0.10-py3-none-any.whl": [
+          "mwk7nsWI1AiYjlIVoydet7dKquB59pjy9mRppvri7j4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "ySjFHn7dgT/ZuA6wGkAxi4sXQZnX/4EOo1YkkfmlXi8=",
+        "cdk-datalake-constructs-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "cdk_datalake_constructs-0.0.11-py3-none-any.whl": [
+          "KUtKnFLFp+4zDB/qw7FsptO+5WS/q+jKxRHZpInylSE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "69t1qlPaMTaZV1JCDfBugMQS/UOBBhGtGwz9tGelUN0=",
+        "cdk-datalake-constructs-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "cdk_datalake_constructs-0.0.7-py3-none-any.whl": [
+          "iVs0ztymhEA4JPNCGaCzh0HLQbWY4xr4lWQU+HmwyGQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "uZG+awEg1cgGiz71koqtTjFpDqcpfoSTxvj2wWL3By8=",
+        "cdk-datalake-constructs-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "cdk_datalake_constructs-0.0.8-py3-none-any.whl": [
+          "1+OM91LCToQtQI2l4rTSARt2X5BhPh0b4+Gb+SDQIys=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "1kKMaMnYNQ3SXSkRcqNnYVyqi9qip+LXp0u/EvRo49Q=",
+        "cdk-datalake-constructs-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "cdk_datalake_constructs-0.0.9-py3-none-any.whl": [
+          "szHosnQ2VbQ9HNf+2UoaMQIt5LTKUtBFxT3TkKUaFMY=",
           "py3"
         ]
       }
@@ -54878,6 +54974,62 @@
         ]
       }
     },
+    "1.13.10": {
+      "sdist": [
+        "nBayTi55Yz6lbhZ7oo1EgWFToxQTK5LwywhRt8rvLLU=",
+        "OctoBot-Trading-1.13.10.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-1.13.10-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "83b+7PE4MZkpeJcjUYyY+g8gRIadd88isYEwhsRhFe0=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.13.10-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "FzmHeuQ9K4hxqRWc7kLGIiGJ5IcK2S5bT0nGL2yEluQ=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.13.10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5Yctc0ke9P0wcYi4WiSYH/PHWzocgDp09tq/jQe/v8U=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.13.10-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "LC2loTCWr+a+Mn2e7v1LZ5D/aHweEcypLVyt3dPfT3s=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.13.10-cp38-cp38-win_amd64.whl": [
+          "Vn+pan9MZARTxCwyh/gaIRXtLVMqQd+uQ44jdnYdhRI=",
+          "cp38"
+        ]
+      }
+    },
+    "1.13.11": {
+      "sdist": [
+        "hS3eS2IPI9E6Bo5DAVSLc/chGO4lK2S8NayngF/eHNQ=",
+        "OctoBot-Trading-1.13.11.tar.gz"
+      ],
+      "wheels": {
+        "OctoBot_Trading-1.13.11-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "fcQR+Ya3bFjoWathcptCZ+7nLbg/mgkqdZ0TxhGv3qw=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.13.11-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "HnTdDChH7senKSkR5UJJKZJWru0hJDury7TccB5MFj4=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.13.11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hFrLDgAXP9YA+g5c8u57KhMsqquAjwpa4QcolWBjzRk=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.13.11-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Jv1uP8N0Qd0tEz+4m6Niqnf3iIuyaJrJlOkdHhJ6EUE=",
+          "cp38"
+        ],
+        "OctoBot_Trading-1.13.11-cp38-cp38-win_amd64.whl": [
+          "zbK6DWXSjD/TfdwXEPJdKbvDVSQs6UbgrP+gaJN9G6E=",
+          "cp38"
+        ]
+      }
+    },
     "1.13.2": {
       "sdist": [
         "Gea0SzwkNH62t8VhhiFwEg3xjMlY81dglXAl1xbmuAs=",
@@ -58209,6 +58361,18 @@
         "OPILtUn3rlIMU4GCZ7Pf2Apdif25fdu6IVGSkXcHe3Q=",
         "opentelemetry-instrumentation-kser-0.1.2.tar.gz"
       ]
+    },
+    "0.1.3": {
+      "sdist": [
+        "6XZpD0S0OyycP/W3q3Mz0tgsDvHcrmRnkLaT16hBNBE=",
+        "opentelemetry-instrumentation-kser-0.1.3.tar.gz"
+      ]
+    },
+    "0.1.4": {
+      "sdist": [
+        "QNa42oOcIIeFxDIK+g23Ypx6xOw0m/GLtvbd9a/brZw=",
+        "opentelemetry-instrumentation-kser-0.1.4.tar.gz"
+      ]
     }
   },
   "orcas": {
@@ -60158,6 +60322,18 @@
       "wheels": {
         "platepy-1.0.2-py3-none-any.whl": [
           "gCQLvd7VkTOY3J7kZZVfBAMxt2Ayc8kdqdIkrSLSsE8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "GLlSIRSnzq53PwT0OYs+fhBRNxOv/TYW1eWWjZM6SuU=",
+        "platepy-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "platepy-1.0.5-py3-none-any.whl": [
+          "dc6zAMv9/oSu3i9e9dtBL0E8vdeK1nJ2AuBUBuZwA0Q=",
           "py3"
         ]
       }
@@ -93012,6 +93188,42 @@
         ],
         "tensorflow_gpu-2.5.1-cp39-cp39-win_amd64.whl": [
           "JESu26h9q9M/ZMQh57B6iv09xXlrf9QPExpknhAD6Ro=",
+          "cp39"
+        ]
+      }
+    },
+    "2.6.0": {
+      "wheels": {
+        "tensorflow_gpu-2.6.0-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "TGhD8kgu9g6/pcMLS7rwMTe6x+Uai0jcx4sj09HdrA4=",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.6.0-cp36-cp36m-win_amd64.whl": [
+          "vdQVZrex0UCc1yxP7IT9GT7dH0z6R015DCANsPDfRG4=",
+          "cp36"
+        ],
+        "tensorflow_gpu-2.6.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "l/bEoGR+wHRqQ9mpG5pWdZ+CX/3ktzxJN5K2kse2uwY=",
+          "cp37"
+        ],
+        "tensorflow_gpu-2.6.0-cp37-cp37m-win_amd64.whl": [
+          "EkrkcBeVgRNZWoAvSUrKJpvwF1wgTsD2AX1ociAandk=",
+          "cp37"
+        ],
+        "tensorflow_gpu-2.6.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "gOaKDvuobuqH6o7Jof/R3vSNItsWJor1RzBb8LqIl0Y=",
+          "cp38"
+        ],
+        "tensorflow_gpu-2.6.0-cp38-cp38-win_amd64.whl": [
+          "4iBGzikJxhYJ4aIzpUnnqtLkMzJbCuF51YqyLWkhQWA=",
+          "cp38"
+        ],
+        "tensorflow_gpu-2.6.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "QStuJoPfcHG2WqL66sV25KyzPxeJY6MAG4jGOabx9fU=",
+          "cp39"
+        ],
+        "tensorflow_gpu-2.6.0-cp39-cp39-win_amd64.whl": [
+          "c5ExB7ROOCmr4kZmBPTKp2UbaS53rd2pSnZMaFfUwbI=",
           "cp39"
         ]
       }
