@@ -14465,6 +14465,12 @@
         "sPLyupINhpcAebMs9N8nlW4rUak6gXBJwbZT7a3KBD8=",
         "crazehub-3.8.0.tar.gz"
       ]
+    },
+    "3.9.0": {
+      "sdist": [
+        "vSKgLUA5hNMoRMsmpXQJJtVxPhmYsmemYaZmXS1CpsQ=",
+        "crazehub-3.9.0.tar.gz"
+      ]
     }
   },
   "create-flask-project-cli": {
@@ -17440,6 +17446,18 @@
         ]
       }
     },
+    "0.20.2rc1": {
+      "sdist": [
+        "0FA5XI81E7yM2lEwAhh016wANX2M5hKm8szD/qax6kU=",
+        "dbt-0.20.2rc1.tar.gz"
+      ],
+      "wheels": {
+        "dbt-0.20.2rc1-py3-none-any.whl": [
+          "+m9sHpI+zzy1lBhYbLdDDKQ7DmriK7tA0nyopPYC61Q=",
+          "py3"
+        ]
+      }
+    },
     "0.21.0b1": {
       "sdist": [
         "WILkjCnaDhd98COQ8ZEYjnSc/jAQ5Nqdq+jGRR82KJA=",
@@ -18080,6 +18098,18 @@
       "sdist": [
         "nnd3TWIN5LW7falskS3F3BtpKplJsoy6BXb3LliKuyQ=",
         "deluca-lung-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "YFluTBSNPQYSqDp/f2hibVHMQlLNYNIA6+DmQ/38wQo=",
+        "deluca-lung-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "BbZFxQOKMV0TXFYDQHJkLoNJ0NKIruxGHOOuBvBBgPY=",
+        "deluca-lung-0.0.4.tar.gz"
       ]
     }
   },
@@ -37508,16 +37538,22 @@
         "hmtai-2.0.6.tar.gz"
       ]
     },
-    "2.0.75": {
-      "sdist": [
-        "IC136G+vW/nvtmMuVlkoAa0xxpb/kF1YAWypklGUhgg=",
-        "hmtai-2.0.75.tar.gz"
-      ]
-    },
     "2.0.76": {
       "sdist": [
         "2PptD4Eo7LhKAnv7iPffJBYlGWpJ66yONO0sUUgFpWk=",
         "hmtai-2.0.76.tar.gz"
+      ]
+    },
+    "2.0.9": {
+      "sdist": [
+        "ruCSd4vGiJ/3Cl/7nGbrcTKCadaTSBf/Zi7gybf/TZ8=",
+        "hmtai-2.0.9.tar.gz"
+      ]
+    },
+    "2.0.9rc1": {
+      "sdist": [
+        "CeUDgnc/kTrd3oz5pkbUI8Z+X2JXtA2EvrB0bTVYx84=",
+        "hmtai-2.0.9rc1.tar.gz"
       ]
     }
   },
@@ -51316,6 +51352,18 @@
         ]
       }
     },
+    "1.12.0": {
+      "sdist": [
+        "9VeqTf79unH1JgZ3h5SqQNvPuu/Y9Me+Ke4uoDbzOgw=",
+        "meraki-1.12.0.tar.gz"
+      ],
+      "wheels": {
+        "meraki-1.12.0-py3-none-any.whl": [
+          "mbOpIWU2myA8v2bzYcWmw4rBe/M0YC8/Cq23ViNm7p4=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "sdist": [
         "v4pru28lJQWu6xTCJUR8EBuxEVfov378Dyr7GbXhh0E=",
@@ -55366,6 +55414,18 @@
       "wheels": {
         "mypy_boto3_mgn-1.18.21-py3-none-any.whl": [
           "rf2FqvjAZzDcppHzC9XbHTAIgebm2wtpBcmhAKSc/D8=",
+          "py3"
+        ]
+      }
+    },
+    "1.18.22": {
+      "sdist": [
+        "W2HfNsAohgLRbKxmUrbbXPH27VmxGmzdqxrPwV8jzu4=",
+        "mypy-boto3-mgn-1.18.22.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mgn-1.18.22-py3-none-any.whl": [
+          "GhmDMdszKNZeeWa+vpdplPzAbf+3xqW9/1bsmqzQZ6o=",
           "py3"
         ]
       }
@@ -60372,6 +60432,18 @@
         ]
       }
     },
+    "1.18.22": {
+      "sdist": [
+        "iNbr8nAuM7S8BZgLQ+GRr5tX6YufUT/IULrcFFx5kWk=",
+        "mypy-boto3-rekognition-1.18.22.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rekognition-1.18.22-py3-none-any.whl": [
+          "MkCGnM8ZLfBNvj/dEhCjo+qPQVSB2M/4BCdW+D4h2a0=",
+          "py3"
+        ]
+      }
+    },
     "1.18.3": {
       "sdist": [
         "D6/OlOqxhHVZdV3Qozawz94MnGz2QkeeE9n7B3afYUk=",
@@ -65370,6 +65442,18 @@
       "wheels": {
         "mypy_boto3_route53resolver-1.18.21-py3-none-any.whl": [
           "H6ZobT9arxj4qiBoItz0nMeeQwLBWaaHKQ5bz6yrQFA=",
+          "py3"
+        ]
+      }
+    },
+    "1.18.22": {
+      "sdist": [
+        "tNpeP9E1PvDOoW74u0WShKALkyStLCzEnX2uPK8QJiU=",
+        "mypy-boto3-route53resolver-1.18.22.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_route53resolver-1.18.22-py3-none-any.whl": [
+          "zlEcH3Q0MdxDO3xEmzhzcmX+vAYzFfrhVnNtFmVBOA4=",
           "py3"
         ]
       }
@@ -90896,6 +90980,18 @@
         ]
       }
     },
+    "0.7.4": {
+      "sdist": [
+        "R4YZCZG1+ejs+pehpv0CR1SG5SKm1i9L6lPDKnwRcsk=",
+        "requests-cache-0.7.4.tar.gz"
+      ],
+      "wheels": {
+        "requests_cache-0.7.4-py3-none-any.whl": [
+          "ynt9E4Az3/sHkihWpV1Rk0SXAk8dW4QlrLz6WO6XJp8=",
+          "py3"
+        ]
+      }
+    },
     "0.8.0dev0": {
       "sdist": [
         "PY9WhHW+RWVHChf9Sei77mheiTVekl03sc2Ppl8Q3r0=",
@@ -106235,6 +106331,10 @@
         "tf_nightly_gpu-2.7.0.dev20210812-cp39-cp39-manylinux2010_x86_64.whl": [
           "wAg/FN+CYa/qMZnuz7zNbOfo8s0JkQ1HVe05KNd5WAo=",
           "cp39"
+        ],
+        "tf_nightly_gpu-2.7.0.dev20210812-cp39-cp39-win_amd64.whl": [
+          "4QAJ7BKC+NANEPtqXOtTz2DxUxuOHCrYnUs/i0xtYFk=",
+          "cp39"
         ]
       }
     },
@@ -106318,6 +106418,30 @@
         ],
         "tf_nightly_gpu-2.7.0.dev20210815-cp39-cp39-win_amd64.whl": [
           "ONfjGD9cRyGCdrNxYJGWcKGk9qI/2OoT/lR9ZTdipAw=",
+          "cp39"
+        ]
+      }
+    },
+    "2.7.0.dev20210816": {
+      "wheels": {
+        "tf_nightly_gpu-2.7.0.dev20210816-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "8RVNyJOmzV4hdVCcEs6tJmnvqgg//lc2zVyPANvcq/s=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.7.0.dev20210816-cp37-cp37m-win_amd64.whl": [
+          "e+K68MVV/k3YNAUt1NMmwf21cYd1DUPMXbUy7TNW57c=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.7.0.dev20210816-cp38-cp38-manylinux2010_x86_64.whl": [
+          "d2dTEbaqSaGTSQYHNUddkDAdUeuuuJJVfhsFoEkF8iM=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.7.0.dev20210816-cp38-cp38-win_amd64.whl": [
+          "1PbW6OmMv/+ewKEt4TOyqoNVC5AJtTYIP7L41BTHNk4=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.7.0.dev20210816-cp39-cp39-manylinux2010_x86_64.whl": [
+          "aRb4+101OlAfxs4gBueVBj0nJyuBjgI0ANJG+RB39Bs=",
           "cp39"
         ]
       }
@@ -106582,6 +106706,42 @@
         ],
         "threedigrid_builder-0.3.0-cp39-cp39-manylinux1_x86_64.whl": [
           "btowz7dtI2IfMuoMnMX0HU8BiHHhf9Rh+APc3A1h790=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.1": {
+      "wheels": {
+        "threedigrid_builder-0.3.1-cp36-cp36m-manylinux1_i686.whl": [
+          "gluW0Jf8SiauvX7iWVnraumonco4Plz+3oDCe2o751c=",
+          "cp36"
+        ],
+        "threedigrid_builder-0.3.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "Y5Ll1/SSUxLHaCv/CTh8JlRrwcquhkifJeo5zT6lQUM=",
+          "cp36"
+        ],
+        "threedigrid_builder-0.3.1-cp37-cp37m-manylinux1_i686.whl": [
+          "nq0zxYSmXY4RISltKYEahJFcLR2a/whc4UwRG6DLAN0=",
+          "cp37"
+        ],
+        "threedigrid_builder-0.3.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "AQArlHYUKz+YzGTj67CbuLSOKAxmtfcfjsPdWuKf87o=",
+          "cp37"
+        ],
+        "threedigrid_builder-0.3.1-cp38-cp38-manylinux1_i686.whl": [
+          "MjiN/LeiNWzYcX0ywyi7NmTIgEzosJ/gU4JNB7JC+cw=",
+          "cp38"
+        ],
+        "threedigrid_builder-0.3.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "qB0j44LLZT9HQDUQrcPUZd6RJ8Opxz5hSlJBRAEO7TI=",
+          "cp38"
+        ],
+        "threedigrid_builder-0.3.1-cp39-cp39-manylinux1_i686.whl": [
+          "LQT7MiI9DySgmo2v6fJiRoLtiW19vQ9MDxTDQDj1bfw=",
+          "cp39"
+        ],
+        "threedigrid_builder-0.3.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "kxOq0iPZCoEgjRTTRkr4qNpCv02OtRJChUEA3U/XL54=",
           "cp39"
         ]
       }
@@ -112183,6 +112343,18 @@
         "sl4ctcjfQWvXEIIPqNHx8urPtYopyTpI3bfc15r/ZwM=",
         "vaspvis-1.0.6.tar.gz"
       ]
+    },
+    "1.0.7": {
+      "sdist": [
+        "YFuYCWBZIrqCiUDNOc5Hqw5Y1o43lK59zpCTLVRaTws=",
+        "vaspvis-1.0.7.tar.gz"
+      ]
+    },
+    "1.0.8": {
+      "sdist": [
+        "cLSG5we2FkrqLaFDxjsBNiU9RDvduKr6B/K9XH54HwY=",
+        "vaspvis-1.0.8.tar.gz"
+      ]
     }
   },
   "vaurienclient": {
@@ -113030,6 +113202,18 @@
       "wheels": {
         "vtb_state_service_utils-1.7.1-py3-none-any.whl": [
           "jxoKshugEM7D5SZF76s9a7v0g5lQuaaNvHRbj9dZwwk=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.2": {
+      "sdist": [
+        "KgXJkqgp70hZCbVdx6+YSPJhEJN09Y1OC7dQBOoW8uE=",
+        "vtb-state-service-utils-1.7.2.tar.gz"
+      ],
+      "wheels": {
+        "vtb_state_service_utils-1.7.2-py3-none-any.whl": [
+          "fXUTrQe0OBEhCVFwIcL2YTroE/J2tOVAIv0m0QAWyLk=",
           "py3"
         ]
       }
@@ -115408,6 +115592,18 @@
       "wheels": {
         "yqxx-0.5.0-py3-none-any.whl": [
           "PMvCA0dSmdTr81ODJpsNaaLNT2Cvh8CErV39d3Fm2I8=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "ZJCnN/OA4DRE9nwijMEHWGqzLoC5ykbuUv6f0y3ev3c=",
+        "yqxx-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "yqxx-0.5.1-py3-none-any.whl": [
+          "i+7NHqpAxoF8lrYQNhPGWiWSKw/CFuJNAu6sa2EMYFA=",
           "py3"
         ]
       }

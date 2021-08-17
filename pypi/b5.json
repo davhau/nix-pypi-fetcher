@@ -18419,6 +18419,20 @@
       ]
     }
   },
+  "command-injection-tester": {
+    "0.0.1": {
+      "sdist": [
+        "i4y1qnfCyhPVjVeYsG8Q84ApqNtdEIC43Z26LS6CRmw=",
+        "command-injection-tester-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "command_injection_tester-0.0.1-py3-none-any.whl": [
+          "XLq+YDQ7u1JAE8jwPKy0EnleosMj5w+Tw2ZbVJ4epW4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "commontoolsaiopslibs": {
     "0.0.1": {
       "sdist": [
@@ -27498,10 +27512,22 @@
         "dkist-processing-common-0.1.17.tar.gz"
       ]
     },
+    "0.1.18": {
+      "sdist": [
+        "2/ukLVxC+aGlSWcpmAASPHRgtv8maupxk1KMQ/+QWeg=",
+        "dkist-processing-common-0.1.18.tar.gz"
+      ]
+    },
     "0.1.18rc1": {
       "sdist": [
         "WlX8tPBLh04b8vwA5mxD6ADDPfX8LsiwFkc4ZHMs2rE=",
         "dkist-processing-common-0.1.18rc1.tar.gz"
+      ]
+    },
+    "0.1.19rc1": {
+      "sdist": [
+        "4EaNJg1UlPIGugTz0ugIA0TvIkgdCeNxAQQrxcTEYtY=",
+        "dkist-processing-common-0.1.19rc1.tar.gz"
       ]
     },
     "0.1.2": {
@@ -43811,6 +43837,12 @@
         "IpreORdepDJOdn8p3CTl+Eb7xyv4DhqRmyVHpldP9gE=",
         "httpretty-1.1.3.tar.gz"
       ]
+    },
+    "1.1.4": {
+      "sdist": [
+        "IN4OXdWhgpLTbZKMw9blL4sqxz2uxA1B62Le4VSTO2g=",
+        "httpretty-1.1.4.tar.gz"
+      ]
     }
   },
   "hubble-github": {
@@ -46488,18 +46520,6 @@
         ]
       }
     },
-    "0.2.2rc2": {
-      "sdist": [
-        "8Q5XHuvFVWYdb5jMQjry29eaMt7cQhqtRTDcMf9YYoA=",
-        "lightning-flash-0.2.2rc2.tar.gz"
-      ],
-      "wheels": {
-        "lightning_flash-0.2.2rc2-py3-none-any.whl": [
-          "Yj9NXbYEOp9TXuL4W1Inmz2Gz1tWHdemp0NgizUkCaw=",
-          "py3"
-        ]
-      }
-    },
     "0.2.3": {
       "sdist": [
         "stSrdbPBmPMMNL3dDhBlEu4tYJlgpNfeQbWnEiE+g/Q=",
@@ -46520,30 +46540,6 @@
       "wheels": {
         "lightning_flash-0.3.0-py3-none-any.whl": [
           "ZpCxEDSLf/66AuS1aXl6j7/b2r3pqS/Z2nDbY3ksYjs=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0.dev0": {
-      "sdist": [
-        "VPk8GOLq5wzq/F2DEuaUIYKKeenMKB5Q7L2XWVX8zVE=",
-        "lightning-flash-0.3.0.dev0.tar.gz"
-      ],
-      "wheels": {
-        "lightning_flash-0.3.0.dev0-py3-none-any.whl": [
-          "OG4NdgH6ihm0NuzfRi68FKuNuIQj4w+M7JsqE2WLuT8=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0rc0": {
-      "sdist": [
-        "wDvnOqe0yoLqtHEP26nlCZZNGm6XkMb374+E6Hu8R3M=",
-        "lightning-flash-0.3.0rc0.tar.gz"
-      ],
-      "wheels": {
-        "lightning_flash-0.3.0rc0-py3-none-any.whl": [
-          "iYEsquRpjbiA1QyM/ONv+ut1TLB7mpjVDLKU5kjLCWc=",
           "py3"
         ]
       }
@@ -46572,18 +46568,6 @@
         ]
       }
     },
-    "0.3.2rc0": {
-      "sdist": [
-        "Qx+6Jyyk9WI9C01ntQ5BWXWm7O/x9XjEWTGOZY7I7xU=",
-        "lightning-flash-0.3.2rc0.tar.gz"
-      ],
-      "wheels": {
-        "lightning_flash-0.3.2rc0-py3-none-any.whl": [
-          "XzoTJAF4/nw+bI7ufL7V9gudxDrjQRsZIkCViaGmsCg=",
-          "py3"
-        ]
-      }
-    },
     "0.4.0": {
       "sdist": [
         "0/RNibgAETy4aqDe3wiO8wofIc/lK7yOkKV9WqTHxWw=",
@@ -46592,30 +46576,6 @@
       "wheels": {
         "lightning_flash-0.4.0-py3-none-any.whl": [
           "CuIt1JyVp80ATsC+1DjawOvwMIWzAmDLf0KrCBLJOyU=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0rc0": {
-      "sdist": [
-        "Lf52xhsbWxABET+dKyQsQIMYaJhUAwd7LqlEWpX3yzg=",
-        "lightning-flash-0.4.0rc0.tar.gz"
-      ],
-      "wheels": {
-        "lightning_flash-0.4.0rc0-py3-none-any.whl": [
-          "8gOirH9iQeb1NprZ4gR8X8XIUgN+rL2UfwjG8ZNZlYU=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0rc1": {
-      "sdist": [
-        "KQiSExuUI3R/j9z8ua4Cv00kt60ylbdd9rxLyDprlds=",
-        "lightning-flash-0.4.0rc1.tar.gz"
-      ],
-      "wheels": {
-        "lightning_flash-0.4.0rc1-py3-none-any.whl": [
-          "PkjBBKA8snbmmeKKLZRz43HtTmHePs64lbIkl4pGWNI=",
           "py3"
         ]
       }
@@ -60101,6 +60061,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.20210815.0": {
+      "wheels": {
+        "odoo14_addons_oca_pos-14.0.20210815.0-py3-none-any.whl": [
+          "ulihzjTZOitansmt/7SMAyLSiL2opegbfX5dsXzVAo8=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo8-addon-account-payment-order-sequence": {
@@ -66331,6 +66299,12 @@
         "Uhgkv4DSAyP/XAcKeYqzgq+NTo9JXShW2f0Qp9Mwhug=",
         "plonemeeting.portal.core-1.3.3.tar.gz"
       ]
+    },
+    "1.3.3.1": {
+      "sdist": [
+        "DbUisPq6T72g63QnwM6FF7cJ28OR0634WrUsUJVNtMU=",
+        "plonemeeting.portal.core-1.3.3.1.tar.gz"
+      ]
     }
   },
   "plotdf": {
@@ -68676,6 +68650,18 @@
       "sdist": [
         "VZ9iQYfzf5w9B1P7ClJNczEbAtwUGlDH5vHL5RAoIR4=",
         "pyconvertu-0.3.5.tar.gz"
+      ]
+    },
+    "0.3.6": {
+      "sdist": [
+        "MeZ9jvz2o06qdJVfD/95fQYhgKHlv5l8ucaPMKAwxJE=",
+        "pyconvertu-0.3.6.tar.gz"
+      ]
+    },
+    "0.3.7": {
+      "sdist": [
+        "46ebzyQfshiGBQgcD4q4TXd853HcBChuQ5DOuVleM6w=",
+        "pyconvertu-0.3.7.tar.gz"
       ]
     }
   },
@@ -78941,6 +78927,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.6": {
+      "sdist": [
+        "uVPPPedu89XMgVuJYuiwJxCcY60I2LageHb+3tyJCVA=",
+        "routerling-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "routerling-0.2.6-py3-none-any.whl": [
+          "/IcSTe04PotGC4IzYMBNJeLzxhYef/G3DQXAwNJqcRY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.7": {
+      "sdist": [
+        "uRpJzJZGr+Fs25nyhEbHIdN2Z6eJqMtiY74EN3jb0U4=",
+        "routerling-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "routerling-0.2.7-py3-none-any.whl": [
+          "8RPQ88cjGw6KmQyCqpokukiVhppbh5dcvgNwoHWRJNI=",
+          "py3"
+        ]
+      }
     }
   },
   "rpmvenv": {
@@ -80724,6 +80734,18 @@
         ],
         "sagemaker_tensorflow-2.5.0.1.9.0-cp37-cp37m-manylinux1_x86_64.whl": [
           "i/x+gZcllUwL9fnsJIb75pFt5sAQOsUr/Tq01h8+F/c=",
+          "cp37"
+        ]
+      }
+    },
+    "2.6.0.2.0.0": {
+      "wheels": {
+        "sagemaker_tensorflow-2.6.0.2.0.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "DaPJe9Ce28Fwref/sdHGCb1xdPrFsvAFBNgQHLiiP5Y=",
+          "cp36"
+        ],
+        "sagemaker_tensorflow-2.6.0.2.0.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "CWpI8g2ZwXF2DJoO8dK1wIIW7fM03U68U6BUSnolzRw=",
           "cp37"
         ]
       }
@@ -96628,18 +96650,6 @@
         "testflows-1.6.93.tar.gz"
       ]
     },
-    "1.7.0": {
-      "sdist": [
-        "LL33y1CYncy6yfUOOcmLgmj5dfk43awa30+lblnYh6w=",
-        "testflows-1.7.0.tar.gz"
-      ]
-    },
-    "1.7.1": {
-      "sdist": [
-        "kpgSO4XpHk7yuAelmaAf9ZtWC8Y7OcmGUQYTLmvNG8A=",
-        "testflows-1.7.1.tar.gz"
-      ]
-    },
     "1.7.10": {
       "sdist": [
         "sQK8H/DK2eq0M6nKOJ+0V524VZbHrzOuh0OEucYlFfE=",
@@ -96692,12 +96702,6 @@
       "sdist": [
         "eF2cKvUe7huNnvFTs1k4BeEna+d/wAzcTvgvA0AObAM=",
         "testflows-1.7.18.tar.gz"
-      ]
-    },
-    "1.7.2": {
-      "sdist": [
-        "ckd8Otf8oNW5GXxscLyGVYAgrnJ7tsLfSTDuatv+9eg=",
-        "testflows-1.7.2.tar.gz"
       ]
     },
     "1.7.20": {
