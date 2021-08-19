@@ -20652,6 +20652,14 @@
         ]
       }
     },
+    "6.6.4": {
+      "wheels": {
+        "diffusion-6.6.4-py3-none-any.whl": [
+          "UkN32tW0il1BQurbhwUYJWX6X/DeAu8enlqdJhCTsYU=",
+          "py3"
+        ]
+      }
+    },
     "6.6rc1": {
       "wheels": {
         "diffusion-6.6rc1-py3-none-any.whl": [
@@ -28034,6 +28042,10 @@
       "wheels": {
         "examdays-0.0.16-py3-none-any.whl": [
           "O+1cE1kVj1bcQFbRBfM0FftPnlPoud5sMWfPKQctq78=",
+          "py3"
+        ],
+        "examdays-0.0.17-py3-none-any.whl": [
+          "FZfMttqVN8YsfzOYEXajivWo+c3VvO3Bv6PqJK3V4H4=",
           "py3"
         ]
       }
@@ -81025,6 +81037,18 @@
           "3.6"
         ]
       }
+    },
+    "2.1.1": {
+      "sdist": [
+        "HHhRQ2qoyN2RpaeFSAdtYb4oH0HeXTMDCA1cGNMqqek=",
+        "patroni-2.1.1.tar.gz"
+      ],
+      "wheels": {
+        "patroni-2.1.1-py3-none-any.whl": [
+          "cKm9qxIuEZpd26m9rrV+Kaov8emk6u6FuqiravhQiHc=",
+          "3.6"
+        ]
+      }
     }
   },
   "patterns": {
@@ -104971,6 +104995,32 @@
       ]
     }
   },
+  "sms-boomber": {
+    "1.4.5": {
+      "sdist": [
+        "t23bVF+xqpU8o56UA5UwwhnDfRH7vhTiWJO9GZkjh2w=",
+        "sms-boomber-1.4.5.tar.gz"
+      ],
+      "wheels": {
+        "sms_boomber-1.4.5-py3-none-any.whl": [
+          "eq04cpSYuPy36wu+ZspXqh//SUGK06GARtvt5h896Mg=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.6": {
+      "sdist": [
+        "OpOUZqrgs7lz/kcRBhoGdxiCnXy+r+fds0amdcWjRhQ=",
+        "sms-boomber-1.4.6.tar.gz"
+      ],
+      "wheels": {
+        "sms_boomber-1.4.6-py3-none-any.whl": [
+          "/vc3cYpyKA3QvQnJZtFB/5vvOsHJlGXddfahq9TMx8o=",
+          "py3"
+        ]
+      }
+    }
+  },
   "smspy": {
     "0.5.0": {
       "sdist": [
@@ -118182,6 +118232,78 @@
         ],
         "ur_rtde-1.4.4-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
           "I/Z6AGj6C+K7M4/4odCsj6YFQSDNZ+KgziTYPRSdQdY=",
+          "pp37"
+        ]
+      }
+    },
+    "1.4.5": {
+      "sdist": [
+        "0UZGG0nSmM7kihaUcNoY6L0pcv4sqfqysLxzxSRuMtc=",
+        "ur_rtde-1.4.5.tar.gz"
+      ],
+      "wheels": {
+        "ur_rtde-1.4.5-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "QbXWL4VpVu6uv9raEyuwIKaCtPjLts0Vy/+kWtL65hE=",
+          "cp35"
+        ],
+        "ur_rtde-1.4.5-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "5vCIjGvRjU+bP0hKqq7SOiSEIfvVbccULOkoBjhr1mk=",
+          "cp36"
+        ],
+        "ur_rtde-1.4.5-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "fH9aGCGJU3jLdUB3KNT7+78FYTLnYpn/ea3o4Hltwjw=",
+          "cp36"
+        ],
+        "ur_rtde-1.4.5-cp36-cp36m-win_amd64.whl": [
+          "HVPkcXsH/OSEJcUzMYKN76G+vmEq1EnpsTssPXhGQUY=",
+          "cp36"
+        ],
+        "ur_rtde-1.4.5-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "pm/VN9hkNS0xkChNq34kBRqGvEgOsPYlCR1PAWqubHU=",
+          "cp37"
+        ],
+        "ur_rtde-1.4.5-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "4Uho+WjGyj+oRHdr68qXUC7slMm9vwvAVRdY8u0UmAE=",
+          "cp37"
+        ],
+        "ur_rtde-1.4.5-cp37-cp37m-win_amd64.whl": [
+          "ZrlSqQ9TzeRIvIRD7hmJyNge7TYXOU0xOiY3CMKEpE0=",
+          "cp37"
+        ],
+        "ur_rtde-1.4.5-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "RGBVzlbgmFP/d+QAxgMc22KxbpUzmPGmBtdiQFRAHSA=",
+          "cp38"
+        ],
+        "ur_rtde-1.4.5-cp38-cp38-manylinux2014_x86_64.whl": [
+          "3aRP27lllenpmiV19PKSWie4UoR4Il6CICkniQj1ddE=",
+          "cp38"
+        ],
+        "ur_rtde-1.4.5-cp38-cp38-win_amd64.whl": [
+          "Mcuyx54Gls+rufnVySnFMIpSs3dHYEJVytJKu+ZughA=",
+          "cp38"
+        ],
+        "ur_rtde-1.4.5-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "leHyE2h1t/qjT/F9I+2zlZUcsJxdX11BWZlejevMoC8=",
+          "cp39"
+        ],
+        "ur_rtde-1.4.5-cp39-cp39-manylinux2014_x86_64.whl": [
+          "+0yCA+yxRB3+Q2fFZP2y0VHUAfpnbRZQerznh5oZlZo=",
+          "cp39"
+        ],
+        "ur_rtde-1.4.5-cp39-cp39-win_amd64.whl": [
+          "9mqhE9e7jpkF1uYTZhGx4tK3Nlp4CZfNbxshXJpSjqE=",
+          "cp39"
+        ],
+        "ur_rtde-1.4.5-pp27-pypy_73-macosx_10_9_x86_64.whl": [
+          "cRwrvsQLH4BQRgRIJFkPLTWfX0ZXv2QZSYj3dRt0K+o=",
+          "pp27"
+        ],
+        "ur_rtde-1.4.5-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "gzA4AGzxC7MVY49ZGs4vhqB5IyXD3HI2IM6CuPbfdiE=",
+          "pp36"
+        ],
+        "ur_rtde-1.4.5-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "r8+QFG7MA5RF6VEFknrRdpaTbQPYixTBzWtoHZJw63s=",
           "pp37"
         ]
       }
