@@ -19047,6 +19047,18 @@
           "py3"
         ]
       }
+    },
+    "0.21.0b2": {
+      "sdist": [
+        "/nuBaWLp98+QHnSByCOt/kjv52H+ZwD4UWQBlDbTf0s=",
+        "dbt-redshift-0.21.0b2.tar.gz"
+      ],
+      "wheels": {
+        "dbt_redshift-0.21.0b2-py3-none-any.whl": [
+          "HHoDH3+o+HUhqmYNTcoN+lJS6zRPg0pr+n3FJoVZ+Fk=",
+          "py3"
+        ]
+      }
     }
   },
   "ddmin": {
@@ -31364,6 +31376,12 @@
       "sdist": [
         "5SWJ3nY3g10HnmnFOmdhmBXXsBMjhMZyjGvCxPoJj2s=",
         "frida-15.0.15.tar.gz"
+      ]
+    },
+    "15.0.16": {
+      "sdist": [
+        "pGLcoJJK6SY6/5vCAS0D/3076eDAkRvLrshL0aUpkkE=",
+        "frida-15.0.16.tar.gz"
       ]
     },
     "15.0.2": {
@@ -44216,10 +44234,10 @@
     }
   },
   "labelci": {
-    "0.1.0": {
+    "0.1.1": {
       "sdist": [
-        "FvZKT7QLVzON0SYOYA+fe3Tv/g5zRoPe5xHF1pixMN0=",
-        "labelci-0.1.0.tar.gz"
+        "FACXvQIO9X+nIe8/EusxvAyuAzH8be9uAYJ9hUvyQ+s=",
+        "labelci-0.1.1.tar.gz"
       ]
     }
   },
@@ -54996,6 +55014,78 @@
         ],
         "NEURON_nightly-8.0a607-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
           "CcNmDXQWbaNNO/jayRAzW/+G/82ATIZylXu64T/QUyY=",
+          "cp39"
+        ]
+      }
+    },
+    "8.0a623": {
+      "wheels": {
+        "NEURON_nightly-8.0a623-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "zSGbwCacq6HvrzOxbXRAXzyW54Nac91hnIYJGA24ekM=",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0a623-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lrx0Fz0o0j9z8GJx2soDJ7xQ5wckA2Qx/4AQdt46I4Y=",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0a623-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "LWmWiMJX72JxI0xZjGDsmOleurS+KW7keFN1hO9WCjA=",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0a623-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "e/a49rkAMhhNI2VaS5m305L9ufw3ZzWJiLggIGmPLnE=",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0a623-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "H2lV2A3sBcleivxnxOXUxm3lc1nGNCuvTN/0M6Xv1mQ=",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0a623-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Y4JIIlyTQNAXRt9RJiNb2Nojf6taJbDxhur2P2I0re4=",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0a623-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "PlXS/dHk2DB1VDTbJUZHqoMK4Gw5SD36Ak8tMmqBtac=",
+          "cp39"
+        ],
+        "NEURON_nightly-8.0a623-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qUyRO6dZOcAgAD14tp1JQ37LbWSqV8TH2Q4PcB9eOI8=",
+          "cp39"
+        ]
+      }
+    },
+    "8.0a626": {
+      "wheels": {
+        "NEURON_nightly-8.0a626-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "17ISwbWwITye8eljXndDXVdLbHgGtCr2tmm7UNKxQTc=",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0a626-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "P4pDGmz4mh3uI+dfxICiA1lvjzPT5nGDJxrFKy1MihU=",
+          "cp36"
+        ],
+        "NEURON_nightly-8.0a626-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "FgoXzomKDTtJbXL+6DRgDq0waUIbC5TJOvA/nywCm2o=",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0a626-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ceC0vIc85IUCXA0TmR3bmnVUpg1qeKFCPdnplc/1Xdw=",
+          "cp37"
+        ],
+        "NEURON_nightly-8.0a626-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "jNKyKpvplgkOVPV2DUo/kkgWbq2dppS4PQ0/pVwR5XE=",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0a626-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mnthSbf6INvuM5ijK/MgUGPuJ1WE/B01HxNF/1PSTCE=",
+          "cp38"
+        ],
+        "NEURON_nightly-8.0a626-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Nz1UZAYZFvpIWqLO+n+VrCpbNBw012z2TNiRbWpf6Lg=",
+          "cp39"
+        ],
+        "NEURON_nightly-8.0a626-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "j0fkDAhPLf+XPfagoHZzrQgiuxxDitAmWWc8dSc2NMg=",
           "cp39"
         ]
       }
@@ -88012,6 +88102,18 @@
       "wheels": {
         "tencentcloud_sdk_python_organization-3.0.465-py2.py3-none-any.whl": [
           "l1ES4yHQ1L/vonL1uGx1paNJww76qSqdGvQlmbAD97M=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.466": {
+      "sdist": [
+        "oie8xr8aNAlD8S01PK9iW6PzeCj35c89lsOgdGl4wcM=",
+        "tencentcloud-sdk-python-organization-3.0.466.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_organization-3.0.466-py2.py3-none-any.whl": [
+          "i2O5rxthenDuK5v4Q0cu3bXZ1gphkVbTLzS5YVNtstM=",
           "py2.py3"
         ]
       }

@@ -11842,6 +11842,10 @@
           "Yd0uxg4H0Q1txv0JtmZzRg6oMtgf4YOs5l5OnR+xxpI=",
           "cp38"
         ],
+        "cmdstan_builder-0.0.7-cp38-cp38-manylinux2010_x86_64.whl": [
+          "q/dI87PcsTpJ6fCId16wCtkrGfvXxv/1GiQlofS65tU=",
+          "cp38"
+        ],
         "cmdstan_builder-0.0.7-cp39-cp39-macosx_10_11_x86_64.whl": [
           "98TvveEkQywMDK4Eo6jhxf5yVhP8BxFRuDyl3D13Dwg=",
           "cp39"
@@ -59186,6 +59190,18 @@
         ]
       }
     },
+    "1.18.25": {
+      "sdist": [
+        "L0NrMm3L2PWJnPfRseu2UEY0w590sjaynE88exVrM4k=",
+        "mypy-boto3-cloudfront-1.18.25.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_cloudfront-1.18.25-py3-none-any.whl": [
+          "9u8kiV3m+aLRhhq0nIPC34bvPwHzG7e1IY7RBBEGM20=",
+          "py3"
+        ]
+      }
+    },
     "1.18.3": {
       "sdist": [
         "0Z6AoJlIShKJ1QinFOEuqE+eH4L80Nf82jOXg/qr27k=",
@@ -60870,6 +60886,22 @@
         ],
         "nionswift_tool-0.4.12-cp37.cp38.cp39-none-win_amd64.whl": [
           "kcXIi/KbQ1tOPaYErt3YNLKqJWcPmHY6jYrkMGUwWkY=",
+          "cp37.cp38.cp39"
+        ]
+      }
+    },
+    "0.4.13": {
+      "wheels": {
+        "nionswift_tool-0.4.13-cp37.cp38.cp39-abi3-macosx_10_11_intel.whl": [
+          "lXYPLdx9Q1ZVQXBjalaYHxnkoc8a/pc+IQSN3hvjDlk=",
+          "cp37.cp38.cp39"
+        ],
+        "nionswift_tool-0.4.13-cp37.cp38.cp39-abi3-manylinux1_x86_64.whl": [
+          "CH6e31yp2smKw8CN/c4uFFo/4Yc0LTLlM8bDvk98wIY=",
+          "cp37.cp38.cp39"
+        ],
+        "nionswift_tool-0.4.13-cp37.cp38.cp39-none-win_amd64.whl": [
+          "n1U3OgyChwmoXEMzFU/Wg3++VY0nZNwx8x2dZ4cTeBU=",
           "cp37.cp38.cp39"
         ]
       }
@@ -81062,194 +81094,14 @@
     }
   },
   "pytigon-lib": {
-    "0.100": {
+    "0.124": {
       "sdist": [
-        "EtxMsq0XAsGti1Kp3uEzp9juWuOXuVAeSmjIeRUdWvA=",
-        "pytigon-lib-0.100.tar.gz"
+        "LtkZ1xoHnBXllDclE9bk7VEoOcn99N5V5+fm6x7vsC0=",
+        "pytigon-lib-0.124.tar.gz"
       ],
       "wheels": {
-        "pytigon_lib-0.100-py3-none-any.whl": [
-          "w0xkfeEJsFh3uaOStRn6lI9+8RBbaKMzCYoujwBE7Bk=",
-          "py3"
-        ]
-      }
-    },
-    "0.104": {
-      "sdist": [
-        "kyymsaPlinbeUoBuK6x+BGFiX8DQIOcWMuXDZNiIoPs=",
-        "pytigon-lib-0.104.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.104-py3-none-any.whl": [
-          "VuJcufq7znkxnLT9+EJbZNqImdxMJTuAX7Ixbvnyw1k=",
-          "py3"
-        ]
-      }
-    },
-    "0.105": {
-      "sdist": [
-        "Ud/2nvOrbbIzUlCv6kxuqA4xLIxbi+wvvoFGqqMvGP0=",
-        "pytigon-lib-0.105.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.105-py3-none-any.whl": [
-          "gLPpL7N7bZAfBX1hzQ79rG0OOu7rkm39Jq/HiZH+s8c=",
-          "py3"
-        ]
-      }
-    },
-    "0.107": {
-      "sdist": [
-        "4D0Ekrh0Ag+Q7HPXAzI2ntmP9QHnD5LB9S2Y1ND99FM=",
-        "pytigon-lib-0.107.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.107-py3-none-any.whl": [
-          "BTUkQJoDCn1U+eqHaacUHzcqgKdaqpcjkFi46jdamFA=",
-          "py3"
-        ]
-      }
-    },
-    "0.109": {
-      "sdist": [
-        "CJhY3SdCHSm9vq0M6fHn2J+k35vs37nes7AMZX6lV2Q=",
-        "pytigon-lib-0.109.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.109-py3-none-any.whl": [
-          "Bev2KZRDGs2KtlioS5Sx+Kv/LqaqDKF4JlkR45LXB5c=",
-          "py3"
-        ]
-      }
-    },
-    "0.110": {
-      "sdist": [
-        "q0dLc9ZlWZZt1LQgGyyNCP8kdd8oxGV3JBnmTjuyQ34=",
-        "pytigon-lib-0.110.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.110-py3-none-any.whl": [
-          "mEwWAjJ1dAxM7BP1uCUa7OHqHTslSjBfqykQY+4hZqc=",
-          "py3"
-        ]
-      }
-    },
-    "0.111": {
-      "sdist": [
-        "Sp46Id+bPm6AxEbk/Gj057dS/1SahctAONKAEcNUHWk=",
-        "pytigon-lib-0.111.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.111-py3-none-any.whl": [
-          "lGiRLCZIVjCV7ci3/QfhehjtBntYq2AMRu3rhgid++I=",
-          "py3"
-        ]
-      }
-    },
-    "0.112": {
-      "sdist": [
-        "gLUFxASqlZnAkc/vQyNzQM6okm2SckQWJZ3h3JpaTXA=",
-        "pytigon-lib-0.112.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.112-py3-none-any.whl": [
-          "deLkK+KNSnRBEwMnX/u066cnl9qJmSzcy3tduGM7Ziw=",
-          "py3"
-        ]
-      }
-    },
-    "0.113": {
-      "sdist": [
-        "SG+sF+rBzP/ES5rOx2BfRImwqEBQ9qaZqkDgZu5Hdh0=",
-        "pytigon-lib-0.113.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.113-py3-none-any.whl": [
-          "FoPFT/ihDyrttfqjGjuXGmhmiiEucjp6IEwTVYyGEaw=",
-          "py3"
-        ]
-      }
-    },
-    "0.114": {
-      "sdist": [
-        "wX8B/hEQqFAc0xvAvrCWk4HR8ZwWIPS6e5OixD/2pKI=",
-        "pytigon-lib-0.114.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.114-py3-none-any.whl": [
-          "XVnyI/zvd3UtoSXJHvDo3m1kObnoovxPKC0Ikm/v3Ig=",
-          "py3"
-        ]
-      }
-    },
-    "0.115": {
-      "sdist": [
-        "/VcorUeVAA2sfo3w+3QwfKzG4aMN8gZIxEEM34e/sHQ=",
-        "pytigon-lib-0.115.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.115-py3-none-any.whl": [
-          "Wgj0UaqGU1MaYO3TDNpCVtGa+0uVR36jNMFUq4ClxyE=",
-          "py3"
-        ]
-      }
-    },
-    "0.116": {
-      "sdist": [
-        "ejClQBXO6k0RJwov7fonC7WS7Qd6d+JXY4yuwmbWD5I=",
-        "pytigon-lib-0.116.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.116-py3-none-any.whl": [
-          "WosieuuiI/gZBUBPeeFtGqTbWac8E0aPwnrBe9p3nLc=",
-          "py3"
-        ]
-      }
-    },
-    "0.117": {
-      "sdist": [
-        "wpzrhkE5XVX3r5pf2PNpxjV5pdyhajBB0a+5ST9r6zo=",
-        "pytigon-lib-0.117.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.117-py3-none-any.whl": [
-          "tKFI9X5foCFWTHbS+Ozzq7L9SjDc0pvUPG0OsOlIEWQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.118": {
-      "sdist": [
-        "j5SmlAc5EWeNqm4VSCcZtxCDlJYFCFYlSw4XjzNmCDk=",
-        "pytigon-lib-0.118.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.118-py3-none-any.whl": [
-          "1VdofHdd7aKOsw9+U4zgcz73zv2lWlCfeO/eabqcQ6M=",
-          "py3"
-        ]
-      }
-    },
-    "0.120": {
-      "sdist": [
-        "/YAOaKYpNeTArBMueJ9phozwpXiO+3jBnwSfK+D4Bvk=",
-        "pytigon-lib-0.120.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.120-py3-none-any.whl": [
-          "aZzKz7oVLEp2epBQOSlrK7RBGllCgqBJEB8ndFf5VtY=",
-          "py3"
-        ]
-      }
-    },
-    "0.123": {
-      "sdist": [
-        "FiNVQbJIcWkKInwcPZQCW2PVimqQwSagyh5FhwnZ6H8=",
-        "pytigon-lib-0.123.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.123-py3-none-any.whl": [
-          "rYxGpYtN1y9SFHPSMnwHCNx9oUbm6zS7pkUs7iEb6E8=",
+        "pytigon_lib-0.124-py3-none-any.whl": [
+          "HK2WjWY0o1gtdDJIAKDYGHl2SFVYDllKrYb5AvSJQac=",
           "py3"
         ]
       }
@@ -81262,30 +81114,6 @@
       "wheels": {
         "pytigon_lib-0.97-py3-none-any.whl": [
           "u07R4sS1GYzdLCQnuAS/i1NrUFtlzxYknRmxJKsl2WQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.98": {
-      "sdist": [
-        "YLz3zisHSAkNoPYNUQUQZ5YkWjiAk6x2/sQfn2+KOo0=",
-        "pytigon-lib-0.98.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.98-py3-none-any.whl": [
-          "GpuPXRflp42yDcvDlU8E99e5smkSjCoP6tXCFiCYu+A=",
-          "py3"
-        ]
-      }
-    },
-    "0.99": {
-      "sdist": [
-        "Sm8pp1BfCQz65QBINlJgUvuoMwmiAKevFk0Vb9Lbun8=",
-        "pytigon-lib-0.99.tar.gz"
-      ],
-      "wheels": {
-        "pytigon_lib-0.99-py3-none-any.whl": [
-          "ZIePr9UvpszmjBy1BHl6RRFsuW/mgoV0mObo6SBxDGY=",
           "py3"
         ]
       }
