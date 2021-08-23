@@ -22183,6 +22183,30 @@
           "py2.py3"
         ]
       }
+    },
+    "0.47.1": {
+      "sdist": [
+        "fvq+F+bkMaBsM0IF/He7jnzYr72BAM1WSbvHsgvziWY=",
+        "dbnd-airflow-0.47.1.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.47.1-py2.py3-none-any.whl": [
+          "7ghlnREZ+sim1+j4pkpIoM6POd19t+C75Q3B9pAsws0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.47.2": {
+      "sdist": [
+        "ESa0TjnjGECEscRN0QDa21PZeUdzNg/Hfu0KaJrEFZg=",
+        "dbnd-airflow-0.47.2.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.47.2-py2.py3-none-any.whl": [
+          "ch8YGOg6PHwYsdiaD2XfhoAqKEpPfgntn6MGEU5bULM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ddtestlib": {
@@ -43263,6 +43287,14 @@
           "3.6"
         ]
       }
+    },
+    "0.1.202108231626": {
+      "wheels": {
+        "KolejkaForeman-0.1.202108231626-py3-none-any.whl": [
+          "Yb/kJgIP3uTRmw854Y9XCyMc8F4TVKymtBxRgfnn9fw=",
+          "3.6"
+        ]
+      }
     }
   },
   "kprintdiamond": {
@@ -46347,6 +46379,18 @@
           "py3"
         ]
       }
+    },
+    "1.7.2.dev5": {
+      "sdist": [
+        "nyjsv11Q+Yppn7yPdy25TNw5ABrsD9L3M3F5qcC2wbg=",
+        "large-image-tasks-1.7.2.dev5.tar.gz"
+      ],
+      "wheels": {
+        "large_image_tasks-1.7.2.dev5-py3-none-any.whl": [
+          "nQ9xK/dbwiDrERDPIVBmuA3t8o4SxPNUznZrgsTuMHQ=",
+          "py3"
+        ]
+      }
     }
   },
   "launchbox": {
@@ -47802,6 +47846,18 @@
       "wheels": {
         "logging518-0.2.1-py3-none-any.whl": [
           "nQIVH9+ZCX2T1yzPcvNJVcKs9W2T3kTeWsenjqHxeHY=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "OASse1xHLye4zxZ5eSXWa7Gl3fjGLqK58BEt6SSB23Q=",
+        "logging518-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "logging518-0.2.2-py3-none-any.whl": [
+          "1f3e2TxL75a5nxmkZaa3PWRo0Y5qbE+XvSHBRFhVLp8=",
           "py3"
         ]
       }
@@ -122356,6 +122412,46 @@
         ],
         "tf_nightly-2.7.0.dev20210822-cp39-cp39-win_amd64.whl": [
           "JEMwm+emX4Ib1SiLX2Skh1+GOht9R1BTQVs4PITyguc=",
+          "cp39"
+        ]
+      }
+    },
+    "2.7.0.dev20210823": {
+      "wheels": {
+        "tf_nightly-2.7.0.dev20210823-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "230Z2yjDNDcmJkcUSzT2UJcpeGu3Ln64Wy03KcNuAtw=",
+          "cp37"
+        ],
+        "tf_nightly-2.7.0.dev20210823-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "PBKLFMESCaqhc2QxTA46ma3fYvlAkhRHNFR4Zsu9XE4=",
+          "cp37"
+        ],
+        "tf_nightly-2.7.0.dev20210823-cp37-cp37m-win_amd64.whl": [
+          "h1fLHyL0Ir8AFnrqnc6WNl//ch6y1q5oKxEY3BQIdD0=",
+          "cp37"
+        ],
+        "tf_nightly-2.7.0.dev20210823-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "v9m510wPKJnDHxvvYs/YzNqnfaJKTiDtg/GPiAYlze8=",
+          "cp38"
+        ],
+        "tf_nightly-2.7.0.dev20210823-cp38-cp38-manylinux2010_x86_64.whl": [
+          "PYW6NqBhM2dy0patQSMIWDcYBMjSFMBb7uDn5zosYhw=",
+          "cp38"
+        ],
+        "tf_nightly-2.7.0.dev20210823-cp38-cp38-win_amd64.whl": [
+          "x+aZtJ5VubC5sCbZHgirkVdN2ZhMX8CoWi987WNeL/Q=",
+          "cp38"
+        ],
+        "tf_nightly-2.7.0.dev20210823-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "z9e2WZsyNA4x20nJqmVbXDkvC5so48atx4FO2lDiiT4=",
+          "cp39"
+        ],
+        "tf_nightly-2.7.0.dev20210823-cp39-cp39-manylinux2010_x86_64.whl": [
+          "UEuATHAzZ/AbM4gdkC2NpHRHE/2OR9d6wplznVlgids=",
+          "cp39"
+        ],
+        "tf_nightly-2.7.0.dev20210823-cp39-cp39-win_amd64.whl": [
+          "Ua2upw0eBgENcAwTJ8FJU/bNhlBM+ZV8HMwlvfc7aSQ=",
           "cp39"
         ]
       }

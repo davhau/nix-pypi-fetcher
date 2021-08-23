@@ -22151,6 +22151,26 @@
           "cp39"
         ]
       }
+    },
+    "0.3.0.dev20210823": {
+      "wheels": {
+        "dm_launchpad_nightly-0.3.0.dev20210823-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "5aRjWL7Q+S2PdVZJ7CRWO+5RahapF5NBOod14Xv5MSc=",
+          "cp36"
+        ],
+        "dm_launchpad_nightly-0.3.0.dev20210823-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "ITUHYElcf7rjIrVKDrmcjfZ6XI9cFLrRMg3+SRY9VL4=",
+          "cp37"
+        ],
+        "dm_launchpad_nightly-0.3.0.dev20210823-cp38-cp38-manylinux2010_x86_64.whl": [
+          "btNYoCyk8pHNYnVB+iZ6nVUW/55YTF6aqAzeFK9NjR8=",
+          "cp38"
+        ],
+        "dm_launchpad_nightly-0.3.0.dev20210823-cp39-cp39-manylinux2010_x86_64.whl": [
+          "T/4u2cAuIYCqXE3tHWTf/vwbHolrWSOXq7vCC/IJhlI=",
+          "cp39"
+        ]
+      }
     }
   },
   "docformatter-toml": {
@@ -28356,6 +28376,12 @@
       "sdist": [
         "kjOutkEQTI3tps3QjS6ZYXLkVnHBhM8yxwPur0wMLJU=",
         "fanc-0.9.20.tar.gz"
+      ]
+    },
+    "0.9.21": {
+      "sdist": [
+        "rrJocUQ0mqEEnsIHsbSLhzgjha6ljFwSVgpMKYkJN20=",
+        "fanc-0.9.21.tar.gz"
       ]
     },
     "0.9.3": {
@@ -36063,6 +36089,20 @@
         "L9T2EoJhJrs5BxoFrjNlOMZIWqXspJQgxbnmsgMpBT0=",
         "gafs-0.0.2.tar.gz"
       ]
+    }
+  },
+  "gamma-core": {
+    "0.0.1": {
+      "sdist": [
+        "S5tTdDM/m6E/rIbJg5WntcaaOZk8FpMbU0uJpZvwDNo=",
+        "gamma-core-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "gamma_core-0.0.1-py3-none-any.whl": [
+          "ahP4wRAcJG+oINiyw14ani0JT8ag6YZn55Txy3vH3LM=",
+          "py3"
+        ]
+      }
     }
   },
   "gcloud-flask-oauth-cors": {
@@ -57566,6 +57606,18 @@
       "wheels": {
         "lir-0.0.13-py3-none-any.whl": [
           "JNpLNXoaAs4/iQWOnX+4bU1yftsPLTmRePeLMlO3jNE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.14": {
+      "sdist": [
+        "x8XRpyFjbUW353aFLytGGYtG3B8jMiB8M3liCOx9Tck=",
+        "lir-0.0.14.tar.gz"
+      ],
+      "wheels": {
+        "lir-0.0.14-py3-none-any.whl": [
+          "5ATBhqA/+eBd4Hklr58kfU/wpWBU/6Zb/xJlEGFpASY=",
           "py3"
         ]
       }
@@ -118134,6 +118186,58 @@
         ],
         "twisted_iocpsupport-1.0.1-pp37-pypy37_pp73-win32.whl": [
           "FTXlN7bWDQz9K0eF8cegIb62LY32usPcbEW7hmzmSOQ=",
+          "pp37"
+        ]
+      }
+    },
+    "1.0.2rc0": {
+      "sdist": [
+        "P2Tufmvk8qM57TSgiLgb695SIsirc0k3Ndb2FoCVDP0=",
+        "twisted-iocpsupport-1.0.2rc0.tar.gz"
+      ],
+      "wheels": {
+        "twisted_iocpsupport-1.0.2rc0-cp310-cp310-win32.whl": [
+          "qQCFpOw1B6a6KNVqXDrBQyRWLLFzRncQkvj4EObFEuw=",
+          "cp310"
+        ],
+        "twisted_iocpsupport-1.0.2rc0-cp310-cp310-win_amd64.whl": [
+          "Udq9FfQ7ntk06fAPt57A3u3nTh2CGL2115tmPhPkfaQ=",
+          "cp310"
+        ],
+        "twisted_iocpsupport-1.0.2rc0-cp36-cp36m-win32.whl": [
+          "GPZKdRQYTEpQJoFw3+C27Y8e4hvwYIuzBINf2V1DJ5M=",
+          "cp36"
+        ],
+        "twisted_iocpsupport-1.0.2rc0-cp36-cp36m-win_amd64.whl": [
+          "XzvTNKnZM79h+nH22scz4xCeSlYDS1VJ4cHZJsgsCLw=",
+          "cp36"
+        ],
+        "twisted_iocpsupport-1.0.2rc0-cp37-cp37m-win32.whl": [
+          "RQzcZHBJJ2nN2EqCwZG/QQDonSeJplemrzL5pmEX1wM=",
+          "cp37"
+        ],
+        "twisted_iocpsupport-1.0.2rc0-cp37-cp37m-win_amd64.whl": [
+          "t+cJSpQDJeHQ66+3ckdawPltaf0A/9TApAxVd1C1LiY=",
+          "cp37"
+        ],
+        "twisted_iocpsupport-1.0.2rc0-cp38-cp38-win32.whl": [
+          "PdmjFMzgA5UZqKxOOleL2gB1EG695NymF4k0tnwwxwA=",
+          "cp38"
+        ],
+        "twisted_iocpsupport-1.0.2rc0-cp38-cp38-win_amd64.whl": [
+          "mQGEBIBQSiaxJ9imVhbYLLPOGR6NTUo3WkY9ysniUQ0=",
+          "cp38"
+        ],
+        "twisted_iocpsupport-1.0.2rc0-cp39-cp39-win32.whl": [
+          "6XfsQqr77zDTZlYyQMxnV96O4z4Gdnvh5FrY3jHBkNk=",
+          "cp39"
+        ],
+        "twisted_iocpsupport-1.0.2rc0-cp39-cp39-win_amd64.whl": [
+          "ldJogX0GY/7wx2WC0krTDE9zHJEdj+rVKOjXaB32fBI=",
+          "cp39"
+        ],
+        "twisted_iocpsupport-1.0.2rc0-pp37-pypy37_pp73-win_amd64.whl": [
+          "rNmRmC2FS7u2OX/qfvqID3SIlidtLONiwZnrNcPb5JM=",
           "pp37"
         ]
       }
