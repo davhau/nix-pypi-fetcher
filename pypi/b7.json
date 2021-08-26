@@ -11339,6 +11339,26 @@
           "cp39"
         ]
       }
+    },
+    "9.4.0": {
+      "wheels": {
+        "cupy_rocm_4_0-9.4.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "jNKeyz2cngkTmFigHZdcOixSf583YHJ1UdpdAW+EoEI=",
+          "cp36"
+        ],
+        "cupy_rocm_4_0-9.4.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "rWYeK/vmUNTtvYP61C6hJ1p095Z3o4UomeNPwa4tHSA=",
+          "cp37"
+        ],
+        "cupy_rocm_4_0-9.4.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "r7NoNWhu2BxjQhtKFhZI7dtc95Irwahcvgo7WL4ECzg=",
+          "cp38"
+        ],
+        "cupy_rocm_4_0-9.4.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "ht/GR7Qs0ePN/57iVe5VRDx+JfmK77UWMdQ7lB7FacY=",
+          "cp39"
+        ]
+      }
     }
   },
   "cuta": {
@@ -29374,6 +29394,14 @@
       "wheels": {
         "fiftyone-0.13.0-py3-none-any.whl": [
           "xKpn07hR0xGwrEHzoFvA5z+QCD3roJ4sbItlZx8QwSI=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.1": {
+      "wheels": {
+        "fiftyone-0.13.1-py3-none-any.whl": [
+          "UL4LxultWb6hIa3WQyAUkBfdZ44Dl2fBrL0/NjEuPKI=",
           "py3"
         ]
       }
@@ -58704,6 +58732,18 @@
         ]
       }
     },
+    "1.18.29": {
+      "sdist": [
+        "lsVH2vB8V41qsJFk3saDtXlcbsE5zgNT/qgTHMhOD44=",
+        "mypy-boto3-appintegrations-1.18.29.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_appintegrations-1.18.29-py3-none-any.whl": [
+          "uKu2yRN6Gn0LCRPwNjjMEDRVQxHsniCFdBT8qJgE4yc=",
+          "py3"
+        ]
+      }
+    },
     "1.18.3": {
       "sdist": [
         "85L0yfSt21YSMPZfPPvCcsagdvxdU+950n+SqPu1rCs=",
@@ -87280,334 +87320,6 @@
         ],
         "triton-1.0.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "OPFAIrgiblA44KPQtQyE2yHiDlcQedLTvB4/nvjbLTU=",
-          "pp37"
-        ]
-      }
-    },
-    "1.0.0.dev20210601": {
-      "wheels": {
-        "triton-1.0.0.dev20210601-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "g/Yy9PeYksdRWIpTUdM1CBCpS5j3XoWJrdU9+qCTY74=",
-          "cp35"
-        ],
-        "triton-1.0.0.dev20210601-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "HBQp2dLmT9QFJk2Jc4MGuVjRtwUYJvXF8wm6hJ9mBYo=",
-          "cp36"
-        ],
-        "triton-1.0.0.dev20210601-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "H27WP+XrKlX03d9kKy1NvC6sKmnxBhcx63dTvD2MtF0=",
-          "cp37"
-        ],
-        "triton-1.0.0.dev20210601-cp38-cp38-manylinux2010_x86_64.whl": [
-          "s1Al2ikBFmMP3Ig5jo3hXPLwTJTgW/GCA5lsz3Z61yU=",
-          "cp38"
-        ],
-        "triton-1.0.0.dev20210601-cp39-cp39-manylinux2010_x86_64.whl": [
-          "/4j3wYbzsyKJ/v3F/e8a2kiRtDS7j5Wz6+a6gtCe62Y=",
-          "cp39"
-        ],
-        "triton-1.0.0.dev20210601-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
-          "8HSkZXPhYoUgz1fEjSWQ5hPozSI64Omiryjjf0z+TQg=",
-          "pp36"
-        ],
-        "triton-1.0.0.dev20210601-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
-          "ydTEP7aP+I2tV2HWD+vH8qarsCfXEbFi/x2WU7ATzdI=",
-          "pp37"
-        ]
-      }
-    },
-    "1.0.0.dev20210611": {
-      "wheels": {
-        "triton-1.0.0.dev20210611-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "K0QOht+TPl88CpgJLtox/TwQH3iel7rX5cOHP5sh7Gg=",
-          "cp35"
-        ],
-        "triton-1.0.0.dev20210611-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "kzH9wQyWVZa+gU2kRe7zvY0pb2jmaVZbLzV9OrTa2Zw=",
-          "cp36"
-        ],
-        "triton-1.0.0.dev20210611-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "GN/OUVEEgTYXqdoqkppdW/nqhqbDuWNHGhhBlrib9o0=",
-          "cp37"
-        ],
-        "triton-1.0.0.dev20210611-cp38-cp38-manylinux2010_x86_64.whl": [
-          "aMoEbwruO8njdEQn1WW8kCCxm/9m0Wi9GAVl/vb6PJ0=",
-          "cp38"
-        ],
-        "triton-1.0.0.dev20210611-cp39-cp39-manylinux2010_x86_64.whl": [
-          "8jrNCUKUEAI2z2FDhNZ9nl5F8AI+iNwrR7M8IHoytGs=",
-          "cp39"
-        ],
-        "triton-1.0.0.dev20210611-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
-          "j8wS62rsFjMt3iRW+/JRt72t/YVmcq1WbZIO9cAJxOI=",
-          "pp36"
-        ],
-        "triton-1.0.0.dev20210611-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
-          "CjXu7kaLxwSm8ck1I1YyaRvrLpeH/nSUHV5sMJ2dV1I=",
-          "pp37"
-        ]
-      }
-    },
-    "1.0.0.dev20210614": {
-      "wheels": {
-        "triton-1.0.0.dev20210614-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "7vDqS8ccVbDp7+L6Eh0EHAmom5bnwBlCKRM4d5mueHo=",
-          "cp35"
-        ],
-        "triton-1.0.0.dev20210614-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "fQwmAfN3Jx9MLy1WB/rVL2FKzjdylbn9OqjhUjd6xhA=",
-          "cp36"
-        ],
-        "triton-1.0.0.dev20210614-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "0pRDsOCiJ+VCt0A/8mkh9C84IOit8lxbuBt0iQSWh3Y=",
-          "cp37"
-        ],
-        "triton-1.0.0.dev20210614-cp38-cp38-manylinux2010_x86_64.whl": [
-          "3EfoQ6sCtsQJqDAL3Sen6rF2YHqC9jJGwssJKRPzBiM=",
-          "cp38"
-        ],
-        "triton-1.0.0.dev20210614-cp39-cp39-manylinux2010_x86_64.whl": [
-          "/KJQwjRm8EnW0kIYS2yGo0CSQFwHvieuXqXYFnV9qTk=",
-          "cp39"
-        ],
-        "triton-1.0.0.dev20210614-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
-          "0yOBjIr7aKQuM/AyHqmW/mfCKZ2FyXrkTBzS2fqlsSs=",
-          "pp36"
-        ],
-        "triton-1.0.0.dev20210614-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
-          "Mp4gG7uuMSubNvjYJ2gbEOhvAMZOz3rKXjv296cEVlM=",
-          "pp37"
-        ]
-      }
-    },
-    "1.0.0.dev20210621": {
-      "wheels": {
-        "triton-1.0.0.dev20210621-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "DoDU1VWhLp5wkHYRrs53jptIfOA1YegQguumkfeaUhk=",
-          "cp35"
-        ],
-        "triton-1.0.0.dev20210621-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "1705P3n7paoc2H8iCLEwz3L5xCi14Ybs9bVzSONIwqA=",
-          "cp36"
-        ],
-        "triton-1.0.0.dev20210621-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "NLgBCAgXLf5sbnoGlhdQsQyVcRjDVWG8ru6UQDMrdXQ=",
-          "cp37"
-        ],
-        "triton-1.0.0.dev20210621-cp38-cp38-manylinux2010_x86_64.whl": [
-          "Qm2leRsjRzSJZzMgrgNmbi5hYwQobFIRkQHZawcRxG4=",
-          "cp38"
-        ],
-        "triton-1.0.0.dev20210621-cp39-cp39-manylinux2010_x86_64.whl": [
-          "6jjxXLGwWD6f1tQaVkUM64wtVirnHqEgiOoyzVYpKF0=",
-          "cp39"
-        ],
-        "triton-1.0.0.dev20210621-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
-          "bBdZjxud4499UEzWwYX+9RDB8OTbjWibr9cAuHv6EPg=",
-          "pp36"
-        ],
-        "triton-1.0.0.dev20210621-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
-          "fjOBPEWuD4xOhzZxEOXP5nPb1HzA8UDSSsz75/6SPfw=",
-          "pp37"
-        ]
-      }
-    },
-    "1.0.0.dev20210622": {
-      "wheels": {
-        "triton-1.0.0.dev20210622-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "hDL03fSRTdM2rYoshhBV4Mw5D6KBRt6c9p1C4Da878Y=",
-          "cp35"
-        ],
-        "triton-1.0.0.dev20210622-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "FbHV18o9FAamkwH18HKszuTgQSVnQZTTJAApz1bNaU4=",
-          "cp36"
-        ],
-        "triton-1.0.0.dev20210622-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "tE6JuoXK+DGmDTiGeVwhuO613Pu2Y9//JOMt7WN6bp0=",
-          "cp37"
-        ],
-        "triton-1.0.0.dev20210622-cp38-cp38-manylinux2010_x86_64.whl": [
-          "+IpzRK90ohC3xHyhtu1c2ZRHNJtmyC5x3ymLRH7iq6o=",
-          "cp38"
-        ],
-        "triton-1.0.0.dev20210622-cp39-cp39-manylinux2010_x86_64.whl": [
-          "0CAIG9DaVGchAkvW/skfeFBXF0Om5kW0bmH5kkcPz4c=",
-          "cp39"
-        ],
-        "triton-1.0.0.dev20210622-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
-          "6ldn2X4ufQHB3KNhjKLznHfhsmuOttyFG8AB8G+Qtxc=",
-          "pp36"
-        ],
-        "triton-1.0.0.dev20210622-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
-          "MnOCGltw0MwwqBG/7HwrJCBSyZvvEqpRwk1Arcb53p8=",
-          "pp37"
-        ]
-      }
-    },
-    "1.0.0.dev20210625": {
-      "wheels": {
-        "triton-1.0.0.dev20210625-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "Y08GLebIH10BUiNMI2SvfAWCmG73PTw8SRX3pAszZ9Y=",
-          "cp35"
-        ],
-        "triton-1.0.0.dev20210625-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "h2PVMGJG+083aS/8r8n59w2/rRSB9OrlsjTttfFuw2o=",
-          "cp36"
-        ],
-        "triton-1.0.0.dev20210625-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "J61pjxdiYNX9O7c+Ifeg8Gpt1uDJ6bdRBijP+ud4r2k=",
-          "cp37"
-        ],
-        "triton-1.0.0.dev20210625-cp38-cp38-manylinux2010_x86_64.whl": [
-          "tcDi4ZpYroVsgV6amfRnRmAXytmGPmW7P4DtONiS3mw=",
-          "cp38"
-        ],
-        "triton-1.0.0.dev20210625-cp39-cp39-manylinux2010_x86_64.whl": [
-          "AHAov2fVs3wG1lgvKJxsm1sXYNbeeSJHYaB3A9R7xcI=",
-          "cp39"
-        ],
-        "triton-1.0.0.dev20210625-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
-          "x78zqkciUphmNi1TrLUZh31OQN/zoUIGS89NmcXHOsA=",
-          "pp36"
-        ],
-        "triton-1.0.0.dev20210625-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
-          "otJ2h3OjktrieRtgvzLi/w9/I35/hYSvahl0w774ybw=",
-          "pp37"
-        ]
-      }
-    },
-    "1.0.0.dev20210701": {
-      "wheels": {
-        "triton-1.0.0.dev20210701-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "UhwFeWGiV+X94V3rm0RhdAegHJ2RdS/K/bdarVk07Mk=",
-          "cp37"
-        ]
-      }
-    },
-    "1.0.0.dev20210720": {
-      "wheels": {
-        "triton-1.0.0.dev20210720-cp35-cp35m-manylinux2010_x86_64.whl": [
-          "bPzpveEw3RO2hdq3xcmi0BGTp65wUpmcUlz6SBn4xfs=",
-          "cp35"
-        ],
-        "triton-1.0.0.dev20210720-cp36-cp36m-manylinux2010_x86_64.whl": [
-          "VQu/vYjtCPnfPc90GjFMQ0qonyZ4y8dzmg/MXDjzpRA=",
-          "cp36"
-        ],
-        "triton-1.0.0.dev20210720-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "IEWG1WojvpSl/kCzp+Y5xg+RXZffjfaXQ0BPOaQiAKU=",
-          "cp37"
-        ],
-        "triton-1.0.0.dev20210720-cp38-cp38-manylinux2010_x86_64.whl": [
-          "SZZPKhzdNqyGf7PGAIjtjMBa3oKjYlzwT+9iaR7K5JY=",
-          "cp38"
-        ],
-        "triton-1.0.0.dev20210720-cp39-cp39-manylinux2010_x86_64.whl": [
-          "wvveGKxvBgHi7Nz9IPHZOcmxNyeBUn/8w8jfIEb0k4g=",
-          "cp39"
-        ],
-        "triton-1.0.0.dev20210720-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
-          "U0MUQLHjQAyR9Be77PSn0c9Ph1U0pog+pJNM2pP8FJ8=",
-          "pp36"
-        ],
-        "triton-1.0.0.dev20210720-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
-          "tPl1K+CMwtG3OX30gX9B2dQTaYym/x0s7vR8Q5RrpAQ=",
-          "pp37"
-        ]
-      }
-    },
-    "1.0.0.dev20210722": {
-      "wheels": {
-        "triton-1.0.0.dev20210722-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "az0+I19PxXmSoTrBPiRHJotHHve5M8REebKo01DUizk=",
-          "cp36"
-        ],
-        "triton-1.0.0.dev20210722-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "tFAPi1H7cC91syHfkjrQLKJW8+DB8sooEVmcmeH7WRc=",
-          "cp37"
-        ],
-        "triton-1.0.0.dev20210722-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "0hhEaFgi7GWRvBHYt0DVfL1ObmYyZhhi/sFa3dZjh/k=",
-          "cp38"
-        ],
-        "triton-1.0.0.dev20210722-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "rBRQ0hOdaJX7PkLRMEiHQydAN+qSDf6tLApnlBiDXnE=",
-          "cp39"
-        ],
-        "triton-1.0.0.dev20210722-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "feGFEnfIHi0k6vJ9C7xkU9Kro62ZriGyD1pnHAf+0yQ=",
-          "pp37"
-        ]
-      }
-    },
-    "1.0.0.dev20210723": {
-      "wheels": {
-        "triton-1.0.0.dev20210723-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Fx6Bbdjd31lE9lvMlDGviEAbwJz0n0vdU/hy7Kh3zuQ=",
-          "cp36"
-        ],
-        "triton-1.0.0.dev20210723-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "UFmOUmHBAA8v4PnVYMHoX//pvU4CDoPxnG0gSi6a158=",
-          "cp37"
-        ],
-        "triton-1.0.0.dev20210723-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "EX82VVLHWvXa3UDR9bZWuT/yj0akyFbK/o76ZtMir1k=",
-          "cp38"
-        ],
-        "triton-1.0.0.dev20210723-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "CKEQWBmteRFXHl2Xo9B4k2ftd2WJEh1X5td7IE8lZoo=",
-          "cp39"
-        ],
-        "triton-1.0.0.dev20210723-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Dj6pbTkLrNuJc4fcPiLK9id7hMx+Ta09uVmBCRFEHW8=",
-          "pp37"
-        ]
-      }
-    },
-    "1.0.0.dev20210727": {
-      "wheels": {
-        "triton-1.0.0.dev20210727-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "HE5cuguF+GItGigqcBKrAGqotX6jPwg+VcZ9PCXvSEw=",
-          "cp36"
-        ],
-        "triton-1.0.0.dev20210727-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "EmYiW0U6i5vB4/7Ye3UsW5UIZqVBx7bg7du7j2fdurU=",
-          "cp37"
-        ],
-        "triton-1.0.0.dev20210727-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "1PzusYlV2IuwGOwYSC/UPc6Xn6Jd0M3IHaompwYmCoo=",
-          "cp38"
-        ],
-        "triton-1.0.0.dev20210727-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "GuzxMVFqIY71xGQvFuG3iROK15K1YTUuCrgrcYho6zw=",
-          "cp39"
-        ],
-        "triton-1.0.0.dev20210727-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Z+Bl7GGgQ/4ig+flBuXCZNecltdWUAI1j0UB298e+mo=",
-          "pp37"
-        ]
-      }
-    },
-    "1.0.0.dev20210728": {
-      "wheels": {
-        "triton-1.0.0.dev20210728-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "QVDGCqe5GOjq1sY8OF4bdeQxyVj9fHT89FVHsfroNrg=",
-          "cp36"
-        ],
-        "triton-1.0.0.dev20210728-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "1JJfK/h01W4bW3Nl31rY7SgxgrFtGOn06R6aejkKhTs=",
-          "cp37"
-        ],
-        "triton-1.0.0.dev20210728-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "CpcAHDdXqqhRofdhtHnzhbcOoa0d3loyj1eczpQy3VI=",
-          "cp38"
-        ],
-        "triton-1.0.0.dev20210728-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "ppCoZxin2eLB5j8KdCDxJx3LJn0Yr2r9nZeSpNHyFyY=",
-          "cp39"
-        ],
-        "triton-1.0.0.dev20210728-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "N5QakV65EYNZzzxTOytC2OZqrlUYZpoX2cvp050x578=",
           "pp37"
         ]
       }
