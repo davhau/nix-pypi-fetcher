@@ -3620,6 +3620,18 @@
         ]
       }
     },
+    "1.120.0": {
+      "sdist": [
+        "7SyYidyTQfVhx7yVKqF/Usp2E1CWCHQOpcgpTgefavI=",
+        "aws-cdk.aws-codepipeline-actions-1.120.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codepipeline_actions-1.120.0-py3-none-any.whl": [
+          "hRLeVB+ZM3nXUjXTQxU1R+pm4SgrBK913cMyvfnFUTA=",
+          "py3"
+        ]
+      }
+    },
     "1.13.0": {
       "sdist": [
         "iY64CM7drxbhlkjXE9M/i343VAZ7eRkTJhjRD3WeFjE=",
@@ -5562,6 +5574,18 @@
       "wheels": {
         "aws_cdk.aws_secretsmanager-1.12.0-py3-none-any.whl": [
           "VoTJXU3bAMGwnjb8kpOzgJ9RnRziRYrOVb9lhcPbYxg=",
+          "py3"
+        ]
+      }
+    },
+    "1.120.0": {
+      "sdist": [
+        "MxWz3NgjJIqLFjUMnjldHFb/3GSweaQXd6mq5gz4JU4=",
+        "aws-cdk.aws-secretsmanager-1.120.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_secretsmanager-1.120.0-py3-none-any.whl": [
+          "1UTOFRFOOUWi0QAEFNrmKxO35AYLGeEiUFXJiRAgU5Q=",
           "py3"
         ]
       }
@@ -18244,6 +18268,18 @@
       "wheels": {
         "DataRecorder-0.7.0-py3-none-any.whl": [
           "+RhHsMMm4l5PiMX178Ojix+h3Au2kuNGX2HU4pe3/H0=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.1": {
+      "sdist": [
+        "4Laf22/IJw3OqFxaLQFj2biHrkdGpi7WKFOGFwzEy6w=",
+        "DataRecorder-0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "DataRecorder-0.7.1-py3-none-any.whl": [
+          "ouN8v8o0uEL9Q0VoXeRdKOmUy81N4dws62ENzEzhPQQ=",
           "py3"
         ]
       }
@@ -60262,6 +60298,18 @@
         ]
       }
     },
+    "1.20.1": {
+      "sdist": [
+        "cXZEQ8SULxgf7i1b9E3XSgUHvMW2Kh8eCAedH0ChX8A=",
+        "mlflow-1.20.1.tar.gz"
+      ],
+      "wheels": {
+        "mlflow-1.20.1-py3-none-any.whl": [
+          "nzxw5geUAqEztgj24WLC9OhBOdqCadvhjdPNDUjLq9k=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0": {
       "sdist": [
         "LyHUC+0S66jJxUMrXKe6PaBrqjEGbTMqG1f2eWAFiKs=",
@@ -61208,6 +61256,12 @@
       "sdist": [
         "TmA7gQoA9cybgSfRrASLtf5XPDGrUVZS4HeE6vRuNss=",
         "mpi-channels-0.1.1.tar.gz"
+      ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "LEkCHgpbT86NznWVVn+YT8bVgqzQqqoeaxNKnC4x0uE=",
+        "mpi-channels-0.1.2.tar.gz"
       ]
     }
   },
@@ -82083,6 +82137,44 @@
         "9qIFbNcqouCCneiSkpJWvpy7DxYiOUgGIgDCB19fsyY=",
         "py-mdbm-0.1.0a.tar.gz"
       ]
+    }
+  },
+  "py-minfor-core": {
+    "0.0.1": {
+      "sdist": [
+        "1JQuQVx5xTSmJtshh6Ng318d/61JL/sgA9GNh7rnz64=",
+        "py-minfor-core-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "py_minfor_core-0.0.1-py3-none-any.whl": [
+          "r7O0L61VTaGUK3N3VwRnk127zxOREmpDojA4t10c5Ng=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "Ixhqun7aA362spT/ft1S9x4xi+F6Bi17sB6n/hnVndY=",
+        "py-minfor-core-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "py_minfor_core-0.0.2-py3-none-any.whl": [
+          "yoPppGTSU6wWYLJ1nSaEuWdASW7JOKnTyIA+PEI//5Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "ya11C/kUJ2x+pts7wPoTofTXZ7Yi0O+JFq54SyFynU8=",
+        "py-minfor-core-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "py_minfor_core-0.0.3-py3-none-any.whl": [
+          "mt2XE7jfWT5gWngKUBP/8XEyyhabJosANMLl/KsO9m8=",
+          "py3"
+        ]
+      }
     }
   },
   "py-neopixel-spidev": {
@@ -106457,6 +106549,14 @@
           "py2.py3"
         ]
       }
+    },
+    "0.19.0.dev20210826": {
+      "wheels": {
+        "tensorflow_federated_nightly-0.19.0.dev20210826-py2.py3-none-any.whl": [
+          "RdDUKm/yt4H7aS90cviFgwcv1tVH94ddCSZUZyrs/g4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tequila-sessions": {
@@ -109449,6 +109549,50 @@
       ]
     }
   },
+  "toshiba-ac": {
+    "0.1.0": {
+      "sdist": [
+        "ftBtLfsH80HmRBLQ5EGOnsxdhCFHJyPj5HKGg/rh5AY=",
+        "toshiba-ac-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "slWZhMRK5Iwv/64KWWAxHnVK+W9fyYWy8y2pynyNKZs=",
+        "toshiba-ac-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "toshiba_ac-0.1.1-py3-none-any.whl": [
+          "kUKHJPcqagTx2MvV5ZRzbYniXcpIzHR/7zwdXzyjEIo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "+oVrssjvi2XdNg4nTOw8ejCk/TlL2n7Opy1HBiWFoYo=",
+        "toshiba-ac-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "toshiba_ac-0.1.2-py3-none-any.whl": [
+          "b7+NYrFixcwrl+RzLFWXzJuwMtIGwqdPxh4E5rUUQWE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "4RF/vJUo6KjSOUP50D3HoTG2PzijNgQzF8AlU4623BQ=",
+        "toshiba-ac-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "toshiba_ac-0.1.3-py3-none-any.whl": [
+          "+qbuye89ad6ime/EHbQxXTf8oldzhmQ/6n/8qF7L8pk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "towel-foundation": {
     "0.1.0": {
       "sdist": [
@@ -110512,6 +110656,18 @@
       "wheels": {
         "ts_sdk-1.2.30-py3-none-any.whl": [
           "Vge4U1VfisYu+gWBCkTBuz5Nz3OHpnMRPHxZxrC8q6A=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.31": {
+      "sdist": [
+        "pc3pbTn7yYSUj7izZF/f9XQuPyEcsvEA0j4HuDAU3cQ=",
+        "ts-sdk-1.2.31.tar.gz"
+      ],
+      "wheels": {
+        "ts_sdk-1.2.31-py3-none-any.whl": [
+          "dxVNLdj7irUUPrgNb/Pwohe+VR/q/ILSTxJIW0hS97s=",
           "py3"
         ]
       }
@@ -119745,6 +119901,44 @@
         "fP37r4hzUQTttMuzPNtOAZSOoVNtvt2l3MGhBVBaZCo=",
         "zaggregator-0.0.9.tar.gz"
       ]
+    }
+  },
+  "zbxtool-cfomp": {
+    "0.3.0": {
+      "sdist": [
+        "Rvv0WYqpfxbc3FDdh3kuPNXKonFtcKtjZLCyhsBZi3w=",
+        "zbxtool-cfomp-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "zbxtool_cfomp-0.3.0-py3-none-any.whl": [
+          "uciVC/LrEUDPzFVaB6+/AorB6v/Ll1TCaxtW3nvPcyA=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "f8HUcLY/HLafq71bOhc+9/AQpHUlsO4ADUrA6BZtckQ=",
+        "zbxtool-cfomp-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "zbxtool_cfomp-0.3.1-py3-none-any.whl": [
+          "tjp+t1B6H1mgS9SXCQkwYY+qjYa6dN/+TFst2MI0WY8=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "L+OE1rLmU0lodk18fKRj5Y1RdV+04C4TOXjTIEcKNFM=",
+        "zbxtool-cfomp-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "zbxtool_cfomp-0.3.2-py3-none-any.whl": [
+          "SMBZLfAV5Czmh/Us8/wti9tx3jZdqarBnrRrYiqk8LE=",
+          "py3"
+        ]
+      }
     }
   },
   "zgoubi-metadata": {
