@@ -46006,6 +46006,18 @@
         ]
       }
     },
+    "1.27.0": {
+      "sdist": [
+        "7j6IhZ6LMpbdR2L2sxFHu/ExWg+FINMLb3x2qF8HdrA=",
+        "jgreenepack-1.27.0.tar.gz"
+      ],
+      "wheels": {
+        "jgreenepack-1.27.0-py3-none-any.whl": [
+          "c/jBQzHDrcks6ZvqZ63ZI5zgIh82+NBxWCO5SPonF9o=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0": {
       "sdist": [
         "3fD+7WiFaTl3Zxxl3wQz5on/CHM+CKifQQSQBi4LNXI=",
@@ -49044,6 +49056,12 @@
       "sdist": [
         "KpPKKRCRa6j8acAWLozl/qX+Rkks8FEuF0VhZ0rD9AQ=",
         "lash-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "BZe9F17wpi6H5y23nVS0gdwOVEXw89H6pS7lfUI2dRE=",
+        "lash-1.1.1.tar.gz"
       ]
     }
   },
@@ -60048,6 +60066,18 @@
       "wheels": {
         "mpf-0.56.0.dev1-cp34-none-any.whl": [
           "c5CSjiULrC292x+EoZEgmRCYS/XWBsXVqcqgHNvvaBc=",
+          "cp34"
+        ]
+      }
+    },
+    "0.56.0.dev10": {
+      "sdist": [
+        "M3XCCfDJw5dBqPgJCVgbTqe+BviVn9s0qOsqmqpCFSQ=",
+        "mpf-0.56.0.dev10.tar.gz"
+      ],
+      "wheels": {
+        "mpf-0.56.0.dev10-cp34-none-any.whl": [
+          "UBVLy8XUfLX55ZqLIy3lk+rHexydzeebAA7xvCPE188=",
           "cp34"
         ]
       }
@@ -71816,6 +71846,18 @@
       "wheels": {
         "pdm-1.8.1-py3-none-any.whl": [
           "SkLn5aYxQgH2nm3UDWBOiYKM4jN5rgBXq/2tm1Qr+ug=",
+          "py3"
+        ]
+      }
+    },
+    "1.8.2": {
+      "sdist": [
+        "bURUGtSfGkD6AcnpoK6a+64zlmHaiBmRyVZJZT733/g=",
+        "pdm-1.8.2.tar.gz"
+      ],
+      "wheels": {
+        "pdm-1.8.2-py3-none-any.whl": [
+          "1+nNW/9i6/oX22s46kqGn6nI5IkFy1VgtWW2bbzdBNY=",
           "py3"
         ]
       }
@@ -84479,6 +84521,60 @@
         "Xiw1m8R9WP3FEZPdWVp9WBs6iskZrvD8vRK/EpkjdVI=",
         "rapy_genius-0.0.4.tar.gz"
       ]
+    }
+  },
+  "ray-cpp": {
+    "1.6.0": {
+      "wheels": {
+        "ray_cpp-1.6.0-cp36-cp36m-macosx_10_6_intel.whl": [
+          "VTTJLMx8G/1C+OUt+F5OwAR+6jpJf81qNTC+ZR1CZ2Y=",
+          "cp36"
+        ],
+        "ray_cpp-1.6.0-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "Bxoi9RA+CdyfkPqOCRopA30tYC2pd9MLwvmQt6nOtyA=",
+          "cp36"
+        ],
+        "ray_cpp-1.6.0-cp36-cp36m-win_amd64.whl": [
+          "sOV5rNOw6TE+PEg745HFodoTKtOUgctLTGB/Xrbnx3M=",
+          "cp36"
+        ],
+        "ray_cpp-1.6.0-cp37-cp37m-macosx_10_6_intel.whl": [
+          "HSduS11NjYyAacWY8kFfCqDEkRdgnyy7TGiuZrAg05U=",
+          "cp37"
+        ],
+        "ray_cpp-1.6.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "RLiZm0xcH4W+GOBMf+fbdteHiB87a9gYwLsOdiWCTlI=",
+          "cp37"
+        ],
+        "ray_cpp-1.6.0-cp37-cp37m-win_amd64.whl": [
+          "KQI2Voqn3DQAgExC2C57ptkkPEDLcHhq+sjvyyOhtiY=",
+          "cp37"
+        ],
+        "ray_cpp-1.6.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "pPcVrSzR2E4qUWOtI4qyxuihidKiTm6h8QmLbPqy/tw=",
+          "cp38"
+        ],
+        "ray_cpp-1.6.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "hYOm6WJ1dYAg1FYiWtXOj21+NrEuxS7zpbmT86DuWKo=",
+          "cp38"
+        ],
+        "ray_cpp-1.6.0-cp38-cp38-win_amd64.whl": [
+          "fJNYlqwtBM+2fMmYgKsxLABIiE6jaC/Ivcs2SiPEvTA=",
+          "cp38"
+        ],
+        "ray_cpp-1.6.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "jDEX7AWZ5cXroLxOdUGdn/xnlm1uXDdlrwQrF8xp1t0=",
+          "cp39"
+        ],
+        "ray_cpp-1.6.0-cp39-cp39-manylinux2014_x86_64.whl": [
+          "wmSrxeT3F/FzHlbEq/7GWp9WICHou1p0ujxaZCg4xhs=",
+          "cp39"
+        ],
+        "ray_cpp-1.6.0-cp39-cp39-win_amd64.whl": [
+          "FWn4s3NgCjD91YlvCIAlv9MSI7FWnWKHCbGTW6XY758=",
+          "cp39"
+        ]
+      }
     }
   },
   "raylib-py": {
