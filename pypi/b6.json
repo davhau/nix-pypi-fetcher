@@ -13341,6 +13341,46 @@
           "cp39"
         ]
       }
+    },
+    "6.8b5": {
+      "sdist": [
+        "TwvB1ThndZpxFrHw+fdyKiVwU1qzWiWx5XrnKv3DhpM=",
+        "cx_Freeze-6.8b5.tar.gz"
+      ],
+      "wheels": {
+        "cx_Freeze-6.8b5-cp36-cp36m-win32.whl": [
+          "hRszuZEeHTNuC+yHmf90/J1U8/zQWNskYhuun1tVZcQ=",
+          "cp36"
+        ],
+        "cx_Freeze-6.8b5-cp36-cp36m-win_amd64.whl": [
+          "qWnQfLMuHxsBtCO0zZZiQ0o3s8kPJSfgY9ijyeJPbBY=",
+          "cp36"
+        ],
+        "cx_Freeze-6.8b5-cp37-cp37m-win32.whl": [
+          "nRQWK0bYyQxbPItnGlEWER5QQqpP3rLNtFJ8bFwtj0c=",
+          "cp37"
+        ],
+        "cx_Freeze-6.8b5-cp37-cp37m-win_amd64.whl": [
+          "eV4xf9JqvntFIMt2RkyVM76H4O0VdgAa54kVas9MBdw=",
+          "cp37"
+        ],
+        "cx_Freeze-6.8b5-cp38-cp38-win32.whl": [
+          "4ln8ySz4EKZg+WxGjhF8f3hB/BSXBrHAvOQxlGjkMMs=",
+          "cp38"
+        ],
+        "cx_Freeze-6.8b5-cp38-cp38-win_amd64.whl": [
+          "QtWOwFl1jBLv62OBQd0NvvXrt59e6gQ2FLDHKjXAxl4=",
+          "cp38"
+        ],
+        "cx_Freeze-6.8b5-cp39-cp39-win32.whl": [
+          "XxuRTi9f1KUqBpIWA437Ekr5LnOrSgG1MoYaQuphW44=",
+          "cp39"
+        ],
+        "cx_Freeze-6.8b5-cp39-cp39-win_amd64.whl": [
+          "RGF5JOTMaAQyj/9yTBuijJAjSaEO6LADehVCLA/u6dc=",
+          "cp39"
+        ]
+      }
     }
   },
   "cyanite": {
@@ -15958,6 +15998,18 @@
       "wheels": {
         "decentriq_platform-0.5.0-py3-none-any.whl": [
           "FJiAwoRv1ud4ArC5USyvEnFr28I98SgcQa5Kk8F4LqM=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "bZi386pUWJ025acw/LhSFH/Rnhr2MWDIudfwbLIFwx8=",
+        "decentriq-platform-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "decentriq_platform-0.7.0-py3-none-any.whl": [
+          "a7aiqHl2O7DH3rWOrPa3x+y/dJoN71BI1ow1yo7cuQk=",
           "py3"
         ]
       }
@@ -39621,6 +39673,18 @@
           "py3"
         ]
       }
+    },
+    "2.6.0": {
+      "sdist": [
+        "MNGVSulH6fYSXpU9nIPoAPKeb6jXxRwh4HpF8UUYN08=",
+        "jsonclasses-flask-2.6.0.tar.gz"
+      ],
+      "wheels": {
+        "jsonclasses_flask-2.6.0-py3-none-any.whl": [
+          "a32WbqUhG4WYSQ2oGaK1Sdj3gnyNNGs4hJqE48slI9Q=",
+          "py3"
+        ]
+      }
     }
   },
   "jtools": {
@@ -51248,10 +51312,10 @@
     }
   },
   "memory64": {
-    "1.0.0.dev0": {
+    "1.0.0.dev1": {
       "sdist": [
-        "JnrP/uk7JMzCy2XTeszn3mWsMe1J0Oo5aTjA3q0KaqA=",
-        "Memory64-1.0.0.dev0.tar.gz"
+        "9nirBoc3SlgwSpc1kaCZ6qrVtHFR7Ttp8e0WwgkGzOc=",
+        "Memory64-1.0.0.dev1.tar.gz"
       ]
     }
   },
@@ -81635,6 +81699,36 @@
         "pyresdev-0.0.76-py3-none-any.whl": [
           "BZzUwp/d7OszV5SSn19h6LozJ0sjfOLIQNe4On3fqSw=",
           "py3"
+        ],
+        "pyresdev-0.0.77-py3-none-any.whl": [
+          "KzCSAhX0PY2QNAr1oZ5ksd0zY8zqh2Bu88iv+jsycO4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.77": {
+      "sdist": [
+        "9AcKD8CaTpMSn971wIEbJFl5hq57h96rupQry3I56+s=",
+        "pyresdev-0.0.77.tar.gz"
+      ]
+    },
+    "0.0.78": {
+      "sdist": [
+        "QJYOhS/zIfmR1srX0thaNxcrO4Wli4XFRAcbbxX/M4w=",
+        "pyresdev-0.0.78.tar.gz"
+      ],
+      "wheels": {
+        "pyresdev-0.0.78-py3-none-any.whl": [
+          "/eqTCtWxVFCT5AHPCTLa5sb7jpIh78T/1wL9ulbklO4=",
+          "py3"
+        ],
+        "pyresdev-0.0.80-py3-none-any.whl": [
+          "6hiQfQGevUnpgGPlqzCl3FnpMabKJpnAmt5iQR090+U=",
+          "py3"
+        ],
+        "pyresdev-0.0.83-py3-none-any.whl": [
+          "wTTD13CElD4Bry/1Rqkdr06F0ZAsi4E3+U3cvcLbmhA=",
+          "py3"
         ]
       }
     },
@@ -81646,6 +81740,30 @@
       "wheels": {
         "pyresdev-0.0.8-py3-none-any.whl": [
           "+XPWchfAylePE0XGtINhpb1Xo5G0iD+VhWpcHebQYSs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.80": {
+      "sdist": [
+        "Qry8AbbdJqheZsHvzn8JLNBF3jVCV1pbH4g561k+fDc=",
+        "pyresdev-0.0.80.tar.gz"
+      ]
+    },
+    "0.0.83": {
+      "sdist": [
+        "Od/aJJJHNt3BbtULIy5h2sqRxqKHYruVoMHKX7MKMD8=",
+        "pyresdev-0.0.83.tar.gz"
+      ]
+    },
+    "0.0.84": {
+      "sdist": [
+        "9K5FRrRot0sYiNemk9rdSv/DnwiBL1k6T3meVWOfOmA=",
+        "pyresdev-0.0.84.tar.gz"
+      ],
+      "wheels": {
+        "pyresdev-0.0.84-py3-none-any.whl": [
+          "4wgq53oMS8laWtt0k9OKz9E//Bu2+l+ptuq9jn/FU+0=",
           "py3"
         ]
       }
@@ -89436,6 +89554,24 @@
         "seven_cloudapp_frame-1.0.0.10.tar.gz"
       ]
     },
+    "1.0.0.100": {
+      "sdist": [
+        "CilPLK6Bq83NI9xy4aYr5UMGDfLKzBuKByTWWYrSOUs=",
+        "seven_cloudapp_frame-1.0.0.100.tar.gz"
+      ]
+    },
+    "1.0.0.101": {
+      "sdist": [
+        "17LIUXJlo5+0kZc5OtSKr0uqb/sCaWNH1OSXTafFfQE=",
+        "seven_cloudapp_frame-1.0.0.101.tar.gz"
+      ]
+    },
+    "1.0.0.102": {
+      "sdist": [
+        "1VbxApkrFCgC16RWx3uy5YeVZ6nxmVA2aZBzxVoFYNI=",
+        "seven_cloudapp_frame-1.0.0.102.tar.gz"
+      ]
+    },
     "1.0.0.11": {
       "sdist": [
         "53WZIEK8WOgW2MLZ2gCcGc1gRHaJF2hD0GfEAaCC2gI=",
@@ -89980,6 +90116,36 @@
       "sdist": [
         "6RUxqmy7UwooYNPCLa9CbgW+ZpqVV72x9yW7G/+ihKU=",
         "seven_cloudapp_frame-1.0.0.94.tar.gz"
+      ]
+    },
+    "1.0.0.95": {
+      "sdist": [
+        "yTNjCdcansLyEQUn69pY/BwGvmBo8vuvW84eR2MLcBQ=",
+        "seven_cloudapp_frame-1.0.0.95.tar.gz"
+      ]
+    },
+    "1.0.0.96": {
+      "sdist": [
+        "VauYQLEtluyz5Cq4oJUSTxuYM+9AQR7BkaWT8dsgotg=",
+        "seven_cloudapp_frame-1.0.0.96.tar.gz"
+      ]
+    },
+    "1.0.0.97": {
+      "sdist": [
+        "g1GRPuwmyZD40FG0K0yc2vioR0OFAJsdfq8mAXwCxjQ=",
+        "seven_cloudapp_frame-1.0.0.97.tar.gz"
+      ]
+    },
+    "1.0.0.98": {
+      "sdist": [
+        "mWMTa2Y6csSgQDRmcK2D37vrONTiJBmHSoSPVbohBRs=",
+        "seven_cloudapp_frame-1.0.0.98.tar.gz"
+      ]
+    },
+    "1.0.0.99": {
+      "sdist": [
+        "i8VWi0yDWKTUxhgVnl+Pl+kxttBx9d4aaxFi5KsNNog=",
+        "seven_cloudapp_frame-1.0.0.99.tar.gz"
       ]
     }
   },
@@ -98638,6 +98804,34 @@
         ],
         "tfra_nightly-0.2.0.dev20210902095211-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "AC+g420+sRtYbluuNke0Hajsa1+BwoHPLLGn5DB6HnE=",
+          "cp38"
+        ]
+      }
+    },
+    "0.2.0.dev20210902095512": {
+      "wheels": {
+        "tfra_nightly-0.2.0.dev20210902095512-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "T7D8vw+nSmIfVLteXdshiujg6VPNmL4i5GZyht0MYWs=",
+          "cp36"
+        ],
+        "tfra_nightly-0.2.0.dev20210902095512-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "URHXepMVh1KLqwYZL6K28NNxBkr68QCWdYU9HOkP4DM=",
+          "cp36"
+        ],
+        "tfra_nightly-0.2.0.dev20210902095512-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "QjlEejEMHTJt86ePc+gurOagbDE0dIYh6vbupv5qLq0=",
+          "cp37"
+        ],
+        "tfra_nightly-0.2.0.dev20210902095512-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "lKHNdiYPBe6VCfzYVwnKPEOFLg0ThaHTc3SGrfnc250=",
+          "cp37"
+        ],
+        "tfra_nightly-0.2.0.dev20210902095512-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "x/Ff6rOlHPU1M18Z/LJJLm5abeQHnju0wa39UGGMqps=",
+          "cp38"
+        ],
+        "tfra_nightly-0.2.0.dev20210902095512-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "PzPW0ZYG5ZyeNDG2C6qAdyxY8YHvTNt/HZg8goxn0/o=",
           "cp38"
         ]
       }
