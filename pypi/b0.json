@@ -1957,6 +1957,12 @@
         "DsfroS6tDDr8jR3qhORuK1bmmupigqoVr7+pPxF4f8A=",
         "alibuild-1.8.9.tar.gz"
       ]
+    },
+    "1.9.0rc1": {
+      "sdist": [
+        "x0C0FgX1NNGTE1nXdF+hZXBMzcZdjQbMvi8FwGBT7Mg=",
+        "alibuild-1.9.0rc1.tar.gz"
+      ]
     }
   },
   "aliyun-python-sdk-cdn": {
@@ -29215,6 +29221,12 @@
         "3logOmDuFOocLlbtNPIfwPlGcCFOn4gYok6/nXi6ZW4=",
         "easybuild-easyblocks-4.4.1.tar.gz"
       ]
+    },
+    "4.4.2": {
+      "sdist": [
+        "SRjxP/zZfIuesKEFF73Fso9nw2AogtS+C+46/EAf14w=",
+        "easybuild-easyblocks-4.4.2.tar.gz"
+      ]
     }
   },
   "easydatabase": {
@@ -37459,6 +37471,14 @@
       ]
     }
   },
+  "huawei-push-admin": {
+    "1.0.0": {
+      "sdist": [
+        "Ob6yHw/yGLrAcZ1eGnz1LsPTuIlP7QD5xIZt3dKEsOc=",
+        "huawei_push_admin-1.0.0.tar.gz"
+      ]
+    }
+  },
   "huaytools": {
     "0.1.0": {
       "sdist": [
@@ -42698,11 +42718,33 @@
     }
   },
   "kbw": {
-    "0.1b3": {
+    "0.1": {
       "sdist": [
-        "n43JGVwD4Wsmc6gqhAz8DhmOtScnNDTc7qzzKq6755E=",
-        "kbw-0.1b3.tar.gz"
-      ]
+        "5QAY8SGOFyE99s5JQDDZwV3yhoyWNYNCftAd9yXN5d0=",
+        "kbw-0.1.tar.gz"
+      ],
+      "wheels": {
+        "kbw-0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DoVVbt/re4scTV55qhkMaJknMywp+bJR3OJsk/pdMGE=",
+          "cp310"
+        ],
+        "kbw-0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "W+UfZRCicF4xKTkKPzE6Y2LRNV84oJiCRNysTh6iI+E=",
+          "cp37"
+        ],
+        "kbw-0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "R9FAFJDENpu/DFyfzrKOUQ+YbowPCrMHBTXj0oQ77Ts=",
+          "cp38"
+        ],
+        "kbw-0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wTkh3ydI2wHd/1KjISAA6bIy/OTyKKCBmKmgieEnqyA=",
+          "cp39"
+        ],
+        "kbw-0.1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xzIsCO/RRZcJSQ1G7u0Rrv4NafgmSB6hjAEVAJE+BNI=",
+          "pp37"
+        ]
+      }
     }
   },
   "kconfgen": {
@@ -49100,6 +49142,18 @@
       "wheels": {
         "meerk40t-0.7.0.post5-py2.py3-none-any.whl": [
           "cWlS4uae5O7zIcI/N0uF5f+Dl7BpfWgKKH07kzNwdOw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.7.0.post50": {
+      "sdist": [
+        "eRg12SVFzFzzU3PqrKxSWS1NZZq1AXPLKXDWZub2r5I=",
+        "meerk40t-0.7.0.post50.tar.gz"
+      ],
+      "wheels": {
+        "meerk40t-0.7.0.post50-py2.py3-none-any.whl": [
+          "jDNQV2gm+2fH7WEZmn51fCZLr6ejWCVzpugWz3f5ei0=",
           "py2.py3"
         ]
       }
@@ -72550,6 +72604,12 @@
       "sdist": [
         "IKOifabV+dLhPFOOF1Ru72LBd4/wT4OBVthjFhtvKrI=",
         "quidax-python-1.0.tar.gz"
+      ]
+    },
+    "1.2": {
+      "sdist": [
+        "gTgbd94wEDL4Iu49xO2SnBzJeSwYAKRM/07loG6P8DY=",
+        "quidax-python-1.2.tar.gz"
       ]
     }
   },
