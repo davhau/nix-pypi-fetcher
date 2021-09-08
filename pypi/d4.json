@@ -3851,6 +3851,12 @@
         "7TutRUOU2WgXWois45lM21Hr6kS+W4xi517LlAlCWTI=",
         "ansible-core-2.11.4rc1.tar.gz"
       ]
+    },
+    "2.11.5rc1": {
+      "sdist": [
+        "AqUL8ZxCFaqRmmlf87ZVO8WNUQZCuDnMyOUAhqdUeoo=",
+        "ansible-core-2.11.5rc1.tar.gz"
+      ]
     }
   },
   "anthill-dlc": {
@@ -11710,6 +11716,18 @@
       "wheels": {
         "bfgcardplay-0.0.7-py3-none-any.whl": [
           "pmG8yk5L1JmTfuR9VpOQ8rwqMG/M8JWGfjTAAMTV21Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "kvsxRdlJoH2LT7RfySekbesWKXG2e9kY6T8wUFycdYk=",
+        "bfgcardplay-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "bfgcardplay-0.0.8-py3-none-any.whl": [
+          "/9O55AtmIyw+qloggh31B6zVDCLwYYxJ0SyGVLVfEv4=",
           "py3"
         ]
       }
@@ -20648,6 +20666,24 @@
       "sdist": [
         "Nj9r2VnBvcZJe2d0HZhtcCB4F6AbOGqKdqLGpp6wlt0=",
         "demjson3-3.0.2.tar.gz"
+      ]
+    },
+    "3.0.3": {
+      "sdist": [
+        "SiTKtp1dB8PPNl1YYLD+6yc8hhpuuZLhCFIAPF1y1IU=",
+        "demjson3-3.0.3.tar.gz"
+      ]
+    },
+    "3.0.4": {
+      "sdist": [
+        "1BxSLHJNtFCQ5oeleeBmlN7u15bTzZfbvL2XK2Shi8I=",
+        "demjson3-3.0.4.tar.gz"
+      ]
+    },
+    "3.0.5": {
+      "sdist": [
+        "q5qr3YVpXzaE/ClvOXZqJzD2yN6B0j9wSAc9/i9hbYA=",
+        "demjson3-3.0.5.tar.gz"
       ]
     }
   },
@@ -69272,6 +69308,18 @@
         ]
       }
     },
+    "2.0.1": {
+      "sdist": [
+        "zrKyy5luVSkcsNA1ylqYllTPGFQoecwRML2ZSoGmgcs=",
+        "os_vif-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "os_vif-2.0.1-py3-none-any.whl": [
+          "8qJrlf9J82BoUjIaHMhszNRiBPWwT9+8XN8skZdgJbI=",
+          "py3"
+        ]
+      }
+    },
     "2.1.0": {
       "sdist": [
         "EW8VE95wPyM6XwGL6CbyGgblmg/maH2/OCzW2qpRKfI=",
@@ -69292,6 +69340,18 @@
       "wheels": {
         "os_vif-2.2.0-py3-none-any.whl": [
           "tH8Dahr0ZMZFil3y+AW8kK5hK/V/Tk6rx/SWBb5hGXU=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.1": {
+      "sdist": [
+        "3IV0RZslRZno5EjB8L4e+xYXi4KhVnCpfS5sYpQjLkw=",
+        "os_vif-2.2.1.tar.gz"
+      ],
+      "wheels": {
+        "os_vif-2.2.1-py3-none-any.whl": [
+          "fMx9cPN9wEyvvnU6HP/7f5VNzUOVveGn9pPVblUsuEk=",
           "py3"
         ]
       }
@@ -83598,6 +83658,58 @@
         ],
         "python_dp-1.1.0rc3-cp39-cp39-win_amd64.whl": [
           "ozkrWjDs+euAxCw/Gg78IZ9A4i+11rOryRB9jXwt+Pg=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.1rc0": {
+      "wheels": {
+        "python_dp-1.1.1rc0-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "DX+pJoiKwJh07O5sOpxkeBr5mzro5FQS6LahGkzh+Kk=",
+          "cp36"
+        ],
+        "python_dp-1.1.1rc0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "UN02PEqR0u7EMxryM/jxPUfyh4NU8WZBZLrjXfqDQv8=",
+          "cp36"
+        ],
+        "python_dp-1.1.1rc0-cp36-cp36m-win_amd64.whl": [
+          "5LR0XeJoTzXRY5Scjavx1qIoAj7UKlF2zte2tRYH7XY=",
+          "cp36"
+        ],
+        "python_dp-1.1.1rc0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "Aoj/KR4+jO1gYBY0lNnM7qXPPXvaCUWvjWwf5YqVxuU=",
+          "cp37"
+        ],
+        "python_dp-1.1.1rc0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "DyyemldChWmb4mBaAoHszqjOPHNs+dlIg2382jef6wc=",
+          "cp37"
+        ],
+        "python_dp-1.1.1rc0-cp37-cp37m-win_amd64.whl": [
+          "+YCAqt2HkaT79PyS0XitgZune/4jSA4dhOcPcXnjzSI=",
+          "cp37"
+        ],
+        "python_dp-1.1.1rc0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "TvPVDeE3TRofNmxMA43fvEmrpawi6B7Tk/POYkQ8uyY=",
+          "cp38"
+        ],
+        "python_dp-1.1.1rc0-cp38-cp38-manylinux1_x86_64.whl": [
+          "zvWsAmEfdfpx5t+fQVOIXtUvMLWMEC/K5a3scI88RvA=",
+          "cp38"
+        ],
+        "python_dp-1.1.1rc0-cp38-cp38-win_amd64.whl": [
+          "NgqZKWg7bcOGQWj9ZQ1hWDmd5Z2v4IiExWoU1EXpwi0=",
+          "cp38"
+        ],
+        "python_dp-1.1.1rc0-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "Uj1ypb0fVCm+v0G3Jm9CxBVrg9o7EPgMSPPkDX5mmdo=",
+          "cp39"
+        ],
+        "python_dp-1.1.1rc0-cp39-cp39-manylinux1_x86_64.whl": [
+          "uFK0ByrxGNBwPjVL0JFI2/eoVcFpjxJk83cutMbMCR0=",
+          "cp39"
+        ],
+        "python_dp-1.1.1rc0-cp39-cp39-win_amd64.whl": [
+          "4oKQoHMvKwG1/Ey3BIi1+1nGk08CGKOSXfAq5HKkAYg=",
           "cp39"
         ]
       }

@@ -2835,6 +2835,12 @@
         "Be4msgR7+P6PzYBnww6oa+SIUoCRbSxzLykqH+RB+RM=",
         "ansible-iplb-1.59.0.tar.gz"
       ]
+    },
+    "1.64.0": {
+      "sdist": [
+        "r6T/uQ301hvuM/J1Ji6Q91s+Vt3DN3INIv/lw1wNaWM=",
+        "ansible-iplb-1.64.0.tar.gz"
+      ]
     }
   },
   "ansible-run": {
@@ -30835,6 +30841,20 @@
       }
     }
   },
+  "flares": {
+    "0.0.1": {
+      "sdist": [
+        "MTEY/PyFI0P1RkfXJyFSfkw5X+93Jhx3/cMihUEHbWE=",
+        "Flares-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "Flares-0.0.1-py3-none-any.whl": [
+          "w9gkC6OMxpsB1DQapjfbSC/HAFG6u0Gu744l0sEH4EE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "flask-admin-ckeditor": {
     "2020.3.27.1": {
       "sdist": [
@@ -43632,138 +43652,6 @@
     }
   },
   "idf-component-manager": {
-    "0.0.2a2": {
-      "sdist": [
-        "0Ivlipd+Zrnp3BWPZGxQZQJ7xdM2N7x3Q9SzlKdn+Aw=",
-        "idf_component_manager-0.0.2a2.tar.gz"
-      ],
-      "wheels": {
-        "idf_component_manager-0.0.2a2-py3-none-any.whl": [
-          "7udORpv86s7dbtiRGiW49Cw/ffqFVq73fDct1SgZYz8=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.0a1": {
-      "sdist": [
-        "ayvV5YKdoFlEXaXfjhoIhTeZ424BLmeujlaJgfVahe8=",
-        "idf_component_manager-0.1.0a1.tar.gz"
-      ],
-      "wheels": {
-        "idf_component_manager-0.1.0a1-py3-none-any.whl": [
-          "/vNw40370WB75DsZM3538KwN10k8fpSohIfXF5X9p7U=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.0a2": {
-      "sdist": [
-        "2c2e+2NzSmSZiO6ubo+RsXV1li58rvOcemOydChUT7I=",
-        "idf_component_manager-0.1.0a2.tar.gz"
-      ],
-      "wheels": {
-        "idf_component_manager-0.1.0a2-py3-none-any.whl": [
-          "vMfKcgCPp3MFgjmESmtx7jPVex62ydGUbxK7zX5ACqM=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1a0": {
-      "sdist": [
-        "LtBRV94MMmUAPKa32++fh8htlqNAErBypcqizTBRZiM=",
-        "idf_component_manager-0.1.1a0.tar.gz"
-      ],
-      "wheels": {
-        "idf_component_manager-0.1.1a0-py3-none-any.whl": [
-          "+Eel5AttNQ4RDhUWVf0Ljn9wx/LVDi3RbDpT7udvbd4=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1a1": {
-      "sdist": [
-        "7RgwdayP8nDJOaxuocMbLHYARxc7/WO4y6MWsSs3v/A=",
-        "idf_component_manager-0.1.1a1.tar.gz"
-      ],
-      "wheels": {
-        "idf_component_manager-0.1.1a1-py3-none-any.whl": [
-          "enbRgkLXTroMCOeh4pCVJiNNSAfntn+ZTaqdUoTOFYE=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1a2": {
-      "sdist": [
-        "IoSIEjI/eV7KbBhp/rbQzIQu7TtjGHBpURna4nhteyg=",
-        "idf_component_manager-0.1.1a2.tar.gz"
-      ],
-      "wheels": {
-        "idf_component_manager-0.1.1a2-py3-none-any.whl": [
-          "biGnPcEZnZQG+rSgaqIGOeKvJiBo6hUbykGHp77UCnQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2a0": {
-      "sdist": [
-        "V4nQkfWrNVzeTy/ml7A0IIzm1TG91YyV/cWvfD3bei0=",
-        "idf_component_manager-0.1.2a0.tar.gz"
-      ],
-      "wheels": {
-        "idf_component_manager-0.1.2a0-py3-none-any.whl": [
-          "aegoVys8h/tdnVPFI3BshQJYFEo2V6x+S8OvR6pzmfo=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3a0": {
-      "sdist": [
-        "46zBc/ccYAhOUUi/qjIr0GBTG5egdy25rsqcJZph5rE=",
-        "idf_component_manager-0.1.3a0.tar.gz"
-      ],
-      "wheels": {
-        "idf_component_manager-0.1.3a0-py3-none-any.whl": [
-          "MrgfA5t5r0PT/c62geWgbeIPuhoPWCZ8RxwcLFyR0v8=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3a1": {
-      "sdist": [
-        "QvldkZ9bF5lLuxAuvRG9iSE2rVBoq/+TVcASLryczF0=",
-        "idf_component_manager-0.1.3a1.tar.gz"
-      ],
-      "wheels": {
-        "idf_component_manager-0.1.3a1-py3-none-any.whl": [
-          "VKMp2HYtTog9I6J3kI7/R7rYjRuvC5NaQMcp9XnQ94o=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3a2": {
-      "sdist": [
-        "3Gda6wE5RjkEXQY15ZTflfEylLJAFwSANl/gtA1OgJo=",
-        "idf_component_manager-0.1.3a2.tar.gz"
-      ],
-      "wheels": {
-        "idf_component_manager-0.1.3a2-py3-none-any.whl": [
-          "1zBn6r+3O4nne/+Cf4NsKvXyYyWkKmLhWstr3J0Th6g=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3a3": {
-      "sdist": [
-        "oSE6bMpLUdoaehGEZDKxSSZBV9zox3AaUzPdFKv+A/Y=",
-        "idf_component_manager-0.1.3a3.tar.gz"
-      ],
-      "wheels": {
-        "idf_component_manager-0.1.3a3-py3-none-any.whl": [
-          "d7E1N83tpADfQsAu62ihEVX/j7JEqcEX1RyqrUrTpQs=",
-          "py3"
-        ]
-      }
-    },
     "0.2.0a0": {
       "sdist": [
         "073JtVQ7bLn8cYWGaiOoU/yZEtrbTMWIunlLoqFV6G0=",
@@ -45915,6 +45803,20 @@
         "CFgOHDLrKRomMLXGuKEHdcI/rIfBM51g4Q9PhIk4G3o=",
         "joecalc-1.0.tar.gz"
       ]
+    }
+  },
+  "jpaddressparser": {
+    "0.1.0": {
+      "sdist": [
+        "OX7XVV7AM6kpIS5ZDdT5Y3ikuVg1UshvXVQqA/T+Zl8=",
+        "jpaddressparser-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "jpaddressparser-0.1.0-py3-none-any.whl": [
+          "DjZOgSMBxEZGGYsFluDMhjPjOg6EhSKQFXyNdE17zfE=",
+          "py3"
+        ]
+      }
     }
   },
   "json-dotenv": {
@@ -67090,6 +66992,18 @@
       "wheels": {
         "partifact-0.1.1-py3-none-any.whl": [
           "MORnrlirDQNZ+nii1xCJ8D4W+hJtuGVwMNiA1HOQorE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "rRmyci5IExcVaGUS90s2FMD70TY8cho9dgwyxUPWO8o=",
+        "partifact-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "partifact-0.1.2-py3-none-any.whl": [
+          "xmRmQqBN00X1DdeP5cBAOi0RbaNramJ22gXgv8zYV4w=",
           "py3"
         ]
       }
@@ -92476,6 +92390,18 @@
       "wheels": {
         "weaverbird-0.7.7-py3-none-any.whl": [
           "eHagHzYzGbX7vX+UlE3PapKBXr4MHJX14iyiLdWinvI=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.8": {
+      "sdist": [
+        "0nc3EqddswiLcB652veAyr3UbNjU+fczaaJQBR2e2q0=",
+        "weaverbird-0.7.8.tar.gz"
+      ],
+      "wheels": {
+        "weaverbird-0.7.8-py3-none-any.whl": [
+          "sZH7HJzXZeRdCwaDalZ8Xansf42by2PMLLFo2ciZyls=",
           "py3"
         ]
       }
