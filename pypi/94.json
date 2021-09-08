@@ -45364,6 +45364,12 @@
         "localstack-ext-0.12.16.11.tar.gz"
       ]
     },
+    "0.12.16.12": {
+      "sdist": [
+        "kF+Pg6xb4e9SzH0SA9DdVGzYYgBqDlW/FLCSVhCojF4=",
+        "localstack-ext-0.12.16.12.tar.gz"
+      ]
+    },
     "0.12.16.2": {
       "sdist": [
         "YdO2zj2OAzvVSgFRdHmAZzLi0xNgktKfQntYoTTiRjg=",
@@ -52972,6 +52978,18 @@
         ]
       }
     },
+    "1.18.37": {
+      "sdist": [
+        "rTWQ6fA17LGqWDFIkLea7EZTuqJ6KwUZzaJx9EFDRbY=",
+        "mypy-boto3-fis-1.18.37.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_fis-1.18.37-py3-none-any.whl": [
+          "YiCph6+ZuIbGCnMuC6eDLBqLO3gVCj2CYLNgtLw2jmw=",
+          "py3"
+        ]
+      }
+    },
     "1.18.4": {
       "sdist": [
         "HXJUqT6g0heOCwuHa613ghwkHt6wM/VjHQrSh+nGRD4=",
@@ -59128,6 +59146,12 @@
       "sdist": [
         "3WNQaueBbLGoG3FmYsDpy/mKe4pwPEAdiqklYqLm8KE=",
         "paasta-tools-0.107.1.tar.gz"
+      ]
+    },
+    "0.107.2": {
+      "sdist": [
+        "6h+aIu6zpm3sYDNV3koGDwaG9FHbN9thDKiBwM2htBs=",
+        "paasta-tools-0.107.2.tar.gz"
       ]
     },
     "0.14.1": {
@@ -81524,54 +81548,6 @@
     }
   },
   "sekkaybot": {
-    "0.22.101": {
-      "wheels": {
-        "SEKKAYBOT-0.22.101-py3-none-any.whl": [
-          "AUuOj9SIt6vkHRROVjK+JBtoJonkGNpmlCM8Xmx+lh4=",
-          "py3"
-        ]
-      }
-    },
-    "0.22.102": {
-      "wheels": {
-        "SEKKAYBOT-0.22.102-py3-none-any.whl": [
-          "LnEhqZgxU/aJ2Uf3dqwRf1I+yMEz735PuSFSGiXJ/7s=",
-          "py3"
-        ]
-      }
-    },
-    "0.22.103": {
-      "wheels": {
-        "SEKKAYBOT-0.22.103-py3-none-any.whl": [
-          "LPXjvnjfOmdfA7Dpyz3Inp6rLUGbZmkIo6mfBjpzOPs=",
-          "py3"
-        ]
-      }
-    },
-    "0.22.104": {
-      "wheels": {
-        "SEKKAYBOT-0.22.104-py3-none-any.whl": [
-          "4R5YmEGazHOETrHF4qd8tBaoHiTh2Dz24aniYiXU2Oo=",
-          "py3"
-        ]
-      }
-    },
-    "0.22.105": {
-      "wheels": {
-        "SEKKAYBOT-0.22.105-py3-none-any.whl": [
-          "bxT41SIh1pBcIeYDHsJJlNNrD7H3DK/MOfTgrONYg2Y=",
-          "py3"
-        ]
-      }
-    },
-    "0.22.106": {
-      "wheels": {
-        "SEKKAYBOT-0.22.106-py3-none-any.whl": [
-          "Ct7hqJIqzqlRClmG9ERLXR52F53n7WLBKaYsFrGK96E=",
-          "py3"
-        ]
-      }
-    },
     "0.22.107": {
       "wheels": {
         "SEKKAYBOT-0.22.107-py3-none-any.whl": [
@@ -81588,10 +81564,34 @@
         ]
       }
     },
-    "0.22.99": {
+    "0.22.109": {
       "wheels": {
-        "SEKKAYBOT-0.22.99-py3-none-any.whl": [
-          "SAevG8xldxTVfEqR+ZR1RoUX0WkNU2LD09imaDZNA1M=",
+        "SEKKAYBOT-0.22.109-py3-none-any.whl": [
+          "lculrBMi0buZhAj+MClMvEk9biWTXXk200DBKKo2NqY=",
+          "py3"
+        ]
+      }
+    },
+    "0.22.110": {
+      "wheels": {
+        "SEKKAYBOT-0.22.110-py3-none-any.whl": [
+          "GvIExfUkdgX0Bn6hTOOLkp+Lqg9lXZndUPtIAjnsg6U=",
+          "py3"
+        ]
+      }
+    },
+    "0.22.111": {
+      "wheels": {
+        "SEKKAYBOT-0.22.111-py3-none-any.whl": [
+          "eNOfTGLNnMTrLJjiPvBw3oYymLJRmoya2842vKlCZFI=",
+          "py3"
+        ]
+      }
+    },
+    "0.22.112": {
+      "wheels": {
+        "SEKKAYBOT-0.22.112-py3-none-any.whl": [
+          "qtOZA252pnw7QEEA+ir/MKAY7hejUyTgbaOPUrYeJCw=",
           "py3"
         ]
       }
@@ -83974,6 +83974,18 @@
       "wheels": {
         "soda_sql_athena-2.1.0b15-py3-none-any.whl": [
           "HLg/Pt4Uq4Bf+qoxke1Mh57KyHhYmggF8uodG75ylqE=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0b16": {
+      "sdist": [
+        "JiFwe+lCE9bXO8ZYnAvx0/g1H+5qwb5/Fa6b+ademls=",
+        "soda-sql-athena-2.1.0b16.tar.gz"
+      ],
+      "wheels": {
+        "soda_sql_athena-2.1.0b16-py3-none-any.whl": [
+          "vLabFJs4kZ6azf9Cu+Pp9BtJDwiTboDTME15RdIALoA=",
           "py3"
         ]
       }
@@ -90518,6 +90530,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tms-3.0.479-py2.py3-none-any.whl": [
           "Jh8fQ4ZP7a07grOA2OGk4pb1KCTAjpPY49vY953n9PE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.480": {
+      "sdist": [
+        "Mooj48ICq9jXd2OVmY5+Z7V0C07sQRCtyJXRzbR5JU0=",
+        "tencentcloud-sdk-python-tms-3.0.480.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tms-3.0.480-py2.py3-none-any.whl": [
+          "vohFJO61yX91KqAgxrbEPZSz/BE3owPBuujmw9vIHjo=",
           "py2.py3"
         ]
       }
@@ -97808,6 +97832,18 @@
       "wheels": {
         "yaqd_attune-2021.3.0-py3-none-any.whl": [
           "Me/K70r2m0u8dHU6WGfblo+Mvnbf3y6AuNj10oOfg/E=",
+          "py3"
+        ]
+      }
+    },
+    "2021.9.0": {
+      "sdist": [
+        "UvF1DlWkp9xN94iS20HZe1H1rXb2i8iXqyDCYtlRWUc=",
+        "yaqd-attune-2021.9.0.tar.gz"
+      ],
+      "wheels": {
+        "yaqd_attune-2021.9.0-py3-none-any.whl": [
+          "SpeS0wxmfP9vpegn6wyqfgvHWpRLrdWzuC7vpHiqdnQ=",
           "py3"
         ]
       }
