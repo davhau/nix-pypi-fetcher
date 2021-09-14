@@ -29391,6 +29391,14 @@
       ]
     }
   },
+  "gsdistro": {
+    "0.1": {
+      "sdist": [
+        "jNVChMh1XU2hVFPq4zhnMv8Jt2YcMmR9GTSxWcG7jDo=",
+        "gsdistro-0.1.tar.gz"
+      ]
+    }
+  },
   "guided-filter-tf": {
     "1.1.1": {
       "sdist": [
@@ -36758,6 +36766,18 @@
       "wheels": {
         "jupyterlab_widgets-1.0.1-py3-none-any.whl": [
           "hBklo0m9mpGXxVBr1UYaMhsJ5mWamxeaAJa1YakomMM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "eIUJKyuWvxicOnBcw8QSpEcuxeg4LQtHIZpmzMrnPPo=",
+        "jupyterlab_widgets-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_widgets-1.0.2-py3-none-any.whl": [
+          "9dnv+s6OxilBFzuhz/su3Q7N3IAcEa4pMeMLUEkuuPc=",
           "py3"
         ]
       }
@@ -56686,6 +56706,18 @@
         ]
       }
     },
+    "1.18.41": {
+      "sdist": [
+        "OL6Ly+i/OcYzj9ncXPR7E4eDTJasYJMuibkLVZ2qMTk=",
+        "mypy-boto3-guardduty-1.18.41.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_guardduty-1.18.41-py3-none-any.whl": [
+          "bM6rdtoUY0P14EfxVsa3PWuM8/wcvKfa7fsvmS2Sl2E=",
+          "py3"
+        ]
+      }
+    },
     "1.18.5": {
       "sdist": [
         "kStBxHjlBvjOkMn1Hd4Mf+xVRLze7eeSS9rfJvyiBd8=",
@@ -61912,6 +61944,18 @@
       "wheels": {
         "mypy_boto3_iotanalytics-1.18.40-py3-none-any.whl": [
           "/1PdCjmGXgrm5fNtUvwWjIseV+kLCj8KJqe2zLTK7b4=",
+          "py3"
+        ]
+      }
+    },
+    "1.18.41": {
+      "sdist": [
+        "cd98S51+GdSRpswPahevk+DcI+a1sNXHPGcJ+kfZVvo=",
+        "mypy-boto3-iotanalytics-1.18.41.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_iotanalytics-1.18.41-py3-none-any.whl": [
+          "KoWnUtTd1czFXnt5cGCOub8fwW816CkekGaS8eQxSrc=",
           "py3"
         ]
       }
@@ -74727,6 +74771,70 @@
         "PyICU_binary-2.3.1-cp38-cp38-manylinux1_x86_64.whl": [
           "SVbjZw+Gk8DrpeYO2xwv2PHeLrSN8NdsPzLTK212VOY=",
           "cp38"
+        ]
+      }
+    },
+    "2.7.4": {
+      "sdist": [
+        "NJzwuvG//47Oxz8D27v2OIl0c0CEjV9O82eQCxZbr1Y=",
+        "PyICU-binary-2.7.4.tar.gz"
+      ],
+      "wheels": {
+        "PyICU_binary-2.7.4-cp36-cp36m-macosx_10_15_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "8spHfKyIg5oKkmbBya6hLJ3XUfT8zr16xWMhLaSiGkk=",
+          "cp36"
+        ],
+        "PyICU_binary-2.7.4-cp36-cp36m-manylinux_2_24_i686.whl": [
+          "OBsDLJ6T5YHoKmHkU4mT4H20sSsUA0QXDVsrYP+AIRg=",
+          "cp36"
+        ],
+        "PyICU_binary-2.7.4-cp36-cp36m-manylinux_2_24_x86_64.whl": [
+          "mlpZ+HHY512jyW+QuYwd8x68aEgGtNs4wBRPEUW8MnU=",
+          "cp36"
+        ],
+        "PyICU_binary-2.7.4-cp37-cp37m-macosx_10_15_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "FkdJ9hKLGfJkNrHl7BBZUFinjk7UYVDUO/FAKMv/ydE=",
+          "cp37"
+        ],
+        "PyICU_binary-2.7.4-cp37-cp37m-manylinux_2_24_i686.whl": [
+          "dieaKBR7TIry1M3r8F0GhXa9t9BuaGONNIJoDkqLSVo=",
+          "cp37"
+        ],
+        "PyICU_binary-2.7.4-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "NaUMKlBfSJA0dYmo2QLx/L23uHCeLm7o5xtEXzzANEI=",
+          "cp37"
+        ],
+        "PyICU_binary-2.7.4-cp38-cp38-macosx_10_15_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "T2NoL4Qwrto+aks+DWEZK9Xdk+6iNLMqFAqV/vz0e8U=",
+          "cp38"
+        ],
+        "PyICU_binary-2.7.4-cp38-cp38-manylinux_2_24_i686.whl": [
+          "hR4HQ1msWjq5jWmWyYcaLqgp4aegc4AAjgVA26OoSco=",
+          "cp38"
+        ],
+        "PyICU_binary-2.7.4-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "vzkLm88IHtud4HByKouq4VRFEmLfhaVgHMwSqp4K0Yc=",
+          "cp38"
+        ],
+        "PyICU_binary-2.7.4-cp39-cp39-macosx_11_0_x86_64.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
+          "8HfuCrmb4YHkPQIelKGMFeamAj3jNOcpjrBD9/02dVE=",
+          "cp39"
+        ],
+        "PyICU_binary-2.7.4-cp39-cp39-manylinux_2_24_i686.whl": [
+          "QiYq5WF/1Dv6S4Cx7LBOdkHggpY5ope6zFTB18Nngzw=",
+          "cp39"
+        ],
+        "PyICU_binary-2.7.4-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "9OwWueNvpMmVWgf5xcFfMLMYkXpp29LAQmdmj4MB7J8=",
+          "cp39"
+        ],
+        "PyICU_binary-2.7.4-pp37-pypy37_pp73-manylinux_2_24_i686.whl": [
+          "LCn2afmhioE8nMbLlw9bP29j094vH7eI8/KHJ4aHvOs=",
+          "pp37"
+        ],
+        "PyICU_binary-2.7.4-pp37-pypy37_pp73-manylinux_2_24_x86_64.whl": [
+          "WS2cpUIDrwf7kMBnPj+sSCSc9Z7lBAK742Uz3lLkuec=",
+          "pp37"
         ]
       }
     }
@@ -92649,6 +92757,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.484": {
+      "sdist": [
+        "1UNyo8iXzeCnQjvRL90KjNypaKL+8y0IwwI2cJZ7xks=",
+        "tencentcloud-sdk-python-dtf-3.0.484.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dtf-3.0.484-py2.py3-none-any.whl": [
+          "QfePxgyun+JWBQbvhUBCdbd0le0sVkfuPrNitFlgQQ4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-tione": {
@@ -95432,6 +95552,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tione-3.0.483-py2.py3-none-any.whl": [
           "FuG3rxJpIOqgEFlL9hmLZYAXew09ZEX0jmm7aZG96N4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.484": {
+      "sdist": [
+        "kCE667KYqOCHVc+oHEs0bNgZ7v7VMbKSMRcrsILC0po=",
+        "tencentcloud-sdk-python-tione-3.0.484.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tione-3.0.484-py2.py3-none-any.whl": [
+          "P/WbdVc/4qkfJY0nyaBPzHu2Qo24PniCOXJRGeuOhEE=",
           "py2.py3"
         ]
       }
