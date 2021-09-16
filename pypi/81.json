@@ -4489,6 +4489,18 @@
           "py3"
         ]
       }
+    },
+    "1.4.1": {
+      "sdist": [
+        "7egczaL7pLzklAxZkG50TNpWeVi2y5HdF63RvAbmH+0=",
+        "Anipick-1.4.1.tar.gz"
+      ],
+      "wheels": {
+        "Anipick-1.4.1-py3-none-any.whl": [
+          "cbqHjWIFRO6WEZQz3bG0mfeqPCZtcwwLxjcp2dbOiTQ=",
+          "py3"
+        ]
+      }
     }
   },
   "annofabcli": {
@@ -20417,6 +20429,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.8.2": {
+      "sdist": [
+        "ACzbDfxHDgO/7zaDUt+PbwKlHuEWhWGjw1G2K31eF+s=",
+        "deepctrl-scrapy-redis-0.8.2.tar.gz"
+      ],
+      "wheels": {
+        "deepctrl_scrapy_redis-0.8.2-py2.py3-none-any.whl": [
+          "StiVGvu7D05JgYOqZuUw7MWzstXgrNPKQIAu9nUZ7yM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "deepspeech": {
@@ -27900,6 +27924,12 @@
         "django-celery-extensions-0.0.2.tar.gz"
       ]
     },
+    "0.0.20": {
+      "sdist": [
+        "FPIdxWZCELOkyERhk8O/hAVYemTC9drY6yixtv9j6/s=",
+        "django-celery-extensions-0.0.20.tar.gz"
+      ]
+    },
     "0.0.3": {
       "sdist": [
         "ZzgI13TlcrZ+g8iqJ6fX0Zf1oE1fFSxhDk9h+56jAlI=",
@@ -34918,123 +34948,31 @@
     }
   },
   "facile": {
-    "1.1": {
+    "1.5": {
       "wheels": {
-        "facile-1.1-cp27-none-macosx_10_10_intel.whl": [
-          "FeMxzlsAgvEf4g5yzdXBUYGNunJ9jhGVcvKdhZDTp28=",
-          "2.7"
-        ],
-        "facile-1.1-cp34-cp34m-macosx_10_10_x86_64.whl": [
-          "bc4QYUIL2gGGH26Kh3e0pKX4zslyGxXcYbqssVT/e1g=",
-          "3.4"
-        ],
-        "facile-1.1-cp34-none-win32.whl": [
-          "ZL6Kzu5sHE+jx8lIW5GpMOhmGmXezjTsb71psmYhrcA=",
-          "3.4"
-        ]
-      }
-    },
-    "1.2": {
-      "wheels": {
-        "facile-1.2-cp27-none-macosx_10_10_intel.whl": [
-          "A8tGd8XppbXyJ2gRgw1r81t1sPft254hrMgm2hvXi0I=",
-          "2.7"
-        ],
-        "facile-1.2-cp34-cp34m-macosx_10_10_x86_64.whl": [
-          "GO+aD2mLJ52UHIAfS4/nJEk8YDr+qinDLkinn7CJgE0=",
-          "3.4"
-        ],
-        "facile-1.2-cp34-none-win32.whl": [
-          "i1nTDiVkFNA93O+ESSmj9T7LNWuLI/sOf/zjvBJwNhk=",
-          "3.4"
-        ],
-        "facile-1.2-cp35-cp35m-macosx_10_10_x86_64.whl": [
-          "gWQL44tDAog6Bjxj/44sRkPcGWFYn4Yi1LG8JSrR71I=",
-          "3.5"
-        ],
-        "facile-1.2-cp35-none-win32.whl": [
-          "i7hLHaGtlPmllKiMYK4OXbJzR+z6WXghgq4bURDuGFc=",
-          "3.5"
-        ]
-      }
-    },
-    "1.3": {
-      "wheels": {
-        "facile-1.3-cp27-none-macosx_10_10_intel.whl": [
-          "u3p9f3XIMD+zqwCR9uULgD9k3g43YPbjU07MMkSrK8c=",
-          "2.7"
-        ],
-        "facile-1.3-cp34-cp34m-macosx_10_10_x86_64.whl": [
-          "vMurNGcPbo7lp80adCa5cQwpNjjdDlE5zm/RaLr114s=",
-          "3.4"
-        ],
-        "facile-1.3-cp34-cp34m-win32.whl": [
-          "9v2dAQw91/cedAbWFNSt/PAoCvxqz9W4Wy3yGm/ru/I=",
-          "3.4"
-        ],
-        "facile-1.3-cp35-cp35m-macosx_10_10_x86_64.whl": [
-          "Is2dOk97W2iVAkbuE50o25xQjMY9Yh5zCs+E5wgwvAs=",
-          "3.5"
-        ],
-        "facile-1.3-cp35-cp35m-win32.whl": [
-          "1tsjCrHYnTI52jNu5MIjPQE6iOTmcuH6khCRJvDGMuo=",
-          "3.5"
-        ]
-      }
-    },
-    "1.4": {
-      "wheels": {
-        "facile-1.4-cp35-cp35m-macosx_10_12_x86_64.whl": [
-          "py8NP1Wo8KsmOjKXJ9q/MqmnT7d1pwWChScmq14rDTA=",
-          "3.5"
-        ],
-        "facile-1.4-cp35-cp35m-manylinux1_x86_64.whl": [
-          "gi45RmVq1ObG6Rf5+WPPKfR6Cp+zFwmZskaC7Vkq67I=",
-          "cp35"
-        ],
-        "facile-1.4-cp36-cp36m-macosx_10_12_x86_64.whl": [
-          "/qwO59mOuhtudJSCgJ6cNJz5NLQbWgawd8s/1QbKoGo=",
-          "3.6"
-        ],
-        "facile-1.4-cp36-cp36m-manylinux1_x86_64.whl": [
-          "qfPFMN22xOdTBPiSWssgvXAtkCD+KGJohEfJ9hpBFHU=",
-          "cp36"
-        ],
-        "facile-1.4-cp36-cp36m-win_amd64.whl": [
-          "CvC2UZBXVpIMgH9VXgKYwreSle0BGT4wuQtkWKsYO0g=",
-          "cp36"
-        ]
-      }
-    },
-    "1.4.1": {
-      "wheels": {
-        "facile-1.4.1-cp36-cp36m-macosx_10_12_x86_64.whl": [
-          "Qx2p5eESBG5YfUGdoWMwlkMZ0KLwYkUpSfm3WBEmgFo=",
-          "cp36"
-        ],
-        "facile-1.4.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "ExmBKHHMaciSUewfGO1sd3Bqkvebqc79dE6OxUx5rN4=",
-          "cp36"
-        ],
-        "facile-1.4.1-cp36-cp36m-win_amd64.whl": [
-          "Xg+ct/Ipi7d67q72oW2Jse3WWJJ18RJucmDmBKEppkI=",
-          "cp36"
-        ],
-        "facile-1.4.1-cp37-cp37m-macosx_10_12_x86_64.whl": [
-          "jIL77Ij8qWLPHXdr//84NuFkCNbaHvHdBWfp18ElZyQ=",
+        "facile-1.5-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "oS+a7Vay9WM8/EiOj2zhuxmivcUToh+03vao/XJg1cw=",
           "cp37"
         ],
-        "facile-1.4.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "WHZoMoa3FwHGu+RqXWd71RW99ahMjJE+5DImOqm2yFk=",
+        "facile-1.5-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "wbnbkhTH9PKA/pXo075tgD1K+qjqPOoRSUDi5wp5yxg=",
           "cp37"
         ],
-        "facile-1.4.1-cp37-cp37m-win_amd64.whl": [
-          "2zW2OvLnBgXxpLueLUDrMHZm3eneoj7bDoXs+j5wiN8=",
-          "cp37"
-        ],
-        "facile-1.4.1-cp38-cp38m-manylinux1_x86_64.whl": [
-          "n4cLj43JmCoCGsERrubSOoOl5jz5p4DHNP5AW901Nkk=",
+        "facile-1.5-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "TePSsrtiCB0VnWxFdW4a21R14uX3LRtBTl4o6Z3DG4E=",
           "cp38"
+        ],
+        "facile-1.5-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "MXmi/hyWjFYzkhVB8eGULTqKjopngKDimbvnFpZG+1M=",
+          "cp38"
+        ],
+        "facile-1.5-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "JYpBrCkCptIIlx473BQtEdtlMEzEexhSkY7J536Sh3A=",
+          "cp39"
+        ],
+        "facile-1.5-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "Y5bXgAv3P+CFSJDUjBFOiOd/pvM+8azTghi3a4T7oVw=",
+          "cp39"
         ]
       }
     }
@@ -46846,6 +46784,14 @@
       "wheels": {
         "huaweicloudsdkrabbitmq-3.0.59-py2.py3-none-any.whl": [
           "xi98M7cAKBu3YJg8JtHdXjQYIO3l8xbDIjczQv25mXA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.60": {
+      "wheels": {
+        "huaweicloudsdkrabbitmq-3.0.60-py2.py3-none-any.whl": [
+          "5tJwXoVkwT6m7o8IPwDxr3+b17uIQM4Ai8wbpJGrMR8=",
           "py2.py3"
         ]
       }
@@ -60318,6 +60264,22 @@
       "wheels": {
         "NEMO_billing-1.10.0-py3-none-any.whl": [
           "HpjHXtQUioyWtb0v+3iCA2xIXqUYQe3tLCGQYAUGLKs=",
+          "py3"
+        ]
+      }
+    },
+    "1.11.0": {
+      "wheels": {
+        "NEMO_billing-1.11.0-py3-none-any.whl": [
+          "X1m9DCFCnTi8hwYSHatiiR+b/Adf32vfFQG+QDINJZU=",
+          "py3"
+        ]
+      }
+    },
+    "1.11.1": {
+      "wheels": {
+        "NEMO_billing-1.11.1-py3-none-any.whl": [
+          "HNcdi6oNgUplyo9pKqTgSuEbo4oHSVgHa6bO4OCmT4I=",
           "py3"
         ]
       }
