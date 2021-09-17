@@ -3382,6 +3382,18 @@
         ]
       }
     },
+    "1.123.0": {
+      "sdist": [
+        "FKiU/O/UGFC4dipwm7H+SVbZi0PQrDmvoUwhR3GG0ws=",
+        "aws-cdk.cloudformation-include-1.123.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.cloudformation_include-1.123.0-py3-none-any.whl": [
+          "5JrzH2SUrOKWSAJ9Me5Us7oWqfNYbauGGUza+oYt0T4=",
+          "py3"
+        ]
+      }
+    },
     "1.39.0": {
       "sdist": [
         "myegfkUG7xVk0RO8A4Dj2JSPppVZ7naMiwCPG50RiMo=",
@@ -10152,6 +10164,14 @@
       "wheels": {
         "cirq_rigetti-0.13.0.dev20210915180606-py3-none-any.whl": [
           "Yo6RcvJh1rWHdHHVL5BVEOn+F/WFz4DwYPXvnHEMVAg=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.0.dev20210916200646": {
+      "wheels": {
+        "cirq_rigetti-0.13.0.dev20210916200646-py3-none-any.whl": [
+          "1K60rtF1+FW69aWWVSgk/i63TKqFpdgz+rJgfxGqBHY=",
           "py3"
         ]
       }
@@ -53408,6 +53428,18 @@
         ]
       }
     },
+    "1.18.43": {
+      "sdist": [
+        "NOl2jhurhFowcs8cwT66j45pwq95figV3Iz6RUJbQHc=",
+        "mypy-boto3-opsworks-1.18.43.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_opsworks-1.18.43-py3-none-any.whl": [
+          "FueiOTn8M1OC9GPQHeK+iPRo2pD3Ep3uAeguqTXQjhg=",
+          "py3"
+        ]
+      }
+    },
     "1.18.5": {
       "sdist": [
         "OjDt8jqdIoM24pAWRe9ubTIrvmLKHRPPbneZQ01efVM=",
@@ -58370,6 +58402,14 @@
       "wheels": {
         "odoo12_addon_fieldservice_sale_stock-12.0.1.0.4.99.dev6-py3-none-any.whl": [
           "1v7Q2IpmRgZHjIGrEb7TBPq9wvYC9bvoYZdihE4l/dk=",
+          "py3"
+        ]
+      }
+    },
+    "12.0.1.0.4.99.dev8": {
+      "wheels": {
+        "odoo12_addon_fieldservice_sale_stock-12.0.1.0.4.99.dev8-py3-none-any.whl": [
+          "PDh4N/iGOa6h3/YBKExYIbF3QJU7IuyNOMJZ8daBYCQ=",
           "py3"
         ]
       }
@@ -81694,6 +81734,10 @@
           "VLgevuYoXlsxWaLAz8gQYhU75ptoTqhsJbJYtEW5CIs=",
           "cp36"
         ],
+        "PyMuPDF-1.18.18-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "veSnLtUq/8s3J94Z0mDAoeT9v8Zhakgqx7hF9pyh3Yk=",
+          "cp36"
+        ],
         "PyMuPDF-1.18.18-cp36-cp36m-win32.whl": [
           "xYGHfeLvm79b+EeFNeu5/syfjlbAI0dIKlraDRthmPE=",
           "cp36"
@@ -81708,6 +81752,10 @@
         ],
         "PyMuPDF-1.18.18-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "pREjs5H3WZEPQSZaR8zdpSW4kd3uRB1F+/JJ+Pfc2Kw=",
+          "cp37"
+        ],
+        "PyMuPDF-1.18.18-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xfy5lHP7KzGUNOUPo2B7mmZ8ebCSeUr9tcrfo/b6Y4M=",
           "cp37"
         ],
         "PyMuPDF-1.18.18-cp37-cp37m-win32.whl": [
@@ -81726,6 +81774,10 @@
           "3kmxUKOzxNQi+ccF9u7r5hhFEh269DveMXl+SvRi6x4=",
           "cp38"
         ],
+        "PyMuPDF-1.18.18-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "MCawgEkcoXGUf1aCcTkPZgzvq70iBtmmb02uZ6E4W7g=",
+          "cp38"
+        ],
         "PyMuPDF-1.18.18-cp38-cp38-win32.whl": [
           "49knONtTgIN8rTVDTpKjdr6JSiEVc9qBUHdgNYTuIBw=",
           "cp38"
@@ -81742,12 +81794,116 @@
           "EFN3z8BPGyjR3KAuMRCghrCShB/xRZ4WmH9OCY4Gs14=",
           "cp39"
         ],
+        "PyMuPDF-1.18.18-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "UbYR0Nzc08qHICXCc+j0+9jtbdx9FDvHXlIcHZOer+w=",
+          "cp39"
+        ],
         "PyMuPDF-1.18.18-cp39-cp39-win32.whl": [
           "3DhrGWq5fxQFEE3stS99S6aoBNUZtwQ3brcJAWLFLU8=",
           "cp39"
         ],
         "PyMuPDF-1.18.18-cp39-cp39-win_amd64.whl": [
           "omokDDiBZBIQAOY5DwMWA+iy5PmLCLH87ZwY2TsJK4o=",
+          "cp39"
+        ]
+      }
+    },
+    "1.18.19": {
+      "sdist": [
+        "7MaE6cRb1AcvU4zEKZjP2k0A8Ga6AJIm6KISsRLZmSw=",
+        "PyMuPDF-1.18.19.tar.gz"
+      ],
+      "wheels": {
+        "PyMuPDF-1.18.19-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "7ozIqtqoGMml4vsqlEyZqYgip6O8YY2cXTLxJodMBjU=",
+          "cp310"
+        ],
+        "PyMuPDF-1.18.19-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "A+v2/OaInfRwgGGkmbkSkJ6tXnvxBm8FuURY3PFk48M=",
+          "cp310"
+        ],
+        "PyMuPDF-1.18.19-cp310-cp310-win32.whl": [
+          "9LxjsGlsLydnA/rfMjLXzKoBq3VI0VQfvDdixXPT4bU=",
+          "cp310"
+        ],
+        "PyMuPDF-1.18.19-cp310-cp310-win_amd64.whl": [
+          "wvw0gGHBTHnlRqIHCIuov2dtyPHTAsuUzv5T1TwqeAg=",
+          "cp310"
+        ],
+        "PyMuPDF-1.18.19-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "p5X0BlSphFkAcUj6BmDeWp4eHg0S3F1Wu96kgaHsj7w=",
+          "cp36"
+        ],
+        "PyMuPDF-1.18.19-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "yAK9w/32kEcKSQy8vwJolbtJf4BJ0z30fhxk2pOdRrM=",
+          "cp36"
+        ],
+        "PyMuPDF-1.18.19-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "UET5RHaGh09EKmdndmFbSLagTWOmjdmdohrXoO/V0To=",
+          "cp36"
+        ],
+        "PyMuPDF-1.18.19-cp36-cp36m-win_amd64.whl": [
+          "en/EtAaZNNdmPb0rz2mPEjubsMS04lODpUlpK+5W9GY=",
+          "cp36"
+        ],
+        "PyMuPDF-1.18.19-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "3C33YbWf8G0W23pc5tGbyrNl79Q5HqyW2rMN3aOgn4c=",
+          "cp37"
+        ],
+        "PyMuPDF-1.18.19-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "ryxpNOuNyAPJWNl0LHtkqn1ih/dkhE8pbf3+nlduTfQ=",
+          "cp37"
+        ],
+        "PyMuPDF-1.18.19-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "13IUHJ4Ae4h9pU2lZ34Tl1MFvYWugz7sNbkjvtNeqcg=",
+          "cp37"
+        ],
+        "PyMuPDF-1.18.19-cp37-cp37m-win32.whl": [
+          "6pbAEp1r6KKJuA5/Cl9oQuCcPctWihcCl6+yVsw4cUY=",
+          "cp37"
+        ],
+        "PyMuPDF-1.18.19-cp37-cp37m-win_amd64.whl": [
+          "5/GJdgD3pWBzsTcKFwn2iwDIcAxO+UW8/94aCfWMJ0Y=",
+          "cp37"
+        ],
+        "PyMuPDF-1.18.19-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "DEO4ScHa7zbcg2Z3JlGK8xeMgxwFPj6UbhmJtftHe8o=",
+          "cp38"
+        ],
+        "PyMuPDF-1.18.19-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "R6FYjOIpZRcBnoumQnn+TMA1ktlvsfxybtnQ9fAbXvg=",
+          "cp38"
+        ],
+        "PyMuPDF-1.18.19-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "/I4fDF+1TLka07Yw72I4NMsuSxEMM+q8ytm4YJBTsg0=",
+          "cp38"
+        ],
+        "PyMuPDF-1.18.19-cp38-cp38-win32.whl": [
+          "Iw0TDyKpHaCol8a36bNSPSTcUS7jJWikDQ3w4s8lYsA=",
+          "cp38"
+        ],
+        "PyMuPDF-1.18.19-cp38-cp38-win_amd64.whl": [
+          "fA8UVEWz7460V5S/D4b80nhpbaWmuHlma2kOSFb15IE=",
+          "cp38"
+        ],
+        "PyMuPDF-1.18.19-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "wS4YcIQah0bwI6ZO9tikT6AjJNFyUsPhgvY5qdVTAmE=",
+          "cp39"
+        ],
+        "PyMuPDF-1.18.19-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "aTCDFrAxqs6eSQ6QENbFM0Ep7tR7R4BNpy1dB+tbL5o=",
+          "cp39"
+        ],
+        "PyMuPDF-1.18.19-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "YWUzz/NgXCKjJ0iLRHD5kp2mdbAG16FJj41+2L+R84Y=",
+          "cp39"
+        ],
+        "PyMuPDF-1.18.19-cp39-cp39-win32.whl": [
+          "9Afb7s3v39Rrnfewg9pxVYFDhZIW3JiRxA6pzSz0mgQ=",
+          "cp39"
+        ],
+        "PyMuPDF-1.18.19-cp39-cp39-win_amd64.whl": [
+          "Q5uXICb76GNq7Q/p0sq7MhVC+pK8SM1MltvdJQj8Qe4=",
           "cp39"
         ]
       }
@@ -92280,6 +92436,18 @@
       "wheels": {
         "sagemaker_studio_analytics_extension-0.0.1.5-py3-none-any.whl": [
           "OFBTPdDXO5LNAgrjtD1kkJTzk1o/rlqCKF88rVsG8+A=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "qxMsUa9XokMzY7O2BjXoPoyy8i+eILAevrHD8Cfqf4A=",
+        "sagemaker-studio-analytics-extension-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "sagemaker_studio_analytics_extension-0.0.2-py3-none-any.whl": [
+          "aQci2RoL3vJ8jb1Wv4uXNGsf+7E9h1F4N5NRenSww2I=",
           "py3"
         ]
       }
