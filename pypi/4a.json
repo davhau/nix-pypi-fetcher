@@ -4896,6 +4896,18 @@
         "aws-service-catalog-puppet-0.122.1.tar.gz"
       ]
     },
+    "0.122.2": {
+      "sdist": [
+        "gFTNDgmUwOUK9a0weLpf7STwNtsyQ5y4N8P7PXUnTcM=",
+        "aws-service-catalog-puppet-0.122.2.tar.gz"
+      ]
+    },
+    "0.122.3": {
+      "sdist": [
+        "E51tTMwYZI82MN0qGpaZyh+go8rpcaho3ZNkN3n1AYA=",
+        "aws-service-catalog-puppet-0.122.3.tar.gz"
+      ]
+    },
     "0.13.0": {
       "sdist": [
         "PJhIZLW9OU4nOaP6Z4w/hfWfSXoLa/RHM5S95D7xjPc=",
@@ -41589,6 +41601,12 @@
         "KY7Tq3f0UcQDz4aeyPi6uvRyXB2R8vj80vbzMjvNmL8=",
         "iocbio.kinetics-1.1.3.tar.gz"
       ]
+    },
+    "1.2.0": {
+      "sdist": [
+        "swFzoa1+/eneeF9GrqFqHZSBbS5D15wLCl49RIlZuFA=",
+        "iocbio.kinetics-1.2.0.tar.gz"
+      ]
     }
   },
   "ioex": {
@@ -56193,6 +56211,32 @@
         "napalm_servertech_pro2-0.1.2-py2.py3-none-any.whl": [
           "isT1xammaky4WuqxJzd+N9kG5LT7jhpPPbTTeTQTMBI=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "naparikro": {
+    "0.1.1": {
+      "sdist": [
+        "v6QmzdD2xGkD4pywPJGEuvDDxke5EbjDzimjLyUGo3M=",
+        "naparikro-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "naparikro-0.1.1-py3-none-any.whl": [
+          "/GjKrZgfeXJoXWMyyuZDuGVv5ZCffNf/mC4sWIgO4E0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "AnuKNsFYv/3A4kK7SrIikfpngzygOixQt2Wii3HFIDU=",
+        "naparikro-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "naparikro-0.1.2-py3-none-any.whl": [
+          "Ufzt9f1N67LPrAdFY5DdiugT800Ik4B1mPkARIaXL+k=",
+          "py3"
         ]
       }
     }
@@ -77085,6 +77129,12 @@
         "EDl80iiqJ8heqrNdbLYz/o0AtQGDqPaYk4wqrrh81Wk=",
         "pyrosetta_help-0.3.7.tar.gz"
       ]
+    },
+    "0.3.8": {
+      "sdist": [
+        "nwOHfcdZobOSfMGsjPM2xyM4kmW7BdMJlrnt/nAhT20=",
+        "pyrosetta_help-0.3.8.tar.gz"
+      ]
     }
   },
   "pysigmap": {
@@ -78262,6 +78312,54 @@
         ],
         "pytket-0.15.0rc4-cp39-cp39-win_amd64.whl": [
           "LosW3w1rA8nhkH3p24//vOjuJsUK4Zp9fzyuwWyeICo=",
+          "cp39"
+        ]
+      }
+    },
+    "0.15.0rc5": {
+      "wheels": {
+        "pytket-0.15.0rc5-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "QyfoZXyDAy6opk7QqRFzMpqd9TCJTvOroLhi5flVAS4=",
+          "cp37"
+        ],
+        "pytket-0.15.0rc5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ygyVCoYd43OlPn66dP/3dFf3KhfE7Ai6lccXTctxZno=",
+          "cp37"
+        ],
+        "pytket-0.15.0rc5-cp37-cp37m-win_amd64.whl": [
+          "XItP4VLyMO3ewFMWma6b6rFqzvqLWrM7JOZonawms20=",
+          "cp37"
+        ],
+        "pytket-0.15.0rc5-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "9/S+q0UJ0hzclRk5hlN/mEfm9agV70kbPUw3XeeDhvw=",
+          "cp38"
+        ],
+        "pytket-0.15.0rc5-cp38-cp38-macosx_11_0_arm64.whl": [
+          "l/HUehBUGR9M6VTZWZ0Z0vZJ2tb1tqSvXY9ZiMicqUA=",
+          "cp38"
+        ],
+        "pytket-0.15.0rc5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "O/56OL5VNlekC1T6NbW0j1xZfsIxJpEiqBYuKCwruhE=",
+          "cp38"
+        ],
+        "pytket-0.15.0rc5-cp38-cp38-win_amd64.whl": [
+          "RgmgOgF2sg0oEIugZpCZf9Ax6VIQlIb3OAzuUHj+gNQ=",
+          "cp38"
+        ],
+        "pytket-0.15.0rc5-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "PIfLrZ86oC6mkzhUhVLlZY1NBq71DXtyzaJ6SFzbiMY=",
+          "cp39"
+        ],
+        "pytket-0.15.0rc5-cp39-cp39-macosx_11_0_arm64.whl": [
+          "iFDem4zbuVY8wr5uRKhWDy2IOqakEbGdJ9/yryymJAY=",
+          "cp39"
+        ],
+        "pytket-0.15.0rc5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bgt1K1TQNGk/q4ab0ijzxKKuBxDFFMhsenBjvibd3m0=",
+          "cp39"
+        ],
+        "pytket-0.15.0rc5-cp39-cp39-win_amd64.whl": [
+          "VyI+kKgBWPEWx7pO+KX78pSFxpxs8O0a3Fh8Kptcaew=",
           "cp39"
         ]
       }
