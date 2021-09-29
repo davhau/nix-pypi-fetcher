@@ -15682,6 +15682,14 @@
         "cobs-1.1.4.tar.gz"
       ],
       "wheels": {
+        "cobs-1.1.4-cp310-cp310-win32.whl": [
+          "CVY5iJzJ7FeZvU1Ba6BtUD3dtFvGSM/XysY8uFA+DbM=",
+          "cp310"
+        ],
+        "cobs-1.1.4-cp310-cp310-win_amd64.whl": [
+          "bPXjGytW12AUhtbEbhDCXJKnf3hr3ZtdxZ/JS7Jhdx4=",
+          "cp310"
+        ],
         "cobs-1.1.4-cp38-cp38-win32.whl": [
           "0ykx1yUKPFeYm9U+mf19PDIAr/y/YNTiRw/9Ka+Z5F0=",
           "cp38"
@@ -17874,6 +17882,30 @@
       "wheels": {
         "csv_manager-0.11.5-py3-none-any.whl": [
           "f30TtZjyiQaNLvaOkW8Utl7WjcpGpZQAwN3mawWXjoI=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.6": {
+      "sdist": [
+        "Cw1ABrcxX3FQTDflE2f+xdfaxRCUKSliWuBIw/RlatQ=",
+        "csv_manager-0.11.6.tar.gz"
+      ],
+      "wheels": {
+        "csv_manager-0.11.6-py3-none-any.whl": [
+          "tijHVmxwOmS11GtfoPAQCZ9EdrJ1KayseQgg1zMMjdc=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.7": {
+      "sdist": [
+        "SH8ta0DznsvtBSKdZNesV3Au3bRpn0CK5DQMbS+5XcI=",
+        "csv_manager-0.11.7.tar.gz"
+      ],
+      "wheels": {
+        "csv_manager-0.11.7-py3-none-any.whl": [
+          "8MRaIsZ6hcuD/lIFWB69EJ+2ncpiqH3VVZn1H6rF0Oc=",
           "py3"
         ]
       }
@@ -31415,6 +31447,20 @@
       ]
     }
   },
+  "example-praveen": {
+    "0.1": {
+      "sdist": [
+        "2H8IymZF017uOynZWKH6Ut056FolEIWnSVl8abbZftA=",
+        "example_praveen-0.1.tar.gz"
+      ]
+    },
+    "0.2": {
+      "sdist": [
+        "6wpDuve9QDs8llnJz5QPBIlsNgrl6yLquPY0BBu+cLo=",
+        "example_praveen-0.2.tar.gz"
+      ]
+    }
+  },
   "example-probability": {
     "1.3": {
       "sdist": [
@@ -37620,6 +37666,58 @@
         ]
       }
     },
+    "21.9": {
+      "wheels": {
+        "genie-21.9-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "+HhdWng3Q2hhi3uX7R6JlVD6RrotlrIDERm2ZpyGVw8=",
+          "cp36"
+        ],
+        "genie-21.9-cp36-cp36m-macosx_10_16_x86_64.whl": [
+          "be7K5aT5P4fu+4U6aLt0mZ93NinG5bKiWTi0H95bk24=",
+          "cp36"
+        ],
+        "genie-21.9-cp36-cp36m-manylinux1_x86_64.whl": [
+          "v2XZp1NAA6q/6cg6K6RCT0YnNzK7euskPD+/ksvXB8s=",
+          "cp36"
+        ],
+        "genie-21.9-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "cJ6F3m3UgO3k9eOUbjqGWrEJaoafz9DsRUHJ/eaRiA8=",
+          "cp37"
+        ],
+        "genie-21.9-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "tZ2iw9wyiy+FAaTCcwiaeDfXt+3OOeXsLgDxfUXis6k=",
+          "cp37"
+        ],
+        "genie-21.9-cp37-cp37m-manylinux1_x86_64.whl": [
+          "NKoWtcrDacv5upn3sQ5VqrmbKyVuEnhrKKmNT66WPtY=",
+          "cp37"
+        ],
+        "genie-21.9-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "gBwQ0bddPf1GfLJrbUbo1dBLapNYk3+pvZ0XCAna+pQ=",
+          "cp38"
+        ],
+        "genie-21.9-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "6FHL0yeQgijUxSCcVeMpeQW9dZjQ2uO44EPbBNoSIJo=",
+          "cp38"
+        ],
+        "genie-21.9-cp38-cp38-manylinux1_x86_64.whl": [
+          "/rtvIqDbC84PCvLB8PQ6NMSaG7mNRxu4yaiFONQ/ouQ=",
+          "cp38"
+        ],
+        "genie-21.9-cp39-cp39-macosx_10_10_x86_64.whl": [
+          "hDSkGxulmGosdIKvlIFzh9IUWt1/0WDxlXgaT1S3o6k=",
+          "cp39"
+        ],
+        "genie-21.9-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "9Itj2+SmHFQR/AddnsLNqfXPxlNd8Tv7mz0qqcJ2Q/w=",
+          "cp39"
+        ],
+        "genie-21.9-cp39-cp39-manylinux1_x86_64.whl": [
+          "lRTGzT8LhRN7o0DR96rm2mn3Ft7Bo9KrZq4hkD1hiZw=",
+          "cp39"
+        ]
+      }
+    },
     "3.0.0": {
       "wheels": {
         "genie-3.0.0-cp34-cp34m-macosx_10_10_x86_64.whl": [
@@ -42256,6 +42354,14 @@
       "wheels": {
         "huaweicloudsdkosm-3.0.63-py2.py3-none-any.whl": [
           "DrNA/0lEBFkwc4trTXzVOQ26WPNK13sSjM2iNvnGga4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.64": {
+      "wheels": {
+        "huaweicloudsdkosm-3.0.64-py2.py3-none-any.whl": [
+          "brEkZGP5FYJm350RVAFLdKvn651GWLpUj/OWdBY/xEI=",
           "py2.py3"
         ]
       }
@@ -75464,6 +75570,18 @@
       "wheels": {
         "powerapi-1.0.0-py2.py3-none-any.whl": [
           "TFkIRGJexuDE/UqOXiHwoG3riagiZQqmrT5mgKQfMmo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "n+UugQRDg6DmxSy9gu9xk/U58YLhQht8UnG8NFXqly0=",
+        "powerapi-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "powerapi-1.0.1-py2.py3-none-any.whl": [
+          "j+OdrEExBuVxrB9aMfson90Soc7crNL+TTUYEr2N4mw=",
           "py2.py3"
         ]
       }
