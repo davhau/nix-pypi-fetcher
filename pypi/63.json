@@ -24282,6 +24282,12 @@
         "ebookmaker-0.11.12.tar.gz"
       ]
     },
+    "0.11.13": {
+      "sdist": [
+        "efkHbhljnpTk2VU4yPgW1tAdZffmQQWi+X7VGpTr77g=",
+        "ebookmaker-0.11.13.tar.gz"
+      ]
+    },
     "0.11.3": {
       "sdist": [
         "jsN4/qVXiN6tpyMYM5STogT13lff9VEimrOGCx4TKj0=",
@@ -28586,6 +28592,18 @@
       "wheels": {
         "edx_proctoring-4.0.2-py2.py3-none-any.whl": [
           "JR/q+vyZre5FikKhbZDbWNX8vVJ47XHAM1RkhO4j2c0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.0.3": {
+      "sdist": [
+        "EvSuUXeyR2rBjfzrcDmfTUH0XD3mCsm2wR/J4GAL2bQ=",
+        "edx-proctoring-4.0.3.tar.gz"
+      ],
+      "wheels": {
+        "edx_proctoring-4.0.3-py2.py3-none-any.whl": [
+          "BH113ei6klkuwyBK+z9RTWKGBQhgE9vmcmpMKFWDTy8=",
           "py2.py3"
         ]
       }
@@ -59874,6 +59892,18 @@
         ]
       }
     },
+    "1.18.52": {
+      "sdist": [
+        "x0UIX2kbnWnWuPA5IL+x7aeNCDyXOduiA5UHqqu8QQA=",
+        "mypy-boto3-eks-1.18.52.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_eks-1.18.52-py3-none-any.whl": [
+          "qqeuR64Dx5qj2FrFDK/9tbp9TZQs5KyYuTZ5c1s+VEI=",
+          "py3"
+        ]
+      }
+    },
     "1.18.6": {
       "sdist": [
         "tYy9Qb46gX6ju7iHEZHyHKszvAyDU8r/XSip4ugg/9w=",
@@ -60120,82 +60150,10 @@
     }
   },
   "mytextgrid": {
-    "0.0.3.dev0": {
-      "sdist": [
-        "cVYZDhrVUMANA4IFC8lFR99qF+T6gFlZwwp6HFPE6Bc=",
-        "MyTextGrid-0.0.3.dev0.tar.gz"
-      ],
+    "0.0.10.dev0": {
       "wheels": {
-        "MyTextGrid-0.0.3.dev0-py3-none-any.whl": [
-          "mVO/3Y7leUsK66aupWBg4xP21urdTLcPuWHkf8+aYac=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4.dev0": {
-      "sdist": [
-        "EHH1CbPmVFGCeO+0yXshoFnW7PtLEWZJcIgCTXZFHBk=",
-        "MyTextGrid-0.0.4.dev0.tar.gz"
-      ],
-      "wheels": {
-        "MyTextGrid-0.0.4.dev0-py3-none-any.whl": [
-          "MnSHjDPn1w8Kcg7UkdbihiKyE8CLKib/9wKoHjQkaAs=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5.dev0": {
-      "wheels": {
-        "MyTextGrid-0.0.5.dev0-py3-none-any.whl": [
-          "2i+1kxw9p9Klhcm0+/+Nv6oKp671SXmsTg3d8htzfvw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6.dev0": {
-      "sdist": [
-        "FzhZGNDHUgec7tNWZVje/qdepKGl3mvCLjrPsOOYiUc=",
-        "MyTextGrid-0.0.6.dev0.tar.gz"
-      ],
-      "wheels": {
-        "MyTextGrid-0.0.6.dev0-py3-none-any.whl": [
-          "oKqxWE5iXFEdtbZXb4mjAXQn1pPT/rF8nD53j5h/yos=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7.dev0": {
-      "sdist": [
-        "1afZCuiqhbKD5u91yFfFlMrmv3K61B0sgcgMyxjkAd4=",
-        "MyTextGrid-0.0.7.dev0.tar.gz"
-      ],
-      "wheels": {
-        "MyTextGrid-0.0.7.dev0-py3-none-any.whl": [
-          "rb/LZewJ8t8FZ5Mjg4Am5uYDsVDwVFdAO75Eg088RNU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8.dev0": {
-      "sdist": [
-        "f97Y4ERfp9QuI/d3VBEVxBXBmL4okb8lj+abWMMsG2c=",
-        "MyTextGrid-0.0.8.dev0.tar.gz"
-      ],
-      "wheels": {
-        "MyTextGrid-0.0.8.dev0-py3-none-any.whl": [
-          "/PI9lvc9bakthf/Bkepwb7+DBlzy9PYUvfNYbFvbTL8=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9.dev0": {
-      "sdist": [
-        "l/moqfHll/sjqIEQo5u9j3yRJG1pRK2eWHiM9sislDw=",
-        "MyTextGrid-0.0.9.dev0.tar.gz"
-      ],
-      "wheels": {
-        "MyTextGrid-0.0.9.dev0-py3-none-any.whl": [
-          "KFCFMxoO1NxUqG7TEssuwzr60W4AE98DK+GA+mLUWfM=",
+        "mytextgrid-0.0.10.dev0-py3-none-any.whl": [
+          "V7TrGPgUlVk8pdT2EMg//W+KUg8eapbSSvkjb4lZjq8=",
           "py3"
         ]
       }
@@ -97127,6 +97085,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.497": {
+      "sdist": [
+        "N8hg4L2rB1LcVnTmYavKCj6T6NNexJIqsJmlRMqbFZ4=",
+        "tencentcloud-sdk-python-solar-3.0.497.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_solar-3.0.497-py2.py3-none-any.whl": [
+          "DCBn14XtSGzzOM241K/nNsWmDNGAAauQQxxcX1Q5Dk4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-ssl": {
@@ -100078,6 +100048,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ssl-3.0.496-py2.py3-none-any.whl": [
           "g3wkN6zdsAB3e59+9HgG96vijz7tYxBnU/oWYgK1hsg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.497": {
+      "sdist": [
+        "bDUUbfbDtnixH8J5IC15l82oDi1/i3g3u7i/eY/aAyI=",
+        "tencentcloud-sdk-python-ssl-3.0.497.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ssl-3.0.497-py2.py3-none-any.whl": [
+          "OMwzEa1KAe0q8g3U26yVyLVs4I0HJfrwBZfgeKwh+Nk=",
           "py2.py3"
         ]
       }
