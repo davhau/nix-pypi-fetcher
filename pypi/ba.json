@@ -5818,6 +5818,18 @@
         ]
       }
     },
+    "1.126.0": {
+      "sdist": [
+        "mhPNF9T3jUt4WsxaEu085LUt2YnxyJ8anoBM8nk4QLU=",
+        "aws-cdk.aws-cloudtrail-1.126.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudtrail-1.126.0-py3-none-any.whl": [
+          "BD4v3k9C4+nRdRQu9RLC65uYx8iY3GmrvMgLIo4k1OY=",
+          "py3"
+        ]
+      }
+    },
     "1.13.0": {
       "sdist": [
         "9lKcNd4iEEshIH7mikSjpL/6Chq0KfxmfG12Vob2V6c=",
@@ -7832,6 +7844,18 @@
       "wheels": {
         "aws_cdk.aws_ecs-1.125.0-py3-none-any.whl": [
           "TRTgS0v2+DIxHL3MqRjW9S9M8LM+Ywixxm9yMxnIXYI=",
+          "py3"
+        ]
+      }
+    },
+    "1.126.0": {
+      "sdist": [
+        "dDzaLxVKjTXvh7LaKBaOqiiiVWq9RVToMyoWauNShtk=",
+        "aws-cdk.aws-ecs-1.126.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ecs-1.126.0-py3-none-any.whl": [
+          "wId8fJNlwCBsVhJKCRDULQnGcN0YcGIG304fZTTXVdc=",
           "py3"
         ]
       }
@@ -23621,6 +23645,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.50.2": {
+      "sdist": [
+        "MQNvgD/ElJWiXd+s9gL/88LZTelpSLd0HblUddHM9Po=",
+        "dbnd-airflow-0.50.2.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.50.2-py2.py3-none-any.whl": [
+          "bwHQgcaJroNGqnyXKXhvmdq0WSmu/ezJPeVKOK1oNE4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ddtestlib": {
@@ -28968,6 +29004,18 @@
       "wheels": {
         "dynamo_db_resource-0.3.7-py3-none-any.whl": [
           "aot1d9vwHgdlY0ttfFfVXY8CR5eVcNRlp1/Gjh2rdx4=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "dNKN+jLb3q8Y8fq89MZGz8h1hdMfoqpcNX4jRSmHR+A=",
+        "dynamo_db_resource-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "dynamo_db_resource-0.4.0-py3-none-any.whl": [
+          "S/QQTfdRyij6GTW9LZ5mJCd9yPRNZZY74P5nzMUw1ww=",
           "py3"
         ]
       }
@@ -40384,6 +40432,18 @@
       "wheels": {
         "homeassistant_mqtt_binding-1.0.1-py3-none-any.whl": [
           "sZjy1Ny+vnFW70YOJqFTvNbdcHTU+FR+kDZHHAJyYUg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "zvXxNM3X1/x7pcHerRHWUkKeQnSHxDI4Zmmlx2G4anM=",
+        "homeassistant-mqtt-binding-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "homeassistant_mqtt_binding-1.0.2-py3-none-any.whl": [
+          "RH6wmMfvzrVsPJ5l8fOZz3+V+itGkx/2XIMUoPXBFrM=",
           "py3"
         ]
       }
@@ -86946,6 +87006,18 @@
         ]
       }
     },
+    "0.0.16": {
+      "sdist": [
+        "XQoE3ftfOufk9SpPkdRUQkfTiRN4iOzTbp6GCz8TDX4=",
+        "osducli-0.0.16.tar.gz"
+      ],
+      "wheels": {
+        "osducli-0.0.16-py3-none-any.whl": [
+          "yueS3Gm+3RyngRQgzlhGsFo3oDKjm4hcMA9wXeISLKU=",
+          "py3"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "BAI3Q6uzZoT/qwf+caIjIuzN6j9vDE3SM4mJEQ4oE/I=",
@@ -97198,6 +97270,18 @@
       "wheels": {
         "pulp_rpm-3.14.5-py3-none-any.whl": [
           "bqhVegM6LIycPLSDBSCeBMzSbA8kPGL3MGqd3yoN8fw=",
+          "py3"
+        ]
+      }
+    },
+    "3.14.6": {
+      "sdist": [
+        "4+3rPyfgPuw7hrwgzc3pwd4keuTWX/X18VK67HszliI=",
+        "pulp-rpm-3.14.6.tar.gz"
+      ],
+      "wheels": {
+        "pulp_rpm-3.14.6-py3-none-any.whl": [
+          "nlWPnw5vqRRI782N0eUZvhJdbAG+MNLPeoZ8ALLUTJk=",
           "py3"
         ]
       }
@@ -129142,8 +129226,36 @@
           "vrtPuQal7B4YAewD8aw4/RdyEtKKh8WkpNqm8qfapMM=",
           "cp38"
         ],
+        "tf_nightly-2.8.0.dev20211004-cp38-cp38-win_amd64.whl": [
+          "mEgirpEOoUjkrqmaq236iqCjp3MWP9FH7cvKfR/YqtI=",
+          "cp38"
+        ],
         "tf_nightly-2.8.0.dev20211004-cp39-cp39-manylinux2010_x86_64.whl": [
           "lu/62QM12aZSPHjFK0yG632I9JgcKvqReff33afKb4o=",
+          "cp39"
+        ]
+      }
+    },
+    "2.8.0.dev20211005": {
+      "wheels": {
+        "tf_nightly-2.8.0.dev20211005-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "x4vJ9ncVvnSzaBDl5bbBiJPB84Pi4ad87r+1k2SL+dk=",
+          "cp37"
+        ],
+        "tf_nightly-2.8.0.dev20211005-cp37-cp37m-win_amd64.whl": [
+          "w9dT3SyKXERCw+Qua2diJnwjEe3+8lTt1JZzkT1QoDY=",
+          "cp37"
+        ],
+        "tf_nightly-2.8.0.dev20211005-cp38-cp38-manylinux2010_x86_64.whl": [
+          "nBZiGGHY8wpv+yDx/HlHGbN3zj14clnkewcd3w8Q1uE=",
+          "cp38"
+        ],
+        "tf_nightly-2.8.0.dev20211005-cp39-cp39-manylinux2010_x86_64.whl": [
+          "mDR6CMN2wHb0B/agme96QMtdih0OP6rvyn4ystsQ8s8=",
+          "cp39"
+        ],
+        "tf_nightly-2.8.0.dev20211005-cp39-cp39-win_amd64.whl": [
+          "YUgYa/O7Wvqm5K4OSKUT4dXivuaJH0x//x5p+nRVhUU=",
           "cp39"
         ]
       }
