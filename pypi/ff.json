@@ -8067,6 +8067,14 @@
           "py3"
         ]
       }
+    },
+    "1.35.0": {
+      "wheels": {
+        "azureml_responsibleai-1.35.0-py3-none-any.whl": [
+          "0hwpE8/vnawhsph5E5Dw33vASQGaJX8ZdjgS17UaXIY=",
+          "py3"
+        ]
+      }
     }
   },
   "azuremonitor": {
@@ -43515,6 +43523,18 @@
           "py3"
         ]
       }
+    },
+    "0.9.2": {
+      "sdist": [
+        "ljSWZMhghOPZq8uwa0pWFQ/F+ojrqGT6wBdP0HqAaFI=",
+        "isqlite-0.9.2.tar.gz"
+      ],
+      "wheels": {
+        "isqlite-0.9.2-py3-none-any.whl": [
+          "dhYMT39aXqwFp8fYqT/M9lbkrjgvPqj0L0dPCV1KZUA=",
+          "py3"
+        ]
+      }
     }
   },
   "istart": {
@@ -61012,6 +61032,30 @@
       "wheels": {
         "pandas_stubs-1.2.0.2-py3-none-any.whl": [
           "4FocmwfwOLaC3fdAUaioZd6elK3lYfTEXFgHEnQWKes=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0.20": {
+      "sdist": [
+        "32iJbGQ9fdCA5GOyMDvenD1F3x0XBEiPe7QjAuELAa0=",
+        "pandas-stubs-1.2.0.20.tar.gz"
+      ],
+      "wheels": {
+        "pandas_stubs-1.2.0.20-py3-none-any.whl": [
+          "TZpw+dYMfqZM8LEQxT+jJkmAb9yIPERQnFiwBMwqT2M=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0.21": {
+      "sdist": [
+        "OkfLsiVK91VcmQNMVTJrqF2MaQSYy115Bx6qQrApLcI=",
+        "pandas-stubs-1.2.0.21.tar.gz"
+      ],
+      "wheels": {
+        "pandas_stubs-1.2.0.21-py3-none-any.whl": [
+          "qbyfAe4jkiNwOw/E9SDoqJWrdgpy+Uro+KOdEDjxG/A=",
           "py3"
         ]
       }
@@ -88280,230 +88324,14 @@
     }
   },
   "supertokens-flask": {
-    "0.0.1": {
+    "1.4.1": {
       "sdist": [
-        "CqQkvlixmnpij/Y+xeK59PTyTHYFwjx22NEkj/ZtRIM=",
-        "supertokens_flask-0.0.1.tar.gz"
+        "Uj0fPeMzCyU102pLfTEfwaAp/3VAkfTOkHrJTyk3xSs=",
+        "supertokens_flask-1.4.1.tar.gz"
       ],
       "wheels": {
-        "supertokens_flask-0.0.1-py3-none-any.whl": [
-          "uKuAK6PwOzrlG9LBw+NTZD/ryMC4A+bX6nbWzPDn/YY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.1.dev1": {
-      "sdist": [
-        "CSdtcuF9rA6HNVzT0AymnJt0jbKcNBhLgWvR1mVIwwI=",
-        "supertokens_flask-0.0.1.dev1.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-0.0.1.dev1-py3-none-any.whl": [
-          "U6Sz3Dqzi3l+iGkUtWVgnUz9zmTELZWvqozZb+jet2U=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.1.dev2": {
-      "sdist": [
-        "AZp8uMb5fG/SPf8QEluABNOIfQ8pr9bMONZClg1frd0=",
-        "supertokens_flask-0.0.1.dev2.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-0.0.1.dev2-py3-none-any.whl": [
-          "G4F1bFlVwd/70Eq3OAISdgq9Y07p/20y1pktEG81EbE=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.1.dev3": {
-      "sdist": [
-        "76gvbLxU5/TxunYYB9s39CwYv6ah7KM4pWRmuGh2PMY=",
-        "supertokens_flask-0.0.1.dev3.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-0.0.1.dev3-py3-none-any.whl": [
-          "m041cQoBqpW0T94jfK7IjFIlykBG8NrI5x1IJJCD2d4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.1.dev4": {
-      "sdist": [
-        "qQ98l1uQEexMQHfjsnIoY1px2iWK5k6eJhJ2roJBgjU=",
-        "supertokens_flask-0.0.1.dev4.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-0.0.1.dev4-py3-none-any.whl": [
-          "jiEqYvVam2zEzbxo5J2Cqs0KBDJYhqEK20RkvKUHsws=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.1.dev5": {
-      "sdist": [
-        "tqnx+tNfT/BSh8vg/rsdVpUzNsyo9dOqyhDucEnWuRY=",
-        "supertokens_flask-0.0.1.dev5.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-0.0.1.dev5-py3-none-any.whl": [
-          "77ZpOXBmfv0GXQi3aVMSSmfKlFLVoqTx90FVx9Fl92Y=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.1.dev6": {
-      "sdist": [
-        "i1dgHBtJ5zOA9r7H2A1FzPVQQg9dBs3KgLAsOl1XvUY=",
-        "supertokens_flask-0.0.1.dev6.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-0.0.1.dev6-py3-none-any.whl": [
-          "MFaEpZf7VLSVWpERpb3DUiGjlsvsNebm9Cuzf3z6TyI=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "3ZL0ZGaQ3+l8Yd1zS414ven3wOlLpOG3RkIFhu0NIxI=",
-        "supertokens_flask-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-0.0.2-py3-none-any.whl": [
-          "8ACAmVW+nWadjhfaSYyUqFQC43xXZRoWnfXdu+tesTg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3.dev8": {
-      "sdist": [
-        "dVnjbh3nLupyr5d8gt6lX6TvcYHHv7XiU+kTM7Y635Y=",
-        "supertokens_flask-0.0.3.dev8.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-0.0.3.dev8-py3-none-any.whl": [
-          "MMjbPJqwZixwPaTHa6whYop8/sdj3YQZvCBDlWgRfCg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "3BtEN5l8xJ5EgTplb4SBAWiHiYH4/mZDYujeEQVTDjo=",
-        "supertokens_flask-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-0.0.4-py3-none-any.whl": [
-          "wJqCyIdX/HaYsMU5H79gue4ZhFklpFCxk7mYst/hd+A=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "ijCIK/KsH1S9kjG25ifOM/msWGcN7TosGWY0iX24cmo=",
-        "supertokens_flask-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-0.0.5-py3-none-any.whl": [
-          "L6/uVp+C+VjUqkSd6J9zrebuXMHqKXra4lpKmAJqy/8=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "gK90BslGrM+8drz3ygRNQ5BAbbyhzIYcdB32ozv9I3E=",
-        "supertokens_flask-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-0.0.6-py3-none-any.whl": [
-          "qqPvU/EkF6qTbCcRV8Kk6n93P8dMN1nJThj1JyoWgpw=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0": {
-      "sdist": [
-        "fY7ejao/Pz2qtkGSL4CGvUnEasU6hQRUeQh2rvbIE8g=",
-        "supertokens_flask-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-1.0.0-py3-none-any.whl": [
-          "SVhdfXWyPnB1acP5OF7XIZBXkPJaJlxwtPTbdxx+rII=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.1": {
-      "sdist": [
-        "FgQp3DMUVJyA89CvNgd3zOx07/CLYkD0Y9dUR+NuF4I=",
-        "supertokens_flask-1.0.1.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-1.0.1-py3-none-any.whl": [
-          "0SKJNH203+/DjpBhDvpbEroYGVq9uhNZa3fzE/uWxCA=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.0": {
-      "sdist": [
-        "6IGj0O+GlQiUXNIbrDGIrLsKJjwT779aLZv79avd9Fo=",
-        "supertokens_flask-1.1.0.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-1.1.0-py3-none-any.whl": [
-          "XpCXCwFX7EXajR1zeBZq0VH+igWA2h4sAteNRM79SwQ=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.1": {
-      "sdist": [
-        "4oCk82jN/K7xIhfQPHxYldRwdquAJcPDTQY0b7OF84Q=",
-        "supertokens_flask-1.1.1.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-1.1.1-py3-none-any.whl": [
-          "Lf9QTt+YJubI+SAvCFzNx54otV6InswoxTcJclRylpA=",
-          "py3"
-        ]
-      }
-    },
-    "1.2.0": {
-      "sdist": [
-        "yx35+eAsXK4orJ6K8fF3sTfWNlv0Cw7o2X4ZN8y/03k=",
-        "supertokens_flask-1.2.0.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-1.2.0-py3-none-any.whl": [
-          "1aFBvr39AR57fsXuPmp0hA+4dw5CPwzHe2mEc64+CAY=",
-          "py3"
-        ]
-      }
-    },
-    "1.3.0": {
-      "sdist": [
-        "wCLt26wy5BIlfKdENE4b75Wm6rzRdttVoU7zhZX7X5E=",
-        "supertokens_flask-1.3.0.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-1.3.0-py3-none-any.whl": [
-          "kaNoM/toX68We96MXl4tJCNNH50YcuACTmSuPF/KyIM=",
-          "py3"
-        ]
-      }
-    },
-    "1.4.0": {
-      "sdist": [
-        "ir6FSvh58a0ZiC5+YDX+vzG8FZer4yIaAx1laIv8fBo=",
-        "supertokens_flask-1.4.0.tar.gz"
-      ],
-      "wheels": {
-        "supertokens_flask-1.4.0-py3-none-any.whl": [
-          "9QcX4WMcyE6H2aKTx+lchUhdfMz1qgV3B1twhb/WfBg=",
+        "supertokens_flask-1.4.1-py3-none-any.whl": [
+          "nMW6Xf1EUM/mwNQ5OH8HXyFMeaZ19/8YtOn0fFh5zCE=",
           "py3"
         ]
       }
