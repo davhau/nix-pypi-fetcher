@@ -3843,6 +3843,14 @@
           "py3"
         ]
       }
+    },
+    "1.0.87": {
+      "wheels": {
+        "auger.ai.predict-1.0.87-py3-none-any.whl": [
+          "DEnXZCGd0hQsho6U+9QTPeYqipQdwcZhDx/U4Z4xT7E=",
+          "py3"
+        ]
+      }
     }
   },
   "autocheck": {
@@ -5426,6 +5434,12 @@
       "sdist": [
         "O/hVIoephdBbhE00mJ2ld+dEWpc0qAlRhJE0cD6hJFA=",
         "BioCAT-0.9.22.tar.gz"
+      ]
+    },
+    "0.9.23": {
+      "sdist": [
+        "V/QOARmjfxlx+BLOByOF6oL6aPuiGQhpjFZdQSQNJ4c=",
+        "BioCAT-0.9.23.tar.gz"
       ]
     },
     "0.9.3": {
@@ -30955,6 +30969,20 @@
       ]
     }
   },
+  "gemdb": {
+    "1.0.1": {
+      "sdist": [
+        "uFdmS2HUQ78Qwz1+khRMn5fJgwxuoNi1t4FAggY3Nnw=",
+        "GEMDB-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "GEMDB-1.0.1-py3-none-any.whl": [
+          "LJ84lvuKa29SWrCU43L3FLbAukk4s5hd2ott0EfEJlo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "gen-unnamed-pipe": {
     "1.0.2": {
       "sdist": [
@@ -44446,6 +44474,82 @@
     }
   },
   "kongalib": {
+    "1.10.0": {
+      "sdist": [
+        "GWdBqJm/pOezVgEPa0nhuGHFqn6cOS3eQM3S7ZggDik=",
+        "kongalib-1.10.0.tar.gz"
+      ],
+      "wheels": {
+        "kongalib-1.10.0-cp27-cp27m-macosx_10_10_x86_64.whl": [
+          "RJoSAIA8nMr6dEVJOZMQvSfuGtspHbDbebWEFGCQ2Os=",
+          "cp27"
+        ],
+        "kongalib-1.10.0-cp36-cp36m-macosx_10_10_x86_64.whl": [
+          "eDyhIp/vchsj1o1ZL4XlTvmIjZYETJP+J9dvLP8AAzk=",
+          "cp36"
+        ],
+        "kongalib-1.10.0-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "TL9JHgegYg+yoNy88tS4fCjpg7NXmm+EiCG5x4aI5Gs=",
+          "cp36"
+        ],
+        "kongalib-1.10.0-cp36-cp36m-win32.whl": [
+          "xGfr7pC1c+TpNJAfFFVjnJBhcgZ5/KcB7X1j3ag2fs4=",
+          "cp36"
+        ],
+        "kongalib-1.10.0-cp36-cp36m-win_amd64.whl": [
+          "wEMhEV5HZ7cETMsPj105t1NzXt06JHjM6OFVDASi+1k=",
+          "cp36"
+        ],
+        "kongalib-1.10.0-cp37-cp37m-macosx_10_10_x86_64.whl": [
+          "M76ITtgOO/WAdM/121TFZW6/54HUnwKGaF/0FPRDH9s=",
+          "cp37"
+        ],
+        "kongalib-1.10.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "BIiphmu4YY8NM3gIpzrvWp2c91YaGrBgJEvfsDYqTCY=",
+          "cp37"
+        ],
+        "kongalib-1.10.0-cp37-cp37m-win32.whl": [
+          "rLDouP9ES+asWGtG8d74g+tLap/+Q9cORxtWWwI9Ias=",
+          "cp37"
+        ],
+        "kongalib-1.10.0-cp37-cp37m-win_amd64.whl": [
+          "R1tdrGSZo/8DFOo6kO/1Ff+cX8gMgi/Qu0aU9+MlT3U=",
+          "cp37"
+        ],
+        "kongalib-1.10.0-cp38-cp38-macosx_10_10_x86_64.whl": [
+          "Gp3sTsrY0utulhmHqKZt0hlYFOqqS4nyk66lMPUSSW4=",
+          "cp38"
+        ],
+        "kongalib-1.10.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "uNJooZyFS1jynmeNm30g8a2dxVxNG/W98CXAK4k3Lqc=",
+          "cp38"
+        ],
+        "kongalib-1.10.0-cp38-cp38-win32.whl": [
+          "+DM64TFePYhrkEQ6/ZF7c+cPAF5vkFHLwaU8zLhvXes=",
+          "cp38"
+        ],
+        "kongalib-1.10.0-cp38-cp38-win_amd64.whl": [
+          "Kyxr09RlNG6xQkqN5b4ySQ1ZxVo8hmq10Olwn4FT5C0=",
+          "cp38"
+        ],
+        "kongalib-1.10.0-cp39-cp39-macosx_10_10_universal2.whl": [
+          "aMJtflmaCpOrWnUV4gff/FPLM3iRcPdnrv3yGbO3zXs=",
+          "cp39"
+        ],
+        "kongalib-1.10.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "r+7M702Giu47dFH9G9GAXYNs3k8Lmq8PQSZuOhVRXXU=",
+          "cp39"
+        ],
+        "kongalib-1.10.0-cp39-cp39-win32.whl": [
+          "xSVk8iB0R5g9qv+WWUphHMdKCMXoDDVDlxEb/faM5lg=",
+          "cp39"
+        ],
+        "kongalib-1.10.0-cp39-cp39-win_amd64.whl": [
+          "9gInNLuMK2YGDSu17sbN6HfVv515UZDarJxN01phPFg=",
+          "cp39"
+        ]
+      }
+    },
     "1.4.0": {
       "sdist": [
         "aVECX3d6TVjWfz1EyFN3yPgwBeTgPmSKtXr2kGxgB+U=",
@@ -80891,6 +80995,12 @@
         "efIDQQ2OXPbk+Ul+EXjGTWnvx3Tm3C+dk0gg8Z1feLo=",
         "quantiphyse-dce-0.9.2.tar.gz"
       ]
+    },
+    "0.9.2.post3": {
+      "sdist": [
+        "q+TaZVyMI+aB4Om+oitlMkjYSPBhgy8BBLT/We/X0v0=",
+        "quantiphyse-dce-0.9.2.post3.tar.gz"
+      ]
     }
   },
   "quickcpp": {
@@ -86120,6 +86230,18 @@
       "wheels": {
         "smartrent.py-0.0.3-py3-none-any.whl": [
           "VOpdn/vlv61ZRiTJz67Wk6v3Kh49Qlf6nAnvZ8g0ZXo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "JFbQRlO3168NcYBWtrS5SplCLjCNgzTlyaPJtJ3h6VE=",
+        "smartrent.py-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "smartrent.py-0.0.4-py3-none-any.whl": [
+          "OXR6znhDjl30VzrAQM9/hjaYXk7KnuqX1Ht+eD0UzEw=",
           "py3"
         ]
       }
@@ -92636,6 +92758,18 @@
       "wheels": {
         "tracardi_url_parser-0.1.2-py3-none-any.whl": [
           "witI+r3fKwLnZm6h1BonbKBaVEodyPWWJ6I/UyUAO44=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "7972yNWGc9ndc6xXer+J2+CgK9+3PU9GwO5lq2GNNRo=",
+        "tracardi-url-parser-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "tracardi_url_parser-0.1.3-py3-none-any.whl": [
+          "4GyKTS2SnkxVAEzEmVeBnmr2uxt6yOJwatbReM0Xq7w=",
           "py3"
         ]
       }
