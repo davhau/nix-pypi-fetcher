@@ -2349,6 +2349,12 @@
         "3AcJxh1BT8T+AvdgoGVNpiH6wvUoHa9iq3VjCKnbvy4=",
         "alunari-1.3.75.tar.gz"
       ]
+    },
+    "1.4.2": {
+      "sdist": [
+        "e+GNrnYcPVMfD1ldUp7RfpkNYpyPUJaXnH0sLf65wYs=",
+        "alunari-1.4.2.tar.gz"
+      ]
     }
   },
   "alyn3": {
@@ -34375,6 +34381,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.4.0": {
+      "sdist": [
+        "ZyqGCJCT6UzLs/ld0xXxFS7NI5z6tJ4ZY9IXkpurO8w=",
+        "google-cloud-bigquery-datatransfer-3.4.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_bigquery_datatransfer-3.4.0-py2.py3-none-any.whl": [
+          "RBotC7DHMJMp/eeI8tbZAGZOszZnhPHDNTWA+uy0pOc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "google-cloud-talent": {
@@ -44112,6 +44130,18 @@
         ]
       }
     },
+    "21.10.0.dev1": {
+      "sdist": [
+        "EXX7rm21x3ZrGS/7uXqbj3XE2Ft0M2uRZIfBn2oTMt4=",
+        "klio-21.10.0.dev1.tar.gz"
+      ],
+      "wheels": {
+        "klio-21.10.0.dev1-py2.py3-none-any.whl": [
+          "75e8FRggQmMh8NVVO7JJjhiWF+MKSlWVlYWGR4zJVJI=",
+          "py2.py3"
+        ]
+      }
+    },
     "21.2.0": {
       "sdist": [
         "I1ZlKgq/+PgEJ5reBPDM7TXxCURqh/d7mrNm91nKOXw=",
@@ -44204,6 +44234,18 @@
       "wheels": {
         "klio-21.8.0rc1-py2.py3-none-any.whl": [
           "FFFkdiYi9X7g4mCiQlSixNVTwIuTUDtU0vIQ8QyzbxE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "21.9.0": {
+      "sdist": [
+        "6nVoBsCFdDN7KLuQ9MV1cceQHflCDQqRDRZxFJK0/bY=",
+        "klio-21.9.0.tar.gz"
+      ],
+      "wheels": {
+        "klio-21.9.0-py2.py3-none-any.whl": [
+          "6qMj931wnkhL0/DpyDNY6eFBX/UduHFRWz9wJBtxEgE=",
           "py2.py3"
         ]
       }
@@ -60702,6 +60744,18 @@
         ]
       }
     },
+    "1.18.60": {
+      "sdist": [
+        "wahVi9HNpK1va4Idsn4NcF6Z8IGiJWcpef9+wJntDio=",
+        "mypy-boto3-mediapackage-vod-1.18.60.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_mediapackage_vod-1.18.60-py3-none-any.whl": [
+          "jXjRlMA5XX75h1Wwmw8XCZRBZaf7mk3oIBblax7owaQ=",
+          "py3"
+        ]
+      }
+    },
     "1.18.7": {
       "sdist": [
         "8FiYfwIy7Kr2Cpk1Jce9kXlbBqDIcr6546mj90nl8o8=",
@@ -63556,6 +63610,18 @@
       "wheels": {
         "mypy_boto3_servicecatalog_appregistry-1.18.6-py3-none-any.whl": [
           "m3gP3VWLJ+Qu/fTZLlLrN9GSh43zrV0nGhxqWRi6a6E=",
+          "py3"
+        ]
+      }
+    },
+    "1.18.60": {
+      "sdist": [
+        "d8iutS+TcAtS2+6JWWHFMRodIthzv30+CPKtLWQ4KWM=",
+        "mypy-boto3-servicecatalog-appregistry-1.18.60.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_servicecatalog_appregistry-1.18.60-py3-none-any.whl": [
+          "dpIYY80j2uaMk4eP4g1GzOaAauoSWSbTW5gSppxpEsI=",
           "py3"
         ]
       }
@@ -69239,6 +69305,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.20211012.0": {
+      "wheels": {
+        "odoo14_addons_oca_l10n_brazil-14.0.20211012.0-py3-none-any.whl": [
+          "/FOX0Bz5fHY3ScmQbuHNyUDO8dhLgaso67cqYphJLXE=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo8-addon-account-invoice-supplierinfo-update-discount": {
@@ -71688,54 +71762,6 @@
         ]
       }
     },
-    "1.10.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.10.0.dev0-py27-none-any.whl": [
-          "XAUDj38irqwGxD9zRjR6MpeeBniogUUwYTF773cUt0A=",
-          "py27"
-        ]
-      }
-    },
-    "1.10.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.10.0.dev1-py27-none-any.whl": [
-          "3gWq8H9bJY93q2K07izu3fQ9VQVm2V06Ok1Edqw3Kyc=",
-          "py27"
-        ]
-      }
-    },
-    "1.10.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.10.0.dev2-py27-none-any.whl": [
-          "wnaPkCOEYQ9h5MdBdGHzsdcOguHBA/RXhoTF3QpEDf8=",
-          "py27"
-        ]
-      }
-    },
-    "1.10.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.10.0.dev3-py27-none-any.whl": [
-          "+y6EayWV/VrSre46RixmpEjEhGGw7Wk6ADpIOyVo45Y=",
-          "py27"
-        ]
-      }
-    },
-    "1.10.0.dev4": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.10.0.dev4-py27-none-any.whl": [
-          "mvcVHEofooH/aD72DdXgVFemT2BhSzqXkyGFF8J79/s=",
-          "py27"
-        ]
-      }
-    },
-    "1.10.0.dev5": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.10.0.dev5-py27-none-any.whl": [
-          "b0fRds2SuoaAsAsb4u062yO26p2TE2Mbkrk/EPKuRXI=",
-          "py27"
-        ]
-      }
-    },
     "1.10.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.10.0rc0-py27-none-any.whl": [
@@ -71764,38 +71790,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.node-1.11.0-py27-none-any.whl": [
           "VQ3ZIJmZLbL3hjNHdsJzJnfX/VQS1dLzdNGvrsdESaM=",
-          "py27"
-        ]
-      }
-    },
-    "1.11.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.11.0.dev0-py27-none-any.whl": [
-          "YdXANaflmDN9I5j17jaIOyWtoCdFyMAqXqIfHshxmkU=",
-          "py27"
-        ]
-      }
-    },
-    "1.11.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.11.0.dev1-py27-none-any.whl": [
-          "QDrMLYBj0v+KmIiIG+cXrab3hWBb7ANiXLcaB3jwMiY=",
-          "py27"
-        ]
-      }
-    },
-    "1.11.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.11.0.dev2-py27-none-any.whl": [
-          "m5+BX1UE9Rz4OFsybNlHkG1KtmlTS6gFSUzxYiTVdmg=",
-          "py27"
-        ]
-      }
-    },
-    "1.11.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.11.0.dev3-py27-none-any.whl": [
-          "do4ZZFeemtbJMT6DTy8VwvMzIIuvMcScovcYgWaUd44=",
           "py27"
         ]
       }
@@ -71840,22 +71834,6 @@
         ]
       }
     },
-    "1.12.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.12.0.dev0-py27-none-any.whl": [
-          "LTyseW9benUnAS6scDHhTcknlOYD/BZ24gMx0A/CCMk=",
-          "py27"
-        ]
-      }
-    },
-    "1.12.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.12.0.dev1-py27-none-any.whl": [
-          "FHelE8TOiR1f/OC8r+pLk00Ao2hbMj1P/PP9LpzhSPc=",
-          "py27"
-        ]
-      }
-    },
     "1.12.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.12.0rc0-py27-none-any.whl": [
@@ -71880,30 +71858,6 @@
         ]
       }
     },
-    "1.13.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.13.0.dev0-py27-none-any.whl": [
-          "kgw+cu+BW+Cl9s/65IBf5eE86Cn4pkyIXNqRAaOMapA=",
-          "py27"
-        ]
-      }
-    },
-    "1.13.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.13.0.dev1-py27-none-any.whl": [
-          "QTL9maUpNdW+rwgJjLHxsyIdcZR9K9/RA6aGX8BIaig=",
-          "py27"
-        ]
-      }
-    },
-    "1.13.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.13.0.dev2-py27-none-any.whl": [
-          "dtzgGw3X99Msmg95Xx+inFQNCxfPMwI2rPydEXRrdv4=",
-          "py27"
-        ]
-      }
-    },
     "1.13.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.13.0rc0-py27-none-any.whl": [
@@ -71924,38 +71878,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.node-1.14.0-py27-none-any.whl": [
           "9j+q7d/avLKwywmaL803ei6A0LlAxETJ+Mm0QO7zd6c=",
-          "py27"
-        ]
-      }
-    },
-    "1.14.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.14.0.dev0-py27-none-any.whl": [
-          "uqJnsna3l6afyDbyHcTCYNVysEsZ9n/adx3LX0MdzKE=",
-          "py27"
-        ]
-      }
-    },
-    "1.14.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.14.0.dev1-py27-none-any.whl": [
-          "8oyz/YS3ZecU9BYgQvE90WCaRy7eVX4Lew97beMeuag=",
-          "py27"
-        ]
-      }
-    },
-    "1.14.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.14.0.dev2-py27-none-any.whl": [
-          "Qy4VL5pEiazJ4tXl236OmPnBKiFcedBs3qxJIuaK8jY=",
-          "py27"
-        ]
-      }
-    },
-    "1.14.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.14.0.dev3-py27-none-any.whl": [
-          "EqO1MEiL2d2eHihupLlMy0MA0cK237E4aIQGYCLPkcc=",
           "py27"
         ]
       }
@@ -72000,46 +71922,6 @@
         ]
       }
     },
-    "1.15.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.15.0.dev0-py27-none-any.whl": [
-          "Emy8T1d8bgxKYr7MB40N0KOtNbRmtlD8lMkYP/cnbNU=",
-          "py27"
-        ]
-      }
-    },
-    "1.15.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.15.0.dev1-py27-none-any.whl": [
-          "Aktxn7rA87tfWkecuHM9B3uH/ZdUa3vAa/9r4Y+2nIU=",
-          "py27"
-        ]
-      }
-    },
-    "1.15.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.15.0.dev2-py27-none-any.whl": [
-          "UNwscHK5QZ0Up9ZaScNEK2bukOStDHiZQB6vSeDnk60=",
-          "py27"
-        ]
-      }
-    },
-    "1.15.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.15.0.dev3-py27-none-any.whl": [
-          "qvrAH3bzEVE2SujtfoITdJReX7icqhexM2Kltd7cqb0=",
-          "py27"
-        ]
-      }
-    },
-    "1.15.0.dev4": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.15.0.dev4-py27.py36.py37-none-any.whl": [
-          "iqqGskdOK0i/HLzH61C12er8bP4Mmr8419Tkdo78IA0=",
-          "py27.py36.py37"
-        ]
-      }
-    },
     "1.15.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.15.0rc0-py27.py36.py37-none-any.whl": [
@@ -72076,46 +71958,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.node-1.16.0-py27.py36.py37-none-any.whl": [
           "NB3xXbPXRaVH/ctry1iqq4LQwxCE74AEPD9V460pi5g=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.16.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.16.0.dev0-py27.py36.py37-none-any.whl": [
-          "Hq/bkYKGnDvFXKCda0tFs7JkEQ1GcHgZh6QMw6JUpms=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.16.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.16.0.dev1-py27.py36.py37-none-any.whl": [
-          "hfH+aDgIsVzuicDXBFQQF7qOZr3FDBOMvSZ+DrymxK0=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.16.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.16.0.dev2-py27.py36.py37-none-any.whl": [
-          "KYX81W6seozo0BdAdklp//cMrHnShCDplCXhqOU8kGY=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.16.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.16.0.dev3-py27.py36.py37-none-any.whl": [
-          "sBpvnhF+78aqZGsBzzTSgY5aK/BffwB5xNGkrPlz+Xo=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.16.0.dev4": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.16.0.dev4-py27.py36.py37-none-any.whl": [
-          "9jqj8sctls3Zuq+hfp/euSpOs99HQqql9zKTOoHSUpg=",
           "py27.py36.py37"
         ]
       }
@@ -72160,22 +72002,6 @@
         ]
       }
     },
-    "1.17.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.17.0.dev0-py27.py36.py37-none-any.whl": [
-          "8H8A0m6B5PZ5b+ZmpAg0G2AhGUdcqHVy1KhKNgaxbSA=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.17.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.17.0.dev1-py27.py36.py37-none-any.whl": [
-          "mWSIUa50+3IzUywOMh7NbTK3Jo50RMBGH1ZYCBi1vwc=",
-          "py27.py36.py37"
-        ]
-      }
-    },
     "1.17.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.17.0rc0-py27.py36.py37-none-any.whl": [
@@ -72208,30 +72034,6 @@
         ]
       }
     },
-    "1.18.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.18.0.dev0-py27.py36.py37-none-any.whl": [
-          "/MTYkJhgqVilvHCB6FOUIrQZ+RvtTTcFnQr4WFXzI2s=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.18.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.18.0.dev1-py36.py37-none-any.whl": [
-          "WLb4IeMFEj8watdSC+2xvlcE7iwt9mKyh4kwhWgUZJE=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.18.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.18.0.dev2-py36.py37-none-any.whl": [
-          "uam8iQ8M2meJdiP7I4wL9sbtSs0R8FYjKzlzFqeFHVM=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.18.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.18.0rc0-py36.py37-none-any.whl": [
@@ -72256,14 +72058,6 @@
         ]
       }
     },
-    "1.19.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.19.0.dev0-py36.py37-none-any.whl": [
-          "zUCNUMLB+BcXIYNkBt0qrylVrX5v50CNcVMaITrnvvE=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.19.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.19.0rc0-py36.py37-none-any.whl": [
@@ -72284,72 +72078,6 @@
       "sdist": [
         "JL9sPqapLq6Wvyz6tDfsjFc621TCq105mEeHmf2OeWM=",
         "pantsbuild.pants.contrib.node-1.2.0.tar.gz"
-      ]
-    },
-    "1.2.0-dev0": {
-      "sdist": [
-        "lkQEfR/DYDYD/GnEtAosJP/XGqlSqTkUjxNPaOqP8rs=",
-        "pantsbuild.pants.contrib.node-1.2.0-dev0.tar.gz"
-      ]
-    },
-    "1.2.0-dev1": {
-      "sdist": [
-        "1F9JrXM2X6aAuGAyz31BAQi05xHSN5ccjnPq/+dpu6Y=",
-        "pantsbuild.pants.contrib.node-1.2.0-dev1.tar.gz"
-      ]
-    },
-    "1.2.0-dev2": {
-      "sdist": [
-        "LtWLo7ctJBOJ+cH9OeyVkdKpYu8wMMHcFwkkz0v8zuE=",
-        "pantsbuild.pants.contrib.node-1.2.0-dev2.tar.gz"
-      ]
-    },
-    "1.2.0-dev3": {
-      "sdist": [
-        "dbSre7++otQkfGKCBieCzINvZ+0buZXKY71bXmXoDdE=",
-        "pantsbuild.pants.contrib.node-1.2.0-dev3.tar.gz"
-      ]
-    },
-    "1.2.0-dev4": {
-      "sdist": [
-        "+RfVJ+Yb5g8xDq1FGXFYiZFoyq+tWj4rx+bs2hXxeto=",
-        "pantsbuild.pants.contrib.node-1.2.0-dev4.tar.gz"
-      ]
-    },
-    "1.2.0-dev5": {
-      "sdist": [
-        "kFpCTuqmA4DG24pUftN5Z+bRZPiaaNmelsiTXEr/uMU=",
-        "pantsbuild.pants.contrib.node-1.2.0-dev5.tar.gz"
-      ]
-    },
-    "1.2.0-dev6": {
-      "sdist": [
-        "FnZ6OlYaczdM3YjcjRsPiV5MzYvrO61p/B1ibqDheyQ=",
-        "pantsbuild.pants.contrib.node-1.2.0-dev6.tar.gz"
-      ]
-    },
-    "1.2.0dev11": {
-      "sdist": [
-        "kmMMyyYJDSXYU00b+O5IDIlr5NP2blGagYO7brSfIzU=",
-        "pantsbuild.pants.contrib.node-1.2.0dev11.tar.gz"
-      ]
-    },
-    "1.2.0dev12": {
-      "sdist": [
-        "jIologdBjHcRtiGkDtH+eI2fsMNXq6YNw+BzjZwY+KY=",
-        "pantsbuild.pants.contrib.node-1.2.0dev12.tar.gz"
-      ]
-    },
-    "1.2.0dev8": {
-      "sdist": [
-        "sKWxWKTUjhD7Ndya9gPXADX26+rPsSM+/Zz835X1VAw=",
-        "pantsbuild.pants.contrib.node-1.2.0dev8.tar.gz"
-      ]
-    },
-    "1.2.0dev9": {
-      "sdist": [
-        "Vh9p/n2acdgMuXBDA7ekVa2JgJpQpmueqS4fkPaezXs=",
-        "pantsbuild.pants.contrib.node-1.2.0dev9.tar.gz"
       ]
     },
     "1.2.0rc0": {
@@ -72402,30 +72130,6 @@
         ]
       }
     },
-    "1.20.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.20.0.dev0-py36.py37-none-any.whl": [
-          "u04jp5w183jVqqes8e7BVnnfokNS4ICqoJYR03PsPgk=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.20.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.20.0.dev1-py36.py37-none-any.whl": [
-          "3NXLhZVAeCWe+12nc2ewmulz/9zrBh5G/lnxrasp++c=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.20.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.20.0.dev2-py36.py37-none-any.whl": [
-          "/7FUJoZCEPklIm81fXmBqZC/O6/PwUVijuFKsAN7rZg=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.20.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.20.0rc0-py36.py37-none-any.whl": [
@@ -72458,22 +72162,6 @@
         ]
       }
     },
-    "1.21.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.21.0.dev0-py36.py37-none-any.whl": [
-          "NZ9VVFEXGdI49Bomj9QCCqs3DcXGdZ+YvsB/inWPctc=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.21.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.21.0.dev1-py36.py37-none-any.whl": [
-          "JsrPd/3gLg3Vn6rzAbT6XaWe4Hs8aovRNo5OVUg8QeA=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.21.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.21.0rc0-py36.py37-none-any.whl": [
@@ -72494,30 +72182,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.node-1.22.0-py36.py37-none-any.whl": [
           "16mzEDaixY2DM2Zlz0LwLE1XHz3TbIW9btma8uo/aKc=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.22.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.22.0.dev0-py36.py37-none-any.whl": [
-          "VaMqP5bc4rI8xlXjpT3INKPwLGo1QAL3ozlDqhv74l4=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.22.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.22.0.dev1-py36.py37-none-any.whl": [
-          "Nf7d6wnQLkpBTU23ycXFtVjG49/6YtIk7KrM+iBkk34=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.22.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.22.0.dev2-py36.py37-none-any.whl": [
-          "S9dDVJs7yBwqEYbzK3pHOY1oz+PBB5NLNDHcsb4rL8U=",
           "py36.py37"
         ]
       }
@@ -72562,30 +72226,6 @@
         ]
       }
     },
-    "1.23.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.23.0.dev0-py36.py37-none-any.whl": [
-          "47SYCiGkaROMeMFPWtzTfEKX4w6UBy3qQ0YZbWWGopA=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.23.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.23.0.dev1-py36.py37-none-any.whl": [
-          "7EUf1rhsQxqFJugcd+levFAz4Dj2c0tqYtMCOZGQLsY=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.23.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.23.0.dev2-py36.py37-none-any.whl": [
-          "9wFYId3XuMm73QeLHU9tuWjXkP5jx58prOUqt+m6p/c=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.23.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.23.0rc0-py36.py37-none-any.whl": [
@@ -72606,30 +72246,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.node-1.24.0-py36.py37-none-any.whl": [
           "U0xcTxh1ox6qD1KByiA23XXwF51QBoGcdCvRGEtGjTU=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.24.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.24.0.dev1-py36.py37-none-any.whl": [
-          "kSozZ6bB5hc7Smranyy4kden6c81Lr7ylsHGBbpUnqo=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.24.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.24.0.dev2-py36.py37-none-any.whl": [
-          "PJ8eZJuSRCJTXdv9Mih6AK4ckp+jWLOoRRnRNC0JFVY=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.24.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.24.0.dev3-py36.py37-none-any.whl": [
-          "YjV9CljZa6NKE0Qf5P9W+nzibB5a8GatGtTCi6x+qpo=",
           "py36.py37"
         ]
       }
@@ -72682,38 +72298,6 @@
         ]
       }
     },
-    "1.25.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.25.0.dev0-py36.py37-none-any.whl": [
-          "/HCHk9Vh6JVgLBd7xXB1AykAjmsT0lTrtXlZjNQJFpU=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.25.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.25.0.dev1-py36.py37-none-any.whl": [
-          "I8mY/bo76Iv0SF4SQ8DFnBapgbffJLb5PVq8lawoz6I=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.25.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.25.0.dev2-py36.py37-none-any.whl": [
-          "ufVaDnQhJHHzyymHzPykQ47atDDNdm4s0swNaNBJToU=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.25.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.25.0.dev3-py36.py37-none-any.whl": [
-          "M3BiXsICA7u5EaesY13WcbogxlIMj7tOw96lgn6t9fY=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.25.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.25.0rc0-py36.py37-none-any.whl": [
@@ -72742,30 +72326,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.node-1.26.0-py36.py37-none-any.whl": [
           "0bA2xrE3PqqQqvZeqyvCeYqqZt3iJ2t2WAmKG0HxPtw=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.26.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.26.0.dev0-py36.py37-none-any.whl": [
-          "4Yff4RK6S7bR4U+9mFPCsqAaQNiF6rSdoYCnNLW2pKY=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.26.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.26.0.dev1-py36.py37-none-any.whl": [
-          "kIDumn54Geq4XY6WhoRSm2avTh5trT57rXepQNcSNXE=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.26.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.26.0.dev2-py36.py37-none-any.whl": [
-          "NckolH5hXhrZ02aj3JK6wFBQz7554CkQHh1AHYw1ABk=",
           "py36.py37"
         ]
       }
@@ -72810,38 +72370,6 @@
         ]
       }
     },
-    "1.27.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.27.0.dev0-py36.py37-none-any.whl": [
-          "B+Y6mYeolSN+UAoWQGe5uN95266bDi00ehx8VEseq1o=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.27.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.27.0.dev1-py36.py37-none-any.whl": [
-          "HNiYRVNR2bXRZeeo5fG0v4HRrDXAAcOKcgybczaFJ6E=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.27.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.27.0.dev2-py36.py37-none-any.whl": [
-          "CTz5FJHMRACjGeDnKNLr2zkwleUT9bXATJ0TAx9KkZI=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.27.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.27.0.dev3-py36.py37-none-any.whl": [
-          "QvV0jAPZOEwB1Cvuq9ufGbCMv6yRkOBCYlm47Vg73Oo=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.27.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.27.0rc0-py36.py37-none-any.whl": [
@@ -72882,30 +72410,6 @@
         ]
       }
     },
-    "1.28.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.28.0.dev0-py36.py37-none-any.whl": [
-          "VvWLpl/RJ4PSVOOTHDezgBp/DXkgdX/AvoYhhwkruiY=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.28.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.28.0.dev1-py36.py37-none-any.whl": [
-          "souvbkzFRKpLMADeaSKZAb0J4FWh5vj9isBw3D8qba4=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.28.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.28.0.dev2-py36.py37-none-any.whl": [
-          "Ta9sUq82NyFSr14kTW+gqJQbVN689J99hHnVHiJ3fB8=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.28.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.28.0rc0-py36.py37-none-any.whl": [
@@ -72942,22 +72446,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.node-1.29.0-py36.py37.py38-none-any.whl": [
           "VaMy2JeBa9OiBUfuvbsDAs6IGii2vAYtjigstwsmGUM=",
-          "py36.py37.py38"
-        ]
-      }
-    },
-    "1.29.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.29.0.dev0-py36.py37-none-any.whl": [
-          "JNYvt0mjnSTuejlvwK7UyoGJau4TaO4J7RqN1Oq0I6A=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.29.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.29.0.dev1-py36.py37.py38-none-any.whl": [
-          "k6pETZwJCDqKmot0CESmnMQN6wNkvixd6O2gs6g1PwE=",
           "py36.py37.py38"
         ]
       }
@@ -73006,126 +72494,6 @@
       "sdist": [
         "OWGKMNTRla8UnP0324F5aLVsFSxRyX+Bcx92AsaJLng=",
         "pantsbuild.pants.contrib.node-1.3.0.tar.gz"
-      ]
-    },
-    "1.3.0.dev10": {
-      "sdist": [
-        "VV8jrL4hArxzpRMWYers5yaz/2QKvRQrI8nSPkMfdxE=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev10.tar.gz"
-      ]
-    },
-    "1.3.0.dev11": {
-      "sdist": [
-        "3FltydjEHqLgecSaHre6YH8xy102+I3dsGj1M9WuwPw=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev11.tar.gz"
-      ]
-    },
-    "1.3.0.dev12": {
-      "sdist": [
-        "oTiaD9UZ0JJY2LfKzBHPZwQ2hmIJ3BEDdv5aBs9jQRk=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev12.tar.gz"
-      ]
-    },
-    "1.3.0.dev13": {
-      "sdist": [
-        "cGhiIEqDmdjG2614t/HICWtd1nRfh2Jgtl9xCvPiFxI=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev13.tar.gz"
-      ]
-    },
-    "1.3.0.dev14": {
-      "sdist": [
-        "OdNevyZSTbZlJ+DM/aMcFpEdjSO19gV14aSb06QQSRI=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev14.tar.gz"
-      ]
-    },
-    "1.3.0.dev15": {
-      "sdist": [
-        "eHGhhOsb9ytG24IixxIPqzWlRrvKLt5XvEEhhH6VLyo=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev15.tar.gz"
-      ]
-    },
-    "1.3.0.dev16": {
-      "sdist": [
-        "dc7R6e7PNA9Lw4T4isaZYMrHfNEOOmi/KAGBWosqMME=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev16.tar.gz"
-      ]
-    },
-    "1.3.0.dev17": {
-      "sdist": [
-        "qfMaMssUDcbq7LZnJDpMtBzJwztwKPwkhayeEJcFxL8=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev17.tar.gz"
-      ]
-    },
-    "1.3.0.dev18": {
-      "sdist": [
-        "XOUu6U+9LCQnVMNsGz4koVWTSAFF0ANNHksJVImyXj8=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev18.tar.gz"
-      ]
-    },
-    "1.3.0.dev19": {
-      "sdist": [
-        "+jLio07Duz7895Bm8XM3qCvHfjHUVAxEHeP3QVjEXbM=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev19.tar.gz"
-      ]
-    },
-    "1.3.0.dev3": {
-      "sdist": [
-        "R4IWsBa1W/Z3PR4LLul/hwhgMHrlm7IqgqizyZFQ098=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev3.tar.gz"
-      ]
-    },
-    "1.3.0.dev4": {
-      "sdist": [
-        "9n0yGN2rYJoXH9Wh9VVe/G+NkvF2P+PXNdBpLBgkLW0=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev4.tar.gz"
-      ]
-    },
-    "1.3.0.dev5": {
-      "sdist": [
-        "nUFIB/qHvfyLgL3TTCLkZasvwzl1LqgyisUeqdLDZBs=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev5.tar.gz"
-      ]
-    },
-    "1.3.0.dev6": {
-      "sdist": [
-        "E5f7a0opr1U4KC6pxGZgd6str/e5zw9zrzjM2f9Nj2Y=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev6.tar.gz"
-      ]
-    },
-    "1.3.0.dev7": {
-      "sdist": [
-        "z5ThcG0y6Vd+EkApwWeDtGaQJeeKAM6A3FGPTN5K9os=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev7.tar.gz"
-      ]
-    },
-    "1.3.0.dev8": {
-      "sdist": [
-        "s52Qu5Keg5n4vzYALjkz9y9qEK5PeYXA7a0T4KEOfy8=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev8.tar.gz"
-      ]
-    },
-    "1.3.0.dev9": {
-      "sdist": [
-        "ZC4KoQ5cfOqCLAXfjdkyaQcgSgKY6c+g24tiqG+MwJ0=",
-        "pantsbuild.pants.contrib.node-1.3.0.dev9.tar.gz"
-      ]
-    },
-    "1.3.0dev0": {
-      "sdist": [
-        "SRy986nENicS/v3HtMq4+zqHsdreyvYk8vyH4BYl6pQ=",
-        "pantsbuild.pants.contrib.node-1.3.0dev0.tar.gz"
-      ]
-    },
-    "1.3.0dev1": {
-      "sdist": [
-        "+Gld/dLdslv7Dqp+ycCxhcNObTg+j+HGez4WShDFFL8=",
-        "pantsbuild.pants.contrib.node-1.3.0dev1.tar.gz"
-      ]
-    },
-    "1.3.0dev2": {
-      "sdist": [
-        "j252BN1x/lVmYEabbBXW+oduMBFr8Y2ZQNUBqY71y7M=",
-        "pantsbuild.pants.contrib.node-1.3.0dev2.tar.gz"
       ]
     },
     "1.3.0rc0": {
@@ -73180,22 +72548,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.node-1.30.0-py36.py37.py38-none-any.whl": [
           "/Jdvma8HSQr071NSADFeE9fq9gSY6bSV7be9nY95YFU=",
-          "py36.py37.py38"
-        ]
-      }
-    },
-    "1.30.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.30.0.dev0-py36.py37.py38-none-any.whl": [
-          "WQSMQZx0yR4zCTL9qwUGTabwY9Eh3vFGRY5dWafjEzQ=",
-          "py36.py37.py38"
-        ]
-      }
-    },
-    "1.30.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.30.0.dev1-py36.py37.py38-none-any.whl": [
-          "N6xGHTLB8R+N7UsZrXkKsv2PsJCH4dpw7h+wU3+FTDc=",
           "py36.py37.py38"
         ]
       }
@@ -73356,244 +72708,6 @@
         ]
       }
     },
-    "1.4.0.dev0": {
-      "sdist": [
-        "fcCsIN7whuVmWnCuYvgVPZ40nltl+DU2M057AW6n3XM=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev0.tar.gz"
-      ]
-    },
-    "1.4.0.dev1": {
-      "sdist": [
-        "WzEqjOH8fcga0H412fA1wQwOk5Fl9PWGV2g1gHT09P0=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev1.tar.gz"
-      ]
-    },
-    "1.4.0.dev10": {
-      "sdist": [
-        "eg3lFkc22Nz2IXJ5bH8RvX7iRkT80sdR4M4SLaYDbA4=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev10.tar.gz"
-      ]
-    },
-    "1.4.0.dev11": {
-      "sdist": [
-        "U8uRvK2LS8SzfX1t4MwMO9wdN15RgwG7xpaEOIU48Tg=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev11.tar.gz"
-      ]
-    },
-    "1.4.0.dev12": {
-      "sdist": [
-        "TwPypnQNadVojNZkUcX45sR2mB0YopD1onyRDAy6aJQ=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev12.tar.gz"
-      ]
-    },
-    "1.4.0.dev13": {
-      "sdist": [
-        "MkPAGGpAsTfWSNilvPExmHMF2UvYbaYsIw1KWhLsotA=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev13.tar.gz"
-      ]
-    },
-    "1.4.0.dev14": {
-      "sdist": [
-        "Sy0Hq8ms+kLWR8hXaOV3LgPXO4e23rm7p3pynEzlyLU=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev14.tar.gz"
-      ]
-    },
-    "1.4.0.dev15": {
-      "sdist": [
-        "UzYoB6bjhvpCF9DczDa8STrq31QL0sKkR22qkAgpZgA=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev15.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev15-py27-none-any.whl": [
-          "iAeqqxbVJoL9+2LxYfjFwiTOhqbRs4cmNSe0UBxO05A=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev16": {
-      "sdist": [
-        "XWfaVrTFIIZKK7oCOYJjXRaP5cB3uoTuXzdGuXf5cj8=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev16.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev16-py27-none-any.whl": [
-          "8FebSQNl1+ceNGm7GKl4R/r3TNu2XE1PwavJvkjydtk=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev17": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev17-py27-none-any.whl": [
-          "9mGWpUMhg0vLUU5l+m5Fzh4KfGoMnqZ3/tgcxlrrv54=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev18": {
-      "sdist": [
-        "IdzKDZM/brehHEz13SmEvGMJCReohGUAzR4FPJrIat0=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev18.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev18-py27-none-any.whl": [
-          "xRU+UH0UhB85WEuQ+0ebvrgYwwrHaUIZ7snlKcvRw4Q=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev19": {
-      "sdist": [
-        "AUKGSFS2s232jB/0FZtiutufCy8y54oNu7oY4xA7rYE=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev19.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev19-py27-none-any.whl": [
-          "3rfIUKHAOQCJ9NsNhW32PeF/OOPCLkueL5PdwfAou+Y=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev2": {
-      "sdist": [
-        "Q+AIv0oM9dM+WRKZ6WFE2J6snuOr9zQxgtVNAsV+Pwg=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev2.tar.gz"
-      ]
-    },
-    "1.4.0.dev20": {
-      "sdist": [
-        "N0dMZYuu32+7KyzZhorZrF1N42C0nC+tCXZyNu3AYkg=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev20.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev20-py27-none-any.whl": [
-          "HLzI9PHMiNytSUZTQCYkx9FyIcMhJc5qbTdQElsIDGQ=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev21": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev21-py27-none-any.whl": [
-          "ip4bOjSajwwP4JdcGqJvdcJpBTy6WqOcT4V41R7cDVE=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev22": {
-      "sdist": [
-        "2P0kzlTG1sfKB0NvJP9TkIckt8Gg/YBiW4hpUQsxsgE=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev22.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev22-py27-none-any.whl": [
-          "nOYtJDAMo2AjpkvdmofNkEWunHgH3fZv+Xgd4dcJbCE=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev23": {
-      "sdist": [
-        "85RJ6jEQYTSGFNw8PHTjuyEj9uyxwARqoQ/SL3tKvrA=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev23.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev23-py27-none-any.whl": [
-          "HhtOTJj4AImSYVSxq62I+7BstV/jqwkljhZanFyL1Dw=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev24": {
-      "sdist": [
-        "4UG05pK06bOyVZ63GeZAQtEEBCXzD0hv8v1MTBAEq8k=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev24.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev24-py27-none-any.whl": [
-          "OFLbn2wiOuPxOXVf9fTJFnQmkFNKp+TKpRRHNm/QTNY=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev25": {
-      "sdist": [
-        "+QJMT4FVESFN45N2GRbupwjUosQVQ/TC9JNXKogOZ6U=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev25.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev25-py27-none-any.whl": [
-          "tuhqrP4JmdbxtosrSFQtcm3PtEspm8CcSSytGFXBct0=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev26": {
-      "sdist": [
-        "AkfG6Wna1JLGWQZafCaYmA4vEduY+ooE6B6wN8O4Nxs=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev26.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev26-py27-none-any.whl": [
-          "+ZXVLbGS/xQq3OlT4q4CagQqzmEpKC6kTn+wqutI4U4=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev27": {
-      "sdist": [
-        "7Zn7cVOz8rAgYFkTXcggbVTHYI0Br9dquNknuvyjh08=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev27.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.4.0.dev27-py27-none-any.whl": [
-          "DeGtlrZxuRBpeTwejwDrBq6HjAmsNuvRPjdBc7wm8JQ=",
-          "py27"
-        ]
-      }
-    },
-    "1.4.0.dev3": {
-      "sdist": [
-        "EAt/Ycljoje/E6Jfij4i+4jWd/fruJj8SmqY/MAJvnk=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev3.tar.gz"
-      ]
-    },
-    "1.4.0.dev4": {
-      "sdist": [
-        "KFSN5yt5qVartobzp7bs0nHDM5hHuWTIgQYmZ6iv864=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev4.tar.gz"
-      ]
-    },
-    "1.4.0.dev5": {
-      "sdist": [
-        "3xKqTdiSFwo6CTgx0tsZSgWeL6HdAaBvWBa1pEYTDCA=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev5.tar.gz"
-      ]
-    },
-    "1.4.0.dev6": {
-      "sdist": [
-        "8ns7Aq1/YXWJfnWE6NuqWry9HRwuiaXwrAG4pngQO8A=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev6.tar.gz"
-      ]
-    },
-    "1.4.0.dev7": {
-      "sdist": [
-        "twnbSS7UL5REfxMHfgBq8+wLYhutnYs17Au3RTByOOs=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev7.tar.gz"
-      ]
-    },
-    "1.4.0.dev8": {
-      "sdist": [
-        "4rIdQjzxcAWrVcoSHwfuhToyHfzjgGSmkk/ifFK03SE=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev8.tar.gz"
-      ]
-    },
-    "1.4.0.dev9": {
-      "sdist": [
-        "IwZt06axLOjavO/bNwtNia3WFKiGIzd1onAu2TeOVLs=",
-        "pantsbuild.pants.contrib.node-1.4.0.dev9.tar.gz"
-      ]
-    },
     "1.4.0rc0": {
       "sdist": [
         "7SFHz+ehotEvtadWB72+Wa9HSNbufc54IH/Kv+/X3vU=",
@@ -73678,72 +72792,6 @@
         ]
       }
     },
-    "1.5.0.dev0": {
-      "sdist": [
-        "uPsj+zTdd8LCUxqP5ewVySMJ+mD+VxEbGEhamxPW+ZY=",
-        "pantsbuild.pants.contrib.node-1.5.0.dev0.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.5.0.dev0-py27-none-any.whl": [
-          "lkpOhOIgawzGH4z1Irg8tBq6uzu7sM6ki1LL5tEpqx0=",
-          "py27"
-        ]
-      }
-    },
-    "1.5.0.dev1": {
-      "sdist": [
-        "TNzXzHuCjRJ1bjg0vF8jnlQeE6gFfQdUrh7Oid/N7uo=",
-        "pantsbuild.pants.contrib.node-1.5.0.dev1.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.5.0.dev1-py27-none-any.whl": [
-          "hpKtv4SmsvS7olYpvXYD1NBXcJQ6gxre3aHevpCbDAU=",
-          "py27"
-        ]
-      }
-    },
-    "1.5.0.dev2": {
-      "sdist": [
-        "tXuRR4xUzgdOK3o90/aRRP5mRLE70DAODngB7saV1c8=",
-        "pantsbuild.pants.contrib.node-1.5.0.dev2.tar.gz"
-      ]
-    },
-    "1.5.0.dev3": {
-      "sdist": [
-        "Cz7yTD4aA2bgrGn6rwGmRMgcceogFBQArf5RTwpCrMs=",
-        "pantsbuild.pants.contrib.node-1.5.0.dev3.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.5.0.dev3-py27-none-any.whl": [
-          "jWzc7i9RdaULiJQjed979wf52aA314x3r+sS3bBGmH4=",
-          "py27"
-        ]
-      }
-    },
-    "1.5.0.dev4": {
-      "sdist": [
-        "/JqY7H0kOPLoDC+pEknALhCoJRVTCJ7lGnjkE7Eolz8=",
-        "pantsbuild.pants.contrib.node-1.5.0.dev4.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.5.0.dev4-py27-none-any.whl": [
-          "tIDHUP8fOAiP9ItZQIzGAH90s4G3h2/4g3mDDESPRio=",
-          "py27"
-        ]
-      }
-    },
-    "1.5.0.dev5": {
-      "sdist": [
-        "ph5MtobBPQGe94aPWsfl5OdCboD+dxmYpq7BSX2/7VM=",
-        "pantsbuild.pants.contrib.node-1.5.0.dev5.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.5.0.dev5-py27-none-any.whl": [
-          "3HofyVgCaKC9WuGO8HZ1w4Z5jUC4WzhQKnC4du87Mqk=",
-          "py27"
-        ]
-      }
-    },
     "1.5.0rc0": {
       "sdist": [
         "DrR/ewBZgAIYaTSLvfc4B23nj6HkEYnUBQ/HWPO0v7E=",
@@ -73816,42 +72864,6 @@
         ]
       }
     },
-    "1.6.0.dev0": {
-      "sdist": [
-        "cFiLm98xtmrOookHK9bNmuLXM7ASAv8CCp85sZEBwB8=",
-        "pantsbuild.pants.contrib.node-1.6.0.dev0.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.6.0.dev0-py27-none-any.whl": [
-          "W2FwAcBTYUQ23R2Nxd32SADiJG5COU5xeAcgWIRVKlk=",
-          "py27"
-        ]
-      }
-    },
-    "1.6.0.dev1": {
-      "sdist": [
-        "shMNHBF7mtmYo32TI3afg7VzbBW/Nk84t9N7znYvClI=",
-        "pantsbuild.pants.contrib.node-1.6.0.dev1.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.6.0.dev1-py27-none-any.whl": [
-          "U0vJHc/WNafqpLvMikAjRih67OUowVbD4SibzGJZPU0=",
-          "py27"
-        ]
-      }
-    },
-    "1.6.0.dev2": {
-      "sdist": [
-        "I3m2zbK8dsamc2NA/xknePvWXAhlMj2IPFDRnIKxOoo=",
-        "pantsbuild.pants.contrib.node-1.6.0.dev2.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.6.0.dev2-py27-none-any.whl": [
-          "Egt+7AIhpc07VgPIYwxqFcbrpFM/92w0VIsUfCFghQs=",
-          "py27"
-        ]
-      }
-    },
     "1.6.0rc0": {
       "sdist": [
         "jlsQqgyVc/1zeUjlYETqVFWPk1vby+64NEskzBvMH1E=",
@@ -73906,42 +72918,6 @@
         ]
       }
     },
-    "1.7.0.dev0": {
-      "sdist": [
-        "J9pJfJ+lug2vhcyiQDYKLS5fVBf9tiycj7HyTFQpuuQ=",
-        "pantsbuild.pants.contrib.node-1.7.0.dev0.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.7.0.dev0-py27-none-any.whl": [
-          "Gx4IF5gZ5FFnjaP4TkwgG9sj4/wKIH+ZDVRy88PhDJ4=",
-          "py27"
-        ]
-      }
-    },
-    "1.7.0.dev1": {
-      "sdist": [
-        "joTlanLxvf86TO5FdX5tgCxIyuo7KKmE6OPFFihd0Io=",
-        "pantsbuild.pants.contrib.node-1.7.0.dev1.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.7.0.dev1-py27-none-any.whl": [
-          "UIw1fOEMyFijwN130vSFZYnPP5gJrP1xVs4inSxV/no=",
-          "py27"
-        ]
-      }
-    },
-    "1.7.0.dev2": {
-      "sdist": [
-        "8/GnhT9I/mQ725t0NDAihhh6VKciiPedUu7I5s3XdlQ=",
-        "pantsbuild.pants.contrib.node-1.7.0.dev2.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.7.0.dev2-py27-none-any.whl": [
-          "OpIV+JJfamuPuyOxtPbL5r8acWmAvvzg3ZQ+dlyoLDo=",
-          "py27"
-        ]
-      }
-    },
     "1.7.0rc0": {
       "sdist": [
         "ulrQ2YPyYDIW/zk3d+tbGrbqXnSlslKfptdzpvww1Lo=",
@@ -73974,58 +72950,6 @@
         ]
       }
     },
-    "1.8.0.dev0": {
-      "sdist": [
-        "XLDdgADwRqBoSBBqlN+1+/MQZJBidX1urR20XNNESRI=",
-        "pantsbuild.pants.contrib.node-1.8.0.dev0.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.8.0.dev0-py27-none-any.whl": [
-          "TxrPrrGegxvx6i39vraPRQVwPwX8hhf9ZslG71Y5u2A=",
-          "py27"
-        ]
-      }
-    },
-    "1.8.0.dev1": {
-      "sdist": [
-        "moaoiWTGxjJQFxVbss/PUBjj6c1fmP5EDeI6q6C8Oek=",
-        "pantsbuild.pants.contrib.node-1.8.0.dev1.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.8.0.dev1-py27-none-any.whl": [
-          "Xd9+0rXVHCukdUpeYgbkm8LdXmS2mtUxrEcUsLcB8Hg=",
-          "py27"
-        ]
-      }
-    },
-    "1.8.0.dev2": {
-      "sdist": [
-        "oN2Y2HJ7hLh7Ksk9TyxlVBPH861tdDnvD+go7uTCI1A=",
-        "pantsbuild.pants.contrib.node-1.8.0.dev2.tar.gz"
-      ],
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.8.0.dev2-py27-none-any.whl": [
-          "xVg5N9y4k8gK3JEcsgkOSHPthRkjUaDr3yxew6d0oCQ=",
-          "py27"
-        ]
-      }
-    },
-    "1.8.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.8.0.dev3-py27-none-any.whl": [
-          "E2RP7DCBOZzofuKtl7mrteWAG49Y7X4Yo8JQJgYuMNs=",
-          "py27"
-        ]
-      }
-    },
-    "1.8.0.dev4": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.8.0.dev4-py27-none-any.whl": [
-          "YC6VQGM0rff0S6y0piVvcZrqP3p1xdqua8d11dxNIuc=",
-          "py27"
-        ]
-      }
-    },
     "1.8.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.node-1.8.0rc0-py27-none-any.whl": [
@@ -74046,22 +72970,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.node-1.9.0-py27-none-any.whl": [
           "NSwUEagCVgUovDVqwlmEog+DN221XuO1dgj+uDlZgmM=",
-          "py27"
-        ]
-      }
-    },
-    "1.9.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.9.0.dev0-py27-none-any.whl": [
-          "QOBupRfARyqCstoeUZjCkDzc+aq4Nn26bwj1IXT7ewk=",
-          "py27"
-        ]
-      }
-    },
-    "1.9.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.node-1.9.0.dev1-py27-none-any.whl": [
-          "OdhL39GsxRQ3J9rAFPGGeWgeYWSHMq92q+rXAs1YmIU=",
           "py27"
         ]
       }
@@ -76144,6 +75052,36 @@
       "sdist": [
         "i5WZvGtfw80G1u/bJSm5d9z+hM74ZTOWWDui8ujDC5E=",
         "playerFramework-1.0.tar.gz"
+      ]
+    },
+    "1.1": {
+      "sdist": [
+        "tVcBHOw0dTTt8DFQVPk1cmgmXyl2D8RtfkjJYyEoJgU=",
+        "playerFramework-1.1.tar.gz"
+      ]
+    },
+    "1.2": {
+      "sdist": [
+        "sM6d01rihrOAESekddEtpR8uDXr55pNcZceN98hok5Y=",
+        "playerFramework-1.2.tar.gz"
+      ]
+    },
+    "1.3": {
+      "sdist": [
+        "ZqKSrtpWLiSCsMZyJVeu+5Tp4/BFQ5egEQ42qewIsh4=",
+        "playerFramework-1.3.tar.gz"
+      ]
+    },
+    "1.4": {
+      "sdist": [
+        "IRAsKoL1NaodGlxfIIx+5csNI8OM7WBH6Be+YlzxGcM=",
+        "playerFramework-1.4.tar.gz"
+      ]
+    },
+    "1.5": {
+      "sdist": [
+        "2NwNxCwS/tOMQlW/fAfnBeE1ugtmeQYAFKZBOyhOnDI=",
+        "playerFramework-1.5.tar.gz"
       ]
     }
   },
@@ -106756,6 +105694,18 @@
       "wheels": {
         "zh_sentence-0.0.3-py3-none-any.whl": [
           "EEQk+p76yIt8HauiPY9fCyOvfYD5MhlQCroOJe/N5uk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "yGreiL/2Q580cwvOs+PLujonYOVTiqwJORe+u40Vk80=",
+        "zh_sentence-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "zh_sentence-0.0.4-py3-none-any.whl": [
+          "OYBsmSGlrgZVjyCm4QiXanmCtyJn5gZER9R3+FQeFFs=",
           "py3"
         ]
       }

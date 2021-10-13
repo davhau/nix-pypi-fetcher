@@ -32676,6 +32676,18 @@
         ]
       }
     },
+    "0.23.0b7": {
+      "sdist": [
+        "wXXLu186x5e2mYNNjUFkKv+PAZmPw3vR5eFmqkpRlZQ=",
+        "flytekit-0.23.0b7.tar.gz"
+      ],
+      "wheels": {
+        "flytekit-0.23.0b7-py3-none-any.whl": [
+          "GML3xIan7+wqZoz8I2Cg+uE+owUD3aOGR2ROYT89a5w=",
+          "py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "g01LqxRQtQuCJ3rjXwSpn1ND17HsoINYrFN4Irq13RA=",
@@ -35330,6 +35342,18 @@
       "wheels": {
         "google_cloud_memcache-1.1.2-py2.py3-none-any.whl": [
           "DGIPjcDUVISQ2pNVg26y0v5ACFeppWEJ0w49AiCzdYs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "l2aiTFho8a9S3nmZz9v5AJPMuMWLaCG7Tx60HqGhXeQ=",
+        "google-cloud-memcache-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_memcache-1.2.0-py2.py3-none-any.whl": [
+          "auetlBpeM5tTCNyyVLfW3x8GPKUHKjFdVLrUUn/2nMk=",
           "py2.py3"
         ]
       }
@@ -46744,10 +46768,6 @@
           "kcpSZTolJsejExMmwxkdDXmkFIewYLpWZz8dBu5hvhA=",
           "cp37"
         ],
-        "mindspore-1.3.0-cp37-cp37m-win_amd64.whl": [
-          "8a+dQCX1e2X3k2NIvBdd8ZkCcMXHdNJy3/BlXAq/pjc=",
-          "cp37"
-        ],
         "mindspore-1.3.0-cp38-cp38-manylinux1_x86_64.whl": [
           "ggk35wkWQnm8xUpFEqJcsm3u3s21JCu8Y609jij22ak=",
           "cp38"
@@ -58146,22 +58166,6 @@
         ]
       }
     },
-    "1.15.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.15.0.dev3-py27-none-any.whl": [
-          "8tIFUJbats+3MtFbvXaEu8bl+T2E1/UD1ZmbOdVMKa8=",
-          "py27"
-        ]
-      }
-    },
-    "1.15.0.dev4": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.15.0.dev4-py27.py36.py37-none-any.whl": [
-          "VNtiNDWl33vMWMHtNOhKsHmQ49wLRGDBa0ATZiMIJrg=",
-          "py27.py36.py37"
-        ]
-      }
-    },
     "1.15.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.15.0rc0-py27.py36.py37-none-any.whl": [
@@ -58198,46 +58202,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.16.0-py27.py36.py37-none-any.whl": [
           "lgQnwpOrg5CrjnLlmniTkgIb4r/axfnL+PXI6h6lhZU=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.16.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.16.0.dev0-py27.py36.py37-none-any.whl": [
-          "lPY92tBKrSt+x8y1fKApd20s7oKBFd3JKCTLDSZuptw=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.16.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.16.0.dev1-py27.py36.py37-none-any.whl": [
-          "U0+PSEAQmokvsb/lTqgu4vsb0JJm/OT0rY/j8a9llkY=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.16.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.16.0.dev2-py27.py36.py37-none-any.whl": [
-          "aCWc0krtGIBb/+VMH80hMHoF7DoG+fHx7Nak46dX5Hg=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.16.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.16.0.dev3-py27.py36.py37-none-any.whl": [
-          "EJFCAJzrEYSpHBkjgX9ZPLmfmn565bRROHBQIHQMte4=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.16.0.dev4": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.16.0.dev4-py27.py36.py37-none-any.whl": [
-          "NylhUvboj/ig6ol4LDfUL4M2lbIt2EElFk+zFXbJH/o=",
           "py27.py36.py37"
         ]
       }
@@ -58282,22 +58246,6 @@
         ]
       }
     },
-    "1.17.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.17.0.dev0-py27.py36.py37-none-any.whl": [
-          "oXs/wcIIjYlA78fu6BMFnP8UavoMVGWLNEOubfKQlpQ=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.17.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.17.0.dev1-py27.py36.py37-none-any.whl": [
-          "Fqa2CaGGAZuryH7ysYgF24DpQRcxBnMj3qFiohDdGVU=",
-          "py27.py36.py37"
-        ]
-      }
-    },
     "1.17.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.17.0rc0-py27.py36.py37-none-any.whl": [
@@ -58330,30 +58278,6 @@
         ]
       }
     },
-    "1.18.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.18.0.dev0-py27.py36.py37-none-any.whl": [
-          "nvTT/t/os2f5A5zCtMeIuZBaCW8dbJsapqIGmoc27qA=",
-          "py27.py36.py37"
-        ]
-      }
-    },
-    "1.18.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.18.0.dev1-py36.py37-none-any.whl": [
-          "iSeIVsUZ5lEQaL4Gkdj9dORcTj5gbpeoYd1FAROc/kw=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.18.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.18.0.dev2-py36.py37-none-any.whl": [
-          "OX+57aJxkGrQasEBcv6vETDkGDmUbILjeFkCaXcldhI=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.18.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.18.0rc0-py36.py37-none-any.whl": [
@@ -58378,14 +58302,6 @@
         ]
       }
     },
-    "1.19.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.19.0.dev0-py36.py37-none-any.whl": [
-          "zs6frgEiDS/TZ6Va/XqaIvsvTMTojLLBDn6u4xzPghg=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.19.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.19.0rc0-py36.py37-none-any.whl": [
@@ -58406,30 +58322,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.20.0-py36.py37-none-any.whl": [
           "aJMjEsyOk+SI2e4WXU34wpaTlxboZQ+t6z+OIP5UPYw=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.20.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.20.0.dev0-py36.py37-none-any.whl": [
-          "6gtv1eQLJxUA7wpzfyS2fDN/W16c2/NAWgsb1adH3eg=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.20.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.20.0.dev1-py36.py37-none-any.whl": [
-          "2g28+lLxAqaPfIuqTKQQu7hKtl1iUbQ/wb2/CcFTtNY=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.20.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.20.0.dev2-py36.py37-none-any.whl": [
-          "W1Z5uWRDFGKuCHZtRwaA6lb72cfjbFxPjKB9e1FmW7w=",
           "py36.py37"
         ]
       }
@@ -58466,22 +58358,6 @@
         ]
       }
     },
-    "1.21.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.21.0.dev0-py36.py37-none-any.whl": [
-          "8KhOPFekuiUhBpLrAUjdxBRZ7DaSCotvhJ3N5kSsU9Y=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.21.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.21.0.dev1-py36.py37-none-any.whl": [
-          "cnuNaLcMpPj6nrA48vBJvBimR7mvX41aI5SnY3ZNCt0=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.21.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.21.0rc0-py36.py37-none-any.whl": [
@@ -58502,30 +58378,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.22.0-py36.py37-none-any.whl": [
           "/dRpVuTKoqwZW6bfQBQ6b+AbHMc3JB4nG5pwplKZPTg=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.22.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.22.0.dev0-py36.py37-none-any.whl": [
-          "eJKgR6IjNDRCdpo/uniiAVyS8HTSSqJ0cgq4a7lNcXI=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.22.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.22.0.dev1-py36.py37-none-any.whl": [
-          "yiqQGSbbnIWyJC49uR5pMqM61ROwVFqdu3FTMTGPLec=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.22.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.22.0.dev2-py36.py37-none-any.whl": [
-          "kpuf/BnE139+JKxHsHi+U8dHwMh7g7w1D7il/6v7Mco=",
           "py36.py37"
         ]
       }
@@ -58570,30 +58422,6 @@
         ]
       }
     },
-    "1.23.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.23.0.dev0-py36.py37-none-any.whl": [
-          "eKSIr0STj028e0HL+mXw0bx8eGanE7lfo82lfCpPj9U=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.23.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.23.0.dev1-py36.py37-none-any.whl": [
-          "PR7wpKJxBEfXAhF4RGdMZZej/F/m34cbg5Zm9TfPcLg=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.23.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.23.0.dev2-py36.py37-none-any.whl": [
-          "2O1f2TYVe2N/FOUfzOyFu6p674+86oj9cyjsVx1XQ6k=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.23.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.23.0rc0-py36.py37-none-any.whl": [
@@ -58614,30 +58442,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.24.0-py36.py37-none-any.whl": [
           "y7LRNjas1ZtbGEZlBBmWzr/5SpMXsgfmHs51Nyh0hmg=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.24.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.24.0.dev1-py36.py37-none-any.whl": [
-          "gNXg8pPlp2awaSZRz7D9KIFo/XO5fvd6L5mp5MXDFjw=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.24.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.24.0.dev2-py36.py37-none-any.whl": [
-          "aIhvyUq+OFmOHaAE8L6vNVmZoxuIL2mwEwRaw5Sdxtw=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.24.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.24.0.dev3-py36.py37-none-any.whl": [
-          "NSLpEVZCxLDhigZyLV1wU6bg38uhQgdwORDG9sKnKA4=",
           "py36.py37"
         ]
       }
@@ -58690,38 +58494,6 @@
         ]
       }
     },
-    "1.25.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.25.0.dev0-py36.py37-none-any.whl": [
-          "QAf5SQ/hePxQlJNitbQyPTd8sTuzd28vIGuP8cUPu0c=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.25.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.25.0.dev1-py36.py37-none-any.whl": [
-          "LF9To5wljeXhjFAsKtga4bsDA+8ZXWspPyiwxbjoJEU=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.25.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.25.0.dev2-py36.py37-none-any.whl": [
-          "pu4Po/xFBBLAYmf8WOEJ3qBSXoRQEtKqQQ9s6fqZ/MA=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.25.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.25.0.dev3-py36.py37-none-any.whl": [
-          "unCCOb+mfolmkUsZQVEBWv2oA1Lj38CsUC9o8skVtyo=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.25.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.25.0rc0-py36.py37-none-any.whl": [
@@ -58750,30 +58522,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.26.0-py36.py37-none-any.whl": [
           "KU3aACVG4Lm7EslF9vSbQQ1fVToSAuclLs66U6cJads=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.26.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.26.0.dev0-py36.py37-none-any.whl": [
-          "Gbqk988PKMiR6L4DUkbIrLj1WMKpIjSJQDQ+SvdkDVM=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.26.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.26.0.dev1-py36.py37-none-any.whl": [
-          "0tYrQ8VFb+l1ExCgMUSI3Z00jyg4hK5g3P23JOYu9cU=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.26.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.26.0.dev2-py36.py37-none-any.whl": [
-          "6uEeQ7R405Ly2wRStKBZ5JoA34zcT7Vsz0BUH6tFoVk=",
           "py36.py37"
         ]
       }
@@ -58818,38 +58566,6 @@
         ]
       }
     },
-    "1.27.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.27.0.dev0-py36.py37-none-any.whl": [
-          "NCGpz/1Ij3q+c6usyPinZ0xFqS0TJgOiB4Tt6Cu1caA=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.27.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.27.0.dev1-py36.py37-none-any.whl": [
-          "s6jKsoHr/6qwL/nchRUD+8vFLpMJKe1UFJnJdto1r1I=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.27.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.27.0.dev2-py36.py37-none-any.whl": [
-          "k5QEo6pHbQRMcoEKUY50C22JPw3V9z74CXCRw0uGSOU=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.27.0.dev3": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.27.0.dev3-py36.py37-none-any.whl": [
-          "KQ57ad3fucRi5eHuHvm32oX15kR3gyJUkPqCu9oZFIg=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.27.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.27.0rc0-py36.py37-none-any.whl": [
@@ -58890,30 +58606,6 @@
         ]
       }
     },
-    "1.28.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.28.0.dev0-py36.py37-none-any.whl": [
-          "quqnr26xdWPabas2H9Qs8ZuXZq8vKTnhcXgYimbH8TY=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.28.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.28.0.dev1-py36.py37-none-any.whl": [
-          "2CCqw2Q9z4y0UgIWn7YqgzYSLE45VX5HYzCiR8HZ9+k=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.28.0.dev2": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.28.0.dev2-py36.py37-none-any.whl": [
-          "LfYvAVoPAkVSWa0i6zddDP6EOK2JIorkLaU5LqcfUkk=",
-          "py36.py37"
-        ]
-      }
-    },
     "1.28.0rc0": {
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.28.0rc0-py36.py37-none-any.whl": [
@@ -58950,22 +58642,6 @@
       "wheels": {
         "pantsbuild.pants.contrib.awslambda_python-1.29.0-py36.py37.py38-none-any.whl": [
           "LM12I5aU4CzUMQQInilYydZ2DrOYamtydkEkWowFAt8=",
-          "py36.py37.py38"
-        ]
-      }
-    },
-    "1.29.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.29.0.dev0-py36.py37-none-any.whl": [
-          "iiltY3bVnPDHwa26dfu2pSm3UQ8jclLRnCFawibbdlo=",
-          "py36.py37"
-        ]
-      }
-    },
-    "1.29.0.dev1": {
-      "wheels": {
-        "pantsbuild.pants.contrib.awslambda_python-1.29.0.dev1-py36.py37.py38-none-any.whl": [
-          "XPjcpAu7xdo1ewR1gYGBFmrQlF5Mo/x6KFBcSK7Lm54=",
           "py36.py37.py38"
         ]
       }
@@ -74677,6 +74353,22 @@
           "py3"
         ]
       }
+    },
+    "0.3.1": {
+      "wheels": {
+        "season-0.3.1-py3-none-any.whl": [
+          "Y+zO5cOwT9LvxNIZwqkXi+gfsdvKyHtorklB6UVEXPY=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "wheels": {
+        "season-0.3.2-py3-none-any.whl": [
+          "QIf8az6BD8GHVdwmJK8MYITihARC2cOe10s1SFgd+bU=",
+          "py3"
+        ]
+      }
     }
   },
   "seed-papertrail": {
@@ -83594,6 +83286,14 @@
       "wheels": {
         "spell-0.44.3-py2.py3-none-any.whl": [
           "EUEBppBK8aeDH24nbWur+iHMjfmqF7s7bTJ6DaUBHDw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.44.4": {
+      "wheels": {
+        "spell-0.44.4-py2.py3-none-any.whl": [
+          "g3E7K8AtPhFCA+1UZ0zrtpcXh8t4KncnXPKo/cmK3aM=",
           "py2.py3"
         ]
       }
