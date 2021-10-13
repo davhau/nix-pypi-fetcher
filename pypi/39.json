@@ -10466,6 +10466,18 @@
     }
   },
   "bigdl-dllib": {
+    "0.14.0.dev0": {
+      "wheels": {
+        "bigdl_dllib-0.14.0b20211013-py2.py3-none-macosx_10_11_x86_64.whl": [
+          "zE8eXMnVv7QsKHFmhb3/IsJTrNeQOFDbkDHQpLkPpRY=",
+          "py2.py3"
+        ],
+        "bigdl_dllib-0.14.0b20211013-py2.py3-none-manylinux1_x86_64.whl": [
+          "lHPh+jTIzv5f1SHA821ilzOXFmQ5P3LDFDz1WGsOig8=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.14.0b20210923": {
       "wheels": {
         "bigdl_dllib-0.14.0b20210924-py2.py3-none-macosx_10_11_x86_64.whl": [
@@ -81617,6 +81629,30 @@
           "py3"
         ]
       }
+    },
+    "1.84": {
+      "sdist": [
+        "9fwIjBO1reuY+8HYCr2KlmV61XTpSbmLbruJcjGxNvU=",
+        "satnogs-network-api-client-1.84.tar.gz"
+      ],
+      "wheels": {
+        "satnogs_network_api_client-1.84-py3-none-any.whl": [
+          "PFo/sdDnWiDMkd7ya1Y4ZdFs32QF7XU+ssjiU8Hd7AU=",
+          "py3"
+        ]
+      }
+    },
+    "1.85": {
+      "sdist": [
+        "nBRPoMOi0ZCLOimcY6t2i3lR41kfobpWMD2JycC+uuA=",
+        "satnogs-network-api-client-1.85.tar.gz"
+      ],
+      "wheels": {
+        "satnogs_network_api_client-1.85-py3-none-any.whl": [
+          "iOMF2T+XTmYngPjJDN9Eqe7888sMabcZme97DQZwyTs=",
+          "py3"
+        ]
+      }
     }
   },
   "savef": {
@@ -82474,6 +82510,74 @@
         ],
         "scikit_sequitur-0.3.1-cp39-cp39-win_amd64.whl": [
           "LmHso3w1L6dzKua2ld0ACTew93wbOz2R5GSWDjXaHA8=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "mSFQt1nYGM1mEpQrWQT6csTAIW8ARvAeDhE86m45wCM=",
+        "scikit-sequitur-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "scikit_sequitur-0.4.0-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "enezweCbodShdACZI2xLs36OhkghHD5p+hBuQRfmA7k=",
+          "cp310"
+        ],
+        "scikit_sequitur-0.4.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "d4hz7khFkqfBxOJrBvg9zFm7Hdhf/QUxuyRnkDuga9M=",
+          "cp310"
+        ],
+        "scikit_sequitur-0.4.0-cp310-cp310-win_amd64.whl": [
+          "Jkd9UfOpIKjO1X9Pf3XqeIxrA/8+BFRnS5JGJ4NJqeI=",
+          "cp310"
+        ],
+        "scikit_sequitur-0.4.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "Cewk8zChkw0LjY2GR/noJEAs2LrwBBgxKKOz6j7ggVA=",
+          "cp36"
+        ],
+        "scikit_sequitur-0.4.0-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "e5M9I3tAoMJAMA8fA8D4pFKyfrTkl2hQ4buhAto42Yk=",
+          "cp36"
+        ],
+        "scikit_sequitur-0.4.0-cp36-cp36m-win_amd64.whl": [
+          "FeCkUmTNAIyp8vcvj+1Ppi5wbudPeGOI+Etvik333eg=",
+          "cp36"
+        ],
+        "scikit_sequitur-0.4.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "g/HdCnMTC8VpzomWEgWaTOiv4yrfBO59wNjYf9P4kao=",
+          "cp37"
+        ],
+        "scikit_sequitur-0.4.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WosgZgB84gvHFDNMYOPgU2clBqlwtDASHeY58G3hgGc=",
+          "cp37"
+        ],
+        "scikit_sequitur-0.4.0-cp37-cp37m-win_amd64.whl": [
+          "+MC9doPZQQaXtVgdMowNGqLASElzjZn91MpoczA6/NM=",
+          "cp37"
+        ],
+        "scikit_sequitur-0.4.0-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "vg4nCBQO4oIz7oFeF1Zq/70iucR8u3Z1NHFrtRvg+XU=",
+          "cp38"
+        ],
+        "scikit_sequitur-0.4.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hkG8UesvApJwBFpLTqsQYhdvL3OLfEk5SJR0PSVPKMo=",
+          "cp38"
+        ],
+        "scikit_sequitur-0.4.0-cp38-cp38-win_amd64.whl": [
+          "bW/EAwvJL5ubj5euHyUFAtTbUEAstlLYzxQHUHQhdsc=",
+          "cp38"
+        ],
+        "scikit_sequitur-0.4.0-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "7oJYVITchvUwitzfoM+JPNXvLFBD3D8W5F8Y0CSGA6E=",
+          "cp39"
+        ],
+        "scikit_sequitur-0.4.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hpM+lyjtjDI+QaYeePXePao72gT8e+Ar0jn5Z8h9Z+0=",
+          "cp39"
+        ],
+        "scikit_sequitur-0.4.0-cp39-cp39-win_amd64.whl": [
+          "ZpqG5tmvCTrQGgF1ISJ82GIRy8r92RdeB3uqHTpqIVg=",
           "cp39"
         ]
       }
@@ -102536,6 +102640,18 @@
       "wheels": {
         "x2paddle-1.3.2-py3-none-any.whl": [
           "1z4+aCggXCv1Liry+5V9ePPtoLaGHN5BAmpqJPEwJg4=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.3": {
+      "sdist": [
+        "cWGRpfQhwGTE6AG9pR11TaL5nr6RAGLabA6GDHgV8z0=",
+        "x2paddle-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "x2paddle-1.3.3-py3-none-any.whl": [
+          "QtYJv37wDoTxa2SPwtI2baoiMCelFzGrQaIeTAFY4T4=",
           "py3"
         ]
       }

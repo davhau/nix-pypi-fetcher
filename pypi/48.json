@@ -1425,6 +1425,18 @@
           "py3"
         ]
       }
+    },
+    "1.32.0": {
+      "sdist": [
+        "CV8W4s0i0giXCfL0Y1nPEuBkxNJ3rtVQRyGRsSJym4g=",
+        "aliro-quantum-networking-1.32.0.tar.gz"
+      ],
+      "wheels": {
+        "aliro_quantum_networking-1.32.0-py3-none-any.whl": [
+          "DhKExZv5tfyik8F2fG3tFFTz2pbaxXKENum1u9VjcF0=",
+          "py3"
+        ]
+      }
     }
   },
   "alpafa": {
@@ -46820,26 +46832,14 @@
     }
   },
   "mosaicml": {
-    "0.2.0": {
+    "0.2.3": {
       "sdist": [
-        "js9mDQ4ur+UYyqs5IGRXjeHsN4/YaRTQZqAOmAHBeno=",
-        "mosaicml-0.2.0.tar.gz"
+        "Piq+CjRbQAUkbPCoaACLXxke0oEWrDB8yhVCZLmDkWQ=",
+        "mosaicml-0.2.3.tar.gz"
       ],
       "wheels": {
-        "mosaicml-0.2.0-py3-none-any.whl": [
-          "xWppwyYkmqETU6GWnI4zywcU08mj39TuoRLeWItEnHM=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.2": {
-      "sdist": [
-        "BH8YF25msxamww93L7vfkLZehdKC7dj27tXFi4o+3eE=",
-        "mosaicml-0.2.2.tar.gz"
-      ],
-      "wheels": {
-        "mosaicml-0.2.2-py3-none-any.whl": [
-          "RRZJEEXPmaP8mQuPioofvYUvJcypniz3kQLIDHNkiGg=",
+        "mosaicml-0.2.3-py3-none-any.whl": [
+          "y6wpK1Nv3Ejl2DzHXAe4aCLT9S1I7AXYl0i8p1dL//o=",
           "py3"
         ]
       }
@@ -71521,6 +71521,20 @@
       }
     }
   },
+  "pyraptor": {
+    "0.2.0": {
+      "sdist": [
+        "5dOXyVTRGT/bY67j1FLbPD40IPJw4QB8HbC036H4yXw=",
+        "pyraptor-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pyraptor-0.2.0-py3-none-any.whl": [
+          "VOiV5BCmSTr+kPTDvOyOGUwhxpbiZ21HBNqYe+8hS7k=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyre-check": {
     "0.0.10": {
       "wheels": {
@@ -82484,74 +82498,14 @@
     }
   },
   "quantperf": {
-    "0.1.0": {
+    "1.0.1": {
       "sdist": [
-        "fI6+Qpp7xNfu/B+HTR5+/ZMoPBTItOGVx0UwCNlg1e8=",
-        "quantperf-0.1.0.tar.gz"
+        "ErEtzxkBa4reDdhoZrPwgEKXteE3BnZOvgAkz24f4+E=",
+        "quantperf-1.0.1.tar.gz"
       ],
       "wheels": {
-        "quantperf-0.1.0-py3-none-any.whl": [
-          "cNHfulEdl4cng4Xzbh5cLL5PW1MXSzoN0BTEG+x0ZzY=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "rxGODTu7avjl3+20CQFSmbBMnGXQZbOSzNiWOTaiAiY=",
-        "quantperf-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "quantperf-0.1.1-py3-none-any.whl": [
-          "J1ESobKjIuKcov/HMJcIt5T898ifXrF7CzW4hIL91i4=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "fwfM9vmfzLAb8mjqtxvPnV7cAK9AF1J43wzmkrmdfSQ=",
-        "quantperf-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "quantperf-0.1.2-py3-none-any.whl": [
-          "DzxbKdEdUq1e/2rcsqJE6iX6Y984Qle1AkpKW4h2erQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "slS7CqwYNRzLN1MEEfOMFjuXencSgVfQk6e8ehwaSpc=",
-        "quantperf-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "quantperf-0.1.3-py3-none-any.whl": [
-          "UgBRV3l42+zRKpOmx0TB+qNTeFD9p+UeHJDAs04sH/k=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "sdist": [
-        "u4RewzfPm46TwDRvWQdwsq+ehgsGxBAauvk1kNuWhGc=",
-        "quantperf-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "quantperf-0.2.0-py3-none-any.whl": [
-          "bS6wnqUApUVqyCboelIw6sIcPK2EgypGyhpc8sJIhbk=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0": {
-      "sdist": [
-        "WGC0nb7j5bo+kZzbajzXiTNEdaANKNgqEr2xy7YQ9Mw=",
-        "quantperf-1.0.0.tar.gz"
-      ],
-      "wheels": {
-        "quantperf-1.0.0-py3-none-any.whl": [
-          "qjrYZgJWTYPc01WqVbi8qf+ObjANunycKzwlEsEPhNc=",
+        "quantperf-1.0.1-py3-none-any.whl": [
+          "LJR4SyIFrQAl1Z/+Is+MT7kt3RGKo27nxK9iVI+qjCA=",
           "py3"
         ]
       }
@@ -88494,6 +88448,78 @@
         ]
       }
     },
+    "3.4.13": {
+      "sdist": [
+        "xky1Zid4HIyyUBeBmIQygJDNglnUcb3E1pRWVcAZTmE=",
+        "smallPowerDash-3.4.13.tar.gz"
+      ],
+      "wheels": {
+        "smallPowerDash-3.4.13-py3-none-any.whl": [
+          "SztkNN9SzNGRR4aD1Wa+vvlUCDPaDaXn5h9Lousz1Mg=",
+          "py3"
+        ]
+      }
+    },
+    "3.4.14": {
+      "sdist": [
+        "UfcZKeKo9vppxb0q7365AOnhn50pWQwj/SQ2uLE5utU=",
+        "smallPowerDash-3.4.14.tar.gz"
+      ],
+      "wheels": {
+        "smallPowerDash-3.4.14-py3-none-any.whl": [
+          "hBl3MG6tdpswuUay6+/gOdraDvfc7WNqiaM3XiCCbg4=",
+          "py3"
+        ]
+      }
+    },
+    "3.4.15": {
+      "sdist": [
+        "rTohnlLcJI+MCM6lMpYRObEgOEISiPJo3Bkbl1DcHBY=",
+        "smallPowerDash-3.4.15.tar.gz"
+      ],
+      "wheels": {
+        "smallPowerDash-3.4.15-py3-none-any.whl": [
+          "DjDfZ3/ZyeA4CmZdng52PcozhQGr+4e28KRfMsNYN4U=",
+          "py3"
+        ]
+      }
+    },
+    "3.4.16": {
+      "sdist": [
+        "RyGN9G8adx/wAYbcEVWbBNNIjtZ8fdJO5hT723PXu+c=",
+        "smallPowerDash-3.4.16.tar.gz"
+      ],
+      "wheels": {
+        "smallPowerDash-3.4.16-py3-none-any.whl": [
+          "KlwwudG4cEMv5Tdl5BsG5qkQzMh8BWa4PLnO5HcnOf0=",
+          "py3"
+        ]
+      }
+    },
+    "3.4.17": {
+      "sdist": [
+        "SAMh/qzdd3RuTUK0JCKntuq8bwddcq/Rdpixbq2JbQI=",
+        "smallPowerDash-3.4.17.tar.gz"
+      ],
+      "wheels": {
+        "smallPowerDash-3.4.17-py3-none-any.whl": [
+          "Xzx2xo5I+VNiovnY3sarE7doJULYCFG1Fsq90Kz+17o=",
+          "py3"
+        ]
+      }
+    },
+    "3.4.18": {
+      "sdist": [
+        "IIZOjZ/xJlv8b/NPG56cOLQi7l78tVZ6GHB4PTGBtN4=",
+        "smallPowerDash-3.4.18.tar.gz"
+      ],
+      "wheels": {
+        "smallPowerDash-3.4.18-py3-none-any.whl": [
+          "5WdhQRfI2J8L3gyVDfRXD6yctHrjsYTTplOjZyffFog=",
+          "py3"
+        ]
+      }
+    },
     "3.4.2": {
       "sdist": [
         "7y+6RdjgCMPHlGwR2GSdNAm+oYe7omeUImw0j+T0GaE=",
@@ -88766,6 +88792,18 @@
       "wheels": {
         "smallPowerDash-3.6.6-py3-none-any.whl": [
           "mIs/M2d6/S+qjmJlUsIaUOz1TrHp0EgswjXuWngL3j0=",
+          "py3"
+        ]
+      }
+    },
+    "3.6.7": {
+      "sdist": [
+        "9+EYNwzbohCHe5A7hTyAn9Kf+rKnRn7880cLeo9H/DQ=",
+        "smallPowerDash-3.6.7.tar.gz"
+      ],
+      "wheels": {
+        "smallPowerDash-3.6.7-py3-none-any.whl": [
+          "Pct9GR8SY+bOAbVXvFNBZPSet4zsp2UXrrW4uxNQt5I=",
           "py3"
         ]
       }
