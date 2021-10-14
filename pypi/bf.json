@@ -6032,6 +6032,18 @@
         ]
       }
     },
+    "1.128.0": {
+      "sdist": [
+        "focNjFTp/S6mV6lj67ckYtYAXVJupAjsG4oaZVIQjRo=",
+        "aws-cdk.aws-apigatewayv2-1.128.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2-1.128.0-py3-none-any.whl": [
+          "XQIOBp8flEBEp8m3DyywKsPU4byXyBXr6BuOMlUX5Ns=",
+          "py3"
+        ]
+      }
+    },
     "1.22.0": {
       "sdist": [
         "dQnzi+IifEey3cxIAkTlGSZvUF4Yy8E02PQcjmrzMAQ=",
@@ -7518,6 +7530,18 @@
       "wheels": {
         "aws_cdk.lambda_layer_awscli-1.127.0-py3-none-any.whl": [
           "do927UM2zw5swZfJwTPnsudvYYC9ejYWdY+vLjk+dFg=",
+          "py3"
+        ]
+      }
+    },
+    "1.128.0": {
+      "sdist": [
+        "KoR1JN6GJwzSE1xTK/HQqNKbYPNkLcoPyeySvdKceaM=",
+        "aws-cdk.lambda-layer-awscli-1.128.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.lambda_layer_awscli-1.128.0-py3-none-any.whl": [
+          "ZMXFdbNTTvDgg+TivDDDrryzFicjK26JlHQLpJPT5co=",
           "py3"
         ]
       }
@@ -66384,6 +66408,12 @@
         "Nuitka-0.6.17.2.tar.gz"
       ]
     },
+    "0.6.17.3": {
+      "sdist": [
+        "zf4HiGCyBM6LDyVemj4+TSAj0D3s+lytN6KNYuvDqFQ=",
+        "Nuitka-0.6.17.3.tar.gz"
+      ]
+    },
     "0.6.2": {
       "sdist": [
         "kRS0CWgDUeMkqrWBxm/kZBMrEosMexCev3wn6RKayag=",
@@ -73775,6 +73805,70 @@
           "cp39"
         ]
       }
+    },
+    "9.4.1": {
+      "wheels": {
+        "OpenGeode_core-9.4.1-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "tEquy8g7l+jn+t3CRGnIBdnZ2Zxu+BCAA6Dkw2R2eTA=",
+          "cp310"
+        ],
+        "OpenGeode_core-9.4.1-cp310-cp310-manylinux2014_x86_64.whl": [
+          "oJ5LLa9E7z+F/eob7vChXO2Zn1i2RP/TKYC6h7hBml4=",
+          "cp310"
+        ],
+        "OpenGeode_core-9.4.1-cp310-cp310-win_amd64.whl": [
+          "7ag1Q2NB8gyIV5uWMSIe+DyIjQNIA+0M0ho7S1k02tk=",
+          "cp310"
+        ],
+        "OpenGeode_core-9.4.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "komFO+wCI00uPaat8gHk7Hh9VUfmIiate4SC3fwaSDs=",
+          "cp36"
+        ],
+        "OpenGeode_core-9.4.1-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "6p0K9HnhAgeKOJFxWbdupmmUOTgYm648TMQTP9eRIdY=",
+          "cp36"
+        ],
+        "OpenGeode_core-9.4.1-cp36-cp36m-win_amd64.whl": [
+          "YYzRObL9ge58UMBIIgWYXPXhW1CpXrTGMm9P4rSrbpU=",
+          "cp36"
+        ],
+        "OpenGeode_core-9.4.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "AgVZ0Ud3EBwL80zwed2R7llRC2R4gby7unXrfhg/3+0=",
+          "cp37"
+        ],
+        "OpenGeode_core-9.4.1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "/Z5Kseox5OoZKVKllq6P1fmAUG0BUsJe6V+HkZMfXB4=",
+          "cp37"
+        ],
+        "OpenGeode_core-9.4.1-cp37-cp37m-win_amd64.whl": [
+          "O9Ud5/JCsD7z82WPLqGGxUb0VOiNn9zwuuteTAl0djM=",
+          "cp37"
+        ],
+        "OpenGeode_core-9.4.1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "PCWa6zv9P1tQFsCAh6fJw20H/jqKmMmZl8q5TqNwDL0=",
+          "cp38"
+        ],
+        "OpenGeode_core-9.4.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "TFAitG7MeRT48Xj+BKTCeS9jUYGba1CyNkSYUrrEqVI=",
+          "cp38"
+        ],
+        "OpenGeode_core-9.4.1-cp38-cp38-win_amd64.whl": [
+          "4PoZvuUovc2GYwNTPQpVy54KasnpPVRuSmUk7V9RJ38=",
+          "cp38"
+        ],
+        "OpenGeode_core-9.4.1-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "41YGPK9T6ur2TilWNi9ZIQB9Nhxu+coT44NzOWcJT3k=",
+          "cp39"
+        ],
+        "OpenGeode_core-9.4.1-cp39-cp39-manylinux2014_x86_64.whl": [
+          "DvImpnXO8lFyFD88HUFJe/AyDMTX2VwBevYgsxM3BpU=",
+          "cp39"
+        ],
+        "OpenGeode_core-9.4.1-cp39-cp39-win_amd64.whl": [
+          "2ACzkzTdIuBYuhb9tv8qjjQvfwGB305lFSRnqMeiVIs=",
+          "cp39"
+        ]
+      }
     }
   },
   "opengles": {
@@ -80186,6 +80280,18 @@
         ]
       }
     },
+    "0.12.0": {
+      "sdist": [
+        "VVpLTM0moPrO5vQwO8+V20/P2DD9cXqzIQgwmeYy/9Q=",
+        "pyaerocom-0.12.0.tar.gz"
+      ],
+      "wheels": {
+        "pyaerocom-0.12.0-py3-none-any.whl": [
+          "T6DVTKlY0SOOVtSSX2We3fNAIh4QpY0nfO2RzGAKULc=",
+          "py3"
+        ]
+      }
+    },
     "0.12.0rc1": {
       "sdist": [
         "NzfEDlSU1ClLZa/zi1UpgWIBu0gDAzRBlhzY4MjT1RA=",
@@ -80194,6 +80300,30 @@
       "wheels": {
         "pyaerocom-0.12.0rc1-py3-none-any.whl": [
           "lS+TPpz7VNJdhj9T6R/yoOIuajGPWpNBvi9NcceP5lM=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.1": {
+      "sdist": [
+        "EdhTu4IYHjI1zRPJpmO6RyGvnVJ5EPKe/uSR6UycWNY=",
+        "pyaerocom-0.12.1.tar.gz"
+      ],
+      "wheels": {
+        "pyaerocom-0.12.1-py3-none-any.whl": [
+          "Nvvtl80TYvbRkoQNved/vLcNoFDJoXZvDC1IzB7HdEI=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.1rc1": {
+      "sdist": [
+        "trQf6a//7qelebLYgbWPUkLXvTZoyvYUTYquv7Avuuc=",
+        "pyaerocom-0.12.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "pyaerocom-0.12.1rc1-py3-none-any.whl": [
+          "QH5nShkINWLLdcn+kNKhlElsctRMOqFJC5wnNxhyIKs=",
           "py3"
         ]
       }
@@ -103637,6 +103767,42 @@
         "tensorflow_recommenders_addons-0.2.0.dev0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "VrsuOpD1fDktmbYhNj+IwKWhBGamTW/GH4g5wRwApT0=",
           "cp38"
+        ]
+      }
+    },
+    "0.3.0": {
+      "wheels": {
+        "tensorflow_recommenders_addons-0.3.0-cp36-cp36m-macosx_10_13_x86_64.whl": [
+          "yi9n/Dhm6/agMLA61zx/lMt61nNTJhUBPM0scMYYo/s=",
+          "cp36"
+        ],
+        "tensorflow_recommenders_addons-0.3.0-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "FI4avZe94tlrJU2MKfVwK5Lqz/mtsqRfrGf5mevs6h0=",
+          "cp36"
+        ],
+        "tensorflow_recommenders_addons-0.3.0-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "d3nA2Srdozf2K5nWS1ue0i4tC2FLGkzTSwRf2kR4IMg=",
+          "cp37"
+        ],
+        "tensorflow_recommenders_addons-0.3.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "sda/ngSEwtAx7mhneu2vfP6IBour7OKCBnDBXJoi+Ag=",
+          "cp37"
+        ],
+        "tensorflow_recommenders_addons-0.3.0-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "EZbJI1f5WXCT1i9V//kZSusrVdXqsZHeSKqRZTBx8XQ=",
+          "cp38"
+        ],
+        "tensorflow_recommenders_addons-0.3.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "HRYeuc+SYL1l6Cv8pa2FOrsOvs8LL4Xgq78QguNPjRE=",
+          "cp38"
+        ],
+        "tensorflow_recommenders_addons-0.3.0-cp39-cp39-macosx_10_13_x86_64.whl": [
+          "J9urEmOyIccyEqmOXrRb8QPDehxJ6ZinGER4g/ta1ts=",
+          "cp39"
+        ],
+        "tensorflow_recommenders_addons-0.3.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "rbv1l9D1ruSfQIMc3e1QJcYrZrsfo+K6MgJyfgzLaRU=",
+          "cp39"
         ]
       }
     }
