@@ -4273,6 +4273,32 @@
       }
     }
   },
+  "auto-checker": {
+    "1.0.0": {
+      "sdist": [
+        "8cLcQkpBDuEgJXhUOJJcULG8kx6/86FuRsnq30gd1vI=",
+        "auto_checker-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "auto_checker-1.0.0-py3-none-any.whl": [
+          "pgkffuIkAEBZIQUVjVEvQEvRCqjM6Q/MtF5BQJH3Q24=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "zcKVf2tMlrvxXqPILdT4bBQ7sG3CdwBhneAAzY3/qb8=",
+        "auto_checker-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "auto_checker-1.0.1-py3-none-any.whl": [
+          "O7VdioRz120dbxtkbB0HcCL8vz4vkgL6cpHOWzuRqkY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "autobots": {
     "0.0.1": {
       "sdist": [
@@ -5542,6 +5568,18 @@
       "wheels": {
         "azure_messaging_webpubsubservice-1.0.0b1-py2.py3-none-any.whl": [
           "sN4rZyk/IWm9LzqNpeVO0eb0+VmXsjvfnlH8Utz3n5s=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.0b2": {
+      "sdist": [
+        "pG1pLT/9FVDmsc2s9yMV9VWiRB2hIN2i2bbQoH8Ymw4=",
+        "azure-messaging-webpubsubservice-1.0.0b2.zip"
+      ],
+      "wheels": {
+        "azure_messaging_webpubsubservice-1.0.0b2-py2.py3-none-any.whl": [
+          "ZM9t8ysX/Z63ZsBtqasDqFeqxsAr1v/nftuP4dddimo=",
           "py2.py3"
         ]
       }
@@ -29526,6 +29564,12 @@
         "fvcore-0.1.5.post20210924.tar.gz"
       ]
     },
+    "0.1.5.post20211015": {
+      "sdist": [
+        "mRpSO9SQV3iQjz0Pp8jpzg1/er4N4nNsYTCmqbi8HeY=",
+        "fvcore-0.1.5.post20211015.tar.gz"
+      ]
+    },
     "0.1.dev191230": {
       "sdist": [
         "fAR4MT17jqqdench118ePLxUUjjLnzOceQEhW18kfwM=",
@@ -43260,6 +43304,118 @@
         ],
         "leidenalg-0.8.7-pp37-pypy37_pp73-win32.whl": [
           "OKLCnyLKWRCWX+L0b+f5SKhm/RtY3llpM8cCwva215c=",
+          "pp37"
+        ]
+      }
+    },
+    "0.8.8": {
+      "sdist": [
+        "EnUPZtHwyE7USE+olanVoWPi9LYR7bEq0JzGYSBlTfM=",
+        "leidenalg-0.8.8.tar.gz"
+      ],
+      "wheels": {
+        "leidenalg-0.8.8-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "7T4PdZVnY4uSthLmWVDsGlveHnnImcDOmAS7OiWmm2w=",
+          "cp36"
+        ],
+        "leidenalg-0.8.8-cp36-cp36m-manylinux2010_i686.whl": [
+          "/FwmV/yCF8wMwtDhiKqK2lNYVOZ+LWCxsqSloU2B5MI=",
+          "cp36"
+        ],
+        "leidenalg-0.8.8-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "jVTgWAQ4u4cNtZcCeU5Ml3QfAJG3i0dx6Jic9iUQ+gc=",
+          "cp36"
+        ],
+        "leidenalg-0.8.8-cp36-cp36m-win32.whl": [
+          "Tzt6wUANihF6vk+h6VRiWOxYtJ6/GHCjWmu8xH6uS4c=",
+          "cp36"
+        ],
+        "leidenalg-0.8.8-cp36-cp36m-win_amd64.whl": [
+          "Qu8a9gNdeBsxF/EDZBeu0/8eljqmU5P1sWsdwizJ7yc=",
+          "cp36"
+        ],
+        "leidenalg-0.8.8-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "P9wGjK+LO46WeisHoILrX8nQDQDrImgcQF/m7i+BWik=",
+          "cp37"
+        ],
+        "leidenalg-0.8.8-cp37-cp37m-manylinux2010_i686.whl": [
+          "ewwGisGbYQXgljE1p7T5Jhpb457g1Duzu5amZoJnvo8=",
+          "cp37"
+        ],
+        "leidenalg-0.8.8-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "PWXYrGXCOD11AZrnC0J/aLpJG9n3V3EK5at/Eq0HvBU=",
+          "cp37"
+        ],
+        "leidenalg-0.8.8-cp37-cp37m-win32.whl": [
+          "kt5XrhhODEedKGhoQTZF0P6l6Bz46U5aSDA5/JxgG74=",
+          "cp37"
+        ],
+        "leidenalg-0.8.8-cp37-cp37m-win_amd64.whl": [
+          "zBXwKunnTiB+qyxMX4h3tGbqg7ix8XGWg4OAQ02oA/w=",
+          "cp37"
+        ],
+        "leidenalg-0.8.8-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "J97rQjqnDdrGjKVDFyEeq1ykYVNkr9BGCD1mwWA5O68=",
+          "cp38"
+        ],
+        "leidenalg-0.8.8-cp38-cp38-manylinux2010_i686.whl": [
+          "/CBu+TV4SA35fxJK6L5uk9eWuk1u/tdE9Q3f2rzqNUQ=",
+          "cp38"
+        ],
+        "leidenalg-0.8.8-cp38-cp38-manylinux2010_x86_64.whl": [
+          "dPTfN7dT908L4XxymdWvNYxu9BzJj27DgyRkARBL1Ck=",
+          "cp38"
+        ],
+        "leidenalg-0.8.8-cp38-cp38-win32.whl": [
+          "ceftcS8lGijZWZJ2dyCRTH+yuRh2xcB2+QtD0G28Tk0=",
+          "cp38"
+        ],
+        "leidenalg-0.8.8-cp38-cp38-win_amd64.whl": [
+          "jUKCV0LEVHi9FQNZE4hFNGWxR3zxRKICRVfrAuFgrhI=",
+          "cp38"
+        ],
+        "leidenalg-0.8.8-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "TvrvfAR45EVZtTeaT7bZky084O8Zjs1RA680rOGrB/U=",
+          "cp39"
+        ],
+        "leidenalg-0.8.8-cp39-cp39-manylinux2010_i686.whl": [
+          "G9JXRMpLuxm2yke99QCcZnzgrxOeZI1UOaDSLrky9YQ=",
+          "cp39"
+        ],
+        "leidenalg-0.8.8-cp39-cp39-manylinux2010_x86_64.whl": [
+          "F32N8zxERLrkccopQQRQF7Ft1NjVyOQZ635SFnAuWXE=",
+          "cp39"
+        ],
+        "leidenalg-0.8.8-cp39-cp39-win32.whl": [
+          "AXYdZF5yMoQydkeIQQW/ECz/MD5KPIWD0RT/kA0xSX0=",
+          "cp39"
+        ],
+        "leidenalg-0.8.8-cp39-cp39-win_amd64.whl": [
+          "7kfudyBJPr4sLswa/K/MCa54NGMUx7EBuy0D312MwN8=",
+          "cp39"
+        ],
+        "leidenalg-0.8.8-pp36-pypy36_pp73-macosx_10_9_x86_64.whl": [
+          "o0gbFbKiE5U8m7uRtCpvQi2limJ+SmwOzUplEih47x0=",
+          "pp36"
+        ],
+        "leidenalg-0.8.8-pp36-pypy36_pp73-manylinux2010_x86_64.whl": [
+          "1gf6CU2Ua0QYLoaI+VAvhAa17TuL7tP743/FDtTl+H8=",
+          "pp36"
+        ],
+        "leidenalg-0.8.8-pp36-pypy36_pp73-win32.whl": [
+          "EBFLNsyqkvWm8ymyHpnRb7SeUGUsnK1O1kwQAGfB2bM=",
+          "pp36"
+        ],
+        "leidenalg-0.8.8-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "Wl9qPwA2dNm8jC1qgAiIy3NUNXjOqcb7onEp48GGYec=",
+          "pp37"
+        ],
+        "leidenalg-0.8.8-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "Y438b/OVR1xKgjb+VPk2rSSa45+TXvjt/utQF48j550=",
+          "pp37"
+        ],
+        "leidenalg-0.8.8-pp37-pypy37_pp73-win32.whl": [
+          "Zcp2l/wPp4WCg8BQaAiqW9BQunGHOcTNeZtin4vNcFA=",
           "pp37"
         ]
       }
@@ -63971,6 +64127,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "EJgXgQnBEij5W+G4Vui/qj0D+gDCfk8UJHdfKqFz3lQ=",
+        "polygon-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "polygon-0.6.0-py2.py3-none-any.whl": [
+          "TxM6wOCPg30N8KgbBnuGlAt/lxtI7KHtajHLbbogcJ8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pontoon": {
@@ -70190,6 +70358,18 @@
       "wheels": {
         "pymotif-0.0.5-py2.py3-none-any.whl": [
           "ZUWLXDwLfki/pg/MDGQ9mjaO2l5KfvpKQ1HjaSbNmxI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "nd4/7PNmhI4GnOnm9Tgb+CLTnqIkDhfsqd8BsZMpuFU=",
+        "pymotif-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "pymotif-0.0.6-py2.py3-none-any.whl": [
+          "UqfIc2sdjgPk8atEAkU+qbcOQCaxkSDbzVIOf04LHXk=",
           "py2.py3"
         ]
       }
@@ -95068,6 +95248,18 @@
       "wheels": {
         "robotframework-4.1.1rc1-py2.py3-none-any.whl": [
           "HWCY6Idlaq9+/VavIfGf4Vu9YJcXDWbQev6r3hrilJ8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "4.1.2": {
+      "sdist": [
+        "fqJFS4R8/LIR4pBnQ8XEqGirCWq0zhVHqxAtkfsiREM=",
+        "robotframework-4.1.2.zip"
+      ],
+      "wheels": {
+        "robotframework-4.1.2-py2.py3-none-any.whl": [
+          "ZEHHdPJ0rgIqGEFlKH2WenwbsMX5b/AAXwRo9Ml5+ys=",
           "py2.py3"
         ]
       }
