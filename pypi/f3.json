@@ -9622,6 +9622,18 @@
         ]
       }
     },
+    "0.1.119": {
+      "sdist": [
+        "jsQBIoQyL2p0EwS39q5MW0a4Uwxn8Snbg6jEDPrhsGc=",
+        "cdk-fargate-run-task-0.1.119.tar.gz"
+      ],
+      "wheels": {
+        "cdk_fargate_run_task-0.1.119-py3-none-any.whl": [
+          "tBIjumCW0+uUtWsI4fYRRYpwTGEPYp0ppVzaQpntXCM=",
+          "py3"
+        ]
+      }
+    },
     "0.1.12": {
       "sdist": [
         "vo7gKD25jjOMVdMAIHfcVVEwjUbTqhH3hpYPwOzCXm8=",
@@ -27498,6 +27510,10 @@
         "duckdb-0.3.1.dev294.tar.gz"
       ],
       "wheels": {
+        "duckdb-0.3.1.dev294-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "aNau84b+irx9/9nYHd/Z6KEYXcoFW4H0kbOlhhAvHjo=",
+          "cp36"
+        ],
         "duckdb-0.3.1.dev294-cp36-cp36m-manylinux_2_12_i686.manylinux2010_i686.whl": [
           "tL32XGJPNA3/2h3qAeK6ByJStg3+ZbqILtqjJ9IceXo=",
           "cp36"
@@ -27513,6 +27529,10 @@
         "duckdb-0.3.1.dev294-cp36-cp36m-win_amd64.whl": [
           "i7Bs3z+dt4kmz51eGFJbw5DtMhNE1UpKo56x/FpXR4g=",
           "cp36"
+        ],
+        "duckdb-0.3.1.dev294-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "ssCbIUuIm8Xm8OlCKstEvYBXMqcuvnLE2KGdxS0duL0=",
+          "cp37"
         ],
         "duckdb-0.3.1.dev294-cp37-cp37m-manylinux_2_12_i686.manylinux2010_i686.whl": [
           "2w9vD9NzsM2jTn8v2WWbxjE3WczckckAC/usPRFYYtI=",
@@ -27530,6 +27550,18 @@
           "bmHTAUHId/QA24U3blUnFnxelCAdM74BTwk5zeYRwdk=",
           "cp37"
         ],
+        "duckdb-0.3.1.dev294-cp38-cp38-macosx_10_9_universal2.whl": [
+          "bcqGd1tisNzt7H5WvighjJqdR4qUM/LCM9rdpHlIN78=",
+          "cp38"
+        ],
+        "duckdb-0.3.1.dev294-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "9o3t3LsoAMEsZOSjjX2k3LZNO4pgX5Xtx03UwNXpNNo=",
+          "cp38"
+        ],
+        "duckdb-0.3.1.dev294-cp38-cp38-macosx_11_0_arm64.whl": [
+          "etgqU+U6pOeNB44r+S7SjELKhff0tBwF8c3qamkHZc4=",
+          "cp38"
+        ],
         "duckdb-0.3.1.dev294-cp38-cp38-manylinux_2_12_i686.manylinux2010_i686.whl": [
           "h1prIyW4V+UhrMqow3oI0PrOgedLujTdlMpPEuIXcO0=",
           "cp38"
@@ -27545,6 +27577,18 @@
         "duckdb-0.3.1.dev294-cp38-cp38-win_amd64.whl": [
           "21WWRefnAISsCyLRKL0Lm28WaYd+xyZx51FkjQoedyc=",
           "cp38"
+        ],
+        "duckdb-0.3.1.dev294-cp39-cp39-macosx_10_9_universal2.whl": [
+          "epxQP8JvKBOpxchpy2FfldmCvBdv3/LYlj8ozgo/pHk=",
+          "cp39"
+        ],
+        "duckdb-0.3.1.dev294-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "nEAtusfhPkKSl7SD+/Og0HagOFAcPOVv5r4XP+ZXa+0=",
+          "cp39"
+        ],
+        "duckdb-0.3.1.dev294-cp39-cp39-macosx_11_0_arm64.whl": [
+          "mT4hmvYGfA7Kc/2gdOq2f9YUfFJZQc3p+NgfelyT3sk=",
+          "cp39"
         ],
         "duckdb-0.3.1.dev294-cp39-cp39-manylinux_2_12_i686.manylinux2010_i686.whl": [
           "8W7/D24+KjtCYZWRp9GwK2N+KuEYAr72a8AF+7zzhz4=",
@@ -33822,6 +33866,18 @@
       "wheels": {
         "fugue-0.6.3-py3-none-any.whl": [
           "E9O8kfHXR94b+PC06/Klf9RpYxtBhtwhOfT/tsSIncs=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.4.dev1": {
+      "sdist": [
+        "TCqHkyY8Yffps47Y54tXnGOKMJJJyDu7W/4Di6T+n9U=",
+        "fugue-0.6.4.dev1.tar.gz"
+      ],
+      "wheels": {
+        "fugue-0.6.4.dev1-py3-none-any.whl": [
+          "JsHvgAoH19z7yXdPcQBlmFNGf7rSQgMqAZeFXxwTUm0=",
           "py3"
         ]
       }
@@ -41642,14 +41698,14 @@
     }
   },
   "kbpdf": {
-    "1.0": {
+    "2.0": {
       "sdist": [
-        "kujfSPX1Y5zQX+0ioJZuHVr/KlyjHiYHKaCGnVRIk4A=",
-        "kbpdf-1.0.tar.gz"
+        "D97EXweuAI53vgjIR3381A9FWKTYJPsVb8rU6hpyWFA=",
+        "kbpdf-2.0.tar.gz"
       ],
       "wheels": {
-        "kbpdf-1.0-py3-none-any.whl": [
-          "GTWlhNwRCqW6k0sa4lFtIXM+NQx0y/OgYKJe3qj6XTM=",
+        "kbpdf-2.0-py3-none-any.whl": [
+          "IgAYz3smRhq9vy0CWzmhZMznbn7GKAH18C5aIi5YbCg=",
           "py3"
         ]
       }
@@ -57814,6 +57870,18 @@
       "wheels": {
         "opentelemetry_instrumentation_django-0.25b0-py3-none-any.whl": [
           "5PtxBsBIN3NVWgAoiwbLkm4X8hmwCqkIvmXvrjFteDI=",
+          "py3"
+        ]
+      }
+    },
+    "0.25b1": {
+      "sdist": [
+        "tCDrdXeB+8dJs0ndYIqsnkLfbu8iAj6aDKeKA5INbbw=",
+        "opentelemetry-instrumentation-django-0.25b1.tar.gz"
+      ],
+      "wheels": {
+        "opentelemetry_instrumentation_django-0.25b1-py3-none-any.whl": [
+          "8/1dEW6Jygu0UFgu0p0X/KTQKlzNTp0nX31RHig25VY=",
           "py3"
         ]
       }
@@ -79902,6 +79970,22 @@
         ]
       }
     },
+    "2.0.0.dev25": {
+      "wheels": {
+        "quantaxis-2.0.0.dev25-py3-none-any.whl": [
+          "fyZRo9zqQc82dZg3j5ttnuGm/t6SQr/RUiGCgjFVcBA=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0.dev26": {
+      "wheels": {
+        "quantaxis-2.0.0.dev26-py3-none-any.whl": [
+          "MNJqR4XTD0ay9x9V97eNXjmn5+B+fi6NCU10U+OC8kA=",
+          "py3"
+        ]
+      }
+    },
     "2.0.0.dev3": {
       "wheels": {
         "quantaxis-2.0.0.dev3-py3-none-any.whl": [
@@ -98140,6 +98224,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tem-3.0.504-py2.py3-none-any.whl": [
           "shBm1tlXSeAeMGLb29d5c9PeX5HiHfZ/m6VO2Sav6LY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.505": {
+      "sdist": [
+        "eVly4CdNduXRRdkPsDel2KJcxyj2svSzitLmEtaY/vs=",
+        "tencentcloud-sdk-python-tem-3.0.505.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tem-3.0.505-py2.py3-none-any.whl": [
+          "MHCRKTdGUYXP84KeWTsm7SPE717x3qLRmu5CIM/7F1E=",
           "py2.py3"
         ]
       }

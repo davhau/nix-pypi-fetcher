@@ -32628,6 +32628,18 @@
         ]
       }
     },
+    "0.50.6": {
+      "sdist": [
+        "jveetDvT8UpzWE5a27d5CuPgvtYiax1wuAv0Gwgx28c=",
+        "dbnd-redshift-0.50.6.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_redshift-0.50.6-py2.py3-none-any.whl": [
+          "aFZpeLB2HJb+bdUkXKWQjlZImvK0Rwy6AzvUauMpvDU=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.51.0": {
       "sdist": [
         "VKNIgKNvZN8SuLjbblSnNraNxCXR3qnUH3f75zQ6NMM=",
@@ -69420,6 +69432,18 @@
       "wheels": {
         "mypy_boto3_acm_pca-1.18.63-py3-none-any.whl": [
           "J6TptjjXBejPzW3asnQotH/qGQ29/nmLCS12smVHDdo=",
+          "py3"
+        ]
+      }
+    },
+    "1.18.64": {
+      "sdist": [
+        "wTMuxheMXIZekt/DlJPBVkaJ29y09geitk8vOkArLgA=",
+        "mypy-boto3-acm-pca-1.18.64.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_acm_pca-1.18.64-py3-none-any.whl": [
+          "3akFezfLKSFv/CUIspHxzFr0Ur8FUofclkoc1MT+ob0=",
           "py3"
         ]
       }
@@ -111525,6 +111549,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.505": {
+      "sdist": [
+        "uYww9ZbRFMFi0IQjAnmoKL6rmaJgbbJEUnhJar9hnCw=",
+        "tencentcloud-sdk-python-clb-3.0.505.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_clb-3.0.505-py2.py3-none-any.whl": [
+          "yhM0mR6EI4txdwI/NNRNzp6yMelD8vmpuaH6gG7Fzq4=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-partners": {
@@ -114563,6 +114599,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.505": {
+      "sdist": [
+        "joWhuHv7M6PU4maxV1dCNrZUsup2egRLIKQ+ilpN17w=",
+        "tencentcloud-sdk-python-partners-3.0.505.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_partners-3.0.505-py2.py3-none-any.whl": [
+          "TopZvFH2jBwSW7PtfzS2tywTTww1B07DCTGEuayytYw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-cpu": {
@@ -116630,6 +116678,58 @@
         ],
         "tiledb-0.10.2-cp39-cp39-win_amd64.whl": [
           "hTLfZju01EfUmlbmYAevgM6fr7pt92Q7iByfjogKph4=",
+          "cp39"
+        ]
+      }
+    },
+    "0.10.3": {
+      "sdist": [
+        "XRvtJWXqHss2LLApcjj71stP3Km0gmElCOPBkbHbcdc=",
+        "tiledb-0.10.3.tar.gz"
+      ],
+      "wheels": {
+        "tiledb-0.10.3-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "jSOk0JXEpvxW0HVvjD+oqxgwuGB4r7pO4+iLE99430Q=",
+          "cp36"
+        ],
+        "tiledb-0.10.3-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "PZwrqkHUBqr6zDn72g9OEzpCBxKXqA1gU2hYYAEUwgU=",
+          "cp36"
+        ],
+        "tiledb-0.10.3-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "tLEXdEccNsEosI54YDMSt/YBTQaPDm+nlM42z+zaT1g=",
+          "cp37"
+        ],
+        "tiledb-0.10.3-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "kTMHuBtEaYl9CfBcOd4ElIWS2A729ctWRQUVeuTjwhg=",
+          "cp37"
+        ],
+        "tiledb-0.10.3-cp37-cp37m-win_amd64.whl": [
+          "jKbv/+NBW5hvpWWFFZdaqJRluFKLIt4k+XasTWs9si4=",
+          "cp37"
+        ],
+        "tiledb-0.10.3-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "BzbO8Is8SoQ3TvPEaFqfsgywZszyjNIrPrPZFTV7VQE=",
+          "cp38"
+        ],
+        "tiledb-0.10.3-cp38-cp38-manylinux2010_x86_64.whl": [
+          "w3jGLpIviKkP4pLhwaTORFhX7Um1HQJeKuAOYzSbSjw=",
+          "cp38"
+        ],
+        "tiledb-0.10.3-cp38-cp38-win_amd64.whl": [
+          "6Ks46nB2kqpJghAdLpHWMaxIuOSbbgxeOS+SofBnzBQ=",
+          "cp38"
+        ],
+        "tiledb-0.10.3-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "b+6O2XEw5j7DbYlQuaVy15rEK/VMB5g00sjhprpiQFk=",
+          "cp39"
+        ],
+        "tiledb-0.10.3-cp39-cp39-manylinux2010_x86_64.whl": [
+          "D6hzgSFduoQZ20FmtaHExiqWInUJjwIW9Nnj7Jd3vxk=",
+          "cp39"
+        ],
+        "tiledb-0.10.3-cp39-cp39-win_amd64.whl": [
+          "u/QG2wtBYD6SVXejgHsoqq0sqGCS2veQ8E2PqCWseOs=",
           "cp39"
         ]
       }
@@ -123352,6 +123452,18 @@
       "wheels": {
         "tmnt_cu101-0.7.0b20211017-py3-none-any.whl": [
           "E0S578CMuVX1Br2zOrIuS82nfz4JMRaE0eORWDMxdw0=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0b20211018": {
+      "sdist": [
+        "nDp5l1YMCwBbelgHhnQ1sLJFYspX5HPbjIQe3qKvWNI=",
+        "tmnt-cu101-0.7.0b20211018.tar.gz"
+      ],
+      "wheels": {
+        "tmnt_cu101-0.7.0b20211018-py3-none-any.whl": [
+          "gA68/ijSscPEbVcd7HWX6dpGrj2/TgjjdOQcDeaZ5dw=",
           "py3"
         ]
       }
