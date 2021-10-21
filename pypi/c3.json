@@ -29243,6 +29243,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.2": {
+      "sdist": [
+        "1f6vE3OSg66uydRMDrgOpMS9LA+Lw7sI4KGUoohARkA=",
+        "etc_jupyterlab_telemetry_coursera-3.0.2.tar.gz"
+      ],
+      "wheels": {
+        "etc_jupyterlab_telemetry_coursera-3.0.2-py3-none-any.whl": [
+          "VTgekWszPBr2n6FHyPzaFdHPHVdhWsMJ+XiN9Z/wbcE=",
+          "py3"
+        ]
+      }
     }
   },
   "etcd": {
@@ -35015,6 +35027,32 @@
         "6876CIjlK6HNMQPRIW8aK7vVGjaZIFGL2ZRg9WS2FLM=",
         "grec-0.2.0.tar.gz"
       ]
+    }
+  },
+  "grgrlib": {
+    "0.0.1": {
+      "sdist": [
+        "6JOsu4JCBvrZSyvObozGuUtBzb17hFTBOCnLH/Q5kl0=",
+        "grgrlib-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "grgrlib-0.0.1-py3-none-any.whl": [
+          "GBsZYzxNAon2ZegIPmNxkyG1d3kIw4QIkL29y6xG0cs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "1WD7wODnG32Z0ixuzuiEhHXtumDqvLmsh979CMC92vo=",
+        "grgrlib-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "grgrlib-0.0.2-py3-none-any.whl": [
+          "h1tf/NRJoFr/rK3yIx5+xDWgWlpQZDsftcDqtWESJ6I=",
+          "py3"
+        ]
+      }
     }
   },
   "grim-gausbin-dist": {
@@ -71390,9 +71428,17 @@
           "ltn5Vkz6b9kvN7eL6i5cSqkdGJtNGSqAuYIzsErSZ3E=",
           "cp36"
         ],
+        "openturns-1.18rc1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "W0g3QVJFbXf3iHC2tf97US2ndQ3Zay3sCrdhoJHZCxA=",
+          "cp37"
+        ],
         "openturns-1.18rc1-cp37-cp37m-win_amd64.whl": [
           "+vXdneotPDqtsP7wltJoMC3fwy5tpoVF6S6AfwwJg7Y=",
           "cp37"
+        ],
+        "openturns-1.18rc1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "5Yj9W6SPBjYaJwu6JPk6EaiM0ilc83p0pv1MO/T0hMk=",
+          "cp38"
         ],
         "openturns-1.18rc1-cp38-cp38-manylinux1_x86_64.manylinux_2_5_x86_64.whl": [
           "9aSYDcCkyN/1ANjfPGIq5olUVTQbkvfWdCO0U4JbBEw=",
@@ -71402,8 +71448,52 @@
           "64bXw5bpZspV3QKHpF2WDTxidgsOkgGf7nam0BdIV6E=",
           "cp38"
         ],
+        "openturns-1.18rc1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "zoqSX/ZLuHclVJ1xZOWbfo9jSTvUd3kttcPG20krA84=",
+          "cp39"
+        ],
         "openturns-1.18rc1-cp39-cp39-win_amd64.whl": [
           "AoGsQr5q6O5/4qhb6tau81bPXZdfwmshQzC50djvtRU=",
+          "cp39"
+        ]
+      }
+    },
+    "1.18rc1.post1": {
+      "wheels": {
+        "openturns-1.18rc1.post1-cp36-cp36m-manylinux1_x86_64.manylinux_2_5_x86_64.whl": [
+          "yJIhkkNU+VV9qZeQ7TuPQeYht+rlJ8yZQJWpGfx7HQ8=",
+          "cp36"
+        ],
+        "openturns-1.18rc1.post1-cp37-cp37m-manylinux1_x86_64.manylinux_2_5_x86_64.whl": [
+          "FrEmJMTbEVOrjXpQ2heXYY0KsZ42Dj6yxcjrQAU8O/4=",
+          "cp37"
+        ],
+        "openturns-1.18rc1.post1-cp38-cp38-manylinux1_x86_64.manylinux_2_5_x86_64.whl": [
+          "1ZBDAexzcalyPK85nEoV7BYeWbnwGCraTwm4YGCKwac=",
+          "cp38"
+        ],
+        "openturns-1.18rc1.post1-cp39-cp39-manylinux1_x86_64.manylinux_2_5_x86_64.whl": [
+          "7Ls20/FbBgaYq5QWtXQdASa2LJuWclgOui57W21NHiQ=",
+          "cp39"
+        ]
+      }
+    },
+    "1.18rc1.post2": {
+      "wheels": {
+        "openturns-1.18rc1.post2-cp36-cp36m-manylinux1_x86_64.manylinux_2_5_x86_64.whl": [
+          "wagPg8J/8l+PuV6yFa4zaqEcWjmuPoE65q8FyOSodBU=",
+          "cp36"
+        ],
+        "openturns-1.18rc1.post2-cp37-cp37m-manylinux1_x86_64.manylinux_2_5_x86_64.whl": [
+          "GX3fbd2HlFPeIWfV3IZcZ8eqhuDizwGKJ4BoEHKu9pk=",
+          "cp37"
+        ],
+        "openturns-1.18rc1.post2-cp38-cp38-manylinux1_x86_64.manylinux_2_5_x86_64.whl": [
+          "vDwn8vlLdlF6ggro2FW/nAf07ZG7+AtPgM8KLVAYnxk=",
+          "cp38"
+        ],
+        "openturns-1.18rc1.post2-cp39-cp39-manylinux1_x86_64.manylinux_2_5_x86_64.whl": [
+          "EmyqJ8GtNP/U4ukA1zqp7pwb+6F6jTVHR+5XIzdzov0=",
           "cp39"
         ]
       }
@@ -92442,6 +92532,12 @@
       "sdist": [
         "m5oU61QgcgDnLFT5u2vivtv4PUoEeHxbm6Lp2OqjAaA=",
         "Shouzheng_billions-0.1.15.tar.gz"
+      ]
+    },
+    "0.1.16": {
+      "sdist": [
+        "rNzT47eEon+bzgaPkjErSjRwaSy81lh/ww4+c222uz0=",
+        "Shouzheng_billions-0.1.16.tar.gz"
       ]
     },
     "0.1.2": {

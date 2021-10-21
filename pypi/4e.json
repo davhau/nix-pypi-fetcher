@@ -1060,6 +1060,12 @@
         "Adafruit-PlatformDetect-3.16.0.tar.gz"
       ]
     },
+    "3.16.1": {
+      "sdist": [
+        "09EzoV+212Nj3abhfS82tRE+KDJQT/tujUtmuo2h2Wk=",
+        "Adafruit-PlatformDetect-3.16.1.tar.gz"
+      ]
+    },
     "3.2.0": {
       "sdist": [
         "oUxkKx9oSeV7XEQugegJyeHjoLz+v9VLFan5/Sc/lhE=",
@@ -39077,6 +39083,26 @@
       ]
     }
   },
+  "gossh-python": {
+    "0.9": {
+      "sdist": [
+        "zk+1VZl+OKsOnZCUum6PjlH49pkpnUAIFh6Syx+6kEM=",
+        "gossh-python-0.9.tar.gz"
+      ]
+    },
+    "0.91": {
+      "sdist": [
+        "DtN0UJcjb3nqKsPUW8qNToAy+vF8U+H9q1Cmgt1cRvc=",
+        "gossh-python-0.91.tar.gz"
+      ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "JeIzFF5DzQVLqCh4XqmEKncBLT4Qlx19CPfU3B8IrX4=",
+        "gossh-python-1.0.0.tar.gz"
+      ]
+    }
+  },
   "govlab-static-tools": {
     "0.1": {
       "sdist": [
@@ -46759,6 +46785,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.1.dev20211020": {
+      "sdist": [
+        "HqY8WpBrlJsBDnx2Ajyrhg4RDQufPyIDyE6NNUN2pT0=",
+        "jetpack-io-0.5.1.dev20211020.tar.gz"
+      ],
+      "wheels": {
+        "jetpack_io-0.5.1.dev20211020-py3-none-any.whl": [
+          "QfLLox6ZgNg823hOWNFqSny/wEhDUZgRTyH0Xc4FzvI=",
+          "py3"
+        ]
+      }
     }
   },
   "jh-utils": {
@@ -47334,6 +47372,86 @@
         ],
         "jkq.qcec-1.10.0-cp39-cp39-win_amd64.whl": [
           "ZIG0LjPc4G19XEnDa8hKLUkrJXWF+6n3YBGrM+1iORY=",
+          "cp39"
+        ]
+      }
+    },
+    "1.10.1": {
+      "sdist": [
+        "T37Lv8g7xwhwuxfpSLDFUVMZ8m3teU43PCZ92xvcvb4=",
+        "jkq.qcec-1.10.1.tar.gz"
+      ],
+      "wheels": {
+        "jkq.qcec-1.10.1-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "xU9RAr9gTjl+hl0JZpnPRUuSzFRR3pZiEV8pW0wTAvY=",
+          "cp310"
+        ],
+        "jkq.qcec-1.10.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "7seckgHdhkXI/7+wEUi6WgCMh4SyNBRoioWvs88k8zU=",
+          "cp310"
+        ],
+        "jkq.qcec-1.10.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YIXeB5Xh2WxC9Q4BMxCYtnEd0ea21nu/Dc2EScwa++o=",
+          "cp310"
+        ],
+        "jkq.qcec-1.10.1-cp310-cp310-win_amd64.whl": [
+          "Nt98iU/iQz6crQWmGykWeGKaiFnkUWGYeeQOaspaBlM=",
+          "cp310"
+        ],
+        "jkq.qcec-1.10.1-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "HLbnXLsT3mrPHqhVUzcgqfvH9QSDqDIeWcp7+4rBtrg=",
+          "cp36"
+        ],
+        "jkq.qcec-1.10.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sWr6gzy2jSg+AY630HxLIxz7cq7Eja0i6+G/yuUy3kQ=",
+          "cp36"
+        ],
+        "jkq.qcec-1.10.1-cp36-cp36m-win_amd64.whl": [
+          "1OSU4/EPjVI0WPC78ADR75tbp/INamu4R96gf7Jb4nY=",
+          "cp36"
+        ],
+        "jkq.qcec-1.10.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "HlH3/3KJnyeaNAkNr1mRX6JFUtmb3UNGJSzk4ngoxTM=",
+          "cp37"
+        ],
+        "jkq.qcec-1.10.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XIHYjoaIk03MeeJit+uz/T2hwOFkCllAn7PNNwQC3fc=",
+          "cp37"
+        ],
+        "jkq.qcec-1.10.1-cp37-cp37m-win_amd64.whl": [
+          "k+iX4+nk4BYLg+kWF9AGqrCJrJsmGCKU+ngPSThkcYc=",
+          "cp37"
+        ],
+        "jkq.qcec-1.10.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "UfDAJOUAWf4OaPVwLiOPpR3IL8/QSivZpjcit2FqhkM=",
+          "cp38"
+        ],
+        "jkq.qcec-1.10.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "8cSfMXN3+nXPgP69pCR27hI0h+WGcDjtKlWIGxx8UnA=",
+          "cp38"
+        ],
+        "jkq.qcec-1.10.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "a+/N8Szq2hO0bu0CGJQWzVnNmIOE5WQFxsJ4N8rjdlc=",
+          "cp38"
+        ],
+        "jkq.qcec-1.10.1-cp38-cp38-win_amd64.whl": [
+          "LqDluKmGoCb+PmtI+FJgk1RunD2f+08/uE9eCB34nxc=",
+          "cp38"
+        ],
+        "jkq.qcec-1.10.1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "1WU9/Fhtwnis7yfqh8T5WBEjeqNyxFV6afeJhEc1rXs=",
+          "cp39"
+        ],
+        "jkq.qcec-1.10.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "WZhztiaHlk/4JJOtsVKEAHL7NrZDKfxwV9buA2Vp0DA=",
+          "cp39"
+        ],
+        "jkq.qcec-1.10.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "F9SKkz7XJBsLJxdU+lvXhPonAKFxsBH2Xf1vRSSZguw=",
+          "cp39"
+        ],
+        "jkq.qcec-1.10.1-cp39-cp39-win_amd64.whl": [
+          "wVLlMpJ3O5eppEw9mlZlwC/jLjijvYCnB22LCRo5Kyo=",
           "cp39"
         ]
       }
@@ -55922,6 +56040,18 @@
       "sdist": [
         "H2brXBr3QTrKpeORPi6cuj+fB1RQRjilhHcX9pcHvOI=",
         "msdss-base-dotenv-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "stBGspnrRvUdzofW4qGchY4yQr2e0wTyaZVSwUdEM5g=",
+        "msdss-base-dotenv-0.0.2.tar.gz"
+      ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "qgB+5rAXG7xMvYddmsR9h3ljRebvc79HeVZzfGaU59Q=",
+        "msdss-base-dotenv-0.1.0.tar.gz"
       ]
     }
   },
@@ -68288,6 +68418,18 @@
       "wheels": {
         "piicodev-0.0.11-py3-none-any.whl": [
           "G9LeFusMMekjady4EBBb39F0tgKcJH3qlj98lRAahU8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.12": {
+      "sdist": [
+        "A3FZ/BNxkfLefcBMPVyhyPYng3RXlbeHcZKaofpYCpo=",
+        "piicodev-0.0.12.tar.gz"
+      ],
+      "wheels": {
+        "piicodev-0.0.12-py3-none-any.whl": [
+          "wLkE5f21dwmLgydHyf16eCGa0/pbLY5oyJ2hwE5ZiyM=",
           "py3"
         ]
       }
@@ -94841,6 +94983,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.507": {
+      "sdist": [
+        "h7ZR3/U5//+bCqupB/BQTkmON15Z75rXo2tITZS4efQ=",
+        "tencentcloud-sdk-python-memcached-3.0.507.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_memcached-3.0.507-py2.py3-none-any.whl": [
+          "BKjW8YwEPj5bk8mqZZI49WN5A63fItlbMl9CTQnxB3I=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tennyson": {
@@ -98828,6 +98982,14 @@
       "wheels": {
         "tf_hub_nightly-0.13.0.dev202110200012-py2.py3-none-any.whl": [
           "+TtEWqNDy0+Y7pm7xZ2IEHnNxpMGbM6NIaKVc6qSX+Q=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.13.0.dev202110210014": {
+      "wheels": {
+        "tf_hub_nightly-0.13.0.dev202110210014-py2.py3-none-any.whl": [
+          "fL9aivgDVZRHby7yMoX9CvAXd/7kKhm4XupW8Rm+lbU=",
           "py2.py3"
         ]
       }
