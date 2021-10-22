@@ -5574,6 +5574,18 @@
         ]
       }
     },
+    "2.0.0rc25": {
+      "sdist": [
+        "iqmxORDGQ27mG/9f82PBWfvFKJY9XPrix+JMIjooXVw=",
+        "aws-cdk-lib-2.0.0rc25.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk_lib-2.0.0rc25-py3-none-any.whl": [
+          "KFlAfwg0MstWJyZj//qrG/Zd1D/OYgrL70Vj1WBHQPY=",
+          "py3"
+        ]
+      }
+    },
     "2.0.0rc3": {
       "sdist": [
         "vK6w5hoo7BmkHsvWs/4imebgEgQVEmpD3Sq0Cg0il5E=",
@@ -40588,6 +40600,18 @@
         "exp10it-2.7.81.tar.gz"
       ]
     },
+    "2.7.82": {
+      "sdist": [
+        "bkFZymvyZ4YrZhNYzChbPI8gULiaNkB5XRfs440FtaY=",
+        "exp10it-2.7.82.tar.gz"
+      ]
+    },
+    "2.7.83": {
+      "sdist": [
+        "nZo4J4Oq4zN/K7c/N42F3sr33oQ+TnY++OTWHuHA1GA=",
+        "exp10it-2.7.83.tar.gz"
+      ]
+    },
     "2.7.9": {
       "sdist": [
         "4gpTyxfMgFZ2Kw24PWVAn3Viwxmd3mH3jzfyPWNVn78=",
@@ -63119,6 +63143,18 @@
           "py3"
         ]
       }
+    },
+    "1.19.1.post1": {
+      "sdist": [
+        "TrclG53NtystaqmL8Yjc3I56a6KJa2LLp5UqRFw/5MQ=",
+        "mypy-boto3-lookoutmetrics-1.19.1.post1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lookoutmetrics-1.19.1.post1-py3-none-any.whl": [
+          "UAaRcqSQTMWjJSGL/O5e8IaWLJPb8b3IQmywJZIeGAY=",
+          "py3"
+        ]
+      }
     }
   },
   "mysqlsimplequerybuilder": {
@@ -78515,6 +78551,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.1": {
+      "sdist": [
+        "K/ur8OwsXEro1kQ/A6R/TM3Ypn1lCUQlDDEcb0kyE9k=",
+        "pyCubes-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pyCubes-0.1.1-py3-none-any.whl": [
+          "Zbs2ET91ZUbJPhtGFk1v57TFa84Df6LygnAXxzVQY+w=",
+          "py3"
+        ]
+      }
     }
   },
   "pycustomfocus": {
@@ -84365,6 +84413,26 @@
           "py3"
         ]
       }
+    }
+  },
+  "pyvcgencmd": {
+    "0.0.1": {
+      "sdist": [
+        "LswiQM7Y/nk7Jr2mwlCXJ8W+AwrOPLcDZO0OnOFxiZA=",
+        "pyvcgencmd-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "0my5V6TrF6NqhNKqdNID/WCVLsep85PRfq1RTZ/r8AY=",
+        "pyvcgencmd-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "f7E+N51rxg6nAqSx+LiW5DF0TOtPUuim/gLGazsVhpE=",
+        "pyvcgencmd-0.0.3.tar.gz"
+      ]
     }
   },
   "pywinkrelayintercom": {
@@ -108438,6 +108506,34 @@
         ],
         "tf_nightly_cpu-2.8.0.dev20211021-cp39-cp39-win_amd64.whl": [
           "ZMlRufychRSJrLY2qjUROgQLKPtg+Hr9QAauVu8N8T8=",
+          "cp39"
+        ]
+      }
+    },
+    "2.8.0.dev20211022": {
+      "wheels": {
+        "tf_nightly_cpu-2.8.0.dev20211022-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "sXPGuAaop6lFzzqLuu+t+b4LSeCcbBr9Kv080HkqVKI=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211022-cp37-cp37m-win_amd64.whl": [
+          "M1GTy/UIY+NWVYzjo4VBhRb7nvLsQF8On7jULHcmtRQ=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211022-cp38-cp38-manylinux2010_x86_64.whl": [
+          "EiIgnzZlXs41stmvXydg8ynUXs/ElVwWnjEYgyKncb8=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211022-cp38-cp38-win_amd64.whl": [
+          "bR1YGmph78GPYvT3JhwvwkBMSrQxh/bO1Ha2i4o1LOo=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211022-cp39-cp39-manylinux2010_x86_64.whl": [
+          "4MjRo7FfJuwO09jYPMSduZD9sQy8mCG96SWdHF2jtUU=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211022-cp39-cp39-win_amd64.whl": [
+          "2f2Ijw6QCp31JiZBxZy9nhatwyEdFv5yyPL0u4nix2A=",
           "cp39"
         ]
       }
