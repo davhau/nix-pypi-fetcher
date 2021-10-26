@@ -10378,6 +10378,18 @@
         ]
       }
     },
+    "1.11.2b0": {
+      "sdist": [
+        "xg5CNjWQY4v3wBSl6YC2cwjjLy79G7RLqDiHyOeiz58=",
+        "blankly-1.11.2b0.tar.gz"
+      ],
+      "wheels": {
+        "blankly-1.11.2b0-py3-none-any.whl": [
+          "W0k7PuAZbF+7pvI8HKnODuOz5hcqPmrHLNR7rwhzkOs=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0b0": {
       "sdist": [
         "nJ/a96uvMz9nQo65q4+pz/k0DppX7+KPs0VfHW1uClM=",
@@ -46414,6 +46426,18 @@
       "wheels": {
         "leadguru_data-0.174.0-py3-none-any.whl": [
           "IubFh6bFGV/sa/ReVRGC5Ti3ryDW4XcCkL1bI5KN5TM=",
+          "py3"
+        ]
+      }
+    },
+    "0.175.0": {
+      "sdist": [
+        "uUvCRmBHOoc2hjM757Ft0MYOnJJqp6F1Wjda+be/VFk=",
+        "leadguru_data-0.175.0.tar.gz"
+      ],
+      "wheels": {
+        "leadguru_data-0.175.0-py3-none-any.whl": [
+          "yfkgpE01RbdjZfUeQzfPQPFeUTDcD5URblR2Bxu8/gY=",
           "py3"
         ]
       }
@@ -90421,6 +90445,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.1.1.dev20211025": {
+      "sdist": [
+        "BgHCPtZxdXQI7gGzv6E1KGVDg8UeXz75aNfnkh9ZqA0=",
+        "streamlit-nightly-1.1.1.dev20211025.tar.gz"
+      ],
+      "wheels": {
+        "streamlit_nightly-1.1.1.dev20211025-py2.py3-none-any.whl": [
+          "uLhSUa17DAratdt7cqjDkjZBHWqTXZQAX3CYKGp+OmI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "streamsx.mqtt": {
@@ -103264,6 +103300,42 @@
         ]
       }
     },
+    "8.13.0": {
+      "wheels": {
+        "xpress-8.13.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "ABW2ezG2benewFODyHJ7MyBt1zIa33fK8R7oJOhOO/E=",
+          "cp36"
+        ],
+        "xpress-8.13.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "aNoWykTRiB4ddomxA4A3CwsytMzGHLIB4Bf2PjiOoIc=",
+          "cp36"
+        ],
+        "xpress-8.13.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "tMUUrxloOaxskiA+ljIdhmbUnxzf5qqdTB2Zo2dGq9U=",
+          "cp37"
+        ],
+        "xpress-8.13.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "b2jY4Zr1/eTGY6rR5jR7imqh/41ly36Ey7t6aQ2UadU=",
+          "cp37"
+        ],
+        "xpress-8.13.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "GeScAz5qA52u1+wra1UiHBc/D8sdoVoZtO6EW7Gs0CU=",
+          "cp38"
+        ],
+        "xpress-8.13.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "nBBwT2mzOZYUur/yj2z1mIBCOn6JDRtuDJSIMDgg4CI=",
+          "cp38"
+        ],
+        "xpress-8.13.0-cp39-cp39-macosx_10_13_x86_64.whl": [
+          "z15JERw4zG5N8P9JLloMOJNcLWZVazIKVY05OYYdhEY=",
+          "cp39"
+        ],
+        "xpress-8.13.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "6MSqJFUzlp0swu7+/K0dv+7wLqftUrs5q7HzEdEh5ws=",
+          "cp39"
+        ]
+      }
+    },
     "8.5.13": {
       "wheels": {
         "xpress-8.5.13-cp27-cp27m-macosx_10_6_x86_64.whl": [
@@ -103388,70 +103460,6 @@
         ],
         "xpress-8.6.5-cp37-cp37m-win_amd64.whl": [
           "DEsS4W1S9DE9Non7x9MHIYzQylIHZD4wvOBIYXnhkvo=",
-          "cp37"
-        ]
-      }
-    },
-    "8.7.1": {
-      "wheels": {
-        "xpress-8.7.1-cp27-cp27m-macosx_10_6_x86_64.whl": [
-          "378WmCBr7sTar4ZTXipsPsubtd4i6tHYwGRkLbzh680=",
-          "cp27"
-        ],
-        "xpress-8.7.1-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "tDnlpEi+J0kfv+s8QQ4AReqn79mFxi5KJWozo7N9LDs=",
-          "cp27"
-        ],
-        "xpress-8.7.1-cp27-cp27m-win_amd64.whl": [
-          "vFBfWJhFWQda9dJ3ls1ZYk5f+YXSAluysY57JPK7So8=",
-          "cp27"
-        ],
-        "xpress-8.7.1-cp34-cp34m-macosx_10_6_x86_64.whl": [
-          "RbMj1RtHy2EUGh1uinQdkKPkxIwPwSc7n5fUSTaTxys=",
-          "cp34"
-        ],
-        "xpress-8.7.1-cp34-cp34m-manylinux1_x86_64.whl": [
-          "Ie5m8E48qVMvkIeCTWvlcVpeTli44rPo1dCDnRyQhJw=",
-          "cp34"
-        ],
-        "xpress-8.7.1-cp34-cp34m-win_amd64.whl": [
-          "qEGpwBvmj1PDWYgOg9gApVNqUOknOoVHiJ8D2aeJLEk=",
-          "cp34"
-        ],
-        "xpress-8.7.1-cp35-cp35m-macosx_10_6_x86_64.whl": [
-          "DRo9KM4wuhs6/jkKa+8JzAUoHEH2q7vDVPcXxF3pfGo=",
-          "cp35"
-        ],
-        "xpress-8.7.1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "eUQIMneYaVHFIXEgeQzGOq27FAX6ehurZKvj8n2SzF4=",
-          "cp35"
-        ],
-        "xpress-8.7.1-cp35-cp35m-win_amd64.whl": [
-          "pbBM7SNDyfSBBK7HBgQ2WQGohWXGLonOcjFhjxyqc7c=",
-          "cp35"
-        ],
-        "xpress-8.7.1-cp36-cp36m-macosx_10_7_x86_64.whl": [
-          "GrLl00VKsn+Y9p2dGnv+6O7Zt5SOfEKVrz7uRFVhl+U=",
-          "cp36"
-        ],
-        "xpress-8.7.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "vf73McrhlOSq3288sxmroaT9aqEOFsLFCkcVgj824ZU=",
-          "cp36"
-        ],
-        "xpress-8.7.1-cp36-cp36m-win_amd64.whl": [
-          "07V0pC+tZLu5aX6FQdtvS7LMZta8kE8kIHq7tYP1AEc=",
-          "cp36"
-        ],
-        "xpress-8.7.1-cp37-cp37m-macosx_10_7_x86_64.whl": [
-          "+yHz6WuRdsMTl4R4R9G0ENcPFf/YAGKpiYis7zjPUrM=",
-          "cp37"
-        ],
-        "xpress-8.7.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "S/+wR0pzcvZAMFRLTZAvj4KgmILK3q1z9Dd09slAxiw=",
-          "cp37"
-        ],
-        "xpress-8.7.1-cp37-cp37m-win_amd64.whl": [
-          "hXeZRUwt0YKMaa25IBBVNKpVdfhvSgqJE7HsP/VC2bQ=",
           "cp37"
         ]
       }
