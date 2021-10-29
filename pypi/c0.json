@@ -3327,6 +3327,12 @@
         "XIpa3t0bsDwwZsm0PAPtxxq/4B9n/tAzNZuETRV5q74=",
         "async4s-0.0.3.zip"
       ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "0DfGNFZrMR76I+GJqrY7GtghAAeTFHrv5C41CZhjSmo=",
+        "async4s-1.0.0.zip"
+      ]
     }
   },
   "asyncdef.interfaces": {
@@ -27706,6 +27712,18 @@
         ]
       }
     },
+    "1.59.54": {
+      "sdist": [
+        "+vfbKxwg7JjopEssn83pQdPbBFXaA3yG+i2////RFGg=",
+        "ccxt-1.59.54.tar.gz"
+      ],
+      "wheels": {
+        "ccxt-1.59.54-py2.py3-none-any.whl": [
+          "B7PKJ2BpeEz4fiqWgiG+298hcc6V2YVGBDTdzoMiqQs=",
+          "py2.py3"
+        ]
+      }
+    },
     "1.59.6": {
       "sdist": [
         "7yzYxCbgHcMUCZ5ThWkCdcNPZLRWy3KfkmVYCXMqZgA=",
@@ -32628,6 +32646,18 @@
       "wheels": {
         "cdktf-0.7.0.dev392-py3-none-any.whl": [
           "3pyiY9IHyeZ0YBZqYBVe6QhZFhIw4iIoSa4ArzCyA+g=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0.dev393": {
+      "sdist": [
+        "Uc5tqAGRNHxfI1d1jc7SO2i5rhdq2xx+e2gGzp+dJWE=",
+        "cdktf-0.7.0.dev393.tar.gz"
+      ],
+      "wheels": {
+        "cdktf-0.7.0.dev393-py3-none-any.whl": [
+          "MOMtR0zLGQpm7SFQdZlVyMlD1g0FfHn6kjAPJSsOmr4=",
           "py3"
         ]
       }
@@ -54308,6 +54338,14 @@
       "wheels": {
         "gdal_utils-3.3.2.0-py3-none-any.whl": [
           "XpmcriGjO//FC2oLyGLyPJo76u6fI2b0j9A6VCOM15s=",
+          "py3"
+        ]
+      }
+    },
+    "3.3.3.0": {
+      "wheels": {
+        "gdal_utils-3.3.3.0-py3-none-any.whl": [
+          "N5qHVoqmBWRgriiYjjYZh72t5ODfZD2+C8tcQSUwhZM=",
           "py3"
         ]
       }
@@ -77688,6 +77726,58 @@
         ],
         "itk_filtering-5.3rc1-cp39-cp39-win_amd64.whl": [
           "JY8M53gNxYTGhQbq0w+NomjStKY7VtZiBfqUbPb7b8c=",
+          "cp39"
+        ]
+      }
+    },
+    "5.3rc2": {
+      "wheels": {
+        "itk_filtering-5.3rc2-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "hMzcc6QSkx8gnf9HmD8U5bb8tJFS4LR6V5xYDup5ni4=",
+          "cp310"
+        ],
+        "itk_filtering-5.3rc2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Xf7C1yM0YB1HVYRo1AGUU0owQR7S87fRy7lEk49RYT0=",
+          "cp310"
+        ],
+        "itk_filtering-5.3rc2-cp310-cp310-win_amd64.whl": [
+          "Hj9MvkoKujTo1p1D3hndkHDd0t0PYP0n5K9AimxerkI=",
+          "cp310"
+        ],
+        "itk_filtering-5.3rc2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Ztxae4fDLyzF8GUCDJsUEUTypk0hwvVL87Xu2EfUnvE=",
+          "cp37"
+        ],
+        "itk_filtering-5.3rc2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "k3qr0IxysBjJfExOvTS0wY6FWNr6SJejiVvZwvZsYeE=",
+          "cp37"
+        ],
+        "itk_filtering-5.3rc2-cp37-cp37m-win_amd64.whl": [
+          "Z2TtfXY0J1WzkzvI5HqL4fT93Jj3Kg+TonsoM8hQRCw=",
+          "cp37"
+        ],
+        "itk_filtering-5.3rc2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "52qoTrdRW7NdI8VkaY+5aXM/FpWePnOGnzDd8hvjulM=",
+          "cp38"
+        ],
+        "itk_filtering-5.3rc2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IdqQ8Vt8bt4/Oeebb9TNDZ9xblrDy1xlLef7mZOfO5I=",
+          "cp38"
+        ],
+        "itk_filtering-5.3rc2-cp38-cp38-win_amd64.whl": [
+          "mu4MHPwsGo5NPYvlWnMQOc4y/zWiwOZVHX/JHYynihQ=",
+          "cp38"
+        ],
+        "itk_filtering-5.3rc2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "e68YeCqY/Siz5/ZV6M53DRMK25MdxdtvnnVCmUMOMrQ=",
+          "cp39"
+        ],
+        "itk_filtering-5.3rc2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LceJnhrpVK7x1R2FdxdhtRWyfVqGw/DzEtTWpcISNpM=",
+          "cp39"
+        ],
+        "itk_filtering-5.3rc2-cp39-cp39-win_amd64.whl": [
+          "+PgSDgxvS/3iJuvFImkj5CgFUw2SpRAh3UwJztOQd8g=",
           "cp39"
         ]
       }
@@ -105424,6 +105514,18 @@
       "wheels": {
         "PyRMQ-3.3.0-py3-none-any.whl": [
           "gQ58kwaH8ej0M+LAdLaMqtwLz8A2+hkSFdMmyJjfbjA=",
+          "py3"
+        ]
+      }
+    },
+    "3.4.0": {
+      "sdist": [
+        "Iti8gOScifR1yqsaOEvWYn+QVHqTn2VDCMunduxdhIo=",
+        "PyRMQ-3.4.0.tar.gz"
+      ],
+      "wheels": {
+        "PyRMQ-3.4.0-py3-none-any.whl": [
+          "d/khp0+5NvCZS27PuNVFVRqsVf3jKjIMAeSLJ73U6hM=",
           "py3"
         ]
       }
