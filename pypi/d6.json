@@ -17679,6 +17679,12 @@
         "+VaOBo86szZfhZ1WERyaTDcIEM/Ft8I5rMGjuixYBZw=",
         "cubacrypt-0.1.2.tar.gz"
       ]
+    },
+    "1.2": {
+      "sdist": [
+        "9hJK2kBi0qp9NdfIlst2+Z7nm2SQQpi7rZMLLOEf7qU=",
+        "cubacrypt-1.2.tar.gz"
+      ]
     }
   },
   "cubicweb-squareui": {
@@ -24504,6 +24510,36 @@
       "sdist": [
         "UdK1tcrLOBlfyc1xukHi2zklNa3FE2dKZqs5uz91naA=",
         "esp32ecp5-1.0.2.tar.gz"
+      ]
+    },
+    "1.0.3": {
+      "sdist": [
+        "RCJox4REWGP4JWS45LHFDZR5efYQh5oWj10eCtAGgZE=",
+        "esp32ecp5-1.0.3.tar.gz"
+      ]
+    },
+    "1.0.4": {
+      "sdist": [
+        "JlL4qdzvQkkotnIrc8620hUAhkJ7YvmZXSa1k3g0AUA=",
+        "esp32ecp5-1.0.4.tar.gz"
+      ]
+    },
+    "1.0.5": {
+      "sdist": [
+        "SbhTZbrVHebrX2E46TFcxse8TiSOpD6b2DZJlkaWYO4=",
+        "esp32ecp5-1.0.5.tar.gz"
+      ]
+    },
+    "1.0.6": {
+      "sdist": [
+        "LBC6qjh/1MN5vdP+Qd1nJZXgBmrdE5y//pJRNm01/F8=",
+        "esp32ecp5-1.0.6.tar.gz"
+      ]
+    },
+    "1.0.7": {
+      "sdist": [
+        "MBqlPqLACeLbSMJ7QLB9idjwYAyhyRjbEzJAIguCCOc=",
+        "esp32ecp5-1.0.7.tar.gz"
       ]
     }
   },
@@ -58143,6 +58179,18 @@
           "py3"
         ]
       }
+    },
+    "1.19.8": {
+      "sdist": [
+        "nlVwY6+Xw6oJ3VxVIvw3g/WmScMFaOr6ZEbzIY8wZhc=",
+        "mypy-boto3-storagegateway-1.19.8.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_storagegateway-1.19.8-py3-none-any.whl": [
+          "RbkoY2dDV9IfvA0gZsN+nLSr+1J/hStfFY9QUQefrKU=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-transcribe": {
@@ -63782,6 +63830,18 @@
       "wheels": {
         "mypy_boto3_transcribe-1.19.7-py3-none-any.whl": [
           "Pt1IXN5VGQg/HaSsucQPanCdxk5Gfy50WIqgWEEWv9g=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.8": {
+      "sdist": [
+        "RMTR4YnvKgRZMwzwk7GjrmVzI8xgJ6iktjsfNzkEzPw=",
+        "mypy-boto3-transcribe-1.19.8.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_transcribe-1.19.8-py3-none-any.whl": [
+          "HelWagcsvO+YVy33Q5qV9flGmm/wS7x0I1PrrCHLsOo=",
           "py3"
         ]
       }
@@ -69856,6 +69916,20 @@
       "wheels": {
         "pdb4all-0.4.9-py3-none-any.whl": [
           "JymwWNgtsBiuCwTJRUb2zrPxGkIsUwfWljtrgkmq168=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "pensando-dss": {
+    "1.29.0rc1": {
+      "sdist": [
+        "mU/yrBgZThmXTBbZkOHu+m6+lf/74O52KCx02DqavqA=",
+        "pensando_dss-1.29.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "pensando_dss-1.29.0rc1-py3-none-any.whl": [
+          "iOIh4m6X9K6nDymN9a7dnPlTiOPFERWfAUC6ffJ8HW0=",
           "py3"
         ]
       }
@@ -102180,94 +102254,10 @@
     }
   },
   "sphindexer": {
-    "0.1.0": {
-      "sdist": [
-        "3Xt+9/WYZ7T0s8EeSx/s/3/nG9g4ql0e92r5jBUPtSc=",
-        "sphindexer-0.1.0.tar.gz"
-      ]
-    },
-    "0.1.0.1": {
-      "sdist": [
-        "ymVbi1iwdlHhIRGjZZ/lMN0JDzZOJeaRCybwehVipiU=",
-        "sphindexer-0.1.0.1.tar.gz"
-      ]
-    },
-    "0.1.0.1rc1": {
-      "sdist": [
-        "tm4H0+wXw87yXXqdoCuVKwInrlv8tUdZguGd9Kg6htQ=",
-        "sphindexer-0.1.0.1rc1.tar.gz"
-      ]
-    },
-    "0.1.0.3": {
-      "sdist": [
-        "DfYBIAQVwli6wZInIq+SIXcItbZ7Jk2jsDX2wJ7RQlA=",
-        "sphindexer-0.1.0.3.tar.gz"
-      ]
-    },
-    "0.1.0.4": {
-      "sdist": [
-        "PW2KmdI4z4Og4zBJoJxFx5JG5JBK2HaNYxAmBJKRGVQ=",
-        "sphindexer-0.1.0.4.tar.gz"
-      ]
-    },
-    "0.1.0.7": {
-      "sdist": [
-        "37zqEpPxFR4jmTzCFWvEZLkCDQPhK9J2Hdh3ZullNEc=",
-        "sphindexer-0.1.0.7.tar.gz"
-      ]
-    },
-    "0.1.0b1": {
-      "sdist": [
-        "OQ2y5XQrLLQTP2dpVUatVYGpa6WIf/Rb9XLwbIUyojU=",
-        "sphindexer-0.1.0b1.tar.gz"
-      ]
-    },
-    "0.1.0rc1": {
-      "sdist": [
-        "wp8r6WqGPemSW6+msnGRYIxh1BKPUpvEdE8k0Bf/W5s=",
-        "sphindexer-0.1.0rc1.tar.gz"
-      ]
-    },
-    "0.1.1": {
-      "sdist": [
-        "SOlqtn0qRVmyYIPo/8euza9APQYx4aDikEPxPUrUf7o=",
-        "sphindexer-0.1.1.tar.gz"
-      ]
-    },
-    "0.1.2": {
-      "sdist": [
-        "GqXZqbusazdB/b0dC1z2yOz9g2gJ/k6lytYn7hSK5qQ=",
-        "sphindexer-0.1.2.tar.gz"
-      ]
-    },
-    "0.2.0": {
-      "sdist": [
-        "wW1lFhi6DJPZh3BWjSunzoA1JII9+4nMBdLWFMjAv7Q=",
-        "sphindexer-0.2.0.tar.gz"
-      ]
-    },
-    "0.2.1": {
-      "sdist": [
-        "5lowVJadI4O2wVL7HkmexxQN/1MyaevdBCTA/2IoQq0=",
-        "sphindexer-0.2.1.tar.gz"
-      ]
-    },
-    "0.2.2": {
-      "sdist": [
-        "TsG6xjeHlVoNjywij1GF5rV0D2oFHosu+E+owPEZ0dQ=",
-        "sphindexer-0.2.2.tar.gz"
-      ]
-    },
     "0.2.3": {
       "sdist": [
         "G3dyDnKSIQDK8PVMShgJoEpprx8uscnv5Inp3IxUpyk=",
         "sphindexer-0.2.3.tar.gz"
-      ]
-    },
-    "0.2.3b11": {
-      "sdist": [
-        "CaULEtkPQparx+yEKpOI8Ft276nqNe+gJKrPGurbfXw=",
-        "sphindexer-0.2.3b11.tar.gz"
       ]
     },
     "0.2.4": {
@@ -102352,6 +102342,12 @@
       "sdist": [
         "uxDUEUNwWWMeKDwx4sRCzeMyrxSsbVP013zYo7+6c3U=",
         "sphindexer-0.5.5.tar.gz"
+      ]
+    },
+    "0.6.0": {
+      "sdist": [
+        "S9nnp/qiwsbmnNCtm9vJ6Gh62jQBIJJ2Viyjfe1eoP4=",
+        "sphindexer-0.6.0.tar.gz"
       ]
     }
   },

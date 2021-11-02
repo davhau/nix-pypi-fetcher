@@ -1153,6 +1153,20 @@
       }
     }
   },
+  "anvilrl": {
+    "0.1.0": {
+      "sdist": [
+        "qWYVT5hKNIHod7OAzYt0DzbBKXALYFQ3IJ1qSU0aIHY=",
+        "anvilrl-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "anvilrl-0.1.0-py3-none-any.whl": [
+          "atTXRxP5PZrI8GYmlcW68BcxvJEU1B/jHcZWHAdt1A8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "apache-airflow-backport-providers-presto": {
     "2020.10.29": {
       "sdist": [
@@ -4403,6 +4417,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0rc2": {
+      "sdist": [
+        "+13uCy2OAxxMXGrZQKliixwst+iR5YmLtLeKwGxjUG0=",
+        "aws-solutions-constructs.aws-sns-lambda-2.0.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_sns_lambda-2.0.0rc2-py3-none-any.whl": [
+          "dE0P2HyFmuHv/uh2kgdWQVAhCFIhWYYodWTh4DdMZ/k=",
+          "py3"
+        ]
+      }
     }
   },
   "azdummy": {
@@ -5346,6 +5372,22 @@
         ]
       }
     },
+    "0.8.2.dev39": {
+      "wheels": {
+        "bagua_cuda102-0.8.2.dev39-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DcKB92jS3eGEfeDxPGzAts0MMU18h5sPEEEDqgb7NeA=",
+          "cp37"
+        ],
+        "bagua_cuda102-0.8.2.dev39-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dTzG3yKVMevYE/TWf4m2h2AL9wjrFeWynXXzIM0u/hA=",
+          "cp38"
+        ],
+        "bagua_cuda102-0.8.2.dev39-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "nYiHQZwEOeK2D8LFHfssqm0YPlArpMQ6z2HvSSmbwLk=",
+          "cp39"
+        ]
+      }
+    },
     "0.8.2.dev4": {
       "wheels": {
         "bagua_cuda102-0.8.2.dev4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -5358,6 +5400,54 @@
         ],
         "bagua_cuda102-0.8.2.dev4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "BFX8chBx5SqBoJYnSOaGMgwavGdDEg4Bb88sNq5aTDs=",
+          "cp39"
+        ]
+      }
+    },
+    "0.8.2.dev40": {
+      "wheels": {
+        "bagua_cuda102-0.8.2.dev40-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XhupnsmO4xWgcimgKZx7cVTUol07tyA5MqRjpG3TW2g=",
+          "cp37"
+        ],
+        "bagua_cuda102-0.8.2.dev40-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hPN63QZu/BEk1Djwa3KOttqk+eikBpfXBVxo78J05rU=",
+          "cp38"
+        ],
+        "bagua_cuda102-0.8.2.dev40-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9pJ3X4PaFz8XQYmKnmfUCDBW80Fvj0mZ3QnYqbzS4QE=",
+          "cp39"
+        ]
+      }
+    },
+    "0.8.2.dev42": {
+      "wheels": {
+        "bagua_cuda102-0.8.2.dev42-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qqMsX8V3EdpoPcatjDKWwMkEpvLA2U5uMvVhgl9lGg4=",
+          "cp37"
+        ],
+        "bagua_cuda102-0.8.2.dev42-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "i1Lwse/d431b/lut/L7mRpchoMIh0I5QX2KC9Pp6CeQ=",
+          "cp38"
+        ],
+        "bagua_cuda102-0.8.2.dev42-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YAY95DYGcDuUZ1HWkjf4qeGt3PqA4d2GXsFBZAm4QCA=",
+          "cp39"
+        ]
+      }
+    },
+    "0.8.2.dev43": {
+      "wheels": {
+        "bagua_cuda102-0.8.2.dev43-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8DrnLBqbUIde3MR3BJS769pW/OmlVlqL4CLgElDGl5E=",
+          "cp37"
+        ],
+        "bagua_cuda102-0.8.2.dev43-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "drvbKeDhki5hbOFHIev/9wCEG56Px/IX6Xjb4XaqFyI=",
+          "cp38"
+        ],
+        "bagua_cuda102-0.8.2.dev43-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "pDbYadNKmhPMd3Xrh1JEdwHkRCeSGtK5GMCtZi67a1w=",
           "cp39"
         ]
       }
@@ -18850,6 +18940,30 @@
         ]
       }
     },
+    "0.13.3": {
+      "sdist": [
+        "tadRZevUVv5OK+l4KrVqqB6nz1vNxc9P8MoxDmFxF5c=",
+        "dagster-pagerduty-0.13.3.tar.gz"
+      ],
+      "wheels": {
+        "dagster_pagerduty-0.13.3-py3-none-any.whl": [
+          "0a4gndU2EvztlPXfh2e8h6zHho1ALy77DsZ2dayfuIA=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.3rc0": {
+      "sdist": [
+        "bdAjajgUKyY1Wn7oKsUh8HJE9oV6HJLtEOaZcAnb484=",
+        "dagster-pagerduty-0.13.3rc0.tar.gz"
+      ],
+      "wheels": {
+        "dagster_pagerduty-0.13.3rc0-py3-none-any.whl": [
+          "/8OkqQaMvo29/ytugDYqDQ7G6x/sYclDY8VDMJ9UCqU=",
+          "py3"
+        ]
+      }
+    },
     "0.4.3": {
       "sdist": [
         "AYHrUET+1RWgcQWU0tnxnkQmC1PfpV11OfzVpjctY7A=",
@@ -21938,6 +22052,30 @@
       "wheels": {
         "dapr_dev-1.4.0rc1.dev630-py3-none-any.whl": [
           "h6S9ve7SRmJy7EgncX4NMr+g5cVSxEqBtMIcuWEpza8=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.0rc1.dev636": {
+      "sdist": [
+        "/rO0EUJ2tK6VooyyIQAcPM8QUQ4sPHCfG0HkyA/OXl0=",
+        "dapr-dev-1.4.0rc1.dev636.tar.gz"
+      ],
+      "wheels": {
+        "dapr_dev-1.4.0rc1.dev636-py3-none-any.whl": [
+          "C7DaB3KH5ufSxeKzF/y4b1msNoUMbH1lzm66KLiRxQc=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.0rc1.dev640": {
+      "sdist": [
+        "7BcNrLozWC1dzycgecQZildDu2nAtxxX4moPjTn4MTE=",
+        "dapr-dev-1.4.0rc1.dev640.tar.gz"
+      ],
+      "wheels": {
+        "dapr_dev-1.4.0rc1.dev640-py3-none-any.whl": [
+          "hAtlcVvdoVtBTX+NNheOeqVcNSmvLCDpgP6cOmVO978=",
           "py3"
         ]
       }
@@ -54065,6 +54203,18 @@
           "py3"
         ]
       }
+    },
+    "1.19.8": {
+      "sdist": [
+        "qSc+3g0Fd7xctKGfkjyAoEi8srskTc4+GF7r6BPmpyQ=",
+        "mypy-boto3-dax-1.19.8.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_dax-1.19.8-py3-none-any.whl": [
+          "73PJaMoUnlOMTA+QcpMulLe6YR6qL3YtyPGkclO34gY=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-qldb-session": {
@@ -59707,6 +59857,18 @@
           "py3"
         ]
       }
+    },
+    "1.19.8": {
+      "sdist": [
+        "9le84IPJ/0XxvX8YBQnyZRZ4mqOXh3NxkZMaSUJqK+Y=",
+        "mypy-boto3-qldb-session-1.19.8.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_qldb_session-1.19.8-py3-none-any.whl": [
+          "tmkXOWBcMYcIVH+z+z/HowTjKk49Ugx1dRQAQZf2P1E=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-workspaces": {
@@ -65342,6 +65504,18 @@
       "wheels": {
         "mypy_boto3_workspaces-1.19.7-py3-none-any.whl": [
           "j/ge6GAjiPElff9/RIyWTs2KvNAUBAuSJqhLYzg48ZQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.8": {
+      "sdist": [
+        "ucPjJ0IuRlgcFyhbTRQcBlc9ey/uZiqwEn85UjFmuOQ=",
+        "mypy-boto3-workspaces-1.19.8.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_workspaces-1.19.8-py3-none-any.whl": [
+          "rJXRwyYIDlU1dUcIIaHJlKwBhs/oyQLF0Lp7jgciE24=",
           "py3"
         ]
       }
@@ -100616,6 +100790,18 @@
       "wheels": {
         "veritastool-1.0.7-py3-none-any.whl": [
           "yeSS8ShZsETnzH9c6hnoF2mYKdkgTUak8DmEopyllJs=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "jutcToRkqPIVKf6sxMn3EGh/A47r8aVNsxJohLXyn6A=",
+        "veritastool-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "veritastool-1.0.8-py3-none-any.whl": [
+          "+TleO/QyJNV1ygmLzk0YUd95JWfQKsLH0vUNo5J+KNc=",
           "py3"
         ]
       }
