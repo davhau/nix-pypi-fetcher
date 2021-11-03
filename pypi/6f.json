@@ -22307,6 +22307,54 @@
         "cvxpy-1.1.16-cp38-cp38-win_amd64.whl": [
           "KtErCIF9qajOjkSxkCGaTDQ2hGM53fzxbsnDQTWob4o=",
           "cp38"
+        ],
+        "cvxpy-1.1.16-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "OWI4j+vP+AQ7wR2BnVR1Y6llpmpOIXG/232eM+8lBGk=",
+          "cp39"
+        ],
+        "cvxpy-1.1.16-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "u8JIOK/FjA3v6mfeyafpmlSQN5DRzM6EEp1zagV+GX8=",
+          "cp39"
+        ],
+        "cvxpy-1.1.16-cp39-cp39-win_amd64.whl": [
+          "vdJdXb6fEL6W2uzhz4ofkmnIE1K+pW3vBviOwxd4ur0=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.17": {
+      "wheels": {
+        "cvxpy-1.1.17-cp36-cp36m-manylinux_2_24_x86_64.whl": [
+          "ivaqrmWEcfBYVlVYRzY+aBQBafFkxbCxhOhbwpa2miA=",
+          "cp36"
+        ],
+        "cvxpy-1.1.17-cp36-cp36m-win_amd64.whl": [
+          "T+wLA8K5ldYZG5F29RsfH90FfInVtcoS70JjrRkhSgM=",
+          "cp36"
+        ],
+        "cvxpy-1.1.17-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "XSF8JelwwvKlXuYHgigj6RqqB1IpE/fGHH+dTQ0d6IU=",
+          "cp37"
+        ],
+        "cvxpy-1.1.17-cp37-cp37m-win_amd64.whl": [
+          "gmm/Rx9eAVzsYonfrWTl98UOfzXS0II0kKTD6iePGiA=",
+          "cp37"
+        ],
+        "cvxpy-1.1.17-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "RywftlaKe+3IdPELI01WnNFikPuUZ9wnaNBt+hwtvH8=",
+          "cp38"
+        ],
+        "cvxpy-1.1.17-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "BhNq8w0epgXKgJOoZk7cj5YxVah2UhSkMJcyWUULSJ4=",
+          "cp39"
+        ],
+        "cvxpy-1.1.17-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "6kOBxV3U98ChQKWd+nd8e7Cdb6UT0Up/U4GUjRVAuWY=",
+          "cp39"
+        ],
+        "cvxpy-1.1.17-cp39-cp39-win_amd64.whl": [
+          "zdnPuGS8rlIzpS+kBgu+t8gbKaI9gqyvoHHjcrI/bws=",
+          "cp39"
         ]
       }
     },
@@ -30978,41 +31026,113 @@
     }
   },
   "dp-xgboost": {
-    "0.0.2": {
+    "0.2.5": {
       "sdist": [
-        "1704/J542Mcg+XuczcTDZJWQyXnxot4l8PSQvry/S4E=",
-        "dp-xgboost-0.0.2.tar.gz"
+        "aQUmLBVWo5I7yHxSvDcNR3CMuGqOea/+FOPFjeysG+w=",
+        "dp-xgboost-0.2.5.tar.gz"
       ],
       "wheels": {
-        "dp_xgboost-0.0.2-cp38-cp38-macosx_11_0_x86_64.whl": [
-          "dTq1Thqt9eoBey8/Ep90Ca8LhSfY/IrWhmiHQCkCB9Q=",
+        "dp_xgboost-0.2.5-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "KYe3KTcETlOm/Ddw8HhwjvBxX6QfzFbJAdyso7R7PpI=",
+          "cp36"
+        ],
+        "dp_xgboost-0.2.5-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "krXrb9ZKn5I7qIJbGc6+pzr/rbP2Q3TVooTlKnml/oU=",
+          "cp37"
+        ]
+      }
+    },
+    "0.2.6": {
+      "wheels": {
+        "dp_xgboost-0.2.6-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "rw3oquRfrwH4qy48Fut8yVvGb2W4eNfLzh6utL+zpM0=",
+          "cp36"
+        ],
+        "dp_xgboost-0.2.6-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "NIU7pTlUNn/3yTYnMf9kJzPzek8GcMiCq+QDLvAAWHk=",
+          "cp37"
+        ]
+      }
+    },
+    "0.2.7": {
+      "sdist": [
+        "DmtWHEaPyW1bYL72g53aL+WS9yli6sDJG17oqmXtzgE=",
+        "dp-xgboost-0.2.7.tar.gz"
+      ],
+      "wheels": {
+        "dp_xgboost-0.2.7-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "AAcssrldTra/VnHoHzVEU+58Okac805RxPIUJ2+g5Lo=",
+          "cp36"
+        ],
+        "dp_xgboost-0.2.7-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "dLHDmALyzKk9k2XB3Tbg84iSay9XrwEmnrQiIqMhZw0=",
+          "cp36"
+        ],
+        "dp_xgboost-0.2.7-cp36-cp36m-win_amd64.whl": [
+          "Lu4MePV84yXtUcMFuKjZdnxzYu5XdzLat2QK/BHoCqw=",
+          "cp36"
+        ],
+        "dp_xgboost-0.2.7-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "8OSCBGXVPysVJ8ie5tB/XamPBx9izDgtnmOy9Fyzdmk=",
+          "cp37"
+        ],
+        "dp_xgboost-0.2.7-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "O1hc+YESL8/Qd29dRoFGJ47jUy/pMIpNx1pWmzpwC10=",
+          "cp37"
+        ],
+        "dp_xgboost-0.2.7-cp37-cp37m-win_amd64.whl": [
+          "W1+ACRntd2krvgeeDxlothQZmTp6Z+uaT5ZntJhYeUs=",
+          "cp37"
+        ],
+        "dp_xgboost-0.2.7-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "ZlrmsTXEgxiGWxQP74UlegJusC9EJures7B5ZH9xPOk=",
+          "cp38"
+        ],
+        "dp_xgboost-0.2.7-cp38-cp38-win_amd64.whl": [
+          "zJST65bkemA+bBCoi4rfk+aEgHO5jePar2ginx+aVAU=",
           "cp38"
         ]
       }
     },
-    "0.0.3": {
+    "0.2.8": {
       "sdist": [
-        "n177Ejm8HEg76w3vX3umTDmnOK7KhZgpi2EChvUzoU0=",
-        "dp-xgboost-0.0.3.tar.gz"
+        "D6QTTXJ8nHhHru+q2eU0ZgkUwJi6aZa+1fZt68AEAd0=",
+        "dp-xgboost-0.2.8.tar.gz"
       ],
       "wheels": {
-        "dp_xgboost-0.0.3-cp38-cp38-macosx_11_0_x86_64.whl": [
-          "6jXpv2L1DXo4f3j1Yj9FGor/z3UGsQ5ElQc1fmHgOYI=",
+        "dp_xgboost-0.2.8-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "cf3OsqFOcZE/4dc8ajmCz+mi5DNhx493HHgjfK0WxrI=",
+          "cp36"
+        ],
+        "dp_xgboost-0.2.8-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "wZUbxRUwvfJmYbKRB37PGMQv7K5NmBcdqPkjx4izjX8=",
+          "cp36"
+        ],
+        "dp_xgboost-0.2.8-cp36-cp36m-win_amd64.whl": [
+          "gpwm9EphY3WUh6SBS0+545fPROl0GiL03zhnGteIcoQ=",
+          "cp36"
+        ],
+        "dp_xgboost-0.2.8-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "z6I0Egey0ZJyhY9REl33xcPTnEHW2AHRLsStdn3NIjo=",
+          "cp37"
+        ],
+        "dp_xgboost-0.2.8-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "c0xWZs78HVB4XzoRy6bEqLzKOoa+7bHPA50SvzSkHAs=",
+          "cp37"
+        ],
+        "dp_xgboost-0.2.8-cp37-cp37m-win_amd64.whl": [
+          "0fkIUcw3dRhhkNKyAYZTSKBkU3WSYULssvyuoxljZtE=",
+          "cp37"
+        ],
+        "dp_xgboost-0.2.8-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "RSpcwfp4QQKMWoQ5iuMcVr+yFLDk02mn0dmMUXD/uo8=",
+          "cp38"
+        ],
+        "dp_xgboost-0.2.8-cp38-cp38-win_amd64.whl": [
+          "N7Fiq2cEPqIJjxquzb+3GVBcSyjmfBmLNotSzClapXM=",
           "cp38"
         ]
       }
-    },
-    "0.1.2": {
-      "sdist": [
-        "8sQV1LyBwEhyWIsKIFxRSnAgvtngO8lcX4Z5qpIb+mo=",
-        "dp-xgboost-0.1.2.tar.gz"
-      ]
-    },
-    "0.1.4": {
-      "sdist": [
-        "jplw4MCUfbrRsSY1gvNP6mz/yIjGDNzeL2tkGak3KJo=",
-        "dp-xgboost-0.1.4.tar.gz"
-      ]
     }
   },
   "drawsbml": {
@@ -32752,6 +32872,12 @@
       "sdist": [
         "+dfmO5QAJ7EH2D5vo6zMYhIIOjSE3NrLPCqfaDszkWA=",
         "ElMD-0.4.11.tar.gz"
+      ]
+    },
+    "0.4.12": {
+      "sdist": [
+        "cm3JLkktWvgAFkLoP+r9iv938qK31f+IGUF4614efGc=",
+        "ElMD-0.4.12.tar.gz"
       ]
     },
     "0.4.2": {
@@ -48234,6 +48360,12 @@
       "sdist": [
         "rMO9O0SmA9Daw/nZV9ktkKxeXpmrXiCM36NJysT2AOo=",
         "indice_pollution-0.22.3.tar.gz"
+      ]
+    },
+    "0.23.0": {
+      "sdist": [
+        "MHLGVIHZIgSYFT+ZgoBXwTPFHsbDUcvGWAgGBoRUo98=",
+        "indice_pollution-0.23.0.tar.gz"
       ]
     },
     "0.3.0": {
@@ -67860,6 +67992,18 @@
       "wheels": {
         "observ-0.7.1-py3-none-any.whl": [
           "MU11dvy0Je5TdDMurSscHkWQiiyNuUnaLDMBjQ8+m+g=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.2": {
+      "sdist": [
+        "Dun+rRXWN9JqCRbqrn5aicVpfLf+00B8Qc7TwP9XFqA=",
+        "observ-0.7.2.tar.gz"
+      ],
+      "wheels": {
+        "observ-0.7.2-py3-none-any.whl": [
+          "nklq3PbCfmhiZ3iLrq9Gp+eA4HiRZm8LFQ1H4yR/2qQ=",
           "py3"
         ]
       }
@@ -94344,6 +94488,18 @@
         ],
         "schema_salad-8.2.20211029004247-py3-none-any.whl": [
           "roKjH7qWe+mZWrZQaaK1n2MlMvv41NYXMEoJ8FFQL6o=",
+          "py3"
+        ]
+      }
+    },
+    "8.2.20211103155537": {
+      "sdist": [
+        "l/0AnNxZGifSQCE5LMu3beR2RfJ+MmJs0/aMMwLdwfQ=",
+        "schema-salad-8.2.20211103155537.tar.gz"
+      ],
+      "wheels": {
+        "schema_salad-8.2.20211103155537-py3-none-any.whl": [
+          "sNFcdZF0jDXqa5mj9oFoBpa1DoEQZQG2+cmM8PKdysE=",
           "py3"
         ]
       }

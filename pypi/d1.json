@@ -20778,6 +20778,18 @@
         ]
       }
     },
+    "0.51.5": {
+      "sdist": [
+        "x4oOPzzVbvHgsok0+4ERLn+1WyB84c7wZlNPUFwBAxs=",
+        "dbnd-airflow-versioned-dag-0.51.5.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow_versioned_dag-0.51.5-py2.py3-none-any.whl": [
+          "tayvAGE3yLFRF4L3O95Tz4bx0i6ShGMz6rEACjJhL/c=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.52.0": {
       "sdist": [
         "dVujGhB7GpbLZ+Kj9qEYpM8du9/KpSdRMOtzFhtdd+0=",
@@ -20798,6 +20810,18 @@
       "wheels": {
         "dbnd_airflow_versioned_dag-0.52.1-py2.py3-none-any.whl": [
           "frj93oijBdXUq84Z3UANUH5L+RIvcctzGI6s+eCi+zE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.52.2": {
+      "sdist": [
+        "0pIGiZhi4KU62ulnoUy2tsFZG63CQGY0T+7YMAkkYs4=",
+        "dbnd-airflow-versioned-dag-0.52.2.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow_versioned_dag-0.52.2-py2.py3-none-any.whl": [
+          "oKhgPty2B1lHJV9Fpb9stBSVdsIVSZp/PknYXE9v+FA=",
           "py2.py3"
         ]
       }
@@ -28151,6 +28175,18 @@
         "Nwgdf14fEWxTpENps04WbHB6MJEiJxiL4QKtZQj+/D4=",
         "endaq-cloud-1.0.0b1.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "uZDNm5bgkuIGKQsJYaN5qZHhtH+7ktDbp8hLj8qH2N4=",
+        "endaq-cloud-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "endaq_cloud-1.1.0-py3-none-any.whl": [
+          "DaNV1wOnr4qMR+xzSgrpy6JNnPy8/38LwRjtxfp3xFY=",
+          "py3"
+        ]
+      }
     }
   },
   "enginetk": {
@@ -45634,6 +45670,58 @@
         ],
         "itk_segmentation-5.3rc2-cp39-cp39-win_amd64.whl": [
           "EnHhwXOLkKgIdgkpwiQbyqPHccHbu3edJJqCD9Sl9Ag=",
+          "cp39"
+        ]
+      }
+    },
+    "5.3rc2.post1": {
+      "wheels": {
+        "itk_segmentation-5.3rc2.post1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "W5wwvuVFqXdWfnNWV02iggxG1VpGcSF5CEh7T2xa0Rc=",
+          "cp310"
+        ],
+        "itk_segmentation-5.3rc2.post1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tklbVzU9pUsCW4jsy2cus0eZcW5Vd1lTb8pEb3kozGw=",
+          "cp310"
+        ],
+        "itk_segmentation-5.3rc2.post1-cp310-cp310-win_amd64.whl": [
+          "ieaHOgNSdHbGxEUvAOgT2B39M/moD8x2JN194DfhUas=",
+          "cp310"
+        ],
+        "itk_segmentation-5.3rc2.post1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "boS+scZ+j9CGwHSZo3yAAAJhD2IkkxRdzUMRdmcVZBc=",
+          "cp37"
+        ],
+        "itk_segmentation-5.3rc2.post1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sLJPbr6gLZ+hwILALEENeCUFHb2bhQdrL46z7wGM5LM=",
+          "cp37"
+        ],
+        "itk_segmentation-5.3rc2.post1-cp37-cp37m-win_amd64.whl": [
+          "eLOj7Iavb86nLhay6NGTLaCAiMrct6Kea1W5dm82eiQ=",
+          "cp37"
+        ],
+        "itk_segmentation-5.3rc2.post1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "JLbmmFs88S/NTRPpD8AMQolo1goA5qN10PXyavD1uWA=",
+          "cp38"
+        ],
+        "itk_segmentation-5.3rc2.post1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "R/zERWLWjtk55GP72tOCljh+9/QDv4odjkUfKuRejnM=",
+          "cp38"
+        ],
+        "itk_segmentation-5.3rc2.post1-cp38-cp38-win_amd64.whl": [
+          "oh9Gu23kyUqT9FYWFiOCzU1f7+bBMd+7/O61uGFroe0=",
+          "cp38"
+        ],
+        "itk_segmentation-5.3rc2.post1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "8Qt0l0oopERIHzOCJBVqcYqHuheIaXQTsvB8VFNysqQ=",
+          "cp39"
+        ],
+        "itk_segmentation-5.3rc2.post1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6k+NXUv5zxvmk3xFyX8nwEO2jEhuqTPfBojXSfZoMQk=",
+          "cp39"
+        ],
+        "itk_segmentation-5.3rc2.post1-cp39-cp39-win_amd64.whl": [
+          "swpP5VKwyXGlKL9NpqGOI0L8N280LvDu7zK/aDKOfN0=",
           "cp39"
         ]
       }
@@ -77442,6 +77530,18 @@
       "wheels": {
         "pykusto-0.0.31-py3-none-any.whl": [
           "nYh0q3vADDllkRmN07rU8vUvRHasJhqh1U6JrV3yxzk=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.32": {
+      "sdist": [
+        "mJoFI0WFM0C4WZI02dh7AUQkAz8GJ32kmWqmWCHMLvc=",
+        "pykusto-0.0.32.tar.gz"
+      ],
+      "wheels": {
+        "pykusto-0.0.32-py3-none-any.whl": [
+          "HiG5vPQwdZjYKL0Nrp4/JwSgEKzyxG9AS6w33cqziw4=",
           "py3"
         ]
       }

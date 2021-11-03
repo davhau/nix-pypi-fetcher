@@ -28779,6 +28779,14 @@
           "py3"
         ]
       }
+    },
+    "1.0.0.7": {
+      "wheels": {
+        "FaultDiagnosis-1.0.0.7-py3-none-any.whl": [
+          "98VhcADdMKi5q1eZresB3PSWTRfq2EOoeiqbPO7cTFI=",
+          "py3"
+        ]
+      }
     }
   },
   "fbtest": {
@@ -41502,6 +41510,18 @@
       "sdist": [
         "ANDoZ9xvQh2hqV79qZ9btXuWN9AGu2sin2iz5w30SMo=",
         "ipybd-1.0.9.tar.gz"
+      ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "oXe11c0EpwGAyjrGFDe/y/2c7AzxbM2HM+taCTXn/2M=",
+        "ipybd-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "xWBiSYqN6pQ77wm6xJ6A8IvRrfSZX7X1u01J00n9PBE=",
+        "ipybd-1.1.1.tar.gz"
       ]
     }
   },
@@ -83917,6 +83937,18 @@
           "py3"
         ]
       }
+    },
+    "0.32.5": {
+      "sdist": [
+        "Ms+gR0mE24rkI53zywrBaEzmm2LAB2w75LsbHDDzlhQ=",
+        "projen-0.32.5.tar.gz"
+      ],
+      "wheels": {
+        "projen-0.32.5-py3-none-any.whl": [
+          "hodnQcSlDZKFVAAQEIAXNmNnccLjbO7p3RggTQ753Eo=",
+          "py3"
+        ]
+      }
     }
   },
   "projet-is": {
@@ -90430,6 +90462,82 @@
         ],
         "pybamm-0.4.0.post1-pp37-pypy37_pp73-win32.whl": [
           "WuafVigvbG9OgawLoFhm5A9rUDNFbQKNUS9cpUEOBcc=",
+          "pp37"
+        ]
+      }
+    },
+    "21.10": {
+      "wheels": {
+        "pybamm-21.10-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Psb4lBSyc5+LTLhY62SnmiIYxrMWFhHJYDJw+gMKWNk=",
+          "cp37"
+        ],
+        "pybamm-21.10-cp37-cp37m-manylinux2010_i686.whl": [
+          "VD5ubbarBpKEfBdV+TuQySEZ1JaSH/aCY/bS6w6ucEY=",
+          "cp37"
+        ],
+        "pybamm-21.10-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "8voBtyhj14JLxPJRLM1JuqXMvti5NM3r/GMDRLbeKBE=",
+          "cp37"
+        ],
+        "pybamm-21.10-cp37-cp37m-win32.whl": [
+          "4ULitbF33af6ObaGwp3sgrURAwMwlvbnzQXxuZTEXaw=",
+          "cp37"
+        ],
+        "pybamm-21.10-cp37-cp37m-win_amd64.whl": [
+          "BvidSCvDQp2P2eiDNUnDDnrdDg8KFZAPooAYuWIxUao=",
+          "cp37"
+        ],
+        "pybamm-21.10-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "u0vdC+ariXH2GC68gG4GrcfLjcddJz/Pz4eb7InNEHI=",
+          "cp38"
+        ],
+        "pybamm-21.10-cp38-cp38-manylinux2010_i686.whl": [
+          "PAWfukL6NrO/J+Trhb+hYgoZXWGzD+13sXjktiUTUsc=",
+          "cp38"
+        ],
+        "pybamm-21.10-cp38-cp38-manylinux2010_x86_64.whl": [
+          "F/fE/UDBMN3f46/PlbtJGlOaJIY8HQS1v7bq4heegHc=",
+          "cp38"
+        ],
+        "pybamm-21.10-cp38-cp38-win32.whl": [
+          "hm41JreVJEP5CvXcRfE+3WTJEQbum4SnxX2nefgUd9g=",
+          "cp38"
+        ],
+        "pybamm-21.10-cp38-cp38-win_amd64.whl": [
+          "6H1PMnBI01XEheNK6165nmF24aPiyl71LWn3EhLdW3Q=",
+          "cp38"
+        ],
+        "pybamm-21.10-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "E7pRI0sXBFKanzut8L95OrGFBG0eIpfwm3O9D7180pA=",
+          "cp39"
+        ],
+        "pybamm-21.10-cp39-cp39-manylinux2010_i686.whl": [
+          "t/VJD6kLgLwa03PAjnNEbWV4r/UB1BRyUduH+dF5bSU=",
+          "cp39"
+        ],
+        "pybamm-21.10-cp39-cp39-manylinux2010_x86_64.whl": [
+          "IYPGx3o78CYVAUcwnNClAC42AkN0vSEMz0Eh3kcGMd4=",
+          "cp39"
+        ],
+        "pybamm-21.10-cp39-cp39-win32.whl": [
+          "8YdRt6dwKr/D6kCrT7p4NBK4AxOfowLOE6/Xj5EIxvU=",
+          "cp39"
+        ],
+        "pybamm-21.10-cp39-cp39-win_amd64.whl": [
+          "SljSH94CtpggtD+gaD9Et6D1ZMYc761hZPVpVdKQVjQ=",
+          "cp39"
+        ],
+        "pybamm-21.10-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "fj0/RSKrgd9kkZoiJtmyuBMMSrurIaff46gMYnx2XKw=",
+          "pp37"
+        ],
+        "pybamm-21.10-pp37-pypy37_pp73-manylinux2010_x86_64.whl": [
+          "MAZHr2ok5PgC67gz075q39MAZk+HywgG3YlmXm8EhFs=",
+          "pp37"
+        ],
+        "pybamm-21.10-pp37-pypy37_pp73-win32.whl": [
+          "TgsIW+4xatgfrAA6RashIYPssadnGUA/SH/H+NLryx4=",
           "pp37"
         ]
       }
@@ -110712,6 +110820,30 @@
         "TestTEp37-2021.10.dev13.tar.gz"
       ]
     },
+    "2021.10.dev14": {
+      "sdist": [
+        "nd3o0JDc28FbR9Tw16oIj/ZHuWVTp3ywlppy2rKWvrE=",
+        "TestTEp37-2021.10.dev14.tar.gz"
+      ],
+      "wheels": {
+        "TestTEp37-2021.10.dev14-py3-none-any.whl": [
+          "KS7de2+a5Yh6q2Egg+4ffgPhb5jlQ4Qk0OmRFLrc14w=",
+          "py3"
+        ]
+      }
+    },
+    "2021.10.dev15": {
+      "sdist": [
+        "KB0+LGr0Z+IYfbSLCOXnsHgah7TtXpIpnHm4TQXE5jU=",
+        "TestTEp37-2021.10.dev15.tar.gz"
+      ],
+      "wheels": {
+        "TestTEp37-2021.10.dev15-py3-none-any.whl": [
+          "Xqu3av73juDwnUGWo9eSt1NtIF6qJ6WOJvrMALFzT5U=",
+          "py3"
+        ]
+      }
+    },
     "2021.11.dev0": {
       "sdist": [
         "rmOAU1LkByLesrXK4eG8qSXJiGZCJgOxSeizJfghDeU=",
@@ -118346,6 +118478,18 @@
       "sdist": [
         "s6SzL+0OGshC02FdnnJkLeOO+fF+Bs23ptpxE0vl53U=",
         "wwpdb.utils.db-0.23.dev2.tar.gz"
+      ]
+    },
+    "0.24": {
+      "sdist": [
+        "Hh2udc5LylKCLl6o90hskSzeGtNoEvTbPjPP05F9xcg=",
+        "wwpdb.utils.db-0.24.tar.gz"
+      ]
+    },
+    "0.24.1": {
+      "sdist": [
+        "F+dArCYkSujBUX4ccpuo5r51PuHbkV+AqnBmLbgzuNs=",
+        "wwpdb.utils.db-0.24.1.tar.gz"
       ]
     }
   },
