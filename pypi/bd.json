@@ -23507,6 +23507,32 @@
       ]
     }
   },
+  "clesperanto": {
+    "0.1.0": {
+      "sdist": [
+        "584PIDt2G1Llr+Eb6LCvtJW3HDRqA7RKQeVVB6BNAh8=",
+        "clesperanto-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "clesperanto-0.1.0-py3-none-any.whl": [
+          "PqujW+8xxf2Qo7Y/S9G345wRMWOtC6D3McjS2jQKaQI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "POTaY50nyIrIWtxevLqt4aY6G3xma91aGiWLUzhu3rI=",
+        "clesperanto-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "clesperanto-0.1.1-py3-none-any.whl": [
+          "N/cMagUCTh7ohyoBfjPQV+/ad83NE5+v6YM98hsz79k=",
+          "py3"
+        ]
+      }
+    }
+  },
   "clickhouse-mysql": {
     "0.0.20180321": {
       "wheels": {
@@ -27709,6 +27735,16 @@
         "xHH3JtuzhcOrnQYlKQ2+FCTP7p6mKSggPRySLrC2Hzg=",
         "constraint-0.4.1.tar.gz"
       ]
+    }
+  },
+  "consumerdemands": {
+    "0.3.dev0": {
+      "wheels": {
+        "ConsumerDemands-0.3.dev0-py2.py3-none-any.whl": [
+          "XZJtiOAmbdfvYQPC+gtdLQidMcxC/9YD8+vYT8k0KFk=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "contestfs": {
@@ -70962,6 +70998,18 @@
         ]
       }
     },
+    "1.19.12": {
+      "sdist": [
+        "IHYenokvA9iSh1xbj9ICDQW4BGnUQYfUYdZN2aljF1U=",
+        "mypy-boto3-servicecatalog-1.19.12.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_servicecatalog-1.19.12-py3-none-any.whl": [
+          "qSQ3UqV4cdYJ0IDLdsW9ed+H2eC0x27as0qBpDCKT24=",
+          "py3"
+        ]
+      }
+    },
     "1.19.2": {
       "sdist": [
         "xsD1Qelh0rOJIvuh7yzY4ptsaUArgdENQHMf4XMhMuY=",
@@ -74957,6 +75005,16 @@
         "odoo12_addon_base_business_document_import_phone-12.0.1.0.0.99.dev8-py3-none-any.whl": [
           "hsLct+nXOu8d8+3Nq5KYY8nWf9txmqAjK0MmGc0ViXw=",
           "py3"
+        ]
+      }
+    }
+  },
+  "odoo12-addon-muk-web-attachment-dnd": {
+    "12.0.1.0.4": {
+      "wheels": {
+        "odoo12_addon_muk_web_attachment_dnd-12.0.1.0.4-py2.py3-none-any.whl": [
+          "0TY7TZS5bHK4eqZZj6ufFe/eLimITal4A1UZHEv9PJs=",
+          "py2.py3"
         ]
       }
     }
@@ -93028,6 +93086,54 @@
         ],
         "regina-6.1.0a2-cp39-cp39-manylinux2014_x86_64.whl": [
           "K/ZVP+DRT0evmQjtKm4QbbZhA6QXsCCL86KQUSwxGak=",
+          "cp39"
+        ]
+      }
+    },
+    "6.1.0a3": {
+      "sdist": [
+        "Y6lvg6FEyW2frC+aRlMYVOsv109/5/GW1oRDH7csPUs=",
+        "regina-6.1.0a3.tar.gz"
+      ],
+      "wheels": {
+        "regina-6.1.0a3-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "rwTHJcj93Pjx3+/miv61QJTOmhqES5dw6O7/u3aFzRg=",
+          "cp310"
+        ],
+        "regina-6.1.0a3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZOsPyQstCDGtnmnwnmjlFRxWss2B1zXX1KjeYvmyRvU=",
+          "cp310"
+        ],
+        "regina-6.1.0a3-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "EM3K344ChRiYtZvYmXiSFRhaq/ZXfI8LdprmsdRHNI4=",
+          "cp36"
+        ],
+        "regina-6.1.0a3-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xGR9vElQJfOXSx9UOb5pmpOLFTxiNy8kBPknvqboH9Y=",
+          "cp36"
+        ],
+        "regina-6.1.0a3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "RDBku9Fmp0It+MUCGWjLFxh/djhvAc55Cvk2C0Y1cAk=",
+          "cp37"
+        ],
+        "regina-6.1.0a3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IZ2MdHFg7PwF9psfnoaT3QNyfgnrmYC8BT+vnWz+Mxo=",
+          "cp37"
+        ],
+        "regina-6.1.0a3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "rSkk3IfMSKI8jVKGWu4gQsQyVbNdUiPskttIviNdDtc=",
+          "cp38"
+        ],
+        "regina-6.1.0a3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9eT7jC2kMoqYMnZWOBblWZSrTIvVAFvHsUORVD9Mz/E=",
+          "cp38"
+        ],
+        "regina-6.1.0a3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "lr/COAYI6FgNic90FDSoPQ9hxfBfmSgaKE34cLZwPds=",
+          "cp39"
+        ],
+        "regina-6.1.0a3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "72H7XVNaaYolE3fTxjmWSuakVWyAZ8gh8O6lf6wy9t8=",
           "cp39"
         ]
       }
@@ -121117,6 +121223,20 @@
         "wayslack-0.3.1-py2-none-any.whl": [
           "4mJzROp0ExAEyaI6bSN//L1UujEliKbgOHAooB38YM0=",
           "2.7"
+        ]
+      }
+    }
+  },
+  "we-bigdatel": {
+    "1.0": {
+      "sdist": [
+        "Vh8UcU65FOO7AW+zo1jAlW2A5t1jBm+fPciLTFm2EWU=",
+        "we_BigDatel-1.0.tar.gz"
+      ],
+      "wheels": {
+        "we_BigDatel-1.0-py3-none-any.whl": [
+          "/wuju09I2+iJQKHoT/BACcN6yWNdXt8KqgOSNFO+azM=",
+          "py3"
         ]
       }
     }
