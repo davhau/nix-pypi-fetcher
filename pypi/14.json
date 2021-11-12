@@ -13699,6 +13699,20 @@
       ]
     }
   },
+  "bitcv": {
+    "0.0.0": {
+      "sdist": [
+        "GGVyMvBHrx1J4cY6io2a9mqykKYPr6dLHDeRLshx308=",
+        "bitcv-0.0.0.tar.gz"
+      ]
+    },
+    "0.0.1": {
+      "sdist": [
+        "Q7H5iIu/UFCHMRFi8KLQJyTUj4Jk1FcJtGcFh7CXJyQ=",
+        "bitcv-0.0.1.tar.gz"
+      ]
+    }
+  },
   "bleson": {
     "0.0.1": {
       "sdist": [
@@ -43808,6 +43822,18 @@
       "wheels": {
         "google_cloud_os_config-1.8.0-py2.py3-none-any.whl": [
           "pruJvm0AMmPczJ7Y9301i2Fl8KTfgwGEVg2W5PyVpyU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.9.0": {
+      "sdist": [
+        "hyd0xHkbFdWdhm/ZZceAvqwncvM13tSgBH4thE2YjzA=",
+        "google-cloud-os-config-1.9.0.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_os_config-1.9.0-py2.py3-none-any.whl": [
+          "MBk2dMrOtt1UKR48po1tPHaKKEo2cIZKiaccI50Jl5M=",
           "py2.py3"
         ]
       }
@@ -75991,6 +76017,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.0.1.dev5": {
+      "wheels": {
+        "odoo14_addon_sale_order_invoicing_grouping_criteria-14.0.1.0.1.dev5-py3-none-any.whl": [
+          "oPJs5Tn1X5l5IzHzPLdkmnFOGcqIa6gF+CqHcv0Pg6U=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-stock-picking-filter-lot": {
@@ -103590,10 +103624,34 @@
         ]
       }
     },
+    "0.3.18": {
+      "wheels": {
+        "sparclclient-0.3.18-py3-none-any.whl": [
+          "9oIwrMYkDjUOE6AumKWfrnrmLLdmjKschiQJKmFdNO0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.19": {
+      "wheels": {
+        "sparclclient-0.3.19-py3-none-any.whl": [
+          "dTczCUv0jBCwdLLzR20M6FQg36Qooe0rcQzNzdvn+QM=",
+          "py3"
+        ]
+      }
+    },
     "0.3.2": {
       "wheels": {
         "sparclclient-0.3.2-py3-none-any.whl": [
           "elV0JAkspiID6Ke7a4FtzF4vleHiHzQzNLI5aE2vB9E=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.21": {
+      "wheels": {
+        "sparclclient-0.3.21-py3-none-any.whl": [
+          "fmmYFo6cEnr4ejmIgGL/jrIm0ix3tqucw0fGigAdB4w=",
           "py3"
         ]
       }
@@ -104807,6 +104865,60 @@
         "NJmw/M/X0ffPe5OgrLZ9batsqKbE4MYuoHXCVmwmP1s=",
         "sqly-0.6.0.tar.gz"
       ]
+    },
+    "0.6.1": {
+      "sdist": [
+        "rzs8TCQB7/8kJizaBI1frtX+e3y3IFPMcTxJWD/Ricg=",
+        "sqly-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "sqly-0.6.1-py2.py3-none-any.whl": [
+          "5ydF6ZrEE5VIJOWpn7m7DAiwaAxBbn6nkvLMZzCWeTc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.6.2": {
+      "sdist": [
+        "eIIKOwtOYecPt8IWSW23s74uWYtmi00xJBIfUZLh26Q=",
+        "sqly-0.6.2.tar.gz"
+      ],
+      "wheels": {
+        "sqly-0.6.2-py2.py3-none-any.whl": [
+          "EpxS8bkpKY9zKYDz/rbFF7RwV4QMnObXw/ql4q69Hcc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.6.3": {
+      "sdist": [
+        "lI0yXuYxWSTyxrafFMlDXuLuIJDKv30EmnQoG41/i5I=",
+        "sqly-0.6.3.tar.gz"
+      ],
+      "wheels": {
+        "sqly-0.6.3-py2.py3-none-any.whl": [
+          "eM15i3Pt4srcN4+mIDV8SlINqSSPi8uWNMneQE5dOyY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.6.4": {
+      "sdist": [
+        "4UqCSXkymwc7SE5ABHaVyQk9nBz3DbxoK0+fI+Kuy00=",
+        "sqly-0.6.4.tar.gz"
+      ]
+    },
+    "0.7.0": {
+      "sdist": [
+        "F3TGze+EjFQvGr0IZW6sPP+ukb+hw5CLjF+c1k0NBRw=",
+        "sqly-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "sqly-0.7.0-py2.py3-none-any.whl": [
+          "LYUXZ6dtEM85WHaBL2iZB0xJAjRrWkIrdaVYcfD/WEQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "sshtuntap": {
@@ -110703,6 +110815,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.524": {
+      "sdist": [
+        "zNnsvxdliZnkz7LhGJ+RQwhU5Tg6V7yjR2OMPimGQ50=",
+        "tencentcloud-sdk-python-tiia-3.0.524.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tiia-3.0.524-py2.py3-none-any.whl": [
+          "BaDR99QK8VqivOXoy1vG3VhG8hUE8bt19oEYaiRU8j8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "termchart": {
@@ -114202,6 +114326,18 @@
       "wheels": {
         "ts_tariffs-1.4.20-py3-none-any.whl": [
           "8C/RjvdcY1SNIOQuMKr/U6eVH7qcybwgJbF0BaeQ9mg=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.21": {
+      "sdist": [
+        "0/nczJ/sfx0PsU/u42HIssONI9SXrE9iHcoRu0hp1U4=",
+        "ts_tariffs-1.4.21.tar.gz"
+      ],
+      "wheels": {
+        "ts_tariffs-1.4.21-py3-none-any.whl": [
+          "H7v33ZI6QkQji9Q8TTkc0yyed/Zl72R284NZmbkLTaM=",
           "py3"
         ]
       }
