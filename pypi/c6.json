@@ -1423,6 +1423,12 @@
         "Jp45fco1Bd9DBDEN2amMLV5ewRU3Wdntirmu/4sVGdo=",
         "act-admin-2.0.1.tar.gz"
       ]
+    },
+    "2.0.2": {
+      "sdist": [
+        "EhFq9FMQK+daG6xvHLUBKrntNrSnnixSjj7Ftegi6AY=",
+        "act-admin-2.0.2.tar.gz"
+      ]
     }
   },
   "activations": {
@@ -2656,6 +2662,18 @@
       "wheels": {
         "alibabacloud_sas20181203_py2-1.0.7-py2-none-any.whl": [
           "nRlG++JQIaA1aRnlFeJw50xsDnGc2wfmXSWVQfYwxD0=",
+          "py2"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "goND93g742+EuEsDDwo5tQTSDpa4ev6MgnBbv+6Xx0g=",
+        "alibabacloud_sas20181203_py2-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_sas20181203_py2-1.0.8-py2-none-any.whl": [
+          "sQrQgFFs+yP6xIjEUFZyw927NIVCAn3twY0wYusTBJg=",
           "py2"
         ]
       }
@@ -19729,6 +19747,22 @@
         "django_exporter-2.2.2-py2-none-any.whl": [
           "HGrpTk91eBIdG+608JfLJqzeOqEu1qxegGQi28LObgU=",
           "py2"
+        ]
+      }
+    },
+    "2.2.4": {
+      "sdist": [
+        "f8riD8g59bhIyd9oIztZHh/3Ic56G/6ltyQoC7k4hQ8=",
+        "django-exporter-2.2.4.tar.gz"
+      ],
+      "wheels": {
+        "django_exporter-2.2.4-py2-none-any.whl": [
+          "GdKJWeWtf+XciMAetw4D8VzAn2LuwVwj9ysiwr3prfE=",
+          "py2"
+        ],
+        "django_exporter-2.2.4-py3-none-any.whl": [
+          "iKnT/t88oK6LTXqHe0sUlhFLIVNJPttyEKCPmA9mITg=",
+          "py3"
         ]
       }
     }
@@ -38977,6 +39011,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.3": {
+      "sdist": [
+        "wBh/ONdsLYuZWkHKvKtCCOv3djNHZV92G5c246dlyC4=",
+        "hydrosdk-3.0.3.tar.gz"
+      ],
+      "wheels": {
+        "hydrosdk-3.0.3-py3-none-any.whl": [
+          "Btf0dv8TB1q/R94TNYGznSqd6wEoJFb/5L7KjR5biss=",
+          "py3"
+        ]
+      }
     }
   },
   "hyperactive": {
@@ -47419,6 +47465,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "Au8OoUh07xh/0wdZN3Z3KKCdo/TBqJyHFnTzkbgrKrM=",
+        "microEye-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "microEye-0.1.2-py3-none-any.whl": [
+          "EPU6eQaznEayeyRgRQv6kAwYTRhXf4qHwwvdaWyV9IE=",
+          "py3"
+        ]
+      }
     }
   },
   "microkit": {
@@ -48840,6 +48898,70 @@
         ],
         "minify_html_core-0.6.9-cp39-none-win_amd64.whl": [
           "q88iz+GTE9XHBFgGbH11j1PU9/tCUgSLY0C4PGDfbew=",
+          "cp39"
+        ]
+      }
+    },
+    "0.7.0": {
+      "wheels": {
+        "minify_html_core-0.7.0-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "CtK66ozttUaMxZ+UaAR7uHomLUpiSc8LKzwpdhSvrqI=",
+          "cp310"
+        ],
+        "minify_html_core-0.7.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "39iJC9X3EVDKXUyqJ+C5RO2cr/1O8nSbywqJxrEsd7s=",
+          "cp310"
+        ],
+        "minify_html_core-0.7.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "f+DDM4FlftQwKMEko3bBaDvJQvi2dtSwXCrIdGGX38I=",
+          "cp310"
+        ],
+        "minify_html_core-0.7.0-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "uqpNWLr2HagxuVhk4Wk19PbIFv7oh3rX6p2c5mwenw4=",
+          "cp310"
+        ],
+        "minify_html_core-0.7.0-cp310-none-win_amd64.whl": [
+          "KZr9r4XKu81hHYR1ie2D6shfmPKSeLDo29wauR9nBYI=",
+          "cp310"
+        ],
+        "minify_html_core-0.7.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "JPX6uyztd5UYBNvIbYCi6SbR2qXHSAGxLUoGS8eRm2Q=",
+          "cp38"
+        ],
+        "minify_html_core-0.7.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "3+4C20Y0ltUMeJ+p5IbB1sHKMhslH3h0HH8JpW0alKU=",
+          "cp38"
+        ],
+        "minify_html_core-0.7.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Et+W5zNBQbnb/puAYx4pRzYvg/M5MGK44C8m9hqM48E=",
+          "cp38"
+        ],
+        "minify_html_core-0.7.0-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "6eDvJinxfGasXiQRo0OJs/z61kGaUSRN064d3gD9yYE=",
+          "cp38"
+        ],
+        "minify_html_core-0.7.0-cp38-none-win_amd64.whl": [
+          "fI3WnePQJxzF3aFdae0bw0krFoWk/VuczbxBJ75RX8Y=",
+          "cp38"
+        ],
+        "minify_html_core-0.7.0-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "tRAnV41VrOVG/Rwnji5oVWsWQp1brP3uc/WgJ7oi06I=",
+          "cp39"
+        ],
+        "minify_html_core-0.7.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "5eWT1wwlZr9XuaVbk+lJ6vpr+59fgWKSSVdtKIVTta4=",
+          "cp39"
+        ],
+        "minify_html_core-0.7.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "+REPW6UWZw/g0kxaDtxFBb1FBxKaJOM6muYqdzBgjFA=",
+          "cp39"
+        ],
+        "minify_html_core-0.7.0-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "bloqmTMFJbqnjfYrxWhikPHQfyyzp21Df0bL8apM6io=",
+          "cp39"
+        ],
+        "minify_html_core-0.7.0-cp39-none-win_amd64.whl": [
+          "jTg6FOpH5bR8K/g4AAALFQ/U10gK5qoyUmh+i0wkfZs=",
           "cp39"
         ]
       }
@@ -76042,6 +76164,20 @@
       "wheels": {
         "simplebot_facts-1.0.0-py3-none-any.whl": [
           "P5pOrNQEH7NSMB5YqUedDpMd1KZoxTWKP5ULm+dVC54=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "simulation-client": {
+    "1.0.2": {
+      "sdist": [
+        "sEBx73JgEAQlq+LdSnMjMzvpk2EZb1XuDOfZ9nns5hQ=",
+        "simulation_client-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "simulation_client-1.0.2-py3-none-any.whl": [
+          "5MvxKcWVaomrn3Wh4Spl6Wk1G/EUz8Vi3ZhYqQWc6EE=",
           "py3"
         ]
       }
