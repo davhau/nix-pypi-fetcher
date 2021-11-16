@@ -256,6 +256,12 @@
         "adafruit-circuitpython-lis2mdl-2.1.1.tar.gz"
       ]
     },
+    "2.1.10": {
+      "sdist": [
+        "EF/CzAZAxtfz5QVmAM+omLbiwq/3JRUtLxinQX64fqc=",
+        "adafruit-circuitpython-lis2mdl-2.1.10.tar.gz"
+      ]
+    },
     "2.1.2": {
       "sdist": [
         "NOXv6Q5MDY6uEa1BFv4lQCXZBFaIvBqXXiA7glGH8gQ=",
@@ -382,6 +388,12 @@
       "sdist": [
         "maHqEIPCLmW2aScXDlhoSlbhfuIKwtWheOLRt6jW634=",
         "adafruit-circuitpython-rtttl-2.4.6.tar.gz"
+      ]
+    },
+    "2.4.7": {
+      "sdist": [
+        "4dFRZ0zrCC10x+skZPIpyv7tAkAi2MEGBFEfrrSQ0PA=",
+        "adafruit-circuitpython-rtttl-2.4.7.tar.gz"
       ]
     }
   },
@@ -4566,6 +4578,30 @@
       "wheels": {
         "autograder_gui-0.8.0-py3-none-any.whl": [
           "Mzww0UccLwTm0Hwn3ai91WH5seSeIXfj7aVbUCTdXm0=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.1": {
+      "sdist": [
+        "sFk85LN9nu3h72oDd4jHz59fhehnxLYTJmyGFjK+Kyw=",
+        "autograder_gui-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "autograder_gui-0.8.1-py3-none-any.whl": [
+          "cdnirba1tvgPkvZbSynLhIOsXuQivk3NwQDsrmIb1Uk=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.2": {
+      "sdist": [
+        "FdiVXmDejLTE0vEgBB6EIaJgXLjIXjVPf0uor+pIiU4=",
+        "autograder_gui-0.8.2.tar.gz"
+      ],
+      "wheels": {
+        "autograder_gui-0.8.2-py3-none-any.whl": [
+          "2BtOo+pLGHZiG7X+GNz2lH1qaQw5zaVja1spjDrGGvs=",
           "py3"
         ]
       }
@@ -18922,6 +18958,30 @@
         ]
       }
     },
+    "0.13.6": {
+      "sdist": [
+        "7SOsuTjtiOUXe9yIjOOmCKVbjtKKargmRfeRenTs2Is=",
+        "dagster-airflow-0.13.6.tar.gz"
+      ],
+      "wheels": {
+        "dagster_airflow-0.13.6-py3-none-any.whl": [
+          "nxZE5CR/yyMHEpeKohgQaECehPmmb5BptVJeugstS/c=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.6rc0": {
+      "sdist": [
+        "2DnELIou98TG36lQg16bKVybnjOISd9UDTtAI6QzfNs=",
+        "dagster-airflow-0.13.6rc0.tar.gz"
+      ],
+      "wheels": {
+        "dagster_airflow-0.13.6rc0-py3-none-any.whl": [
+          "pqSh37IZizSttvrUwZAdpY9jEXE/iTMoqY067lmOFro=",
+          "py3"
+        ]
+      }
+    },
     "0.4.0": {
       "sdist": [
         "lb9eJ2/UmIvhqVib2Q1ocnxxfv9n/rSl6OPYHAGiAV4=",
@@ -22844,6 +22904,30 @@
       "wheels": {
         "dagster_azure-0.13.5rc0-py3-none-any.whl": [
           "A1EZE3N2YuV9H7J771Zfun2V2RHX1BAU97i8DdKnBDQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.6": {
+      "sdist": [
+        "XB+uYIks3eXAqhWnlcIhu3iD/UxkVPrkewR2aTFSEjU=",
+        "dagster-azure-0.13.6.tar.gz"
+      ],
+      "wheels": {
+        "dagster_azure-0.13.6-py3-none-any.whl": [
+          "5nKf4Ve/RK442VUyPPH4AbqlpbWJu7KS9Qi6AXfU5us=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.6rc0": {
+      "sdist": [
+        "z70RiVgt4smKgipmrlaiUxVLEBthdn0yQdqw9O4JC+4=",
+        "dagster-azure-0.13.6rc0.tar.gz"
+      ],
+      "wheels": {
+        "dagster_azure-0.13.6rc0-py3-none-any.whl": [
+          "9LVds81GoRK6GkvvUmKUN43vSRpGG4vt1uuNe6NEpSE=",
           "py3"
         ]
       }
@@ -43676,6 +43760,46 @@
         ]
       }
     },
+    "1.2.14": {
+      "wheels": {
+        "griddly-1.2.14-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "xAE8B4KI3zctDTbCeoD/7i5uAfZo/80H/C7EDPhkIbE=",
+          "cp36"
+        ],
+        "griddly-1.2.14-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "mhGtDx7HqDNOx9ozkgybg+/++Us8D6DUN9TYORRmgbQ=",
+          "cp36"
+        ],
+        "griddly-1.2.14-cp36-cp36m-win_amd64.whl": [
+          "el0/6G5GenAgWUXgWgKc7E1su/9WB9BISgGN3QrdPXc=",
+          "cp36"
+        ],
+        "griddly-1.2.14-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "XordNMDvyuW0kSbVIvorpXhCojBZiliO9ULzKofCJcc=",
+          "cp37"
+        ],
+        "griddly-1.2.14-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "KwOMyDL4RAa6xVwJn8sAz76BjzxSmIWo7E5rt6+CbeM=",
+          "cp37"
+        ],
+        "griddly-1.2.14-cp37-cp37m-win_amd64.whl": [
+          "xwrujnqFMXFIenys8v9+XHozvTZNxLCawNpK8JIx0YA=",
+          "cp37"
+        ],
+        "griddly-1.2.14-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "6nuOvNtNDo6iaz74gYYgtVyB7cqWkILMlxcq59EpESw=",
+          "cp38"
+        ],
+        "griddly-1.2.14-cp38-cp38-manylinux2014_x86_64.whl": [
+          "+w+IjyF+Nf38ISOqrBKHtf7Zs6iIFWfOIyE2D3Xl0jM=",
+          "cp38"
+        ],
+        "griddly-1.2.14-cp38-cp38-win_amd64.whl": [
+          "LCAGkzPvnAWEuXBvSG3CnFSxXMDEfAaT786zi8rIZe4=",
+          "cp38"
+        ]
+      }
+    },
     "1.2.2": {
       "wheels": {
         "griddly-1.2.2-cp36-cp36m-macosx_10_15_x86_64.whl": [
@@ -51873,6 +51997,20 @@
         "L9dYddn/55foZE2AVX/lCDzStH4SQnLwNuVK/vqRL40=",
         "ligament-sftp-0.0.4.dev.tar.gz"
       ]
+    }
+  },
+  "light-cnns": {
+    "0.1.0": {
+      "sdist": [
+        "fpygOWsKpM9GzYHl+aTjDJcayctejdD5TdBm5i9S4wk=",
+        "light_cnns-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "light_cnns-0.1.0-py3-none-any.whl": [
+          "/bz4vZE73W5Qj0IR7JqStIXUIxI9BYkm/lCoBDKHAtg=",
+          "py3"
+        ]
+      }
     }
   },
   "limnoria-linkrelay": {
@@ -91120,359 +91258,15 @@
     }
   },
   "pymatflow": {
-    "0.0.10": {
+    "0.1.1a3": {
       "sdist": [
-        "A6l5ppqeMNrXhowztfDaXIQ9lXtmtrgrD+wV35K25DQ=",
-        "pymatflow-0.0.10.tar.gz"
+        "OPb+jLyjMw4KP4dyuJ5X+kzutrg3PD5LZjGHZ7cwqgg=",
+        "pymatflow-0.1.1a3.tar.gz"
       ],
       "wheels": {
-        "pymatflow-0.0.10-py3-none-any.whl": [
-          "kdFVUHxFNUWEHQi8DSRffa/J3K6HHdUdIrGU019j4as=",
+        "pymatflow-0.1.1a3-py3-none-any.whl": [
+          "hBmQxo1HvfuO9ohlt/IgA19UJqJKqLyk+0upr29pwEE=",
           "py3"
-        ]
-      }
-    },
-    "0.0.10a3": {
-      "sdist": [
-        "1J6VYjc7XrFvZZmj43Y/FXkyGfQtTUQ47bhn8hoyzRM=",
-        "pymatflow-0.0.10a3.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.10a3-py3-none-any.whl": [
-          "mPbMX4Ai4pCMInafutaY7vu/R0gJEb66u52ZzJkGhvo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.10a4": {
-      "sdist": [
-        "2e4zx6DEQT743mT8cgcAoe411Um/e5RN8U7MMUMabdI=",
-        "pymatflow-0.0.10a4.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.10a4-py3-none-any.whl": [
-          "Gw0EzhvMafw350hxd5F7a0FpgPiP5PQOB1C3MCXVd9E=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.11": {
-      "sdist": [
-        "72xvTPhLV23UwaEpv+TxmCsHvIwk8ahkc8kCY8ig/nI=",
-        "pymatflow-0.0.11.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.11-py3-none-any.whl": [
-          "bqPbCh2OE25VYa+7G8LSjjYZCJhuKUlO1z2IboQ0Z9I=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.11a1": {
-      "sdist": [
-        "DrQxvUFkSJYoXK4FDIPsqCgaxlckJzsS/aHedaC+uYg=",
-        "pymatflow-0.0.11a1.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.11a1-py3-none-any.whl": [
-          "2FYCRmzn8w234MmOjqSHjg8jinIEn6EH3NaENCUmq/g=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "xncC0PSUg/B7ObPSbah1QxHiR/Akw4mjrPmGjhQ9TiE=",
-        "pymatflow-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.12-py3-none-any.whl": [
-          "rmqe5PvC/Ga+EGvMn0Ya9XcV+Hd+SWuk4jbKL9wkMyg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12a1": {
-      "sdist": [
-        "Sn6cEglSaMCMSOaWjoEj0Od6GKPOmkGPaZZwO5nLHZ8=",
-        "pymatflow-0.0.12a1.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.12a1-py3-none-any.whl": [
-          "YVK/OR3JvJ6xBy3Yxc0bzNnEhS9WGZAPrtOapjx6snc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12a2": {
-      "sdist": [
-        "+iv3jhobQ0sHZFSr24j4ZASVsrnMZC2uxQFjkYrgXRc=",
-        "pymatflow-0.0.12a2.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.12a2-py3-none-any.whl": [
-          "a4DU0xdQ8qGluZ6q6x6QObu7uBsDvARZLFXXFbGnf2I=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12a3": {
-      "sdist": [
-        "DV1/umBlAwZAVegnmAypC4WxWoQO8bRAUo9AuG9P4nE=",
-        "pymatflow-0.0.12a3.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.12a3-py3-none-any.whl": [
-          "IwMEpSGcmqGDaizqKl/QORbraj4fZ8WjeQDAvMLi3cY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "hGKw/RGfG9U6HXT1/Zv7muAx6LtBKC8FaxnL+k0wQx0=",
-        "pymatflow-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.2-py3-none-any.whl": [
-          "12XcVwSaa9RsLEZs+QRg9Uk+MDVwweAoOCTis5sd6h8=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2b0": {
-      "sdist": [
-        "nxWT8LhfF056O3x6cKkdqS3AyHZkJKxTwyUfmSKu4jg=",
-        "pymatflow-0.0.2b0.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.2b0-py3-none-any.whl": [
-          "l/iknd6z7RLEWST/AivtlTMDddlFecSOYZheeTEXmOw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3b0": {
-      "wheels": {
-        "pymatflow-0.0.3b0-py3-none-any.whl": [
-          "hbj0XBBDzsKDjhXzvQnFcVyPULAV4GTuBaMQMhlfhvE=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "gAoWSkhJybMm6uItg4XobwihQWBJ6oROGsevGZXs8N4=",
-        "pymatflow-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.5-py3-none-any.whl": [
-          "HN3yYiGDG2DjIhkMkxsSP/BZJbAZpoggVbdtcu/8pkw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5b0": {
-      "sdist": [
-        "jm34UwMw3NUWf9B0aSuXI+rBWiPAuuCS25iyzLHpGGU=",
-        "pymatflow-0.0.5b0.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.5b0-py3-none-any.whl": [
-          "ZgyVnoIoOWKsVSC35Lbs6Okro/DGzWjXCCYJT26qLw4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "snwN+9QIqq7Vzev39h62OglNYf/k77DpYui0xPvP00g=",
-        "pymatflow-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.6-py3-none-any.whl": [
-          "AZzBxWGmIzOdWchrNc5+R2HIRAfqv2uoCXS9tOgFyOY=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "l4kP6QbGNYOII70zvN7yfpUbNW3gT46sfcAA4HB3DYY=",
-        "pymatflow-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.7-py3-none-any.whl": [
-          "4J5uEi+7xPLaprA906B7x9znGntBbJxWGEQQW6Qe7Tc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8a1": {
-      "sdist": [
-        "U8qYnrMYVNCbtzkkZb/MTYi7rSmQ7tfdQw1ap0LpEZ8=",
-        "pymatflow-0.0.8a1.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.8a1-py3-none-any.whl": [
-          "KU0PudjaUmcwEZtsS3gemoh82B/AXepsOS3Ig/Jez60=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8a2": {
-      "sdist": [
-        "jvBBYZASgvBM2xoe0EZHtQQ1QRjhkKmfhubAlliI3nc=",
-        "pymatflow-0.0.8a2.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.8a2-py3-none-any.whl": [
-          "dBmJhB2Yc9F2xG38k54G33LPYjFvn5fcr73uomgD3HM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "fiVxlqB0PaOabBfKmzp8ILha8DV22vIMizu99/5jdIA=",
-        "pymatflow-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.9-py3-none-any.whl": [
-          "hvV/4fwqm4NLX/CP8v653FGLPDQLcGc2n6PBUuGGDb4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9a1": {
-      "sdist": [
-        "cL5wmnyjExVShEuDo5C/yZG08SmFjo9fkAAVvawnVuY=",
-        "pymatflow-0.0.9a1.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.9a1-py3-none-any.whl": [
-          "Eut5U2kw7z0QbAobC8kB3Ndmlmtm6INsFV5+pjT5q3o=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9a2": {
-      "sdist": [
-        "1bPvAgtuV6KOQUvogTNPojHbUks23adk9XMXpv5UjM0=",
-        "pymatflow-0.0.9a2.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.9a2-py3-none-any.whl": [
-          "4nyfReY6BdmICTKvR+FO+eYj8QH3QUmsJKdkvejrgdw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9a3": {
-      "sdist": [
-        "MZbSi6seEkK1EDUagY1ovE1DOm80xNqcBXInNQ1SGNk=",
-        "pymatflow-0.0.9a3.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.0.9a3-py3-none-any.whl": [
-          "kbGlX760ssC/lT6PxY8hwoGeMAh1cbEc5mJC1ehhojI=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1a1": {
-      "sdist": [
-        "Yz53uZk7B1UUkxnblAVjo5Th50PGrPl9q9X+94wiNLw=",
-        "pymatflow-0.1.1a1.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.1.1a1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "QLmB1LCvn1ajUoRAg546l3cQ4syGmfnZhg+c7kXbAdw=",
-          "cp310"
-        ],
-        "pymatflow-0.1.1a1-cp310-cp310-manylinux_2_24_x86_64.whl": [
-          "wcmjFraGVgnQ4YQtFkFu8uCkuAPfgRE3ZEuwdgckg1c=",
-          "cp310"
-        ],
-        "pymatflow-0.1.1a1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "fxddPt5qy9Zgen73LY9omPcFELtUlf3kGpdMcegFm4E=",
-          "cp36"
-        ],
-        "pymatflow-0.1.1a1-cp36-cp36m-manylinux_2_24_x86_64.whl": [
-          "leh7aebJXGHF4ff5Wh/kljZetbOp4BRHZcwafZzVs/8=",
-          "cp36"
-        ],
-        "pymatflow-0.1.1a1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "o9HtKqjTr5HQCexsse7G/RzOnQc1lbvGROa8D9Nyj7c=",
-          "cp37"
-        ],
-        "pymatflow-0.1.1a1-cp37-cp37m-manylinux_2_24_x86_64.whl": [
-          "prujjdELUMYdUEwlbPveGb6nVAFINy/XzfyunNAYavY=",
-          "cp37"
-        ],
-        "pymatflow-0.1.1a1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "gq9BFwSYVuB6WV2cnmfRm1PdwvFeB9/wBNho7+XMZ9U=",
-          "cp38"
-        ],
-        "pymatflow-0.1.1a1-cp38-cp38-manylinux_2_24_x86_64.whl": [
-          "R/xLflbcbuwBYHe3Dz7OTIPaoewXQP78mtNDEu7Tzg4=",
-          "cp38"
-        ],
-        "pymatflow-0.1.1a1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "1mxLbDzf/Ce9u8LPtz6yK0jHVyhmTnbLQ2+K1yjrJlA=",
-          "cp39"
-        ],
-        "pymatflow-0.1.1a1-cp39-cp39-manylinux_2_24_x86_64.whl": [
-          "4a7+8kmzqbEdvDCZwi4K+akJHgavU8oJUdETO9+hkRw=",
-          "cp39"
-        ]
-      }
-    },
-    "0.1.1a2": {
-      "sdist": [
-        "ljkmnu2z773ztng7G4BAoLgNQZC9WAftu7KJfVPTTX4=",
-        "pymatflow-0.1.1a2.tar.gz"
-      ],
-      "wheels": {
-        "pymatflow-0.1.1a2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "MmzI6e0hJ4Ps9aoHYl8DkjYT6p3SSpGCxpBe5LT5Yb8=",
-          "cp310"
-        ],
-        "pymatflow-0.1.1a2-cp310-cp310-manylinux_2_24_x86_64.whl": [
-          "3v2CqlEeP4/BsivpaxDoqRTSpXeLC9KGTJSGufLh/ss=",
-          "cp310"
-        ],
-        "pymatflow-0.1.1a2-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "t5cqjV2Bw2GqPFVclEfsEoMrIszxdyI4eoL1VqsiGHw=",
-          "cp36"
-        ],
-        "pymatflow-0.1.1a2-cp36-cp36m-manylinux_2_24_x86_64.whl": [
-          "1aViTodCcUI2V2wpCkwHXPR4lWxNUDKJNycxc661rNk=",
-          "cp36"
-        ],
-        "pymatflow-0.1.1a2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "oIfrvVapr1P1g0h28nZSHp/ycbJRKmtmdxCteoAg6hY=",
-          "cp37"
-        ],
-        "pymatflow-0.1.1a2-cp37-cp37m-manylinux_2_24_x86_64.whl": [
-          "9D9N3ey1BuFngFoxZrSkQdmgLOMtK3AvpnNqOcUvD3s=",
-          "cp37"
-        ],
-        "pymatflow-0.1.1a2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "mxA5vZMcDQae5UgyV+oJ+lW34Quh+sjDOhcULR49S9w=",
-          "cp38"
-        ],
-        "pymatflow-0.1.1a2-cp38-cp38-manylinux_2_24_x86_64.whl": [
-          "R44FGPd2DDmkBjk1SFHXuWwvLcuJpy8Dql6fcG4cDHk=",
-          "cp38"
-        ],
-        "pymatflow-0.1.1a2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "H3ZiZ85UeNCjxl4lHBQ/6TOW2czAxqFBwyk6zSwD+fM=",
-          "cp39"
-        ],
-        "pymatflow-0.1.1a2-cp39-cp39-manylinux_2_24_x86_64.whl": [
-          "h4hszKB40EpWNwsYbjuqRvH7b/PEOFvhrgQVjJYxyjM=",
-          "cp39"
         ]
       }
     }
@@ -111977,6 +111771,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.526": {
+      "sdist": [
+        "f/cW2Yi3Qbq6HWqs3zOHG/eHniuZ1cBXQGD8k5krhyQ=",
+        "tencentcloud-sdk-python-cms-3.0.526.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cms-3.0.526-py2.py3-none-any.whl": [
+          "oh+WFGWDDkzSWh1+cBhjVdiewCDI/4ftsUUg5djmH/g=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-dts": {
@@ -115276,6 +115082,18 @@
       "wheels": {
         "tencentcloud_sdk_python_dts-3.0.525-py2.py3-none-any.whl": [
           "KIIxMGsN3dGPnb5gRHmxQgJTq/VoI3qwwDDJAjKBIfA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.526": {
+      "sdist": [
+        "0LJWwo6fnxf0MhUvESWCe2OY0VvYYoiDz50n0DsbGQM=",
+        "tencentcloud-sdk-python-dts-3.0.526.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dts-3.0.526-py2.py3-none-any.whl": [
+          "GG9T+uKw8ebq3SmMAPlDDc2z6MxaDUlpwbKxFWuQtM0=",
           "py2.py3"
         ]
       }

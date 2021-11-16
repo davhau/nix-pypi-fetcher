@@ -361,6 +361,12 @@
         "houiTdSNJ+9d+d1DcjY8JCfrxnyu/7uKofauBxaA2ro=",
         "adafruit-circuitpython-mpl3115a2-1.2.7.tar.gz"
       ]
+    },
+    "1.2.8": {
+      "sdist": [
+        "afxakHkWmMYU1oyzkv6Mc8psh4Rr7XYVbKtqajAfITI=",
+        "adafruit-circuitpython-mpl3115a2-1.2.8.tar.gz"
+      ]
     }
   },
   "adptools": {
@@ -4564,6 +4570,18 @@
       "wheels": {
         "aries_cloudagent-0.7.1rc0-py3-none-any.whl": [
           "rsrAOibJG9H0np7Z76FmiYmUe3PtPLF3NJd1163TMZA=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.2": {
+      "sdist": [
+        "O2Oy2RvllNeUv8ZWIo+rmI83qgwxv/SP5RMZivuNmCk=",
+        "aries_cloudagent-0.7.2.tar.gz"
+      ],
+      "wheels": {
+        "aries_cloudagent-0.7.2-py3-none-any.whl": [
+          "NT8XoCabsI4KCrzwp4doMxELfx9DHgZwWNExolW1vkc=",
           "py3"
         ]
       }
@@ -13072,6 +13090,18 @@
         ]
       }
     },
+    "0.0.86": {
+      "sdist": [
+        "HmMK4CnsXJfAZ6gTG3sa82z7cITib+vcGRf5F2JQq6U=",
+        "cdk-sns-notify-0.0.86.tar.gz"
+      ],
+      "wheels": {
+        "cdk_sns_notify-0.0.86-py3-none-any.whl": [
+          "In+LI1HJNednAUBdGIgowPlrB5oLdk/5WFQV7qORZMQ=",
+          "py3"
+        ]
+      }
+    },
     "0.0.9": {
       "sdist": [
         "+B2WDbndFaQwavxXWFD9mLvWkDxsBaBBsCUGfXIylzw=",
@@ -16996,6 +17026,18 @@
         ]
       }
     },
+    "0.27.2": {
+      "sdist": [
+        "ARqRDn0FPJm87gb027Rs81V87IRcOlZdKRLciPL6opA=",
+        "compliance-trestle-0.27.2.tar.gz"
+      ],
+      "wheels": {
+        "compliance_trestle-0.27.2-py2.py3-none-any.whl": [
+          "GWlUAp+lWiC2kp3ON9H3EfKE7qBv9+Mi6uO3TqTDCdU=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "TWBjMHqmJvKYxMIrLZcK0rBtmjJooV6FzP5Tpk3NF6U=",
@@ -18336,6 +18378,58 @@
         ],
         "connectorx-0.2.2a4-cp39-cp39-win_amd64.whl": [
           "OEREWZQT0u9IZ2z/5lNWNQJqnrxgclWsFbcqhS4Umn8=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.2a5": {
+      "wheels": {
+        "connectorx-0.2.2a5-cp310-cp310-macosx_10_15_intel.whl": [
+          "hxQnzKDRsPmZ7ZCUJw0c4KBzKQr7i/ki/dSLDxqorHg=",
+          "cp310"
+        ],
+        "connectorx-0.2.2a5-cp310-cp310-manylinux2014_x86_64.whl": [
+          "e7OcuwRphddbzMvi96lgMiwlUd/+rZ22ycN7xhfvGOE=",
+          "cp310"
+        ],
+        "connectorx-0.2.2a5-cp310-cp310-win_amd64.whl": [
+          "8eM/Sv10N+kLUtohBBlRw8cXDgNioHkB13JALoH+Krg=",
+          "cp310"
+        ],
+        "connectorx-0.2.2a5-cp37-cp37m-macosx_10_15_intel.whl": [
+          "D3hvab3ESN8P7sSlUD22cZPpwDxzhM4Ao+RcnTwk0QU=",
+          "cp37"
+        ],
+        "connectorx-0.2.2a5-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "WxEtHKAlJDLa5y4uzojsZhwmS1NoATapv6vkAQGdWKI=",
+          "cp37"
+        ],
+        "connectorx-0.2.2a5-cp37-cp37m-win_amd64.whl": [
+          "rwNvZfuZXSc4wHVvCgp6SALc8sERhwdTIhzodDD3Iuc=",
+          "cp37"
+        ],
+        "connectorx-0.2.2a5-cp38-cp38-macosx_10_15_intel.whl": [
+          "aFfKwGrY2dJGCFNTSqo9fLs6vcFS6n1LiqTRTA8cve8=",
+          "cp38"
+        ],
+        "connectorx-0.2.2a5-cp38-cp38-manylinux2014_x86_64.whl": [
+          "jxc4EJ8Q4hIulFDrxKvBR4qm0N/airf6GHCvNDURlNY=",
+          "cp38"
+        ],
+        "connectorx-0.2.2a5-cp38-cp38-win_amd64.whl": [
+          "/dk9bFvdFJlS3ipg+sIWvBNzQ7MZJKpPkIXyQhkgk8Y=",
+          "cp38"
+        ],
+        "connectorx-0.2.2a5-cp39-cp39-macosx_10_15_intel.whl": [
+          "icp6zXcrUk1tATDn2MZuBHFQUjc5CTY/BwF3AfaeStQ=",
+          "cp39"
+        ],
+        "connectorx-0.2.2a5-cp39-cp39-manylinux2014_x86_64.whl": [
+          "WY+Vn2jJEjpR00tYDNXltK/Wqe26V7OuM2QyHnNTpGc=",
+          "cp39"
+        ],
+        "connectorx-0.2.2a5-cp39-cp39-win_amd64.whl": [
+          "j9wIwejW/ZxDupBtzEOu60S+gqSzBEnaPq9KjGLXYKY=",
           "cp39"
         ]
       }
@@ -21584,6 +21678,18 @@
       "sdist": [
         "Gy4v4aztRHmBb6u5dOZH1KNs1RlFwB2UkgP1RcvQmA8=",
         "description-extractor-2.3.5.tar.gz"
+      ]
+    },
+    "3.0.0": {
+      "sdist": [
+        "ADwcS8kmrebEfssh82jqxMgPqJcnv/2LNlm9K1pawvU=",
+        "description-extractor-3.0.0.tar.gz"
+      ]
+    },
+    "3.0.0.dev0": {
+      "sdist": [
+        "G/6cN7CqOZCHvdVLQvaW2+IL+YW0pZIAyC0UE8CcCnc=",
+        "description-extractor-3.0.0.dev0.tar.gz"
       ]
     }
   },
@@ -91653,6 +91759,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.7": {
+      "sdist": [
+        "n+6Ivn063a0WJPtjwXP1RPn4Ap+TxCo8vDa49b1P/jM=",
+        "quick_eda-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "quick_eda-0.1.7-py3-none-any.whl": [
+          "8l8gfTGG689gy86/XRawa2qrBD87EpBY19UKukXx9zE=",
+          "py3"
+        ]
+      }
     }
   },
   "quickmail": {
@@ -109944,6 +110062,18 @@
       "wheels": {
         "tencentcloud_sdk_python_faceid-3.0.525-py2.py3-none-any.whl": [
           "mLqibHfw4IJ94n2wxXarUCiYTrst0U9hV4s9FLrPVDQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.526": {
+      "sdist": [
+        "i3+hgPNd9OC2MhckXEu8Hlto42AML7isfP8JP5VUPJE=",
+        "tencentcloud-sdk-python-faceid-3.0.526.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_faceid-3.0.526-py2.py3-none-any.whl": [
+          "rNIIFb8zNLZux4wPb6CURgD6fGQhw13XlqYYv+Ifhvo=",
           "py2.py3"
         ]
       }

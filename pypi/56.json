@@ -16853,6 +16853,12 @@
         "otjZA2D0M7weQLWCo64WnlOfZ5oQOlqdDeix3nnNqSw=",
         "constructor-io-0.0.9.tar.gz"
       ]
+    },
+    "1.0.0": {
+      "sdist": [
+        "0+FGqiJp6FF5DhvTxR66g4fISpND8v6t0kzRG08nCvQ=",
+        "constructor-io-1.0.0.tar.gz"
+      ]
     }
   },
   "context-vars-log-request-id": {
@@ -62177,6 +62183,24 @@
       }
     }
   },
+  "odoo13-addon-website-sale-stock-force-block": {
+    "13.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo13_addon_website_sale_stock_force_block-13.0.1.0.1.dev2-py3-none-any.whl": [
+          "leveOzUxE3i/J1Dk+dE7ZyzHFQ9IoYcGNrYwyo2UEfQ=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo13_addon_website_sale_stock_force_block-13.0.1.0.1.dev3-py3-none-any.whl": [
+          "p7ZX+pzxSOnMm1Oy18IaNEmeuXueWWIGwEo74DVIJ6g=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo14-addon-account-invoice-overdue-warn-sale": {
     "14.0.1.0.1.dev3": {
       "wheels": {
@@ -62276,6 +62300,16 @@
       "wheels": {
         "odoo14_addons_oca_connector_telephony-14.0.20211016.0-py3-none-any.whl": [
           "RTk2crGVyYDo+CqrUlbjiLu2h0wZ/NHdMVrVPCZWC8k=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addons-oca-data-protection": {
+    "14.0.20211115.0": {
+      "wheels": {
+        "odoo14_addons_oca_data_protection-14.0.20211115.0-py3-none-any.whl": [
+          "yBl9KyZI8XNINrjn1NNpzdSWeteRb/qWfQ9etYmDMPU=",
           "py3"
         ]
       }
@@ -100823,6 +100857,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.526": {
+      "sdist": [
+        "P0S1X37SL/fCK+9h1lHi3tbpPpwe026OFpp68vF6RS4=",
+        "tencentcloud-sdk-python-sms-3.0.526.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sms-3.0.526-py2.py3-none-any.whl": [
+          "00Yy/5F+unRvwcp1QaimLL7H9afYf0qKrZdZVZ8e7A8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-trtc": {
@@ -104125,6 +104171,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.526": {
+      "sdist": [
+        "oXqDoVjgSLBNgZtFQAEsVf7gHSKAWPcra6oas2w4aUE=",
+        "tencentcloud-sdk-python-trtc-3.0.526.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_trtc-3.0.526-py2.py3-none-any.whl": [
+          "ho6Hu6R0F1/AcUmV5/LLClO6WYQRM1MHk2rNa1uldis=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendo": {
@@ -107052,8 +107110,52 @@
     },
     "0.3.0": {
       "wheels": {
+        "tflite_support-0.3.0-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "Zy1oKLjPVCzUgxOI8GUJnCnxGm68IMBfBOewJ4d9A3o=",
+          "cp36"
+        ],
+        "tflite_support-0.3.0-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "jrzBEaAceYZmi/VKz2/lzB4MzBdgB83+rF+0jbMQ3tE=",
+          "cp36"
+        ],
+        "tflite_support-0.3.0-cp36-cp36m-win_amd64.whl": [
+          "UBiQttlZyQ9ALcFHq8k6nfoMR/IrkXh0OOwfDVLvNFE=",
+          "cp36"
+        ],
+        "tflite_support-0.3.0-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "xKXky0c42q1LwKyVizUwc1mpdbwR5qfOI9pTpUknqio=",
+          "cp37"
+        ],
+        "tflite_support-0.3.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "bp3XL09E4x7CkVNpoc1beNQl1dpzIfXuc/+mzn4hGe4=",
+          "cp37"
+        ],
+        "tflite_support-0.3.0-cp37-cp37m-win_amd64.whl": [
+          "3mmps73CUXIpwjabXvT+xqI4t3rPCyENZZflUxSkRCc=",
+          "cp37"
+        ],
+        "tflite_support-0.3.0-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "+f2u+c9Ry+s3aLGnDQ049jVZsUTWv8CuLWtp6IZxWAs=",
+          "cp38"
+        ],
+        "tflite_support-0.3.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "uXeKQSsHeMYuuBlP6ZXO6qjq2X2uGtuLC8dGuFdHrAg=",
+          "cp38"
+        ],
+        "tflite_support-0.3.0-cp38-cp38-win_amd64.whl": [
+          "xrPYI/o91ND9706XvVn5o63pUIRPhw0KveKVxxfnKHs=",
+          "cp38"
+        ],
+        "tflite_support-0.3.0-cp39-cp39-macosx_10_11_x86_64.whl": [
+          "qSVbjKBRUTIKgCzFTzlWE+aDCwsGcQHRSHeBihFIQZ0=",
+          "cp39"
+        ],
         "tflite_support-0.3.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "XHfEAjtdvQbtZxVJ4gv2kIj8eTxBnygFDkn9ZQIgOAE=",
+          "cp39"
+        ],
+        "tflite_support-0.3.0-cp39-cp39-win_amd64.whl": [
+          "xo4MFGNbBK6I6lCVHy9xASMUQPMFgQzADB7k8SKFm74=",
           "cp39"
         ]
       }
@@ -119332,6 +119434,18 @@
       "wheels": {
         "virt_stats-2.0.1-py3-none-any.whl": [
           "6ND7c7ko2V8RnWXPzagYZjXM9I3V19nzkiCOghlULQs=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2": {
+      "sdist": [
+        "yjZ5QTXOzuJB4D8M17iVd5S9yErdaTTB7xmCGmnm+0w=",
+        "virt_stats-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "virt_stats-2.0.2-py3-none-any.whl": [
+          "RBbZ9kiprREnoTFzCI45voLCEaO3ewJd1W1ndsV+eMw=",
           "py3"
         ]
       }
