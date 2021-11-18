@@ -115,6 +115,16 @@
       ]
     }
   },
+  "acuitylite": {
+    "6.0.0": {
+      "wheels": {
+        "acuitylite-6.0.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "cWzm/hM2dIpcuJReUDlaWjBjPez0uZsGjc4Zc+eOPuk=",
+          "cp38"
+        ]
+      }
+    }
+  },
   "adafruit-circuitpython-oauth2": {
     "1.0.0": {
       "sdist": [
@@ -6895,6 +6905,20 @@
       }
     }
   },
+  "automation3270library": {
+    "0.1.0": {
+      "sdist": [
+        "/h063gt4hnrXxNvB87pfLrv5p4wLPtzXARnRg/HjRf4=",
+        "Automation3270Library-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "Automation3270Library-0.1.0-py3-none-any.whl": [
+          "4fnmkyUn5GfIOS76ayA3bOAs2TWv7k7RllmgPvY9W2Y=",
+          "py3"
+        ]
+      }
+    }
+  },
   "autoneo": {
     "0.0.1": {
       "sdist": [
@@ -9410,6 +9434,18 @@
         ],
         "bigdl_chronos-0.14.0b2021111711-py3-none-manylinux1_x86_64.whl": [
           "DT+jhQd3snneu7ZX1hy0obhelJcAn9SbQxdfsoVze3s=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.0b2021111812": {
+      "wheels": {
+        "bigdl_chronos-0.14.0b2021111812-py3-none-macosx_10_11_x86_64.whl": [
+          "40iKB8KMqttx7Im1Ok6n8y9tf8/Z9Pp9jczUu1Br8mM=",
+          "py3"
+        ],
+        "bigdl_chronos-0.14.0b2021111812-py3-none-manylinux1_x86_64.whl": [
+          "KFm3eL3x/AU/xvwKcVqRHcg6Ld9108zrjFj78pHxoDo=",
           "py3"
         ]
       }
@@ -77684,34 +77720,6 @@
         ]
       }
     },
-    "2.1.2rc0": {
-      "wheels": {
-        "pantsbuild.pants-2.1.2rc0-cp36-cp36m-macosx_10_11_x86_64.whl": [
-          "5AAVrn3UPq/67EMJJYh0NTMjYfd+5VoWW8i09i44+1Q=",
-          "cp36"
-        ],
-        "pantsbuild.pants-2.1.2rc0-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "tFvO22q2l4Td9oGgRZN3584DjBh+mkXGbeShXI65lVc=",
-          "cp36"
-        ],
-        "pantsbuild.pants-2.1.2rc0-cp37-cp37m-macosx_10_11_x86_64.whl": [
-          "cWpbQVo7BE9rDE5AYK03rjkYQCZnZYJoYHllsUlNz8E=",
-          "cp37"
-        ],
-        "pantsbuild.pants-2.1.2rc0-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "uC65yNXLmDsRe2FRRU9OaI4saaieKpWFCFY6PcXQxfI=",
-          "cp37"
-        ],
-        "pantsbuild.pants-2.1.2rc0-cp38-cp38-macosx_10_11_x86_64.whl": [
-          "eSN8TB6cwD2ExRrNgs5v2F96XFJBNOrhWokqu9XQGyo=",
-          "cp38"
-        ],
-        "pantsbuild.pants-2.1.2rc0-cp38-cp38-manylinux2014_x86_64.whl": [
-          "O8QlonCOetlCeewPJUuwWI8bZmhLZ0K6ZLMUaNqAkiY=",
-          "cp38"
-        ]
-      }
-    },
     "2.2.0": {
       "wheels": {
         "pantsbuild.pants-2.2.0-cp37-cp37m-macosx_10_11_x86_64.whl": [
@@ -77748,26 +77756,6 @@
         ],
         "pantsbuild.pants-2.2.1-cp38-cp38-manylinux2014_x86_64.whl": [
           "t5et17DSqpBKZ7agTuGCIeS3ivHkj7ob2/Wfg/+iuMg=",
-          "cp38"
-        ]
-      }
-    },
-    "2.2.1rc0": {
-      "wheels": {
-        "pantsbuild.pants-2.2.1rc0-cp37-cp37m-macosx_10_11_x86_64.whl": [
-          "V7y8sBhTYex7SDgimrV9kSemIAaDI/SSodoeqTsQgZg=",
-          "cp37"
-        ],
-        "pantsbuild.pants-2.2.1rc0-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "HNOkM9QidNBlRFgYWSHQnUFJjCvDXRxhtNpZuGsDRZ0=",
-          "cp37"
-        ],
-        "pantsbuild.pants-2.2.1rc0-cp38-cp38-macosx_10_11_x86_64.whl": [
-          "BN9fXsbzRkDaPwAcaYZ/6ngPGCJ+1p2jmm13kpdI3IU=",
-          "cp38"
-        ],
-        "pantsbuild.pants-2.2.1rc0-cp38-cp38-manylinux2014_x86_64.whl": [
-          "vmrr1OgLyS0w4IeDwHfZxEFj+koOATdYA1vcYX8hUnc=",
           "cp38"
         ]
       }
@@ -77968,46 +77956,6 @@
         ],
         "pantsbuild.pants-2.3.0-cp38-cp38-manylinux2014_x86_64.whl": [
           "pxFb6kDIt82/zj00Poa15+WGg2vqaPkxViaSDzw31Pk=",
-          "cp38"
-        ]
-      }
-    },
-    "2.3.0rc0": {
-      "wheels": {
-        "pantsbuild.pants-2.3.0rc0-cp37-cp37m-macosx_10_11_x86_64.whl": [
-          "mVAlLXZjR01csHDSJaUd5CVM/+NmkSqa8fun7nk7vVk=",
-          "cp37"
-        ],
-        "pantsbuild.pants-2.3.0rc0-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "H/BCsLQCb1o+kSy1JOs9/p55WFfAOtiqFA9Cvk2diKw=",
-          "cp37"
-        ],
-        "pantsbuild.pants-2.3.0rc0-cp38-cp38-macosx_10_11_x86_64.whl": [
-          "mFA9cJuOM1XI9+4K9KYpBH7Nt/jL2UtA28BUyJizUgQ=",
-          "cp38"
-        ],
-        "pantsbuild.pants-2.3.0rc0-cp38-cp38-manylinux2014_x86_64.whl": [
-          "piV340fxSfy/C8BgaAYOWXq8QfODHGZA8R1mTUo0DwE=",
-          "cp38"
-        ]
-      }
-    },
-    "2.3.0rc1": {
-      "wheels": {
-        "pantsbuild.pants-2.3.0rc1-cp37-cp37m-macosx_10_11_x86_64.whl": [
-          "mdcWXPNQrnMWeozkJXfTJR+vuZzMeXUMNJ3mEqmJZSo=",
-          "cp37"
-        ],
-        "pantsbuild.pants-2.3.0rc1-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "fBSxdDUd/wjuLOIm3rHFQYYc5lZolhQiES9hvZ7SJwk=",
-          "cp37"
-        ],
-        "pantsbuild.pants-2.3.0rc1-cp38-cp38-macosx_10_11_x86_64.whl": [
-          "3m4hPdV6q2WBLOuI9XfMZo/0KqbmT96V+5VRkNyXlL8=",
-          "cp38"
-        ],
-        "pantsbuild.pants-2.3.0rc1-cp38-cp38-manylinux2014_x86_64.whl": [
-          "gS0zoPiHH9R5xKSZMqvh67EOqgUJbmc8zWCLOTTyoZ4=",
           "cp38"
         ]
       }
@@ -79088,34 +79036,6 @@
         ],
         "pantsbuild.pants-2.6.0-cp39-cp39-manylinux2014_x86_64.whl": [
           "nZg3LEsC3tDIuXWH7rFWduKr1Z/xjQmvZ+J5wevTpLw=",
-          "cp39"
-        ]
-      }
-    },
-    "2.6.0.dev0": {
-      "wheels": {
-        "pantsbuild.pants-2.6.0.dev0-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "06ykrJT7QlyWwlEM/BrxXe9BqcJjjwsYBLELrOvFzgE=",
-          "cp37"
-        ],
-        "pantsbuild.pants-2.6.0.dev0-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "Ib0q5WAgyaZ3S4neQA0nztHmmpLY/CTj4om5/fNuO/s=",
-          "cp37"
-        ],
-        "pantsbuild.pants-2.6.0.dev0-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "lNaH+hYqJJB61S8D22OifuiGyloStyscuv64bT0EmKU=",
-          "cp38"
-        ],
-        "pantsbuild.pants-2.6.0.dev0-cp38-cp38-manylinux2014_x86_64.whl": [
-          "/9R/t329Lr1qigrdoFtPo8hxJe1u1qaxmohuiUGIkKU=",
-          "cp38"
-        ],
-        "pantsbuild.pants-2.6.0.dev0-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "NakZAbhBjswbSPjDRvx8azIxSUf/Eze0Ukzo5QrtI4c=",
-          "cp39"
-        ],
-        "pantsbuild.pants-2.6.0.dev0-cp39-cp39-manylinux2014_x86_64.whl": [
-          "DDvZlhndqD4GJl++a3ei7yrFGXycArjJvVd03vcDnl8=",
           "cp39"
         ]
       }
@@ -80544,6 +80464,34 @@
         ],
         "pantsbuild.pants-2.8.0rc6-cp39-cp39-manylinux2014_x86_64.whl": [
           "+mF0a8OspGS9+Vll7HyJXyv5zMqDFQl48ErUXsyoE7I=",
+          "cp39"
+        ]
+      }
+    },
+    "2.8.1rc0": {
+      "wheels": {
+        "pantsbuild.pants-2.8.1rc0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "vtKun98PHQcjWlLEvJvTCy1yXV2zYKZL1Ixm+v8GsaE=",
+          "cp37"
+        ],
+        "pantsbuild.pants-2.8.1rc0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "q3bKYncqguD90A3vQs9j8XB2t+u83e/eK6GgPS4oLDA=",
+          "cp37"
+        ],
+        "pantsbuild.pants-2.8.1rc0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "2cG4Q43Wu9bFSNuTsrUKAy+bkO2141zey7CPE+HRQ2Q=",
+          "cp38"
+        ],
+        "pantsbuild.pants-2.8.1rc0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "Z4V8GQw5q/xAS70DMhvxnY38J0ezbnBrGG9H3YYLxZI=",
+          "cp38"
+        ],
+        "pantsbuild.pants-2.8.1rc0-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "aI7ZBNTYgOd+rVvuKUgEYaXnOnzXQOJfamFGwHxum/4=",
+          "cp39"
+        ],
+        "pantsbuild.pants-2.8.1rc0-cp39-cp39-manylinux2014_x86_64.whl": [
+          "H00wNqtvtPNi5ahpX+1hPJgPa6G4awBZvxevsZxHx/M=",
           "cp39"
         ]
       }
@@ -110790,6 +110738,18 @@
         ]
       }
     },
+    "0.22.1": {
+      "sdist": [
+        "TDmtUoYiv4rOAE1d+lw8ipaDKdNfLTp9nY7Jg5Dh454=",
+        "squad-client-0.22.1.tar.gz"
+      ],
+      "wheels": {
+        "squad_client-0.22.1-py3-none-any.whl": [
+          "Mkqxfbk/16O17zywYwXBB/99Mey19CuJyoYri3ZX8xY=",
+          "py3"
+        ]
+      }
+    },
     "0.3": {
       "sdist": [
         "JeSnY9NpaSTOtKXqovy/xSt73MlxR6Z7w1cDU+7SU24=",
@@ -113563,6 +113523,20 @@
         "Tf2NE/AojL6GYDnnforw9z7RGgBMKDCZL8VyFKVBXaw=",
         "swiss-0.3.tar.gz"
       ]
+    }
+  },
+  "sylpy": {
+    "0.4": {
+      "sdist": [
+        "CKb/5iGTBjC1caWG8teiZL8SYc4CrKvL3B+Qi5VugSs=",
+        "sylpy-0.4.tar.gz"
+      ],
+      "wheels": {
+        "sylpy-0.4-py3-none-any.whl": [
+          "w0YySfbNPzkZhg6B9EheXDqvt2nSPwteCBlNB3ZwCs8=",
+          "py3"
+        ]
+      }
     }
   },
   "symmetrypy": {
