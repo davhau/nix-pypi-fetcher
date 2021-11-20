@@ -5048,6 +5048,18 @@
         ]
       }
     },
+    "1.133.0": {
+      "sdist": [
+        "wd2dKJ+AxItg33jqPnOBNP/a0DFCqxkRxpQ9lou2caM=",
+        "aws-cdk.aws-events-1.133.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_events-1.133.0-py3-none-any.whl": [
+          "7GQDI9Engvtx9geIAjvldVFE6TnItYI5p2/XRk9Aojk=",
+          "py3"
+        ]
+      }
+    },
     "1.14.0": {
       "sdist": [
         "ZP2VFBtn4oBT7aMdTc9GHlLfNPp+6Ah/Ls9NSIdyoW8=",
@@ -6930,6 +6942,18 @@
       "wheels": {
         "aws_cdk.aws_qldb-1.132.0-py3-none-any.whl": [
           "S5rKeCEyeQ262U1CjHSlq5Pp8OSFD+EWmB4mAa0eKtk=",
+          "py3"
+        ]
+      }
+    },
+    "1.133.0": {
+      "sdist": [
+        "+tr8n1wItw1bAc197rqJoXU/pe4C+PhTVnk/hFY4eis=",
+        "aws-cdk.aws-qldb-1.133.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_qldb-1.133.0-py3-none-any.whl": [
+          "xp+fHmgPb4Fs42mGxX2GSSwE8XMso/rCuZcSssoN6N4=",
           "py3"
         ]
       }
@@ -57024,6 +57048,18 @@
         ]
       }
     },
+    "0.16.0": {
+      "sdist": [
+        "7837VKSU+/4Fp1KPH0UUo1o59n+3Jk8Dcgx+iX3ri6c=",
+        "git-portfolio-0.16.0.tar.gz"
+      ],
+      "wheels": {
+        "git_portfolio-0.16.0-py3-none-any.whl": [
+          "1K1qI27S2+yzKIgWpcKeF5MlrffirKoZ8zcGFZh44C4=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "Z4pnVpgM1Y6u5rdFrHlRylUNI8M+9n03hfozFzKVRyg=",
@@ -59800,6 +59836,12 @@
       "sdist": [
         "Ilscotf14ozNxoPaeb3zF404qDsxhjSlMWl5hHzWq5g=",
         "h2o_pysparkling_2.4-3.34.0.3-1.tar.gz"
+      ]
+    },
+    "3.34.0.4-1": {
+      "sdist": [
+        "nX3A58j9JkL+emJQjVXtM2eF0p1rKkM6xYhcTj47440=",
+        "h2o_pysparkling_2.4-3.34.0.4-1.tar.gz"
       ]
     }
   },
@@ -96680,74 +96722,14 @@
     }
   },
   "psup": {
-    "0.1.2a0": {
+    "0.1.1.8a0": {
       "sdist": [
-        "ZIUKu2jq4Zut/BR0DsSX4wRh1O2MN4DFvfxUMOBip0c=",
-        "psup-0.1.2a0.tar.gz"
+        "bs6swGMyXJ9sU2a2kiNjA1PEtEQ7VOImkIIFjKw6uhQ=",
+        "psup-0.1.1.8a0.tar.gz"
       ],
       "wheels": {
-        "psup-0.1.2a0-py3-none-any.whl": [
-          "ROZRncWBgcs0KO4hxAsEM/lC5upXn1LjE/j3AXMM9z4=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3a0": {
-      "sdist": [
-        "Amow85rxgaWlFsw0c0FI+PXlgKMTYBc8GN9tQdFVti4=",
-        "psup-0.1.3a0.tar.gz"
-      ],
-      "wheels": {
-        "psup-0.1.3a0-py3-none-any.whl": [
-          "d+WdmQESinnAAFxiOiFxkIb/1WWTnyW72KGxWRD099M=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4a0": {
-      "sdist": [
-        "l7sTOmhCEk5+WINm/0uKbHb80Ppxu8IZZXXhwVsQsCs=",
-        "psup-0.1.4a0.tar.gz"
-      ],
-      "wheels": {
-        "psup-0.1.4a0-py3-none-any.whl": [
-          "GOVTIzYpwDIqhriArJ53ibXFX99B6ZaWExi38C/fnbc=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5.1a0": {
-      "sdist": [
-        "FKgRGiKxo69GFBCJ+cAJMqvncDFH3QTvYo+rnCCxtD0=",
-        "psup-0.1.5.1a0.tar.gz"
-      ],
-      "wheels": {
-        "psup-0.1.5.1a0-py3-none-any.whl": [
-          "WpBCe1JojriaNxK8GDhsSPzIvSbLvYdlwDAN9+PHlBI=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5.2a0": {
-      "sdist": [
-        "Dbhs/bGCukjLMFfPf2a9ukoqTm17KPl2SjDUjFeMUec=",
-        "psup-0.1.5.2a0.tar.gz"
-      ],
-      "wheels": {
-        "psup-0.1.5.2a0-py3-none-any.whl": [
-          "cbgANOaX8fYj16rv2KYvFoY8eaeRT2aTyEwT/og5pnA=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5a0": {
-      "sdist": [
-        "etH93jN8uGLCTFzvP4Uh6ydIgIDscGPukZ1Du/tiwPo=",
-        "psup-0.1.5a0.tar.gz"
-      ],
-      "wheels": {
-        "psup-0.1.5a0-py3-none-any.whl": [
-          "wb2KbSrf9B5pScHv4VESqzsu/JPcm+EDPtGae7HMdw8=",
+        "psup-0.1.1.8a0-py3-none-any.whl": [
+          "WPAtpb/89mvoG+dNHsONZe7ZsFT85+lw7TgQYQGPQws=",
           "py3"
         ]
       }
@@ -117160,6 +117142,66 @@
         ]
       }
     },
+    "13242": {
+      "sdist": [
+        "o1YSUUgUJ4DKTvIiqPo1zK89Foi3wVArS27ioNI/NSI=",
+        "quantconnect-stubs-13242.tar.gz"
+      ],
+      "wheels": {
+        "quantconnect_stubs-13242-py3-none-any.whl": [
+          "bo9NPwnj+1flC7yn1OqT3XGeuyXHyyTrZpo+ljE7QVk=",
+          "py3"
+        ]
+      }
+    },
+    "13244": {
+      "sdist": [
+        "TFlLPYm/jm+W6yYJI2nXgl2o3keccR3QYfmhjVLFHo8=",
+        "quantconnect-stubs-13244.tar.gz"
+      ],
+      "wheels": {
+        "quantconnect_stubs-13244-py3-none-any.whl": [
+          "MqWfLzkLrkk+R8fYEliA4B6vVT2SpDBxQnOvB4ZsSQc=",
+          "py3"
+        ]
+      }
+    },
+    "13245": {
+      "sdist": [
+        "bntjCpZBcMBzJgHqn80WXErsOKAH4kfDJlLLC26Yzqs=",
+        "quantconnect-stubs-13245.tar.gz"
+      ],
+      "wheels": {
+        "quantconnect_stubs-13245-py3-none-any.whl": [
+          "xaK51OYmvx6n7ejP/2aHEL1Rg6UpRHUPLpoi9IVFR8M=",
+          "py3"
+        ]
+      }
+    },
+    "13247": {
+      "sdist": [
+        "6kG7Ra9wIS7OM8DL8uXk1qtiQtJK2EDRFM7ihRLh5cg=",
+        "quantconnect-stubs-13247.tar.gz"
+      ],
+      "wheels": {
+        "quantconnect_stubs-13247-py3-none-any.whl": [
+          "iKDTdW+zorryj7y+mD/QYupqs/q6ouOU+ytYDqJKpb8=",
+          "py3"
+        ]
+      }
+    },
+    "13252": {
+      "sdist": [
+        "M75TOfmQr8mULNkcHNzHDjnST57F6sjSI3WqRiuQR/A=",
+        "quantconnect-stubs-13252.tar.gz"
+      ],
+      "wheels": {
+        "quantconnect_stubs-13252-py3-none-any.whl": [
+          "AnVFjGdN1NwxhOp8VsT6D9Qpx57QVu3R3paS0qX3kBQ=",
+          "py3"
+        ]
+      }
+    },
     "9811": {
       "sdist": [
         "px/L4DK/RjuKWL+wnz8sFh+4PdQJvdbUNlwCHRcuJog=",
@@ -122388,6 +122430,18 @@
       "wheels": {
         "simplisafe_python-2021.11.1-py3-none-any.whl": [
           "wQAGsIluQ7OHfhq0Fv5KvOlLk5VaiW4lnaLgqE3eBYo=",
+          "py3"
+        ]
+      }
+    },
+    "2021.11.2": {
+      "sdist": [
+        "wKsVMLxjPimW8dUKvu1XiCOJrJVaFoWeOV24EXJQD+o=",
+        "simplisafe-python-2021.11.2.tar.gz"
+      ],
+      "wheels": {
+        "simplisafe_python-2021.11.2-py3-none-any.whl": [
+          "Nt4wo0r4ZcnXW1Hcj6OGOzkcJCj+73JWISLPPKubYzU=",
           "py3"
         ]
       }
