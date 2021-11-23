@@ -6078,6 +6078,18 @@
         ]
       }
     },
+    "1.134.0": {
+      "sdist": [
+        "kkcoK0Re88oHdehMYon9i+uqa9pyHiKYvNtx/yQ97Zk=",
+        "aws-cdk.aws-fms-1.134.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_fms-1.134.0-py3-none-any.whl": [
+          "XBX7t3vPqfqRIeolkNuvNGSDf7OQ3RE9kNiLQcLwWYs=",
+          "py3"
+        ]
+      }
+    },
     "1.25.0": {
       "sdist": [
         "cRpD3Ee9D9Y+UPWY1YosbJoGS595pNkCNN6UlY19oWQ=",
@@ -45106,6 +45118,18 @@
       "wheels": {
         "dbcat-0.10.2-py3-none-any.whl": [
           "47KB05zCEVNLITnqzbLd+nc5kY8uYfDLE9T0ny9Fs6M=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.3": {
+      "sdist": [
+        "xMBdf5Lc+BpTZ5e4GC5CBKl6RR9vId7wZ0Em90o8NVE=",
+        "dbcat-0.10.3.tar.gz"
+      ],
+      "wheels": {
+        "dbcat-0.10.3-py3-none-any.whl": [
+          "oQGZ6vima/rKGwSYQ1aj0InE6cK01URM4HVM/4+pS2s=",
           "py3"
         ]
       }
@@ -84939,6 +84963,14 @@
       }
     }
   },
+  "not-semver": {
+    "1.9": {
+      "sdist": [
+        "drKtNgLLNPpaRCaCRezgjGkasPIvHf8zmo2CGrWIeSM=",
+        "not_semver-1.9.tar.gz"
+      ]
+    }
+  },
   "notebook-parameterizer": {
     "0.0.1": {
       "sdist": [
@@ -105916,6 +105948,30 @@
         ]
       }
     },
+    "0.2.47": {
+      "sdist": [
+        "h6hw+af+P3IJp8ZuxpIVZhlu+o6JYqLYMavtIW88Fm4=",
+        "pyskyqremote-0.2.47.tar.gz"
+      ],
+      "wheels": {
+        "pyskyqremote-0.2.47-py3-none-any.whl": [
+          "PzAuZ8cN4SmUuOij92wbdBcINqN0o558tQ980A3303A=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.48": {
+      "sdist": [
+        "mcAzd51z1p+qqME5qvnCjw5oDdoB0R+TdYLP2tivqj8=",
+        "pyskyqremote-0.2.48.tar.gz"
+      ],
+      "wheels": {
+        "pyskyqremote-0.2.48-py3-none-any.whl": [
+          "hwTS3DiWyZuwalrMTq9w27FwEgvoYY7KP8KICbvcS7w=",
+          "py3"
+        ]
+      }
+    },
     "0.2.5": {
       "sdist": [
         "G7UxNBRkQTrdDxQVz2zpldfvCVhqZIaJR4UF0Ef+3PQ=",
@@ -118156,6 +118212,90 @@
         ],
         "spectralradex-1.0.1-cp39-cp39-win_amd64.whl": [
           "sbm7u1LTTzXYA+rJYUSQg/k+TOPwGUc1+adpUXJwo4c=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.1": {
+      "wheels": {
+        "spectralradex-1.1.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "4bszwoQbui07mu1+nty5UE5KVDlyygC32d9XuzkTJBw=",
+          "cp36"
+        ],
+        "spectralradex-1.1.1-cp36-cp36m-manylinux2010_i686.whl": [
+          "kPN06lw8RTE61PdRM9zrwHBwc3WzC7xkEIWl9aYlDxs=",
+          "cp36"
+        ],
+        "spectralradex-1.1.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "xCmvED/72D9jt0A5SLGtR1Oh7Je7PGVyzkdxVKZtoGA=",
+          "cp36"
+        ],
+        "spectralradex-1.1.1-cp36-cp36m-win32.whl": [
+          "IPEw0o4t9NlNkbejZn8wlII0h11+BalwQuf0GOmP1H8=",
+          "cp36"
+        ],
+        "spectralradex-1.1.1-cp36-cp36m-win_amd64.whl": [
+          "taC3jCWH4Ms/1QLsh/dCZaQ9vEh4SBwGhIvoZ5gQUSw=",
+          "cp36"
+        ],
+        "spectralradex-1.1.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "19rQG4qXfddG+rjfOQLEs6gX/0wAX2961yoppOf4UZg=",
+          "cp37"
+        ],
+        "spectralradex-1.1.1-cp37-cp37m-manylinux2010_i686.whl": [
+          "LiwCFq7RDlQLCvn2dD/bIGI6m5u0RvdFN+aTcMd6s6w=",
+          "cp37"
+        ],
+        "spectralradex-1.1.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "woBtAm98w+7+hOSyavtn4ZJDLrxTzDyny0p6TUDbYb4=",
+          "cp37"
+        ],
+        "spectralradex-1.1.1-cp37-cp37m-win32.whl": [
+          "kiIE8Zka7Gc6Bwj3gmcf8ZWyzrPiMasrQSODOQ4nOTM=",
+          "cp37"
+        ],
+        "spectralradex-1.1.1-cp37-cp37m-win_amd64.whl": [
+          "2ETn/kupp05gssn8VhGww4yrJ9yKjaIxCOjMPHwY8h8=",
+          "cp37"
+        ],
+        "spectralradex-1.1.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "VTsdxuzdQo8A5adr6gz6E/UmlFSs6eTyyNKl8TobCeM=",
+          "cp38"
+        ],
+        "spectralradex-1.1.1-cp38-cp38-manylinux2010_i686.whl": [
+          "i2o5Sl5RayuQ6r4j+xYCpKXhwS59V9hHOLWYrzX+sqI=",
+          "cp38"
+        ],
+        "spectralradex-1.1.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "1S2hal4kp5HxHZBc5dTz22zDSOOPi88ktNnxIN23K/I=",
+          "cp38"
+        ],
+        "spectralradex-1.1.1-cp38-cp38-win32.whl": [
+          "vVxSTH8TAcxKXflxkgcXx6i1ovfa4FLl2D513DmX/EY=",
+          "cp38"
+        ],
+        "spectralradex-1.1.1-cp38-cp38-win_amd64.whl": [
+          "mAGYqDZOYJgQqqawBtILoPHN8oH33P5j8V4dYI/fCnY=",
+          "cp38"
+        ],
+        "spectralradex-1.1.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "OGseKj9PauRy2/vzTm4yEbBXpoGp5YWXM5JQzVqi5KE=",
+          "cp39"
+        ],
+        "spectralradex-1.1.1-cp39-cp39-manylinux2010_i686.whl": [
+          "FF4ZyqrumjfuUN7YlDdvTCtkFTWhgLVB5CQjK7LOy/I=",
+          "cp39"
+        ],
+        "spectralradex-1.1.1-cp39-cp39-manylinux2010_x86_64.whl": [
+          "G+xNcnsFIpRyWPdJAdNp65nhECZJDxNiOJNlbucnS4s=",
+          "cp39"
+        ],
+        "spectralradex-1.1.1-cp39-cp39-win32.whl": [
+          "NI2ikpy8+U4uGzQceL9V3apf4HyKBu+smQ5y5aQTipg=",
+          "cp39"
+        ],
+        "spectralradex-1.1.1-cp39-cp39-win_amd64.whl": [
+          "ogMP1XEa/w61tpRR1DjFbhkcmNJaC7JWLh+pjhicfKU=",
           "cp39"
         ]
       }
