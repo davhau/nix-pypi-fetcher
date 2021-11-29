@@ -28354,6 +28354,18 @@
         ]
       }
     },
+    "2.27.0.2021.11.29": {
+      "sdist": [
+        "t3U4t8xZzZyzLwvcDsMRPCmuppW4nyRH4yfjZwMCOU0=",
+        "datarobot_early_access-2.27.0.2021.11.29.tar.gz"
+      ],
+      "wheels": {
+        "datarobot_early_access-2.27.0.2021.11.29-py3-none-any.whl": [
+          "s++l/lMVdHZ5/WDnOI5vulfxtFZWfKBVsnMuYN1b6CQ=",
+          "py3"
+        ]
+      }
+    },
     "2.27.0.2021.11.8": {
       "sdist": [
         "m9ihtkzCM+npQn82hPJEJv5B2Ap9iu0jvUx5xTJqWok=",
@@ -50086,6 +50098,14 @@
       "wheels": {
         "huaweicloudsdkdeh-3.0.69-py2.py3-none-any.whl": [
           "tUD+LTa7kIvMYBur/IUXDmcUO+JxLsIXUn554cAa3JY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.70": {
+      "wheels": {
+        "huaweicloudsdkdeh-3.0.70-py2.py3-none-any.whl": [
+          "YLkMhPOZmQy6eylZHsuB/cVH4oKCBaAtEy/7MB49IeQ=",
           "py2.py3"
         ]
       }
@@ -84719,6 +84739,30 @@
           "cp39"
         ]
       }
+    },
+    "8.1": {
+      "wheels": {
+        "pyobjc_core-8.1-cp310-cp310-macosx_10_9_universal2.whl": [
+          "3dm5ZN8pL6C70NBpS+/kxSSXd4Dj8RIhrH6Gg9XpWQ8=",
+          "cp310"
+        ],
+        "pyobjc_core-8.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "tmYoBdKIzRv9JXVl3cB1QdAWKzFnrxXjn3plS5T2Zns=",
+          "cp37"
+        ],
+        "pyobjc_core-8.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "Q/JRiB/jbcucqfeUarE920qiSZvePIvy3IFEtf6IRik=",
+          "cp38"
+        ],
+        "pyobjc_core-8.1-cp38-cp38-macosx_11_0_universal2.whl": [
+          "eBz6ej9yznITtMNBtcVSzWO2Zks7REoj/LHV/dQXqos=",
+          "cp38"
+        ],
+        "pyobjc_core-8.1-cp39-cp39-macosx_10_9_universal2.whl": [
+          "lR5xatML6lIZD16CYE7ix/PcbARyLPCjMRrX5OavUTQ=",
+          "cp39"
+        ]
+      }
     }
   },
   "pyobjc-framework-videosubscriberaccount": {
@@ -110872,6 +110916,46 @@
         ],
         "tf_nightly_cpu-2.8.0.dev20211128-cp39-cp39-win_amd64.whl": [
           "1y7KFLG9ALBzXovO0FRKJBn8pZMEMbji7y+rnQKWLZg=",
+          "cp39"
+        ]
+      }
+    },
+    "2.8.0.dev20211129": {
+      "wheels": {
+        "tf_nightly_cpu-2.8.0.dev20211129-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "2lBeTwU0Vglm4C7u0/ExXLt0xosujFOt9ahXBVhaTfw=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211129-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "3R1CKOv4PtAKQobeAT8Bd41NUH98M8iZjmWf1ZfYr28=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211129-cp37-cp37m-win_amd64.whl": [
+          "QljwZAWQaEeZx9APNVx3r7eoxhE8KK6QNKOFbRIhsRc=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211129-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "gre6wIWyX5y1FQ4dxDbMKD6CMUAhRpPzYV89OKpI0bw=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211129-cp38-cp38-manylinux2010_x86_64.whl": [
+          "zBllirFHH58g4y7tL7/3CS0zGO3WZlTqo3lQ/1qWrHo=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211129-cp38-cp38-win_amd64.whl": [
+          "l0buD8VF44nARG4NSQ7tM0SrPuaJ5cJ1xJCXsATR01Q=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211129-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "oNxjid/yAu373tfUbxC2haOszrtupBbfPjYv/Bac3fo=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211129-cp39-cp39-manylinux2010_x86_64.whl": [
+          "HZAP4sIPZVDP8wa/K9P3euf8CqT9Ajxo+FGdQttXrfY=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.8.0.dev20211129-cp39-cp39-win_amd64.whl": [
+          "cb/T1mXM9dd1zPLl55nxlDkH8TLNVzxHh1nUUmc2zT0=",
           "cp39"
         ]
       }
