@@ -3966,6 +3966,12 @@
         "ansible-core-2.11.6rc1.tar.gz"
       ]
     },
+    "2.11.7rc1": {
+      "sdist": [
+        "uOFC5c3YVTOWjS2JCw5ZOMBXSIK6UmJj08h+66qnv7M=",
+        "ansible-core-2.11.7rc1.tar.gz"
+      ]
+    },
     "2.12.0": {
       "sdist": [
         "DpBJoauLjFTdyAc43AqytXhwvm/kzU5VhdRxVHq3SxM=",
@@ -3988,6 +3994,12 @@
       "sdist": [
         "lI2HaLkLAp0gICdqVT9Rg6khmYdwZ0/UF8ZsVuTtL+g=",
         "ansible-core-2.12.0rc1.tar.gz"
+      ]
+    },
+    "2.12.1rc1": {
+      "sdist": [
+        "FWb+OPjMg3zoM09UW5HnDPYeLT/87mz20ovbHQ9UI8Q=",
+        "ansible-core-2.12.1rc1.tar.gz"
       ]
     }
   },
@@ -12644,6 +12656,38 @@
         ],
         "bagua_cuda111-0.8.3.dev33-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "S1as52cda0olPEOD8vghPbXhqQjNlg2W71maevF290Q=",
+          "cp39"
+        ]
+      }
+    },
+    "0.8.3.dev34": {
+      "wheels": {
+        "bagua_cuda111-0.8.3.dev34-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dcCM/RgJKSqTuejj75LBUnXqYTeFtk5OVrueqtw7JII=",
+          "cp37"
+        ],
+        "bagua_cuda111-0.8.3.dev34-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XBXS1Uh+NUXM+qW7x6TyHdo8TpOYja/EGpX9P6PoBT0=",
+          "cp38"
+        ],
+        "bagua_cuda111-0.8.3.dev34-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8nkIdpjcRcONjsWFDLkmD7DIMFAmPmcArMeqcEUgn4I=",
+          "cp39"
+        ]
+      }
+    },
+    "0.8.3.dev35": {
+      "wheels": {
+        "bagua_cuda111-0.8.3.dev35-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MfmiA8UkFkzm5Z625YQ/Ybq+x2QcRTTKaagrMNWzN4c=",
+          "cp37"
+        ],
+        "bagua_cuda111-0.8.3.dev35-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "S6BaNJgZix/X3p/eNoMcunl+w+tW3UllBfSXglA6WeM=",
+          "cp38"
+        ],
+        "bagua_cuda111-0.8.3.dev35-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ihfH6eIiMQydFvMmqkm8frgAEbTD/tumdD2hBxgXxYs=",
           "cp39"
         ]
       }
@@ -24010,6 +24054,44 @@
       "wheels": {
         "devdeck_hue-0.0.1-py3-none-any.whl": [
           "gBq6QUG5UuJw5JrSFLYMrCLQccK15mzUl9CK0Fl4bdI=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "devdeck-obs": {
+    "0.1.0": {
+      "sdist": [
+        "eZ79LkZHs5IgEGGrJqrKdtgiR24boZzg/o2moksZf/s=",
+        "devdeck-obs-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "devdeck_obs-0.1.0-py3-none-any.whl": [
+          "ah5gK2Sfzw5LA9OoqbSszYJ/xUJyKo4wRDSZS/0xuIw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "RnbsPx8CJrWlseSMMfV9EqceslleaO/M+UsxypE+NKs=",
+        "devdeck-obs-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "devdeck_obs-0.1.1-py3-none-any.whl": [
+          "Y42D3z7ggtFoLk5dXmyVYW/6Bhr+967gJDRCR1RmZGY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "bVs1i7LKAfdJl6d9jnD/CtynN6Tx0KlPX2usGAcHFDs=",
+        "devdeck-obs-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "devdeck_obs-0.1.2-py3-none-any.whl": [
+          "O2reG1jVVhGn++G/PJrAIMXWfWmYrFM1RCQDG5F4Bxo=",
           "py3"
         ]
       }
@@ -40007,6 +40089,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.8.0": {
+      "sdist": [
+        "5JW9brphF7VuorR2RgSGzAUxnG0sZJWbk12yiagG6aw=",
+        "exotic-1.8.0.zip"
+      ],
+      "wheels": {
+        "exotic-1.8.0-py2.py3-none-any.whl": [
+          "4B3gdNkhV0MAM27V3nSVbZ/Z6VEitTuYKVL1BxfxIPo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "export": {
@@ -42342,6 +42436,18 @@
       "wheels": {
         "flake8_bugbear-21.11.28-py36.py37.py38-none-any.whl": [
           "NeYzPDfZ6YBtmRms0QdAzU3hEcGAr+mSHI9EEPu3bhw=",
+          "py36.py37.py38"
+        ]
+      }
+    },
+    "21.11.29": {
+      "sdist": [
+        "iwTLL6/Gp44anYc705iOQoL3lZu2sNfBrmSOwJuTens=",
+        "flake8-bugbear-21.11.29.tar.gz"
+      ],
+      "wheels": {
+        "flake8_bugbear-21.11.29-py36.py37.py38-none-any.whl": [
+          "F55B3a5d5ePCDR9hc2/usjTnCVj7tWqzwopnc5yOmoI=",
           "py36.py37.py38"
         ]
       }
@@ -88593,6 +88699,30 @@
           "py3"
         ]
       }
+    },
+    "0.3.1": {
+      "sdist": [
+        "bjZJ3/ipShppEsh1C/j62aYTiuFA5mdmG1/sdj3wZ4w=",
+        "pymodelextractor-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "pymodelextractor-0.3.1-py3-none-any.whl": [
+          "Jk0Xs5W+5IKfA9I3BhSCeiceTGkIO7SPc7vV6RDgYM8=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.2": {
+      "sdist": [
+        "j1UM8qJSq91RcN/nZFsJw8YBsXCVbt0iRXlz0YoF3T4=",
+        "pymodelextractor-0.3.2.tar.gz"
+      ],
+      "wheels": {
+        "pymodelextractor-0.3.2-py3-none-any.whl": [
+          "fGvfStoGcdHy17l+2J3KPmDTzLlAo3v9kzf3ahvGPR4=",
+          "py3"
+        ]
+      }
     }
   },
   "pynamecom": {
@@ -88804,6 +88934,18 @@
       "wheels": {
         "pyobjc_framework_DeviceCheck-8.0b1-py2.py3-none-any.whl": [
           "sYm7FDx83dhNmRRD3pd+368+6ubOCdtBMM5sI0Lhneg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "8.1": {
+      "sdist": [
+        "tEGqE5BBlx/PB1BEMaz67iK9qISCG3PC/LLCXl2mBds=",
+        "pyobjc-framework-DeviceCheck-8.1.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_DeviceCheck-8.1-py2.py3-none-any.whl": [
+          "hInvaGqNqvZAPxKxFcXIyPcw6i8+ZX+Z7bZh6fNoeaM=",
           "py2.py3"
         ]
       }
@@ -98244,6 +98386,18 @@
       "wheels": {
         "scTenifoldpy-0.1.0b0-py3-none-any.whl": [
           "dvhV1DD3pr6TlzZwHHLsAKE7wPcyHkeryOmkVVwoudI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "UA5QEXJLJ3rSEn5shfCGOnsu0ZQw7s1LSemwrH9Y6BA=",
+        "scTenifoldpy-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "scTenifoldpy-0.1.1-py3-none-any.whl": [
+          "dpSCq6PcPMbXa8WrIP+GR99/rXu/eeogT+MJbVYpRPw=",
           "py3"
         ]
       }
@@ -110690,6 +110844,18 @@
         ]
       }
     },
+    "3.0.360.1": {
+      "sdist": [
+        "HpXxhdbGlEXaeOis546008forpngQfqQ4HiUdM1vGfA=",
+        "tccli-intl-en-3.0.360.1.tar.gz"
+      ],
+      "wheels": {
+        "tccli_intl_en-3.0.360.1-py2.py3-none-any.whl": [
+          "UfWGHGGs7v0ZkUe+hDxwq52QnfpUJNvP/U0Qt/NLHJ8=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.0.37.1": {
       "sdist": [
         "Z4D4RHq+dd7NIBXp2myKavPs3S+BhVuAb2bWTeujDfQ=",
@@ -114432,6 +114598,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cls-3.0.535-py2.py3-none-any.whl": [
           "zjiTppUIxP/lRWBv6JYBE0/ISX1NsvutrHrA4og7sdU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.536": {
+      "sdist": [
+        "es/93FlJR573OjRJgax30xAAnb+2/mGOSahgpFMvO8I=",
+        "tencentcloud-sdk-python-cls-3.0.536.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cls-3.0.536-py2.py3-none-any.whl": [
+          "bCYzTWdmVRH2/IqTyDJ97zWSu8Fh3Xx3I2t6Pq0D9yE=",
           "py2.py3"
         ]
       }

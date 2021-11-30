@@ -35877,6 +35877,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "LnhWsOmiss5lA0B2XFi9xcoSNj+d/Gn74ZLOvOIi0/0=",
+        "fastapi-builder-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "fastapi_builder-1.0.4-py3-none-any.whl": [
+          "b2vkSG8s+Hfk6LnkXLCC7ns0qH8ZKfiPPADmMi2UQBg=",
+          "py3"
+        ]
+      }
     }
   },
   "fastapi-elasticsearch": {
@@ -40576,10 +40588,34 @@
         "girder-dicom-viewer-3.1.6.dev9.tar.gz"
       ]
     },
+    "3.1.7": {
+      "sdist": [
+        "vuM0KCNHdQCyhHRl3MQ1p3gcKYU77Bo3YVrriDKHdJ4=",
+        "girder-dicom-viewer-3.1.7.tar.gz"
+      ]
+    },
     "3.1.7.dev2": {
       "sdist": [
         "UtA9akBqLFKSpwH4893JtJHGM9yBGziT6Y/tVKEmZ8w=",
         "girder-dicom-viewer-3.1.7.dev2.tar.gz"
+      ]
+    },
+    "3.1.7.dev4": {
+      "sdist": [
+        "xt8mLJ7libcmhX8NEDa0Qvk2AyV3luNZP+yldJLEAbM=",
+        "girder-dicom-viewer-3.1.7.dev4.tar.gz"
+      ]
+    },
+    "3.1.7.dev7": {
+      "sdist": [
+        "jXyBaqKYNB3GXKz0ziGYbDHteA0Q4co1XE77sOBgzgA=",
+        "girder-dicom-viewer-3.1.7.dev7.tar.gz"
+      ]
+    },
+    "3.1.7.dev9": {
+      "sdist": [
+        "6R3+07nce9Nft/26iQB2H9OxXhyFjY+5q3NWVZoSvLg=",
+        "girder-dicom-viewer-3.1.7.dev9.tar.gz"
       ]
     }
   },
@@ -40846,6 +40882,18 @@
       "sdist": [
         "AtmgPCLPwa9rsJdWEzAUh/qcqoeVU9JlPENn/ZrRVrk=",
         "girder-slicer-cli-web-1.2.2.dev2.zip"
+      ]
+    },
+    "1.2.2.dev4": {
+      "sdist": [
+        "yY7DWiP/Z2uZ6Q9vg4X4tm3IL/oskEtFNnftakDowtM=",
+        "girder-slicer-cli-web-1.2.2.dev4.zip"
+      ]
+    },
+    "1.2.2.dev9": {
+      "sdist": [
+        "2LwoV7NVJKjDJCpXkVNBjLEPCCB6wuag4C1nWkPCdvI=",
+        "girder-slicer-cli-web-1.2.2.dev9.zip"
       ]
     }
   },
@@ -71856,286 +71904,6 @@
     }
   },
   "pl-nightly": {
-    "0.12.24.20211017.1": {
-      "wheels": {
-        "pl_nightly-0.12.24.20211017.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "fqxlAHGm63VM1bvZskvRYQMhNCSZIBY/Rf4jE+d6T9Y=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211017.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "RAScMFX67nX3mU6vzekcqEcjAJ2Yrpfq05t3Thm3AtU=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211017.1-cp36-cp36m-win_amd64.whl": [
-          "pHmokklGoaoE1H4p/OXnp4SAJNgSc3HjY18OzavdGhs=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211017.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "895ViE8zjewtBeUShZUJr/ryfCn37L3UIzurvc6lSow=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211017.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "vA44+vluZcf6npo0ZW+XCDcTvvDJKUTrC1AdlsTdQWA=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211017.1-cp37-cp37m-win_amd64.whl": [
-          "iW6X34yWAtackMzHY3pF7ZMbErgxdGPqYhYwnz+G4X8=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211017.1-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "lk+g3Qu8wCwDwiOdmSIQEy6S1SjeEH+sS9+p3KkaKSQ=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211017.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "ULOGJ1khMukOjK07grWLkW5M1eWp1EXDyUZ+S4E0/wE=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211017.1-cp38-cp38-win_amd64.whl": [
-          "eqgXiYIZ12xB+Z5blefOAI+a9umWgf0Li2Zdn5XSX/4=",
-          "cp38"
-        ]
-      }
-    },
-    "0.12.24.20211019.1": {
-      "wheels": {
-        "pl_nightly-0.12.24.20211019.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "gKUX3iCz6dF3jLdCyfA5JUW5ydLYWJ5026We46DPPMs=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211019.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "Iyw2RfX5KK4yk1Cm8Eh+t5BJy9MuYXlBRKzdfSFvzJw=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211019.1-cp36-cp36m-win_amd64.whl": [
-          "+AcQhpMZQ/0E6BaeaP9gawXYmW48+f44K/tl8X4MDBI=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211019.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "lfitat+WWolyynGBoMhW0GBAkidQ0lY18nG3kq52Fpo=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211019.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "qc5oI/8qu1ReSxM5P/0O4oAbmnbNgtvhTeNI2VIr0Dg=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211019.1-cp37-cp37m-win_amd64.whl": [
-          "HvpQcW+Ig1oOV0CRIQ9F25USzJ4fOlyxx7EhqcpQ4F8=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211019.1-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "oibbtvBuqnp2dnPCk/HBDhcrH34qJ/J92FtOzlkLZig=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211019.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "DfiF1uyHjgsNIX/gU9zqCtkOkIVFhhuCsac+WvzdzTY=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211019.1-cp38-cp38-win_amd64.whl": [
-          "1GObYpXdaEGgLQszM7cXkUL2iCoFYU/UrP1zie3Qq78=",
-          "cp38"
-        ]
-      }
-    },
-    "0.12.24.20211024.1": {
-      "wheels": {
-        "pl_nightly-0.12.24.20211024.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "3ibMiTDCRUDSd9ZnlAQtsk8S4Rn4CTgco0Wz1CRjIeM=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211024.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "CdEeCN9wOCJyhC6LPjUR9oAV7HMvWxrfhpUdQQM3kf8=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211024.1-cp36-cp36m-win_amd64.whl": [
-          "iO71UtE0uBJcAFLLUX+TE5KAjPNC5VQde5buLXZ83uU=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211024.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "mmnlUZhcE+8Ak0GU66SWcAnWkLnSiouYco7HQHjqfbM=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211024.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "c9tAJNkyGbwFzKpnr0cXF75Lr+ehs4mnhw4GB0J6AWc=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211024.1-cp37-cp37m-win_amd64.whl": [
-          "HxI9M72FFjKCgwfn+y/Rq0pcVbpiEdjDvxGm7NqxXdA=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211024.1-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "IhWEXGKEToLvWtXqYok3mQY6HVD77WPKOBODRflgGas=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211024.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "ExM6sjcsEcXvbbwFKKAqkwv0nWLDPWNtHKljPh1Tix8=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211024.1-cp38-cp38-win_amd64.whl": [
-          "58qMs4ocmvat5pO78totofWdeujX+4MCaTOPRwEufx8=",
-          "cp38"
-        ]
-      }
-    },
-    "0.12.24.20211027.1": {
-      "wheels": {
-        "pl_nightly-0.12.24.20211027.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "H3FJ5ulGl8Fj8r4mFjakQKHXL+Ca5fjoebeGCrFzTh0=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211027.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "AkM/lazCGUD4Ybm+KnGr8OpLS7/CRJUYdiRrC48p2aM=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211027.1-cp36-cp36m-win_amd64.whl": [
-          "8Mwe9eIKxT/OmMq3T+P471eboB1FFwbpbobbTc6WseE=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211027.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "hiyazXoCSCe23Hni6YlHHTS0DzW1dwI53a4FgI7c8RU=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211027.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "I78o5DPNCtyHLBoryd+GYg0V6PW7BzTSOXZbWhVoPFk=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211027.1-cp37-cp37m-win_amd64.whl": [
-          "QzqbRgw5r8+l5/bd1CEA911vCBaFklnfAa+iagPybHQ=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211027.1-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "J9MxPyhaa4MRLDaopQ1Wy+mtoGGBw6HE0Qtr34BZueQ=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211027.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "eCV5jPOEhrz19AWDOvK00TRGZjizk8mmAv8XKgjl0EQ=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211027.1-cp38-cp38-win_amd64.whl": [
-          "G7opPpkSq9rjnR9Xo0NBNf/eJHz9P2Myx6L6wGGIT2M=",
-          "cp38"
-        ]
-      }
-    },
-    "0.12.24.20211028.1": {
-      "wheels": {
-        "pl_nightly-0.12.24.20211028.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "MAAKR1LK+/sZcsFC4AiXXW+KcTzlxKdZkeqAPO+rruk=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211028.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "i10rOy0cILkLjF+HcUW0F+AuQKVoWeRXvGY1/YrgePw=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211028.1-cp36-cp36m-win_amd64.whl": [
-          "JNl4RkULc8XwmLI6ddvjWy6fWR46S8zNsrtk4ly7wCE=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211028.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "l5MvielaHJb9ktzuPAXQxzRg22c3tEtF3LQLul50JSM=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211028.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "IHOML4pl61zHSBY2UANih9a5GydwyQRd09lxElfAbkU=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211028.1-cp37-cp37m-win_amd64.whl": [
-          "C6dPVI6M2ZUAX3Br0CbrDXyS46vokgHMd+0kfCGibLU=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211028.1-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "1gWq6pNWOX5xu2Lk8qbEuCtmAIRhjpA5dF30SeMeIDc=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211028.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "vpVbEc1eYcxHFt1K6O4uuwS9FJ/vCVERmqJEIG0IEH8=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211028.1-cp38-cp38-win_amd64.whl": [
-          "psHwNT3tK/C3joEGnzESrqnCJlTJyVeafLVqQrd3MLk=",
-          "cp38"
-        ]
-      }
-    },
-    "0.12.24.20211029.1": {
-      "wheels": {
-        "pl_nightly-0.12.24.20211029.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "+EDtPhgmAsP5O0+2iZkypIT0+KMa+f/Hv3vymd6G1G4=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211029.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "HQN0b48nnNoDSweHtAO+o0HyQdbXPWe9iGPleVKDWXY=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211029.1-cp36-cp36m-win_amd64.whl": [
-          "IiS5QKP/MTwd75XAKCHrkRKiCqBb6xKq+uzBLPoAuK4=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211029.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "L98IK3BHyLwIqp1DCKWyDDfA3ELu0O59TDxpZ8pqpfU=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211029.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "rIp8Zepk+2U+2I/LbjN5dJ4kN3TTaUhXhV2jmOevbZQ=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211029.1-cp37-cp37m-win_amd64.whl": [
-          "1R1KLxCtaDBZ7UXrlrVcLafRyoLZmwHQbpkD+dCOIk0=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211029.1-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "+ldbHCZOsYN3ZZrR9eZdi1oRYkjqU/whOkpozcgGJYI=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211029.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "ZpybsFBOGwC1J7KPZGnrKa9fv6lwPiv2fBorZjgYLTo=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211029.1-cp38-cp38-win_amd64.whl": [
-          "QArdkunpPDizFeYMnKXdSWE4rpyEfiUXxCpMamnoq6k=",
-          "cp38"
-        ]
-      }
-    },
-    "0.12.24.20211031.1": {
-      "wheels": {
-        "pl_nightly-0.12.24.20211031.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "EJYoPHPyWVoxsm7XJYK/4pSo3U/5w67wWwRXIBWWBJA=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211031.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "iECczkbS/L4/0QfHiTD0OgFYDHCFb4WMU0QnI2rb49g=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211031.1-cp36-cp36m-win_amd64.whl": [
-          "L1lGdfWnhgv3nzPIlnQYev5gQ4v9Rc7gVp57fyT2cks=",
-          "cp36"
-        ],
-        "pl_nightly-0.12.24.20211031.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "49FpzDQcn+OpnTQzR9ruUVCA3ybNdi7uo5bRX1X3K5c=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211031.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "9ceGDNVkwLd/mpgo7YDYW/PUf8P4bFnRgxndvX/jwx0=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211031.1-cp37-cp37m-win_amd64.whl": [
-          "xGHaRxlVZDJrqnhQ231TTLdwHGi5rJ2If8TQ+PYCe84=",
-          "cp37"
-        ],
-        "pl_nightly-0.12.24.20211031.1-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "iYmPO2A6JMgD9QwUcaGsoC6RQIm0MV5BwZFcFC25OUw=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211031.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "TGV1YAjVexphKQE6jN0DU6/rmZpcC7nCLdpzxSCFedI=",
-          "cp38"
-        ],
-        "pl_nightly-0.12.24.20211031.1-cp38-cp38-win_amd64.whl": [
-          "j2eiqNeJUOyQ/U/mWrpSEjXkpdFikPQpj3zU5mkrPQM=",
-          "cp38"
-        ]
-      }
-    },
     "0.12.24.20211102.1": {
       "wheels": {
         "pl_nightly-0.12.24.20211102.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
@@ -83773,6 +83541,10 @@
       }
     },
     "8.1": {
+      "sdist": [
+        "gzVS+5IDN7tJjIH3qbfzQQOzWfZJxVbqTmIDGeAdcIw=",
+        "pyobjc-framework-CoreAudioKit-8.1.tar.gz"
+      ],
       "wheels": {
         "pyobjc_framework_CoreAudioKit-8.1-cp36-abi3-macosx_10_9_universal2.whl": [
           "ulMfYhl8uGCmzFyAwGtUQRIpsg9FYiJENiwIK0/OI5Q=",
