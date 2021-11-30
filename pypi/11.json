@@ -3523,6 +3523,18 @@
           "py3"
         ]
       }
+    },
+    "2.5.0rc1": {
+      "sdist": [
+        "rPC2TcM4Hje/T/4fAsJPzu9mWtqaIGIw0SRR5NAyKK8=",
+        "apache-airflow-providers-amazon-2.5.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_amazon-2.5.0rc1-py3-none-any.whl": [
+          "wfJsn04c8BIjMjTCD/sQ8AzweoYvbuSioirbTHeu5rU=",
+          "py3"
+        ]
+      }
     }
   },
   "apache-airflow-providers-samba": {
@@ -10372,6 +10384,12 @@
       "sdist": [
         "2xkeORW8wY3EcjIK+Z5eIsC4z8Lb+OfpQrFR0RL/6mA=",
         "autoBOTLib-1.0.tar.gz"
+      ]
+    },
+    "1.1": {
+      "sdist": [
+        "yVfbud5zQ0jVSGT+OG+YtPUieO3raHaMnFP1Bpmoyrs=",
+        "autoBOTLib-1.1.tar.gz"
       ]
     }
   },
@@ -22152,6 +22170,42 @@
         ]
       }
     },
+    "0.0.225": {
+      "sdist": [
+        "8uLqN+yX+Wm3awwHy7AkzuSaknXpr3AtFw7LMN9xKO0=",
+        "cdktf-cdktf-provider-archive-0.0.225.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_archive-0.0.225-py3-none-any.whl": [
+          "oJGrqtYDFTiK/JXdZXxoIiRCmp7QWb4LbvERAUm2vt4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.226": {
+      "sdist": [
+        "fT95XdHtoFsZH64orECPXE7IxYncoxkILBxiQcermlA=",
+        "cdktf-cdktf-provider-archive-0.0.226.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_archive-0.0.226-py3-none-any.whl": [
+          "M1aaObQKeaRREZTA08f96OQbvWoUgQ5ayhN66GPTkCQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.227": {
+      "sdist": [
+        "z2M85FuFK0g/rPUOMMLUrh++xme8sNXbr5um2uoedjs=",
+        "cdktf-cdktf-provider-archive-0.0.227.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_archive-0.0.227-py3-none-any.whl": [
+          "8EcHxaFUW5TR0FfJcwCtyvppwKqxD47O5p4qr5VR3Jw=",
+          "py3"
+        ]
+      }
+    },
     "0.0.23": {
       "sdist": [
         "q/vxjFw+AY7NniqLKGT8yFlWEq8L+vPOWbUIhePi7Zo=",
@@ -25914,6 +25968,50 @@
         ],
         "clickhouse_toolset_extras-0.14.dev0-cp39-cp39-manylinux1_x86_64.whl": [
           "K7KAS+KYanWQD3dMVX33GZdBpyRN5skeK/HcTSQcmdI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.14.dev1": {
+      "sdist": [
+        "gilJ5JCc2ZXu+lFmeZoCB5UKGa8ViyuPWXRrRyuRaFk=",
+        "clickhouse-toolset-extras-0.14.dev1.tar.gz"
+      ],
+      "wheels": {
+        "clickhouse_toolset_extras-0.14.dev1-cp310-cp310-macosx_10_4_x86_64.whl": [
+          "Y+bKXBA2JLtLfwfSBP3B/yMFJ6BiCFrTo3C6GjDwPxE=",
+          "cp310"
+        ],
+        "clickhouse_toolset_extras-0.14.dev1-cp310-cp310-manylinux1_x86_64.whl": [
+          "9xMBm5tVoSTVGhGZVB1mBuOeTWuJkB/ng7DDLrz+CE8=",
+          "cp310"
+        ],
+        "clickhouse_toolset_extras-0.14.dev1-cp36-cp36m-macosx_10_4_x86_64.whl": [
+          "akERu42ojOuNHEWwzF86fhbYE85ooJBjvgLHUo5WBNc=",
+          "cp36"
+        ],
+        "clickhouse_toolset_extras-0.14.dev1-cp37-cp37m-macosx_10_4_x86_64.whl": [
+          "4QGXA2BRktXIIF2Fq8dreDiyjayfYcxJSSgxJKIjkN8=",
+          "cp37"
+        ],
+        "clickhouse_toolset_extras-0.14.dev1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "rMk62Jmdj7S6R8tO4TKI5xM38+tTBwVDNLWxPtHwTDw=",
+          "cp37"
+        ],
+        "clickhouse_toolset_extras-0.14.dev1-cp38-cp38-macosx_10_4_x86_64.whl": [
+          "p1Rz6OKYDWOu0o2/dH72Vx/gkCFIOBkirhDXWr7EnUI=",
+          "cp38"
+        ],
+        "clickhouse_toolset_extras-0.14.dev1-cp38-cp38-manylinux1_x86_64.whl": [
+          "lNl3ODrBCGYgTF/vqPVW/aRPykB8GhHrUlSqU6e0bFo=",
+          "cp38"
+        ],
+        "clickhouse_toolset_extras-0.14.dev1-cp39-cp39-macosx_10_4_x86_64.whl": [
+          "Gg/M1cy/2kmSH9enVr5MQPaHGvGZTV7TiA1rlpmcpog=",
+          "cp39"
+        ],
+        "clickhouse_toolset_extras-0.14.dev1-cp39-cp39-manylinux1_x86_64.whl": [
+          "vfS0+/cp8IrP3Tj3zBEEpTRKnKbD2Y58giUNIe9cnuM=",
           "cp39"
         ]
       }
@@ -86894,6 +86992,14 @@
       "wheels": {
         "odoo14_addon_stock_inventory_preparation_filter-14.0.1.0.1.dev4-py3-none-any.whl": [
           "bovt7YU4v4bV7Zo9TcrB65U9at2Z+FfGjxKn2ENHh4E=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.0.1.dev5": {
+      "wheels": {
+        "odoo14_addon_stock_inventory_preparation_filter-14.0.1.0.1.dev5-py3-none-any.whl": [
+          "nbWAndCZuVQlnlOWxH/amUqtheTShD4Mta6qalaTT0I=",
           "py3"
         ]
       }
