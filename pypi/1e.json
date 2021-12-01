@@ -2861,6 +2861,18 @@
           "py3"
         ]
       }
+    },
+    "3.3.0rc1": {
+      "sdist": [
+        "rKFEBWY7DdssqC2h8hlhCgH8qoH0tSjqJzLEMTfEzks=",
+        "airflow-notebook-3.3.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "airflow_notebook-3.3.0rc1-py3-none-any.whl": [
+          "Oeup3bp9IrGdbgbq3Uk3aAZ9fvj/RHqRNbN2JZlashU=",
+          "py3"
+        ]
+      }
     }
   },
   "airspeed": {
@@ -50741,6 +50753,20 @@
       }
     }
   },
+  "mypy-boto3-backup-gateway": {
+    "1.20.17": {
+      "sdist": [
+        "5ghApXMd2aJFF4YsCYApo1U5HAGBFm2DkUQf3skFK48=",
+        "mypy-boto3-backup-gateway-1.20.17.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_backup_gateway-1.20.17-py3-none-any.whl": [
+          "y6Fd7g8EfYtVXIxHgnBYFR96HjYvlR5NuhutT4v3qUY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mypy-boto3-waf-regional": {
     "0.1.10": {
       "sdist": [
@@ -62860,6 +62886,14 @@
       "wheels": {
         "odoo14_addons_oca_sale_workflow-14.0.20211127.0-py3-none-any.whl": [
           "gTVlg8HRSBiSUVplm84GY7lGJxYmbFFlUrhRdbAY7+Q=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.20211130.0": {
+      "wheels": {
+        "odoo14_addons_oca_sale_workflow-14.0.20211130.0-py3-none-any.whl": [
+          "Ta3wzoUK/IRSq5TQlpXWSxRdhlWkfSdE4GNkh6ku8CE=",
           "py3"
         ]
       }
@@ -88819,17 +88853,77 @@
           "py2.py3"
         ]
       }
+    },
+    "6.0.0.dev0": {
+      "sdist": [
+        "umjGhGBGjafMLniGTycWdxdAxpUtOAWxJ04ipr+k13U=",
+        "runestone-6.0.0.dev0.tar.gz"
+      ],
+      "wheels": {
+        "runestone-6.0.0.dev0-py2.py3-none-any.whl": [
+          "4p7dI1J1UElzLGEqCnmGRSFd8XxHqmc6CcbaurMc4Mw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ryca-django-grpc": {
-    "1.0.0": {
+    "1.0.10": {
       "sdist": [
-        "zR6GW0vvEkloZPeWTKynOzjqqUuruGQvz5FynGzThiA=",
-        "ryca_django_grpc-1.0.0.tar.gz"
+        "E1fMWktjMQoU6MGfJ5x9DH+e6SdCNdwB0M3VXxFBVXg=",
+        "ryca_django_grpc-1.0.10.tar.gz"
       ],
       "wheels": {
-        "ryca_django_grpc-1.0.0-py3-none-any.whl": [
-          "SRz3drWHclUkjwLiW7+oER0Hd0KTTfwqO9CQx5ltge4=",
+        "ryca_django_grpc-1.0.10-py3-none-any.whl": [
+          "4Wtr6RENs9cz1J5wZ/uZlDjQUdTduVG4AM6QIFCa0Yo=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.11": {
+      "sdist": [
+        "Tv8ThSNTSjQ3cR/oRuYhrcfbPL3buXzSVJcEkSF+5iM=",
+        "ryca_django_grpc-1.0.11.tar.gz"
+      ],
+      "wheels": {
+        "ryca_django_grpc-1.0.11-py3-none-any.whl": [
+          "RjBcENsfnQnXKA7I3jHNTYKJ6rPEfRKN+9hzvN4dMM8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.12": {
+      "sdist": [
+        "8XgPsmiZardcfCLy9qoZYB4V1NatfFE2hhHtRUmqURc=",
+        "ryca_django_grpc-1.0.12.tar.gz"
+      ],
+      "wheels": {
+        "ryca_django_grpc-1.0.12-py3-none-any.whl": [
+          "YUCLzaDmkPK4JpH+0Dg3oCJ313M1C5oMZY/tC7HRCDQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.8": {
+      "sdist": [
+        "HkqrGzv5hxmyuuFB3cf6A0RQ/xx5oDPZpDpTFEuXrYs=",
+        "ryca_django_grpc-1.0.8.tar.gz"
+      ],
+      "wheels": {
+        "ryca_django_grpc-1.0.8-py3-none-any.whl": [
+          "mW45DBL7fRiI1w07AtzwXEUbybostFNhu40j9NrxN/U=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "NKIXhj+FOTo68P4mfUpQj/m9un0avtV9ejDm5PFnpns=",
+        "ryca_django_grpc-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "ryca_django_grpc-1.0.9-py3-none-any.whl": [
+          "gP3UxKUZyKpfiLqg6B8mpm2ObJ376RM1o7xbSr6dnPc=",
           "py3"
         ]
       }
@@ -103996,6 +104090,14 @@
       "wheels": {
         "teradatasql-17.10.0.2-py3-none-any.whl": [
           "GOoGCyvKC1E0Wbw5tzq4EumonkBCzHu1ssAih+vPVtU=",
+          "py3"
+        ]
+      }
+    },
+    "17.10.0.3": {
+      "wheels": {
+        "teradatasql-17.10.0.3-py3-none-any.whl": [
+          "YGQrq2gs8mPV2of6Mz/8KNJdcjT0BZJHPIZXDTMSk74=",
           "py3"
         ]
       }
