@@ -27631,6 +27631,18 @@
         "+04dEXn6jPuW3F9PiL34SpnzmgYVwu6K8UCBe0DxpYQ=",
         "crash2json-2.7.tar.gz"
       ]
+    },
+    "2.8": {
+      "sdist": [
+        "XgawijHfMnbsr2QTUtvNvSZL3hF9cgaActA3wip2bSM=",
+        "crash2json-2.8.tar.gz"
+      ],
+      "wheels": {
+        "crash2json-2.8-py3-none-any.whl": [
+          "BZZ6kxqtXeSAwJIGpbAIpWGvHGyeAbYPGQcroLn8xJc=",
+          "py3"
+        ]
+      }
     }
   },
   "crawler-utils": {
@@ -70191,6 +70203,12 @@
         "P1haDu/rfoEReV1usho9wtMYng/fJW3Y7LQ57e2BA5o=",
         "msdss-users-api-0.2.0.tar.gz"
       ]
+    },
+    "0.2.1": {
+      "sdist": [
+        "fb3Xq1LM9iO0Xz2S/sV0dVxqNgfNApkHdvZyVTsUG4k=",
+        "msdss-users-api-0.2.1.tar.gz"
+      ]
     }
   },
   "multiconsumers-queue": {
@@ -83253,6 +83271,44 @@
         "dDvuPF+6ZtnEL+ADx1LehFydQORD6cSgo6EKL+TXYJU=",
         "prov-db-connector-0.5.0.tar.gz"
       ]
+    }
+  },
+  "proxies-l": {
+    "0.0.1": {
+      "sdist": [
+        "tGMxfoRPbqXyxcNLrcAyr5JgiSVyHn0Psfa7BpBC5Jk=",
+        "proxies_l-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "proxies_l-0.0.1-py3-none-any.whl": [
+          "HhObntcnKK6QpF+AjirzcFg+BoEEgDSpWOQOw5k0FX8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "P76vZFAlUD1sNMq3KWuOsxQrV9auCzpVFgplI8whF2I=",
+        "proxies_l-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "proxies_l-0.0.2-py3-none-any.whl": [
+          "l2Su4Vv+9NUDBBHksEGPmCwgNIsD8qJl1v+l92k89DA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "u5rb6mVFtaU22FaNyKnLT4/pLapaz+Iy+7A5Z8sFl1I=",
+        "proxies_l-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "proxies_l-0.0.3-py3-none-any.whl": [
+          "aKRUK7eCX01TzTonHKLaX9aV45W7s8sH+Fp0z7oHt9E=",
+          "py3"
+        ]
+      }
     }
   },
   "ptallada-agent": {
@@ -114722,6 +114778,14 @@
         ]
       }
     },
+    "2021.12.1": {
+      "wheels": {
+        "torchx_nightly-2021.12.1-py3-none-any.whl": [
+          "8izDZRLz17pPcUvv0gDoX65uztkg74RrNdYhcNDtDXs=",
+          "py3"
+        ]
+      }
+    },
     "2021.9.15": {
       "wheels": {
         "torchx_nightly-2021.9.15-py3-none-any.whl": [
@@ -116938,6 +117002,38 @@
         ],
         "tqsdk2-1.7.8-cp39-cp39-win_amd64.whl": [
           "u6v/LZA6ZTf4CgDt53AVCUv5eyr7WXbzEz48wMqU9UU=",
+          "cp39"
+        ]
+      }
+    },
+    "1.7.9": {
+      "wheels": {
+        "tqsdk2-1.7.9-cp37-cp37m-manylinux_2_28_x86_64.whl": [
+          "rUYfICeR5JdPalQkz7XiLrP0DOzYYrivWYpX0ZkNAhU=",
+          "cp37"
+        ],
+        "tqsdk2-1.7.9-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "xdrH7hOyux2AJbcGdYn9CdLHXdWi2K8V8xz16K9RpYY=",
+          "cp37"
+        ],
+        "tqsdk2-1.7.9-cp37-cp37m-win_amd64.whl": [
+          "GQyfJ05Kg4ijAbihLKIM1oGpxFmjxZ/131WiW6Xm4Ck=",
+          "cp37"
+        ],
+        "tqsdk2-1.7.9-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "vbwVGOCPDFersTuccUrutUeJ2jU/BcYoZhVWKFAELCA=",
+          "cp38"
+        ],
+        "tqsdk2-1.7.9-cp38-cp38-win_amd64.whl": [
+          "nfGkV8r37Q9Ps1Tb1zI9b5J+EY9G4NZkyJcieZLsAWg=",
+          "cp38"
+        ],
+        "tqsdk2-1.7.9-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "BzWk2k4eGY9oqaaybnT5eBC6E+IuH5smBEmCN4xeT0g=",
+          "cp39"
+        ],
+        "tqsdk2-1.7.9-cp39-cp39-win_amd64.whl": [
+          "Z8z2qcxdOi6hLdZpZPE2Jm3FiaaXYSVbp14a8z71+W0=",
           "cp39"
         ]
       }
