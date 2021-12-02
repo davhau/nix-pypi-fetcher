@@ -2489,6 +2489,12 @@
         "5FTdOjRU1yWQdtrpQLQaq26KYS3TipApfuo+r3LVRDc=",
         "amcat4annotator-0.02.tar.gz"
       ]
+    },
+    "0.06": {
+      "sdist": [
+        "CksU619oeoJyPJysMGbRt3WHq4/OjI3uh3ciXz2T0vc=",
+        "amcat4annotator-0.06.tar.gz"
+      ]
     }
   },
   "amira": {
@@ -5540,6 +5546,18 @@
       "wheels": {
         "aws_cdk.aws_kinesisfirehose_alpha-2.0.0a10-py3-none-any.whl": [
           "KUZ4Brxunp2OI1mV0m2HAhzEf1CH+K/19I6mXUkQalQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0a11": {
+      "sdist": [
+        "13gzpROwynoIcDWKFVQZSPY5NYzIn7WjDunSWrFPDH8=",
+        "aws-cdk.aws-kinesisfirehose-alpha-2.0.0a11.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisfirehose_alpha-2.0.0a11-py3-none-any.whl": [
+          "AjrhoMHGbaTF5tNTXiqdsE8nBek+7dq5MaR/8PMfpJ8=",
           "py3"
         ]
       }
@@ -10482,6 +10500,18 @@
       "wheels": {
         "ceia_soccer_twos-0.1.6-py3-none-any.whl": [
           "K2rwBYkFC6QdmCiiwNHvxsSJbpSAMxxN9i5xbeQHtiU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "1noWkD+o2YHZEqYLnZC+Fst2b8ezL1+OrbxA3AIWIQ0=",
+        "ceia-soccer-twos-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "ceia_soccer_twos-0.1.7-py3-none-any.whl": [
+          "D22ejc3iMtJj6ZHm9+NF7cgIIBFJAre7l7rc6Tn7TvA=",
           "py3"
         ]
       }
@@ -29684,6 +29714,12 @@
       "sdist": [
         "z3HhxhHbxa4KwN5A9d/kGbi+960pYmL8VxUBg9BSnrY=",
         "flamingo-1.6.1.tar.gz"
+      ]
+    },
+    "1.7": {
+      "sdist": [
+        "fG5dsb+6YNszyCo3O+xlOm7To+8p0O36nSHovLSLle8=",
+        "flamingo-1.7.tar.gz"
       ]
     }
   },
@@ -70028,14 +70064,14 @@
         ]
       }
     },
-    "0.2.0": {
+    "0.3.0": {
       "sdist": [
-        "/A0y5b7flVim8qnp5yLqjZgpFbiplJOGgMPtEUhitJs=",
-        "products-0.2.0.tar.gz"
+        "rPau49+7e9wsdZjqPn2VKdmnXXCrOQxn2/FzS1W4zx0=",
+        "products-0.3.0.tar.gz"
       ],
       "wheels": {
-        "products-0.2.0-py3-none-any.whl": [
-          "x6LkMc3NYwtPjpuDB2lrpOgvBx3q7txhM+pMwwzqOSI=",
+        "products-0.3.0-py3-none-any.whl": [
+          "OJGxZwtDSf+/GySkriaiEyYk6KOSiNpSHyIK6xpf4tQ=",
           "py3"
         ]
       }
@@ -79214,6 +79250,54 @@
         ],
         "pyfaust-3.15.0-cp39-cp39-win_amd64.whl": [
           "eAWGopv8c0QRvBXPy1q9y4nK7yD45h06DFUh23UwJsg=",
+          "cp39"
+        ]
+      }
+    },
+    "3.16.0": {
+      "wheels": {
+        "pyfaust-3.16.0-cp310-cp310-manylinux1_x86_64.whl": [
+          "pUgHOatVBCO/VKnOw8/Z++j1CJJVrhXVopbgFSUENfw=",
+          "cp310"
+        ],
+        "pyfaust-3.16.0-cp310-cp310-win_amd64.whl": [
+          "l0y/J0ZhC6JcYzwhRIJIrKix7NYvrlobkWLNsp9WdXE=",
+          "cp310"
+        ],
+        "pyfaust-3.16.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "+qqVaeziRVF0xo+BNqo59VzXhjssXTfM+NvsQtQzXjE=",
+          "cp39"
+        ],
+        "pyfaust-3.16.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "boQtvDMRBtFoKTWgzXcr5NaKXHoj2guFqLMXJGxN9kE=",
+          "cp39"
+        ],
+        "pyfaust-3.16.0-cp39-cp39-win_amd64.whl": [
+          "lye3G6s6BmdM3TjXf0ea/+hlxaN68g/fGwuambMd3uM=",
+          "cp39"
+        ]
+      }
+    },
+    "3.17.0": {
+      "wheels": {
+        "pyfaust-3.17.0-cp310-cp310-manylinux1_x86_64.whl": [
+          "UkgbTDab/+UDUnHTuFPVpB6WWQmRK6RQ7NzvQaIqnMQ=",
+          "cp310"
+        ],
+        "pyfaust-3.17.0-cp310-cp310-win_amd64.whl": [
+          "K9uTTVg09Bm+uOI8KWLxjuQLhXPSlqR4fbaIOjH1oNg=",
+          "cp310"
+        ],
+        "pyfaust-3.17.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "TJARnQJrug4cMVjh6OncGMZQHZypkYelaE5emBA+G34=",
+          "cp39"
+        ],
+        "pyfaust-3.17.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "Z5ERwocufcEJ0fORVFdR5ScX5MeMvbT59PVr1oMnx4c=",
+          "cp39"
+        ],
+        "pyfaust-3.17.0-cp39-cp39-win_amd64.whl": [
+          "khzuz8Irjc2GYnvGqSZgRnVAtE4Fio2jGXgi12bwqH0=",
           "cp39"
         ]
       }
@@ -93768,6 +93852,18 @@
     }
   },
   "soda-sql-redshift": {
+    "2.1.0": {
+      "sdist": [
+        "CU9f+cSH1i6Auayyu2O/jGzsgoEjQoRBe5+vI4pdBhI=",
+        "soda-sql-redshift-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "soda_sql_redshift-2.1.0-py3-none-any.whl": [
+          "9qfzqIQvYKSNm93tny0CGlSyflsFN5W7UCuEehm4Wwk=",
+          "py3"
+        ]
+      }
+    },
     "2.1.0b1": {
       "sdist": [
         "WtzFuI+Fy6rveWBz+mwkRwk2MYo2pvIAZdTkrlxKHT0=",
@@ -95615,6 +95711,12 @@
         "jVefoKT8jBJlizV4Kn9UizhuhIbS4kGSHSLDwBU503c=",
         "squarecloud-1.2.tar.gz"
       ]
+    },
+    "1.3": {
+      "sdist": [
+        "i7uSr7pyQZLweiofuafTbnMpzlmkok/04/mSVzrc+pw=",
+        "squarecloud-1.3.tar.gz"
+      ]
     }
   },
   "squid-qml": {
@@ -96330,6 +96432,24 @@
       "sdist": [
         "sS7A/qGeRmz/HdLqrRATojNQFaXeeaUwbb2MQKtSkkA=",
         "sterratest-3.0.11.tar.gz"
+      ]
+    },
+    "3.0.12": {
+      "sdist": [
+        "t3l3g/KgpWAApN1/7k8+ZaqhcNGgubKSuVzUI+Lwx1Y=",
+        "sterratest-3.0.12.tar.gz"
+      ]
+    },
+    "3.0.13": {
+      "sdist": [
+        "Xj1qo/yLTunKanseXy4uxBuT5XGWz0zi7viCLcVsuyg=",
+        "sterratest-3.0.13.tar.gz"
+      ]
+    },
+    "3.0.14": {
+      "sdist": [
+        "3yLt+Pwg3eN3ZQg1IQUvAwxt44pEVSyPl5MeTtMwuuU=",
+        "sterratest-3.0.14.tar.gz"
       ]
     },
     "3.0.2": {
