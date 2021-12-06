@@ -1903,6 +1903,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.9": {
+      "sdist": [
+        "7JoI6JIjontJVxP13jhXyGJM4QII8FfAEe9leNIodXc=",
+        "alibabacloud_drds20190123-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_drds20190123-1.0.9-py3-none-any.whl": [
+          "3H3J884wIDV5m1rL248Wnj1NeNi9jg4d9qj24Up7ELY=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-pai-dsw20210226": {
@@ -23850,6 +23862,18 @@
       "wheels": {
         "fast_map-0.0.3-py3-none-any.whl": [
           "sLzhhvVbckqSwMAyp7Vxp79SdOFPvcUcjkdWZqxFYVU=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "rAWH+AjYit/QRe/6oQeYovfUmzZ7OIo/qvngP15BbYk=",
+        "fast_map-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "fast_map-0.0.4-py3-none-any.whl": [
+          "5gXtptZK8GCG+egRbU8m5HCr2XNrgGjj/FAiAynbxjo=",
           "py3"
         ]
       }
@@ -79984,32 +80008,96 @@
         "orjson-3.6.5.tar.gz"
       ],
       "wheels": {
+        "orjson-3.6.5-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "bERO3Ac+tpz4WyiFGnqVeAekHOm7OpwU7vqLMwMM8FA=",
+          "cp310"
+        ],
+        "orjson-3.6.5-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Qyxto9jUYwc59TA9zEXoAp01e3/45wtyOb570Effaxk=",
+          "cp310"
+        ],
+        "orjson-3.6.5-cp310-cp310-manylinux_2_24_aarch64.whl": [
+          "D6MjGQcvrfBzLSwXRhUvhoobD4PIzOLK1JlvXzyk6Xk=",
+          "cp310"
+        ],
         "orjson-3.6.5-cp310-cp310-manylinux_2_24_x86_64.whl": [
           "DWXMZ/LjWHEuM7xTgQAi71GBwjeKdgMknNCJiqbNKNQ=",
           "cp310"
         ],
+        "orjson-3.6.5-cp310-none-win_amd64.whl": [
+          "+o49DwRmt9dxqPBnvYlhvBfKbqTImpHNNNZkjmsdHkc=",
+          "cp310"
+        ],
+        "orjson-3.6.5-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "RwWW++MApzUP17vPlNJkcVZAGrZGXey2cqAOIBrxgTo=",
+          "cp37"
+        ],
+        "orjson-3.6.5-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "0mgNntyYFxsMWeUsHtlkYZvly5ZhKJwN0uZndz+ofxU=",
+          "cp37"
+        ],
         "orjson-3.6.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "ABliozThqyFi0vaV8ncNI4PH/9KAXOxtu2PqKtlr8K0=",
+          "cp37"
+        ],
+        "orjson-3.6.5-cp37-cp37m-manylinux_2_24_aarch64.whl": [
+          "UiwIhnnGng3Sxy9DzSap5z30zPntclrHPBUbvoFv5Ro=",
           "cp37"
         ],
         "orjson-3.6.5-cp37-cp37m-manylinux_2_24_x86_64.whl": [
           "0rhxp0WmT3JjG2MycVd8mdpiiptj4QvVycIHBuGf4oI=",
           "cp37"
         ],
+        "orjson-3.6.5-cp37-none-win_amd64.whl": [
+          "UasB/tOz4hVh8hOGovhqBBUzhUGTiIO2yglQAaMBSj4=",
+          "cp37"
+        ],
+        "orjson-3.6.5-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "/H5i7bx+zpV3mgNNniBte6nitjjMVI/TqC3FIl9lZiU=",
+          "cp38"
+        ],
+        "orjson-3.6.5-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "ByDWDbP6JZVgEaVzJ0omnrN96YBw87wYZYKvEiKi0IQ=",
+          "cp38"
+        ],
         "orjson-3.6.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "4Wmoh2rtelv/QTxTJX7x+h2baMhV6wXWWMTnPtjf9Qg=",
+          "cp38"
+        ],
+        "orjson-3.6.5-cp38-cp38-manylinux_2_24_aarch64.whl": [
+          "Mx+aO9ujCmkTrR0UnfCOSDdYHjzpK/YUJ32E78yveW8=",
           "cp38"
         ],
         "orjson-3.6.5-cp38-cp38-manylinux_2_24_x86_64.whl": [
           "7OXf40a5G0QlkKQa96/mHfCvNpGV/tE6Gym5axuoKQU=",
           "cp38"
         ],
+        "orjson-3.6.5-cp38-none-win_amd64.whl": [
+          "al6esDG0S3pCnHBcpIggNx0luUZ8kyO2rnpxLa8V++8=",
+          "cp38"
+        ],
+        "orjson-3.6.5-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "IGI3+l5FFkpnixKswCqsfFtQJy9/MRFuHgj4vK9lT5M=",
+          "cp39"
+        ],
+        "orjson-3.6.5-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "1azusiawYNEcy1qEpM/XYPgCQonjgQ7ERu8pk6hduso=",
+          "cp39"
+        ],
         "orjson-3.6.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "gNuj28BWPElxnozH0VaKXPc4rM/NGqbKXoIitXQ2514=",
           "cp39"
         ],
+        "orjson-3.6.5-cp39-cp39-manylinux_2_24_aarch64.whl": [
+          "RD85vF55ZogBQkMM4JHlAq6gaLOMudtfH/3P7mgrwtQ=",
+          "cp39"
+        ],
         "orjson-3.6.5-cp39-cp39-manylinux_2_24_x86_64.whl": [
           "oG8t2IMjpICsGxTVgp+2zdmw1y1QX6u/vTlNouLgf28=",
+          "cp39"
+        ],
+        "orjson-3.6.5-cp39-none-win_amd64.whl": [
+          "gstC29RaOFbbrQoitU3rXpCyVnzcK46mcI4MT+LhK+M=",
           "cp39"
         ]
       }
@@ -120612,6 +120700,18 @@
       "wheels": {
         "tencentcloud_sdk_python_autoscaling-3.0.539-py2.py3-none-any.whl": [
           "Eb2hj401HO45uYSsEefBmRJHlMAddwHg2oV0dIetpk0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.540": {
+      "sdist": [
+        "kyOw/gf/P+t8GMZQztYWG1bcXIEtLksdHRKHUqSsIYQ=",
+        "tencentcloud-sdk-python-autoscaling-3.0.540.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_autoscaling-3.0.540-py2.py3-none-any.whl": [
+          "kiVzav0NzewnR3cqujPjGjG90MHCel3pWHRCEPnPav4=",
           "py2.py3"
         ]
       }
