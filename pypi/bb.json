@@ -8561,6 +8561,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0a0": {
+      "sdist": [
+        "/Fiy5zB0TntsO6gZGqVesu9k56+jyuIIlOdzuFf7VHk=",
+        "aws-cdk.aws-servicecatalog-alpha-2.1.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_servicecatalog_alpha-2.1.0a0-py3-none-any.whl": [
+          "7ZE3zZiSAV/oNJimBfYpWuP3ZqRPyOCqmf4hHYjpNDg=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-session-management": {
@@ -13085,6 +13097,20 @@
         "F//v8pHimLllXiv1zMawHuTWDnklzUZvXHwh5kjXBBM=",
         "chem_G5-1.0.tar.gz"
       ]
+    }
+  },
+  "chi-drm": {
+    "0.1.0": {
+      "sdist": [
+        "oVgEDw9lExakRt2EmBC3ursA1XSZlbHytHT7mxfL5ls=",
+        "chi-drm-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "chi_drm-0.1.0-py3-none-any.whl": [
+          "lF9YwR/eVH4Tigy3jJpohn1GY+7TBSBG6tu5s5jaBcQ=",
+          "py3"
+        ]
+      }
     }
   },
   "chinoscriba": {
@@ -32499,6 +32525,26 @@
           "cp39"
         ]
       }
+    },
+    "1.0.2.dev640": {
+      "wheels": {
+        "eoshep-1.0.2.dev640-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "3eqadepTKJpDgem2zIRA93BldWEhUjIC+J7KVCzz6dA=",
+          "cp36"
+        ],
+        "eoshep-1.0.2.dev640-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "t6okl+UymEztEW3N7FcU7tOAg6X15IlbkiaY/hWGsfY=",
+          "cp37"
+        ],
+        "eoshep-1.0.2.dev640-cp38-cp38-manylinux2014_x86_64.whl": [
+          "59NEIfyjV5S29S0enDa6KFN1h2RJ+0xacs9aCw6+UFo=",
+          "cp38"
+        ],
+        "eoshep-1.0.2.dev640-cp39-cp39-manylinux2014_x86_64.whl": [
+          "7OrhBrLKPJrSKOesLokOYI/NXcRtBR1Eu/JMZN0IIQk=",
+          "cp39"
+        ]
+      }
     }
   },
   "equate": {
@@ -46341,6 +46387,80 @@
         "VwXArN2HvblksOz9DZX3DwxmRbbtUoHbxjHDEshl/0I=",
         "groupingsentences-0.18.tar.gz"
       ]
+    }
+  },
+  "gs-sdk": {
+    "0.0.5": {
+      "sdist": [
+        "/2LLf+vLrU8y0yuW1EW713uJJZuK/Tf16pWjSRCQyVQ=",
+        "gs_sdk-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "gs_sdk-0.0.5-py3-none-any.whl": [
+          "26klddW9TzDeJUR+ECVJFL5Y0gfQJpEF9lomGmZV0gw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "+5Vjhdkogc/ibCDZFCQ7IOfXEbPLkcGu1NE3U3YMdWk=",
+        "gs_sdk-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "gs_sdk-0.0.6-py3-none-any.whl": [
+          "ni9jTDdhBZ5p7jScUfNDrWuALMDi/+89buhIRyX5BiY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "sUCIKvAcqMbdlK05epUdzyRDSyJ5Gh+wnt9z1+GtsoM=",
+        "gs_sdk-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "gs_sdk-0.0.7-py3-none-any.whl": [
+          "6HDM2wRczSJctUilw90jDg6StX2N6WcZAnL2cL/4l8Y=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "oIxnC+uOZ8q/g+wzEixqvS1rLAEpk+/GeOloKAXE8JU=",
+        "gs_sdk-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "gs_sdk-0.0.8-py3-none-any.whl": [
+          "6/gd/aEI1F6ZbuKhx8vaqaodMEOvMlOIQzgNE2Qk9pA=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "auWKaUB5DeigvSBVcwqmvryi/8zND8N+5nRF26Hm0Ds=",
+        "gs_sdk-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "gs_sdk-0.0.9-py3-none-any.whl": [
+          "/k8p/v5ADXTVb51WR64yOZrlpazWGyBAnhjHS6wWiGU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "7F8GtLfc+O3Q4wNd9BPLG043bic55Pwon9p29rYU2bY=",
+        "gs_sdk-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "gs_sdk-1.0.0-py3-none-any.whl": [
+          "v7gdxyvSimxO3tnmo1hPyluwHNr3du0ixjE0EN8FrBU=",
+          "py3"
+        ]
+      }
     }
   },
   "gunicorn-websocket": {
@@ -105184,6 +105304,42 @@
       "wheels": {
         "skipper_lib-1.1.4-py3-none-any.whl": [
           "Wq9ez9afhRxdLG4HnQ59xx6audsEoR+Mcw5LaKQe3TY=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.5": {
+      "sdist": [
+        "d+fz4/8uqNx9w5KxCXWbHzwVjIy8xbaclcTAEVQ7TY8=",
+        "skipper-lib-1.1.5.tar.gz"
+      ],
+      "wheels": {
+        "skipper_lib-1.1.5-py3-none-any.whl": [
+          "h0hihifFHCC6iV5YlqjicPoLmr56kIPQ4RJC6HoQFoQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.6": {
+      "sdist": [
+        "34FTtF3v0WWisUc4WbvOTKuWWnfQ+UeVo5glchr0ImM=",
+        "skipper-lib-1.1.6.tar.gz"
+      ],
+      "wheels": {
+        "skipper_lib-1.1.6-py3-none-any.whl": [
+          "HWRcwHmin3bG/6IHp2kR0292GOizmlA7nMNQJ9rTyLc=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.7": {
+      "sdist": [
+        "94O6mAfWPemIVhLK1JM6qqhk4MUiCsx+RoqBoHSBqTo=",
+        "skipper-lib-1.1.7.tar.gz"
+      ],
+      "wheels": {
+        "skipper_lib-1.1.7-py3-none-any.whl": [
+          "xwaobSON4QMbJAhLsFlU9447sqWX7sYLtMgQCA7dFV0=",
           "py3"
         ]
       }
