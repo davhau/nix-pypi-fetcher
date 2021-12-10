@@ -45,6 +45,14 @@
           "cp36"
         ]
       }
+    },
+    "1.2": {
+      "wheels": {
+        "a2y_touch-1.2-cp36-cp36m-win32.whl": [
+          "+KNcvQJCsgiON0q3/M8DTUN1R9JA7WJSuGwTavn4aWc=",
+          "cp36"
+        ]
+      }
     }
   },
   "able": {
@@ -19384,6 +19392,18 @@
         ]
       }
     },
+    "0.1.59": {
+      "sdist": [
+        "5jOmPFehoF9reSbYSykrta+cCuxRyBoXrUlBMdG7RCs=",
+        "cdktf-cdktf-provider-postgresql-0.1.59.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_postgresql-0.1.59-py3-none-any.whl": [
+          "JRMY8jEISNtag2Rk97n+Mh67+zFdWJ5jUhgPGe04YSI=",
+          "py3"
+        ]
+      }
+    },
     "0.1.6": {
       "sdist": [
         "VEFpY9kQQpLdgW9RIZAWXEMZRZkCqTFcPKwq5Vy+jb4=",
@@ -19392,6 +19412,30 @@
       "wheels": {
         "cdktf_cdktf_provider_postgresql-0.1.6-py3-none-any.whl": [
           "oKkxpXRfaR9wOQUceQDflwG1M7ORxBGFSaxVOZrmypE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.60": {
+      "sdist": [
+        "WKFx0oDyX3VEADF7OOPIKaIQxKBaw4yHr+3lYDYBMlM=",
+        "cdktf-cdktf-provider-postgresql-0.1.60.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_postgresql-0.1.60-py3-none-any.whl": [
+          "WUbz5uGU6Rxh02I3nU6IY22rdTwko/oTEpNMO4KwiOo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.61": {
+      "sdist": [
+        "BVq+L8ix5YAcg260lKSPcinffJj9oHrjAlsjYVdyi00=",
+        "cdktf-cdktf-provider-postgresql-0.1.61.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_postgresql-0.1.61-py3-none-any.whl": [
+          "MAzvsjlMRHxex180sqrGVmvSm0ElylXpmr1nUMuxLHk=",
           "py3"
         ]
       }
@@ -26312,70 +26356,6 @@
     }
   },
   "daal-static": {
-    "2018.0.0.20170814": {
-      "wheels": {
-        "daal_static-2018.0.0.20170814-py2.py3-none-win32.whl": [
-          "Ep/agkUyyQpliK3UD5d7iS8ijke2FRHk/1yM++czrGE=",
-          "py2.py3"
-        ]
-      }
-    },
-    "2020.0.133": {
-      "wheels": {
-        "daal_static-2020.0.133-py2.py3-none-manylinux1_x86_64.whl": [
-          "4LqJGdj7Ouorw9r6mp0pVZmbuRtIkvRRKIJQAY01VB0=",
-          "py2.py3"
-        ]
-      }
-    },
-    "2021.1.2": {
-      "wheels": {
-        "daal_static-2021.1.2-py2.py3-none-macosx_10_15_x86_64.whl": [
-          "8gF6G4rTsSr0Ha8WWQMn1axTAGcqrEk8zFkwxkV7OOc=",
-          "py2.py3"
-        ],
-        "daal_static-2021.1.2-py2.py3-none-manylinux1_x86_64.whl": [
-          "oTXHutssPPlgV4bb1snxWAxh4VRNZqcgmsAseTTT0jo=",
-          "py2.py3"
-        ],
-        "daal_static-2021.1.2-py2.py3-none-win_amd64.whl": [
-          "EBIcfRGeLeyj9IN6Iibw+jvyFPgEUdRgDtm2YGT8kD8=",
-          "py2.py3"
-        ]
-      }
-    },
-    "2021.2.0": {
-      "wheels": {
-        "daal_static-2021.2.0-py2.py3-none-macosx_10_15_x86_64.whl": [
-          "npdUxx7nnmz1jLz+maYviQR1H4t/fk5fwohnlkiDi5A=",
-          "py2.py3"
-        ],
-        "daal_static-2021.2.0-py2.py3-none-manylinux1_x86_64.whl": [
-          "An/EeVtmVYQnWlsltkp/eUpMws1gjp5SO42e5EqdGvg=",
-          "py2.py3"
-        ],
-        "daal_static-2021.2.0-py2.py3-none-win_amd64.whl": [
-          "yvrMwrRRp8ngzuN3zfEIcagjxxwTNt8IRWYmeKuRd7E=",
-          "py2.py3"
-        ]
-      }
-    },
-    "2021.2.1": {
-      "wheels": {
-        "daal_static-2021.2.1-py2.py3-none-macosx_10_15_x86_64.whl": [
-          "+NrCIp0DgyAUwAPiWxVw5hR4hTwZa6y0+U2JG/J9Rv8=",
-          "py2.py3"
-        ],
-        "daal_static-2021.2.1-py2.py3-none-manylinux1_x86_64.whl": [
-          "L7pDSGrvuIfhKH9CVh8fifbBb9ep0OBSpp5M/4c6mME=",
-          "py2.py3"
-        ],
-        "daal_static-2021.2.1-py2.py3-none-win_amd64.whl": [
-          "sFIIjTWP+GFiO9FwLau7jPO86XH1pBKMVnz9VI3+nt8=",
-          "py2.py3"
-        ]
-      }
-    },
     "2021.2.2": {
       "wheels": {
         "daal_static-2021.2.2-py2.py3-none-macosx_10_15_x86_64.whl": [
@@ -26444,6 +26424,10 @@
       "wheels": {
         "daal_static-2021.5.0-py2.py3-none-macosx_10_15_x86_64.macosx_11_0_x86_64.whl": [
           "trIb5QV+IohddnuS8CiKt4OtDb74auCokJXgbA+4fkI=",
+          "py2.py3"
+        ],
+        "daal_static-2021.5.0-py2.py3-none-manylinux1_x86_64.whl": [
+          "tCZLInFXJks3t+7gfLsiYOiLUdi6RUHd0klqybVbrXs=",
           "py2.py3"
         ],
         "daal_static-2021.5.0-py2.py3-none-win_amd64.whl": [
@@ -60486,6 +60470,12 @@
       "sdist": [
         "9CDC8DdalHkjhOLG1IXvh+KY4KdKQfqaRxryQ/L58ZI=",
         "mysql-toolbox-0.0.13.tar.gz"
+      ]
+    },
+    "0.0.14": {
+      "sdist": [
+        "ZSCyg06V+Fi1/B5iSQqfw/CbcmgJN4kNJ0LhVo6rfQQ=",
+        "mysql-toolbox-0.0.14.tar.gz"
       ]
     },
     "0.0.5": {
