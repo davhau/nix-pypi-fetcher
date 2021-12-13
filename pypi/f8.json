@@ -5343,6 +5343,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.1": {
+      "sdist": [
+        "Dc+6w1j4X4VmYuIKp8tco16z5fjeS7bYK+W2q7qakKw=",
+        "api-reflector-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "api_reflector-0.5.1-py3-none-any.whl": [
+          "LlR4BKjQnbjYX2paur3E8vk6arGULiqxwmvSGBl1q9k=",
+          "py3"
+        ]
+      }
     }
   },
   "apiblueprint-codec": {
@@ -12432,6 +12444,14 @@
       "wheels": {
         "azureml_train_automl_client-1.36.0-py3-none-any.whl": [
           "NE+mxcc7V/NCuiQ7uR8IAWfmyUvb/WgMO/hSHQU3pns=",
+          "py3"
+        ]
+      }
+    },
+    "1.37.0": {
+      "wheels": {
+        "azureml_train_automl_client-1.37.0-py3-none-any.whl": [
+          "xJAFH1hcZSnRXhzOyHkF5YnmjCEbDbKO6fy6IRR1N2Q=",
           "py3"
         ]
       }
@@ -94377,6 +94397,12 @@
         "9JQ/yTKQdhHVVKefi9o6TPTNf7SGC/E8RPMMYoADxK4=",
         "pulumi_aws_native-0.8.1a1639155875.tar.gz"
       ]
+    },
+    "0.8.1a1639381506": {
+      "sdist": [
+        "IborO41Q3wPsSmJ1cu1tRe0oGxJA2YiB2rzlqgLatxs=",
+        "pulumi_aws_native-0.8.1a1639381506.tar.gz"
+      ]
     }
   },
   "pupilcloud": {
@@ -99998,22 +100024,6 @@
     }
   },
   "pyre-check-nightly": {
-    "0.0.101623669020": {
-      "sdist": [
-        "j1uk7v+TJNarmIbu5tdY9TMnsiw1hd3IfZ7UhFdVDF4=",
-        "pyre-check-nightly-0.0.101623669020.tar.gz"
-      ],
-      "wheels": {
-        "pyre_check_nightly-0.0.101623669020-py3-none-macosx_10_11_x86_64.whl": [
-          "w8NGPtateuMFZ3MfDvItSqbIhvOIostnUTinBTyKVaI=",
-          "py3"
-        ],
-        "pyre_check_nightly-0.0.101623669020-py3-none-manylinux1_x86_64.whl": [
-          "nAQVXZiAUqceIsy4IoxcADJYRMFJ7lxOLwkdpN2sMxc=",
-          "py3"
-        ]
-      }
-    },
     "0.0.101623714676": {
       "sdist": [
         "2YSaRDLLWJC81neIZjxKNZGa7z6/WE2I9Ax6JuIQDwI=",
@@ -102229,6 +102239,22 @@
           "py3"
         ]
       }
+    },
+    "0.0.101639397436": {
+      "sdist": [
+        "ruArpm+kmbtH7lEf6tHq3j+jb1g+0/pJj/wrP04qSq4=",
+        "pyre-check-nightly-0.0.101639397436.tar.gz"
+      ],
+      "wheels": {
+        "pyre_check_nightly-0.0.101639397436-py3-none-macosx_10_11_x86_64.whl": [
+          "uzzYUq7xMrZ+P8WtXsVOOUIGFN7byjZfj+35ySH/LKA=",
+          "py3"
+        ],
+        "pyre_check_nightly-0.0.101639397436-py3-none-manylinux1_x86_64.whl": [
+          "DdBouICBK+1mheQWe4bwiD+Z4UP41vqWCNSQgh/oNF0=",
+          "py3"
+        ]
+      }
     }
   },
   "pyreleaser-io": {
@@ -103520,6 +103546,12 @@
       "sdist": [
         "C5R21e2vF++QNuwXNEZFEpt1IJdEbWABclrUHOfU8gY=",
         "python-ligo-lw-1.7.1.tar.gz"
+      ]
+    },
+    "1.8.0": {
+      "sdist": [
+        "E3B4FdRNstw8CX7+lumFSHM6b87G+GS4XIavL6lgNcM=",
+        "python-ligo-lw-1.8.0.tar.gz"
       ]
     }
   },
@@ -128078,6 +128110,34 @@
         ],
         "tfq_nightly-0.6.0.dev20211212-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "TMjUWeEoB0JF2dz3kNLrrCaS8DK3Y2/MwzKVl04zFRs=",
+          "cp39"
+        ]
+      }
+    },
+    "0.6.0.dev20211213": {
+      "wheels": {
+        "tfq_nightly-0.6.0.dev20211213-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "gT4jRYXmGELT2Ly9bP4AMMBcW0aqnVxthkKCm5Xybb4=",
+          "cp37"
+        ],
+        "tfq_nightly-0.6.0.dev20211213-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "0RN0IJ6BWKLE09wkP51Ine05bCdZpPQAghKoJCvr0o8=",
+          "cp37"
+        ],
+        "tfq_nightly-0.6.0.dev20211213-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "A87tAzeGAYJwHq4Dc8tkkYPRH/1N9qCgPcU/UODY12s=",
+          "cp38"
+        ],
+        "tfq_nightly-0.6.0.dev20211213-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "HcMn2TAJ7hD7VlcaZAG7W3B7K5KyYwgHOjjqTaMagLs=",
+          "cp38"
+        ],
+        "tfq_nightly-0.6.0.dev20211213-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "vCfXjQvM3wDI2qLBOGB1KQPnNGIA6R81ACisDd/tiDU=",
+          "cp39"
+        ],
+        "tfq_nightly-0.6.0.dev20211213-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "03w4/LNwUQer5cS8rYW0qr8hyksuAIby4Eg9ottRR8A=",
           "cp39"
         ]
       }

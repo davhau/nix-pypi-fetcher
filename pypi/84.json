@@ -6908,6 +6908,14 @@
         ]
       }
     },
+    "1.37.0": {
+      "wheels": {
+        "azureml_train_automl_runtime-1.37.0-py3-none-any.whl": [
+          "WPr9GIoF6K1/41DNmmVALrmYuPUna1iDeA7ypCX5VR4=",
+          "py3"
+        ]
+      }
+    },
     "1.4.0": {
       "wheels": {
         "azureml_train_automl_runtime-1.4.0-py3-none-any.whl": [
@@ -7578,6 +7586,14 @@
       "wheels": {
         "azureml_widgets-1.36.0-py3-none-any.whl": [
           "XZeFxRdcCdIcQy/xULTHPQNttMMnjvuvykHYTYudwq4=",
+          "py3"
+        ]
+      }
+    },
+    "1.37.0": {
+      "wheels": {
+        "azureml_widgets-1.37.0-py3-none-any.whl": [
+          "X8MIGrCZOa3T5IemRq7cvRok9bBQco/sSEp9W8AF2cQ=",
           "py3"
         ]
       }
@@ -10777,6 +10793,18 @@
         "dkmSyej//xMD9xukEfPbDX4QU51RiHHIfD9ay7w4m20=",
         "ccs-digitalmarketplace-utils-60.0.3.tar.gz"
       ]
+    },
+    "60.0.4": {
+      "sdist": [
+        "oe1vumepgVCqEpvBYD0SQlaU2AE/IAY4bvpHrzqgsBg=",
+        "ccs-digitalmarketplace-utils-60.0.4.tar.gz"
+      ],
+      "wheels": {
+        "ccs_digitalmarketplace_utils-60.0.4-py3-none-any.whl": [
+          "7G19OB5VgOSTo8Lj/Ag71wPUGUOPZiF7zlsiGDckT1A=",
+          "py3"
+        ]
+      }
     }
   },
   "cd-construct1": {
@@ -37343,6 +37371,18 @@
         "WOUtCw5rJ27nC3BJeEiGEbUdNwSnXTpqjgFVBwno++U=",
         "jenkins_setuptools_versioning-1.0.tar.gz"
       ]
+    },
+    "1.1": {
+      "sdist": [
+        "VNe95q1fJYTnLxczT9X28Q7Y2dImc4XBlCO9q2KP4EY=",
+        "jenkins_setuptools_versioning-1.1.tar.gz"
+      ]
+    },
+    "1.2": {
+      "sdist": [
+        "M87xSUbs5sQbHrv4Q0RyT/XOYNSOTSWldT2OlfN5Buo=",
+        "jenkins_setuptools_versioning-1.2.tar.gz"
+      ]
     }
   },
   "jexp": {
@@ -45070,8 +45110,16 @@
           "UpjgZ3nYzDyPV+96J9QA+bLjSkuJkMjjoPH5I/uy0qU=",
           "cp27"
         ],
+        "maude-1.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "ASPNAjhFfRA9mKMxqthj2ZZyZREt3wN73PL49dpySyY=",
+          "cp310"
+        ],
         "maude-1.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "SNbEAYlbvQJlD7cXSetd1HVC+48Tm0POwxmRYNxt1Bk=",
+          "cp310"
+        ],
+        "maude-1.0-cp310-cp310-win_amd64.whl": [
+          "jCTqw23H0uC+ebKjn0GKkrWX/zeONdAlkSvHaELu0Ho=",
           "cp310"
         ],
         "maude-1.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
@@ -68896,6 +68944,18 @@
       "wheels": {
         "popmon-0.5.0-py3-none-any.whl": [
           "rw4bB5xsYLrPNDPem4LUmQGcpNSuxKiT0wsm5zi5E1U=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "WSxYNBQfxRP4u8olR/LCMGZJiz66YapinXeWYQ0nLXA=",
+        "popmon-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "popmon-0.6.0-py3-none-any.whl": [
+          "QMayrZO+e/UwPiA/EjbVyqenQGprFWqsfus+9hNV47U=",
           "py3"
         ]
       }
@@ -109688,6 +109748,30 @@
       "wheels": {
         "wrgl-0.7.3.1-py3-none-any.whl": [
           "P7CIHVM32gP+RydiPus4NKBrSRmKT6cBO3M1WkuOeVA=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.6": {
+      "sdist": [
+        "MVRnucynsd1uOrO7b0heLwbBApRTG3ALY/KWDCieLf0=",
+        "wrgl-0.7.6.tar.gz"
+      ],
+      "wheels": {
+        "wrgl-0.7.6-py3-none-any.whl": [
+          "9X52r8rgFeKky9KQHm1PvLVXsLzNx9wPH70AOXvfuR0=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.6.1": {
+      "sdist": [
+        "3DBW8x8qRs1wfsgCDz1K20LxwOEFmUMvgVXmxt2R5s8=",
+        "wrgl-0.7.6.1.tar.gz"
+      ],
+      "wheels": {
+        "wrgl-0.7.6.1-py3-none-any.whl": [
+          "GGrEkzsMJfcqnJj4V+S63qVrzK6lVXY7yo0hfm9Zcys=",
           "py3"
         ]
       }
