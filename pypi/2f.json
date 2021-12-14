@@ -12533,6 +12533,18 @@
           "py2"
         ]
       }
+    },
+    "2.0.3": {
+      "sdist": [
+        "PK5ydkfE+A1cHGcMvgR9LLhcb4tZEM4wvJJfKCyDRaU=",
+        "alibabacloud_ros20190910_py2-2.0.3.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_ros20190910_py2-2.0.3-py2-none-any.whl": [
+          "SEQ0nMzbKwrvIVF9UX6+5UtNjSQLkoYQOjN1f3moPNo=",
+          "py2"
+        ]
+      }
     }
   },
   "alibabacloud-voicenavigator20180612": {
@@ -77312,13 +77324,25 @@
   "paddlespeech-ctcdecoders": {
     "0.0.1a0": {
       "wheels": {
+        "paddlespeech_ctcdecoders-0.0.1a0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "T0aF+F5inyMg42qXnZDP39AtbOtyNvL4mC6FnFKIFdE=",
+          "cp37"
+        ],
         "paddlespeech_ctcdecoders-0.0.1a0-cp37-cp37m-manylinux_2_27_x86_64.whl": [
           "SjFAfmHNydFaKdtJ7eGL1TMM3Z0nUfRR1DHRMtCIwd8=",
           "cp37"
         ],
+        "paddlespeech_ctcdecoders-0.0.1a0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "4SvDz5xHYRKR1RrvCvNWQksgOZzxkQXZw9aHDfOHqNI=",
+          "cp38"
+        ],
         "paddlespeech_ctcdecoders-0.0.1a0-cp38-cp38-manylinux1_x86_64.whl": [
           "J4HOXN7gC7AkflbU+2c2vTH/UTj3LWAO+AUhZ5seTQM=",
           "cp38"
+        ],
+        "paddlespeech_ctcdecoders-0.0.1a0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "z+Vw/QPeFDsKFCLoLIgKTt3awboZbwV3ZV+BWHAkz9g=",
+          "cp39"
         ],
         "paddlespeech_ctcdecoders-0.0.1a0-cp39-cp39-manylinux1_x86_64.whl": [
           "UlXzsc2zInx6cJXRiutkZv6B20VUQBSwwkbEmdySTfU=",
@@ -87918,6 +87942,12 @@
       "sdist": [
         "A4woCNT4Rb9+F4Ga0niqVwHGUSpeOJdgvEZXvgpTZNM=",
         "pybreaker-0.6.0.tar.gz"
+      ]
+    },
+    "0.7.0": {
+      "sdist": [
+        "MaqADCvIDomrQkgN7OpVapILWeFUUYV5lTh6DuCajUE=",
+        "pybreaker-0.7.0.tar.gz"
       ]
     }
   },
@@ -116074,6 +116104,14 @@
         ]
       }
     },
+    "2021.12.14": {
+      "wheels": {
+        "torchx_nightly-2021.12.14-py3-none-any.whl": [
+          "NTi+Qb5ENl3ubD5sNjbkEbFJULkyqnCmqCQ6g/hywuw=",
+          "py3"
+        ]
+      }
+    },
     "2021.12.2": {
       "wheels": {
         "torchx_nightly-2021.12.2-py3-none-any.whl": [
@@ -118418,6 +118456,102 @@
         ],
         "tqsdk2-1.8.0-cp39-cp39-win_amd64.whl": [
           "1ar4RTw6nv+ZPV2FeVb9AojQWu5QYc9TFnk2uwxg5Dk=",
+          "cp39"
+        ]
+      }
+    },
+    "1.8.1": {
+      "wheels": {
+        "tqsdk2-1.8.1-cp37-cp37m-manylinux_2_28_x86_64.whl": [
+          "SbLgH82ZH8bSkVROGwq0H5KEhFRLAUNxbEZKU1EoSso=",
+          "cp37"
+        ],
+        "tqsdk2-1.8.1-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "Bn/2oV6YuxJ5dX3lTT4jJZlx0P9+xQ1f4+KIEEUl+Vg=",
+          "cp37"
+        ],
+        "tqsdk2-1.8.1-cp37-cp37m-win_amd64.whl": [
+          "J1ZIDYFt3YwxwMmrUSnp3DCPe07F77RnQlU76ulghWo=",
+          "cp37"
+        ],
+        "tqsdk2-1.8.1-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "J8F0cQOlIC3PRYoyv3GwleU0CBn2BVFrp2HUqUZQ9so=",
+          "cp38"
+        ],
+        "tqsdk2-1.8.1-cp38-cp38-win_amd64.whl": [
+          "Vh/8r+UOJNDO0EY0+7dz1kcTyOSNvcnCar4QKQNePjY=",
+          "cp38"
+        ],
+        "tqsdk2-1.8.1-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "YaJnZHcTEPaBqv9JMRFqNABE2NWHIb6S9/LrD6PHna4=",
+          "cp39"
+        ],
+        "tqsdk2-1.8.1-cp39-cp39-win_amd64.whl": [
+          "zUvhzcWlZM0RTO+rd04Im87rEKpXPNaAtGGmtJ9nxdE=",
+          "cp39"
+        ]
+      }
+    },
+    "1.8.2": {
+      "wheels": {
+        "tqsdk2-1.8.2-cp37-cp37m-manylinux_2_28_x86_64.whl": [
+          "ZiCX3w/C0ZWu3LTl6vPPaoMkkGTKa8MdaqqlTCvgWlk=",
+          "cp37"
+        ],
+        "tqsdk2-1.8.2-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "9v/uVdP/WxJqukUN2cgmq13BZ1J1sbTfXkixdBA0Sus=",
+          "cp37"
+        ],
+        "tqsdk2-1.8.2-cp37-cp37m-win_amd64.whl": [
+          "v4eajvr4OMgvnFYP4ted1Ijcn+yQ84k8S0pHI1Q3vC8=",
+          "cp37"
+        ],
+        "tqsdk2-1.8.2-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "Y8KDMJceQnxJwAA4TQfEOyPQMohTTpXCPqcDgBTZ+9Y=",
+          "cp38"
+        ],
+        "tqsdk2-1.8.2-cp38-cp38-win_amd64.whl": [
+          "G3qqICb8aqrq9Jw2rJlV3LiersVcfYcMTtDZkwbdi0Q=",
+          "cp38"
+        ],
+        "tqsdk2-1.8.2-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "GmDV8IdTLquObDgx7uff1mCVr/SFDa9XcDfX9KtCs2A=",
+          "cp39"
+        ],
+        "tqsdk2-1.8.2-cp39-cp39-win_amd64.whl": [
+          "Fk6jwqxxybooCYA+2XAD7ZFn419dmq/7UCHiQN7rKmk=",
+          "cp39"
+        ]
+      }
+    },
+    "1.8.3": {
+      "wheels": {
+        "tqsdk2-1.8.3-cp37-cp37m-manylinux_2_28_x86_64.whl": [
+          "DdKjFcHFiylq4Nm9nOQ/tWFaCuaFTOgiiwM2KSWt/CA=",
+          "cp37"
+        ],
+        "tqsdk2-1.8.3-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "BC9TpBqEtyS1zI6MQR/6e2emTe9pCOx5qSJhYFKRlME=",
+          "cp37"
+        ],
+        "tqsdk2-1.8.3-cp37-cp37m-win_amd64.whl": [
+          "ezwbzlDdPcvWmJKXWDMy4hObQiDGxG5kUeIwYhMtIdQ=",
+          "cp37"
+        ],
+        "tqsdk2-1.8.3-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "ZofUKG9ZAY+FDCM35uW1ZQnRffF3Wg4c0BIIgW/tk90=",
+          "cp38"
+        ],
+        "tqsdk2-1.8.3-cp38-cp38-win_amd64.whl": [
+          "RAXUlzlKWMXwWVeQpSF7PCeA0D4tKk3H/JfHjBNkrbg=",
+          "cp38"
+        ],
+        "tqsdk2-1.8.3-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "hJanaAb6ZWvWehaHv4L17Pi6IUyIbT0Ss2AlITmBwBg=",
+          "cp39"
+        ],
+        "tqsdk2-1.8.3-cp39-cp39-win_amd64.whl": [
+          "cJc4NzvS99peFa9ckILI6nLtJ6MJOhegFHqe8ffxR4k=",
           "cp39"
         ]
       }
