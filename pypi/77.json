@@ -7655,6 +7655,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "NeBxAmAPeExAThKkw+jFaeskpej5rJ3hHVTU7hU/Bmw=",
+        "alibabacloud_cddc20200320-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_cddc20200320-1.1.0-py3-none-any.whl": [
+          "wPZXP/0GAbdyqlzZ65IxxKMo54wKD407KRzYru6fAww=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-mts20140618": {
@@ -8898,6 +8910,14 @@
       "wheels": {
         "argus_api-2.6.0-py3-none-any.whl": [
           "7qNXdbwemDwOUagJ57pKH6uOewClAFDX5SvzM8yxR7Y=",
+          "py3"
+        ]
+      }
+    },
+    "2.7.0": {
+      "wheels": {
+        "argus_api-2.7.0-py3-none-any.whl": [
+          "3NKfPq5cJEU2P7GiGD3CYqBC454Nvjv6iKMMYK2Tk+U=",
           "py3"
         ]
       }
@@ -114280,6 +114300,30 @@
         ]
       }
     },
+    "5.0.2": {
+      "sdist": [
+        "g6naoDCrU3T6/FOqPLU5G0KOB6yYtJr6KKFgV9l1rGc=",
+        "smuport-ts-middleground-server-5.0.2.tar.gz"
+      ],
+      "wheels": {
+        "smuport_ts_middleground_server-5.0.2-py3-none-any.whl": [
+          "tBzwhWxg7lYCKvRxaHEY4T6GEaz50j09BWjYShrP60o=",
+          "py3"
+        ]
+      }
+    },
+    "5.0.3": {
+      "sdist": [
+        "TP3zzofWar2kpzir38fpb3p+ayuw5PoLurqot1zHF1k=",
+        "smuport-ts-middleground-server-5.0.3.tar.gz"
+      ],
+      "wheels": {
+        "smuport_ts_middleground_server-5.0.3-py3-none-any.whl": [
+          "PKCzuwvm2bZY3HT8tWTuHTo9byNedCwzGckbQMpJe9o=",
+          "py3"
+        ]
+      }
+    },
     "5.1.1": {
       "sdist": [
         "z9+dJd/Bj7PlZ/picQGXpqekjrbrSeGQr36KGrNZH30=",
@@ -114288,6 +114332,18 @@
       "wheels": {
         "smuport_ts_middleground_server-5.1.1-py3-none-any.whl": [
           "wIvrN/H1Gir35ruxPLllaVb9vnuh8iI/5lfjiqFFetg=",
+          "py3"
+        ]
+      }
+    },
+    "5.1.2": {
+      "sdist": [
+        "X/dA0XJTiLR+QqG63AcaUD+25VMPJkg1WXYuDXEVkN4=",
+        "smuport-ts-middleground-server-5.1.2.tar.gz"
+      ],
+      "wheels": {
+        "smuport_ts_middleground_server-5.1.2-py3-none-any.whl": [
+          "9GYO1/lcN/h5FL8Tq+NsPNK8xiZNJ+cE3O0ZLcV9YzA=",
           "py3"
         ]
       }
@@ -130836,76 +130892,10 @@
     }
   },
   "vitalus": {
-    "0.3": {
+    "1.0.0": {
       "sdist": [
-        "8zfdTeX3Yl9M/CBtBrERC7l+n40TXVJs41OcBt5rUus=",
-        "Vitalus-0.3.tar.gz"
-      ]
-    },
-    "0.3.1": {
-      "sdist": [
-        "I7SM1Yab0swVGPBj+tx5wDPI05wQWcsMNWEAXn9CwPg=",
-        "Vitalus-0.3.1.tar.gz"
-      ]
-    },
-    "0.3.2": {
-      "sdist": [
-        "R0WDXtRCh3I3GT9xs+S4RnyQGnYTo61sV3YT79flD2s=",
-        "Vitalus-0.3.2.tar.gz"
-      ]
-    },
-    "0.3.3": {
-      "sdist": [
-        "Ik9tXvwm/Yr5V5tB+hftkzEPpZ5XdkO1QACzxf5PGOg=",
-        "Vitalus-0.3.3.tar.gz"
-      ]
-    },
-    "0.3.4": {
-      "sdist": [
-        "vVF4DL2aNKZlG6BclahbILEwVKt4QCTHYnFzlsBMfDw=",
-        "Vitalus-0.3.4.tar.gz"
-      ]
-    },
-    "0.3.5": {
-      "sdist": [
-        "GtVqRlyimGm70ODRLXEmE6aSd8vTjcleiv72XIE7jmI=",
-        "Vitalus-0.3.5.tar.gz"
-      ]
-    },
-    "0.3.6": {
-      "sdist": [
-        "bXXItux609s8dh36QSF/5m06e6Knp45elgcq1TKweCY=",
-        "Vitalus-0.3.6.tar.gz"
-      ]
-    },
-    "0.3.7": {
-      "sdist": [
-        "I3ZJcHouylbuKj6FnfwDmkiuWTwFI+8n5DWJY3E22Kg=",
-        "Vitalus-0.3.7.tar.gz"
-      ]
-    },
-    "0.3.8": {
-      "sdist": [
-        "7xpwaJFClAz/U2EyyMuSss1ZqWjvaJtgYuIsc3VqEMY=",
-        "Vitalus-0.3.8.tar.gz"
-      ]
-    },
-    "0.4.0": {
-      "sdist": [
-        "Szy9+bWb0tBfePFeA34utebwR3zNEHcIw8sdt2hc/VU=",
-        "Vitalus-0.4.0.tar.gz"
-      ]
-    },
-    "0.4.1": {
-      "sdist": [
-        "qPpA6GkdBBbU0ww8nZAP9XW5397D+VTBk7KyPddmrnc=",
-        "Vitalus-0.4.1.tar.gz"
-      ]
-    },
-    "0.4.2": {
-      "sdist": [
-        "wV2y+lQgFFm56wF8PhGxXuRa/DPnsywnNUoLFA0LkOY=",
-        "Vitalus-0.4.2.tar.gz"
+        "BQjhQdu/Cjn22N0D8J8raQ5QhTC8fh85spDMmJejFWA=",
+        "Vitalus-1.0.0.tar.gz"
       ]
     }
   },

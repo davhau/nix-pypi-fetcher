@@ -7192,6 +7192,18 @@
         ]
       }
     },
+    "1.136.0": {
+      "sdist": [
+        "WGcPUY9gJ1rRDkUi1iyndNAtQCF1DvqmSBJ0wQDeyjo=",
+        "aws-cdk.aws-cloudformation-1.136.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudformation-1.136.0-py3-none-any.whl": [
+          "5K5KXPXFT7BTLiR+QzC3noigCq0NcBdnc/F0etYOqxg=",
+          "py3"
+        ]
+      }
+    },
     "1.14.0": {
       "sdist": [
         "YUXS+33X5LYqEW99WrdbR7c7UPd5Eivs/LsJin/hv3k=",
@@ -9326,6 +9338,18 @@
       "wheels": {
         "aws_cdk.aws_sns-1.135.0-py3-none-any.whl": [
           "r5OT4j3CiCojsyMOHOy7QPJDNNLx6buw3p849tzDncY=",
+          "py3"
+        ]
+      }
+    },
+    "1.136.0": {
+      "sdist": [
+        "xrAX7PL8LZ6LED31Hu0wgjHWfxCbN1Cm8+4435rGxK0=",
+        "aws-cdk.aws-sns-1.136.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sns-1.136.0-py3-none-any.whl": [
+          "9F8F/SVPDnHKNTbK3P68ZgQjyzm4B+5NMq3l2yCamxQ=",
           "py3"
         ]
       }
@@ -18635,6 +18659,32 @@
       ]
     }
   },
+  "check-reqs": {
+    "0.1.0": {
+      "sdist": [
+        "QP3z4zrpWhpFCi36fza7BrSVFy08vyifYjnOcV4QBHc=",
+        "check_reqs-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "check_reqs-0.1.0-py3-none-any.whl": [
+          "XA+XwgcVVspBoLimByKXiQswd0Nx2ZTAtqBs+4LP1i0=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "V5VLWGoNA876/BPn6d8DbRXi50PF/Ufw48OrNqaQRwc=",
+        "check_reqs-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "check_reqs-0.2.0-py3-none-any.whl": [
+          "T7rMqq29mjnp5vkezyVjURSQHfDIqtPQ7jgJEaFAqUY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "checkenv": {
     "1.0.0": {
       "sdist": [
@@ -20054,6 +20104,18 @@
       "wheels": {
         "clld-8.1.0-py2.py3-none-any.whl": [
           "qYZ3Wv+W+A3f6rtvVb9uqZ+xkwN/nf6nixJy3uSyOpk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "9.0.0": {
+      "sdist": [
+        "QZ+A0zfhXDGen1HgKw0f2I7a65fC01T3VK99Gi0CWsE=",
+        "clld-9.0.0.tar.gz"
+      ],
+      "wheels": {
+        "clld-9.0.0-py2.py3-none-any.whl": [
+          "rfYkt5MT/AkLA1ANwh1FNenNjgQHb9q2581fGI0pdRs=",
           "py2.py3"
         ]
       }
@@ -78805,6 +78867,86 @@
           "cp39"
         ]
       }
+    },
+    "0.20.1": {
+      "sdist": [
+        "IKvc16UMEN/XIh3Dn6eUXAaBGxghTvY4WlB0veAVNsU=",
+        "PennyLane-Lightning-0.20.1.tar.gz"
+      ],
+      "wheels": {
+        "PennyLane_Lightning-0.20.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "0/7xRaDCrhF3IEHkQnF1JdZYKZo5MWy3QYvjv2bbi5M=",
+          "cp37"
+        ],
+        "PennyLane_Lightning-0.20.1-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "//G3rehBJZASYaC/XnGp4UvhKsrEvQMuFkp7xOmXzeI=",
+          "cp37"
+        ],
+        "PennyLane_Lightning-0.20.1-cp37-cp37m-manylinux2014_ppc64le.whl": [
+          "TLOnOprZjs+PlNCSafhlScNk5Pa9JmR+ZZcx7Q5hJjI=",
+          "cp37"
+        ],
+        "PennyLane_Lightning-0.20.1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "nRIipxIh8qyA5hdL7/SpU4S8c127KS8OPPm3Yl5CYwo=",
+          "cp37"
+        ],
+        "PennyLane_Lightning-0.20.1-cp37-cp37m-win_amd64.whl": [
+          "bQGlG7iAYGNK7YrMipUwQNyoqskGzZA4np4aHrC6ToU=",
+          "cp37"
+        ],
+        "PennyLane_Lightning-0.20.1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "OyCRpzKKEGmKo7dxDYRLWSiS6ZryOHL/xvRHYrA74rA=",
+          "cp38"
+        ],
+        "PennyLane_Lightning-0.20.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "dzdAnYCxCeQeiAYdS/LEP9zjzVFvF3qdNvZ3mgO/9rY=",
+          "cp38"
+        ],
+        "PennyLane_Lightning-0.20.1-cp38-cp38-manylinux2014_aarch64.whl": [
+          "GQve86v3MWl2lMwYCZXr33WtSwiszNnvEMS0SV1/ZKk=",
+          "cp38"
+        ],
+        "PennyLane_Lightning-0.20.1-cp38-cp38-manylinux2014_ppc64le.whl": [
+          "H75XUO0aIVN6fWTwqYN5smPR7GttFfwG23V0xK00R18=",
+          "cp38"
+        ],
+        "PennyLane_Lightning-0.20.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "HgVAn1ijA8vYFAH/nnxyVJwswzQVeJY6EB8K2CH5j/U=",
+          "cp38"
+        ],
+        "PennyLane_Lightning-0.20.1-cp38-cp38-win_amd64.whl": [
+          "u1k1ST4NUFMyEbsiSz0w4mJdGuZEv1Zfj+Fap9ivWmY=",
+          "cp38"
+        ],
+        "PennyLane_Lightning-0.20.1-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "ExeKf2O1Fib/2nc++rCItCDC2tbyCxHhNAJSM2aaITs=",
+          "cp39"
+        ],
+        "PennyLane_Lightning-0.20.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "JImkQDjKDhPnyaUw9bSGKNr0MfubBT99CKWkgtdu/1w=",
+          "cp39"
+        ],
+        "PennyLane_Lightning-0.20.1-cp39-cp39-manylinux2014_aarch64.whl": [
+          "GaOuD8cHySqH/mzN1ugsJgHkwyv9qb+ZQZKqgIF9CyA=",
+          "cp39"
+        ],
+        "PennyLane_Lightning-0.20.1-cp39-cp39-manylinux2014_ppc64le.whl": [
+          "ez6rPWKy0aUgjPU2u6TjsDAUoE37OJiW8/Y8VSPhxmI=",
+          "cp39"
+        ],
+        "PennyLane_Lightning-0.20.1-cp39-cp39-manylinux2014_x86_64.whl": [
+          "MFAVrN+gn5YdPQQynJm6XMlj4z8z9ns1FdzQb1c6xnU=",
+          "cp39"
+        ],
+        "PennyLane_Lightning-0.20.1-cp39-cp39-win_amd64.whl": [
+          "GkRBG7gMlMIHaNEaEKZs5Bcs5FYG+Hyc3k1nFdoHcvQ=",
+          "cp39"
+        ],
+        "PennyLane_Lightning-0.20.1-py3-none-any.whl": [
+          "H/YMqiX2UGlbPXWJoSMIVE9XOiViPQPzPzsto+prGLw=",
+          "py3"
+        ]
+      }
     }
   },
   "pfdo-med2image": {
@@ -105225,6 +105367,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.4": {
+      "sdist": [
+        "Aeh2SzNrTIgEFWcoOH340XzTd/qkJj9yVRyGdBHKxpY=",
+        "splink_comparison_viewer-0.1.4.tar.gz"
+      ],
+      "wheels": {
+        "splink_comparison_viewer-0.1.4-py3-none-any.whl": [
+          "jLyWIf7+lP7EI9PvMTTmQGu7IvVgmlRJ+529kUSbOQc=",
+          "py3"
+        ]
+      }
     }
   },
   "split-main": {
@@ -123940,17 +124094,11 @@
     }
   },
   "wave-tool": {
-    "0.1.1": {
+    "1.0.0": {
       "sdist": [
-        "Pb3jG+fO41Nf2MOY/UliFVOzAC1d9NpUbkuA4YgM2/8=",
-        "wave-tool-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "wave_tool-0.1.1-py2.py3-none-any.whl": [
-          "t+4df/4ecGBjnf60teEta9NwFZWOXPi2uvrGndKq7HE=",
-          "py2.py3"
-        ]
-      }
+        "+O6AHnNbMZLVYvoecyrWmYabxMW8xFdJvhktHqKOtTM=",
+        "wave-tool-1.0.0.tar.gz"
+      ]
     }
   },
   "wcolors": {

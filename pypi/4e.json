@@ -4080,6 +4080,26 @@
         ]
       }
     },
+    "21.12.1": {
+      "wheels": {
+        "appdynamics_bindeps_linux_x64-21.12.1-cp36-none-any.whl": [
+          "vgjm39DiOBmv5I9Fi2rttuRWFJXq9hsp8Aa9YbQDynQ=",
+          "cp36"
+        ],
+        "appdynamics_bindeps_linux_x64-21.12.1-cp37-none-any.whl": [
+          "SAFDJU/hwJGV7RhQw5TBAO+8/r8tlHVKvXmkGPXgDh0=",
+          "cp37"
+        ],
+        "appdynamics_bindeps_linux_x64-21.12.1-cp38-none-any.whl": [
+          "tSbLoEDqpvPCmF0jWrsXW14cgbt6xMUE0xytVjRIStc=",
+          "cp38"
+        ],
+        "appdynamics_bindeps_linux_x64-21.12.1-cp39-none-any.whl": [
+          "UBl5fmoa+7YKF8jxEynow8Z8BZQMpvVkhBxUdsX/vbg=",
+          "cp39"
+        ]
+      }
+    },
     "21.6.0": {
       "wheels": {
         "appdynamics_bindeps_linux_x64-21.6.0-cp27-none-any.whl": [
@@ -7066,6 +7086,18 @@
         ]
       }
     },
+    "1.136.0": {
+      "sdist": [
+        "iRORLIe1LgY8zUNZtrf3KJE356ztSCpOnekCX4jnVBA=",
+        "aws-cdk.aws-codeartifact-1.136.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codeartifact-1.136.0-py3-none-any.whl": [
+          "XCn4lvoiFJrAoaguaV2x7wxWQMRU3JTI+jEr6wvwkx0=",
+          "py3"
+        ]
+      }
+    },
     "1.68.0": {
       "sdist": [
         "lwtzH9Q4CMD7nYrBSa+JGQJGa0K3G6hTN6Lwj64cVIQ=",
@@ -8264,6 +8296,18 @@
       "wheels": {
         "aws_cdk.aws_codedeploy-1.135.0-py3-none-any.whl": [
           "ZjG/MdAoNvpPWz+Z1nJeUNoEn8zPF1F5Dc/uBkO5+0s=",
+          "py3"
+        ]
+      }
+    },
+    "1.136.0": {
+      "sdist": [
+        "/urbDVRhh4x98j+GAUxfi/dfajUA6m0Q776hDhsXTew=",
+        "aws-cdk.aws-codedeploy-1.136.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codedeploy-1.136.0-py3-none-any.whl": [
+          "iBsawTBog/Kk21a21UrY0eiqmxuANxG+W764iRzyEGk=",
           "py3"
         ]
       }
@@ -10402,6 +10446,18 @@
       "wheels": {
         "aws_cdk.aws_elasticsearch-1.135.0-py3-none-any.whl": [
           "7h+Op5RpfFRQ0fKSgd3Azgq7+t8Wy0YH4cgRxO3qBXo=",
+          "py3"
+        ]
+      }
+    },
+    "1.136.0": {
+      "sdist": [
+        "bXi91pSeSwkL16HHN0TuaOLzNMmNPds7Jeq0GCrCAiA=",
+        "aws-cdk.aws-elasticsearch-1.136.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_elasticsearch-1.136.0-py3-none-any.whl": [
+          "T284bvjqxMSp5bjOw97Rkz7v6gA3u5USwaEIMjugHvQ=",
           "py3"
         ]
       }
@@ -17132,74 +17188,14 @@
     }
   },
   "cqi": {
-    "1.0.0.dev0": {
+    "0.1.0": {
       "sdist": [
-        "loo8taXLDwaItC2OP0ftI+DWLw56zQRY+sYDFCZFmiw=",
-        "cqi-1.0.0.dev0.tar.gz"
+        "HoELj6oj8N2mWYJY5HOiAWFP0IKQJxr67J7RlMeqDKY=",
+        "cqi-0.1.0.tar.gz"
       ],
       "wheels": {
-        "cqi-1.0.0.dev0-py3-none-any.whl": [
-          "qPKKxMJJuaA1/7vJjE6biLYuGvVxGOOwEhwBErzC9Tg=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0.dev1": {
-      "sdist": [
-        "x65VoxnP7fihBrvTYGxOlt8xt1j8RlTls4Co1WX+yYM=",
-        "cqi-1.0.0.dev1.tar.gz"
-      ],
-      "wheels": {
-        "cqi-1.0.0.dev1-py3-none-any.whl": [
-          "bG3Sm8Piys+8raDgOVOEaL57IXmfyGHHoSrlapKijmo=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0.dev2": {
-      "sdist": [
-        "aBe8LeNnlNfFma+JlZnY4RLjUBsq97d7bdbD64bOHX8=",
-        "cqi-1.0.0.dev2.tar.gz"
-      ],
-      "wheels": {
-        "cqi-1.0.0.dev2-py3-none-any.whl": [
-          "oijZJ9d7PBsCQ3njhuPGxb/r18J290QYf4dMyJexkAA=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0.dev3": {
-      "sdist": [
-        "7K7as/ok0mDQ0ofJZiNcuZWSM8Y+L5nZehFa27Tin2g=",
-        "cqi-1.0.0.dev3.tar.gz"
-      ],
-      "wheels": {
-        "cqi-1.0.0.dev3-py3-none-any.whl": [
-          "25LfGE7EIgkvD1jl3DwCUxEA6j4wJOm+mDk53HaVNII=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0.dev4": {
-      "sdist": [
-        "F9dRyp1YuJrsskGiYLtpd7EgVE2IpN/Ju8gefS4C9rU=",
-        "cqi-1.0.0.dev4.tar.gz"
-      ],
-      "wheels": {
-        "cqi-1.0.0.dev4-py3-none-any.whl": [
-          "jHGqh2Hu0h2rdY0LwyyxiGUBBiGX+qWdpX4IVeBXluE=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.0.dev5": {
-      "sdist": [
-        "BooyEb0Gad4W7le4VGhzWlcr1NrIruKBp4xk+elS7MA=",
-        "cqi-1.0.0.dev5.tar.gz"
-      ],
-      "wheels": {
-        "cqi-1.0.0.dev5-py3-none-any.whl": [
-          "721750DrEcce1Y35OMScr+9WcxUwSB8TNgIM6ZAXYnA=",
+        "cqi-0.1.0-py3-none-any.whl": [
+          "cp7cjtqnfzQ05D5ez5+ZMZSvK1uWmaoJuXEUWrkTKMc=",
           "py3"
         ]
       }
@@ -27022,6 +27018,18 @@
       "wheels": {
         "django_rgd_imagery-0.2.12-py3-none-any.whl": [
           "y1urA85YyjVt0QXdniHufm4vTDkqig/cLpEdz8z7c5o=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.13": {
+      "sdist": [
+        "aODTAe0WLprj2Nj4NOc+fAbf408BIvOg91VnMZ8yVXY=",
+        "django-rgd-imagery-0.2.13.tar.gz"
+      ],
+      "wheels": {
+        "django_rgd_imagery-0.2.13-py3-none-any.whl": [
+          "Ch1bvIDFIMElHjEt4mQvEyLTGsU4L49Q2PGCpMvhkQ4=",
           "py3"
         ]
       }
@@ -51901,6 +51909,30 @@
           "py3"
         ]
       }
+    },
+    "0.5.1.dev202112151639566598": {
+      "sdist": [
+        "kAHZCOj56zeSsK8dZXAlDn+DtykpB9rU8r9wAnX1QY4=",
+        "jetpack-io-0.5.1.dev202112151639566598.tar.gz"
+      ],
+      "wheels": {
+        "jetpack_io-0.5.1.dev202112151639566598-py3-none-any.whl": [
+          "ygkiTHI10fxEonF9Dyi1GGyVDvnE0bkvTH6WnVTKwrU=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1.dev202112151639566707": {
+      "sdist": [
+        "rDoSIVjB1dkXZ0fxplvg6kskmi8vA5x19Rk6oGHeztw=",
+        "jetpack-io-0.5.1.dev202112151639566707.tar.gz"
+      ],
+      "wheels": {
+        "jetpack_io-0.5.1.dev202112151639566707-py3-none-any.whl": [
+          "BP1Lbb4dfHTbHvxFDoR4TDPCfyudRufle92GC6sx7Oc=",
+          "py3"
+        ]
+      }
     }
   },
   "jh-utils": {
@@ -57430,6 +57462,46 @@
         ],
         "KratosFSIApplication-9.0.1-cp39-cp39-win_amd64.whl": [
           "BGHQfHg2eLqxW3POuyrdu1LLwZ6C51KYJy8mK0zOVL0=",
+          "cp39"
+        ]
+      }
+    },
+    "9.0.2": {
+      "wheels": {
+        "KratosFSIApplication-9.0.2-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "mMdm8/1Lwv67JNeJS7reD8OvWCXl+j9EoDEEu1Moq4I=",
+          "cp310"
+        ],
+        "KratosFSIApplication-9.0.2-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "oGPxy7MpGGNKYZ7g+lP/ARGQHsbchZS/9x57K+XEsTk=",
+          "cp36"
+        ],
+        "KratosFSIApplication-9.0.2-cp36-cp36m-win_amd64.whl": [
+          "8qj4V2lSDTYdnxD8MAs2jxdRXPCNiNU9AeUHz1nVsDk=",
+          "cp36"
+        ],
+        "KratosFSIApplication-9.0.2-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "7q0KwOYqjKFrIzR0MWyqzbCnUZc0zJgsG1TrPlRbHpo=",
+          "cp37"
+        ],
+        "KratosFSIApplication-9.0.2-cp37-cp37m-win_amd64.whl": [
+          "V14jU4GTr3pBT9tp1xE+bVcK28vdaF4hFPHyu97r17I=",
+          "cp37"
+        ],
+        "KratosFSIApplication-9.0.2-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "sQbY6fWDzs9yYgO9DE74s0Vq6bg2RRU3J+RohtPLq9E=",
+          "cp38"
+        ],
+        "KratosFSIApplication-9.0.2-cp38-cp38-win_amd64.whl": [
+          "q99I92d6rSNfBqvKheoT46BRRyNaBhreC4AnyeRhr/s=",
+          "cp38"
+        ],
+        "KratosFSIApplication-9.0.2-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "k7UHm5wYvhEf0t72NRctjsoWQnDJJsKSNcemo1yeU4w=",
+          "cp39"
+        ],
+        "KratosFSIApplication-9.0.2-cp39-cp39-win_amd64.whl": [
+          "JIxDx4py6ijTcuh/SM1mG/HShJiGxkxIOitQ6QC5EnU=",
           "cp39"
         ]
       }
@@ -73706,40 +73778,10 @@
     }
   },
   "pendantdrop": {
-    "0.1.0": {
+    "1.0.0": {
       "sdist": [
-        "ze/qY3ikqyIEbD5U28S7XPc+89rrfvTP5V4qTa570Hs=",
-        "pendantdrop-0.1.0.tar.gz"
-      ]
-    },
-    "0.2.0": {
-      "sdist": [
-        "LqggKhUGj1dv6JzudjYGa3QI1B2//Q2ZnVotKNXWZ5E=",
-        "pendantdrop-0.2.0.tar.gz"
-      ]
-    },
-    "0.3.0": {
-      "sdist": [
-        "pjT47tLEGTAXVdiVvCFM65q623U42k7jTuwnIrcyJS4=",
-        "pendantdrop-0.3.0.tar.gz"
-      ]
-    },
-    "0.4.0": {
-      "sdist": [
-        "VxwiY0Mw+OmXHSmawpfxped1BrdncUZrpOvS58Lj/NA=",
-        "pendantdrop-0.4.0.tar.gz"
-      ]
-    },
-    "0.4.1": {
-      "sdist": [
-        "jiRlz0q3keWMAgoITqPJcyJt2dVa9rQFugxDQq2pxno=",
-        "pendantdrop-0.4.1.tar.gz"
-      ]
-    },
-    "0.4.2": {
-      "sdist": [
-        "mOUxIbOk/oEPc8aR3azaUEyMp6Rr/j1aTFgA1qOvxUU=",
-        "pendantdrop-0.4.2.tar.gz"
+        "EvKCq9ZAZVg+CNpOtK8Eb+k3OhSfDmB++2fPT+mq39I=",
+        "pendantdrop-1.0.0.tar.gz"
       ]
     }
   },
@@ -107440,6 +107482,14 @@
       "wheels": {
         "tf_hub_nightly-0.13.0.dev202112140014-py2.py3-none-any.whl": [
           "LqxLH+lAwMdc4Q03SkJK5LvaiHG7IlSl+e0t1w5T4Bo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.13.0.dev202112150014": {
+      "wheels": {
+        "tf_hub_nightly-0.13.0.dev202112150014-py2.py3-none-any.whl": [
+          "/bsjuw3Kxb+uNjt+kNs16P2fxP/iBbWQd7ZS77GIFhU=",
           "py2.py3"
         ]
       }
