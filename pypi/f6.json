@@ -187,6 +187,46 @@
           "cp39"
         ]
       }
+    },
+    "1.2.0": {
+      "wheels": {
+        "accera_compilers-1.2.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "AcXyyRJdz9KcjK5yF7paq37YQy+M4nAOGYi6Ffw9lDA=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5bZYjjx4d3MC+CrR+lW7aPO80v89R7HElty3ZXCGnxw=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.0-cp37-cp37m-win_amd64.whl": [
+          "Cl8j+9I9XG9z8IaVfLwBTsfMDKDe5ILvyqOIJMEiOzQ=",
+          "cp37"
+        ],
+        "accera_compilers-1.2.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "UwwLmm1AGz0vDsUtNxM/omaroGyjNKYR+SMBrtVfEb0=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GvpTHLVp42/Oh7DeixuHi39KtQokvmifx4yWnnTTi80=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.0-cp38-cp38-win_amd64.whl": [
+          "l9q8TlWhrU2xWFI8jGb2dPcYYq1D6o27LuoPZtCdtKI=",
+          "cp38"
+        ],
+        "accera_compilers-1.2.0-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "0JfLuWqoXS+wAlyoDAuvv2w5/bvM+mpOqQU4Em1CsRo=",
+          "cp39"
+        ],
+        "accera_compilers-1.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "e841M638BcDJi8ms6+ve8h74uymeG2m5BDB7hJAErnM=",
+          "cp39"
+        ],
+        "accera_compilers-1.2.0-cp39-cp39-win_amd64.whl": [
+          "2GOd4wGKhtoTwiFuCAX0ZtRP2qekQnjnq7/HcwAqEcs=",
+          "cp39"
+        ]
+      }
     }
   },
   "acgn-archive": {
@@ -6432,6 +6472,30 @@
       "wheels": {
         "aws_solutions_constructs.aws_kinesis_streams_lambda-1.130.0-py3-none-any.whl": [
           "iD6S9h5/0bNigPabPD8dlKdOVVSIEWLp7GjjXbL221k=",
+          "py3"
+        ]
+      }
+    },
+    "1.131.0": {
+      "sdist": [
+        "FLiNZ0uuOkrIAGXQDfDcq9t0jhQU5cM8GSO/678g3so=",
+        "aws-solutions-constructs.aws-kinesis-streams-lambda-1.131.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_streams_lambda-1.131.0-py3-none-any.whl": [
+          "Hd2IakvtQIp1nTN4p2svotPL0TOcro2XGg+tVt5Z9mo=",
+          "py3"
+        ]
+      }
+    },
+    "1.132.0": {
+      "sdist": [
+        "tYi1cMx+N9gJQYxs3QtOijW6HS29bzQTEOd9ATKpE9U=",
+        "aws-solutions-constructs.aws-kinesis-streams-lambda-1.132.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_streams_lambda-1.132.0-py3-none-any.whl": [
+          "rllb3VtQqc2tKIceTXhepcodMtiIs0ardor/liKc0hc=",
           "py3"
         ]
       }
@@ -83873,6 +83937,20 @@
       }
     }
   },
+  "pyobjcframework-social": {
+    "0.1.0": {
+      "sdist": [
+        "1K3Pf5mwId6YjhyzGoZbl2BXr6WjDeiG3/mM0HbtxDo=",
+        "pyobjcframework-social-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pyobjcframework_social-0.1.0-py3-none-any.whl": [
+          "Rp1vo0IghhxURIvwrvTZ/ZCQyzs81inMzkbqDSyYjiY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pyoverchain": {
     "1.0.0": {
       "sdist": [
@@ -99091,6 +99169,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.3.3": {
+      "sdist": [
+        "0cCHzgqQu8538jCLnErrFO/rJqOunafD1aFTNBzY7zQ=",
+        "snowflake-sqlalchemy-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "snowflake_sqlalchemy-1.3.3-py2.py3-none-any.whl": [
+          "iu5T0kwvVvNviwURvdBfftN9n0k1ItTs2YvjrfyVVGo=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "social-auth-app-pyramid": {
@@ -110724,6 +110814,18 @@
       "wheels": {
         "zc.buildout-3.0.0b5-py2.py3-none-any.whl": [
           "rEy+8nDftuwdO9lsoTQ4VB2XWbxJXZsIDlsCGjh09JI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.0rc1": {
+      "sdist": [
+        "Pp0hWoyhaEA3KC3hEIlMzpt4ZolHXaNyZVM79piEYgA=",
+        "zc.buildout-3.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "zc.buildout-3.0.0rc1-py2.py3-none-any.whl": [
+          "XhOQXQRcymyU3TvBKl046PmVJijsfyX2AcPQubveGTc=",
           "py2.py3"
         ]
       }
