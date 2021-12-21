@@ -25987,6 +25987,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.2.4": {
+      "sdist": [
+        "rY39DwgPZJOmvU7YagK1LsfRKoJ5sm4MR8EUNySnT30=",
+        "edx-prefectutils-2.2.4.tar.gz"
+      ],
+      "wheels": {
+        "edx_prefectutils-2.2.4-py2.py3-none-any.whl": [
+          "USPtJUoLNzTwgFx2BAMCGNu4cUeYevH9Ngk5soNL1jc=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "ehr-functions": {
@@ -37894,6 +37906,12 @@
         "goatools-1.0.6.tar.gz"
       ]
     },
+    "1.1.12": {
+      "sdist": [
+        "Hvm03OGKJRv80WFYRVXFOtrsaZUGs4mFQTT2y1uPIrU=",
+        "goatools-1.1.12.tar.gz"
+      ]
+    },
     "1.1.5": {
       "sdist": [
         "k9EYDp6Dug75J2VQMVwUyj12wfpYDZrWVwsXXNDHVXg=",
@@ -40308,6 +40326,22 @@
       "wheels": {
         "hahomematic-0.1.0-py3-none-any.whl": [
           "kk18i+9YUE3FBuYPqFdjm9tRqZBDIA/DUQ0KTfZxRz8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "wheels": {
+        "hahomematic-0.1.1-py3-none-any.whl": [
+          "i3VLlOF0ryQ3ua3dyS/qv8CZeDIb1ez+x84wUxk5jpQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "wheels": {
+        "hahomematic-0.1.2-py3-none-any.whl": [
+          "AVVhAFFyiFC1LqROtDhfTGbnuysR0JtwPwQJbbo8S6Y=",
           "py3"
         ]
       }
@@ -46428,6 +46462,18 @@
       "wheels": {
         "isd-0.1.5-py3-none-any.whl": [
           "5c8aOrw/Yfk9DVKJRERqxvTc+MY8isYf7rHtoXwW4gI=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "jvNFD/mbseTvJeZbd6N5t8Y7EVdXA86ESElW8iC/mRg=",
+        "isd-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "isd-0.2.0-py3-none-any.whl": [
+          "FRdgllAgG0MqlevzbImljMZ4rlCOHx5WAQQZtwlRtWI=",
           "py3"
         ]
       }
@@ -72061,6 +72107,60 @@
       }
     }
   },
+  "pikpak-webdav": {
+    "0.0.1": {
+      "wheels": {
+        "pikpak_webdav-0.0.1-py3-none-macosx_10_7_x86_64.whl": [
+          "IhwcN+o7ljnN4rwXnTb3sBovrfL2biRkSgJnDZCFuJU=",
+          "py3"
+        ],
+        "pikpak_webdav-0.0.1-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "7C0ynHyNDaO/L7p3fXnx0WNb7IFB3FC5zLbc9pkhuSE=",
+          "py3"
+        ],
+        "pikpak_webdav-0.0.1-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "zRRuKSq5BqS8Q48qRXprfVdlhXNMrgPTh5ZvjBWnB+Q=",
+          "py3"
+        ],
+        "pikpak_webdav-0.0.1-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "0i1yXFgRCyRcX1D7G6thegUi1oMuuTjF8gSWdMcM09c=",
+          "py3"
+        ],
+        "pikpak_webdav-0.0.1-py3-none-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "JLI8RhjiLIfRYizs/KHsbzenjI4JObpqlihv1HwtrMA=",
+          "py3"
+        ],
+        "pikpak_webdav-0.0.1-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "Y0mz9Rsb2BW3lUXalH0lW5M0dQdxiLNkBsFjCDrz6uc=",
+          "py3"
+        ],
+        "pikpak_webdav-0.0.1-py3-none-musllinux_1_1_aarch64.whl": [
+          "T0RjtbNXKDq1P205b6UUBUox14HjpG/jXH15hez6kek=",
+          "py3"
+        ],
+        "pikpak_webdav-0.0.1-py3-none-musllinux_1_1_armv7l.whl": [
+          "XJO3v2d+W3eC1K1fLFLuUad+W41sRCal4oljWYe6yoo=",
+          "py3"
+        ],
+        "pikpak_webdav-0.0.1-py3-none-musllinux_1_1_i686.whl": [
+          "ajWkmjwJuE5CKtNKbEcWiWDN5G6wUdfM4QhAtSLdQfg=",
+          "py3"
+        ],
+        "pikpak_webdav-0.0.1-py3-none-musllinux_1_1_x86_64.whl": [
+          "WRGr9kKYuztPeLpJo1pL0NeJcpAv8q7I5Tyd9vWmo18=",
+          "py3"
+        ],
+        "pikpak_webdav-0.0.1-py3-none-win32.whl": [
+          "Uoa0zwWb8pOcQe4xeFI8KxdljN+qp25gsr8bH1EDUOk=",
+          "py3"
+        ],
+        "pikpak_webdav-0.0.1-py3-none-win_amd64.whl": [
+          "T9i6ovRypArrnyDdtFXQMuXFF33jsVxYMLcN6Uj+D3E=",
+          "py3"
+        ]
+      }
+    }
+  },
   "pillaralgos-dev": {
     "0.1.0": {
       "sdist": [
@@ -85035,6 +85135,20 @@
       ]
     }
   },
+  "rdeer-service": {
+    "1.1.0": {
+      "sdist": [
+        "n40OntXE3iaKnNHBiG+5moSEucC8hX+4buP+Hcclns4=",
+        "rdeer-service-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "rdeer_service-1.1.0-py3-none-any.whl": [
+          "Y1U0HmfFISjUkGdFubQF5Y/DlpkEsVOlJshjPNVIyoo=",
+          "py3"
+        ]
+      }
+    }
+  },
   "reachy-sdk-api": {
     "0.1.1": {
       "sdist": [
@@ -89632,6 +89746,14 @@
       "sdist": [
         "AOqfpDFPbrMY8dQp8tjx2PMiWZ8ieEqawvhCFJImt2Y=",
         "shinkenplugins.plugins.http2-1.2.tar.gz"
+      ]
+    }
+  },
+  "simarpdf": {
+    "1.0.0": {
+      "sdist": [
+        "JNVkeSzTU4NBsxw6IQfqaPsZypEekz58b68DXYAxXeg=",
+        "simarpdf-1.0.0.tar.gz"
       ]
     }
   },
@@ -104818,6 +104940,18 @@
       "wheels": {
         "tflite_model_maker_nightly-0.3.5.dev202112200607-py3-none-any.whl": [
           "kCuAoYDMUUxan6F977DS3wJgYPHevg15VxIe0fNA/VI=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.5.dev202112210608": {
+      "sdist": [
+        "yUEBLPVzNpNuBkjCDMOotMiEGy2ibxgXOQ/UPhqLPBQ=",
+        "tflite-model-maker-nightly-0.3.5.dev202112210608.tar.gz"
+      ],
+      "wheels": {
+        "tflite_model_maker_nightly-0.3.5.dev202112210608-py3-none-any.whl": [
+          "c6ncvDexdXPa7OpOrqrRYYlWB4645HZvSZUcCo5q36Y=",
           "py3"
         ]
       }
