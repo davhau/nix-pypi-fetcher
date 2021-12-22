@@ -17764,6 +17764,12 @@
         "caucase-0.9.12.tar.gz"
       ]
     },
+    "0.9.13": {
+      "sdist": [
+        "X1GUQ69b1PCBa/4D/Rv2Nme2bzEBPUu6fjZRyPhOXcE=",
+        "caucase-0.9.13.tar.gz"
+      ]
+    },
     "0.9.2": {
       "sdist": [
         "uR5p37SPPMBYmiDMFCRAyTiEXUQTZ6xhQ03aMwd+OYU=",
@@ -65621,6 +65627,20 @@
       ]
     }
   },
+  "mtda": {
+    "0.14": {
+      "sdist": [
+        "oKtlXQOZYQte9se+PIrCwjajrblk90SDDCmlrqHyP+w=",
+        "mtda-0.14.tar.gz"
+      ],
+      "wheels": {
+        "mtda-0.14-py3-none-any.whl": [
+          "i71zugQsjLjYf/Uy0cbX6Vr89pYqELCdJF1G9I7GWFs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "muffin": {
     "0.0.0": {
       "sdist": [
@@ -88548,6 +88568,16 @@
       "wheels": {
         "ocdsmerge-0.6.6-py3-none-any.whl": [
           "xpTFx9L9z9xuD079r0976PFPIi2CfhjTKztCGlnPDsc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo-addon-stock-no-negative": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_stock_no_negative-15.0.1.0.0.2-py3-none-any.whl": [
+          "mmWDnq1mkRkpIcfiGBEf/U/sBI87HmHhznXMal5hS/k=",
           "py3"
         ]
       }
@@ -120774,6 +120804,22 @@
         ]
       }
     },
+    "0.10.25.0": {
+      "wheels": {
+        "samna-0.10.25.0-py3-none-any.whl": [
+          "NiWkJB+Vx9kvhufsVw38eiohH9uu/7H9Q3/bucfzQfg=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.26.0": {
+      "wheels": {
+        "samna-0.10.26.0-py3-none-any.whl": [
+          "4jfzUMuQ1V2qI/cNzmFB/iVFjWNkug/1z0QYcMklSEQ=",
+          "py3"
+        ]
+      }
+    },
     "0.10.3.0": {
       "wheels": {
         "samna-0.10.3.0-py3-none-any.whl": [
@@ -138901,6 +138947,54 @@
           "cp39"
         ]
       }
+    },
+    "2.8.0.dev20211222": {
+      "wheels": {
+        "tf_nightly-2.8.0.dev20211222-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "ALgTAfKCaRVstUS+QrUCNnqDpuvwtzZILGTf2/+e8mA=",
+          "cp310"
+        ],
+        "tf_nightly-2.8.0.dev20211222-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Hi4TsvSwWXJPuQlLasBkEPh6SZLAOhfKWuRJOXpOu+A=",
+          "cp37"
+        ],
+        "tf_nightly-2.8.0.dev20211222-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "NaBMr4eSPnm5iBtHXv0i7hUKu8OO4NV62gx2gjjuuzM=",
+          "cp38"
+        ],
+        "tf_nightly-2.8.0.dev20211222-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "EsVu8ioYgWyHfyMdcI0k2FY6wm+mSOdsaYTCEs7dQvQ=",
+          "cp39"
+        ]
+      }
+    },
+    "2.9.0.dev20211222": {
+      "wheels": {
+        "tf_nightly-2.9.0.dev20211222-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "yzA6NerOIj8P8r74TJReCZwgH/axAA0XIG5lUzcYQoc=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20211222-cp37-cp37m-win_amd64.whl": [
+          "Ze4YoPDy9Nmxg6uU5MzaQrfduORqvk9QL7P2rRawtNI=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20211222-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "ftQWcLji2IhEdYlH8lSkrorYee430ytTQkiHtOb/xSI=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20211222-cp38-cp38-win_amd64.whl": [
+          "fKMUh2XA/kC56BvI5KohauKJkyeY2pcdCBBtNn5Phck=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20211222-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "trilELUJFgPH+HEHPTU7i8okevnzCPSdK8CFhIm893s=",
+          "cp39"
+        ],
+        "tf_nightly-2.9.0.dev20211222-cp39-cp39-win_amd64.whl": [
+          "CbSh61nUSOGs8g28rGuKc+eAujLwgpPjLsBMFOMbwoY=",
+          "cp39"
+        ]
+      }
     }
   },
   "tf-slim": {
@@ -140130,6 +140224,12 @@
       "sdist": [
         "z7FpAZHVodreeWcJdeLK7I3K1Ug4KnxMZ6aG1p06fuQ=",
         "tmplot-0.0.5.tar.gz"
+      ]
+    },
+    "0.0.6": {
+      "sdist": [
+        "WjICBF6QUInH35DA/CaiAayt7cFWINyZnSVLFo6v6O0=",
+        "tmplot-0.0.6.tar.gz"
       ]
     }
   },
@@ -147742,6 +147842,18 @@
       "wheels": {
         "wheel-0.37.0-py2.py3-none-any.whl": [
           "IQFLK9k8bQA0trpdNeTrKENA4J1jxZrvb8FLDzRhRv0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.37.1": {
+      "sdist": [
+        "6aUE55PvvKG44OnLl5oknPSgp7W4yei2Wl451JUpwcQ=",
+        "wheel-0.37.1.tar.gz"
+      ],
+      "wheels": {
+        "wheel-0.37.1-py2.py3-none-any.whl": [
+          "S9zX2EATgIYSbNCSVNxhlftPxvAcBQodcjbyYw2x0io=",
           "py2.py3"
         ]
       }
