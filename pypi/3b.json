@@ -4783,6 +4783,18 @@
           "py3"
         ]
       }
+    },
+    "2.4.0a0": {
+      "sdist": [
+        "EXxYg8ZOKH4Txis9BG7VbTpy1bKRLToW4rj6iVPcHF0=",
+        "aws-cdk.aws-kinesisfirehose-destinations-alpha-2.4.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_kinesisfirehose_destinations_alpha-2.4.0a0-py3-none-any.whl": [
+          "lX1NbbsfQMWqITVKKKOREXsDfqWrlvxpv3UHcLVnPhI=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cli-mfa": {
@@ -5980,6 +5992,18 @@
       "wheels": {
         "beanie-1.8.10-py3-none-any.whl": [
           "mRPOw+ztSN+S6r3z7p0Ssk2MK+k3X2FwhibDG0/u8/8=",
+          "py3"
+        ]
+      }
+    },
+    "1.8.12": {
+      "sdist": [
+        "v93c+5Yvhw4QltLUYCdlohh1KFpYPggadlcfYlxrcwk=",
+        "beanie-1.8.12.tar.gz"
+      ],
+      "wheels": {
+        "beanie-1.8.12-py3-none-any.whl": [
+          "OAYiA+7YuAiKV8b7oJSO5VwmhBnQ+hCEiic7Z2mM6+E=",
           "py3"
         ]
       }
@@ -28003,6 +28027,14 @@
           "py3"
         ]
       }
+    },
+    "2.1.0": {
+      "wheels": {
+        "DobotEDU-2.1.0-py3-none-any.whl": [
+          "h4PAqqia4j4LxdDsiNwUbFb/XWUC+LNgOp+DxTgBX0A=",
+          "py3"
+        ]
+      }
     }
   },
   "docker-detect": {
@@ -38599,6 +38631,98 @@
         "geant4_pybind-0.1.0b6-pp37-pypy37_pp73-win_amd64.whl": [
           "7TN+PWi0Nx4neZ1WbJwGGSQWLDSVBA2ePQqLLEsqPVE=",
           "pp37"
+        ]
+      }
+    },
+    "0.1.0b7": {
+      "sdist": [
+        "sZdED2Z1mMxF9AOlRmxlNgZoxzwpfHEpx+gGe5d3MOE=",
+        "geant4_pybind-0.1.0b7.tar.gz"
+      ],
+      "wheels": {
+        "geant4_pybind-0.1.0b7-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "rszeZDihf0vw/BM2E0Z98wGaHByv0MvfInX2sayfEDE=",
+          "cp310"
+        ],
+        "geant4_pybind-0.1.0b7-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Aidv9zmyutFVRWz8AjyXYN+7VK8RbfYTtzAM8xvNs7U=",
+          "cp310"
+        ],
+        "geant4_pybind-0.1.0b7-cp310-cp310-win_amd64.whl": [
+          "kKANTNw1lc79rS//CnW21ndpksyQqFeTlgBp8ULcExU=",
+          "cp310"
+        ],
+        "geant4_pybind-0.1.0b7-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "ceppfrNxyznuYPYygNLGYmNAybZLdDPPtiJ0mA090Rc=",
+          "cp36"
+        ],
+        "geant4_pybind-0.1.0b7-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+PgqCGqGmrzOlrU1DqZHiR7DJXptA2JDJ6s92uF2cnE=",
+          "cp36"
+        ],
+        "geant4_pybind-0.1.0b7-cp36-cp36m-win_amd64.whl": [
+          "nhtH4UriRbnyYymuxyhUKbloq1CoRf9TzX4J1lyMD78=",
+          "cp36"
+        ],
+        "geant4_pybind-0.1.0b7-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "fFyWsw/JNn8ZaUsublF07P7qCQ2CODuDsz9ymBXuGPs=",
+          "cp37"
+        ],
+        "geant4_pybind-0.1.0b7-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Eix+TaETs4pnEFFvc6iJEOMYZ+QSfO1bBZi5x3S1iWw=",
+          "cp37"
+        ],
+        "geant4_pybind-0.1.0b7-cp37-cp37m-win_amd64.whl": [
+          "P+YeudaKotXN6iozddeD8rkbDyd9B+4i6ZhVwyMHUeo=",
+          "cp37"
+        ],
+        "geant4_pybind-0.1.0b7-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "ig2eBEsd/6FiaH1oJRDyUsS+SeGZAibDAob5jmkbqh8=",
+          "cp38"
+        ],
+        "geant4_pybind-0.1.0b7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WE+FTRe+o71rzWBxZigzOGJ6/ULyMLL0sMqNHmjLW3w=",
+          "cp38"
+        ],
+        "geant4_pybind-0.1.0b7-cp38-cp38-win_amd64.whl": [
+          "4JMn0DVPz2RfrsGTm1/0K9qzE9W9ejewoSgYfGzCr+Y=",
+          "cp38"
+        ],
+        "geant4_pybind-0.1.0b7-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "d6obJRubc/jad6rbvFz7IAx3pU+giZN9MDFA9DU05EI=",
+          "cp39"
+        ],
+        "geant4_pybind-0.1.0b7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "n2kO+QEjGBBy80URjMU/qCCZ/2CLesC1ZR3TFvvUFxQ=",
+          "cp39"
+        ],
+        "geant4_pybind-0.1.0b7-cp39-cp39-win_amd64.whl": [
+          "ihDQA3rTf3lxEHTra5GQemjLHp+Hg9o/po4bSjx2YIE=",
+          "cp39"
+        ],
+        "geant4_pybind-0.1.0b7-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "8e7YlFBcBv4bYo/l6V0EG6DgLbEnBY0wlNeR5khW0Qs=",
+          "pp37"
+        ],
+        "geant4_pybind-0.1.0b7-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4vwYmoXI0eyklugDqyY0BUQ/sgigZKnySEVwyW+M2xg=",
+          "pp37"
+        ],
+        "geant4_pybind-0.1.0b7-pp37-pypy37_pp73-win_amd64.whl": [
+          "9eROddNn1LkOs6B0AMUjcW6/nSqYDoPHEbiBYZIq+Lc=",
+          "pp37"
+        ],
+        "geant4_pybind-0.1.0b7-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "x6uY5uRi5z1NrUkDr7cmoF0d/etTOh4xzmnz3SvElLk=",
+          "pp38"
+        ],
+        "geant4_pybind-0.1.0b7-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OGbi2TcG6JZHGMztgaFuzyB5G5EY3P9mL9ILXZQUSs8=",
+          "pp38"
+        ],
+        "geant4_pybind-0.1.0b7-pp38-pypy38_pp73-win_amd64.whl": [
+          "AlPHhwSyhfmbEE9wRSb3WMQxE7Xv7l+5lXfb29rttm0=",
+          "pp38"
         ]
       }
     }
@@ -89451,6 +89575,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "+TvsL6lgTJqaODZe8XTRAcuUMz4bm83NENLkFN4eahI=",
+        "pyg-npy-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "pyg_npy-0.0.2-py3-none-any.whl": [
+          "HtznQIW+Y0uA7sewCA4SvWUNOZQr7yPhm4+aPPdUPKw=",
+          "py3"
+        ]
+      }
     }
   },
   "pygifconvt-m": {
@@ -100658,6 +100794,32 @@
       "wheels": {
         "SFLvault_common-0.9.2-py3-none-any.whl": [
           "LMRW8FIdIvAlH8IYmW6eHnTrfYM/Dafl4WZ9JPcUydw=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "shahienetal": {
+    "1": {
+      "sdist": [
+        "lIMZGXJncEDbtIHgrsmxgnfuhP1rE+Ah89JztOxtZ+E=",
+        "shahienetal-1.tar.gz"
+      ],
+      "wheels": {
+        "shahienetal-1-py3-none-any.whl": [
+          "dABzSXtXOx50yr7RZqYBUcGkGD4oJhiMOd0DhlXeiNk=",
+          "py3"
+        ]
+      }
+    },
+    "2": {
+      "sdist": [
+        "R8v1/QtR28eZjhtlXk/ru7ZnuOroZSks3VGqYB9uNyk=",
+        "shahienetal-2.tar.gz"
+      ],
+      "wheels": {
+        "shahienetal-2-py3-none-any.whl": [
+          "TTXBN50GsZsXdHVbXmIQNX8d39hEZC8jCMRPy8flIq4=",
           "py3"
         ]
       }

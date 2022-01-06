@@ -4734,6 +4734,10 @@
           "DfN1MDqzECTkSgVl9bNCRwloMeiUfN3iJsRicmCxud0=",
           "cp310"
         ],
+        "arch-5.1.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "XfRgy0LctoIYjNqMWoybe+fzRZs0utCoGY0bPnoqOc4=",
+          "cp310"
+        ],
         "arch-5.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "vwXq6XvLmlp9kq4VyZmCeOZLhi3IogXkQPQGUq+V4+M=",
           "cp310"
@@ -4766,6 +4770,10 @@
           "3DLm7WyVMShvQL7TwIiONINol1L49MVfjPhhj45bT7M=",
           "cp38"
         ],
+        "arch-5.1.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "italMoMe4BAhMp7PcqrmzRP/j4jCzrKeHUD1QSbD0Z0=",
+          "cp38"
+        ],
         "arch-5.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "klnosCPTgW4R/hkHG/x/cY9kytPpiyabuf7QyDaxFcY=",
           "cp38"
@@ -4784,6 +4792,10 @@
         ],
         "arch-5.1.0-cp39-cp39-macosx_10_9_x86_64.whl": [
           "vSi61hop/kg6s7uZxgUlXIMdZ5W6CHq6geVNXHfI3vY=",
+          "cp39"
+        ],
+        "arch-5.1.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "LwU2jBkd0lMEZkCTeSMtUVCO+6mK/SGl0Cq3d90XktM=",
           "cp39"
         ],
         "arch-5.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -23456,6 +23468,18 @@
       "wheels": {
         "csql-0.8.0-py3-none-any.whl": [
           "1qagkPpzMke4XgR6291xuqudcl77Hn9kgt+c5+qB5g0=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.0a12": {
+      "sdist": [
+        "1hin3+Kdbrlj9wVIaFTXdV9plNFOAeM+2YpJ5s1ALYM=",
+        "csql-0.9.0a12.tar.gz"
+      ],
+      "wheels": {
+        "csql-0.9.0a12-py3-none-any.whl": [
+          "ZP22VsEv4mZFXLsg2BOSvNsOzCk+QKkpHGHKkUWuQXQ=",
           "py3"
         ]
       }
@@ -51004,14 +51028,14 @@
         ]
       }
     },
-    "1.1.0": {
+    "1.1.1": {
       "sdist": [
-        "b1ZsdKJz5sL8U3AcABsoN52YfgiIJSu1wHd90RwTzsc=",
-        "invisibleroads-macros-text-1.1.0.tar.gz"
+        "mdK93GRdrj99DMp4U6LVdSg2zMp+WW8Q3NDy+FJm6kU=",
+        "invisibleroads-macros-text-1.1.1.tar.gz"
       ],
       "wheels": {
-        "invisibleroads_macros_text-1.1.0-py3-none-any.whl": [
-          "sxbcnKHuW2nix5uUYrbwocvs7n71cX+nxDiPQ9/qomc=",
+        "invisibleroads_macros_text-1.1.1-py3-none-any.whl": [
+          "juuUZmQn84uo86fOXsUFwbVSFzFEqt/HhdOulQ0xrZk=",
           "py3"
         ]
       }
@@ -74982,6 +75006,12 @@
     }
   },
   "observatory-platform": {
+    "0.0.0": {
+      "sdist": [
+        "03ye3nsuD2QCGKV5Y/iHe0zLmuqliL26W8PSxOt4iUU=",
+        "observatory-platform-0.0.0.tar.gz"
+      ]
+    },
     "0.1.0": {
       "sdist": [
         "cltWzf9fqspcU9N8B5GdoZZpMfwLCgL2ciFpWJPNaIc=",
@@ -85892,6 +85922,18 @@
       "wheels": {
         "pollination_honeybee_vtk-0.2.5-py2.py3-none-any.whl": [
           "tzXlETTAygElp/Nm1qczuhgHkgTxRnDrSQrOzXd0+3g=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.6": {
+      "sdist": [
+        "Q3LePZkReSREWJwyghftQpqDKgkqYFQxKq6LxbTx4ds=",
+        "pollination-honeybee-vtk-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "pollination_honeybee_vtk-0.2.6-py2.py3-none-any.whl": [
+          "QiuQJaUkdA74I3Mc3fl5GfYxU4KHkAxtDcFb/bh8qvs=",
           "py2.py3"
         ]
       }
