@@ -10284,6 +10284,14 @@
         ]
       }
     },
+    "4.2.0.dev17": {
+      "wheels": {
+        "assemblyline_service_client-4.2.0.dev17-py3-none-any.whl": [
+          "MGB1ra5x7oLnaUahN43HGDdD6L1sNQT1q+666USmKmM=",
+          "py3"
+        ]
+      }
+    },
     "4.2.0.dev2": {
       "wheels": {
         "assemblyline_service_client-4.2.0.dev2-py3-none-any.whl": [
@@ -12780,6 +12788,18 @@
       "wheels": {
         "aws_cdk.aws_xray-1.138.0-py3-none-any.whl": [
           "X/EzFQyNSvTihw352idMPVzFD8+PMgQlwXX3/JY/wTU=",
+          "py3"
+        ]
+      }
+    },
+    "1.138.1": {
+      "sdist": [
+        "UB2vAT9RJYcLfymSYwggeoXjfbzJilVnx8Yt4MAgol4=",
+        "aws-cdk.aws-xray-1.138.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_xray-1.138.1-py3-none-any.whl": [
+          "a2CcoCnMxamDwIH+eb1cU0J144Me70D8JxJCCde3beQ=",
           "py3"
         ]
       }
@@ -28850,6 +28870,12 @@
       "sdist": [
         "WBIUyqr9LtcRhutqlw5E9NiUDwqQ6FPpVc/P8X/rkn8=",
         "Docassemble-Pattern-3.6.3.tar.gz"
+      ]
+    },
+    "3.6.4": {
+      "sdist": [
+        "p79T2nTdnl6VxFRFY8KqT0rII2VVhuL6M3nMETtQT9E=",
+        "Docassemble-Pattern-3.6.4.tar.gz"
       ]
     }
   },
@@ -74470,6 +74496,10 @@
           "nFkOfXIEBSms1hkq+6jQ1aLV6rCxfM9bzoYOjnhgZdk=",
           "cp310"
         ],
+        "OpenGeode_IO-5.14.0-cp310-cp310-manylinux2014_x86_64.whl": [
+          "VW3AiyXuAvb/33/cdgeoEKpyHxe8xEHzPix8FoDFoGI=",
+          "cp310"
+        ],
         "OpenGeode_IO-5.14.0-cp310-cp310-win_amd64.whl": [
           "4TYsWgR1qSfGoV/JVVwVgrTYxOP9u8YF5h8xgnKxb9M=",
           "cp310"
@@ -74490,12 +74520,20 @@
           "LPbeSi5OB5zNKOX2ryhNDQ2ydSt8cyLHm0AfgcM7Ft8=",
           "cp37"
         ],
+        "OpenGeode_IO-5.14.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "rokxzvscK/rRxLlW0NDNYzFcRGwgYTZAquodj7Xcq8E=",
+          "cp37"
+        ],
         "OpenGeode_IO-5.14.0-cp37-cp37m-win_amd64.whl": [
           "+T8oJlCMYBFZfyZIERyHexjDaev1ZaUSeXlVmLtHTRM=",
           "cp37"
         ],
         "OpenGeode_IO-5.14.0-cp38-cp38-macosx_10_14_x86_64.whl": [
           "AyD9u7bMZotJTA+RwFxnEaKC4jFPrlRK0+CNDmGxEs4=",
+          "cp38"
+        ],
+        "OpenGeode_IO-5.14.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "FQo1UKRMDnN65tSENCCNC6INM2x+XEMVUVtsSdYk9dQ=",
           "cp38"
         ],
         "OpenGeode_IO-5.14.0-cp38-cp38-win_amd64.whl": [
@@ -74508,6 +74546,54 @@
         ],
         "OpenGeode_IO-5.14.0-cp39-cp39-win_amd64.whl": [
           "oTj/KA/0QF0OKoKhm7eZJw18g8la6koLSqnbGwsdsYM=",
+          "cp39"
+        ]
+      }
+    },
+    "5.14.1": {
+      "wheels": {
+        "OpenGeode_IO-5.14.1-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "0ZnZQHUhJZxNcBb+9tYzuDRcvkRTUmcLDDhBI/qzzvY=",
+          "cp310"
+        ],
+        "OpenGeode_IO-5.14.1-cp310-cp310-manylinux2014_x86_64.whl": [
+          "exZrx1hbYzjb3EucMBZGGqYO2L02geGcueyEemfNCbQ=",
+          "cp310"
+        ],
+        "OpenGeode_IO-5.14.1-cp310-cp310-win_amd64.whl": [
+          "bBZbDZ8x1nWjnzvjqij8n8HNAYtDVKzcqEoGec2EtqU=",
+          "cp310"
+        ],
+        "OpenGeode_IO-5.14.1-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "Kg3xCKakw8JHahck2CgecY/IhkLbYUR4f4rFVcmWixo=",
+          "cp36"
+        ],
+        "OpenGeode_IO-5.14.1-cp36-cp36m-win_amd64.whl": [
+          "RSfNFGurSJHW7N03A2Sjfy4tPD4iWudwEjOpE58FbQ4=",
+          "cp36"
+        ],
+        "OpenGeode_IO-5.14.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "1V8VFNgPSr1aNOBklNhjqEeV/ut1uu3YiShX6h+sCb8=",
+          "cp37"
+        ],
+        "OpenGeode_IO-5.14.1-cp37-cp37m-win_amd64.whl": [
+          "wFGLGTcn3ARi5+IyJN6csh6yXes3H+/LFtXnBNXKrp8=",
+          "cp37"
+        ],
+        "OpenGeode_IO-5.14.1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "poxNBc7G0GUUrsAZ/RO/sPPCsyq3P56OaeRT+fdIObg=",
+          "cp38"
+        ],
+        "OpenGeode_IO-5.14.1-cp38-cp38-win_amd64.whl": [
+          "MpM6uPcszdA99KTJsyB6suCsFxea3C0tazvgeXQ7I2c=",
+          "cp38"
+        ],
+        "OpenGeode_IO-5.14.1-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "4NeHu0JdgSsccF/MOkcjCI49LxDR738gsRsXXGDpiFQ=",
+          "cp39"
+        ],
+        "OpenGeode_IO-5.14.1-cp39-cp39-win_amd64.whl": [
+          "IChIbHNiO45GIAzVsSQ9zYvUdvMoz0JBHafgKJH3vw0=",
           "cp39"
         ]
       }
@@ -81070,6 +81156,14 @@
     }
   },
   "pmmif": {
+    "0.1.11": {
+      "wheels": {
+        "pmmif-0.1.11-py3-none-any.whl": [
+          "WHJOIFPnBg8vQLamiCwI1fxuMoHcZ3v0FZ2VRpNL17s=",
+          "py3"
+        ]
+      }
+    },
     "0.1.5": {
       "sdist": [
         "ARVEQlGnOxntU/JSjbZwAcOCilJOIR9SYTmX0LIyM6c=",
@@ -111587,6 +111681,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.8": {
+      "sdist": [
+        "W9BpffFvJaW30qM73k9JkLDA1lK+hgjC+kdThHdYBaE=",
+        "types-click-spinner-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "types_click_spinner-0.1.8-py3-none-any.whl": [
+          "KBuEXVzOcSv3hhLHipfmHG941MZ42A+mKH3ZIUunwd4=",
+          "py3"
+        ]
+      }
     }
   },
   "types-tabulate": {
@@ -111666,6 +111772,18 @@
       "wheels": {
         "types_tabulate-0.8.4-py3-none-any.whl": [
           "gP6GoGrpWCWphEfP+K7+MMYknPjxBSq7B/LCab2MDbM=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.5": {
+      "sdist": [
+        "A/KDvzhOoSG3tqWK+zj03vl/MHBPyhOg2mhpNrDzkqw=",
+        "types-tabulate-0.8.5.tar.gz"
+      ],
+      "wheels": {
+        "types_tabulate-0.8.5-py3-none-any.whl": [
+          "pyibgJIg37ttiBao3MJb34K5G0cogiWvssPyluBBfH8=",
           "py3"
         ]
       }

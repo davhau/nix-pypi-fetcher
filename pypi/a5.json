@@ -6150,6 +6150,14 @@
         ]
       }
     },
+    "1.138.1": {
+      "wheels": {
+        "aws_cdk.aws_cognito-1.138.1-py3-none-any.whl": [
+          "d2Qj7Fo3ysfXnb7ok1aGCtKCm0QNJ/8Inv3ixAbwVao=",
+          "py3"
+        ]
+      }
+    },
     "1.14.0": {
       "sdist": [
         "jN4qyI2nbEQEGbREStdqeA974jq0g1oWjZ6EpRWOSfE=",
@@ -19181,6 +19189,14 @@
           "py3"
         ]
       }
+    },
+    "0.0.28": {
+      "wheels": {
+        "corut-0.0.28-py3-none-any.whl": [
+          "lT4gYc2GbHLcAeNT8hr91M/Qn9HO1g7yE6Ut3owdOCk=",
+          "py3"
+        ]
+      }
     }
   },
   "cos-migrate-tool-test": {
@@ -20992,6 +21008,18 @@
         ]
       }
     },
+    "3.0.0a10": {
+      "sdist": [
+        "a8A9EuCljzp5MQOz+1rto3xwjUT87YacWshDtk7GJws=",
+        "crc-bonfire-3.0.0a10.tar.gz"
+      ],
+      "wheels": {
+        "crc_bonfire-3.0.0a10-py3-none-any.whl": [
+          "GorsuKB0hU8Ma4h3tE5171xY2s5oc4sKDQNiresbYXg=",
+          "py3"
+        ]
+      }
+    },
     "3.0.0a2": {
       "sdist": [
         "32p4JelFzM4ZQgrbEgLc7ZPPkKMT1YcvWNK6DhVJvy8=",
@@ -21180,6 +21208,30 @@
       "wheels": {
         "crop_utils-0.0.14-py3-none-any.whl": [
           "3R+s0Y5/BCoSjWtb2DUY4Mbzjgp/YsyJvrRE7C9KIV4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.15": {
+      "sdist": [
+        "yum4N6XLQH4+yZtkyChXs0/pbpGPWkGe5sWphChyujs=",
+        "crop_utils-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "crop_utils-0.0.15-py3-none-any.whl": [
+          "HLiggTB1kJlZJJu8X3AD6KZ2NxWa0ko7//DvFsVoBaQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.16": {
+      "sdist": [
+        "x9aPKkP3euwMWxmxvzKugxUJhFxhnFQsrFwvpyR+IDc=",
+        "crop_utils-0.0.16.tar.gz"
+      ],
+      "wheels": {
+        "crop_utils-0.0.16-py3-none-any.whl": [
+          "qW5QBmODafvMSKzl8TbdmcFyVHaCiImrJNpqyYd2QMY=",
           "py3"
         ]
       }
@@ -81308,6 +81360,66 @@
         ]
       }
     },
+    "1.10.0.1": {
+      "wheels": {
+        "pyEDM-1.10.0.1-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "rjb415utlBHaaH8zb6eKzRgyIvDQTSNlhfRiBvsR/qo=",
+          "cp310"
+        ],
+        "pyEDM-1.10.0.1-cp310-cp310-win_amd64.whl": [
+          "XMjETlp7wckV/QYaEv5uyAkVpcrg7WlUq9FJi4iOgGw=",
+          "cp310"
+        ],
+        "pyEDM-1.10.0.1-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "fe/FBQWwSLl6mPd1WCmhtHxk/5nuFYfaOqOD0SVvDM8=",
+          "cp37"
+        ],
+        "pyEDM-1.10.0.1-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "XM+hi5eth7xAfjcY+gqV/axw854jwsefvOpDO6IPrzo=",
+          "cp37"
+        ],
+        "pyEDM-1.10.0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "u0BEbegNGVtT8TN+sFXNq4xRxb2ckyogT2HLvyP6PMk=",
+          "cp37"
+        ],
+        "pyEDM-1.10.0.1-cp37-cp37m-win_amd64.whl": [
+          "ZMyThQXqblo1ZTTOiyzgqW4KOFp2CllWsRZ22KUlgcc=",
+          "cp37"
+        ],
+        "pyEDM-1.10.0.1-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "kjnfQ4FoCqRThYhD1fVirJghoqB9SzFVHn/njF17N0c=",
+          "cp38"
+        ],
+        "pyEDM-1.10.0.1-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Wc950LvkA7McAdlALyN+T3Nf2N4TOpJDP45nb+q7bdU=",
+          "cp38"
+        ],
+        "pyEDM-1.10.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cHsa5AiIzsTsF/BnrxGg0TDZPI9uEhTGPD8uC891lf8=",
+          "cp38"
+        ],
+        "pyEDM-1.10.0.1-cp38-cp38-win_amd64.whl": [
+          "MXobv1J+VkH24JTZlxXsE12eJRZlRrLZrSBbl4vKIpc=",
+          "cp38"
+        ],
+        "pyEDM-1.10.0.1-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "YPM+T2KnYz37k5qUHk/I3MSaHUfqdoWSyfeBDEQSvvk=",
+          "cp39"
+        ],
+        "pyEDM-1.10.0.1-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ETW9AVV0vwJkTJdLnCQQFjSe2dFiyVQvRDk2wFkTKY4=",
+          "cp39"
+        ],
+        "pyEDM-1.10.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+4cZAwL6Z1bV2qnFeoEMHkuxXbYBWjWXG2AsWFtw1gw=",
+          "cp39"
+        ],
+        "pyEDM-1.10.0.1-cp39-cp39-win_amd64.whl": [
+          "X1jpVQ1GRRPmzQnpqwEYhmQMXAfJIdL11OSPJBQ+1lw=",
+          "cp39"
+        ]
+      }
+    },
     "1.2.0.0": {
       "wheels": {
         "pyEDM-1.2.0.0-cp35-cp35m-macosx_10_13_x86_64.whl": [
@@ -104401,6 +104513,20 @@
       ]
     }
   },
+  "sloweler": {
+    "1.0.0": {
+      "sdist": [
+        "1JKTNm9aBqO/81hRJSSSBgVH7NQFxi3/m5dHYIII12s=",
+        "sloweler-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "sloweler-1.0.0-py3-none-any.whl": [
+          "++YdLrwx2B2Z5pAiRortGKMUNLwVd8oktBogjfuL60E=",
+          "py3"
+        ]
+      }
+    }
+  },
   "smartcopy": {
     "0.5": {
       "sdist": [
@@ -110301,6 +110427,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.4": {
+      "sdist": [
+        "jRS7o8a9PPmsOa0qmQ4BQcidE1ReF1Uxxh38XigYkjE=",
+        "tmux-projector-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "tmux_projector-0.0.4-py3-none-any.whl": [
+          "jF1brOIp2Y9CHOtCLXPo34r6zd9kG7xkVjQNbT8Nh6A=",
+          "py3"
+        ]
+      }
     }
   },
   "toco": {
@@ -111721,6 +111859,18 @@
           "py3"
         ]
       }
+    },
+    "2.49.4": {
+      "sdist": [
+        "c+Q/Jq2qBcdN5kO5GPYmSiYOSwYVaujyuFxpn0y/55M=",
+        "types-boto-2.49.4.tar.gz"
+      ],
+      "wheels": {
+        "types_boto-2.49.4-py3-none-any.whl": [
+          "lep+p0LRe0VYi9qV3k4atxk0QHFGTTB2bPqKOu0jpBo=",
+          "py3"
+        ]
+      }
     }
   },
   "types-flake8-typing-imports": {
@@ -111732,6 +111882,18 @@
       "wheels": {
         "types_flake8_typing_imports-1.11.0-py3-none-any.whl": [
           "ypU7pr/MrqWiP4ZaXBbwqYjjdPLc3TZ5vVFbtAt/m7o=",
+          "py3"
+        ]
+      }
+    },
+    "1.11.1": {
+      "sdist": [
+        "4pAbXzXZNJvxiHrSISrZ8RFW5qu7mUWQeF8rIdpOYeA=",
+        "types-flake8-typing-imports-1.11.1.tar.gz"
+      ],
+      "wheels": {
+        "types_flake8_typing_imports-1.11.1-py3-none-any.whl": [
+          "zBeH6FrSTt+qv14Dtuzd22heJabL+I6RWUqkJH3fRt0=",
           "py3"
         ]
       }
@@ -112234,6 +112396,18 @@
       "wheels": {
         "vapl_interpreter-0.2.1-py3-none-any.whl": [
           "rQZAvcw68cDh0s9tG/mBLrMt3i61CuS66tizQzjm0c4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "hmXfVUu9fKzz5Gfe33kJN9DcC2HFTwp1QWwVNTTpno8=",
+        "vapl_interpreter-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "vapl_interpreter-0.2.2-py3-none-any.whl": [
+          "O5uul/IJfZmQcngA4lKNPvn7jJYacUFPJa5ufCMTIEA=",
           "py3"
         ]
       }
