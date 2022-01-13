@@ -15820,6 +15820,18 @@
         ]
       }
     },
+    "1.20.4.1": {
+      "sdist": [
+        "1wCzOOwqKc/8BcCYLpXqMH7JJQEyx+uPhThrUje2jNs=",
+        "BotAmino-1.20.4.1.tar.gz"
+      ],
+      "wheels": {
+        "BotAmino-1.20.4.1-py3-none-any.whl": [
+          "1Wtg7CVKxI7hGTvV/mRM/Ogg+uALnc4f//dUJaNQt6A=",
+          "py3"
+        ]
+      }
+    },
     "1.3": {
       "sdist": [
         "pPtw44QJJxGaxhiSYa7v79ytMdNrzLohmyQ7U1NTVqA=",
@@ -28314,6 +28326,30 @@
       "wheels": {
         "dbnd_airflow-0.58.3-py2.py3-none-any.whl": [
           "YwkfeELb3C+Labkw6wz78eP0maq8tOWKr+N0qibHzH4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.58.4": {
+      "sdist": [
+        "R5dEsHTRYFuKLwo0zcMp4IpSxm3EF0Z+YIfps7wv2ZQ=",
+        "dbnd-airflow-0.58.4.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.58.4-py2.py3-none-any.whl": [
+          "YfIpm8pE9xjP7xGXcfy8+A0lvr23xpfmmBBE3JHzcvg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.58.5": {
+      "sdist": [
+        "BXSHAmHSoamgkl6SnjLbntlD/6fBTedXDgj0SwpM5rk=",
+        "dbnd-airflow-0.58.5.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow-0.58.5-py2.py3-none-any.whl": [
+          "L8ueC4T88Hjw6HR8kX5x+4L/Y1mqwrxp1+WFWhgvQ5k=",
           "py2.py3"
         ]
       }
@@ -87891,6 +87927,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "sdist": [
+        "lGmmVgM7Ah034S3KsX3+Ku8McfI+SPAS70FSn0LsgQk=",
+        "napalm-huawei-vrp-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "napalm_huawei_vrp-1.0.0-py3-none-any.whl": [
+          "reyvoVPOZDwJhjLQFRZCbB9qgpkBc8fshGzksfbH+J8=",
+          "py3"
+        ]
+      }
     }
   },
   "natera-add-sentinel": {
@@ -96516,6 +96564,18 @@
       "wheels": {
         "osducli-0.0.30-py3-none-any.whl": [
           "Q8TvOU57o1PiSQpGSgktcYVBWUvc7/gWT3iJz6mRF1g=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.31": {
+      "sdist": [
+        "a21arwZ8IPOxY2vLQ3ce3lmRE5FDDfC3XsFnSvk2S7s=",
+        "osducli-0.0.31.tar.gz"
+      ],
+      "wheels": {
+        "osducli-0.0.31-py3-none-any.whl": [
+          "LCERWWOcFYMmocnEKGiCeoyl9x9/YeA+dEGrwcws3Ds=",
           "py3"
         ]
       }
@@ -139614,6 +139674,50 @@
         ],
         "tf_nightly-2.9.0.dev20220112-cp39-cp39-win_amd64.whl": [
           "1mEbgywN7W+/0oZ7OLOZAXjZBLD0A1yTy/MXs0RG78U=",
+          "cp39"
+        ]
+      }
+    },
+    "2.9.0.dev20220113": {
+      "wheels": {
+        "tf_nightly-2.9.0.dev20220113-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "aDisFoiYxuqvr1O5gy7DwogGZKM8rUcCZdSyjBctE3I=",
+          "cp310"
+        ],
+        "tf_nightly-2.9.0.dev20220113-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "YaUdtEHGnZhZBpfZagOwJzjYUqO9Q8HZyvfv+49qAuA=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20220113-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "TkTw9Zb6QqHOyYUv0VIRNuYIdlEYQtOO0/jRPBLpSDg=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20220113-cp37-cp37m-win_amd64.whl": [
+          "SENaVOMnmZF18IUrT7+eFLDx+JxA3lF2m3UJ19aGZI8=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20220113-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "ZFI8bqqc1ID74yelMssnZEfLMcGg0p4kLpl6RBiTjbI=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20220113-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "H0J6aCbRvfWUNP+kWP9beJjn+56qQ5mrSUMTaw6XcfY=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20220113-cp38-cp38-win_amd64.whl": [
+          "6mOXEcrsULZOMHV2WFUzTuDM8UrTamB+CE79rFCh6/k=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20220113-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "nfgDWe2dbOYreu63Q/JSuSMEO1e0qpyQhyHJIMbr38w=",
+          "cp39"
+        ],
+        "tf_nightly-2.9.0.dev20220113-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "YPV+pfghJjRY9Dz2yCW9Fbq6Bb4Q+FIKBMewQbKgrFY=",
+          "cp39"
+        ],
+        "tf_nightly-2.9.0.dev20220113-cp39-cp39-win_amd64.whl": [
+          "cfrXVwY3ybTs3F1tjqG3ciVaVw+HjeA95WoTyo4HXXQ=",
           "cp39"
         ]
       }

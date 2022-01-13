@@ -59694,6 +59694,12 @@
         "modern_treasury-0.0.21.tar.gz"
       ]
     },
+    "0.0.22": {
+      "sdist": [
+        "CUrvn1PmUQHd2Yk7DKEW4DPe/kvfSjsOWDhn/u2HLZg=",
+        "modern_treasury-0.0.22.tar.gz"
+      ]
+    },
     "0.0.3": {
       "sdist": [
         "y8LvjhlVRuvH65FoOrI/ySklwCSPcoGKWaT/I5gIIuQ=",
@@ -121729,6 +121735,34 @@
           "cp39"
         ]
       }
+    },
+    "2.9.0.dev20220113": {
+      "wheels": {
+        "tf_nightly_gpu-2.9.0.dev20220113-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "7+m8PoMyKVsIgeS8pqm/O4ZqWg11Lk/vFBF1BPgiQYw=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220113-cp37-cp37m-win_amd64.whl": [
+          "iiUxqEh/dsXbM4ceo7ddJCKs8c6cimjmOWnpLjpy7I0=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220113-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "sGLK/+wHV2E3noLsJxN3J9t1r0YtEXV6Qwb7iSH+WdI=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220113-cp38-cp38-win_amd64.whl": [
+          "10bJKFEIMwdVhHOLF7SaJTXYG1GX1P1A4wk/e7UPP3c=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220113-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "ohzPqmBvbyw8n+3k/AabxqAC+o1QC+Bpkp4gVvrC/H8=",
+          "cp39"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220113-cp39-cp39-win_amd64.whl": [
+          "progmbWEU241+KdXYvQsiapp2Fn52qzShdsz2LXxNaQ=",
+          "cp39"
+        ]
+      }
     }
   },
   "tf2-tensorflow-object-detection-api": {
@@ -123132,6 +123166,58 @@
         ],
         "threedigrid_builder-1.0.0-cp39-cp39-win_amd64.whl": [
           "eDk9XqALGPww6HKZ8ldzUCzNJSSvx35HHX9Oypcv770=",
+          "cp39"
+        ]
+      }
+    },
+    "1.0.1": {
+      "wheels": {
+        "threedigrid_builder-1.0.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "rCFfma+AjmZD3khabu6sh7m6s5XiN7b64hKqcz9yRAk=",
+          "cp310"
+        ],
+        "threedigrid_builder-1.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "50ImZVjQs0l/zdWRKXeeuJ7QBPZN/qT/TkgWisLV5yc=",
+          "cp310"
+        ],
+        "threedigrid_builder-1.0.1-cp310-cp310-win_amd64.whl": [
+          "1NnIy9Gy707+9rhtZXg7PJJ6p1wRCI9r0MRxJsxNgLQ=",
+          "cp310"
+        ],
+        "threedigrid_builder-1.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "I26OjtESmEJ18t4ri9xMI0b0Nb3GJ/hHRk72665vcgE=",
+          "cp37"
+        ],
+        "threedigrid_builder-1.0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0zlqY43g58337BkTgM41oRauNdZjUHLfb5Tqtz/CczU=",
+          "cp37"
+        ],
+        "threedigrid_builder-1.0.1-cp37-cp37m-win_amd64.whl": [
+          "UctRsZm3kd9oDS2YJJY3G03gSLNJ3IamJhb67mNsLS8=",
+          "cp37"
+        ],
+        "threedigrid_builder-1.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "4yR6losf6slzRZgJTn6BLB/i+vXMPq+HLx6CQnDXgPk=",
+          "cp38"
+        ],
+        "threedigrid_builder-1.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5dqp9WmlcPgWkc3ZH6vyJPmz0Rbv2oSUFu0mV9S4sl8=",
+          "cp38"
+        ],
+        "threedigrid_builder-1.0.1-cp38-cp38-win_amd64.whl": [
+          "c74A0VwpUNuRrm4MXwOMQuLL9mDqNuDYnWtB1VXhK8I=",
+          "cp38"
+        ],
+        "threedigrid_builder-1.0.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "LXcCzB8qv9jSlap9+4EZMUbn4e+Ui/1hWAHdinDcSAw=",
+          "cp39"
+        ],
+        "threedigrid_builder-1.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Y07mRoZKMi69Q9ZEqypRV1zdO6Bq5+36LuSv+1YBJwI=",
+          "cp39"
+        ],
+        "threedigrid_builder-1.0.1-cp39-cp39-win_amd64.whl": [
+          "1YraW3czYaNpjr2mEktCZK0vJ4P1G2W84SmxcHAVCfo=",
           "cp39"
         ]
       }
@@ -127002,6 +127088,30 @@
       "wheels": {
         "typepigeon-1.0.4-py3-none-any.whl": [
           "/407To0Gp4WvCTl48eLODJMRlHXDb9Sdh2ckUJ2t+5w=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "gNxRNGTaOQ28S+bQZdET6J7/8hYPgv4ogZmB5AEQmRo=",
+        "typepigeon-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "typepigeon-1.0.5-py3-none-any.whl": [
+          "1+PdIcScwpXAHETkfju+EHx71f9hWlllQ1PULeaQXng=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "sdist": [
+        "NC8yU2PuygBdz7xnWXcQ4QwwXGFyF2lR6o4Ug2GBy+o=",
+        "typepigeon-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "typepigeon-1.0.6-py3-none-any.whl": [
+          "jgCRUuEhCO7UrSrzIlDHNFS/vBcQdCjBbEVtNLEeeIc=",
           "py3"
         ]
       }
