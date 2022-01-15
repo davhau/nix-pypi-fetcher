@@ -47103,6 +47103,18 @@
         "rctZY+I4a7dylbmfCkb8ygLXOJA6XW53ACtzERC0vio=",
         "jusText-lid-2.2.6.tar.gz"
       ]
+    },
+    "2.2.7": {
+      "sdist": [
+        "Xnou5RQiIeDWHZNBfwjAVp6UGZIXrs3niB1BHtpXmW4=",
+        "jusText-lid-2.2.7.tar.gz"
+      ]
+    },
+    "2.2.8": {
+      "sdist": [
+        "RgEPhUlstRUY1xyjh3WAL9OUN85gw0EFrYHDR9iLFFk=",
+        "jusText-lid-2.2.8.tar.gz"
+      ]
     }
   },
   "justfile": {
@@ -121960,6 +121972,34 @@
         ],
         "tf_nightly_gpu-2.9.0.dev20220114-cp39-cp39-win_amd64.whl": [
           "la9EBA317gqcAyfJbtwM+TGANJsaJKp2KQfEoW/BZWY=",
+          "cp39"
+        ]
+      }
+    },
+    "2.9.0.dev20220115": {
+      "wheels": {
+        "tf_nightly_gpu-2.9.0.dev20220115-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "BtlSOaMEF19D2QY9aR2+JtNUt10GBU21Ytw5F7C4Lks=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220115-cp37-cp37m-win_amd64.whl": [
+          "sEv6smUTXPHPYlcHNuYF0IcviIf7r1opFRUESE9UFw0=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220115-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "LeGVBiCwnOLJexlupYIH9vCz6NIbJngln1LKHD7t2WY=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220115-cp38-cp38-win_amd64.whl": [
+          "gSFzt8FsIZ27nX8bQ45hnrK8WykSKwIugY+VA9fS/XU=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220115-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "zvLIPXTiOI206azLHFzpErx27I6gzphTKdnlnsyOQWU=",
+          "cp39"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220115-cp39-cp39-win_amd64.whl": [
+          "QXlHVhPp3/XJigRHv/BKB1pogE25adrxoU3f2EXZ0Y0=",
           "cp39"
         ]
       }
