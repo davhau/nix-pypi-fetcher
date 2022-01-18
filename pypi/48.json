@@ -23999,6 +23999,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.59.3": {
+      "sdist": [
+        "BK6hlO42UXgnT9Lmnv9bJWGe8XRDa1EscJFkfO4zGFU=",
+        "dbnd-gcp-0.59.3.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_gcp-0.59.3-py2.py3-none-any.whl": [
+          "wTl6+0rlkqoIUyEMYpbntlv6TvvUbanlYI/hnWthhxY=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "dce-plugin": {
@@ -67271,6 +67283,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.4.0": {
+      "wheels": {
+        "odoo14_addon_base_jsonify-14.0.1.4.0-py3-none-any.whl": [
+          "Q4uvRxTP5Tm7g8pofZG/lMNQPefKPCizpToPqjmU1PA=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-edi-ubl-oca": {
@@ -86460,6 +86480,18 @@
         ]
       }
     },
+    "0.20.0": {
+      "sdist": [
+        "3GLL3lOr/h7L6GmPcibB953V4BgdZLoedKSyALagk5I=",
+        "pytoil-0.20.0.tar.gz"
+      ],
+      "wheels": {
+        "pytoil-0.20.0-py3-none-any.whl": [
+          "J3fnO7wmPSO/HfWiKDabSxxmIjDpa4I1xaOYOgjvue0=",
+          "py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "rI1fsmS5jN1xwlhAymH4C1898HRne6OaehxgQQQgt/w=",
@@ -89212,6 +89244,74 @@
         ],
         "QuantLib-1.24-cp39-cp39-win_amd64.whl": [
           "a6XteIs3GRIpSkVGqm8gh92Tb4fsH8poPhdS+4BdP7o=",
+          "cp39"
+        ]
+      }
+    },
+    "1.25": {
+      "wheels": {
+        "QuantLib-1.25-cp310-cp310-macosx_10_9_universal2.whl": [
+          "pjTwVSYf2JKukX++tC/SuK8kzZEYB7tf2i/lKpLaEJs=",
+          "cp310"
+        ],
+        "QuantLib-1.25-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "TenRAZW2K2zxIRVu5NqhFPFt67iiC7ZqHSiwd0Zvn3A=",
+          "cp310"
+        ],
+        "QuantLib-1.25-cp310-cp310-win32.whl": [
+          "n6PRA+COifEN65xoYTxMyO0zGTu/G/JyM7tukt97xQA=",
+          "cp310"
+        ],
+        "QuantLib-1.25-cp310-cp310-win_amd64.whl": [
+          "MMB30V8DXpuOUvVpj6M9dy/4gOeTbglfpWnnWeVwRow=",
+          "cp310"
+        ],
+        "QuantLib-1.25-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "MQuSRXbuW9CLCNuMnhur+bRoleXDoU0lDgCemJtUPP0=",
+          "cp37"
+        ],
+        "QuantLib-1.25-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "4HzGFTh8fECxbpxFNTt/VW76TcEtQmJI1P9W1NXsj+A=",
+          "cp37"
+        ],
+        "QuantLib-1.25-cp37-cp37m-win32.whl": [
+          "cb26QujMwhsWYqwlq7nj6b2sosu/N+X8a63nmJOAqck=",
+          "cp37"
+        ],
+        "QuantLib-1.25-cp37-cp37m-win_amd64.whl": [
+          "vqfy5N6GPaU/TgGlrUuXLhiVE1JDIUSUMclu7UhZ2jM=",
+          "cp37"
+        ],
+        "QuantLib-1.25-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "HvGOiRCAK7mVFVMSo73gwr2XUVK+YM6MkGClVQjACjY=",
+          "cp38"
+        ],
+        "QuantLib-1.25-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "gSxBlbd6IK7HXtm/ZpbndrKxc1DihTZLYv+faew/4i8=",
+          "cp38"
+        ],
+        "QuantLib-1.25-cp38-cp38-win32.whl": [
+          "vDcjCXZp7y655vRuSGo7iu0T8UkG3dGKBgtupFhnukE=",
+          "cp38"
+        ],
+        "QuantLib-1.25-cp38-cp38-win_amd64.whl": [
+          "jLlJrtK+VHCw4Ym7in2K3+rAsbJqtzP8nHGsiUJhFRA=",
+          "cp38"
+        ],
+        "QuantLib-1.25-cp39-cp39-macosx_10_9_universal2.whl": [
+          "PHBevpeU3FCjP7kseQMpSzYVpYgUy63MU5G73EPfoKQ=",
+          "cp39"
+        ],
+        "QuantLib-1.25-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "+orLmfdVhMYV7OepFOSxp705ls0OlyYz+xlPti5CX04=",
+          "cp39"
+        ],
+        "QuantLib-1.25-cp39-cp39-win32.whl": [
+          "Udf+0VYj8gM8hTed3QgsMaiYIEa6eIFX5pvzjyly+rc=",
+          "cp39"
+        ],
+        "QuantLib-1.25-cp39-cp39-win_amd64.whl": [
+          "prUI+61mlFqtluCEaB4ZO3Yt1f8it2QuYZRaRkYnH+k=",
           "cp39"
         ]
       }
@@ -99482,6 +99582,18 @@
         ]
       }
     },
+    "2022.1.18": {
+      "sdist": [
+        "UwJYeJoCcRmxxZnBcWZ3wnwUhd8VndKY33vEFa6BaHY=",
+        "tankobon-2022.1.18.tar.gz"
+      ],
+      "wheels": {
+        "tankobon-2022.1.18-py3-none-any.whl": [
+          "TYY5F4YcmLmakSyzWLpYdkBP7Bd8pQBgY/ibgfRLCl4=",
+          "py3"
+        ]
+      }
+    },
     "3.0.0a0": {
       "sdist": [
         "hyaHyzpUsRWtZZ5oeqTQtYwbl4mnBM3/NS2hIpyjVGY=",
@@ -106742,6 +106854,14 @@
       "wheels": {
         "testery-1.5.5-py3-none-any.whl": [
           "5l+QdcUusRpACwYfwBT3dkITwM7EbtvJTYzB+1zt1zk=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.6": {
+      "wheels": {
+        "testery-1.5.6-py3-none-any.whl": [
+          "XqrtCyFEbYWK+oFZ9YcEYiRDEs++kLpNCaRy7x+Taak=",
           "py3"
         ]
       }
