@@ -2185,6 +2185,12 @@
         "lhZ+hXTM74pIZw8rrDNjD/YSZdfWWGEmUT6n2UKTPr8=",
         "alibuild-1.9.8.tar.gz"
       ]
+    },
+    "1.9.9": {
+      "sdist": [
+        "bIlI81CiGyb2lwcRRBL6woRpeMZEv6/uGhcFZ/6z5/o=",
+        "alibuild-1.9.9.tar.gz"
+      ]
     }
   },
   "aliyun-python-sdk-cdn": {
@@ -32255,6 +32261,20 @@
       ]
     }
   },
+  "django-cash-register": {
+    "0.1": {
+      "sdist": [
+        "XNLiGC6Mjap+Jq3fZ0CvFxYF+jCzwX32mtGizJfgZkg=",
+        "django_cash_register-0.1.tar.gz"
+      ],
+      "wheels": {
+        "django_cash_register-0.1-py3-none-any.whl": [
+          "j+v2d/tabHquLJLcvtK8gDB0IaoXG7MqLon57DxdMZM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "django-census-places": {
     "1.1.1": {
       "sdist": [
@@ -54692,6 +54712,10 @@
           "tWOlKPRITy7DoK8Wdv9zbLngn3O+Djbeeb/BYhYowKg=",
           "cp27"
         ],
+        "Klampt-0.9.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "4yiar6OAGU0yK5AE4kaxvy9qMX3ndYukRx1n5b/5ObE=",
+          "cp310"
+        ],
         "Klampt-0.9.0-cp35-cp35m-macosx_10_9_x86_64.whl": [
           "247COLUQQ8gL+Iek09+I/DbjX8gfPgr5bJ/4vXYFTuo=",
           "cp35"
@@ -54712,6 +54736,10 @@
           "nc3GFyAG9B9cKZN1H/FkXNJpw12fPRcLl9BeLrdUAGk=",
           "cp36"
         ],
+        "Klampt-0.9.0-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "NNb9RJwhSoGF5QPOVZeQLovGu4K4AxQOZPdWUtu5igA=",
+          "cp36"
+        ],
         "Klampt-0.9.0-cp36-cp36m-win32.whl": [
           "0pE2HdlvOwZ5hOWSL21iPiA5tAFYoOUfD08KfGMcN9U=",
           "cp36"
@@ -54726,6 +54754,10 @@
         ],
         "Klampt-0.9.0-cp37-cp37m-manylinux2010_x86_64.whl": [
           "kZeZi2WxDHVeVLo1TcXL0SLT462P3PCNr7UtfoSdAVw=",
+          "cp37"
+        ],
+        "Klampt-0.9.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "iMM/tqR3nvm5IJD306pgMkTVCV+p5hisO0YAF8YdmFw=",
           "cp37"
         ],
         "Klampt-0.9.0-cp37-cp37m-win32.whl": [
@@ -54744,6 +54776,10 @@
           "4jVL+rG6w4RDtsI3rG9w14iQQkeGo1vma5ek8WxxxPU=",
           "cp38"
         ],
+        "Klampt-0.9.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "z68dSOXH3IaVWoPvFOZr3NFZuSAUFeSqn4LFe5fYDzg=",
+          "cp38"
+        ],
         "Klampt-0.9.0-cp38-cp38-win32.whl": [
           "TFj5yakgtWuOu55VqFjOK/lxOoxjnyFUWsBZtW2GlRc=",
           "cp38"
@@ -54760,9 +54796,21 @@
           "L6YmlzJtuuaBcvbrGTgLBVdNn8GWYl8lp0F86dMbcLw=",
           "cp39"
         ],
+        "Klampt-0.9.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "iPL4HNKodD8PVlA9UD5ach1rEEkJTIzx68iMl7xLabw=",
+          "cp39"
+        ],
         "Klampt-0.9.0-cp39-cp39-win32.whl": [
           "RlsEAoyQa/16H2kzqHEmUgRk+0AdB1MPDC9Nk44LZfQ=",
           "cp39"
+        ],
+        "Klampt-0.9.0-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "6pjbblhkO1XrCiorp/5ZSgYBuydqEq9xRR4YcpJx480=",
+          "pp37"
+        ],
+        "Klampt-0.9.0-pp38-pypy38_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "qdbcQivuQnrG/fkW7nIUJNNJwcfOWQGJw+c9SLcZlgM=",
+          "pp38"
         ]
       }
     }
@@ -100971,6 +101019,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "P9EqO25c5mWJU9ZiR8kFa1ftAlZJBT9dcWklfDpUqQg=",
+        "taoist-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "taoist-0.3.0-py3-none-any.whl": [
+          "L3dIO3A+O2aW7O2LmVcjSb4vE8MYR1SKdPpDeCVzZis=",
+          "py3"
+        ]
+      }
     }
   },
   "taretto": {
@@ -111496,18 +111556,6 @@
     }
   },
   "viur-cli": {
-    "0.5.0": {
-      "sdist": [
-        "jAW0NHhvrug0hDTEQz98xJOKFnd4MTqt96ymZ9y4cSc=",
-        "viur_cli-0.5.0.tar.gz"
-      ],
-      "wheels": {
-        "viur_cli-0.5.0-py3-none-any.whl": [
-          "WCM9oEF9mzA3Y3aVufvd9+hb/jKBqeZA3pLjSBVQMX8=",
-          "py3"
-        ]
-      }
-    },
     "0.5.1": {
       "sdist": [
         "rfuncvLRkIWzuVXS1PAZlknAvAd5tpx8kpJFK0+cCpM=",
