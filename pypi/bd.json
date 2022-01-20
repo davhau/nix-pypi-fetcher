@@ -11962,6 +11962,30 @@
         ]
       }
     },
+    "1.138.0": {
+      "sdist": [
+        "5YBLhTza7K9jOB2FY0Xwevsj65vMhMfxzyMFIpukJKI=",
+        "aws-solutions-constructs.aws-dynamodbstreams-lambda-1.138.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodbstreams_lambda-1.138.0-py3-none-any.whl": [
+          "W376xby8kUTdSy0fripRafguh42d+gzebLntOLQXYSk=",
+          "py3"
+        ]
+      }
+    },
+    "1.138.1": {
+      "sdist": [
+        "tHrSB43TFM0BaTP19H4b/uZhj28NeA0rVYk3WrTWHOo=",
+        "aws-solutions-constructs.aws-dynamodbstreams-lambda-1.138.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodbstreams_lambda-1.138.1-py3-none-any.whl": [
+          "VwQ0maXMIofoEZdMJfeziwqJMAbmxHVhkowMSnaJUY4=",
+          "py3"
+        ]
+      }
+    },
     "2.0.0": {
       "sdist": [
         "fGrG4kPtxHP1kt2LlFRjVWYwqKuFUPpEjgPl3xeheoU=",
@@ -79659,6 +79683,16 @@
       }
     }
   },
+  "odoo12-addons-oca-mis-builder-contrib": {
+    "12.0.20220119.0": {
+      "wheels": {
+        "odoo12_addons_oca_mis_builder_contrib-12.0.20220119.0-py3-none-any.whl": [
+          "IgjqzMqaVlS2sHiEMJ7nwL5bYdFE2rZPb/fqdpeGBiM=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo13-addon-base-import-security-group": {
     "13.0.1.0.1.dev2": {
       "wheels": {
@@ -98107,6 +98141,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2.3": {
+      "sdist": [
+        "t32HbQFYjqITDAsadjsrDopXJeverUmx7r5CRJRdgyA=",
+        "quickspider-0.1.2.3.tar.gz"
+      ],
+      "wheels": {
+        "quickspider-0.1.2.3-py3-none-any.whl": [
+          "B+vSlpq2F5ifv/rjR0eMuUxuglk8qEOY+lWYSRKperg=",
+          "py3"
+        ]
+      }
     }
   },
   "quizr-utilities": {
@@ -101320,6 +101366,74 @@
         ],
         "robotpy_ctre-2022.0.2-cp39-cp39-win_amd64.whl": [
           "kZeVO5/ihbjIoAB7rQm8Hq+8AnpRLnwvUKC5qi9EZjo=",
+          "cp39"
+        ]
+      }
+    },
+    "2022.0.3": {
+      "sdist": [
+        "5GTpjs0zQeCjj6hAHThsxftXs/r2zYMhLJVdR53D6RM=",
+        "robotpy-ctre-2022.0.3.tar.gz"
+      ],
+      "wheels": {
+        "robotpy_ctre-2022.0.3-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "ScVbbFnkTKoOqLRvuPgCuGMBlz2B2CHyzDBA0T9SPiw=",
+          "cp310"
+        ],
+        "robotpy_ctre-2022.0.3-cp310-cp310-manylinux_2_27_x86_64.whl": [
+          "FVP6xJ1W9TTzqcpVGnTUWWvFdr8D7lWW5ll5RcuJ3AY=",
+          "cp310"
+        ],
+        "robotpy_ctre-2022.0.3-cp310-cp310-win_amd64.whl": [
+          "xuahU/4efHLMvCK+f047w5xfl69R7XBlFjF+CRqx/dU=",
+          "cp310"
+        ],
+        "robotpy_ctre-2022.0.3-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "WVezxjUW7AHZK0pxi2fMGINsgQwSj9fI3Ejz7RmWKpI=",
+          "cp36"
+        ],
+        "robotpy_ctre-2022.0.3-cp36-cp36m-manylinux_2_27_x86_64.whl": [
+          "WLEZ9MtYnSZ9Dc2vLYB/iHenDTUtMGU8dWyUQA4RFKw=",
+          "cp36"
+        ],
+        "robotpy_ctre-2022.0.3-cp36-cp36m-win_amd64.whl": [
+          "cH5+94CCxKZUTzI/yMXefvxLcBLusrNrvz6R4wip8t0=",
+          "cp36"
+        ],
+        "robotpy_ctre-2022.0.3-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "Xg9QIEIL3B/d7jQ4eOWWZRbSVpKOZguk0ocZ84KCNYw=",
+          "cp37"
+        ],
+        "robotpy_ctre-2022.0.3-cp37-cp37m-manylinux_2_27_x86_64.whl": [
+          "aGdUTLuJJV6yW0b4zxbqDk0D33OcADZMglrDQjUAaFE=",
+          "cp37"
+        ],
+        "robotpy_ctre-2022.0.3-cp37-cp37m-win_amd64.whl": [
+          "/5uKf9A7TUK3Ga2NH6MQ8Ir+gjQgntaPo4EGF4lPlXY=",
+          "cp37"
+        ],
+        "robotpy_ctre-2022.0.3-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "AeyLBNmZSRTXbV/aLtt3R7j80YDfwjbRHwvpDbJAGLU=",
+          "cp38"
+        ],
+        "robotpy_ctre-2022.0.3-cp38-cp38-manylinux_2_27_x86_64.whl": [
+          "Gy06PEYrgpcrFve8Uy//qdaA/0OmFTyEzsPNfvlOCNs=",
+          "cp38"
+        ],
+        "robotpy_ctre-2022.0.3-cp38-cp38-win_amd64.whl": [
+          "P/iRXFA5WZRd4FDkL+Vg68JhToqm5Fqqr5nlMQX+tug=",
+          "cp38"
+        ],
+        "robotpy_ctre-2022.0.3-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "rMpJZtbIaKqh8vkHCiq+Al0QtAhJtiY4aqOrrwfcjW8=",
+          "cp39"
+        ],
+        "robotpy_ctre-2022.0.3-cp39-cp39-manylinux_2_27_x86_64.whl": [
+          "n8GeMLKfuCde1NDbzihBvCHiitxTU7IDMVBB1GiOVX4=",
+          "cp39"
+        ],
+        "robotpy_ctre-2022.0.3-cp39-cp39-win_amd64.whl": [
+          "iFBC+MZj1r/mZhllnU+SnRdaGct3HLjZsaS3BkcwX0s=",
           "cp39"
         ]
       }
@@ -119682,6 +119796,18 @@
       "wheels": {
         "tencentcloud_sdk_python_bmeip-3.0.568-py2.py3-none-any.whl": [
           "koKCW/F8HIlGFIuH7sJmVbk7VfoTxMc+5Ml8uCwZwP0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.569": {
+      "sdist": [
+        "Ne1k1VGZ/25+rvabNDY9DPpRcNG3qT8wtAaLjjBOclc=",
+        "tencentcloud-sdk-python-bmeip-3.0.569.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_bmeip-3.0.569-py2.py3-none-any.whl": [
+          "vepHHi23JOhVVOGylqhTiHA+dgGQNa/ApzYincHCUbc=",
           "py2.py3"
         ]
       }
