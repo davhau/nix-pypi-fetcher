@@ -692,14 +692,14 @@
         ]
       }
     },
-    "0.2.5": {
+    "0.2.6": {
       "sdist": [
-        "qNDED24jMRXdOkjy1f88Q3JopY43scDABWQKEwakNC0=",
-        "airdrive-0.2.5.tar.gz"
+        "t/c3vUsTcwiRekEaGI4U56iVkOq/2f1n/4soDZcezfI=",
+        "airdrive-0.2.6.tar.gz"
       ],
       "wheels": {
-        "airdrive-0.2.5-py3-none-any.whl": [
-          "jgIkbkl6mACq587yU5Va+R0fsEyl4fy9BGspW1buS2Q=",
+        "airdrive-0.2.6-py3-none-any.whl": [
+          "4aRUvuYE590qNMi6HLWpSMBH1LjK6N262dN3jXFjp0c=",
           "py3"
         ]
       }
@@ -7667,6 +7667,18 @@
         "azure_mgmt_subscription-2.0.0-py2.py3-none-any.whl": [
           "8y1byxN6TkjA/2zp7DtGDJZlv31HKT8eS6eXfgAsGTE=",
           "py2.py3"
+        ]
+      }
+    },
+    "3.0.0": {
+      "sdist": [
+        "FXvZEjpYFEc6nNExgy6mFMR4VIci7AH0ezXXeNwwfVU=",
+        "azure-mgmt-subscription-3.0.0.zip"
+      ],
+      "wheels": {
+        "azure_mgmt_subscription-3.0.0-py3-none-any.whl": [
+          "gm3SUtdIOy83TUFoX2NwCy2b2YqvczF/WioEphCe9kA=",
+          "py3"
         ]
       }
     }
@@ -51076,266 +51088,6 @@
     }
   },
   "mindspore-dev": {
-    "1.6.0.dev20211226": {
-      "wheels": {
-        "mindspore_dev-1.6.0.dev20211226-cp37-cp37m-manylinux1_x86_64.whl": [
-          "UyEE2Ke1nyeWvwie7I4SlCHlegPMXoZn9k1x0zAnKJk=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211226-cp37-cp37m-win_amd64.whl": [
-          "GuX+YUBTySuOndvoMGG2hokYyfudKwq+fRnALo5fPB8=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211226-cp37-none-any.whl": [
-          "oKvQ8Lt38oAWSsJtZMS2DQca3aRQr9w5/gOf8Kzreg0=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211226-cp39-cp39-manylinux1_x86_64.whl": [
-          "i6b433cAVkiHSPw4CiyDIbN2Gve7nICShZMO3DcIoA0=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20211226-cp39-cp39-win_amd64.whl": [
-          "heAiSvbngEdGwjjCBe0grHu2Rx/pW9cY0IPRe9ynlPs=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20211226-cp39-none-any.whl": [
-          "71DkZUy4sfOpXEWHnm6TY8L3XMTuTc6i5r7vG7bIi4c=",
-          "cp39"
-        ]
-      }
-    },
-    "1.6.0.dev20211228": {
-      "wheels": {
-        "mindspore_dev-1.6.0.dev20211228-cp37-cp37m-manylinux1_x86_64.whl": [
-          "GAyoCiSL67W+ybPZJgCNgAeBAwXMMWd5Io0qttoyDXk=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211228-cp37-cp37m-win_amd64.whl": [
-          "UUiHus6MgOn9ShO9+axgUPchNLQyubk2KlpUXuh/omU=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211228-cp37-none-any.whl": [
-          "lINE62x5fodQBEQ2HJwjPnQNI+iPo+xg7j97/120l1s=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211228-cp39-cp39-manylinux1_x86_64.whl": [
-          "Dec8AjeApeZsd20ojS6STrEiBCIYmkHAsDOXatduCUM=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20211228-cp39-cp39-win_amd64.whl": [
-          "tTXriGmdFwoeo15xe6qYe91aw90Yzbpqk3Mpd/r1XD0=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20211228-cp39-none-any.whl": [
-          "cAu88fKeINNacI+NsB2LKWvG3DEB/m9kXrdzoUmQo70=",
-          "cp39"
-        ]
-      }
-    },
-    "1.6.0.dev20211229": {
-      "wheels": {
-        "mindspore_dev-1.6.0.dev20211229-cp37-cp37m-manylinux1_x86_64.whl": [
-          "KC/si+T4M7vErlBeXgEKy4S4TvYH9s52OquqUDlqg4g=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211229-cp37-cp37m-win_amd64.whl": [
-          "Ns6t7w/HjhLE+fHQ6mUCu3B3Mvkdgy4+WCjDIpFuv+Q=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211229-cp37-none-any.whl": [
-          "CxYXv0slilMDVUxUH6OCiJCrZhwEYANPJIJLZu+fiV8=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211229-cp39-cp39-manylinux1_x86_64.whl": [
-          "263BOCeadJLVBt4T+Z2KpCKhIVp/B6bgPx7n+guWDG4=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20211229-cp39-cp39-win_amd64.whl": [
-          "brtM5kl8cI+HMTeoltRx6gsruHHKS4hbD6v3Zeq+hkI=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20211229-cp39-none-any.whl": [
-          "l6suDj42aH/wFFjVfXBtkj7UpJKE1dPfqQHQ1GSGmkY=",
-          "cp39"
-        ]
-      }
-    },
-    "1.6.0.dev20211230": {
-      "wheels": {
-        "mindspore_dev-1.6.0.dev20211230-cp37-cp37m-manylinux1_x86_64.whl": [
-          "Ux40bTM859H855lLLI+kGd8cZJbmqcyXvVNrEiqvwoI=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211230-cp37-cp37m-win_amd64.whl": [
-          "ICUqA/weuhW6jDB2XVb1xfNbetpgUazZrmCbuLJIyjE=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211230-cp37-none-any.whl": [
-          "oj9mTvK6y2AvVWunN4YYBpOSrIcxG/YdpKOuuTVGVaM=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211230-cp39-cp39-manylinux1_x86_64.whl": [
-          "YsHqugTADhicWPHuYaQ9BvcEpwXlWc+0jKX2Uy1NhqM=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20211230-cp39-cp39-win_amd64.whl": [
-          "f44lohRiFX2Vf9wSIUGQNcZpZMGlCPSkZzHzcHeqby8=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20211230-cp39-none-any.whl": [
-          "9DdY0lrEj98plE3P1q+WWBDLRTP9vSiLv3EuMbgfX7c=",
-          "cp39"
-        ]
-      }
-    },
-    "1.6.0.dev20211231": {
-      "wheels": {
-        "mindspore_dev-1.6.0.dev20211231-cp37-cp37m-manylinux1_x86_64.whl": [
-          "LhK5MKhh+9o3s2W4A7qaqnVGg6mfHWkjKINkFn5Bmls=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211231-cp37-cp37m-win_amd64.whl": [
-          "WkMj3mAYFOgQTeRAoj0RmXHFq8BAP1ymlcCPVkBPfIM=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211231-cp37-none-any.whl": [
-          "JAUUEEVb3bvUQCeNZ6p4NJhnosqgruNm08EUCrUpwZM=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20211231-cp39-cp39-manylinux1_x86_64.whl": [
-          "w2JquE+9U1Lx+NJQYaNm0XNYmZJ4/fr9qFCDyozwENo=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20211231-cp39-cp39-win_amd64.whl": [
-          "JA1FYKFyLM7S8S3y07GCl2iwwrNAV1SXgdqjD4Jx0oM=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20211231-cp39-none-any.whl": [
-          "ZnkrG20yGRTmuHIqHozRr4Bz7P2scG53uhxljNt1uyQ=",
-          "cp39"
-        ]
-      }
-    },
-    "1.6.0.dev20220106": {
-      "wheels": {
-        "mindspore_dev-1.6.0.dev20220106-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "eHB7I5fIlguZNs1JCG5jAjxaDj0GtxclE8712ROLhyQ=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20220106-cp37-cp37m-manylinux1_x86_64.whl": [
-          "IVSJjik0OMjpcDVEkhU6Cbh6vTxBA2ANBWiv1nkOJVU=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20220106-cp37-cp37m-win_amd64.whl": [
-          "r//S0q8hmA5OY2UkCFusOpHLY37GurGMmjx1QcRcv1E=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20220106-cp37-none-any.whl": [
-          "ixgeeYvrhWRR8EoUWskAZ85HEniJ7xc3pqKCa52aZbo=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20220106-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "UMHORFxy2XFM/huUQ+E1kXY+lwecyX5Rph2mkbsFwms=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20220106-cp39-cp39-macosx_11_6_arm64.whl": [
-          "AYdwTsCRNiVwRe3qPAQ05XKEO3VQCgbl5U4Mrbe8I3o=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20220106-cp39-cp39-manylinux1_x86_64.whl": [
-          "wAkZ3qM5/ORvPjQwIc4c3fmSnfxouJ0J8bTYMU3tsnk=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20220106-cp39-cp39-win_amd64.whl": [
-          "GPMxaXRpaIMzJmBGh9zwqS8Ao3ra8lzmbNJvAWhfXlM=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20220106-cp39-none-any.whl": [
-          "2uK8jV3ug30Jmru4S3MDDP8sSrNIvMi3VmdOB1VsJeo=",
-          "cp39"
-        ]
-      }
-    },
-    "1.6.0.dev20220111": {
-      "wheels": {
-        "mindspore_dev-1.6.0.dev20220111-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "cQ/BbtKNfXwR12P557o01pBERZ/GojRTeO4F+324Xuk=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20220111-cp37-cp37m-manylinux1_x86_64.whl": [
-          "Xk8fZH1pd8K6aA8U8Q/UONk5MEZu8jIHuIdr6a/eyO0=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20220111-cp37-cp37m-win_amd64.whl": [
-          "xOrcF/Gcz9P78xqfxTFQp7YTALZgoj67TOOflS55UZM=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20220111-cp37-none-any.whl": [
-          "9R1HdqcxGE9IPAMcz4GNT05wEyA0CgoZxFIa/95h4JI=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20220111-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "Qof7Go5l6uu6WJKqJlk9S2HQCzlKKs2/6VXPJBAN9/4=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20220111-cp39-cp39-macosx_11_0_arm64.whl": [
-          "/q42g5i7n2AAQAK0EnK831+HtctOZo4jMpifA3P07wM=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20220111-cp39-cp39-manylinux1_x86_64.whl": [
-          "OxjUgllC8LF4V3O7uAevsguJEmCbQIjp39murJdTJxU=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20220111-cp39-cp39-win_amd64.whl": [
-          "KfsAg16XO81ZFMh2Kekoj5abObVJYKZ5uRn88HL+LvY=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20220111-cp39-none-any.whl": [
-          "4ucLPigs+jD5WAd51Jz5eJPn8fNaPnZxDG396NBJkqc=",
-          "cp39"
-        ]
-      }
-    },
-    "1.6.0.dev20220112": {
-      "wheels": {
-        "mindspore_dev-1.6.0.dev20220112-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "PE2GAKATB8tEuwUOqRIDMjXOWUqs8ddv6LNrJh8EVko=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20220112-cp37-cp37m-manylinux1_x86_64.whl": [
-          "ok67Jbx2zzD/LBsKalONf0s/eeicXvRYikQf1j5ZPWs=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20220112-cp37-cp37m-win_amd64.whl": [
-          "ttn2UDLqItpiKgZASHRKPiFy/2s/VGKPM4vtuYCSBpo=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20220112-cp37-none-any.whl": [
-          "fFMaBMDRm8bqxPKJ+eAMDpifubG/EFyOSOJCkRvNqYE=",
-          "cp37"
-        ],
-        "mindspore_dev-1.6.0.dev20220112-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "PqQjZrPDE5aUL7TuiJmobmHmkYrilN7Ugy1/EFt9Vd4=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20220112-cp39-cp39-macosx_11_0_arm64.whl": [
-          "CAOq6sqBtUBVvcH5zUGg7A/Jt8H5w/NXhEo7RczZa5g=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20220112-cp39-cp39-manylinux1_x86_64.whl": [
-          "amvO6axOoLhzXzVjW45nGZLCnLYfk7oS+zvgsnY59d4=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20220112-cp39-cp39-win_amd64.whl": [
-          "26Y84ndY7UDbuA1K9InYgw5eJ7Cmyw2N2MekfRFhYPI=",
-          "cp39"
-        ],
-        "mindspore_dev-1.6.0.dev20220112-cp39-none-any.whl": [
-          "+VwOs5aPv6uU9Fe8unLo3dTMvY3ssTTBWa7XMSJez1o=",
-          "cp39"
-        ]
-      }
-    },
     "1.6.0.dev20220117": {
       "wheels": {
         "mindspore_dev-1.6.0.dev20220117-cp37-cp37m-macosx_10_15_x86_64.whl": [
@@ -71190,6 +70942,18 @@
         ]
       }
     },
+    "3.0.0": {
+      "sdist": [
+        "1rAKJmMpDn67BoI9X/yxJMjcm/UmuHhTnvfEo3f9glU=",
+        "moto-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "moto-3.0.0-py2.py3-none-any.whl": [
+          "di0zu602QsaH9kleaTMTGL70P5qmYhdDl3Buw60qNXg=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.0.0.dev3": {
       "sdist": [
         "aque8RK97p0JbG5WY4xDiK5zHBvXa1h61Kyvn52fbow=",
@@ -71246,6 +71010,18 @@
       "wheels": {
         "moto-3.0.0.dev7-py2.py3-none-any.whl": [
           "NnRegfSVUAWak3UnkQJoR02q63d/gef0RRQExQjv3zw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.0.dev8": {
+      "sdist": [
+        "WSXP+2WXGZ67uJCSklo3ewA2nZpxIccM9iRurje4zu8=",
+        "moto-3.0.0.dev8.tar.gz"
+      ],
+      "wheels": {
+        "moto-3.0.0.dev8-py2.py3-none-any.whl": [
+          "TDa0FQ/00jmkH9rtN5LJmGRWzHpx0rVpVPWRBIc61/4=",
           "py2.py3"
         ]
       }
@@ -88229,6 +88005,16 @@
       }
     }
   },
+  "odoo14-addon-crm-location-nuts": {
+    "14.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo14_addon_crm_location_nuts-14.0.1.0.1.dev2-py3-none-any.whl": [
+          "Aq+eUEbzpPd+OLDnp+5YBJNJChM61ib6ozzl1WcLIL4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo14-addon-document-page-project": {
     "14.0.1.0.2.dev3": {
       "wheels": {
@@ -103017,6 +102803,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.7": {
+      "sdist": [
+        "GO6QInddJwxVGHczlWRgCD22CzfQ0Ps1dEXzCU7tPuo=",
+        "pyparsing-3.0.7.tar.gz"
+      ],
+      "wheels": {
+        "pyparsing-3.0.7-py3-none-any.whl": [
+          "psBqiPJS5sMi9l+vj0GLFiE7Ub367OBSTBwbwwxjxIQ=",
+          "py3"
+        ]
+      }
     }
   },
   "pyphysio": {
@@ -112456,6 +112254,18 @@
       "wheels": {
         "scout_browser-4.46.1-py3-none-any.whl": [
           "T6VvuS6T+cTEuBdExFVfGNcG+kiUOy73Ww+XJV3slwA=",
+          "py3"
+        ]
+      }
+    },
+    "4.47": {
+      "sdist": [
+        "o1ZlK+jen8XPx+b4VQUivtgkLDyYb0qivBpc/pbLpX8=",
+        "scout-browser-4.47.tar.gz"
+      ],
+      "wheels": {
+        "scout_browser-4.47-py3-none-any.whl": [
+          "Ej3y7eUU36VlbWlQGB/4TgK50pcGce8gHZ5BbN+pEi0=",
           "py3"
         ]
       }
@@ -133892,6 +133702,14 @@
       "wheels": {
         "tfp_nightly-0.16.0.dev20220120-py2.py3-none-any.whl": [
           "w6QP+jbuw0ISEQnrmsSHDfrteOvkecq87UG+4YDItug=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.16.0.dev20220121": {
+      "wheels": {
+        "tfp_nightly-0.16.0.dev20220121-py2.py3-none-any.whl": [
+          "g1zhg1FdIenhEblw/fD/YwGT5Ob4xd4p5e3xy3HsWKM=",
           "py2.py3"
         ]
       }
