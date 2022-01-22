@@ -27505,6 +27505,30 @@
           "py3"
         ]
       }
+    },
+    "1.5.0rc1.dev815": {
+      "sdist": [
+        "+cffPoqUZ3t/YIeIHxh40q1SeHyrrQxLYYpxY92uZbM=",
+        "dapr-ext-fastapi-dev-1.5.0rc1.dev815.tar.gz"
+      ],
+      "wheels": {
+        "dapr_ext_fastapi_dev-1.5.0rc1.dev815-py3-none-any.whl": [
+          "xBsu8pFIzgBmEegPRN8D/EQoMq7jgZBScoplhg5mC/M=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0rc1.dev817": {
+      "sdist": [
+        "DHu2DcQj7kuZXW+oxX+D61Dww8Ihrgjp9zfcrQJqbEo=",
+        "dapr-ext-fastapi-dev-1.5.0rc1.dev817.tar.gz"
+      ],
+      "wheels": {
+        "dapr_ext_fastapi_dev-1.5.0rc1.dev817-py3-none-any.whl": [
+          "UGGsRcSXZbNnP5xHxTrXR4dkWG1PbE2MhX7IdHuMAdU=",
+          "py3"
+        ]
+      }
     }
   },
   "darwin-shared": {
@@ -31300,6 +31324,90 @@
         ],
         "dimod-0.10.11-cp39-cp39-win_amd64.whl": [
           "A3Vt+tzM2HKRoq5m8nINeosxy3hgB6P/4m9N3QWK/s8=",
+          "cp39"
+        ]
+      }
+    },
+    "0.10.12": {
+      "sdist": [
+        "5nGAc2g0SH6NwPWOzFs0N5PzljkJFmsXShh5KaG+Yns=",
+        "dimod-0.10.12.tar.gz"
+      ],
+      "wheels": {
+        "dimod-0.10.12-cp310-cp310-macosx_10_9_universal2.whl": [
+          "drkNM1/TvharLFK+WNExJkIS0Oi2L/NmTAohuxSwBlM=",
+          "cp310"
+        ],
+        "dimod-0.10.12-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "oqz4RKq0z/UxyRgQ6HtUQA8N2tMEV9WkC0yThWuo7is=",
+          "cp310"
+        ],
+        "dimod-0.10.12-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "iWrGz4ZkMx1PxxPtxsUiQ6Ac3XWNkBYa8j3XkaC2gAs=",
+          "cp310"
+        ],
+        "dimod-0.10.12-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "75fX9fmI9OoZDnPoBMBX+jrqPKQLU8a8pMz6GJJWZf8=",
+          "cp310"
+        ],
+        "dimod-0.10.12-cp310-cp310-win_amd64.whl": [
+          "oEE3IejCBMELX8oCpcB+BcW6pjbMaX39OBew37OV+tM=",
+          "cp310"
+        ],
+        "dimod-0.10.12-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "l0ID7XCin7Epoxlypqu81H9a7VGq9yCIGXXQRM5kgH4=",
+          "cp37"
+        ],
+        "dimod-0.10.12-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "rd7KEQfL5LETZe4mdf5xvwY+vGX6tHuI+tOa5InjQyo=",
+          "cp37"
+        ],
+        "dimod-0.10.12-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "60oUpPNSuY5MsgvdKarFHIHJPH4gaqcFre7i3MUHecU=",
+          "cp37"
+        ],
+        "dimod-0.10.12-cp37-cp37m-win_amd64.whl": [
+          "4do9gZV9h5O1r/j/nEF227/HZlkBCt49qA2hgdgnT9U=",
+          "cp37"
+        ],
+        "dimod-0.10.12-cp38-cp38-macosx_10_9_universal2.whl": [
+          "Ltc8fUPDaYeQUw7V9ZWWT/1KDN2Jf8R2nxs+3JI9B1A=",
+          "cp38"
+        ],
+        "dimod-0.10.12-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "e0ryJXVlXAStilWu1vOcAbMKgWc5BixG1/xFyHAIk4w=",
+          "cp38"
+        ],
+        "dimod-0.10.12-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "ocbY31AP6sd7afwX+89canq5K7OOiJQM+OUGerdGg1E=",
+          "cp38"
+        ],
+        "dimod-0.10.12-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "P0hfKQQMrtJObG9gL3BUuHb3F3bznexKhvWPO8yETvA=",
+          "cp38"
+        ],
+        "dimod-0.10.12-cp38-cp38-win_amd64.whl": [
+          "3NyJufM35ugI3FAGES9+pjbIxpPZijRSsPX4jJc2BBM=",
+          "cp38"
+        ],
+        "dimod-0.10.12-cp39-cp39-macosx_10_9_universal2.whl": [
+          "FfrC9i+kns/bojqKIaLZTyMyFzkYOInEBfsoOi4Mtwg=",
+          "cp39"
+        ],
+        "dimod-0.10.12-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "H8lfEByR/6RUgacODfzk4jtaN4CVJUf3X4Qtut90hBs=",
+          "cp39"
+        ],
+        "dimod-0.10.12-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "nW2dfWF8/fCY3wn3I3cn60pV8WLZSM1R4isRLJcFHKY=",
+          "cp39"
+        ],
+        "dimod-0.10.12-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "qd/Agd/67eiMf7P+qreiLfC6vhk//zxgxNFn8FHc+kI=",
+          "cp39"
+        ],
+        "dimod-0.10.12-cp39-cp39-win_amd64.whl": [
+          "xs1Az+rC67DJHzl9ZQ9RsMXLGWUvDVsVbJE3o6K2flU=",
           "cp39"
         ]
       }
@@ -137678,6 +137786,14 @@
       "wheels": {
         "zimply_core-1.0.5-py2.py3-none-any.whl": [
           "9xGF7ZGmsGENZOtPQBLfwMk7TmTX2PFCQG+91lC/aV4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.0.6": {
+      "wheels": {
+        "zimply_core-1.0.6-py2.py3-none-any.whl": [
+          "YMUS8rOv1XrWUEmII8pwwwmVjtktyVkisrwmzPcity0=",
           "py2.py3"
         ]
       }

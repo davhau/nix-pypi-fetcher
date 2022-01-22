@@ -3053,6 +3053,18 @@
           "py3"
         ]
       }
+    },
+    "3.5.0": {
+      "sdist": [
+        "bG8zGV+VmtBRIaPivPYwBi41RPc25PLtMK0dWuv2bng=",
+        "airflow-notebook-3.5.0.tar.gz"
+      ],
+      "wheels": {
+        "airflow_notebook-3.5.0-py3-none-any.whl": [
+          "q8lrQNUoWDrEtDJuGgxlTs81cLxLwygCc+K1oFH3oHI=",
+          "py3"
+        ]
+      }
     }
   },
   "airspeed": {
@@ -26599,6 +26611,18 @@
           "py3"
         ]
       }
+    },
+    "4.4.0": {
+      "sdist": [
+        "MQ2tqJovk21bzPeHMn3klYR9fxVrusdbQ46hdSyNOU4=",
+        "dwave-ocean-sdk-4.4.0.tar.gz"
+      ],
+      "wheels": {
+        "dwave_ocean_sdk-4.4.0-py3-none-any.whl": [
+          "8T/0S4Cj4kXe+ghnAWz/2gSbNiWsS1s+Xjb8Aw6CV8c=",
+          "py3"
+        ]
+      }
     }
   },
   "dwload-server": {
@@ -39424,6 +39448,12 @@
         "inmanta-dev-dependencies-1.75.0.tar.gz"
       ]
     },
+    "1.76.0": {
+      "sdist": [
+        "XOSlYJXqwiH+5XSO8+eOg7KUcwKg8dQl9AtHotwJc5o=",
+        "inmanta-dev-dependencies-1.76.0.tar.gz"
+      ]
+    },
     "1.8.0": {
       "sdist": [
         "Mwhod55GYEiNEYL33DMzJ25qzhuGq74nabq6M8rd0bQ=",
@@ -41848,6 +41878,12 @@
       "sdist": [
         "lxHmxd7CQ2pPcSOF7hZQUebGDAfyqw4phOETmHSHnHc=",
         "jcvi-1.1.9.tar.gz"
+      ]
+    },
+    "1.2.1": {
+      "sdist": [
+        "S4FerBcTOe98Zi4jmBw/X/nPOLayp/yWQAjDxihIN5E=",
+        "jcvi-1.2.1.tar.gz"
       ]
     }
   },
@@ -85549,6 +85585,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "c1x421zwpY2mkvwjQu2fWFCR0ypBpViAVCr2Skt5qGc=",
+        "pytest-splunk-addon-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "pytest_splunk_addon-2.0.0-py3-none-any.whl": [
+          "0DoADQK7U8RL0KTjRmdPOxdWIXVhc5p+vxsncsIbPCM=",
+          "py3"
+        ]
+      }
     }
   },
   "pytest-twisted": {
@@ -109620,6 +109668,58 @@
         ],
         "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220104210604-cp39-cp39-win_amd64.whl": [
           "DdNIBfMf3424uqDc8OdqzHSA0exd4++mN+sVM7eYgDU=",
+          "cp39"
+        ]
+      }
+    },
+    "0.24.0.dev20220121212647": {
+      "wheels": {
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220121212647-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "lGPhUDyXL2F0+6l9SBzJ35QN18as8+PGHNzevaiCUwE=",
+          "cp310"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220121212647-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "InFjm+khQYIMjKBadxv1blIKhPZpsK0c+t/iRdBuAZw=",
+          "cp310"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220121212647-cp310-cp310-win_amd64.whl": [
+          "JWaeuuXn/t/K6GQGG2GPEyuEHh39Bk2kLOiGAmAi/EY=",
+          "cp310"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220121212647-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "zv3on660orKSvbje8Zc6ot+wVhhabFJCzPduVoyfn9M=",
+          "cp37"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220121212647-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "7NuzUXCb/Pdfesv2oszd0eVnw624bSp19jT5UPjecbw=",
+          "cp37"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220121212647-cp37-cp37m-win_amd64.whl": [
+          "y6IxabaZZrden/TppKfz5f13SVDqPz/Hj5oBy0ER53o=",
+          "cp37"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220121212647-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "aHiGmYS8pdjp7/GEnT4aXPStCqKffi3eftxKDetYWY0=",
+          "cp38"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220121212647-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "qQTeGk75rVs+PFbyKJIRhEtvQvgQUY0FwSnu3hW0MG0=",
+          "cp38"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220121212647-cp38-cp38-win_amd64.whl": [
+          "THd5vUONFbV0+/Cxhx0229HzhK5E4tfT0/t0J4YP68U=",
+          "cp38"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220121212647-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "9C4S57awL8eYkejnKvnLEw/YgY7sqCWwgYO5DpGVVQU=",
+          "cp39"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220121212647-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "m28gZ4/GYJRArQz1okuhuGja/g+FWvNY84sl++VSLBs=",
+          "cp39"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220121212647-cp39-cp39-win_amd64.whl": [
+          "Wu0W72HpDmgp2IoLhLPKnnvRWbzCsOH7h0nUiosNHE4=",
           "cp39"
         ]
       }

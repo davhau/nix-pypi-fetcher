@@ -16754,6 +16754,18 @@
         ]
       }
     },
+    "0.5.11": {
+      "sdist": [
+        "MI4PegRZA+3OwTqbVHN/ObnxT4ZXUWYzdMpSnUluIY8=",
+        "continual-0.5.11.tar.gz"
+      ],
+      "wheels": {
+        "continual-0.5.11-py3-none-any.whl": [
+          "OXtEnwemdpiVZxSrHDKg3+L8Qh48fYrMsVDGLGFhanw=",
+          "py3"
+        ]
+      }
+    },
     "0.5.2": {
       "sdist": [
         "RPwzX1uiZSmupfvqfNPNElP6YG6QKNb1CLIDvoBEqVs=",
@@ -69321,6 +69333,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.20220121.0": {
+      "wheels": {
+        "odoo14_addons_oca_l10n_spain-14.0.20220121.0-py3-none-any.whl": [
+          "SdTdJj/ypYoDxY4xpE8ee4Cp+5Kuv/2n+0H5R2tF3h0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo8-addon-account-financial-report-webkit": {
@@ -111620,134 +111640,14 @@
     }
   },
   "unit-api": {
-    "0.1.0": {
+    "0.2.0": {
       "sdist": [
-        "h2RSZEfCLYMW50fqM8OKbOxNIbKrxEioWoqReSaViJo=",
-        "unit-api-0.1.0.tar.gz"
+        "zbrtrYvgIrpoK1C+e+NSgn4o3Bjrb9XDxL2a1+/v20A=",
+        "unit-api-0.2.0.tar.gz"
       ],
       "wheels": {
-        "unit_api-0.1.0-py3-none-any.whl": [
-          "ZFceFSrEHOTBu5zHjKZb6u8igJZ5pFjoPvg+FGIDjnE=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "gi9NfcjZOI/VdXmk0Fu73cj6PaMgc5c+ng0NvLqRLN4=",
-        "unit-api-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "unit_api-0.1.1-py3-none-any.whl": [
-          "LSYWofQB+Q5Kx3vnZq8a7a4j0aCdC++YrH7vbGpgUdI=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.10": {
-      "sdist": [
-        "JPQxtfE/skOh6bY4yRAOKMGvnNLkkTBqcJdJTEtiKeo=",
-        "unit-api-0.1.10.tar.gz"
-      ],
-      "wheels": {
-        "unit_api-0.1.10-py3-none-any.whl": [
-          "gQynNwzW/AoTi8c1VgqzfivVHnZXsN0094/UzJtfI9c=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.11": {
-      "sdist": [
-        "3mzRyGeIIfRXYjwh+sTSVxpByC4eDPLQFWaVUhYHoRE=",
-        "unit-api-0.1.11.tar.gz"
-      ],
-      "wheels": {
-        "unit_api-0.1.11-py3-none-any.whl": [
-          "+fc0/z8wGAZDHwBBzOl+juaj5gzEr0awVdoCf9CENWI=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "0dn7eCNq2Nst0jR1BqiDCIjL6PmMAM2uCW3aArwdMwA=",
-        "unit-api-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "unit_api-0.1.2-py3-none-any.whl": [
-          "6LqA8Za4GTzbKkVg69UrOc7PK0/lQtb1ekfFVVDZguA=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "gd9IyvKu9gsN6OkvAte2aUGp7BF6omia/fAdtmPeTss=",
-        "unit-api-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "unit_api-0.1.3-py3-none-any.whl": [
-          "QeL+4w987b5EVkSbNLafrk9Ca3WQeYoXWbUGIxpECL8=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "W9wzxjhrjuuPxFo4H2zOeLDwYe12BIDeo8a1Tkr9ELM=",
-        "unit-api-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "unit_api-0.1.4-py3-none-any.whl": [
-          "KsqPSX1w1MjH6HTpjDGLpCumtn10120cxSitt5HwNqY=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "wSzKT2zAk1Teqsxwk67FwuSAYZRA2nBVgd+NnYt7d/0=",
-        "unit-api-0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "unit_api-0.1.5-py3-none-any.whl": [
-          "ZUD3AoXAbLy1clFNvT6YJzuBbZ02v4t+OKcKXHbZPiQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "oc4uxKsJN6hkDwGDDte4hgDUZvNZNImE0navLPNTHEc=",
-        "unit-api-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "unit_api-0.1.7-py3-none-any.whl": [
-          "8zEEy68++o+xuACLMnpnNak0BaXRbxs/qvTjLr7KXR4=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.8": {
-      "sdist": [
-        "FH5pJGTlQOOSPt5x9pzpUG84X1z0OYDRII/kgyKfQ3Q=",
-        "unit-api-0.1.8.tar.gz"
-      ],
-      "wheels": {
-        "unit_api-0.1.8-py3-none-any.whl": [
-          "rlhqDEBmyaPpIpf097J5eT9WvUE+u+7vYgDTl40RZWk=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.9": {
-      "sdist": [
-        "piB5xY+pyVj4mTl6a0ekNxfub13kcW48O8u/WVf/F/4=",
-        "unit-api-0.1.9.tar.gz"
-      ],
-      "wheels": {
-        "unit_api-0.1.9-py3-none-any.whl": [
-          "jaNlvvlLjyc0oXf40VTx1FNHSppt5I839sKYAA84wBA=",
+        "unit_api-0.2.0-py3-none-any.whl": [
+          "40VS+eDa6uNxF6+/Z1IBKRYkg5ox1Subt24Ba/O5hew=",
           "py3"
         ]
       }
