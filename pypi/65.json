@@ -783,6 +783,20 @@
       ]
     }
   },
+  "aio.api.bazel": {
+    "0.0.1": {
+      "sdist": [
+        "0RCrIZ3lIMkRvRUF9RbPII/qdf5mUp9jjJtKwYKyCrg=",
+        "aio.api.bazel-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "aio.api.bazel-0.0.1-py3-none-any.whl": [
+          "IQlMf47QONRmjZPvqQjQdwz0u3gTc6EwDxUrIR/z3IE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "aio.http.server": {
     "0.0.1": {
       "sdist": [
@@ -39629,6 +39643,14 @@
       ]
     }
   },
+  "evtools": {
+    "0.1": {
+      "sdist": [
+        "LhM+XNPwkJoZ+c25MXt5enLpQbp4B8xxW1z5dvjphhU=",
+        "evtools-0.1.tar.gz"
+      ]
+    }
+  },
   "ew-der-modbus-sim-py": {
     "0.1.0a1": {
       "sdist": [
@@ -51792,6 +51814,18 @@
       "wheels": {
         "heaserver_volumes-1.0.0a6-py3-none-any.whl": [
           "eonywChUH8Ns+Eux3fcpsrlgO2kra/Vchg7vUUEJ/0M=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0a7": {
+      "sdist": [
+        "wLBZlc+OEOnJ1EWDBoOmB5gzPWB5m8NwJFfiNJs8JPM=",
+        "heaserver-volumes-1.0.0a7.tar.gz"
+      ],
+      "wheels": {
+        "heaserver_volumes-1.0.0a7-py3-none-any.whl": [
+          "6pD4ovwTDYaCrzs7MXf+02w8GK143SWK4P9HqYWCG34=",
           "py3"
         ]
       }
@@ -89125,6 +89159,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "j+95do0btDmuKCRPPVQ0OtnEfdsCGoUG86wsOcp0Ovs=",
+        "pyet-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pyet-1.1.0-py3-none-any.whl": [
+          "f1J2rvMMNylXQkD0KahGTqt315TtWP3qfJ5UsABzdHI=",
+          "py3"
+        ]
+      }
     }
   },
   "pyfence": {
@@ -98720,6 +98766,18 @@
       "wheels": {
         "qpd-0.2.5-py3-none-any.whl": [
           "kuQhQQfLPHadf5XsF/VYvF+KTjiqaHq1VI1z1znumpw=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.6": {
+      "sdist": [
+        "YaogRjY6lOnv3Zfe928R+iD0oQjBwjXScApZILdrq08=",
+        "qpd-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "qpd-0.2.6-py3-none-any.whl": [
+          "qnLdjEehNkS5Ou95TyYrN1nG5HEh9xjee0TNJQUkFKw=",
           "py3"
         ]
       }
@@ -123520,6 +123578,46 @@
         ],
         "tensorflow_text_nightly-2.9.0.dev20220123-cp39-cp39-win_amd64.whl": [
           "KRlqLP3z7hnunRgUfhLjAvVmMKm1njINqIWQtOx/06w=",
+          "cp39"
+        ]
+      }
+    },
+    "2.9.0.dev20220124": {
+      "wheels": {
+        "tensorflow_text_nightly-2.9.0.dev20220124-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "OGpTEJ1ALVykfkbE7Sc2C+D7C8Ggk71Eoms3Q2F5yr8=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220124-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "E9NJyehKMbqk4x1mDjLS/MZAQ9Lym7iE28ainxZU3fI=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220124-cp37-cp37m-win_amd64.whl": [
+          "3xAVRhxUWTKRbYUkk2Ej8c3sFDcfP1UO8pg2ixsmb9U=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220124-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "cj6zEIdc/wa6Y4evQmB/9DmJMm3iFolONwv+tKrz5GA=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220124-cp38-cp38-manylinux2010_x86_64.whl": [
+          "RQTCVhGQUis8aiykwam1aY/lpamFQgqqevG2MD5S0Ts=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220124-cp38-cp38-win_amd64.whl": [
+          "55NLOnBiJC3nuuYLG07foDm0EefC3qthlP88IIlOVpM=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220124-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "7it0uKyUltF/LWChCTBE34ZNhXT2LpLd9oFk7z208SY=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220124-cp39-cp39-manylinux2010_x86_64.whl": [
+          "RzxK+uYJWlsbj8HptkwcyalDcBcUZJdIE3DKVRFuQBY=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220124-cp39-cp39-win_amd64.whl": [
+          "zpqxZG14EI+Nb4TXMYGqAvzRUoRZoYypoy4vtvS/9A0=",
           "cp39"
         ]
       }
