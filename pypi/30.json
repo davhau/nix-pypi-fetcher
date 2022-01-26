@@ -4217,6 +4217,18 @@
           "py3"
         ]
       }
+    },
+    "2.9.0a0": {
+      "sdist": [
+        "kYx/j5V2Y8s7qfuEOO6f9Slm/11D+O4vKDbkml+VWXQ=",
+        "aws-cdk.aws-apigatewayv2-integrations-alpha-2.9.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2_integrations_alpha-2.9.0a0-py3-none-any.whl": [
+          "fo43UYR1m0Vk1JXERnJKtlzVhhQo37AmZqQBXSwFf3I=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-dms": {
@@ -65013,6 +65025,12 @@
         "81kqxKghSYmyJUNCQBaHJJxMDgwbkSsVw2WzjdtS8NU=",
         "noseOfYeti-2.2.0.tar.gz"
       ]
+    },
+    "2.3.0": {
+      "sdist": [
+        "vzYaboQiNn9X4L2wuFQ3LqoWCwU0EwkFMrBHwYOuVj0=",
+        "noseOfYeti-2.3.0.tar.gz"
+      ]
     }
   },
   "nosqlalchemy": {
@@ -65328,6 +65346,14 @@
       "wheels": {
         "odoo_addon_maintenance_plan-15.0.1.0.0.2-py3-none-any.whl": [
           "pqLlwGyZjbidmLN1tWHCHj4iRtc19IdK1P9W3heSObM=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_maintenance_plan-15.0.1.0.1-py3-none-any.whl": [
+          "EN+4pceLPxDkSIQUUVR8/CKrh7Es4joLefoueDGdkf0=",
           "py3"
         ]
       }
@@ -73565,6 +73591,62 @@
           "cp39"
         ]
       }
+    },
+    "1.4.8": {
+      "sdist": [
+        "tezpUlxSBMnjgQMoPTtpX9m5JPrTuRd8EpNGDrNnpW8=",
+        "pspy-1.4.8.tar.gz"
+      ],
+      "wheels": {
+        "pspy-1.4.8-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "x9qRpGpf0MTf2laAF8QjP9aQ/PnS50FjOQwX63IVHds=",
+          "cp310"
+        ],
+        "pspy-1.4.8-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gOhZuVL7007RkOB1tbzAB9/mC0Q4WYjvVz91DGSbRww=",
+          "cp310"
+        ],
+        "pspy-1.4.8-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "C/eSIi28l1QuPnATFiM0SxbnxogGOs5k8QYe7N4cWVs=",
+          "cp310"
+        ],
+        "pspy-1.4.8-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "O8C2CxAKiLCct46lvH/hH0bkuCsHqsJ7oTrbTl3mMMY=",
+          "cp37"
+        ],
+        "pspy-1.4.8-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QsWTL3UuqcoqDHe2sfgsLF9jH/sH8X/iUlta06uHMM4=",
+          "cp37"
+        ],
+        "pspy-1.4.8-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "BeVPBEKXR/k1f/OSRhqIihFz6zvZxQXUxkWA2te6HNY=",
+          "cp37"
+        ],
+        "pspy-1.4.8-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "5JKbmPtzyaYN3qQAtH8xBO0iPHalt1nXokSyKIBPyDc=",
+          "cp38"
+        ],
+        "pspy-1.4.8-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "k7Mk0HN01rmE5pKlM8j56qmY08eHx3B6GACluN+YuBY=",
+          "cp38"
+        ],
+        "pspy-1.4.8-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "ASiJIav3pnZ5roTwJizFCVGymoloN2vnjinoVir59RQ=",
+          "cp38"
+        ],
+        "pspy-1.4.8-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "szmFr7hfvgMz+QaPw5ZeuSE95X2QjCC34HHxzxY0O7c=",
+          "cp39"
+        ],
+        "pspy-1.4.8-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "26Vk5DQB8XoPYr8LXjY6QH04twB3KZIK73dAXhhaLVs=",
+          "cp39"
+        ],
+        "pspy-1.4.8-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "1SGM1y1uaLaNfJr63vXMCFmyALXYdUG5LLaksoHr5mI=",
+          "cp39"
+        ]
+      }
     }
   },
   "psu": {
@@ -74026,6 +74108,18 @@
       "sdist": [
         "IrBeQu5UK+t3G7bVc96/+lKQM1Jdt/gZfH2LaU+7Ep8=",
         "pulumi_google_native-0.11.1a1643144227.tar.gz"
+      ]
+    },
+    "0.11.1a1643197623": {
+      "sdist": [
+        "i4T6UiITPVuqopoHPziGwfp7uPUDvtJcrVD6zByvsSI=",
+        "pulumi_google_native-0.11.1a1643197623.tar.gz"
+      ]
+    },
+    "0.12.0": {
+      "sdist": [
+        "cd2+WcKO9CiSdDyMH4vWUX4IR5OG8KZyMK7HYz3Hmq8=",
+        "pulumi_google_native-0.12.0.tar.gz"
       ]
     },
     "0.2.0": {
@@ -114473,6 +114567,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0": {
+      "sdist": [
+        "VVlM0/po6jOAres9WbGqfP8BYZuZwsvZLefOCyvpN4M=",
+        "weac-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "weac-2.2.0-py3-none-any.whl": [
+          "2DiJhiMixRdqcfHDh2qEkHnaZetQMjRFLbyrB2JXjLw=",
+          "py3"
+        ]
+      }
     }
   },
   "webarticlecurator": {
@@ -119372,6 +119478,14 @@
       "wheels": {
         "yxspkg-6.9.37-py3-none-any.whl": [
           "rQ92s4T96TrvN/nSDjgQXtBCMVA9pU1tmy5+Xq/+hxM=",
+          "py3"
+        ]
+      }
+    },
+    "6.9.38": {
+      "wheels": {
+        "yxspkg-6.9.38-py3-none-any.whl": [
+          "wSVhIR7R25XcTc/HDIFEQw3nm+2NclBTqmBzJGhiiqU=",
           "py3"
         ]
       }
