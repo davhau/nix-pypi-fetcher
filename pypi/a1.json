@@ -4019,6 +4019,18 @@
           "py3"
         ]
       }
+    },
+    "1.141.0": {
+      "sdist": [
+        "zCOJjoWTzeTwotExx4G20Ct6ZQSQ8ZlmVDtP56LGQ2w=",
+        "aws-cdk.aws-nimblestudio-1.141.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_nimblestudio-1.141.0-py3-none-any.whl": [
+          "WoiRMP2aYWSLlV3LSNLBq+brrhvsVh0o/bVpQTt8Oy0=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-route53recoveryreadiness": {
@@ -4330,6 +4342,18 @@
       "wheels": {
         "aws_cdk.aws_route53recoveryreadiness-1.140.0-py3-none-any.whl": [
           "wXD+wnPeLGiCCIQNc2mSqiVL4SCWZvw3JsnBwtVRALM=",
+          "py3"
+        ]
+      }
+    },
+    "1.141.0": {
+      "sdist": [
+        "G8wMhOD+hgPD/8R8olKOO4M36LBzrI8CZfrJrtCJURc=",
+        "aws-cdk.aws-route53recoveryreadiness-1.141.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53recoveryreadiness-1.141.0-py3-none-any.whl": [
+          "j9gAjaXI1j0NzzMrM1XZ9KcVQElnYdZCTY5D8Wl5uQs=",
           "py3"
         ]
       }
@@ -36026,60 +36050,10 @@
     }
   },
   "feast-snowflake": {
-    "0.1.0": {
-      "wheels": {
-        "feast_snowflake-0.1.0-py3-none-any.whl": [
-          "IB4w+gQ4t/ygXOZdYQGuDTHRrVr3QhkFx7PClJXMGsQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.1": {
-      "wheels": {
-        "feast_snowflake-0.1.1-py3-none-any.whl": [
-          "TF4i8TFDrGzA+YhpqWOLBO+OBYvLPSLN0N3QslDR88o=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "wheels": {
-        "feast_snowflake-0.1.2-py3-none-any.whl": [
-          "5bdENEA6nDeIsWgI42VeLAhmt2FAxU8NDH1zLZJ3VqQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "wheels": {
-        "feast_snowflake-0.1.3-py3-none-any.whl": [
-          "KhVQ+AnvI7VkLnYhnZTLo2/1BfeUOTiJHgq5LOf9X9g=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
+    "0.1.7": {
       "sdist": [
-        "hmfgW/8EqfT8WT7pGLirtOev60r+1p1Up7BVFPZM3G4=",
-        "feast-snowflake-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "feast_snowflake-0.1.4-py3-none-any.whl": [
-          "AVMCIA4oSI9Z0OqrAvMALy3W2BvvzXaSLOGkvPJ8M5Q=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "XJKI5DHh6blBz2JtRb2m1dKvhMJa0Za2blEZDYj4KdY=",
-        "feast-snowflake-0.1.5.tar.gz"
-      ]
-    },
-    "0.1.6": {
-      "sdist": [
-        "5/b/VJYS/V2GmucVatzPkD2q3dx9+iHacWuF6B1shDI=",
-        "feast-snowflake-0.1.6.tar.gz"
+        "3gD+P7IZP/M21aFLy4Yz56SXLdkKDQN1LgrV8WvOwtE=",
+        "feast-snowflake-0.1.7.tar.gz"
       ]
     }
   },
@@ -85587,6 +85561,12 @@
         "QA11HRcSW7pGcNNCkyyA825RAAo+uBRczCb7KL8GYWo=",
         "scratchlink-1.0.tar.gz"
       ]
+    },
+    "1.0.1": {
+      "sdist": [
+        "+7+G6XDs0NKP0rbd+S2SlGNd/ocawDTGS0zVPayUDp4=",
+        "scratchlink-1.0.1.tar.gz"
+      ]
     }
   },
   "scsequtil": {
@@ -104740,6 +104720,30 @@
       "wheels": {
         "version_differ-0.3.6-py3-none-any.whl": [
           "3WTGrLqdCYu5gus/0j2/DkRBvTbWb5M2pBPO1cG+0Zc=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.7": {
+      "sdist": [
+        "QPgYwTYQhIBZb7hazqsTnysUMDIAoadhKRF/OcSOO8s=",
+        "version-differ-0.3.7.tar.gz"
+      ],
+      "wheels": {
+        "version_differ-0.3.7-py3-none-any.whl": [
+          "ynbFkbxeDKACag/sF1xqgWZKlpH/tZIQ3FSic8BuW3U=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.8": {
+      "sdist": [
+        "NouV9pUEsny3ZT1maZZ7iDlAfGEh+PTf3YlLAUZV4zA=",
+        "version-differ-0.3.8.tar.gz"
+      ],
+      "wheels": {
+        "version_differ-0.3.8-py3-none-any.whl": [
+          "cPGLnCbUmNHggg6JRv3bohLkv0NbauurgljE8UJcRd0=",
           "py3"
         ]
       }

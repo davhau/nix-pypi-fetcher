@@ -7592,6 +7592,18 @@
         ]
       }
     },
+    "1.141.0": {
+      "sdist": [
+        "RHSupWuwOoZ2ttXnixb8QpAC0G0HPH0R3rGQ4sbn+cE=",
+        "aws-cdk.aws-cloudtrail-1.141.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudtrail-1.141.0-py3-none-any.whl": [
+          "Wsdkf1xaCm3gxw4YG1qgLwcQBHXsvwfOAleP9BPd7aA=",
+          "py3"
+        ]
+      }
+    },
     "1.15.0": {
       "sdist": [
         "sfH8gAxkWqVqnaEV+E97A8SlNLi3dM9SfzgdKawTx/U=",
@@ -9810,6 +9822,18 @@
       "wheels": {
         "aws_cdk.aws_ecs-1.140.0-py3-none-any.whl": [
           "AB9r26r7kApaJgo8NNLdQypT0LxbwnXRo2Atp+Z2B4k=",
+          "py3"
+        ]
+      }
+    },
+    "1.141.0": {
+      "sdist": [
+        "RlcISfcloYrWkNDmsJlecEtMeNLZQzDUx1yFk4ps4QI=",
+        "aws-cdk.aws-ecs-1.141.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_ecs-1.141.0-py3-none-any.whl": [
+          "6UDqn3Hxr7BhOHzYNrMdQt20O9ADR5bH6DCvyVPIj6Q=",
           "py3"
         ]
       }
@@ -53428,6 +53452,30 @@
       "wheels": {
         "large_image_tasks-1.10.1.dev10-py3-none-any.whl": [
           "oSMTcWJ+8ivoyWyAG1W43p25sSmXK5ghYzAYlJeYZ0o=",
+          "py3"
+        ]
+      }
+    },
+    "1.10.1.dev12": {
+      "sdist": [
+        "ls6uhCP6KnUKcD59SB7JCbHQp3zMibDGHc+ZRbkl6h8=",
+        "large-image-tasks-1.10.1.dev12.tar.gz"
+      ],
+      "wheels": {
+        "large_image_tasks-1.10.1.dev12-py3-none-any.whl": [
+          "i/E+PoGAHVDNVtYIQ929m0yyF9/bIozCqffXqpQUt3k=",
+          "py3"
+        ]
+      }
+    },
+    "1.10.1.dev14": {
+      "sdist": [
+        "s0zH99JRTrzFTs9LeyAh/b1ERkUMSz9QUFJFPEJj7SE=",
+        "large-image-tasks-1.10.1.dev14.tar.gz"
+      ],
+      "wheels": {
+        "large_image_tasks-1.10.1.dev14-py3-none-any.whl": [
+          "JQrPz5npVd+m9/frwA7l7oPyLS1xXol8pFvtwNsAzA4=",
           "py3"
         ]
       }
@@ -131179,6 +131227,20 @@
       ]
     }
   },
+  "snakepack": {
+    "0.1.0": {
+      "sdist": [
+        "LXIpye7f4wcyYf3el2jtWgEk/CD7Ym+wJnht2+59Vh4=",
+        "snakepack-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "snakepack-0.1.0-py3-none-any.whl": [
+          "vLxuL2p3PXuUeVgQfopNG9YVerWIqRP0OXNM8186Ksk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "snmpdesk": {
     "0.0.7": {
       "sdist": [
@@ -141910,6 +141972,42 @@
         ],
         "tf_nightly-2.9.0.dev20220126-cp39-cp39-win_amd64.whl": [
           "JK9ClOofGXW9Hj6Dcl+3neIHjyvPVeAkLpzSRDS6GHk=",
+          "cp39"
+        ]
+      }
+    },
+    "2.9.0.dev20220127": {
+      "wheels": {
+        "tf_nightly-2.9.0.dev20220127-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "pic2fDWxe3qOBVO6wgql/q5eNkU5b39uDjLfcMPD89w=",
+          "cp310"
+        ],
+        "tf_nightly-2.9.0.dev20220127-cp310-cp310-win_amd64.whl": [
+          "auuW3zG/tvg6TaXPkuZOXn/i4Qr6G+TyViHxlrTxSiw=",
+          "cp310"
+        ],
+        "tf_nightly-2.9.0.dev20220127-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "/shSwfOacd08yeX70YVvnSXCyfchABu7WYdplxvDTzs=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20220127-cp37-cp37m-win_amd64.whl": [
+          "qeaF/I44JOiurikK6+U+UIkBQ9XjYbV4fa/K9QrWUOo=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20220127-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "OQqD3GmohkhOEbJshq+3b1ACuKiAreFQ0C20jRBp8ww=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20220127-cp38-cp38-win_amd64.whl": [
+          "ouHMbgDUgEWYVDtH/alzoEfvUInF9dtJHKoFx+JLKF0=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20220127-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "JlujdNVIE4bZ51elvb3pVKdXOq9ahRfqTIQmMWNcIyk=",
+          "cp39"
+        ],
+        "tf_nightly-2.9.0.dev20220127-cp39-cp39-win_amd64.whl": [
+          "n4hC7GOxYPnnxqkAaDOrq4TYPeqIGuKigCMaTCcg4Ts=",
           "cp39"
         ]
       }
