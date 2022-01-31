@@ -14873,6 +14873,14 @@
       }
     }
   },
+  "certbot-acme-dns": {
+    "0.1.0": {
+      "sdist": [
+        "/r41VIMLzzL3zY/5MSBjr/GWyxD05VYSCctCIuvTWig=",
+        "certbot-acme-dns-0.1.0.tar.gz"
+      ]
+    }
+  },
   "cf-pretty-form-errors": {
     "1.0.2a0": {
       "sdist": [
@@ -21602,6 +21610,20 @@
       "wheels": {
         "dev_pipeline_configure-0.4.0a1-py3-none-any.whl": [
           "zSQtw2XFgQcJMb6ec0LhGmQjIgCVFvVneBX3GN11Dco=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "dfds-ds-toolbox": {
+    "0.8.0": {
+      "sdist": [
+        "jzKkOM2j07y9bvAZu+tFD28M6uf4ysPTTpx7zLbk70M=",
+        "dfds_ds_toolbox-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "dfds_ds_toolbox-0.8.0-py3-none-any.whl": [
+          "7WWViCLcoBZX8ipBeKSr5EMVfl6p1GEah/12p1SBCPM=",
           "py3"
         ]
       }
@@ -31602,6 +31624,14 @@
       "wheels": {
         "file_service_client-1.1.1-py3-none-any.whl": [
           "TpPA4+HD2jrWb861gvjXnteJ9EC0k2nd2LhgsOI0LQA=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.2": {
+      "wheels": {
+        "file_service_client-1.1.2-py3-none-any.whl": [
+          "9COoZ6EOo5tDLrhv1wt8qyF9tlVzo3OMl0PxENah+Og=",
           "py3"
         ]
       }
@@ -46659,6 +46689,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.2": {
+      "sdist": [
+        "sO/eqVs45UrBpmC1a1CSI6l1XLhGo+l44txZaPsJWhI=",
+        "jj-2.1.2.tar.gz"
+      ],
+      "wheels": {
+        "jj-2.1.2-py3-none-any.whl": [
+          "ETohldwY4ilW11oc6Tk/MbCG09w6LY6vW8m91hpolrs=",
+          "py3"
+        ]
+      }
     }
   },
   "jk-typo3": {
@@ -55962,6 +56004,12 @@
       "sdist": [
         "dhSvdZZo0+jZKC8KGrgbo+i4OejNTkK8B8tncWTIYPo=",
         "mdinlatex-0.0.12.tar.gz"
+      ]
+    },
+    "0.0.13": {
+      "sdist": [
+        "NbUmAYqvwcFFdSO4QVG/0AsRtxwxrWOEIg4d6R7xpE4=",
+        "mdinlatex-0.0.13.tar.gz"
       ]
     },
     "0.0.2": {
@@ -85003,6 +85051,12 @@
         "Pad1Pad7lTjjPq381MwGX6HFgv6TRacvpi6Ln82XP/Q=",
         "paperwork-shell-2.1.0.tar.gz"
       ]
+    },
+    "2.1.1": {
+      "sdist": [
+        "dwoQ3molmYg79y2GYD3QwGinRVk8ebVYIvY1ZONiv9I=",
+        "paperwork-shell-2.1.1.tar.gz"
+      ]
     }
   },
   "parpar": {
@@ -99532,6 +99586,18 @@
       "wheels": {
         "pytest_html_minio-0.1.0-py3-none-any.whl": [
           "4Lfil8GY9mNf1qy4MZOyY6qO+xAd7pB1ZhnuC1Oin/g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "B/q1qras1ggRdCKbaR/cMrHtmj2rBHqAYtaLkSCxGVg=",
+        "pytest-html-minio-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "pytest_html_minio-0.1.1-py3-none-any.whl": [
+          "5+DUqrUYksklCTd8b2IgGAlFxZcnme3s4BBzmzUjxwo=",
           "py3"
         ]
       }
@@ -123394,6 +123460,26 @@
         ],
         "tf_nightly_gpu-2.9.0.dev20220130-cp39-cp39-win_amd64.whl": [
           "//L9CMXYIY08BkcBDgJdNBrzX4xsUgEXFsOSWVnd9Zw=",
+          "cp39"
+        ]
+      }
+    },
+    "2.9.0.dev20220131": {
+      "wheels": {
+        "tf_nightly_gpu-2.9.0.dev20220131-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Mz5cPKubitDiKoEbwUDjUh8h1qbbZq7u3/CjjxGMEbY=",
+          "cp310"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220131-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "m1vZQrHz7X1Lrn8RAGdd4+bHqBUScUOMSKlbpjrcix4=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220131-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "/gfR6go7IVIO6RfbOEsEgAo2hU0C9yJPQQf89BFpa+I=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.9.0.dev20220131-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "4220EuO/Q3ZPJWMUHA+fxqkxMhNOeGaWOeQw+cXgU9E=",
           "cp39"
         ]
       }
