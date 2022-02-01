@@ -9034,16 +9034,32 @@
   "bodo": {
     "2021.10.1": {
       "wheels": {
-        "bodo-2021.10.1-cp37-cp37m-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
-          "lqL6QBMdSObOG/kElqx/ipjFjducrtEtXdbx2ycv/lA=",
-          "cp37"
-        ],
         "bodo-2021.10.1-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
           "OMbeK8ESwlXttK8XcaI+Drl/61IcuIR3nZYXWRlw3Z4=",
           "cp38"
         ],
         "bodo-2021.10.1-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
           "MtpBoCaZSKnBHGN7rsiBbiW7+/LrAxstJW7B1B0Js28=",
+          "cp39"
+        ]
+      }
+    },
+    "2022.1": {
+      "wheels": {
+        "bodo-2022.1-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "RmWok8JNoRn6bZY2zN1YO3L8pkdpyMUL8MCgy3bWrFM=",
+          "cp38"
+        ],
+        "bodo-2022.1-cp38-cp38-win_amd64.whl": [
+          "XWeCCmhRWFWhdS/Tkz/mC+TAP7vPbd0nw7A/Ix7nWlo=",
+          "cp38"
+        ],
+        "bodo-2022.1-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "dvY9v7MSz6zrThLz7yb1npP2lKWorXXFTkH8CfGNsto=",
+          "cp39"
+        ],
+        "bodo-2022.1-cp39-cp39-win_amd64.whl": [
+          "tCk0S4Dje0BnttO5uybZXeK6EsO0Z+U1eU1q0PT74OI=",
           "cp39"
         ]
       }
@@ -88321,6 +88337,16 @@
       ]
     }
   },
+  "s3cp": {
+    "0.0.1": {
+      "wheels": {
+        "s3cp-0.0.1-py3-none-any.whl": [
+          "IsBPOAMhUwwPo3YIanFu1uW7bPPjj3Fb3OmzmGJnHMs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "s3redirect": {
     "0.1": {
       "sdist": [
@@ -103352,6 +103378,14 @@
       "wheels": {
         "text_fabric-9.2.2-py3-none-any.whl": [
           "3Rff4jhoOXH9d+wD5V5G6GIvLd7yY+PIR2jp0aVoB8s=",
+          "py3"
+        ]
+      }
+    },
+    "9.2.3": {
+      "wheels": {
+        "text_fabric-9.2.3-py3-none-any.whl": [
+          "mpm+O9pXOWMLkdt5z2R40oaCc2CVR5iLW7b/QoHvMTw=",
           "py3"
         ]
       }
