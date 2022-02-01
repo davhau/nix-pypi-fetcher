@@ -33806,6 +33806,12 @@
         "core_explore_common_app-1.19.0.tar.gz"
       ]
     },
+    "1.19.1": {
+      "sdist": [
+        "KBZnik9Ep9zxTxAnv+nNYC4EpSr1zIr2lCW1SyUHYrs=",
+        "core_explore_common_app-1.19.1.tar.gz"
+      ]
+    },
     "1.2.0": {
       "sdist": [
         "RfL0iSTjtCb7vNqNA1E/W0P+Tkm7o4pbDt0Uor9Ly6M=",
@@ -67012,6 +67018,18 @@
         ]
       }
     },
+    "1.10.1.dev25": {
+      "sdist": [
+        "2SbDdhvBmVpoeMvByTlliZLmTMP/cBy4JC8LN88Olao=",
+        "large-image-source-openslide-1.10.1.dev25.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_openslide-1.10.1.dev25-py3-none-any.whl": [
+          "mS45wep/yDEL+K4CK8s6ITp6Go+uAqbIZCvXnf1qkd8=",
+          "py3"
+        ]
+      }
+    },
     "1.10.1.dev5": {
       "sdist": [
         "pDfv0SAHSZbjBZFC4KBueF6TlT0h4emK328Y2hlArEI=",
@@ -92213,6 +92231,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.5": {
+      "sdist": [
+        "8tjhE96arMcBEqpXydD/dVycJdKEm7r3tTeGYBK29v0=",
+        "openmc_plasma_source-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "openmc_plasma_source-0.2.5-py3-none-any.whl": [
+          "OxfvaFI9gSCro0OxS1njwziKNR6ybfgmeBdkPKJkev8=",
+          "py3"
+        ]
+      }
     }
   },
   "opensourcetest": {
@@ -106084,22 +106114,6 @@
     }
   },
   "pyre-check-nightly": {
-    "0.0.101627989047": {
-      "sdist": [
-        "Ur52HAKQWragPnIB1U6VqEMraE6EWyf8SHJu4Nnez5E=",
-        "pyre-check-nightly-0.0.101627989047.tar.gz"
-      ],
-      "wheels": {
-        "pyre_check_nightly-0.0.101627989047-py3-none-macosx_10_11_x86_64.whl": [
-          "gcJiLw02lcLBZg3Fuf8wtd4Rrj9aIrwvoztizkqitbM=",
-          "py3"
-        ],
-        "pyre_check_nightly-0.0.101627989047-py3-none-manylinux1_x86_64.whl": [
-          "NYO7C+X+aMzzbFj+paa7Kf+4HtSGMHJLnn9CJHxUNfI=",
-          "py3"
-        ]
-      }
-    },
     "0.0.101628075437": {
       "sdist": [
         "c+JT0G7OI7RxKBFnc3X4fUz5HKhbmWMzMBvkRFyZKis=",
@@ -108408,6 +108422,22 @@
         ],
         "pyre_check_nightly-0.0.101643631034-py3-none-manylinux1_x86_64.whl": [
           "URpojdNiK95Z0LpVSewdeWVqle90cET7gyuN9RdhD7c=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.101643717432": {
+      "sdist": [
+        "htjd/cLjWaMWQK2W5RfAtVCiz/vS96TszkT5031pTCU=",
+        "pyre-check-nightly-0.0.101643717432.tar.gz"
+      ],
+      "wheels": {
+        "pyre_check_nightly-0.0.101643717432-py3-none-macosx_10_11_x86_64.whl": [
+          "dgmM54d4KFj47k9V1igReTYs8LKDhIkKyF62+bk/F6s=",
+          "py3"
+        ],
+        "pyre_check_nightly-0.0.101643717432-py3-none-manylinux1_x86_64.whl": [
+          "W8bAr9ZpMnrpPrzo2rM7FGV/dxOiiwnZ5wqVh4MpraA=",
           "py3"
         ]
       }
@@ -136696,6 +136726,34 @@
         ],
         "tfq_nightly-0.6.0.dev20220131-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "hCRE8ik7VgYjv2pkt/FzOjK65h+pwZQ74g20yAHp9hg=",
+          "cp39"
+        ]
+      }
+    },
+    "0.6.0.dev20220201": {
+      "wheels": {
+        "tfq_nightly-0.6.0.dev20220201-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "1gNUN6XPIlrFluNiH/BB0U/Wr3q2BAcT0K1+zcskkV8=",
+          "cp37"
+        ],
+        "tfq_nightly-0.6.0.dev20220201-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "zvQasnaDe3iOS5aSVcxnA/sjyFHogcuaiXyMl/NvPOc=",
+          "cp37"
+        ],
+        "tfq_nightly-0.6.0.dev20220201-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "ay0WfQ78ZZ/BiPD1D75DfDR/qbGNJXHWRJQD+HxxZO0=",
+          "cp38"
+        ],
+        "tfq_nightly-0.6.0.dev20220201-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "K8C359mtMaG4dyhukjJxCdj/Lrgi8znBiqJiUUUSG84=",
+          "cp38"
+        ],
+        "tfq_nightly-0.6.0.dev20220201-cp39-cp39-macosx_11_4_x86_64.whl": [
+          "RkjpTdy10K5fRlp3Owy4gdtFikIdk5/OV/sL3fpJddk=",
+          "cp39"
+        ],
+        "tfq_nightly-0.6.0.dev20220201-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "nseTXe32ldOUWyuYXSKLBigiPAZlZ9MT0+3e2qftDhM=",
           "cp39"
         ]
       }
