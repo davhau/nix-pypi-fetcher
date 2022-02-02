@@ -6870,6 +6870,18 @@
         ]
       }
     },
+    "1.143.0": {
+      "sdist": [
+        "iA8Wcmh1HCa7YroeUPyR00jafcCVciCG5BqpMb2Hg5s=",
+        "aws-cdk.aws-datasync-1.143.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_datasync-1.143.0-py3-none-any.whl": [
+          "NfOBIhKHrCiODT/povhBNh2UyZ3q2kL32Xw3hC51MjM=",
+          "py3"
+        ]
+      }
+    },
     "1.85.0": {
       "sdist": [
         "ajd60b0k9KxLG9B3khjh2hcqORBcF8MQcBCR41NN0Yg=",
@@ -7984,6 +7996,18 @@
       "wheels": {
         "aws_cdk.aws_dlm-1.142.0-py3-none-any.whl": [
           "8pVQ9663cpcgj3QFtCABJvtvtHKqiHiFVCan7VpoCks=",
+          "py3"
+        ]
+      }
+    },
+    "1.143.0": {
+      "sdist": [
+        "LfLgC36zEVdK12XJ/1MC/ov5pbv324z8OSZ+8ffF1uQ=",
+        "aws-cdk.aws-dlm-1.143.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_dlm-1.143.0-py3-none-any.whl": [
+          "TFbUP+byq2bWgUWtB3aPaRy09Crsr6/m4H6itHMH7TU=",
           "py3"
         ]
       }
@@ -44953,6 +44977,24 @@
       }
     }
   },
+  "fds.sdk.factsetner": {
+    "0.8.0": {
+      "wheels": {
+        "fds.sdk.FactSetNER-0.8.0-py3-none-any.whl": [
+          "0Ww2l3UXcUfu/Fb1sIGEdmGev4v/1iJxmISIeY7VGQ0=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.0": {
+      "wheels": {
+        "fds.sdk.FactSetNER-0.9.0-py3-none-any.whl": [
+          "pbA3vypSiB0ssFt1/DmR5rF2XTYkbI1MAAeS1LmE3rQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "feititfy": {
     "0.0.1": {
       "sdist": [
@@ -58684,6 +58726,12 @@
       "sdist": [
         "MpAA6+y/CDNYe9296qvq3+ZmR3Tt6N21f86GS2+ueOE=",
         "jupyter-openbis-server-0.4.0.tar.gz"
+      ]
+    },
+    "0.4.1": {
+      "sdist": [
+        "hxPbtmyAMGHicZ5F1SDDie4QcPOjpJqO7ftPR/H5wpw=",
+        "jupyter-openbis-server-0.4.1.tar.gz"
       ]
     },
     "0.4.1rc2": {
@@ -72640,6 +72688,14 @@
       "wheels": {
         "odoo_addon_contract-15.0.1.0.2-py3-none-any.whl": [
           "lBlaCP8vkOPDLREr+ZS19lZrVyHF6EVPL9QgVqG+t7E=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.1.0": {
+      "wheels": {
+        "odoo_addon_contract-15.0.1.1.0-py3-none-any.whl": [
+          "vsoQYGQiMxqgH1qSjhiLOerHCPcxApTAqFGKc+Ul/BQ=",
           "py3"
         ]
       }
@@ -116286,6 +116342,50 @@
         ],
         "tf_nightly_cpu-2.9.0.dev20220201-cp39-cp39-win_amd64.whl": [
           "gdxYZrCqIGK27kbNQETobYEwAn5xYxJCNCwXk0IN92w=",
+          "cp39"
+        ]
+      }
+    },
+    "2.9.0.dev20220202": {
+      "wheels": {
+        "tf_nightly_cpu-2.9.0.dev20220202-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "Z51mjcoauJCZHNtTQPFLuSulaKOY1xDPJcT8dC2DSW4=",
+          "cp310"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220202-cp310-cp310-win_amd64.whl": [
+          "zN0NT2gBdwR9Q3MHyCisN/rxypAb9OtjqCGluvlM1nA=",
+          "cp310"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220202-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "XVStni3biVVm5KDntAbo5hISROMYm3bt6kEqRSw5MKA=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220202-cp37-cp37m-win_amd64.whl": [
+          "D80b7efqmiLXuLf/jovBY/l2VeWhvxywfRvs1V79PrM=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220202-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "nSjSbX0v2LQwX1XLD/6AjVauDxQK3PfbBSccRhj52m4=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220202-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "qUI3f9I6R5Frbi24dRKxTdu134O+f0XI/SHWI5o7qaQ=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220202-cp38-cp38-win_amd64.whl": [
+          "F4oQztJTwfINtVZ17inUCoFBBiUHxECeNNCCaMzdeNM=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220202-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "llY8Cw6SBH2JW3NJaolG5u8/Xuc0xnhj7lhtYCmVcyk=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220202-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "SyU6UJw6bs8KAkA9v3YqibwLzQxrlGFh2bjjnxeveic=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220202-cp39-cp39-win_amd64.whl": [
+          "g220a4uLQHv8dwDlPC+9phZ1qa+VV6sAg20l7zLixuM=",
           "cp39"
         ]
       }
