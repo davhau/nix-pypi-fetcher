@@ -18334,6 +18334,18 @@
         ]
       }
     },
+    "0.64.0": {
+      "sdist": [
+        "+fJ9dVNOLpb82AOWazVghQHDbOsyIZI/MdTwe4GoryE=",
+        "cognite-sdk-experimental-0.64.0.tar.gz"
+      ],
+      "wheels": {
+        "cognite_sdk_experimental-0.64.0-py3-none-any.whl": [
+          "aNPGnVs0MnDVDpx01FdK5Bvz0xEFkBiGVPUxzL2ZrqE=",
+          "py3"
+        ]
+      }
+    },
     "0.7.0": {
       "sdist": [
         "3R+6BbjOTS0OJ2Zz796ZnLzSyNdBTyWJuI06dThj74M=",
@@ -28118,6 +28130,18 @@
       "wheels": {
         "elastic_wikidata-1.0.0-py3-none-any.whl": [
           "ezj9f0CAxipF142vdbOxLW6gtm+efU82DbbEjDjKuSg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "qWm342zPOLos7eeyBrM/rYCiacwxs+Wuh1VCZpDM9l8=",
+        "elastic-wikidata-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "elastic_wikidata-1.0.1-py3-none-any.whl": [
+          "LVLrvgPQIVfLUf7d3cKkkkM4xGhdakVOmUysA5gU/jU=",
           "py3"
         ]
       }
@@ -39990,6 +40014,12 @@
       "sdist": [
         "WhNrA+Qw4UZSdRNCwL3vpPca/zzRx1UnStCwpQxQPFY=",
         "inmanta-dev-dependencies-2.1.0.tar.gz"
+      ]
+    },
+    "2.2.0": {
+      "sdist": [
+        "XPLKBEC+kYVA9lN39nx4pJFY9MiA4bRBgV9XIky4zAQ=",
+        "inmanta-dev-dependencies-2.2.0.tar.gz"
       ]
     }
   },
@@ -118833,10 +118863,88 @@
   },
   "wrtc": {
     "0.0.0.dev1": {
+      "sdist": [
+        "eNqvYbsbDGJCAvZ0t+w6+F8lMM9pQ3U6/9mRfJoo2yw=",
+        "wrtc-0.0.0.dev1.tar.gz"
+      ],
       "wheels": {
         "wrtc-0.0.0.dev1-py3-none-any.whl": [
           "KWlawNrC6Xfueaf3R5Xx4A094XGJQUjgmXS0HC6G0D0=",
           "py3"
+        ]
+      }
+    },
+    "0.0.0.dev2": {
+      "sdist": [
+        "uW3R4KhpNSR7cKAZafuJlgrSdCOED5R7pNv6mqUsE8I=",
+        "wrtc-0.0.0.dev2.tar.gz"
+      ]
+    },
+    "0.0.0.dev3": {
+      "sdist": [
+        "x5bLXm30aUEBqixjIGcYCzrDLLlvpn9JB5dRA4/NwXw=",
+        "wrtc-0.0.0.dev3.tar.gz"
+      ],
+      "wheels": {
+        "wrtc-0.0.0.dev3-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "g4te0SQa+ScvpO+tNMb1sd9dyYoU/3YtE6S6qVvK1ww=",
+          "cp310"
+        ],
+        "wrtc-0.0.0.dev3-cp310-cp310-macosx_11_0_arm64.whl": [
+          "mTnIKz5HfgrFbE/VHzNQtRbeNhQQEOW2xBf+zV5ZzZ0=",
+          "cp310"
+        ],
+        "wrtc-0.0.0.dev3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "39qj6auCAoFbyXAqfc7XAHzFVBtj4L9rMZEOUY76EL0=",
+          "cp310"
+        ],
+        "wrtc-0.0.0.dev3-cp310-cp310-win_amd64.whl": [
+          "/2tsNaGP2aGcvlj77RXFGWCqQMlPZ67VX+qNOprmhWg=",
+          "cp310"
+        ],
+        "wrtc-0.0.0.dev3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Ww8blgZ9UrJZ8i20A/a56thc6Jp2HApKbZD38/YrB44=",
+          "cp37"
+        ],
+        "wrtc-0.0.0.dev3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "GaEe6t3zLadiydjqFLNJ0Zetkkh8ZwOR4ejXEXPjfd0=",
+          "cp37"
+        ],
+        "wrtc-0.0.0.dev3-cp37-cp37m-win_amd64.whl": [
+          "UXSvyRbi0ougXQZqZAM6mKDIYPixmOtvZFh/+OvZZjM=",
+          "cp37"
+        ],
+        "wrtc-0.0.0.dev3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "x6NuQBn8sz1sntcqvGPc2L312s8mF1JpT3QMwrkymoo=",
+          "cp38"
+        ],
+        "wrtc-0.0.0.dev3-cp38-cp38-macosx_11_0_arm64.whl": [
+          "dlNrCrD/2PqqRPOiGkCQqy/XecMYvzbPipgfB4NxEvo=",
+          "cp38"
+        ],
+        "wrtc-0.0.0.dev3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "8vhBHPX5mjlYlnj69Grdi7/BTrkn39EoPsDi/4/KPoU=",
+          "cp38"
+        ],
+        "wrtc-0.0.0.dev3-cp38-cp38-win_amd64.whl": [
+          "D1U8jByRNzhWrk3GvLWU3PMXKv2BG0ZJ6610pWG+ZXU=",
+          "cp38"
+        ],
+        "wrtc-0.0.0.dev3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "JZ0Fnuba/L6sR/5qR1sMnCYlMxUh19OLlmCHItvvruI=",
+          "cp39"
+        ],
+        "wrtc-0.0.0.dev3-cp39-cp39-macosx_11_0_arm64.whl": [
+          "JCL7DFO2UWE+z18inHKr9lkyXhfiugdVNH+Rt3J5p+U=",
+          "cp39"
+        ],
+        "wrtc-0.0.0.dev3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "aIm9vFW3iEFsJyryY+skh+rauxpQXb/NheD1pGMpBPM=",
+          "cp39"
+        ],
+        "wrtc-0.0.0.dev3-cp39-cp39-win_amd64.whl": [
+          "tzlz3wdY8UwQ3rZ8h7hfuuIzedREr0ZCA4SVAn74JVQ=",
+          "cp39"
         ]
       }
     }
