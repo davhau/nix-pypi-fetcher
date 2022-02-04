@@ -141,6 +141,18 @@
           "py3"
         ]
       }
+    },
+    "0.13.2": {
+      "sdist": [
+        "hGa5hZ/Y3TLwg0GUh32mpQtw4tSzywlQN31NC3rhepY=",
+        "absfuyu-0.13.2.tar.gz"
+      ],
+      "wheels": {
+        "absfuyu-0.13.2-py3-none-any.whl": [
+          "cdaaUHZ6uBDFnUnx0PP6vZpP1eOLcGiBBXeTMyRkvWg=",
+          "py3"
+        ]
+      }
     }
   },
   "accio": {
@@ -33781,6 +33793,20 @@
       }
     }
   },
+  "eida-embargo-roller": {
+    "0.1.0": {
+      "sdist": [
+        "xG+fOOo4qBEF56v9mTPN4bJAfYelUHZfgLZeI7q5wcA=",
+        "eida_embargo_roller-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "dl6O2KmIDJBsGcPzbOm+oj84C/evZyCeNpvhb6ukOq0=",
+        "eida_embargo_roller-0.1.1.tar.gz"
+      ]
+    }
+  },
   "eje": {
     "0.1.2": {
       "sdist": [
@@ -62222,6 +62248,22 @@
       "wheels": {
         "mknotebooks-0.7.1.post0.dev349-py3-none-any.whl": [
           "GOpkrLQl1T5K3X6GNB947oOTZN5NU6J3UdA6YBqMnS4=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.1.post0.dev351": {
+      "wheels": {
+        "mknotebooks-0.7.1.post0.dev351-py3-none-any.whl": [
+          "AlZy6aodF7Bw9iZm3z5sw/o8oFCyUynBv90uwqLttOA=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.1.post0.dev353": {
+      "wheels": {
+        "mknotebooks-0.7.1.post0.dev353-py3-none-any.whl": [
+          "zvGAObh8N/AloZsqipJO+Law1iF8HQQC4dfSz7Xnv1E=",
           "py3"
         ]
       }
@@ -98047,6 +98089,72 @@
         "ros_get-0.5.0-py2.py3-none-any.whl": [
           "8b7vCmGyv7OhJss8XyhicRkBlYmhwxvXmLNsB2o24FY=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "rostpy": {
+    "0.1.1": {
+      "sdist": [
+        "xVtCJOr/w0bpDm6fhR6YU0jFnHlAX0sd0WeHS0jgMZU=",
+        "rostpy-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "rostpy-0.1.1-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "b4vp77w86MZvdngUIZNHWXFNxkbGlBGrIoSmRG7zCxI=",
+          "cp310"
+        ],
+        "rostpy-0.1.1-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "OdW1FrSrAhzvhDdVy/4vZ6KGJQpgZgcyc9PUGGUVT9I=",
+          "cp310"
+        ],
+        "rostpy-0.1.1-cp310-cp310-musllinux_1_1_i686.whl": [
+          "nAV6mP6w0+4n+EizUFrwoq1Q2jKzvGYSyUkM43UMpCs=",
+          "cp310"
+        ],
+        "rostpy-0.1.1-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "SHDiT6Aa8lhkG+L0z5W9JJh7IDoTfXb8A/PhK2elvbs=",
+          "cp310"
+        ],
+        "rostpy-0.1.1-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "EJXDzvTs0wA+UEZ87h1xW3RdCwIVtX1anO2kyqm+FQ0=",
+          "cp38"
+        ],
+        "rostpy-0.1.1-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "Wo+AQGD1b9zvcZ1ElL5wElFG8qNyjFFSoFG4PNjgYfU=",
+          "cp38"
+        ],
+        "rostpy-0.1.1-cp38-cp38-musllinux_1_1_i686.whl": [
+          "EDcjY//BHNo/FVO6qui0Rd8NbLL+o6NGnrVybZHyZr8=",
+          "cp38"
+        ],
+        "rostpy-0.1.1-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "B3xuKAERulDwTGnhr2vW/wfWhE626Y8RgHvSySDCMH4=",
+          "cp38"
+        ],
+        "rostpy-0.1.1-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "9CXGGlpXD70hd55Jvv82WjQsalBY83JiRtkV+aiP+6Q=",
+          "cp39"
+        ],
+        "rostpy-0.1.1-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "0GkyWBe4FbObby60lCs3pBhF6TFnP7jH9YxjVTPjX7U=",
+          "cp39"
+        ],
+        "rostpy-0.1.1-cp39-cp39-musllinux_1_1_i686.whl": [
+          "1yuDaSdDkNf0kk5ENUSKyDx38gVw9Ub/VAA75+8sAPM=",
+          "cp39"
+        ],
+        "rostpy-0.1.1-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "TLL6W2rDwSGo/UkifT5Hfi+Ux/xctQd2d04NJyJqAio=",
+          "cp39"
+        ],
+        "rostpy-0.1.1-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "QaEkfH8QNWiD6rMVljv4JPlP2n+6eTCck8m+gZ1UgNk=",
+          "pp38"
+        ],
+        "rostpy-0.1.1-pp38-pypy38_pp73-manylinux_2_24_x86_64.whl": [
+          "JuKDKRFzilTXtER/LUUezkNVJvr1GMfBuiFS9DRrN2A=",
+          "pp38"
         ]
       }
     }

@@ -1623,6 +1623,12 @@
         "uT1vYkVg4g4ki3ATobnX6zo3L1UlpQCHmEfXC94lBEQ=",
         "allianceauth-corptools-2.0.9.tar.gz"
       ]
+    },
+    "2.1.1": {
+      "sdist": [
+        "EbAw3+4VQYBg0+WWD+B+GYN2BphOXKI2mtanW8OOZ20=",
+        "allianceauth-corptools-2.1.1.tar.gz"
+      ]
     }
   },
   "almatasks": {
@@ -23294,6 +23300,32 @@
       "wheels": {
         "deepop-0.1.dev0-py3-none-any.whl": [
           "QQm7zQsxAcStNnntZ2WWtox3UKwqBzuPGxEQ4lSLkN4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "demo-pkg-sarikamohan08": {
+    "0.0.1": {
+      "sdist": [
+        "9ykYBXNdDfH+5FNkcAhm/IaWnIVKF9qa0CKIlLhFkyU=",
+        "Demo_pkg-sarikamohan08-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "Demo_pkg_sarikamohan08-0.0.1-py3-none-any.whl": [
+          "SF3/x8Znylh36RCXBZ3cfdDu1lk+L/LHrd+6LFLKwYQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "qcLG6iq3EsvuOQlxi1AdnzrP5I9VCKRdoIGC7E4o7Nc=",
+        "Demo-pkg-sarikamohan08-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "Demo_pkg_sarikamohan08-0.0.2-py3-none-any.whl": [
+          "DDJynI7OcVABS1avgZ9e/dNIn1p6C3Pj3+XUb2UahgM=",
           "py3"
         ]
       }
@@ -53354,46 +53386,14 @@
     }
   },
   "lindo": {
-    "1.0.0": {
-      "wheels": {
-        "lindo-1.0.0-cp37-cp37m-macosx_11_0_x86_64.whl": [
-          "EqiViV+M/K9wYkThTaCDctJSCCeImcf/DY8vRi1KR3I=",
-          "cp37"
-        ],
-        "lindo-1.0.0-cp38-cp38-macosx_11_0_x86_64.whl": [
-          "QNvCidYKQKIpnlZ8EdJYghPX4sveKnBdvmjoNRPbT/E=",
-          "cp38"
-        ],
-        "lindo-1.0.0-cp39-cp39-macosx_11_0_x86_64.whl": [
-          "CfX+N7XbL1ofAWUQd+jqvjHd0qmg7HYVpwGWOcX+szY=",
-          "cp39"
-        ]
-      }
-    },
-    "1.0.1": {
-      "wheels": {
-        "lindo-1.0.1-cp310-cp310-macosx_10_9_universal2.whl": [
-          "wqWVJRhWd6QJIXCcXaZE4AY+nB9gL0ld9jJTN1UJXyk=",
-          "cp310"
-        ],
-        "lindo-1.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "cKB65BK+F2aPrxMarkAfFAInqK4g3mnsFX7jihsM5sg=",
-          "cp37"
-        ],
-        "lindo-1.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "xf/Ko+bCullDkXtU9OuKwHoumrKTIfx2EjeWwQiUqDM=",
-          "cp38"
-        ],
-        "lindo-1.0.1-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "ZTQivOVAdQbr+OLECtSZ3HYZoH2nLLpU3KrK7vwiHfQ=",
-          "cp39"
-        ]
-      }
-    },
     "1.0.2": {
       "wheels": {
         "lindo-1.0.2-cp310-cp310-macosx_10_9_universal2.whl": [
           "xXafobvinfj6e1i5U7mFwD3OidHjLqMPfj5fqBw7Ij8=",
+          "cp310"
+        ],
+        "lindo-1.0.2-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "zLRPPvCPkLfSV0E9YnoITC37UMPBcgf/ILB7v/ofwc0=",
           "cp310"
         ],
         "lindo-1.0.2-cp310-cp310-win_amd64.whl": [
@@ -53408,6 +53408,10 @@
           "TqpMc/YSN9Q8Cb5wa64XeYtwrgxYwX6I0TpT+CbSg30=",
           "cp37"
         ],
+        "lindo-1.0.2-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "TnFr2PUahoSvEUNINn4K/vr23jx3kz5R8soQoHTmkec=",
+          "cp37"
+        ],
         "lindo-1.0.2-cp37-cp37m-win_amd64.whl": [
           "1ckdLgH+IZDw6NXR++cRkpMKQZ+FZC+NvXKUeMBA3CE=",
           "cp37"
@@ -53420,6 +53424,10 @@
           "4nhyz9Ll08YfLUj+dPK9nK+gVDxmXtra3F5t12urJQI=",
           "cp38"
         ],
+        "lindo-1.0.2-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "YFI4sydgjTZL/98GrVFI9GAd4NaLHgTUF2+EnhgE2Pg=",
+          "cp38"
+        ],
         "lindo-1.0.2-cp38-cp38-win_amd64.whl": [
           "3KAPMbykadA/2o8UGIePgJpItSF69Lqm2/0s6C3ULZA=",
           "cp38"
@@ -53430,6 +53438,10 @@
         ],
         "lindo-1.0.2-cp39-cp39-macosx_11_0_x86_64.whl": [
           "SziOrOUrDr8RREeZtloo5714dmr5MmeLhHaVI7Ny+fs=",
+          "cp39"
+        ],
+        "lindo-1.0.2-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "VuZu5sgJ+2wF+o7hNcZ9E5gGFHbjBOAoP23jo2DBaGY=",
           "cp39"
         ],
         "lindo-1.0.2-cp39-cp39-win_amd64.whl": [
