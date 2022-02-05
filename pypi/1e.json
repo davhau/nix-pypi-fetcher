@@ -283,6 +283,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.7": {
+      "sdist": [
+        "YrqH7trlkNrK5Z64uwDVtUd9cMcJpQOY/2H42OVdSn8=",
+        "ace_api-1.0.7.tar.gz"
+      ],
+      "wheels": {
+        "ace_api-1.0.7-py3-none-any.whl": [
+          "+ZwNRepPm+RSrXgbGNrzs0MYsMCFGGScNd+7SpEYQUA=",
+          "py3"
+        ]
+      }
     }
   },
   "activewatch": {
@@ -427,6 +439,12 @@
         "LdWtFVdvRV1YLGaKjxBJ9EAmpQjEEWyoV/RDamQ3rfA=",
         "adafruit-circuitpython-dotstar-2.1.1.tar.gz"
       ]
+    },
+    "2.1.2": {
+      "sdist": [
+        "m7KD0h5jeT5SvPn5eBUfVM5/it+vh2vrnpcN0lJWTxE=",
+        "adafruit-circuitpython-dotstar-2.1.2.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-mma8451": {
@@ -488,6 +506,12 @@
       "sdist": [
         "4wyXzk4DN4+2BaCYCTvRmcTf8ywcJu8G0Xmp+CgRNng=",
         "adafruit-circuitpython-mma8451-1.3.10.tar.gz"
+      ]
+    },
+    "1.3.11": {
+      "sdist": [
+        "U5FayeTG0pKwOWIXbGMqaE5LNmq+IBd9aS2j1ykHWDg=",
+        "adafruit-circuitpython-mma8451-1.3.11.tar.gz"
       ]
     },
     "1.3.2": {
@@ -40033,6 +40057,12 @@
         "XPLKBEC+kYVA9lN39nx4pJFY9MiA4bRBgV9XIky4zAQ=",
         "inmanta-dev-dependencies-2.2.0.tar.gz"
       ]
+    },
+    "2.3.0": {
+      "sdist": [
+        "k37gCVhl1dKOSDj+3jf6SirrwxCdVQPjlD7MnIVdAXs=",
+        "inmanta-dev-dependencies-2.3.0.tar.gz"
+      ]
     }
   },
   "innvariant": {
@@ -67261,6 +67291,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.20220204.0": {
+      "wheels": {
+        "odoo14_addons_oca_sale_workflow-14.0.20220204.0-py3-none-any.whl": [
+          "tZw+qmwI6u2QQupALRzYD4IG6z9agE0QydOJ70dac1U=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo8-addon-crm-rma-stock-location": {
@@ -70678,6 +70716,18 @@
       "wheels": {
         "peanutbutterdatatime-3.4.1rc2-py3-none-any.whl": [
           "CANG68VuD3tuCf76NhQTQ9WTRLmrT+t572zk5flBn4o=",
+          "py3"
+        ]
+      }
+    },
+    "3.4.1rc3": {
+      "sdist": [
+        "unpqhmIRsfdvVQzcn1dHuJnd5HlqbDuElSVLNSne77A=",
+        "peanutbutterdatatime-3.4.1rc3.tar.gz"
+      ],
+      "wheels": {
+        "peanutbutterdatatime-3.4.1rc3-py3-none-any.whl": [
+          "CbP6HxbP5b7LZMfBBRtfCBrmCAf5ZgaYejN+TV0kOK8=",
           "py3"
         ]
       }
@@ -111029,6 +111079,58 @@
           "cp39"
         ]
       }
+    },
+    "0.24.0.dev20220204181652": {
+      "wheels": {
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220204181652-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "1LRwcvEHVeumpqAWG+Pp6vYoOIDpDLIFBPxwKYc3GYo=",
+          "cp310"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220204181652-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "/CQOs10HA0H/QbTFwVP3QNZVyywyqVyQ6EYhBfgPGjY=",
+          "cp310"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220204181652-cp310-cp310-win_amd64.whl": [
+          "YnRBHrETiBxVjZ7sAh45o3uQG8qucjWKfUrI1f1jo9w=",
+          "cp310"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220204181652-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "rMnIB/CLA1WJ6dcCH4NWkXT3YC3yIcgsQQRsavaODRQ=",
+          "cp37"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220204181652-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Nxhp12KjTDcl+T4MFuNOIE7M+Am2LYGVzFLixN5cv9E=",
+          "cp37"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220204181652-cp37-cp37m-win_amd64.whl": [
+          "Ogr/0o794HHuh4G3XTG9QubpbIsMaG99gKRD0HlhwQQ=",
+          "cp37"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220204181652-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "nvlArjgR6SrQZi9ikdUq20tsW+ZfPDZSNQk7nPhYuFk=",
+          "cp38"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220204181652-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "bcGviLxZoGuRbGdUIPn0ZZcbsThrIxVWj+OJWsbYqHA=",
+          "cp38"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220204181652-cp38-cp38-win_amd64.whl": [
+          "GRH3QX4GuXG78BkW9l1YKeiVN738isMc6Ywg86pQt3o=",
+          "cp38"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220204181652-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "o6l0+HXqQAebe2yWkhlmKdrFcPKOtr8Wdhpomk15m4k=",
+          "cp39"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220204181652-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "x3LilvxM4ZTU7Jf+eTGBZPooLnbnSB5/5jGKzNlhTu4=",
+          "cp39"
+        ],
+        "tensorflow_io_gcs_filesystem_nightly-0.24.0.dev20220204181652-cp39-cp39-win_amd64.whl": [
+          "4a/cfe9WupL6JjMbG0CTEOK6P7BShOCytedGJL6a72o=",
+          "cp39"
+        ]
+      }
     }
   },
   "teradatasql": {
@@ -111644,6 +111746,14 @@
       "wheels": {
         "teradatasql-17.10.0.5-py3-none-any.whl": [
           "JKEWl27ROktHqRpywJ5+L+x5dVq8HLM1bOsVzpmVz+I=",
+          "py3"
+        ]
+      }
+    },
+    "17.10.0.6": {
+      "wheels": {
+        "teradatasql-17.10.0.6-py3-none-any.whl": [
+          "NkQDyOfLARw6ZnfhP9j2qmVs6muXSAVTN9EL9Q58xkk=",
           "py3"
         ]
       }
