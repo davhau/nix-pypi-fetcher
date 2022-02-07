@@ -27224,6 +27224,12 @@
         "discrete_fuzzy_operators-1.10.tar.gz"
       ]
     },
+    "1.11": {
+      "sdist": [
+        "0YW8FubMsRF7dbiNkqI6Hdec58JWNz56w4KF6jksBYs=",
+        "discrete_fuzzy_operators-1.11.tar.gz"
+      ]
+    },
     "1.2": {
       "sdist": [
         "vYegkDjCe88NgIgRjnkmh4DSrxY4lU9HlNPY5wdRjrQ=",
@@ -53223,6 +53229,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.20": {
+      "sdist": [
+        "98e9D00r0PBjdU8NfFOc6St3pzy++/DSA6CBqqNVP4A=",
+        "kingjimin-2.1.20.tar.gz"
+      ],
+      "wheels": {
+        "kingjimin-2.1.20-py3-none-any.whl": [
+          "yHsnMh7Fbuy9xS6sEIWKzaRhUjSAKR2QKB0Rh9line0=",
+          "py3"
+        ]
+      }
     }
   },
   "kiwi-apriori": {
@@ -69591,6 +69609,18 @@
           "py3"
         ]
       }
+    },
+    "1.6.1": {
+      "sdist": [
+        "JTinxyqaSU4rdDJsAdj6rRG9EIR8s9JF5KGLTPF7zm8=",
+        "meteostat-1.6.1.tar.gz"
+      ],
+      "wheels": {
+        "meteostat-1.6.1-py3-none-any.whl": [
+          "/sQHbo6AgLFEa/qI9LVb+KyPVXuIan7NjLy6fyXGtlk=",
+          "py3"
+        ]
+      }
     }
   },
   "metric-temporal-logic": {
@@ -76826,6 +76856,30 @@
       "wheels": {
         "OpenFisca_US-0.27.2-py3-none-any.whl": [
           "zfADmO06S2+f9qaVyGtd18m21T6Y5aORgXh9O541/6c=",
+          "py3"
+        ]
+      }
+    },
+    "0.28.0": {
+      "sdist": [
+        "u+9mhTqE3Q32eQRKMMY35lOzL0xVqAQ4hRlIublRp+g=",
+        "OpenFisca-US-0.28.0.tar.gz"
+      ],
+      "wheels": {
+        "OpenFisca_US-0.28.0-py3-none-any.whl": [
+          "TYjEyt/nAgBRKhLboIzAEhhZQoiSLg+KNL2tDiTMUMw=",
+          "py3"
+        ]
+      }
+    },
+    "0.29.0": {
+      "sdist": [
+        "h6/rIM/KjrczCe4mfT5yAYbAXKLi0Acmc8a1OdN+Ou8=",
+        "OpenFisca-US-0.29.0.tar.gz"
+      ],
+      "wheels": {
+        "OpenFisca_US-0.29.0-py3-none-any.whl": [
+          "Aiv/Md2A2cfq7DN6+/kf7y4ZXSV81sU4Y/BJFVdtQyQ=",
           "py3"
         ]
       }
@@ -111163,6 +111217,14 @@
           "py2.py3"
         ]
       }
+    },
+    "2.7.0.dev20220207": {
+      "wheels": {
+        "tf_models_nightly-2.7.0.dev20220207-py2.py3-none-any.whl": [
+          "wzCN8lrD/HQB2JRKxw5Y5vmu+uxAAYX3TOHJgDgZymA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tgext.evolve": {
@@ -120058,6 +120120,58 @@
       "wheels": {
         "txtcn_wiki-0.0.2-py3-none-any.whl": [
           "WgWla932YDubRJ8G9pqsGoffXyP6Ixha7jazke/YMIY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "types-aiobotocore-mediapackage": {
+    "2.1.0": {
+      "sdist": [
+        "c/kpv9ruGN3hFTv75E1xZ4ahEcGQ9SvnyCzLAfFwG6c=",
+        "types-aiobotocore-mediapackage-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_mediapackage-2.1.0-py3-none-any.whl": [
+          "fS17xg0zz0YntJnNYSHJ5oqheFoJNzr5VjE7bxc8c18=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0.post1": {
+      "sdist": [
+        "BTSq41Kxlh4HavvcThCfseLGx56BgMU1bqQr3Nkzerg=",
+        "types-aiobotocore-mediapackage-2.1.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_mediapackage-2.1.0.post1-py3-none-any.whl": [
+          "9Pk28NOuPxPWIFuDdciwGLpdl1oi/c+IDSjtWdqvk64=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "types-aiobotocore-outposts": {
+    "2.1.0": {
+      "sdist": [
+        "mg58NyIEXG9DKOOr0Ss5m5QJYy5n1I9oRVkxy+Gghf8=",
+        "types-aiobotocore-outposts-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_outposts-2.1.0-py3-none-any.whl": [
+          "xYyE+VID6jaBEmFed0NWPTs37ADgb8c+QlaGoUaI8kU=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0.post1": {
+      "sdist": [
+        "QJpRZAkyEx3Nl+VwR3nJTbYh1BEz9cN42xkm0aW8PAA=",
+        "types-aiobotocore-outposts-2.1.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_outposts-2.1.0.post1-py3-none-any.whl": [
+          "aajSuPd5QG+2IaowZ/VAuwLBtgA3CIQW60eWL2+7ris=",
           "py3"
         ]
       }

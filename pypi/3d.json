@@ -66722,6 +66722,12 @@
         "mrtutils-0.2.10.tar.gz"
       ]
     },
+    "0.2.11": {
+      "sdist": [
+        "hJd4QKq8sdlLJ/NSo5vF343W08RC183ryXJZR/wM6KU=",
+        "mrtutils-0.2.11.tar.gz"
+      ]
+    },
     "0.2.2": {
       "sdist": [
         "D9M8fkYMGS758SJDETFj6F56LgfnV5NVEb++PgVHxwk=",
@@ -73511,6 +73517,18 @@
           "py3"
         ]
       }
+    },
+    "1.20.49": {
+      "sdist": [
+        "MfouaA1s1BuxZP8XInaeZ8/p1pbg3DE5hr7dk+hQTkY=",
+        "mypy-boto3-ebs-1.20.49.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ebs-1.20.49-py3-none-any.whl": [
+          "ljY8ddVh3B7Ge26CzsFg6R0Adt6iftWlTjUmNjdLN0U=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-lightsail": {
@@ -79249,6 +79267,18 @@
           "py3"
         ]
       }
+    },
+    "1.20.49": {
+      "sdist": [
+        "Q5e4sWzaMBBkBlOMuuO2mxz+nKzWbW6yuZK9NE4XN9Y=",
+        "mypy-boto3-lightsail-1.20.49.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_lightsail-1.20.49-py3-none-any.whl": [
+          "iIOZS4bGWmNAnNluAmMB+zHLZqkp5Hra1VsNOXmrbvY=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-snow-device-management": {
@@ -80028,6 +80058,18 @@
       "wheels": {
         "mypy_boto3_snow_device_management-1.20.46.post1-py3-none-any.whl": [
           "SHxf2IilVsy9TKx7Rm/dwBVm1xEU6R+irCN2+8P9fOY=",
+          "py3"
+        ]
+      }
+    },
+    "1.20.49": {
+      "sdist": [
+        "v9VKReOfyMBLRCPyhkrOsdBAXiqEW+Y/N6RtMWtZ1Dg=",
+        "mypy-boto3-snow-device-management-1.20.49.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_snow_device_management-1.20.49-py3-none-any.whl": [
+          "obDvuJ3v6xSK2vczF1bRDko2PkjnBuzbzqc88//v2go=",
           "py3"
         ]
       }
@@ -95107,6 +95149,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.8": {
+      "sdist": [
+        "velS7Vcu32OMKMWXiltqbFbIQQDwCifUYFz0YlTnHcU=",
+        "pyckett-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "pyckett-0.0.8-py3-none-any.whl": [
+          "xuCcmdeU1+q7FF8X9I1avvq+oSzmAcOQkkdxg99VpFU=",
+          "py3"
+        ]
+      }
     }
   },
   "pyckip": {
@@ -95652,6 +95706,18 @@
       "wheels": {
         "pydae-0.16-py2.py3-none-any.whl": [
           "99/epga1BOqhVGaljv+HdMZMHoacA+YZJyd5kKJaNjc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.17": {
+      "sdist": [
+        "cDFqyF8pItaFdYRx6GdFmXLjOieIKVjsU6qTZfFN+lY=",
+        "pydae-0.17.tar.gz"
+      ],
+      "wheels": {
+        "pydae-0.17-py2.py3-none-any.whl": [
+          "tezWqqi/3pStnFWgOoOrF9uFjkrwwWGrliz8UUzL0GA=",
           "py2.py3"
         ]
       }
@@ -123564,6 +123630,84 @@
       "wheels": {
         "txsshadmin-0.2.0-py3-none-any.whl": [
           "o5dXFCqQeu/iu15SaOwjkfaA+n0LNb3CxH7bfpN6FT8=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "types-aiobotocore-kinesis-video-archived-media": {
+    "2.1.0": {
+      "sdist": [
+        "FeGlpZUOUARyiWnO944Hjb39Qd9u/ZxM368R+lP03M8=",
+        "types-aiobotocore-kinesis-video-archived-media-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_kinesis_video_archived_media-2.1.0-py3-none-any.whl": [
+          "ji77BL9ALGAc0eVbkgod/ZZEWLmdyn1Eu9c+A9HTYbw=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0.post1": {
+      "sdist": [
+        "ymm5f/2eorkREbr5Vr+tWvi+SQvORbdajxSEkIimc4A=",
+        "types-aiobotocore-kinesis-video-archived-media-2.1.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_kinesis_video_archived_media-2.1.0.post1-py3-none-any.whl": [
+          "/C2xLQVoaI2oCgEEQ3LXRMIdv8BHl7tkZQsXYqApDDY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "types-aiobotocore-logs": {
+    "2.1.0": {
+      "sdist": [
+        "F3YGTQx2Khfgblm+TznHD+TpouDa5Gps9ufrBj3U2Wg=",
+        "types-aiobotocore-logs-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_logs-2.1.0-py3-none-any.whl": [
+          "2KqR4aRF0LSVv9PTJFqF16DYQejH3fgBQOpsdriqnj8=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0.post1": {
+      "sdist": [
+        "w2toAu0+53Ds2TD9E30DeRiP8b7V2oXVjBR+smUVZ6w=",
+        "types-aiobotocore-logs-2.1.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_logs-2.1.0.post1-py3-none-any.whl": [
+          "QFgCaelL1kMdnljrXV53yMwl+9XiZPeHwoqELvWGHtg=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "types-aiobotocore-ssm-contacts": {
+    "2.1.0": {
+      "sdist": [
+        "x8E2qB85gr7KWPowZEYK0F2ahiQijG42FIccS+a4agc=",
+        "types-aiobotocore-ssm-contacts-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_ssm_contacts-2.1.0-py3-none-any.whl": [
+          "NbnSgTjs39RIb4BCEmPkOB/cZyoUKCIahn2XwqHHeLQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0.post1": {
+      "sdist": [
+        "3r7fl1zY45QuZNl/yZMbDE9WVJXETjkNJBHhl2ZTBGc=",
+        "types-aiobotocore-ssm-contacts-2.1.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_ssm_contacts-2.1.0.post1-py3-none-any.whl": [
+          "NyFh5RPQPgkJ3m1QeO6MSJcse+U4mw6cdR/aun/11JQ=",
           "py3"
         ]
       }
