@@ -6835,6 +6835,18 @@
           "py3"
         ]
       }
+    },
+    "1.144.0": {
+      "sdist": [
+        "iLrmwoAOQcUsgEULUIz3Oxy9apHRHI1xxj2BMpVMAfo=",
+        "aws-cdk.aws-refactorspaces-1.144.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_refactorspaces-1.144.0-py3-none-any.whl": [
+          "6LfwuSlVtzDo3WRjdvzSlmmW8LOxp1dOuVa/62ICvWw=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-robomaker": {
@@ -7722,6 +7734,18 @@
       "wheels": {
         "aws_cdk.aws_robomaker-1.143.0-py3-none-any.whl": [
           "ExH8vz3UF9x3a3pOeWI2ZhTKEcLcF6+w04V+uh8Ju3k=",
+          "py3"
+        ]
+      }
+    },
+    "1.144.0": {
+      "sdist": [
+        "85yVs35Mqpp+nXoZ6gfv/+YQJheXqrU9b4DQz4lbVV0=",
+        "aws-cdk.aws-robomaker-1.144.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_robomaker-1.144.0-py3-none-any.whl": [
+          "6GeLqTDCE3ymZfWZPqOjMlrbB8EKpxq875fTU0U90iM=",
           "py3"
         ]
       }
@@ -12274,6 +12298,46 @@
         ],
         "brainome-1.7.89-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
           "OKaxn7WmlBBsjDOkVVaPX0Y/sWVz3GvtDpBGe9zWhAg=",
+          "cp39"
+        ]
+      }
+    },
+    "1.8.120": {
+      "wheels": {
+        "brainome-1.8.120-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "zjVi7IalGY5+E9iJ9OQ0D2DCgklYt0eav8c5E8wMOdg=",
+          "cp37"
+        ],
+        "brainome-1.8.120-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "6QV4OiQA6o/QUywGkFPhMhPOnrK6FUutEEERnk+o8Sw=",
+          "cp37"
+        ],
+        "brainome-1.8.120-cp37-cp37m-win_amd64.whl": [
+          "9oFZV5qR1+kFuyv6QU9I0sX9laNx2Fk4BcaiXdYN9AM=",
+          "cp37"
+        ],
+        "brainome-1.8.120-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "HFWcuxA7QLYiBHYyoFjveVL3b0/PTS1UgXg0S+0R7RQ=",
+          "cp38"
+        ],
+        "brainome-1.8.120-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "TP27YZXfuU+E+OrWXQjbYT1DEvm26z02bRbOIKJd5Is=",
+          "cp38"
+        ],
+        "brainome-1.8.120-cp38-cp38-win_amd64.whl": [
+          "z8Wn/vamaue05uutghvraYoMf49doTlcid6M8SVdMMw=",
+          "cp38"
+        ],
+        "brainome-1.8.120-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "jeGxZdUJscRQO15XZeAIE78VIBeYsQ/GfOdPip4qBO0=",
+          "cp39"
+        ],
+        "brainome-1.8.120-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_24_x86_64.whl": [
+          "hskeZ/FcF8oz5Nxoi9u06XvTltbFl0Jlz1bD2/GGRYM=",
+          "cp39"
+        ],
+        "brainome-1.8.120-cp39-cp39-win_amd64.whl": [
+          "ahzry5iEqvuZ6WWrkANvRJMxFVcZqcfDCekfxiEDH/w=",
           "cp39"
         ]
       }
@@ -33130,6 +33194,14 @@
         ]
       }
     },
+    "0.1.40.dev1": {
+      "wheels": {
+        "finlab-0.1.40.dev1-py3-none-any.whl": [
+          "49elJm87jhV6MiYS03z/XkToKvySYXt6iajxoFyElnA=",
+          "py3"
+        ]
+      }
+    },
     "0.1.5.dev1": {
       "wheels": {
         "finlab-0.1.5.dev1-py3-none-any.whl": [
@@ -49136,29 +49208,17 @@
     }
   },
   "laminar": {
-    "1.1.3": {
+    "2022.1.1": {
       "sdist": [
-        "XUEPFW/Xp7B5oRrQVooqOGsl4bHv6/N+uAbvyOPs8DE=",
-        "laminar-1.1.3.tar.gz"
-      ]
-    },
-    "1.1.4": {
-      "sdist": [
-        "ZGoy0k7aWiFqP3YQx8x71Y362VfZJVa3lGe5h9jiXIM=",
-        "laminar-1.1.4.tar.gz"
-      ]
-    },
-    "1.1.5": {
-      "sdist": [
-        "WLSzRE6XNpYwdfTD22Rym3Yv3OKuh6nY8TW6a7EsEB8=",
-        "laminar-1.1.5.tar.gz"
-      ]
-    },
-    "1.1.6": {
-      "sdist": [
-        "aZtCmnopus5lc3TDD6gFgJ6sBtvQ+q+actmKeWc0IV4=",
-        "laminar-1.1.6.tar.gz"
-      ]
+        "rXlgWcngWaHl8wb9QSPE7HxJoPOWe3baDir9eJE6hTQ=",
+        "laminar-2022.1.1.tar.gz"
+      ],
+      "wheels": {
+        "laminar-2022.1.1-py3-none-any.whl": [
+          "bCEo+0P3V9f00XGd0jn/tlvyjiOeareto47/t0FQzUw=",
+          "py3"
+        ]
+      }
     }
   },
   "latest-earthquake-in-indonesia": {
