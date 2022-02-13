@@ -51345,6 +51345,12 @@
         "r+6H3s9/lYot9s95qUSMJjXtewe9TxyfpTTC5oEQ+Vg=",
         "jf-1.0.7.tar.gz"
       ]
+    },
+    "1.0.8": {
+      "sdist": [
+        "L1J2CSgEfj4eH1SFrxjcSW3p/O7qgOqgkcM4gV7V8r8=",
+        "jf-1.0.8.tar.gz"
+      ]
     }
   },
   "jk-pathpatternmatcher2": {
@@ -66582,6 +66588,12 @@
       "sdist": [
         "ynL/BI0A3VAMUe8kCNR5HJ6Cdcti6wX6AANNqh7s0rg=",
         "MindsDB-22.2.1.2.tar.gz"
+      ]
+    },
+    "22.2.2.0": {
+      "sdist": [
+        "bHM8b9aOanrDMqul39s4YDUYS3ro40BR7gbSox1bGpo=",
+        "MindsDB-22.2.2.0.tar.gz"
       ]
     }
   },
@@ -121571,6 +121583,18 @@
           "py3"
         ]
       }
+    },
+    "3.0": {
+      "sdist": [
+        "CXVbw86263JfsH7KVCX0PyNY078I4A0qm3kqGu3RYVk=",
+        "PyVirtualDisplay-3.0.tar.gz"
+      ],
+      "wheels": {
+        "PyVirtualDisplay-3.0-py3-none-any.whl": [
+          "QNS43+S43oVS4o6zZ2R/MR+IoTC/g3/pEOfxgNVHfw4=",
+          "py3"
+        ]
+      }
     }
   },
   "pywatch-client": {
@@ -133234,6 +133258,30 @@
         ]
       }
     },
+    "0.0.15": {
+      "sdist": [
+        "Xyvs9D6vBO8pfuDHrL8XVi0D70YJQlOGyUsPvH0bP80=",
+        "sliver-py-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "sliver_py-0.0.15-py3-none-any.whl": [
+          "Rh7VxTF8s2W6wZgmOAPkewBTqJeD1kA1SyFj1AOjkWs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.16": {
+      "sdist": [
+        "X0S6Qy4pjdc+0mh0CLKUpxnnrvihX5gUVrukQ7vM+/Y=",
+        "sliver-py-0.0.16.tar.gz"
+      ],
+      "wheels": {
+        "sliver_py-0.0.16-py3-none-any.whl": [
+          "EYJmBzqzo/6wP2U6krTzzXMJW1A5k6qWturDqtUvmIg=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "4kGCP+D/mtEUDDksTKwB5KfQl4Jy5u3dj4ga+JDlebc=",
@@ -142970,6 +143018,58 @@
         ],
         "tf_nightly-2.9.0.dev20220212-cp39-cp39-win_amd64.whl": [
           "vfHcZXqNfA6bKV246Vu4D8Wx1O+Xe9zLZnN3KduvM0w=",
+          "cp39"
+        ]
+      }
+    },
+    "2.9.0.dev20220213": {
+      "wheels": {
+        "tf_nightly-2.9.0.dev20220213-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "LIll66Ua6caDOtRku8MJg3Jz3cIS8LIT4BDhPqN0+Hs=",
+          "cp310"
+        ],
+        "tf_nightly-2.9.0.dev20220213-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "e+7nR4iPdHMuBDFgrALssZ8fWgC4v3wav1A/iK0FeUk=",
+          "cp310"
+        ],
+        "tf_nightly-2.9.0.dev20220213-cp310-cp310-win_amd64.whl": [
+          "VBJVcq3Ha0x7dxBT1PgUQXEKKC9uD4PXKOXkaVsBMAY=",
+          "cp310"
+        ],
+        "tf_nightly-2.9.0.dev20220213-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "rK/4/EIiIW/61KLcLf9MR9XGTZqoJKZ4TcT+roEXf64=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20220213-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "chduAZ3sPJ9oh1Xmbk8EuFXAfFXbBlrdzlzoTr/tA5g=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20220213-cp37-cp37m-win_amd64.whl": [
+          "l2X/Dbxy6rQAinuqspyZpA43L/qrrDCpB3QgfbuhkO8=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20220213-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "N+/l6uMLvBVjdIYOFgEsbWjbJ8SzoYJlTDvWMkYYh1s=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20220213-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "J2sTJ22pac4cGftN5ktXtBN0Y665zjhabCJZ7tH/reg=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20220213-cp38-cp38-win_amd64.whl": [
+          "8uCc76n5WgLBgZ2M8Ts+PO59bcxd5uSKUtRCtsI2U48=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20220213-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "F/agKYKz34EKg/l4Jha1C4930ra8s4BNFNm9kVLlMUI=",
+          "cp39"
+        ],
+        "tf_nightly-2.9.0.dev20220213-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "joN7twg+sfzh22NIYr/srSA5umBqZnrri+BEoR19XYg=",
+          "cp39"
+        ],
+        "tf_nightly-2.9.0.dev20220213-cp39-cp39-win_amd64.whl": [
+          "BJ5F3Y2ks6tQ0lOIqKlEGOeQ0UWcWdwDpOWZcRpCRNs=",
           "cp39"
         ]
       }
