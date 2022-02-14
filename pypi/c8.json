@@ -5635,6 +5635,12 @@
         "CcBhmGvxWs9dzxgL1+chh+cN+auPyobSTSQ614G1m2I=",
         "automl_sphinx_theme-0.1.1.tar.gz"
       ]
+    },
+    "0.1.2": {
+      "sdist": [
+        "IXOKuWhdeAXkza9FOHDItuL8POi7fC6XEmrPJC+Xdz0=",
+        "automl_sphinx_theme-0.1.2.tar.gz"
+      ]
     }
   },
   "autota": {
@@ -16556,6 +16562,18 @@
       "wheels": {
         "BPTK_Py-1.3.9-py3-none-any.whl": [
           "/hOzVRdhwCP7g91d5GElnwc2LFEWiZm3HX+zrEKwwjw=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.0": {
+      "sdist": [
+        "MsLHmiE+GcZyf80+ro6KKXjcgD8/65P4TIOSikRWduE=",
+        "BPTK_Py-1.4.0.tar.gz"
+      ],
+      "wheels": {
+        "BPTK_Py-1.4.0-py3-none-any.whl": [
+          "O17ThTbtkoYc1eZLhQVjAoGtCbQDfN4EKLw/kmeZ6Lc=",
           "py3"
         ]
       }
@@ -49324,17 +49342,33 @@
     },
     "2.8.0": {
       "wheels": {
+        "intel_tensorflow-2.8.0-cp310-cp310-manylinux2010_x86_64.whl": [
+          "m0fqgKtegYDl87ZAvqqwfYyLZ+NeiM+nfWZvWm8IIwM=",
+          "cp310"
+        ],
         "intel_tensorflow-2.8.0-cp310-cp310-win_amd64.whl": [
           "9fTdkCuCQfF1yMpkcuQgQasDIAZJWYE+O7Oj2olQuKU=",
           "cp310"
+        ],
+        "intel_tensorflow-2.8.0-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "jXxg95YO/zoPVy03ASN36/YvDpK9dC9HW5gy0ZV1jLY=",
+          "cp37"
         ],
         "intel_tensorflow-2.8.0-cp37-cp37m-win_amd64.whl": [
           "COD+o3tyHvE6p1FWBszczdxZfh0RNivJzA9vhU4pw5g=",
           "cp37"
         ],
+        "intel_tensorflow-2.8.0-cp38-cp38-manylinux2010_x86_64.whl": [
+          "iqj8/lWfpDVCl8qZUoYMvQd00WBBlldsEIUMZ10OskI=",
+          "cp38"
+        ],
         "intel_tensorflow-2.8.0-cp38-cp38-win_amd64.whl": [
           "rjyKKpKU+y+5EQjwZlDpj4X6sUWk40dLyIcRmhTrScc=",
           "cp38"
+        ],
+        "intel_tensorflow-2.8.0-cp39-cp39-manylinux2010_x86_64.whl": [
+          "Jh/QJWmo2tV7ey8m/Gm4vtg/rnsW8t1uKqFcfjQB0sk=",
+          "cp39"
         ],
         "intel_tensorflow-2.8.0-cp39-cp39-win_amd64.whl": [
           "nyQf0LOZZfmzMXmZ+psxIQL8F709R5Xw+KzdRAruntM=",
@@ -84189,6 +84223,66 @@
           "cp39"
         ]
       }
+    },
+    "1.2.0": {
+      "sdist": [
+        "nbyuU17yOT26Tkyku7U7F21NxGPtQ61zkv6RVnK+9E4=",
+        "ormsgpack-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "ormsgpack-1.2.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "celGnLAcS85d0x0KUPzufsMdZbjyeqNYlRsiWBejHLY=",
+          "cp310"
+        ],
+        "ormsgpack-1.2.0-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "ctM2XZyVh/93a2cOSHJCbs/Hz4mxOZAq47Pqsz9D5Tk=",
+          "cp37"
+        ],
+        "ormsgpack-1.2.0-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "pWniUvxQPyFrjePHbfKL11re+JKz84sTTzQ60DMEchE=",
+          "cp37"
+        ],
+        "ormsgpack-1.2.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XWn0ME9HNo4vV69w32mmefbRg13Q58uzq6uvfiPzGMU=",
+          "cp37"
+        ],
+        "ormsgpack-1.2.0-cp37-none-win_amd64.whl": [
+          "5Bhb/J8XphcTV+AyXVd9aMrU9qKbWciiokwKZnvbTeA=",
+          "cp37"
+        ],
+        "ormsgpack-1.2.0-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "ou6UwnveTrMfeDKNGR3KuaiVubcJXEkGeRAGnqJuLKY=",
+          "cp38"
+        ],
+        "ormsgpack-1.2.0-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "xJaMtb89QmUzfEdRZSZZUzESC+u67NxQQ/9uQaNzE5c=",
+          "cp38"
+        ],
+        "ormsgpack-1.2.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "JvBaeBXOCj+uIs99tWYfArlW5NX1mb2oIrPLRVKpdo0=",
+          "cp38"
+        ],
+        "ormsgpack-1.2.0-cp38-none-win_amd64.whl": [
+          "Hm0z8dcmdQb/fe+750rh04dKIQb3oDrJLEP+abTiUEc=",
+          "cp38"
+        ],
+        "ormsgpack-1.2.0-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "rJ5VcZ3oQ0uVEz8wXjiPVsb7RCKoqgP8ch8f87WDGjk=",
+          "cp39"
+        ],
+        "ormsgpack-1.2.0-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Er99CgGMF+9F6PSqC+3vzVq8nWnAkbF8nM0+A2WfLL8=",
+          "cp39"
+        ],
+        "ormsgpack-1.2.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0RgSJ57HW6yh1hOYneTZF9S+yaeo9Wuib4lKMnHYtCw=",
+          "cp39"
+        ],
+        "ormsgpack-1.2.0-cp39-none-win_amd64.whl": [
+          "XyVvltcDlBoTHdqHl1ZHovrvlqVdiSgfvBOITZbTylE=",
+          "cp39"
+        ]
+      }
     }
   },
   "orochi-python": {
@@ -91044,6 +91138,18 @@
       "wheels": {
         "pls-1.9.2-py3-none-any.whl": [
           "zVzVAfjOgIuG0pCNozyhZIu/t08eaCN4kvijDeNRQHY=",
+          "py3"
+        ]
+      }
+    },
+    "1.9.3": {
+      "sdist": [
+        "ZflD+qCMRvVjgAGtodYvdXOfbmJenL5Cu6fkPr7DN6Y=",
+        "pls-1.9.3.tar.gz"
+      ],
+      "wheels": {
+        "pls-1.9.3-py3-none-any.whl": [
+          "L/sxgGNtS4nmpZTSSXQ63Np4Gih5kVKI/5liPjTeUNc=",
           "py3"
         ]
       }
@@ -115296,6 +115402,18 @@
       "wheels": {
         "thoth_python-0.16.7-py3-none-any.whl": [
           "Eh/NOAWtkT3fcGrPVChXw1EKUJWkSlMZYsL101biWwQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.8": {
+      "sdist": [
+        "/yzdcstotz4xdoUTxLBnbtuNFITtTX3TActWii81ky4=",
+        "thoth-python-0.16.8.tar.gz"
+      ],
+      "wheels": {
+        "thoth_python-0.16.8-py3-none-any.whl": [
+          "7gYWS9QfP3wBHrbCuIMHWYT17cUJ6hx3P6cw4S38hok=",
           "py3"
         ]
       }
