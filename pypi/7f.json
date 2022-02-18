@@ -21292,6 +21292,18 @@
         ]
       }
     },
+    "1.22.57": {
+      "sdist": [
+        "dM51i73pJXe2SIXQ/yGYZSLNd4VsbFBUMolEw/hAGEc=",
+        "awscli-1.22.57.tar.gz"
+      ],
+      "wheels": {
+        "awscli-1.22.57-py3-none-any.whl": [
+          "tdkq2OT+g+zABGtULAkB+BLgYZ5M+fkumjn5zPmZWR8=",
+          "py3"
+        ]
+      }
+    },
     "1.22.6": {
       "sdist": [
         "HBEn8Km2CWisHO4wA1QKuq+bvpwurtOXHjmKZCLgbXk=",
@@ -40206,12 +40218,20 @@
     },
     "1.0.1": {
       "wheels": {
+        "cspy-1.0.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "TCYPvs/PGLZhqGboNDs+ZMpWULKSGPrRnFjNP7GkiEw=",
+          "cp310"
+        ],
         "cspy-1.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Ac/UflenzsvdEG5REikkuNhs/NKPQlX/tEYUxnhcekk=",
           "cp310"
         ],
         "cspy-1.0.1-cp36-cp36m-macosx_10_15_x86_64.whl": [
           "YzwpiAddZPgvtuMUbGU+lHrTjxR/+OhdVH0wO3FiYiE=",
+          "cp36"
+        ],
+        "cspy-1.0.1-cp36-cp36m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "GZZbex7VHF8UtestKOfDNMH8geRQRnBNvQ9j7UjY118=",
           "cp36"
         ],
         "cspy-1.0.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -40226,6 +40246,10 @@
           "KwZIzG++lutbJMa9aNym05B6v3Bk4r7FdLeG5KFddpo=",
           "cp37"
         ],
+        "cspy-1.0.1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Grkk67YkPnjX2K/ICraQM3DmQpACIrCQd4Ww6k+BAlw=",
+          "cp37"
+        ],
         "cspy-1.0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "VD34x+mMVT/V1CspWDYRHlhe/4C22ZkmXM4ivRf+B2w=",
           "cp37"
@@ -40236,6 +40260,10 @@
         ],
         "cspy-1.0.1-cp38-cp38-macosx_10_15_x86_64.whl": [
           "4AVcGov1WPGGnRH/X8pfE35WQ5k/4r13OnAwhTtfGa0=",
+          "cp38"
+        ],
+        "cspy-1.0.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "01EO287O4YJ3jWknUpCmEFj2QDHQSTXzT3jngLLSyNU=",
           "cp38"
         ],
         "cspy-1.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -40252,6 +40280,10 @@
         ],
         "cspy-1.0.1-cp39-cp39-macosx_11_0_x86_64.whl": [
           "4xvvhwse2vjMIgEMeA4IqlqrNvRAP7+E5estecVVd6E=",
+          "cp39"
+        ],
+        "cspy-1.0.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "TLfhX+2yaovYnL/OleyRVPOpW690B5xcj0RVwtl7elM=",
           "cp39"
         ],
         "cspy-1.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -96725,6 +96757,14 @@
           "cp39"
         ]
       }
+    },
+    "3.25.8": {
+      "wheels": {
+        "pyfaust_torch-3.25.8-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "YdpBKKAoENSNsZqibL01kI/YwaLGpinnsiWR9UdgmeE=",
+          "cp39"
+        ]
+      }
     }
   },
   "pyflowgraph-qo": {
@@ -111732,6 +111772,30 @@
       "wheels": {
         "sparkgeo_awscdk_construct_lib-0.0.5-py3-none-any.whl": [
           "dTv4LEzp9rv/aUCUAvCTSM40r3urLT9rEWE3W/mbPpo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "U2uTUGuscjHCVvDxhoxX0M6EmQb7Msm/uKrJX7rPsE4=",
+        "sparkgeo_awscdk_construct_lib-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "sparkgeo_awscdk_construct_lib-0.0.6-py3-none-any.whl": [
+          "sXxQaTWBya/E1F3yp/Eiegu60OtwNdrzPpkEBJrn4Hw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.7": {
+      "sdist": [
+        "zZtQOBkzxf7rIhpmgWR5COtQ8+tjsMV2Tg1iYENfrhs=",
+        "sparkgeo_awscdk_construct_lib-0.0.7.tar.gz"
+      ],
+      "wheels": {
+        "sparkgeo_awscdk_construct_lib-0.0.7-py3-none-any.whl": [
+          "60Qi15y0AAp7aXYLE02ToCpZA6kB+e/yL7zrcJGmrP8=",
           "py3"
         ]
       }
