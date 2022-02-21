@@ -5483,6 +5483,18 @@
           "py3"
         ]
       }
+    },
+    "3.7.0": {
+      "sdist": [
+        "OYPEbRc+aBpdX01pGsx7gPZUdzKHVTi7h7Qc8yTDS8o=",
+        "approvaltests-3.7.0.tar.gz"
+      ],
+      "wheels": {
+        "approvaltests-3.7.0-py3-none-any.whl": [
+          "OcwlZbqdh/UGv+NguJOvFSttvAx01DvUOd+DAFmQC9g=",
+          "py3"
+        ]
+      }
     }
   },
   "aprsjson": {
@@ -25267,6 +25279,32 @@
       }
     }
   },
+  "criptam": {
+    "1.0b1": {
+      "sdist": [
+        "du9kMNwzSU43N9Taehi1vxb8EojSzpcHOgmMbtYWB5o=",
+        "criptam-1.0b1.tar.gz"
+      ],
+      "wheels": {
+        "criptam-1.0b1-py3-none-any.whl": [
+          "ipExH4f0SaUrSZKbn9+ktOiNFqFtAmCPoEs9hQ4jono=",
+          "py3"
+        ]
+      }
+    },
+    "1.0b2": {
+      "sdist": [
+        "Ldy/BqJkbXTncy9zQjN4MyQHdoS/kfPe7mDSBRkch3Q=",
+        "criptam-1.0b2.tar.gz"
+      ],
+      "wheels": {
+        "criptam-1.0b2-py3-none-any.whl": [
+          "V8NnGjd8HAJQoyL0tK96uCeZ3YIVtueeOhdDZV/q3aU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "crowfood": {
     "0.1.0": {
       "sdist": [
@@ -25842,78 +25880,6 @@
         ],
         "cupy_cuda113-10.0.0-cp39-cp39-win_amd64.whl": [
           "i1kEZNA4gurHBoxf7BhrBjsZonNun401q+tTbpsW85M=",
-          "cp39"
-        ]
-      }
-    },
-    "10.0.0a2": {
-      "wheels": {
-        "cupy_cuda113-10.0.0a2-cp36-cp36m-manylinux1_x86_64.whl": [
-          "XTC2sCloStd9QNT3Pz35/NGxxTC4k9Yb2W6CDuoPI1c=",
-          "cp36"
-        ],
-        "cupy_cuda113-10.0.0a2-cp36-cp36m-win_amd64.whl": [
-          "B3mJpMWlF8QnSu1oRaFpIvwl+vOZ1E7w+hfdXEysCwc=",
-          "cp36"
-        ],
-        "cupy_cuda113-10.0.0a2-cp37-cp37m-manylinux1_x86_64.whl": [
-          "zKsbraIOQeTwTRpyNvZcYgtBhgPMY/fMvv7OwPVJw88=",
-          "cp37"
-        ],
-        "cupy_cuda113-10.0.0a2-cp37-cp37m-win_amd64.whl": [
-          "1raXeaHMhaWLOp5nty0DzziBsGmQtNaaJWdQkREey/k=",
-          "cp37"
-        ],
-        "cupy_cuda113-10.0.0a2-cp38-cp38-manylinux1_x86_64.whl": [
-          "FsK9dEnQCtQGA0nR2Masj05+o0Gk48yCfsrvpMF4K/A=",
-          "cp38"
-        ],
-        "cupy_cuda113-10.0.0a2-cp38-cp38-win_amd64.whl": [
-          "wRe9BduhkfVaE2ghDVrtKvXKdL/xQsx81JWZDb+LW8g=",
-          "cp38"
-        ],
-        "cupy_cuda113-10.0.0a2-cp39-cp39-manylinux1_x86_64.whl": [
-          "/3gIKSxodcDL/8H1lQCQ004mjcxxOwXLM5LYf5xLpI8=",
-          "cp39"
-        ],
-        "cupy_cuda113-10.0.0a2-cp39-cp39-win_amd64.whl": [
-          "ojAxzoWfbOEXvbLxYjRGdjcix62Mia+OzzdJT1Jb1tg=",
-          "cp39"
-        ]
-      }
-    },
-    "10.0.0b1": {
-      "wheels": {
-        "cupy_cuda113-10.0.0b1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "xLk2mIpCZBSvAl6vs8/3tRuHxrO16QZvlyMeCjNaoxk=",
-          "cp36"
-        ],
-        "cupy_cuda113-10.0.0b1-cp36-cp36m-win_amd64.whl": [
-          "dq7l+J3qnMw4ovsCLexSd+VTBUun28FHhxil3WUipc4=",
-          "cp36"
-        ],
-        "cupy_cuda113-10.0.0b1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "J1sxt1EgVzpUBIRR0TPOkiQufTWVTduYuUGBfnA3hg4=",
-          "cp37"
-        ],
-        "cupy_cuda113-10.0.0b1-cp37-cp37m-win_amd64.whl": [
-          "OrK99LnaJ6+gCoGqvpqGr3tVvV4hFPt7yHCMyBZT0fs=",
-          "cp37"
-        ],
-        "cupy_cuda113-10.0.0b1-cp38-cp38-manylinux1_x86_64.whl": [
-          "ea57TMl22Fuz9I7ESsRcTPFk5xw7jz+c5FPr6MV9MfE=",
-          "cp38"
-        ],
-        "cupy_cuda113-10.0.0b1-cp38-cp38-win_amd64.whl": [
-          "yMZ4KnkIjRMlJn8iz05gLf5dX58AL5IV+Hpgj7orv1M=",
-          "cp38"
-        ],
-        "cupy_cuda113-10.0.0b1-cp39-cp39-manylinux1_x86_64.whl": [
-          "QK5t5VOi4lNYC54drXeOcqoRsmw4kwQ+nK98Z0Bqfkc=",
-          "cp39"
-        ],
-        "cupy_cuda113-10.0.0b1-cp39-cp39-win_amd64.whl": [
-          "Eg8p2UQubn0z5aq+1VTLeYFzs55rqBCF9vxhIRx350E=",
           "cp39"
         ]
       }
@@ -57132,6 +57098,30 @@
       "wheels": {
         "fhempy-0.1.246-py3-none-any.whl": [
           "9maE2yRdtHzI+NO7JAPF6AXe+b0QLkcJrGXaNbBYaQs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.247": {
+      "sdist": [
+        "h1RdYheM8sovpLeMXicuPBDYIH7ipXBLaCo3kL310iQ=",
+        "fhempy-0.1.247.tar.gz"
+      ],
+      "wheels": {
+        "fhempy-0.1.247-py3-none-any.whl": [
+          "grYfFyRXVNWNW7n3PRrJeJ5kB3eo0d9BT2pR65xIJzw=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.248": {
+      "sdist": [
+        "OM7kn2SjKxzqxcQgKGeje7K7WP/mxxHdvHcPb+fMQ54=",
+        "fhempy-0.1.248.tar.gz"
+      ],
+      "wheels": {
+        "fhempy-0.1.248-py3-none-any.whl": [
+          "LmlixBZs/bLGUayrnxcddeu/c6JwcgG6THwkfVvhQVk=",
           "py3"
         ]
       }
@@ -128641,6 +128631,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.584": {
+      "sdist": [
+        "VdhWbewtHNapMYc+bKY7JyJOEaear0aI1/MnascHGq4=",
+        "tencentcloud-sdk-python-bri-3.0.584.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_bri-3.0.584-py2.py3-none-any.whl": [
+          "0inYdy3BEMO1e4mWNSQlUhGba9iNiOrwWtPY448Uhwk=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-tcm": {
@@ -129372,6 +129374,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tcm-3.0.583-py2.py3-none-any.whl": [
           "ykV8dHVQBs4O3MQhto5kPysgeFCSQXtIBXlucM5JZH8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.584": {
+      "sdist": [
+        "XbZCcalW+Dc+odBpsqIA/ZdFCVxxS8J1QlJ4hSg5hxU=",
+        "tencentcloud-sdk-python-tcm-3.0.584.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tcm-3.0.584-py2.py3-none-any.whl": [
+          "N7v35RhOMF82rVCGQc+Va6iGH49FxJ0aAOn7vR6AVZg=",
           "py2.py3"
         ]
       }
@@ -132314,6 +132328,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tsw-3.0.583-py2.py3-none-any.whl": [
           "bObEzDaZYC7gYG5ti+cLpdTHB1S/dvwdVQbBCJAnW6w=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.584": {
+      "sdist": [
+        "zeloYRRH3+i2cyQBiXlFyPb3mvuABhtMfzwDnKPH0DE=",
+        "tencentcloud-sdk-python-tsw-3.0.584.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tsw-3.0.584-py2.py3-none-any.whl": [
+          "YLmXjMqSBrb4DXbYNbKLJ1WHpcVfzBzvB6ie3g12FLk=",
           "py2.py3"
         ]
       }

@@ -2015,6 +2015,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.6": {
+      "sdist": [
+        "z/dY0Pax4JoE0r1tqbo0MN1gAyw8OTWebUHhlPIQ+PE=",
+        "alibabacloud_cdn20180510-1.0.6.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_cdn20180510-1.0.6-py3-none-any.whl": [
+          "3G7TyqTMzEJOuo0zbK9QvhyeqKIRbc5PqHurjyDpDmw=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-credentials": {
@@ -29706,42 +29718,6 @@
     }
   },
   "cupy-cuda92": {
-    "10.0.0a1": {
-      "wheels": {
-        "cupy_cuda92-10.0.0a1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "9CDnR6G5AI6j0Tn5Onpf4vC6JX+FrgvqtZ21zhBvz3A=",
-          "cp36"
-        ],
-        "cupy_cuda92-10.0.0a1-cp36-cp36m-win_amd64.whl": [
-          "itDFMN1WkGTimIDOSf/32iwQL+DHsdu6PUnk7PfdZ9Y=",
-          "cp36"
-        ],
-        "cupy_cuda92-10.0.0a1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "ghhu8qbsf4kXhQe8tPHHBx7gfAL8Hl9GAsY1ft12oKc=",
-          "cp37"
-        ],
-        "cupy_cuda92-10.0.0a1-cp37-cp37m-win_amd64.whl": [
-          "96Un1DWmO5FJTNKDsQMhhfHyoKIWP7wHfWkBUWkJ9lM=",
-          "cp37"
-        ],
-        "cupy_cuda92-10.0.0a1-cp38-cp38-manylinux1_x86_64.whl": [
-          "8mB8UUCWNbAiDgegPrSCKQTrZ68bnhHpal8qn7S15ao=",
-          "cp38"
-        ],
-        "cupy_cuda92-10.0.0a1-cp38-cp38-win_amd64.whl": [
-          "vrmic+4aj6UjpnHnqKyqh/ckYYFoot9RFulIV67zk3c=",
-          "cp38"
-        ],
-        "cupy_cuda92-10.0.0a1-cp39-cp39-manylinux1_x86_64.whl": [
-          "lt8HhxskxugwTLEtcMRkG95b9xYaaRsxOMOOXdi4+tc=",
-          "cp39"
-        ],
-        "cupy_cuda92-10.0.0a1-cp39-cp39-win_amd64.whl": [
-          "hx6+3kSLW+jRt/BgiPc7VnVDhJNPafOlfIc+zDPuMfs=",
-          "cp39"
-        ]
-      }
-    },
     "4.2.0": {
       "wheels": {
         "cupy_cuda92-4.2.0-cp27-cp27mu-manylinux1_x86_64.whl": [
@@ -30874,182 +30850,6 @@
         ],
         "cupy_cuda92-9.0.0-cp39-cp39-win_amd64.whl": [
           "4Z+Hay+0EsM8Vt7FIYqUTpItm8zNP0aTK9QMOuv28xc=",
-          "cp39"
-        ]
-      }
-    },
-    "9.0.0a1": {
-      "wheels": {
-        "cupy_cuda92-9.0.0a1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "+OjAf1NLWF48TQvApJUa/zrofxIGj472MSxDKHkjiW8=",
-          "cp35"
-        ],
-        "cupy_cuda92-9.0.0a1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "tDj1quL2+J7EJAsmBEuhzDe1eqY34KhS6doNfSfVuvo=",
-          "cp36"
-        ],
-        "cupy_cuda92-9.0.0a1-cp36-cp36m-win_amd64.whl": [
-          "SU7IJ9NNqui7sU2BMBbZRScqavp1DJg+I0ZeSLukvzc=",
-          "cp36"
-        ],
-        "cupy_cuda92-9.0.0a1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "Ha3TLtlVmEvbxKPn9O9SZuTtRhWzKj+Y9wNlyxmznVA=",
-          "cp37"
-        ],
-        "cupy_cuda92-9.0.0a1-cp37-cp37m-win_amd64.whl": [
-          "P0S6m/pk4DVZZeeD7CoZ1UDSyIHh5ubShWxqisq16Js=",
-          "cp37"
-        ],
-        "cupy_cuda92-9.0.0a1-cp38-cp38-manylinux1_x86_64.whl": [
-          "rNlJLWZeJQVpt3ZH0w9nlOBzcdmWi1V9YhBLN0rX29A=",
-          "cp38"
-        ],
-        "cupy_cuda92-9.0.0a1-cp38-cp38-win_amd64.whl": [
-          "kQMmvaxC4vKEx7vsxtaZz6M8vmoocW50wKMshPgvWb0=",
-          "cp38"
-        ]
-      }
-    },
-    "9.0.0a2": {
-      "wheels": {
-        "cupy_cuda92-9.0.0a2-cp36-cp36m-manylinux1_x86_64.whl": [
-          "8uot5cvqXeuCbz8vxEwo7jwA/Ppnnqmk0dUN7XXH338=",
-          "cp36"
-        ],
-        "cupy_cuda92-9.0.0a2-cp37-cp37m-manylinux1_x86_64.whl": [
-          "6nD5rEJC2YrbYuSkrmDGYD3X1klPwO8kNZ0LwX2gouA=",
-          "cp37"
-        ],
-        "cupy_cuda92-9.0.0a2-cp38-cp38-manylinux1_x86_64.whl": [
-          "8zHjqnc5LYvLReQstDAkkOm7FeSkPKs3dp0X7LDA3NA=",
-          "cp38"
-        ]
-      }
-    },
-    "9.0.0b1": {
-      "wheels": {
-        "cupy_cuda92-9.0.0b1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "Dhxf/yaQDmKgA5RH910z4QQyhanSqbF5MD89LVkZUw4=",
-          "cp36"
-        ],
-        "cupy_cuda92-9.0.0b1-cp36-cp36m-win_amd64.whl": [
-          "lD8iYT7wbtsdFShRTzjVMOycDpFy/0R4ZxJ/9PLFspk=",
-          "cp36"
-        ],
-        "cupy_cuda92-9.0.0b1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "nKD0Rm7rcztNz5XA0hL/uKUk/P2PLoBSQ8K9ofl0k6w=",
-          "cp37"
-        ],
-        "cupy_cuda92-9.0.0b1-cp37-cp37m-win_amd64.whl": [
-          "5PojOci5BlrSxErHaVBmqE1SBTO9FXCtlzs5s4IvKh4=",
-          "cp37"
-        ],
-        "cupy_cuda92-9.0.0b1-cp38-cp38-manylinux1_x86_64.whl": [
-          "9HfdlwP8nB38UE3lJCHwWFcZHPnJSCxBPfLe41UIueM=",
-          "cp38"
-        ],
-        "cupy_cuda92-9.0.0b1-cp38-cp38-win_amd64.whl": [
-          "NYIbn8jWMgAK0x00GVwGzymqJxBvzW2UZYGtbHLRRsQ=",
-          "cp38"
-        ]
-      }
-    },
-    "9.0.0b2": {
-      "wheels": {
-        "cupy_cuda92-9.0.0b2-cp36-cp36m-manylinux1_x86_64.whl": [
-          "sDYlXdeG+YmSw7x2YkuXXFbZFe3X3AKQQDfz0jSpkFk=",
-          "cp36"
-        ],
-        "cupy_cuda92-9.0.0b2-cp36-cp36m-win_amd64.whl": [
-          "3p8+hsMFxi6Hm9pERoGPDAMn6kwWQUC8T7neekeDf/8=",
-          "cp36"
-        ],
-        "cupy_cuda92-9.0.0b2-cp37-cp37m-manylinux1_x86_64.whl": [
-          "ynHzvkTTBnE0TH4J6rFPCsvvy5yy8nrSoEL5AJRb3NA=",
-          "cp37"
-        ],
-        "cupy_cuda92-9.0.0b2-cp37-cp37m-win_amd64.whl": [
-          "pcB2oCJ5vA8Lzz3pxLuaKMRvqjpwef7ur0YyIhUO0Mo=",
-          "cp37"
-        ],
-        "cupy_cuda92-9.0.0b2-cp38-cp38-manylinux1_x86_64.whl": [
-          "rHKcLw44i1WEg8vVewIqPuPOtvvWLEqX7HfBK2PdI5o=",
-          "cp38"
-        ],
-        "cupy_cuda92-9.0.0b2-cp38-cp38-win_amd64.whl": [
-          "L32ruXEJAr0+9SRcNj++nRjsZpQ9cQ5nU3K9ao09ldw=",
-          "cp38"
-        ]
-      }
-    },
-    "9.0.0b3": {
-      "wheels": {
-        "cupy_cuda92-9.0.0b3-cp36-cp36m-manylinux1_x86_64.whl": [
-          "+3dnM3LT4k248MjyvAy62uTVrcGFpVFw4IyufPpC4AQ=",
-          "cp36"
-        ],
-        "cupy_cuda92-9.0.0b3-cp36-cp36m-win_amd64.whl": [
-          "+AMl7QdXvmUfsxMVpIkDQ6/OosCjileAiit8dUB54qg=",
-          "cp36"
-        ],
-        "cupy_cuda92-9.0.0b3-cp37-cp37m-manylinux1_x86_64.whl": [
-          "p4pvLLmY5RKe2APBhTi4pNkATGYOs8rMA55OyM/0rso=",
-          "cp37"
-        ],
-        "cupy_cuda92-9.0.0b3-cp37-cp37m-win_amd64.whl": [
-          "sSQBtIiNbAIkXBNt1kNSD87B2uopYtYSnh7sm9iQNBg=",
-          "cp37"
-        ],
-        "cupy_cuda92-9.0.0b3-cp38-cp38-manylinux1_x86_64.whl": [
-          "V50zgNlPzXgr6l8ICtkzy6RFC3Ld2sUVX3MPYhpjc3w=",
-          "cp38"
-        ],
-        "cupy_cuda92-9.0.0b3-cp38-cp38-win_amd64.whl": [
-          "lFO/pOYBZHYzmoOvXlpwDnm8blXGBCFXt6f4i5SkOF8=",
-          "cp38"
-        ],
-        "cupy_cuda92-9.0.0b3-cp39-cp39-manylinux1_x86_64.whl": [
-          "fv59UylK1Sm8sIwztO8Y5aqbfkgVEj/Ty8kg4Y8EUNU=",
-          "cp39"
-        ],
-        "cupy_cuda92-9.0.0b3-cp39-cp39-win_amd64.whl": [
-          "23eiT1ft+9fluXgFOw8X2ngW15xEq8nFT/H4UR7mQbQ=",
-          "cp39"
-        ]
-      }
-    },
-    "9.0.0rc1": {
-      "wheels": {
-        "cupy_cuda92-9.0.0rc1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "kNflvEdXcLG8NtX8Ff0WsWFRh0Qp3zGCtXxPv4TDFhA=",
-          "cp36"
-        ],
-        "cupy_cuda92-9.0.0rc1-cp36-cp36m-win_amd64.whl": [
-          "WfC85Mb93OF8L5SVTjIB8eFFFpdsZe5umoAr+x6IDOs=",
-          "cp36"
-        ],
-        "cupy_cuda92-9.0.0rc1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "SHplh/DwU4AA0C+txI/ewtDqfC2Cy1mVV3y9bo1n4bg=",
-          "cp37"
-        ],
-        "cupy_cuda92-9.0.0rc1-cp37-cp37m-win_amd64.whl": [
-          "ERQ8dAzHkLpBN7bphA1Xn+2e0WahMrhswStJ1xtRQFE=",
-          "cp37"
-        ],
-        "cupy_cuda92-9.0.0rc1-cp38-cp38-manylinux1_x86_64.whl": [
-          "UF8+HIS8IIWFTI98AZSQ1YfHVXsiS7+YUphynVDQ/dc=",
-          "cp38"
-        ],
-        "cupy_cuda92-9.0.0rc1-cp38-cp38-win_amd64.whl": [
-          "sq5orVEbwIjBNStgaGeZdM8+v3xNqn8Y2g5/UPBsHXM=",
-          "cp38"
-        ],
-        "cupy_cuda92-9.0.0rc1-cp39-cp39-manylinux1_x86_64.whl": [
-          "kp8sVSs8kFjrb5Ml5Vky8eWzfXMA1Gkd19cGmR1CoBA=",
-          "cp39"
-        ],
-        "cupy_cuda92-9.0.0rc1-cp39-cp39-win_amd64.whl": [
-          "8vFQ0WRnqRVPc7GXhXqTNr8fiwEtmHZRCe1YPEByjcc=",
           "cp39"
         ]
       }
@@ -100817,6 +100617,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.2": {
+      "sdist": [
+        "uPT6+W7e/CUvHMa1tkS8H31OOvvRUuBjfS026YAXDvs=",
+        "pycardano-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "pycardano-0.1.2-py3-none-any.whl": [
+          "6cZDhMm/dZkldek1/8GQuuS/PCM4iozwLuQuLA09oxc=",
+          "py3"
+        ]
+      }
     }
   },
   "pycash": {
@@ -102950,6 +102762,18 @@
       "wheels": {
         "pyjjasim-2.2.10-py3-none-any.whl": [
           "+7c7C8eA8zQ16fIZ/RO0Sni8aocrwEPg3cm8OdsrZZ4=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.11": {
+      "sdist": [
+        "3x9gDYIny1zlc60cn8+LYiKJh6FIHmHMx4SRnTRJ1ls=",
+        "pyjjasim-2.2.11.tar.gz"
+      ],
+      "wheels": {
+        "pyjjasim-2.2.11-py3-none-any.whl": [
+          "2+Sq6MAh0c9NRlnYQOyd+0klf70bfSaeqc1yAioY89Q=",
           "py3"
         ]
       }
@@ -119604,78 +119428,6 @@
         ]
       }
     },
-    "0.4.0rc0": {
-      "sdist": [
-        "ra7SynaHV3keoH5AtOO5T1gk9gQ5EFdT4Vc4R19jujM=",
-        "subarulink-0.4.0rc0.tar.gz"
-      ],
-      "wheels": {
-        "subarulink-0.4.0rc0-py3-none-any.whl": [
-          "YIDoHjfvNctUc9Cdjen3FnlVTvGPQQE/IA1+5kuyf/I=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0rc1": {
-      "sdist": [
-        "0e1eDPu/0/BgRFBWBlLnlqS91MTaC9rF6pDlWdGXu3M=",
-        "subarulink-0.4.0rc1.tar.gz"
-      ],
-      "wheels": {
-        "subarulink-0.4.0rc1-py3-none-any.whl": [
-          "QQIVBVhc6OdH5nbt6ZvjKgZ5zy7I/qLbdMviIhHMYC0=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0rc2": {
-      "sdist": [
-        "YM8K4YQQUUse743Z1ItH0exOFXfpPXBKZQ/6jszKynI=",
-        "subarulink-0.4.0rc2.tar.gz"
-      ],
-      "wheels": {
-        "subarulink-0.4.0rc2-py3-none-any.whl": [
-          "/Ry8Ie74Uqc97aZtrKnPW0/LNJmw6ea8VT8sYVQd21c=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0rc3": {
-      "sdist": [
-        "zkkkpVNq7XX9m9esd6Z9X3R39F47fGG80Mv5HcqN3v8=",
-        "subarulink-0.4.0rc3.tar.gz"
-      ],
-      "wheels": {
-        "subarulink-0.4.0rc3-py3-none-any.whl": [
-          "PmjHcDRneVjpgQnkQ9z713vL10BF/sO5JsxRXcAGYc0=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0rc4": {
-      "sdist": [
-        "WA+OYNvzHWSG703YnAOm3P5j7GATGTfC70DC+U+ZGCY=",
-        "subarulink-0.4.0rc4.tar.gz"
-      ],
-      "wheels": {
-        "subarulink-0.4.0rc4-py3-none-any.whl": [
-          "85GTsRRfs8GvvvD2/Mm2wJ5wOJ3lbqzMCuiArgkdDe4=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0rc5": {
-      "sdist": [
-        "uJkkjwpM9hryS9huBxLW7bIJyEV0VEkP2+QHmhr8MDc=",
-        "subarulink-0.4.0rc5.tar.gz"
-      ],
-      "wheels": {
-        "subarulink-0.4.0rc5-py3-none-any.whl": [
-          "ZVCH0YJx9UuD4jX/yUMTsRKvgKLcjXvXn9SSgOZUYMU=",
-          "py3"
-        ]
-      }
-    },
     "0.4.1": {
       "sdist": [
         "K0602zpGd6qtZH+/rRHh/5UHGPfPPr0EDw/oRRuz9FA=",
@@ -119708,6 +119460,18 @@
       "wheels": {
         "subarulink-0.4.3-py3-none-any.whl": [
           "qKu1f0SDrgSdAE+aNgDmqZOnhvFep2kAubXI9pW+OkE=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.4.dev0": {
+      "sdist": [
+        "l2pmMBaCOT7rqnzfB2zqjlTAyl04v8g7+DKqlI4WUr0=",
+        "subarulink-0.4.4.dev0.tar.gz"
+      ],
+      "wheels": {
+        "subarulink-0.4.4.dev0-py3-none-any.whl": [
+          "fDBm+PNlL+sA77SCZToKuq7ppXtkug4ODBrFXUZ+4pg=",
           "py3"
         ]
       }
@@ -126271,6 +126035,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.584": {
+      "sdist": [
+        "PPSSu0CP6OKXVT1UgSmU7iVXZDNHlZJtAmAqHzRrnho=",
+        "tencentcloud-sdk-python-ms-3.0.584.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ms-3.0.584-py2.py3-none-any.whl": [
+          "kQWnPZ0jT7CVvSoPHbGBMSCNvmoQQcms8dB5XN0VJJE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-tbm": {
@@ -130254,6 +130030,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tbm-3.0.583-py2.py3-none-any.whl": [
           "a06v49fMB9dVVoiIFNHGWym2UTg30Wsii2R8W+BozA4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.584": {
+      "sdist": [
+        "AaoptGj+8MA6mEd2zKg/E09PVMh71WYZ9OoAy8j5gBM=",
+        "tencentcloud-sdk-python-tbm-3.0.584.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tbm-3.0.584-py2.py3-none-any.whl": [
+          "L+FOPQeLM07dl+W7hjcleGBktpOicbPn0FpTEj+/SOg=",
           "py2.py3"
         ]
       }
