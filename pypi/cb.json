@@ -53638,6 +53638,12 @@
         "idds-client-0.10.1.tar.gz"
       ]
     },
+    "0.10.2": {
+      "sdist": [
+        "CcdprQ3fKyuDcJZphyvVH7+4L1FGMh9SkBbJQ3+AbLY=",
+        "idds-client-0.10.2.tar.gz"
+      ]
+    },
     "0.2.0": {
       "sdist": [
         "FUHJ0taOEs8dS1JYrf/CV3y832Lo7CHdtysrtXhiWV0=",
@@ -64786,14 +64792,14 @@
     }
   },
   "mbundle1": {
-    "0.1.2": {
+    "0.1.4": {
       "sdist": [
-        "Oijb1lG3N9whC/wFHHhlINtsDVRxRdTrMuqc/mZL/2o=",
-        "mbundle1-0.1.2.tar.gz"
+        "vobLMUKqUa6gkLE5AP2H4z8qkRf9ZGP483d9Spgfo5w=",
+        "mbundle1-0.1.4.tar.gz"
       ],
       "wheels": {
-        "mbundle1-0.1.2-py3-none-any.whl": [
-          "v6qtTHqvc5YCgt0IhR/v+abtKbWRsUsGIt84kkVtc1A=",
+        "mbundle1-0.1.4-py3-none-any.whl": [
+          "AMikowBIqTkNa60pZReY6uhRsCUo1dOZfFvO+5RNnkg=",
           "py3"
         ]
       }
@@ -96969,6 +96975,30 @@
           "py3"
         ]
       }
+    },
+    "6.6.0": {
+      "sdist": [
+        "3Q+qbbiqJTrwhKJWBbNn2kCTl5cf98eV7iLyehMW2pY=",
+        "rpaframework-core-6.6.0.tar.gz"
+      ],
+      "wheels": {
+        "rpaframework_core-6.6.0-py3-none-any.whl": [
+          "7ZNIGInOEZSoJLNFihL8crnyFgN6qH5DpCcoGzeIvoo=",
+          "py3"
+        ]
+      }
+    },
+    "6.6.1": {
+      "sdist": [
+        "Oq2AwsxUHSf4FYBcfaF5q54I0V7Lmrn76sfpv5D4lmU=",
+        "rpaframework-core-6.6.1.tar.gz"
+      ],
+      "wheels": {
+        "rpaframework_core-6.6.1-py3-none-any.whl": [
+          "U4U5/rykP21p4CwjbeFTkZrgJG2Xji2lJs5BUXz/Huo=",
+          "py3"
+        ]
+      }
     }
   },
   "rpimcp23s17": {
@@ -118231,6 +118261,58 @@
           "cp39"
         ]
       }
+    },
+    "2.9.0.dev20220222": {
+      "wheels": {
+        "tf_nightly_cpu-2.9.0.dev20220222-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "nTXc19m81uPrpxyOeA21eB1yeu1Mc+ynS1QPHmznu2o=",
+          "cp310"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220222-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "d6qaFjKNLeYrqDnXhCZtBLo21FvTu0+4+wjU1c2++OI=",
+          "cp310"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220222-cp310-cp310-win_amd64.whl": [
+          "rWzCRnftuTUhnGTLwmuPAZu5GfyDdZNe8CuGjrQRPYg=",
+          "cp310"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220222-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "S+0/oIFD30QUqBpvrUcf/3HP8wxKNnni9ksbovuHLsQ=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220222-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Y9UFNtAobmyRO7RYGwODtdpiC0yikLSTGiskMQiXtoc=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220222-cp37-cp37m-win_amd64.whl": [
+          "LULYRmzBA2S+VzBY+22gUKmscnUaum96ScHj9nPr21c=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220222-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "SuqshBX3X5MrcMsdYFgTffh23SAJqJJRddrgboPQ6Ng=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220222-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "tuNQ6wqb/niraNRlJBZmVXKVfVv7lEmuaXQwIZ9KllQ=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220222-cp38-cp38-win_amd64.whl": [
+          "PTxGWxwiqdQnHVraIvNzMw+MaF/QA2W8VDpBC8Lw9qU=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220222-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "liqK5Zloq+uoSaTx7wk8CcisXQ2oKmGm+9OJh288Tpg=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220222-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "3oIwxksStALTUUzwMU7Rk/4c1aX0BKJxSLLAzwOUbpE=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.9.0.dev20220222-cp39-cp39-win_amd64.whl": [
+          "e4lTxJ2RAhPsrTMRuGntVWQSjuULFYqRpDl69iju+DI=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfaip": {
@@ -127048,6 +127130,18 @@
       "wheels": {
         "xpypact-0.1.2-py3-none-any.whl": [
           "Hl23eiffJ4owXn/OnA1GenT8wsGndmuP9UdXWE2ugQM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "vlN+fZxoy5voqVs+xLbhpglF+gTz3BHshOBkZNNZfus=",
+        "xpypact-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "xpypact-0.1.3-py3-none-any.whl": [
+          "hARsKPE9o6rNkbaTZpAGZvEGYYmmaq5pvazhow3pdn0=",
           "py3"
         ]
       }
