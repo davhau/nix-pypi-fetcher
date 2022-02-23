@@ -21388,6 +21388,18 @@
         ]
       }
     },
+    "1.22.60": {
+      "sdist": [
+        "RHfSI2UYufG0j1EaczEVEssQ0wf6tQIFvHn7mL5AjNY=",
+        "awscli-1.22.60.tar.gz"
+      ],
+      "wheels": {
+        "awscli-1.22.60-py3-none-any.whl": [
+          "b3GL/2xTS+tV66gsxSX2yWMNH2TisKnqv2JPozZaedg=",
+          "py3"
+        ]
+      }
+    },
     "1.22.7": {
       "sdist": [
         "YfIdlCoVFMsZcjm9n2aBTaJIWffc1kxniegfy2MgRPE=",
@@ -24991,6 +25003,70 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "wheels": {
+        "bdkpython-0.0.5-cp310-cp310-macosx_11_0_universal2.whl": [
+          "XlRPnHxHxr0Nizbs2D+EaisE8Gm36RKIBEFsS/6Osd0=",
+          "cp310"
+        ],
+        "bdkpython-0.0.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XF2crxOXBSn1w62J5KVTlkI9ql/UZDbNkIc1cUIHz9w=",
+          "cp310"
+        ],
+        "bdkpython-0.0.5-cp310-cp310-win_amd64.whl": [
+          "gM2ojCITbibDE2KxU65xqTsxImgLJ1QeuEoRZBhhvsg=",
+          "cp310"
+        ],
+        "bdkpython-0.0.5-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xkcIKzBJP1C0NkBebJqQy2aRTbixzYGxmc7bhnaAhBo=",
+          "cp36"
+        ],
+        "bdkpython-0.0.5-cp37-cp37m-macosx_11_0_universal2.whl": [
+          "fVRoYx9U2K3/261vYVa+qfg0RBMEEJNOoqBjx96pCcY=",
+          "cp37"
+        ],
+        "bdkpython-0.0.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "d/Q+B3F5W6PbXifAg90kuusvf4WVKsdsM6du3PU4SlU=",
+          "cp37"
+        ],
+        "bdkpython-0.0.5-cp37-cp37m-win_amd64.whl": [
+          "gfwf98nSRzvAS9cZnJ8tkgMgXGWHX+SETtiHcmq4z9Y=",
+          "cp37"
+        ],
+        "bdkpython-0.0.5-cp38-cp38-macosx_11_0_universal2.whl": [
+          "UsGz3cVEGD9B7eIaMJz/btf2Cew13pk7RLfhSrp/F7M=",
+          "cp38"
+        ],
+        "bdkpython-0.0.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Rwj0QjyaiJ3OsGOBqhGJTuQkpfWA4Uy0Kk8gUur2z0c=",
+          "cp38"
+        ],
+        "bdkpython-0.0.5-cp38-cp38-win_amd64.whl": [
+          "ahlAqWDeVNsUaZxgaM4ljkriMwWSPcoDaK76wP9HmDk=",
+          "cp38"
+        ],
+        "bdkpython-0.0.5-cp39-cp39-macosx_11_0_universal2.whl": [
+          "Q7pPUTZ6H/kEILOba6yDBBx5LpZTdfFUTMz2ctbYWpE=",
+          "cp39"
+        ],
+        "bdkpython-0.0.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2i43dOu//ibu/HZuxVxupadtMqEhiFFJ/NvqfQQNPe0=",
+          "cp39"
+        ],
+        "bdkpython-0.0.5-cp39-cp39-win_amd64.whl": [
+          "0asaUUHzUd1qD7/C8/saL6AO/KOxStlLtHXoChPQH10=",
+          "cp39"
+        ],
+        "bdkpython-0.0.5-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yNdGj6ZKSFbIwgbOKUffOyLDhK8YVWeiWzc4SPUFGYQ=",
+          "pp37"
+        ],
+        "bdkpython-0.0.5-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Q+HmmWQOIImAwUaLR+aURWPPIfOswgHNElJOb4t/WLo=",
+          "pp38"
+        ]
+      }
     }
   },
   "beamformer": {
@@ -27390,6 +27466,14 @@
       "wheels": {
         "bosdyn_mission-3.0.3-py2.py3-none-any.whl": [
           "Gn3Ew149Lnt1Skrn6aRpFWijOJRGW3HryOcI17poY/s=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.0": {
+      "wheels": {
+        "bosdyn_mission-3.1.0-py2.py3-none-any.whl": [
+          "ZBewep3o2aNr86pM7zPn3urwQAeMsEm46Z0itFWyxqo=",
           "py2.py3"
         ]
       }
@@ -112156,6 +112240,30 @@
     }
   },
   "sparkgeo-awscdk-construct-lib": {
+    "0.0.10": {
+      "sdist": [
+        "OVZosG85a+xOkQ5I6nHSIwasdEyjdyFjh8LEFFfteCo=",
+        "sparkgeo_awscdk_construct_lib-0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "sparkgeo_awscdk_construct_lib-0.0.10-py3-none-any.whl": [
+          "NwtD07293NKTnuGZtGCGESuaKpVTh03EcfZTxf60eAE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.11": {
+      "sdist": [
+        "LnQPQ8GmppMkOjcKNP9P97U1lXVEpeO/mEL4wBPn5cg=",
+        "sparkgeo_awscdk_construct_lib-0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "sparkgeo_awscdk_construct_lib-0.0.11-py3-none-any.whl": [
+          "NBid0vpZpCcmPN6wV9xg0N2MVsb+sOWGW2N7l5W8Z00=",
+          "py3"
+        ]
+      }
+    },
     "0.0.3": {
       "sdist": [
         "NxtT6ftn6Svfv8WSt7stan2/m9lqOramZeGFjrQGnSE=",
@@ -112224,6 +112332,18 @@
       "wheels": {
         "sparkgeo_awscdk_construct_lib-0.0.8-py3-none-any.whl": [
           "FWVa44bPpwjEc56bweIphplHDrN6bv27fPA3ZTQQ5u8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.9": {
+      "sdist": [
+        "xGFCmB45h+2oyJp70NSPNxXK16HGBq4yh/ghtvhpnao=",
+        "sparkgeo_awscdk_construct_lib-0.0.9.tar.gz"
+      ],
+      "wheels": {
+        "sparkgeo_awscdk_construct_lib-0.0.9-py3-none-any.whl": [
+          "5p/p6wgA2D61yfgs2MAILopZhK+rSf6g5qoovZc94Z4=",
           "py3"
         ]
       }
