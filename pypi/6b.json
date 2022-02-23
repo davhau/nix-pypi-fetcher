@@ -312,6 +312,12 @@
         "aa-structures-1.22.0.tar.gz"
       ]
     },
+    "1.22.1": {
+      "sdist": [
+        "E56+EGPYIC5fBQ0BujIV/F49UpolxruGGsqWNWSAYBQ=",
+        "aa-structures-1.22.1.tar.gz"
+      ]
+    },
     "1.3.0": {
       "sdist": [
         "OVLxPrS3qPmScha2KLw4PjnVpLHWdfF4tlAWDaN+vTY=",
@@ -7158,6 +7164,18 @@
         ]
       }
     },
+    "1.138.2": {
+      "sdist": [
+        "NdtqvVNogEA0Ch6hpez0j29l07Ng8cdOyLNzgqESqaI=",
+        "aws-solutions-constructs.aws-cloudfront-s3-1.138.2.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_cloudfront_s3-1.138.2-py3-none-any.whl": [
+          "C9czGwErpO7qiSfWqNXyrU4E1TqyqtBbUwLfegqzwG0=",
+          "py3"
+        ]
+      }
+    },
     "1.46.0": {
       "sdist": [
         "XUpQZayhrYwz5GTBkflUnaGShmyY75KM6yT2TRH2vN8=",
@@ -7946,6 +7964,20 @@
       "wheels": {
         "aws_solutions_constructs.aws_cloudfront_s3-2.2.0-py3-none-any.whl": [
           "qaM0W2SmI5DmT6Je8N7GWr+PIT5fYhmWbJ2P8diSv5s=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "aws-solutions-constructs.aws-fargate-sqs": {
+    "1.138.2": {
+      "sdist": [
+        "jtl75PPMicxVUpIzk4qIwBQT6+k7zHG/v6heszfXkdU=",
+        "aws-solutions-constructs.aws-fargate-sqs-1.138.2.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_fargate_sqs-1.138.2-py3-none-any.whl": [
+          "mRDsEgRnxoOb0FDMetZ+mZ6UpTK9GMEjfAxJo7BO83Q=",
           "py3"
         ]
       }
@@ -16928,6 +16960,30 @@
       "wheels": {
         "compas_RV2-1.4.5-py2.py3-none-any.whl": [
           "j10Yw/2aT5/ETfBcD4SZFxnOgGCrtQj0zdiNAzakecA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.4.6": {
+      "sdist": [
+        "YntPbTz8bJxyIrjPLzieYhhwAge3TybHkXSukKVIRig=",
+        "compas-RV2-1.4.6.tar.gz"
+      ],
+      "wheels": {
+        "compas_RV2-1.4.6-py2.py3-none-any.whl": [
+          "YqyiaRRRB1AZkJbk7lXpLWnP3xGRIWbUePMKFUBJNAI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.4.7": {
+      "sdist": [
+        "TE6CNiXAXS7TBxKqnmOUoHe1McJwWCdMaJ/PtBc1Whs=",
+        "compas-RV2-1.4.7.tar.gz"
+      ],
+      "wheels": {
+        "compas_RV2-1.4.7-py2.py3-none-any.whl": [
+          "CD2fcggNLWHy8sj5+PeV9hnVAwAO6iPHE1OxX1gvqSw=",
           "py2.py3"
         ]
       }
@@ -36182,6 +36238,12 @@
       "sdist": [
         "cAdm0Z21MuWlpiy/cNI8bp5tOPdJLIZ6Tj7cVFxuKQk=",
         "excellxgene-2.3.7.tar.gz"
+      ]
+    },
+    "2.3.8": {
+      "sdist": [
+        "1L8WiSx0RVXu1N0v2fyklceC3eYTz+BTUT7hUdHgX0o=",
+        "excellxgene-2.3.8.tar.gz"
       ]
     }
   },
@@ -65610,6 +65672,18 @@
         "naas-drivers-0.86.2.tar.gz"
       ]
     },
+    "0.86.3": {
+      "sdist": [
+        "U2I9yxph9BbahNoiy1kyEU0iMeNqGK5cLhg6r70afhM=",
+        "naas-drivers-0.86.3.tar.gz"
+      ]
+    },
+    "0.86.4": {
+      "sdist": [
+        "1IsIAIcxfk5Ki7uuOlfrkfQAYi2DQCRAj4jHAst47jU=",
+        "naas-drivers-0.86.4.tar.gz"
+      ]
+    },
     "0.87.0b1": {
       "sdist": [
         "Xuz1l07uCUoVBhimeMaQE9poAPLeswcqhGlYxK6Ira4=",
@@ -70653,6 +70727,14 @@
           "py3"
         ]
       }
+    },
+    "12.0.1.4.0.99.dev2": {
+      "wheels": {
+        "odoo12_addon_document_page-12.0.1.4.0.99.dev2-py3-none-any.whl": [
+          "9/fxBpT/9Dqh2UiglvcXMhGsytxlrcHny2C9Ed+wtJM=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo12-addon-maintenance-equipment-sequence": {
@@ -75452,6 +75534,14 @@
         ]
       }
     },
+    "2.11.0.dev1": {
+      "wheels": {
+        "pantsbuild.pants.testutil-2.11.0.dev1-py37.py38.py39-none-any.whl": [
+          "7KyH+/u/q/YD7+8bs0zffhSdtcG9bbjwtckg/k+3JNw=",
+          "py37.py38.py39"
+        ]
+      }
+    },
     "2.2.0": {
       "wheels": {
         "pantsbuild.pants.testutil-2.2.0-py37.py38-none-any.whl": [
@@ -79882,6 +79972,12 @@
       "sdist": [
         "fjIkA/7DwZhl3B69X7UGYAbQha4IkXjEaCMcWtg+w3M=",
         "plugin-package-template-0.1.418442759.tar.gz"
+      ]
+    },
+    "0.1.477708478": {
+      "sdist": [
+        "2KI2E3sKEV/swroPxLqbfW++QYRk0ta+USYbm8VLIHA=",
+        "plugin-package-template-0.1.477708478.tar.gz"
       ]
     }
   },
@@ -90286,6 +90382,18 @@
       "wheels": {
         "pymws-0.1.9-py2.py3-none-any.whl": [
           "iLPNTbGeUtN+rKJjdu2kPdMiDK7Xy283H6dX7MxbqQY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "kJy4Fp4Dxq6a1CvnkQiQ4DI+ljJY/J9KU/St9P6TUgo=",
+        "pymws-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pymws-0.2.0-py2.py3-none-any.whl": [
+          "OvOSse4ux0eTVSPnU+E5s1Gw5ZcAn2Wcb9PSbBoKFTE=",
           "py2.py3"
         ]
       }
@@ -120838,26 +120946,14 @@
     }
   },
   "yby": {
-    "0.0.21": {
+    "0.0.24": {
       "sdist": [
-        "NkDoIaKsbLc96vxbIcTwP13wQpJmyyRAIUSNzKEPzfo=",
-        "yby-0.0.21.tar.gz"
+        "ex7u+xlyS7qc7/RLzc1wM5xvqoB8p0HTNm6RDnYj3kc=",
+        "yby-0.0.24.tar.gz"
       ],
       "wheels": {
-        "yby-0.0.21-py3-none-any.whl": [
-          "O3Y8usITvlnILk5kLicRxdVNqxjhlh967Cnz4UZcr8A=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.22": {
-      "sdist": [
-        "L9/32B+0+inDdnqz64aWTvKU5LcbSyHlca/BfEA7sa4=",
-        "yby-0.0.22.tar.gz"
-      ],
-      "wheels": {
-        "yby-0.0.22-py3-none-any.whl": [
-          "L5uKQztDp+5nItTxz3JZzQdU5lMwEgdJdshhoMSnODY=",
+        "yby-0.0.24-py3-none-any.whl": [
+          "BTlDmAov3hKJNEhR4TSCddraI79K3fnGuzoFOJRHH+w=",
           "py3"
         ]
       }
