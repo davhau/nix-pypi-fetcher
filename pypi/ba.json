@@ -12376,6 +12376,14 @@
         ]
       }
     },
+    "1.141.0": {
+      "wheels": {
+        "aws_solutions_constructs.aws_dynamodb_stream_lambda-1.141.0-py3-none-any.whl": [
+          "vf6z4it16Jl1LQU1pTsohScBL/B2bWHEasDP1qYOya8=",
+          "py3"
+        ]
+      }
+    },
     "1.46.0": {
       "sdist": [
         "l50peKxadAx3TBbPlomoPGZ9s03TW2H2sDVBwC0M82Y=",
@@ -41870,8 +41878,16 @@
           "U7EIGaeAqMUp3W/BIgYILbkZ3vquN2+LGfFAqOo2gFo=",
           "cp37"
         ],
+        "gef-0.1.2-cp37-cp37m-manylinux_2_28_x86_64.whl": [
+          "M233bgGTyweu+pLIqvJd+f0znmsQ6ANWP4Rw6kcy8fQ=",
+          "cp37"
+        ],
         "gef-0.1.2-cp38-cp38-manylinux_2_24_x86_64.whl": [
           "Cc5FiktW5qc+ZW9GaFZY8ZzqewBBrHq+TQfn46/Z+wM=",
+          "cp38"
+        ],
+        "gef-0.1.2-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "AjR+/sik8gWK27clLjen26gcm/LvHJiIIN9q1jLUy70=",
           "cp38"
         ]
       }
@@ -47956,6 +47972,18 @@
       "wheels": {
         "halfapi-0.6.7-py3-none-any.whl": [
           "AfDbjhKKW2fRpTf/7PweWEA+DxFqt7Nh/LrQJ7S7IsA=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.8": {
+      "sdist": [
+        "Xoez5mYmjB/848MBnmcY/eRsgvL+Ssir/cbFRb5Wo7c=",
+        "halfapi-0.6.8.tar.gz"
+      ],
+      "wheels": {
+        "halfapi-0.6.8-py3-none-any.whl": [
+          "7C+GgO+8Q0vciWvrsTd6GTbINUwhVdVMDMHSrGO3u5Y=",
           "py3"
         ]
       }
@@ -68670,6 +68698,18 @@
       "wheels": {
         "minty_pyramid-1.0.16-py3-none-any.whl": [
           "2CEgTc4WCjD3kUPbg2vS5IdLfTDYUcszy1YSaSY6CRk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.17": {
+      "sdist": [
+        "1SzMDjB6HnKjfodzWTzqcnafIVpjbsLrvUQWeQ3HtGY=",
+        "minty_pyramid-1.0.17.tar.gz"
+      ],
+      "wheels": {
+        "minty_pyramid-1.0.17-py3-none-any.whl": [
+          "NvYcTAdqhKEJIF+qvFQAy8f/cEim6VqGVteIvkcIHgk=",
           "py3"
         ]
       }
@@ -145527,6 +145567,58 @@
           "cp39"
         ]
       }
+    },
+    "2.9.0.dev20220228": {
+      "wheels": {
+        "tf_nightly-2.9.0.dev20220228-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "CwMhnGE8ZjR49Y/Au5T6eiFLwROY5YqNHMTGRHP2tms=",
+          "cp310"
+        ],
+        "tf_nightly-2.9.0.dev20220228-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "akczt2QVglZQUK4T6JOMzxzjmamkcIMuFHGMP/zPV/Q=",
+          "cp310"
+        ],
+        "tf_nightly-2.9.0.dev20220228-cp310-cp310-win_amd64.whl": [
+          "0xRXouxN7iAkoNUO/mR8pMgSZ+0snvG5yYjG7p2Zm08=",
+          "cp310"
+        ],
+        "tf_nightly-2.9.0.dev20220228-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "TRW4sVSBnv/qldB67ZJsicpt6+UqSRcx0GwU1Uu1KX8=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20220228-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "NWgmoiXVb16dtZgTT8BWxWdvcZnUFHdDqu3fkVujMk0=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20220228-cp37-cp37m-win_amd64.whl": [
+          "DMF2jFSR19Ekq38xks/QkSs2TJkFD+hBIRkFovigk7s=",
+          "cp37"
+        ],
+        "tf_nightly-2.9.0.dev20220228-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "59penl8ab/X1zlI8URG9SglnvUT/GZ+nuBLxpvK7vaM=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20220228-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "0IguP2kWMeyyQzon8RhLp+okNYhiLKmF39b1bVHVEhs=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20220228-cp38-cp38-win_amd64.whl": [
+          "ULIxcqo5kD4iiHvxCSH1Dea0vTO9o3twzfFiVimOSmI=",
+          "cp38"
+        ],
+        "tf_nightly-2.9.0.dev20220228-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "pQLnaA0f2DXM7oZgpSBnxLpuFKRbRdb6oHD7Wvb2bek=",
+          "cp39"
+        ],
+        "tf_nightly-2.9.0.dev20220228-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "wHs/G38WF+zzjFT+IT2csvbM83fSZjFkemBxT0kR41U=",
+          "cp39"
+        ],
+        "tf_nightly-2.9.0.dev20220228-cp39-cp39-win_amd64.whl": [
+          "UT18BunnioSHnf5hwTZI/4pKE0OO7U8xUcM511wuLPs=",
+          "cp39"
+        ]
+      }
     }
   },
   "tf-slim": {
@@ -157155,6 +157247,18 @@
         "BPcrmOQGsvw10p7gng/4I1W8cuGj4+Mg5AiUNp/35nI=",
         "xontrib-pyenv-1.0.6.tar.gz"
       ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "9KZp1b30Vvis8IYdv+DrrfK9+MlO2FSRuxEZxQ4wEog=",
+        "xontrib-pyenv-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "xontrib_pyenv-1.1.0-py3-none-any.whl": [
+          "ZhHBwOVKNlpNlywlM1EIwddUn5Eee4DCkQVENMEoEzM=",
+          "py3"
+        ]
+      }
     }
   },
   "xopera-template-library": {

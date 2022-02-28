@@ -767,6 +767,12 @@
         "VkBTo16kCWgsW+V8r7HC4icPDzeK3z2DJhjBv98j2BU=",
         "acat-1.3.1.tar.gz"
       ]
+    },
+    "1.3.2": {
+      "sdist": [
+        "NWsWqp+18tftAkHGH3A9piL+eTh/L8zF1ZPaLXTsK0k=",
+        "acat-1.3.2.tar.gz"
+      ]
     }
   },
   "accupy": {
@@ -11824,6 +11830,18 @@
         ]
       }
     },
+    "1.141.0": {
+      "sdist": [
+        "oGf/vQiJH72Tj7E87nyLSqpUb4Yfx0kL2GrWYYxP2C8=",
+        "aws-solutions-constructs.aws-iot-sqs-1.141.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_iot_sqs-1.141.0-py3-none-any.whl": [
+          "tRTcsAYrR3bVY9L7YCgKiaJLVHeLjJzzOd+EDOPNjUE=",
+          "py3"
+        ]
+      }
+    },
     "2.0.0": {
       "sdist": [
         "nD0JeH4t8c/Of9voMJ/IGbMWEo/8IKK6aS9tA4eSdyA=",
@@ -13474,6 +13492,14 @@
       "wheels": {
         "azureml_train_automl_client-1.38.0.post3-py3-none-any.whl": [
           "t+bCGBvDp15DW01+8/HXolQAmnLjIeE8EQpwJ58GURs=",
+          "py3"
+        ]
+      }
+    },
+    "1.39.0": {
+      "wheels": {
+        "azureml_train_automl_client-1.39.0-py3-none-any.whl": [
+          "xfsUXzxmiiwixGlSh6dMvSaxdevdxJ+28gHc2rgJR6c=",
           "py3"
         ]
       }
@@ -38602,6 +38628,18 @@
       "wheels": {
         "Discord_Advert_Framework-1.7.6.2-py3-none-any.whl": [
           "mbtAx8q+TDsJ69QEhLTSmovwaZxx5c6nWaAbntU4nCA=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.7.1": {
+      "sdist": [
+        "OZ0vqeMmwNYZSmXPkO/s3ja5Gs1seNLj+RTmI3D8WZc=",
+        "Discord-Advert-Framework-1.7.7.1.tar.gz"
+      ],
+      "wheels": {
+        "Discord_Advert_Framework-1.7.7.1-py3-none-any.whl": [
+          "T70uQsX1+HDA6VvXmxuVSnm3xY34X6xGlTM+5PNiPAc=",
           "py3"
         ]
       }
@@ -110699,6 +110737,22 @@
           "py3"
         ]
       }
+    },
+    "0.0.101646050213": {
+      "sdist": [
+        "2bIwOIkx2kQQBV864TZqYJibY8oczjfOVJiP19lJoUA=",
+        "pyre-check-nightly-0.0.101646050213.tar.gz"
+      ],
+      "wheels": {
+        "pyre_check_nightly-0.0.101646050213-py3-none-macosx_10_11_x86_64.whl": [
+          "ql4r7bB8Y0lWWewiDeFKCFHSwmeTyRLSH7Lo9aOP2fs=",
+          "py3"
+        ],
+        "pyre_check_nightly-0.0.101646050213-py3-none-manylinux1_x86_64.whl": [
+          "4379FULMZ366vhUycl8l/Z265pEuk8G07AyMcGUEvLs=",
+          "py3"
+        ]
+      }
     }
   },
   "pyreleaser-io": {
@@ -138184,6 +138238,34 @@
         ],
         "tfq_nightly-0.7.0.dev20220227-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "GBEdjDDl1N6JHbimWujUd7PBal9rw3VAFA91Rr9fRVA=",
+          "cp39"
+        ]
+      }
+    },
+    "0.7.0.dev20220228": {
+      "wheels": {
+        "tfq_nightly-0.7.0.dev20220228-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "y9DIVut/7cNSqomTaJA6G8WKGis0Ir9PBDQEhEArB/w=",
+          "cp37"
+        ],
+        "tfq_nightly-0.7.0.dev20220228-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "bASRv7ondhP9CagMVuFC0uFZNhy6chiZyvWE4qIXsyc=",
+          "cp37"
+        ],
+        "tfq_nightly-0.7.0.dev20220228-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "NfGuPoyZmFAOwRjpp1jm5sjqsBlO772JulOsX55kTVA=",
+          "cp38"
+        ],
+        "tfq_nightly-0.7.0.dev20220228-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "71BQs6a7BBz7vf+QE3m9CsOETBJlfywpVKVAlc9PDY4=",
+          "cp38"
+        ],
+        "tfq_nightly-0.7.0.dev20220228-cp39-cp39-macosx_12_1_x86_64.whl": [
+          "zKk0dnfTowl2ib6SVoTXa15C9NIAKbA9qFaCexgtTho=",
+          "cp39"
+        ],
+        "tfq_nightly-0.7.0.dev20220228-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "5UgxDmBrDKTc+T1jUW6BROzbqe3ET4IpbirkIu2Zcw0=",
           "cp39"
         ]
       }

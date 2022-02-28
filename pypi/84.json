@@ -7252,6 +7252,14 @@
         ]
       }
     },
+    "1.39.0": {
+      "wheels": {
+        "azureml_train_automl_runtime-1.39.0-py3-none-any.whl": [
+          "rA06vryLFAvmTfnOtLCFPpBiBIj5EfcfikNAkuAN47Q=",
+          "py3"
+        ]
+      }
+    },
     "1.4.0": {
       "wheels": {
         "azureml_train_automl_runtime-1.4.0-py3-none-any.whl": [
@@ -7938,6 +7946,14 @@
       "wheels": {
         "azureml_widgets-1.38.0-py3-none-any.whl": [
           "wcEk2dWwCD8JcuMdvJeImXwVZOut1i9KVMkMTreDV/E=",
+          "py3"
+        ]
+      }
+    },
+    "1.39.0": {
+      "wheels": {
+        "azureml_widgets-1.39.0-py3-none-any.whl": [
+          "unF+hXjtEGTJE3ATgw/T02jhMybju6Wnh5KFa6Zx7Lk=",
           "py3"
         ]
       }
@@ -36945,6 +36961,32 @@
           "py3"
         ]
       }
+    }
+  },
+  "hyper-machines": {
+    "0.0.1": {
+      "sdist": [
+        "PweqGaRhFaovYuu93FcL12lCkmq4KRdHNjjEBMNPUUs=",
+        "hyper_machines-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "aQocpNsu/ExpXywcDwCla8lLp3fqEhb7Xdd+rmMteHg=",
+        "hyper_machines-0.0.2.tar.gz"
+      ]
+    },
+    "0.0.3": {
+      "sdist": [
+        "Ow/CJpRZDi6nK85gOo7cPt0Mdc2CPqxs5IRJFI5LD8A=",
+        "hyper_machines-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "sV/MVjQCFe4zb0bDnvjUXoWVuTiOKlSHRqW1s0qbcLQ=",
+        "hyper_machines-0.0.4.tar.gz"
+      ]
     }
   },
   "hypergol": {
@@ -80293,6 +80335,12 @@
         "7Cav1rml1N9c0DiK8PE53YoTlMClsVVI/Yzac6q4PmE=",
         "pyompa-0.4.1.0.tar.gz"
       ]
+    },
+    "0.4.2.0": {
+      "sdist": [
+        "YeYjJqjIGW+wq9anpbnz90skXG8VmMc0VpOftyrFHTY=",
+        "pyompa-0.4.2.0.tar.gz"
+      ]
     }
   },
   "pyparsesynt": {
@@ -80606,14 +80654,74 @@
     }
   },
   "pyplexity": {
-    "0.1.0": {
+    "0.1.31": {
       "sdist": [
-        "5vhon29gHnoA/Pewm8jTiRsBS9gQ9saAsGI9xl6mC/M=",
-        "pyplexity-0.1.0.tar.gz"
+        "4m6l09xqX0LOOLpc+nVn+MelBESpwRL5mXUxe+kJ06U=",
+        "pyplexity-0.1.31.tar.gz"
       ],
       "wheels": {
-        "pyplexity-0.1.0-py3-none-any.whl": [
-          "CiUXBou3xHnd94bZkmRKMKUq0sfPjV4qxQIsUJabh6c=",
+        "pyplexity-0.1.31-py3-none-any.whl": [
+          "AjFaszsejPFtV8umBmmJCtvMxs9fIFVMY/azXLdv1lE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.32": {
+      "sdist": [
+        "JuPoJ9O/Zru2OOubqIOJ3RInRGRi2H6vShHuCOWaMXw=",
+        "pyplexity-0.1.32.tar.gz"
+      ],
+      "wheels": {
+        "pyplexity-0.1.32-py3-none-any.whl": [
+          "Amx4KmKrPw7oD/+jizphXg5l04+QV2xWO5cXc+0CHuQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.33": {
+      "sdist": [
+        "dRrknmWgNxEjipCaZxzeJL1j3v2wIYPa/C1i31SkB5g=",
+        "pyplexity-0.1.33.tar.gz"
+      ],
+      "wheels": {
+        "pyplexity-0.1.33-py3-none-any.whl": [
+          "3k1YD9j8mACWRLqoZNf6RYjGefos03cY7F2iU4AxDEk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.35": {
+      "sdist": [
+        "SljzyZKMEUrFggeHy0loCjDVjlsUTRo0YwJt51dbiKw=",
+        "pyplexity-0.1.35.tar.gz"
+      ],
+      "wheels": {
+        "pyplexity-0.1.35-py3-none-any.whl": [
+          "x6V5PD1l9DPr4xA6BlXuUHJhkN+5gaC9IetPUXYicsA=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.36": {
+      "sdist": [
+        "gNrJCXhhGsANh+2gDhAkm+DcHw1Ia1dqhhCz8v4r7Zk=",
+        "pyplexity-0.1.36.tar.gz"
+      ],
+      "wheels": {
+        "pyplexity-0.1.36-py3-none-any.whl": [
+          "P1DjaR7Y90GY/JqqLwaNeIBsVP2xEoC6uCdUzhGdbx0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.37": {
+      "sdist": [
+        "QgtWfBhobGjG1JcIInIB4ZtEPwuLgAaFNZ1uthXH4i8=",
+        "pyplexity-0.1.37.tar.gz"
+      ],
+      "wheels": {
+        "pyplexity-0.1.37-py3-none-any.whl": [
+          "PFCi9Iya8c/G1Fxw6w09WrkIZA6OQJuD1vSFzTKn2H4=",
           "py3"
         ]
       }
