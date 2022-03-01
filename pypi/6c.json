@@ -11862,6 +11862,18 @@
         ]
       }
     },
+    "1.147.0": {
+      "sdist": [
+        "j8Pe0VKj4E76I9In7jDB8YRYWOrDkLF0rLiF8lCCpaU=",
+        "aws-cdk.aws-applicationinsights-1.147.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_applicationinsights-1.147.0-py3-none-any.whl": [
+          "bhC72gXw7qnoAtFvY7Yqb/TsjPSaI5t+QH6q3EcvNx4=",
+          "py3"
+        ]
+      }
+    },
     "1.64.0": {
       "sdist": [
         "wmmAlAfZra5f5/gfWHoyaRgH06TzRWGrVvAdMKs/dLE=",
@@ -14674,6 +14686,18 @@
       "wheels": {
         "boto3_stubs_lite-1.21.8-py3-none-any.whl": [
           "OrQ0zQL8LOhgivuE3B4AyUmh2FiRwBkLwgZzUt/NfaI=",
+          "py3"
+        ]
+      }
+    },
+    "1.21.9": {
+      "sdist": [
+        "ej8Um/PXiScBDs+4FiRH1V1ZhGgaKIwGv2Yg4O3O+cM=",
+        "boto3-stubs-lite-1.21.9.tar.gz"
+      ],
+      "wheels": {
+        "boto3_stubs_lite-1.21.9-py3-none-any.whl": [
+          "hojOpGTaQURucigLlMHfoJH/mxQlga3movusqaKIvvc=",
           "py3"
         ]
       }
@@ -33648,6 +33672,18 @@
       "wheels": {
         "flipr_api-1.4.1-py3-none-any.whl": [
           "+7B97kn4IC85vBUfussGU6MR5ZbS9HvlRbCi9EwEZhk=",
+          "py3"
+        ]
+      }
+    },
+    "1.4.2": {
+      "sdist": [
+        "0Qw8amk0HxHxRiqRJXMYSfh5IZPg7+mrx2WO7G8vxQE=",
+        "flipr-api-1.4.2.tar.gz"
+      ],
+      "wheels": {
+        "flipr_api-1.4.2-py3-none-any.whl": [
+          "2N9XwdDDwckAuX5AZeUzwripBD0PYgbPJpNteypci1c=",
           "py3"
         ]
       }
@@ -81731,6 +81767,26 @@
       }
     }
   },
+  "python-ranger-tn": {
+    "1.8": {
+      "sdist": [
+        "ohW+LS1rrSWZ1NGzaC40v2VOYC0S8c8wLDFInW4xfBI=",
+        "python-ranger-tn-1.8.tar.gz"
+      ]
+    },
+    "1.8.2": {
+      "sdist": [
+        "NstHvtP3FzlS9VKoglptGenp6TCHWWfunDAdLiXEJ9A=",
+        "python-ranger-tn-1.8.2.tar.gz"
+      ]
+    },
+    "1.8.3": {
+      "sdist": [
+        "rcnLM/cguYe/CXVVxq9okpOH0+X9b9jef8IDjQdPoJ0=",
+        "python-ranger-tn-1.8.3.tar.gz"
+      ]
+    }
+  },
   "python-restart": {
     "0.0.2": {
       "sdist": [
@@ -98638,6 +98694,62 @@
         ],
         "tensorstore-0.1.17-cp39-cp39-win_amd64.whl": [
           "tC93Ivag3rB2epUh6nVaU65owr01RiCxh1Zix9n/C54=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.18": {
+      "sdist": [
+        "OsPM3G4EUOccY9PW5Ujv7A69KPB+wO13g4qWJsvAXqg=",
+        "tensorstore-0.1.18.tar.gz"
+      ],
+      "wheels": {
+        "tensorstore-0.1.18-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "UOgtdNH5rVKXN116KNLJTyUM0krgm1VACELDLuCDNbE=",
+          "cp310"
+        ],
+        "tensorstore-0.1.18-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Y9hgGmHkEMJNnC7KcAYbrAOdf4IASF3E+R/3bigCuvk=",
+          "cp310"
+        ],
+        "tensorstore-0.1.18-cp310-cp310-win_amd64.whl": [
+          "qCfex6Rf6ghGy5NPQoWTy3Hbjyws0y+uAAIO+UYP1ZA=",
+          "cp310"
+        ],
+        "tensorstore-0.1.18-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "ejznGaJs8PlpwmYD3y6KE+mtU2lQ1aek6QDReYoluLE=",
+          "cp37"
+        ],
+        "tensorstore-0.1.18-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "LPm40JNHvmJr79oTGEpE662b6s+o+IFw3UYppb4SIvA=",
+          "cp37"
+        ],
+        "tensorstore-0.1.18-cp37-cp37m-win_amd64.whl": [
+          "xV7VivWjVZmKglzk24q+ZhK81YtFVv7u/vShCH+OdZ8=",
+          "cp37"
+        ],
+        "tensorstore-0.1.18-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "zJL72ZTPKQal7x/ydXWxZvsyIs6DUB2+HOsBIFQKdg8=",
+          "cp38"
+        ],
+        "tensorstore-0.1.18-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6ag+9VYQfEWPTkXLJIctVqUFpu0R40YFCIQcWejrIUA=",
+          "cp38"
+        ],
+        "tensorstore-0.1.18-cp38-cp38-win_amd64.whl": [
+          "wWKk+yfLgjPG6TaRahlUsC8QRa+SJh6vdJBzJ1UtmAg=",
+          "cp38"
+        ],
+        "tensorstore-0.1.18-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "Do/6mK44i6RUsxXXZtcSjcBHAyLUsNVhIQlx3OAVOH0=",
+          "cp39"
+        ],
+        "tensorstore-0.1.18-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iO9H5Lqq5J+MYg6q9WX/U7SoLkMyl7iftkUcbBcM6Tk=",
+          "cp39"
+        ],
+        "tensorstore-0.1.18-cp39-cp39-win_amd64.whl": [
+          "1egZNw5PVVOkvPGi/nJz0H7H17LX29BNZYgXbZ+2Ve0=",
           "cp39"
         ]
       }
