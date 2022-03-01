@@ -1324,10 +1324,22 @@
         "aiohttp-apispec-2.2.2rc0.tar.gz"
       ]
     },
+    "2.2.3": {
+      "sdist": [
+        "1wQx5fPvXG3JbckYDOEN39ePoFTxeK+CWXB+ttQh7QU=",
+        "aiohttp-apispec-2.2.3.tar.gz"
+      ]
+    },
     "3.0.0b1": {
       "sdist": [
         "MIfATrgjqlSLojBNRFk4fhhkOvjREW1/NCmZOWgctE8=",
         "aiohttp-apispec-3.0.0b1.tar.gz"
+      ]
+    },
+    "3.0.0b2": {
+      "sdist": [
+        "nmeNQAz7JQJLFdJuIBKofhYh+acfeACdApiRsuNDyoU=",
+        "aiohttp-apispec-3.0.0b2.tar.gz"
       ]
     }
   },
@@ -9198,6 +9210,18 @@
       "wheels": {
         "brunns_matchers-2.5.0-py3-none-any.whl": [
           "mtDruCiFScS0Kv/bdGOGto3W5zVaDuSDr1XzkZExygE=",
+          "py3"
+        ]
+      }
+    },
+    "2.5.1": {
+      "sdist": [
+        "gMPmttL4gJN7Oywx9SETMIKln/eGHpJboISIedlwpqg=",
+        "brunns-matchers-2.5.1.tar.gz"
+      ],
+      "wheels": {
+        "brunns_matchers-2.5.1-py3-none-any.whl": [
+          "+TCwrn1dpknUbcMf0GpZRy0FcJ8/jFIbING/SKj9+Rk=",
           "py3"
         ]
       }
@@ -20400,6 +20424,14 @@
       "wheels": {
         "cirq_aqt-0.14.0.dev20220301012044-py3-none-any.whl": [
           "zBWAlw0U/MzyJmFBg/KFB11RViGejeWCxrgiMfp3E+s=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.0.dev20220301153821": {
+      "wheels": {
+        "cirq_aqt-0.14.0.dev20220301153821-py3-none-any.whl": [
+          "rQhliPNI8rQfTQ2xX2FT+HEEBGcU/AIWPb8Pq9XjMoc=",
           "py3"
         ]
       }
@@ -67292,6 +67324,58 @@
         ]
       }
     },
+    "1.0.16": {
+      "wheels": {
+        "miind-1.0.16-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "+jGjbpuNxGHLVPLuiz/RtfDnSz6urBitzrD5R1Wh8CE=",
+          "cp36"
+        ],
+        "miind-1.0.16-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GySXDRSm1YAuF9qDne0zMIYEh75oMVJNcD5rU3vjuAU=",
+          "cp36"
+        ],
+        "miind-1.0.16-cp36-cp36m-win_amd64.whl": [
+          "Yrg3FM/D5SWHAchGBcDa8Dv7zX+ammKaAyZ9PlaM6n4=",
+          "cp36"
+        ],
+        "miind-1.0.16-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "rYRRGNAdW9wXWEv6I969rFfrsqXyrgrkA97lDCiVeQA=",
+          "cp37"
+        ],
+        "miind-1.0.16-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "O8hdJFT6bEqagYDoruijy4TZ+6zLK+Kz9EtDLSWavP0=",
+          "cp37"
+        ],
+        "miind-1.0.16-cp37-cp37m-win_amd64.whl": [
+          "CS48iqnMCOzcFz32qr3RrebSnF3wOfwlyN+5iN1+uIE=",
+          "cp37"
+        ],
+        "miind-1.0.16-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "jOT0mNNKg5O4EvwwXwusu64Nii3kH+RQx/MX6UNOarY=",
+          "cp38"
+        ],
+        "miind-1.0.16-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8KVv6Ql4VRWwheRMjI1IB26xixh/FFpCWSRnwiVa0zA=",
+          "cp38"
+        ],
+        "miind-1.0.16-cp38-cp38-win_amd64.whl": [
+          "JYzU2VEcjBiEgosJv/yQluFAQ0psCF1WmFmM0daCEH4=",
+          "cp38"
+        ],
+        "miind-1.0.16-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "vxR65/9Ls8amZgiLNDfJRbf+9+bVZ6qNNBnCdOq1ssw=",
+          "cp39"
+        ],
+        "miind-1.0.16-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aooPPtZHHpcjnbLtqUYrWFXXBaO8QQclY5WfvaCtPkY=",
+          "cp39"
+        ],
+        "miind-1.0.16-cp39-cp39-win_amd64.whl": [
+          "QUQReVAlavlSXF5si7gS0WJi1V1mAvmliel36Y1/QC4=",
+          "cp39"
+        ]
+      }
+    },
     "1.0.9": {
       "wheels": {
         "miind-1.0.9-cp36-cp36m-macosx_10_9_x86_64.whl": [
@@ -97220,6 +97304,18 @@
       "wheels": {
         "pyannotators_zeroshotclassifier-0.5.144-py3-none-any.whl": [
           "WUFnx+9hWu4E0XShxXXvq7QI1ECcIUemhBqPJ8AJkeI=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.151": {
+      "sdist": [
+        "kGtFDUHkd6F2Aob7Zl51Mt+gQhttZcKu/14+CdqcIq0=",
+        "pyannotators-zeroshotclassifier-0.5.151.tar.gz"
+      ],
+      "wheels": {
+        "pyannotators_zeroshotclassifier-0.5.151-py3-none-any.whl": [
+          "oFRxz9JhbEMoqyCi0v9/IMFK8w2Gbzhuky1MjKPyc8Q=",
           "py3"
         ]
       }

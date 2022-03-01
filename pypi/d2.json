@@ -13248,6 +13248,18 @@
         ]
       }
     },
+    "2.15.0a0": {
+      "sdist": [
+        "66ekyJZ9mGwWECPglzMSpYyH/YNiL8WDD26hD25luTA=",
+        "aws-cdk.aws-lambda-python-alpha-2.15.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_lambda_python_alpha-2.15.0a0-py3-none-any.whl": [
+          "5yVDlzYvaGtdpquDOwQkEdOh3vmfdp6xB3aKoJinaZs=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0a0": {
       "sdist": [
         "NeLbiwpsnl8xi5nHKs5FnmrJqZ3LZ7FXqCAf++AGZRU=",
@@ -14306,6 +14318,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_eventbridge_kinesis_firehose_s3-1.142.0-py3-none-any.whl": [
           "hjaB8H+2OPzjawxSymuRJoShb81B7Jtb087NtewN5lE=",
+          "py3"
+        ]
+      }
+    },
+    "1.143.0": {
+      "sdist": [
+        "tdltza1saqVn1WX58htYrUNttFDyEybc15kTe1qe9fw=",
+        "aws-solutions-constructs.aws-eventbridge-kinesis-firehose-s3-1.143.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_eventbridge_kinesis_firehose_s3-1.143.0-py3-none-any.whl": [
+          "O94J54DA17pc7FwTKtLxrKjVOgLuFg+Drdgy8VDsOUg=",
           "py3"
         ]
       }
@@ -84195,6 +84219,12 @@
         "UB1jVn3wjvm/nEgg+F3BwweeNF2DY1HokXa0Iz+V0xM=",
         "peek-storage-service-3.1.4.tar.gz"
       ]
+    },
+    "3.2.0": {
+      "sdist": [
+        "CVHoqooihkOGXvEZ6rSfmDxaaLfBcQVHCuZTZkacnhM=",
+        "peek-storage-service-3.2.0.tar.gz"
+      ]
     }
   },
   "pencompy": {
@@ -87354,14 +87384,14 @@
     }
   },
   "promisedio-promise": {
-    "1.0.15": {
+    "1.0.19": {
       "sdist": [
-        "0/pfRjxl6m/+UWb/g5hMva2ketdIwGQMDIYv0SAshRY=",
-        "promisedio-promise-1.0.15.tar.gz"
+        "JK48XEOtcCzHrE2NJSHwrisAb88z33OY1vkfySzFiXI=",
+        "promisedio-promise-1.0.19.tar.gz"
       ],
       "wheels": {
-        "promisedio_promise-1.0.15-cp310-cp310-macosx_12_0_x86_64.whl": [
-          "JRCxv3dEYnVr6w+GEXswf5r/LJbbIRRFGMe2MxaEHGY=",
+        "promisedio_promise-1.0.19-cp310-cp310-macosx_12_0_x86_64.whl": [
+          "LQBHagfhSML7giyt6gjsOUFLOe7eru3w0siAcV+3VGo=",
           "cp310"
         ]
       }
@@ -89569,6 +89599,84 @@
         "2f+O1UvVLkPdiW1eLkSA91HqHGZhohxKflOnFB26FS8=",
         "pycddl-0.1.0.tar.gz"
       ]
+    },
+    "0.1.10": {
+      "sdist": [
+        "MqC9ZkNhtl3uM1KNdf+x7FOwYupNxgdUWBQK41FgSU8=",
+        "pycddl-0.1.10.tar.gz"
+      ]
+    },
+    "0.1.11": {
+      "sdist": [
+        "0MX5qhzBB5dnU7VwXQyGbF2MVeezAx4M21zjUeOM7SM=",
+        "pycddl-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "pycddl-0.1.11-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "1wvLs4XMDiJJEpOQki/n+H2R413A3y4NvZe8arPtxVQ=",
+          "cp310"
+        ],
+        "pycddl-0.1.11-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZLNnS1/+o0wz0tS6VnOed/GM/3B08mXYaJMurFxbau0=",
+          "cp310"
+        ],
+        "pycddl-0.1.11-cp310-none-win_amd64.whl": [
+          "Scr7AGUWbjbDrSsZmmZ7KGWbYgczMUlERbDk5lQbZsg=",
+          "cp310"
+        ],
+        "pycddl-0.1.11-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "oL/kxPZ40lcpMLB5SSgFa4beRbbWf6VtksJKzz8A2nA=",
+          "cp37"
+        ],
+        "pycddl-0.1.11-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SBdX47MMqbhJK8joUhsFzoGDhfFnHxs04QMhU21PfHQ=",
+          "cp37"
+        ],
+        "pycddl-0.1.11-cp37-none-win_amd64.whl": [
+          "zNVIewfeJoLiX/4hYPJCIxQE8gKgOUstCXRezDDwuQg=",
+          "cp37"
+        ],
+        "pycddl-0.1.11-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "ZoRKnXuqsr2NvDlZs5pDwNqJ5PzQdY78QWML0ICP5nU=",
+          "cp38"
+        ],
+        "pycddl-0.1.11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tOaW13tz0UYS3KqcxBrGyqq/r7z2UHA8JfLB57Q1WW4=",
+          "cp38"
+        ],
+        "pycddl-0.1.11-cp38-none-win_amd64.whl": [
+          "vW/4oQurAoS5ESNbT0nWHI+IQqv+7tcs4GYQLQ1jGC4=",
+          "cp38"
+        ],
+        "pycddl-0.1.11-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "dMy/SHKa9v+s4OlJ/iQNQhs95xrfzkjk7q0GayT5DfU=",
+          "cp39"
+        ],
+        "pycddl-0.1.11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iNbCkeGHZdF7TaIG6yCLHilX0fhYJGpwsUEY9WcDxH8=",
+          "cp39"
+        ],
+        "pycddl-0.1.11-cp39-none-win_amd64.whl": [
+          "ueOERdm2+oSXkyGQJ1aqafibUA4TSTU5KiS163qi6k0=",
+          "cp39"
+        ],
+        "pycddl-0.1.11-pp37-pypy37_pp73-macosx_10_7_x86_64.whl": [
+          "EPwIxBOf+6Xw1huB9nuhMo/Ul40jx8V6VhrCgjabRHQ=",
+          "pp37"
+        ],
+        "pycddl-0.1.11-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "CNr/lzqrdFRIDgULV/82bZq6Sstndi4pqKMhO8t0V4Y=",
+          "pp37"
+        ],
+        "pycddl-0.1.11-pp38-pypy38_pp73-macosx_10_7_x86_64.whl": [
+          "OjzRJZOZfEitUx1KiJq1Xj6lun7KMPVEvTrEvSLJQIo=",
+          "pp38"
+        ],
+        "pycddl-0.1.11-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jNb3MBr1Qvw4qbJlSHg8rqabaDq1gPTaL83FdODvxUc=",
+          "pp38"
+        ]
+      }
     }
   },
   "pychoice": {
@@ -110674,6 +110782,42 @@
         ],
         "spectacularAI-0.17.2-cp39-cp39-win_amd64.whl": [
           "xovjX3nGfdZVJ02CCxRVUcfTnsaBAcqQPcpYefcDLS0=",
+          "cp39"
+        ]
+      }
+    },
+    "0.18.0": {
+      "wheels": {
+        "spectacularAI-0.18.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "r4D8pKoT9xJEFD6X59/FMNjVTo7cECKhr3R326cFszg=",
+          "cp310"
+        ],
+        "spectacularAI-0.18.0-cp310-cp310-win_amd64.whl": [
+          "heouodMEd8Kk0iljbpwOwbGA9SjtL4fmtyywk9/8uFM=",
+          "cp310"
+        ],
+        "spectacularAI-0.18.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6bImueKzwTn+yw1lnEKIpc6Lu0jiYayNnSLVQ47Cvkg=",
+          "cp37"
+        ],
+        "spectacularAI-0.18.0-cp37-cp37m-win_amd64.whl": [
+          "mgFPnPdL2RjY13LDvDkS8ANuRoGl282ePNkznkM8S+c=",
+          "cp37"
+        ],
+        "spectacularAI-0.18.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7Hh1WJotqvzF6Fsb3UPWjzyu6axpa0PcBdEr1ZQOxMo=",
+          "cp38"
+        ],
+        "spectacularAI-0.18.0-cp38-cp38-win_amd64.whl": [
+          "hwv7Ymm72J9YymfMLlRoWJIuMRm4Y4LPE+dZEEOsD6A=",
+          "cp38"
+        ],
+        "spectacularAI-0.18.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XnxHvTM9xTZaGg5bTdGLkSJvDVd7WfbsFJyUv25fVG8=",
+          "cp39"
+        ],
+        "spectacularAI-0.18.0-cp39-cp39-win_amd64.whl": [
+          "cSz5JQf2HQPVrTzzt2l1g6LRmAyWvvK/rphr3SYG2wg=",
           "cp39"
         ]
       }

@@ -9138,6 +9138,18 @@
         ]
       }
     },
+    "1.143.0": {
+      "sdist": [
+        "vqVkVCdxJXiV2H+QAkUnArzFYFzJ+70Rz6A6uULkZh0=",
+        "aws-solutions-constructs.aws-kinesis-streams-kinesis-firehose-s3-1.143.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_streams_kinesis_firehose_s3-1.143.0-py3-none-any.whl": [
+          "OY14DmUsUvUSEjpAt8BN0bGYFWA1JxkbU2aceEFY0Rs=",
+          "py3"
+        ]
+      }
+    },
     "1.68.0": {
       "sdist": [
         "7LUriacZHprq20xe1lBXt5GdCWLQRmvyKCjYUjw7HyA=",
@@ -10882,6 +10894,22 @@
       "wheels": {
         "bdpy-0.16-py2.py3-none-any.whl": [
           "15ARTqVvj0cAq4Vx5wAqB3m7vcKwYYPqS07nd1OqiQA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.17": {
+      "wheels": {
+        "bdpy-0.17-py2.py3-none-any.whl": [
+          "TlzGGISYvv5xAGtEmCy4Vg+TNGnka5KTDfOheoJYGEY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.17.1": {
+      "wheels": {
+        "bdpy-0.17.1-py2.py3-none-any.whl": [
+          "zDmkMHP/cxkCWE2PKo1ayH5xyOpHUKswxotVBKp9NhE=",
           "py2.py3"
         ]
       }
@@ -79137,6 +79165,12 @@
         "em1Mel9zWF8QgRKaaCKE9kfiQZWPVfEH/Y8eXwO4oqo=",
         "peek-core-search-3.1.4.tar.gz"
       ]
+    },
+    "3.2.0": {
+      "sdist": [
+        "2L53uG/oCiwBRAlPpbBH8qMc0wKQ+OALHoB1MalhCQM=",
+        "peek-core-search-3.2.0.tar.gz"
+      ]
     }
   },
   "peekalink": {
@@ -81132,6 +81166,18 @@
       "wheels": {
         "pex-2.1.68-py2.py3-none-any.whl": [
           "mjB2KmBgX5/cyBRIWQaC+qMPvlDhDTv8N+tEXaFXF8s=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.1.69": {
+      "sdist": [
+        "JbQ8yn/uALjjVSRgqKXsQOC4rOCGkMPxb50KqWg89kM=",
+        "pex-2.1.69.tar.gz"
+      ],
+      "wheels": {
+        "pex-2.1.69-py2.py3-none-any.whl": [
+          "ayKM3PdrmnrAkZugRNxW/7IYnAHysTEHD14Wg8ZDAbo=",
           "py2.py3"
         ]
       }
@@ -92668,14 +92714,6 @@
     }
   },
   "quarkstudio": {
-    "4.5.0": {
-      "wheels": {
-        "quarkstudio-4.5.0-py3-none-win_amd64.whl": [
-          "/xHXgpHoH0/VBeRliurVgTNbd7w8RBnwWh41JyiEDrI=",
-          "py3"
-        ]
-      }
-    },
     "5.1.3": {
       "wheels": {
         "quarkstudio-5.1.3-py3-none-macosx_10_9_universal2.whl": [
@@ -93810,6 +93848,38 @@
         ],
         "raytraverse-1.2.6-cp38-cp38-manylinux2010_x86_64.whl": [
           "cKxdZmpBOcaAqal3Vyjd0fESk13vN+fUEtpnXPjMqIc=",
+          "cp38"
+        ]
+      }
+    },
+    "1.2.7": {
+      "sdist": [
+        "0XOnSTPaAfyjrqs8KpR9RtX2Zot72SEx5+F65A3GTpg=",
+        "raytraverse-1.2.7.tar.gz"
+      ],
+      "wheels": {
+        "raytraverse-1.2.7-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "OCJzfCfueG9cNLLm4uyERN+RweyCYEiWTOZaPGQ6iOA=",
+          "cp36"
+        ],
+        "raytraverse-1.2.7-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "foUac8y2jucyaaYkZ1YAIPhouF3r/DuPqtiNcsL7PAk=",
+          "cp36"
+        ],
+        "raytraverse-1.2.7-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "nxVOEYW6OEdm5IvTcgqYoD6g2Z/UF1hDt4WrmmxkTAs=",
+          "cp37"
+        ],
+        "raytraverse-1.2.7-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "/o5CDPgdpbiHtY3skLKEHCUngev/B8x6rDNsZkoYTH0=",
+          "cp37"
+        ],
+        "raytraverse-1.2.7-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "HMwEWFZ3men4PRzk1Qa+iDEt7t5tceGN2itx5lhoUSU=",
+          "cp38"
+        ],
+        "raytraverse-1.2.7-cp38-cp38-manylinux2010_x86_64.whl": [
+          "1ENy3gcoRmwyz3Q55OX7hV3zPn8EDasV8fu4xKbkyjI=",
           "cp38"
         ]
       }
