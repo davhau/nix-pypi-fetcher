@@ -2094,6 +2094,12 @@
         "appsurifyci-0.0.32.tar.gz"
       ]
     },
+    "0.0.33": {
+      "sdist": [
+        "t7ulRrbaWG5WKTgQ9V+6BeFaoRz5VI9jAREdMupqYTg=",
+        "appsurifyci-0.0.33.tar.gz"
+      ]
+    },
     "0.0.4": {
       "sdist": [
         "KqS/1GJtEwPKhuW2BbzK8NrD95VgfQhk+UXpE98OJ9Y=",
@@ -4196,6 +4202,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_sns_lambda-1.145.0-py3-none-any.whl": [
           "Sod1dAye9bm323FEyFjq37Ebx1+somTf5881XImpXNs=",
+          "py3"
+        ]
+      }
+    },
+    "1.146.0": {
+      "sdist": [
+        "LWYfn1/IWBH7bQYEb9UsL5oIslkIDuPy+1bNbLvhNTY=",
+        "aws-solutions-constructs.aws-sns-lambda-1.146.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_sns_lambda-1.146.0-py3-none-any.whl": [
+          "rjZBXOwiQy6oZ+vqaUXrpWTdOs/bxJ/jX8UtT0NLOiI=",
           "py3"
         ]
       }
@@ -7004,6 +7022,22 @@
         ]
       }
     },
+    "0.8.3.dev159": {
+      "wheels": {
+        "bagua_cuda102-0.8.3.dev159-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NIyg72Pzxs+bM82YiYqXeYL3tbDEv0Fjb8xhwEAS4iA=",
+          "cp37"
+        ],
+        "bagua_cuda102-0.8.3.dev159-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oBcEy+/FYAOZly9/er/qNYK3IGz+IjjuLLATEsqtNJs=",
+          "cp38"
+        ],
+        "bagua_cuda102-0.8.3.dev159-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ouUjFznvbS1oJM3NjPS2nj3O90PrXHSnG0MKO70ixQo=",
+          "cp39"
+        ]
+      }
+    },
     "0.8.3.dev16": {
       "wheels": {
         "bagua_cuda102-0.8.3.dev16-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -7016,6 +7050,22 @@
         ],
         "bagua_cuda102-0.8.3.dev16-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "w99Km1qu3MmrqhJYPOOvvlRjhfZg3CsvKSYOv0Nlm08=",
+          "cp39"
+        ]
+      }
+    },
+    "0.8.3.dev160": {
+      "wheels": {
+        "bagua_cuda102-0.8.3.dev160-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xDlFGKzNplCX9UmBKyzG6yBwiO398AcCnmdh1YGRYeE=",
+          "cp37"
+        ],
+        "bagua_cuda102-0.8.3.dev160-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "uOS99CfRTYs3SZX6DLRPeE0CyDZOIWjoVB+fLTCJZ3Q=",
+          "cp38"
+        ],
+        "bagua_cuda102-0.8.3.dev160-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OEIkWFdyeJK4diXpAS9lPCnSYzSkiQFIIyl5yr6aPfs=",
           "cp39"
         ]
       }
@@ -26645,6 +26695,30 @@
           "py3"
         ]
       }
+    },
+    "1.5.0rc1.dev870": {
+      "sdist": [
+        "4+1lbvHPoom/S/brgI2N8wCKy7gwvtiJZ6ZOM4+ma0M=",
+        "dapr-dev-1.5.0rc1.dev870.tar.gz"
+      ],
+      "wheels": {
+        "dapr_dev-1.5.0rc1.dev870-py3-none-any.whl": [
+          "TO5LeTP9zuv086SxWZxUnhWdI7lW4MZWpAAj4Q3lddU=",
+          "py3"
+        ]
+      }
+    },
+    "1.5.0rc1.dev872": {
+      "sdist": [
+        "/JJ3tgYVoUb2i5HY6HQDu7VDs7MPrcPPWU+q5Ej0/uo=",
+        "dapr-dev-1.5.0rc1.dev872.tar.gz"
+      ],
+      "wheels": {
+        "dapr_dev-1.5.0rc1.dev872-py3-none-any.whl": [
+          "2E9UadPEz+zaeVISCjgHfy+MCnANaALx3Ty7nicwQ4I=",
+          "py3"
+        ]
+      }
     }
   },
   "darkswarm": {
@@ -41070,34 +41144,18 @@
         ]
       }
     },
-    "1.0.5.4": {
+    "1.0.5.6": {
       "wheels": {
-        "gma-1.0.5.4-cp310-cp310-win_amd64.whl": [
-          "loYcMjw1jZ0wGx8FXIbHdpf2VzI42YxpqOGJE09i7Gs=",
+        "gma-1.0.5.6-cp310-cp310-win_amd64.whl": [
+          "0igFVg8+0EB/wpg3Jnnqh8BTd/w3a9WpxJ1LZyBf430=",
           "cp310"
         ],
-        "gma-1.0.5.4-cp38-cp38-win_amd64.whl": [
-          "Yv5Q1dWxar8QdAZAOTo57jwNwG56DNVgzGdx5Pha5EA=",
+        "gma-1.0.5.6-cp38-cp38-win_amd64.whl": [
+          "k4SzLnL7c0Qo8ODav/cmP3vkpcX1mRhM2hdGg+Mnb2c=",
           "cp38"
         ],
-        "gma-1.0.5.4-cp39-cp39-win_amd64.whl": [
-          "YhEXvbHKYV4kF6Aro1SAm3VS7LlDliPQ/K41IMXKS9o=",
-          "cp39"
-        ]
-      }
-    },
-    "1.0.5.5": {
-      "wheels": {
-        "gma-1.0.5.5-cp310-cp310-win_amd64.whl": [
-          "1701GY0g2Z0KKeJ0go6ftiqG706QTbPmoY7PJK+bekQ=",
-          "cp310"
-        ],
-        "gma-1.0.5.5-cp38-cp38-win_amd64.whl": [
-          "T950hY0bYDM8TasEuI5oDaponVQEPrdLxN1Kq4oqRGU=",
-          "cp38"
-        ],
-        "gma-1.0.5.5-cp39-cp39-win_amd64.whl": [
-          "lZVHPTItg8gpRJhS2UtKfISa5kAEfw/KN2PQeuibJMM=",
+        "gma-1.0.5.6-cp39-cp39-win_amd64.whl": [
+          "em1AibtqudZWKzZ8qMp4aNT6Eo4etyFopvkXRwQ0hJo=",
           "cp39"
         ]
       }
@@ -43400,6 +43458,12 @@
       "sdist": [
         "sLjhv9oh1Iq4CL6u93ecAFq2zgJLFejtt/znmqYD0gg=",
         "hein_robots-0.4.5.tar.gz"
+      ]
+    },
+    "0.4.6": {
+      "sdist": [
+        "W/0LnTouUnRugQvKfjOHRZzAWuartpiz7s/RdUJei3c=",
+        "hein_robots-0.4.6.tar.gz"
       ]
     }
   },
@@ -115792,6 +115856,18 @@
       "sdist": [
         "2HAURp3mYJuUadxV/zVpfyGpXZgBwLcW0BYuuTkh/+U=",
         "wirereport-2017.7.3.1712.tar.gz"
+      ]
+    },
+    "2022.3.2.1806": {
+      "sdist": [
+        "oC3kPERzPcthPNV8keydQ7z29kGjBMBjsqzW7vxvbkM=",
+        "wirereport-2022.3.2.1806.tar.gz"
+      ]
+    },
+    "2022.3.2.1820": {
+      "sdist": [
+        "o4Ys3GPhDkkSMl7L0gM9zRWjjJitpZQS467at51XEyQ=",
+        "wirereport-2022.3.2.1820.tar.gz"
       ]
     }
   },
