@@ -34991,6 +34991,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.0.0a1": {
+      "sdist": [
+        "y8p4cSv9UO5zCrXjZa6RKjENjPZvqPlHNpuT1PvsFLg=",
+        "django-modern-rpc-1.0.0a1.tar.gz"
+      ],
+      "wheels": {
+        "django_modern_rpc-1.0.0a1-py3-none-any.whl": [
+          "o0zN6nU0N6Es+asV8azb70eITjQRwWimXI2xWkMVIHo=",
+          "py3"
+        ]
+      }
     }
   },
   "django-mope": {
@@ -37980,6 +37992,18 @@
       "wheels": {
         "docutools-2022.2.4-py3-none-any.whl": [
           "50Ecr8LQiXk5eRcef94UHJ0pmxoR6P4HSvawwk1zGwE=",
+          "py3"
+        ]
+      }
+    },
+    "2022.3.3": {
+      "sdist": [
+        "U2lmS3LbTrK3AOLz1IF08+JJkWzvlaxJoGe+H5A5q2M=",
+        "docutools-2022.3.3.tar.gz"
+      ],
+      "wheels": {
+        "docutools-2022.3.3-py3-none-any.whl": [
+          "W2TGb1E6mwb36VpICX5lK3EJHuPcsZ1X5A5GeK/SrnY=",
           "py3"
         ]
       }
@@ -49498,53 +49522,23 @@
     }
   },
   "fso-metadata": {
-    "0.1": {
-      "sdist": [
-        "uQG9XqvjzmvSEKi7wAtCcOyQ1GuHVBzfJW9Fv32mcvc=",
-        "fso_metadata-0.1.tar.gz"
-      ]
-    },
-    "0.2": {
-      "sdist": [
-        "5BO0hcrBl5+HUhxDiTxczJ7GH/HldVll+1RD+lATTys=",
-        "fso_metadata-0.2.tar.gz"
-      ]
-    },
-    "0.3": {
-      "sdist": [
-        "TBuicINLJydURK+c0glIm+tsZ7RNZFE/Yo4FdgjtnTU=",
-        "fso_metadata-0.3.tar.gz"
-      ]
-    },
-    "0.4": {
-      "sdist": [
-        "ikn4miTMaxES/NUwad8SNqdR0TwhTFIqno0FgYIh/ug=",
-        "fso_metadata-0.4.tar.gz"
-      ]
-    },
-    "0.5": {
-      "sdist": [
-        "4HotYSaY+g4kVx0syUAGbQtI7QXDGLul3Oz42cW02AA=",
-        "fso_metadata-0.5.tar.gz"
-      ]
-    },
-    "0.6": {
-      "sdist": [
-        "xjyBrNzDfeV05dqIeFL1lBBAxfox7kfuWmGfAjEHufo=",
-        "fso_metadata-0.6.tar.gz"
-      ]
-    },
-    "0.7": {
-      "sdist": [
-        "UYQzWEdj/I5vJax3+wkiU2jAu79WsqCBzeKk223CiXs=",
-        "fso_metadata-0.7.tar.gz"
-      ]
-    },
     "0.8": {
       "sdist": [
         "wZ5Zz62XhDQ2Klku/pZcQqGG9bjjyuYILkG7lqfJ3pQ=",
         "fso_metadata-0.8.tar.gz"
       ]
+    },
+    "0.8.1": {
+      "sdist": [
+        "XfTa/xUNq2tSuALYwutPVq+MMdzEkQBzFk089LEFG50=",
+        "fso_metadata-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "fso_metadata-0.8.1-py3-none-any.whl": [
+          "XJbMm2Hp1eiwOirt9+kXZBK5qsehgjINwvyoTEU7hDE=",
+          "py3"
+        ]
+      }
     }
   },
   "fugu": {
@@ -53923,6 +53917,12 @@
         "dwoyuqoP0zLzUfXPbddrLrK6poQEUAqBzgVpr5rMD9I=",
         "gshell-5.6.0.tar.gz"
       ]
+    },
+    "5.6.1": {
+      "sdist": [
+        "Y1XHHC9XI6N68kILY3w9T5qnoiz8Bn2EX6+vgUAJejA=",
+        "gshell-5.6.1.tar.gz"
+      ]
     }
   },
   "gwx-telehealth": {
@@ -54158,10 +54158,10 @@
     }
   },
   "halconcontroller": {
-    "0.2": {
+    "0.4.5.2": {
       "sdist": [
-        "0kBeofAmwaTyIl7589HElAX6QDTgu/3umSv++4aYHlY=",
-        "halconcontroller-0.2.tar.gz"
+        "NSSzkHi8mo0+3zmosgEuJ+eqrmFqfb0zqrLiIhBNRNM=",
+        "halconcontroller-0.4.5.2.tar.gz"
       ]
     }
   },
@@ -62358,6 +62358,46 @@
         ],
         "KratosStatisticsApplication-9.0.3-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "2PN3SgLhSaLk8QecNngpFrfVS28Q5HXXFtuW16mZX78=",
+          "cp39"
+        ]
+      }
+    },
+    "9.1.0": {
+      "wheels": {
+        "KratosStatisticsApplication-9.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Ex11lx9woXOI/FulMFcxm3ZZbAxhWsFNGY8y+i42Svc=",
+          "cp310"
+        ],
+        "KratosStatisticsApplication-9.1.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "68iW14rf0gYxXB6AoP4Fibc2OjYgJY1iqTvQdQm82zU=",
+          "cp36"
+        ],
+        "KratosStatisticsApplication-9.1.0-cp36-cp36m-win_amd64.whl": [
+          "w41+pcDGpBIwz43Skkxb+sQThfsWtB62++SZnD1prqs=",
+          "cp36"
+        ],
+        "KratosStatisticsApplication-9.1.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "y4nVphj5bSQ2BoERew0Lu+e4ScTpJtoNoD8c+gAojKY=",
+          "cp37"
+        ],
+        "KratosStatisticsApplication-9.1.0-cp37-cp37m-win_amd64.whl": [
+          "POM+lYopBZ09uwK+kiZNX/RvxQxIwZLc6UdlXVQsrMk=",
+          "cp37"
+        ],
+        "KratosStatisticsApplication-9.1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iQZDOPHPgIW26sE/Wl2BW4Lb5dddVAHXaZLl2vEOBOc=",
+          "cp38"
+        ],
+        "KratosStatisticsApplication-9.1.0-cp38-cp38-win_amd64.whl": [
+          "emtrZ3fAi9+5twRJrmA+22ZtjJK1H3TRj3CJuOZjCfI=",
+          "cp38"
+        ],
+        "KratosStatisticsApplication-9.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "h1IpOUOmaTgKZ0kEnJ/H/419vF4zt8ce9J/+x0ctP1Q=",
+          "cp39"
+        ],
+        "KratosStatisticsApplication-9.1.0-cp39-cp39-win_amd64.whl": [
+          "qRJngn9BOZ+z7YNR8fz31H4kh2KN2OSG1VY/3lgtS44=",
           "cp39"
         ]
       }
@@ -84648,6 +84688,20 @@
       "wheels": {
         "opentelemetry_instrumentation_asgi-0.28b1-py3-none-any.whl": [
           "ZFqjdis1yr40y1ZYpru40OEVKg25pFVQ3EM7b1Q0114=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "openxjv": {
+    "0.5.4": {
+      "sdist": [
+        "wLgFiOId1N0jY9bQO1FEzwFsBafa13pr42zNhhnKJ4o=",
+        "openXJV-0.5.4.tar.gz"
+      ],
+      "wheels": {
+        "openXJV-0.5.4-py3-none-any.whl": [
+          "fmq3K1i8xhlagp2Ht5B2kK8W+gh2xocwHQ/H2KTid5k=",
           "py3"
         ]
       }
