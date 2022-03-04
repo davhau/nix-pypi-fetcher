@@ -1268,6 +1268,18 @@
         ]
       }
     },
+    "0.8.27.2": {
+      "sdist": [
+        "0Dx9SXAdnB6jcPLdAYqmr3/k2plY51WT2tN4UnMzYDE=",
+        "acryl-datahub-0.8.27.2.tar.gz"
+      ],
+      "wheels": {
+        "acryl_datahub-0.8.27.2-py3-none-any.whl": [
+          "VfYsqBIwA5ZndnT9py25E54nL7NepBjI8ouIJm4Ak/k=",
+          "py3"
+        ]
+      }
+    },
     "0.8.27.2rc1": {
       "sdist": [
         "mdLDUmHt6/Y5hofFinNCv4YdmNRB6dWDKafFVvkIuKM=",
@@ -1288,6 +1300,18 @@
       "wheels": {
         "acryl_datahub-0.8.27.2rc2-py3-none-any.whl": [
           "3z2km0G2D/kHpf41eshtRP3y79XZxHyAiANmo3APhpc=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.27.2rc3": {
+      "sdist": [
+        "WFbK2JMD2WjDmvyGggg1eQJQpOOFvL+7Z/ZD2xuRqog=",
+        "acryl-datahub-0.8.27.2rc3.tar.gz"
+      ],
+      "wheels": {
+        "acryl_datahub-0.8.27.2rc3-py3-none-any.whl": [
+          "IDtNJhK23iOZF79SLK26ITR/gQFbzBSsU1XH9jDjZuo=",
           "py3"
         ]
       }
@@ -46005,6 +46029,12 @@
         "MYZ85tK+kaJ16cAZ3s3Y+tGH5wLshHQIhqDV+cXFO+E=",
         "iocbio.sparks-1.4.0.tar.gz"
       ]
+    },
+    "1.4.1": {
+      "sdist": [
+        "C05viqpP3CYYjs/XdSUzy7Q5V8jqa4f7wpWBnhsC+nY=",
+        "iocbio.sparks-1.4.1.tar.gz"
+      ]
     }
   },
   "ipaddress": {
@@ -52744,58 +52774,6 @@
     }
   },
   "megengine": {
-    "1.7.0": {
-      "wheels": {
-        "MegEngine-1.7.0-cp35-cp35m-macosx_10_14_x86_64.whl": [
-          "kAC4nWuF2jZdwpR07ex7nK4YguHD6RCW+nTJ3XyCsdM=",
-          "cp35"
-        ],
-        "MegEngine-1.7.0-cp35-cp35m-manylinux2014_x86_64.whl": [
-          "W0Xt2DA4rqnEJtgGJFANbMIEFxSiuX2lfGa9BjDQXFE=",
-          "cp35"
-        ],
-        "MegEngine-1.7.0-cp35-cp35m-win_amd64.whl": [
-          "SAb7DZmIjWpDATSui0yaX+6uBnCTD2FzBELipwwn5Mo=",
-          "cp35"
-        ],
-        "MegEngine-1.7.0-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "zcZwXX8zGS9+TmFjkYUMdd2/o6J+Ga5BwgDMpxuY0X0=",
-          "cp36"
-        ],
-        "MegEngine-1.7.0-cp36-cp36m-manylinux2014_x86_64.whl": [
-          "J61+hWARVUCmmxHQLVC2wOk7iUrYA5q/Qg+lXQq+XnM=",
-          "cp36"
-        ],
-        "MegEngine-1.7.0-cp36-cp36m-win_amd64.whl": [
-          "L0F0NvJXOyR2pTxfjFQiGGNZi/QCwHws9KBhLnwxhvk=",
-          "cp36"
-        ],
-        "MegEngine-1.7.0-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "2NyFxHsibCABdk3GiIC22XtjRS3FzjadncKwG/Dde78=",
-          "cp37"
-        ],
-        "MegEngine-1.7.0-cp37-cp37m-manylinux2014_x86_64.whl": [
-          "3wqubpr9c+K50qeqvfS/HgqAbAgW0amJ6xzEZQdhQoA=",
-          "cp37"
-        ],
-        "MegEngine-1.7.0-cp37-cp37m-win_amd64.whl": [
-          "YUTgvx7ngwIwKOqeoZcKPBX67etM91RN6E++DOJL7eY=",
-          "cp37"
-        ],
-        "MegEngine-1.7.0-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "LuxeBgP62D+2BDK+0vsGse5RjixPjMz4Du5BNDBQV4I=",
-          "cp38"
-        ],
-        "MegEngine-1.7.0-cp38-cp38-manylinux2014_x86_64.whl": [
-          "HshmSIj8iZ5nmqWPmT5x68bFdEp5jSTIwCzMaYWCiTw=",
-          "cp38"
-        ],
-        "MegEngine-1.7.0-cp38-cp38-win_amd64.whl": [
-          "4FXuU6PkFdcHT76AFiAHPb6ZLxlB+lbPe6yLR+HDgQE=",
-          "cp38"
-        ]
-      }
-    },
     "1.8.1": {
       "wheels": {
         "MegEngine-1.8.1-cp35-cp35m-macosx_10_14_x86_64.whl": [
@@ -52844,6 +52822,58 @@
         ],
         "MegEngine-1.8.1-cp38-cp38-win_amd64.whl": [
           "jgSKP8dmkYNd6A3vCFP4jGe3c8xpNnoLOoA9pyiWA78=",
+          "cp38"
+        ]
+      }
+    },
+    "1.8.2": {
+      "wheels": {
+        "MegEngine-1.8.2-cp35-cp35m-macosx_10_14_x86_64.whl": [
+          "WnCgxY1PdlOWso90r4W9jrwr0LnG8woRLFhCT5HHtro=",
+          "cp35"
+        ],
+        "MegEngine-1.8.2-cp35-cp35m-manylinux2014_x86_64.whl": [
+          "xwKW3r0d24RKwiRf1Rz4M1FYGsZRTMho64/I8jhQhzg=",
+          "cp35"
+        ],
+        "MegEngine-1.8.2-cp35-cp35m-win_amd64.whl": [
+          "3j44GyddKE/exvEEa7kkywmM8zw+c3Hm/nl44s9CBLA=",
+          "cp35"
+        ],
+        "MegEngine-1.8.2-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "qlcyqrcNd58Op91J/gHRRWttCQ4k49E56+lRDVCiT14=",
+          "cp36"
+        ],
+        "MegEngine-1.8.2-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "zDFuPwSXFbgiNV70KahFbYFPnOiPe+FydOZkDiJkSgc=",
+          "cp36"
+        ],
+        "MegEngine-1.8.2-cp36-cp36m-win_amd64.whl": [
+          "22QdxxoUtIEp40A1Ix+ztgdG2s35kdc56Au9melrtII=",
+          "cp36"
+        ],
+        "MegEngine-1.8.2-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "Me3Hzov5W94p/rcBpIBNDpY1uYFWZ/c2qLRCGwYrTjg=",
+          "cp37"
+        ],
+        "MegEngine-1.8.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "7G5v5Ctkd7S9Zqi3ZTlc+kprlrZK0OMt9EyDi5/4RBs=",
+          "cp37"
+        ],
+        "MegEngine-1.8.2-cp37-cp37m-win_amd64.whl": [
+          "1ntrPiCusVYy8mPcJNrn+AJUo3QRNKzzc/T2jNzH78A=",
+          "cp37"
+        ],
+        "MegEngine-1.8.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "1fTXk+vsdaeb7pE/V4Z5vZNYB+ymMeEd7cgzbhr79cM=",
+          "cp38"
+        ],
+        "MegEngine-1.8.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "fsNHnySWGum60OBcv42oXIXKrG27GVKIoHZfnHeObQs=",
+          "cp38"
+        ],
+        "MegEngine-1.8.2-cp38-cp38-win_amd64.whl": [
+          "y4pwESOYHwidMfIJEqXASQtdG5Um/ZjiE6sEcS2kdHw=",
           "cp38"
         ]
       }

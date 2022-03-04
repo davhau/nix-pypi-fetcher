@@ -33261,6 +33261,22 @@
           "cp39"
         ]
       }
+    },
+    "2022.3.4": {
+      "wheels": {
+        "fbgemm_gpu_nightly_cpu-2022.3.4-cp37-cp37m-manylinux1_x86_64.whl": [
+          "PKbSnjCp/O8zAFVDj+bL7eQJ5qeBWTJu3REx3gONA00=",
+          "cp37"
+        ],
+        "fbgemm_gpu_nightly_cpu-2022.3.4-cp38-cp38-manylinux1_x86_64.whl": [
+          "qnI02iDW/ZUBeEi2/v31wsMtfcqdsDneMcBmsZ8PeDI=",
+          "cp38"
+        ],
+        "fbgemm_gpu_nightly_cpu-2022.3.4-cp39-cp39-manylinux1_x86_64.whl": [
+          "IB+qRWzC0wqpAh7UiNYVTDcQJxjGDPTMplycCFLmGqY=",
+          "cp39"
+        ]
+      }
     }
   },
   "fdat": {
@@ -34670,6 +34686,18 @@
       "wheels": {
         "flexlate-0.9.0-py3-none-any.whl": [
           "/k8tb+hOinOLD0KX9UeqIMpoEfQl/PgbSdjKuxfUGUg=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "sdist": [
+        "O7uFc86hZZ4FQgawbNWBQgw2i8hqXRO8r2rCBMvtKi8=",
+        "flexlate-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "flexlate-0.9.1-py3-none-any.whl": [
+          "t2khaTPn6XvcULcVaXd2bh6H/LQscJCmjrUGXqOsoVs=",
           "py3"
         ]
       }
@@ -36952,6 +36980,12 @@
       "sdist": [
         "9khhShJZsxRaGu8XakMCe+tRG4fiYGG1I83d8Qzdw5k=",
         "geojson-pydantic-0.3.2.tar.gz"
+      ]
+    },
+    "0.3.3": {
+      "sdist": [
+        "8bAuNLtoRpNmM/vLXed9GT0NMmIw9yd0rkXL3cypzmk=",
+        "geojson-pydantic-0.3.3.tar.gz"
       ]
     }
   },
@@ -43307,6 +43341,34 @@
         "intel_numpy-1.15.1-cp36-cp36m-win_amd64.whl": [
           "9YrHE3ZeszmQMsnKIzgAfOlZRtK41K/Omlrb57vjULU=",
           "cp36"
+        ]
+      }
+    },
+    "1.21.4": {
+      "wheels": {
+        "intel_numpy-1.21.4-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "PrveNcFqbNtxEiZPtD+8/5glxgcSDlprUxGLSqUj5rI=",
+          "cp37"
+        ],
+        "intel_numpy-1.21.4-cp37-cp37m-win_amd64.whl": [
+          "W6h/t+7lQU3lq41bWFkb0UyfA3sbo+t+7joDqVk+Kck=",
+          "cp37"
+        ],
+        "intel_numpy-1.21.4-cp38-cp38-manylinux2014_x86_64.whl": [
+          "9ja9OWvFFnOVgFJoS8HmWRQ5vYfybh62x0sQ1x+wREA=",
+          "cp38"
+        ],
+        "intel_numpy-1.21.4-cp38-cp38-win_amd64.whl": [
+          "G3FgwvroRgu/wh0ndqfzsM98NGr5Wm+1G0217nS8I2I=",
+          "cp38"
+        ],
+        "intel_numpy-1.21.4-cp39-cp39-manylinux2014_x86_64.whl": [
+          "MEV/0XV07sHgxfuf4+udNAogJXJ7HAEX2I4isOSx06g=",
+          "cp39"
+        ],
+        "intel_numpy-1.21.4-cp39-cp39-win_amd64.whl": [
+          "plhZRRWlDqo0KoIa3rrjA5KZbWKzgU+el3tUfUyVHtc=",
+          "cp39"
         ]
       }
     }
@@ -54920,10 +54982,40 @@
         "jina-3.0.4.dev9.tar.gz"
       ]
     },
+    "3.0.5.dev10": {
+      "sdist": [
+        "3kncpgx72YEEo/N0uCHpjFJT8jz/ZhLsQHEB/KPMwvQ=",
+        "jina-3.0.5.dev10.tar.gz"
+      ]
+    },
     "3.0.5.dev5": {
       "sdist": [
         "vTrnoNfb7Q0lwZhMr6OmQakhubokXu4uO+ncC6Pq8dc=",
         "jina-3.0.5.dev5.tar.gz"
+      ]
+    },
+    "3.0.5.dev7": {
+      "sdist": [
+        "fKlZywt1cO8INryYgY+Bqj3TqstfmaElXKki1wAUjFk=",
+        "jina-3.0.5.dev7.tar.gz"
+      ]
+    },
+    "3.0.5.dev8": {
+      "sdist": [
+        "t7wN05luGpT+D77u2hOjue6qUUnfis+IYCPFcmPvJIM=",
+        "jina-3.0.5.dev8.tar.gz"
+      ]
+    },
+    "3.0.5.dev9": {
+      "sdist": [
+        "56+Dy3udKLefoohth9puW88PBrw7cukc7evWzS3B5c8=",
+        "jina-3.0.5.dev9.tar.gz"
+      ]
+    },
+    "3.1.0": {
+      "sdist": [
+        "li0YodQAIP3z5n/vfHugplNFO41Vm7r9QrEpJx50uGE=",
+        "jina-3.1.0.tar.gz"
       ]
     }
   },
@@ -55784,6 +55876,18 @@
       "wheels": {
         "jupyterlab_language_pack_pl_PL-3.2.post9-py2.py3-none-any.whl": [
           "pFvZHBdavhjyBjUWNgpZEuDsPxLKtbar2Ry0PHni9e4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.3.post0": {
+      "sdist": [
+        "QtKTRDXr29ISPwOxUtg/qAz9CKfCEbnC6fr9ssDRF6g=",
+        "jupyterlab-language-pack-pl-PL-3.3.post0.tar.gz"
+      ],
+      "wheels": {
+        "jupyterlab_language_pack_pl_PL-3.3.post0-py2.py3-none-any.whl": [
+          "yVp1NuVajv1OdKlkMAhrrAt2uBzF8YoKDVGbFdhXm3Q=",
           "py2.py3"
         ]
       }
@@ -96113,6 +96217,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.0": {
+      "sdist": [
+        "CFgBzRuoxapP1YSOXCyeYrOqEEIXQvSRjKYqtUHmT3Y=",
+        "renku-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "renku-1.1.0-py3-none-any.whl": [
+          "39ulhFSlioBWvAs1B1x0qmZ3ITNZmINroxBRRV1hQCg=",
+          "py3"
+        ]
+      }
     }
   },
   "requests-kerberos": {
@@ -103577,6 +103693,32 @@
         "RyFgfguBe4nv26fnnKuIGgMWS5R3f0z3lq1d1Zp2EsU=",
         "sqlite3dbm-0.1.4.tar.gz"
       ]
+    }
+  },
+  "squirrel-core": {
+    "0.0.1.dev17511": {
+      "sdist": [
+        "LYLKJUAsPy/O+q89/XFZybKh/PkfFKRx2F89y/1AOX0=",
+        "squirrel-core-0.0.1.dev17511.tar.gz"
+      ],
+      "wheels": {
+        "squirrel_core-0.0.1.dev17511-py3-none-any.whl": [
+          "+kiDZAhaN5bhC5fFRE9/MPbXeaXDc2FwRiRKgcUiYZ4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.dev311822": {
+      "sdist": [
+        "rLZlzpfmRpLfD5w58CtYWdafjYr28VYHEk2xSDGJFb0=",
+        "squirrel-core-0.0.1.dev311822.tar.gz"
+      ],
+      "wheels": {
+        "squirrel_core-0.0.1.dev311822-py3-none-any.whl": [
+          "XagHPR8PTIgpE8rxIoM8cew3fIoEZPAZ1TwFh5rKTks=",
+          "py3"
+        ]
+      }
     }
   },
   "stac-fastapi.sqlalchemy": {
