@@ -2214,6 +2214,12 @@
         "aos-tools-1.1.34.tar.gz"
       ]
     },
+    "1.1.35": {
+      "sdist": [
+        "qg4Wj39/WBFm/kiSxOBJab/AzNwc4ix3W3HA7V3LIJg=",
+        "aos-tools-1.1.35.tar.gz"
+      ]
+    },
     "1.1.5": {
       "sdist": [
         "jApGPPAVQlQWPjqJb8zNglTuNI5seLr4VXZDSPP4At4=",
@@ -10004,6 +10010,12 @@
       "sdist": [
         "J6FUEAyA27N4M3lg7KI7w28HRfALLKrvEIeAMIs84CE=",
         "benimang-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.30": {
+      "sdist": [
+        "dV81/v+fImnL4psKrillv5VYcOyOP8fUaIDgYdhVIhY=",
+        "benimang-0.0.30.tar.gz"
       ]
     },
     "0.0.4": {
@@ -30920,6 +30932,14 @@
         ]
       }
     },
+    "1.14.0": {
+      "wheels": {
+        "datupapi-1.14.0-py3-none-any.whl": [
+          "dKvbu5rjNZv8HO8c9TjgIUCgTuMWLOQkkcB5AJhQ5QA=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "wheels": {
         "datupapi-1.2.0-py3-none-any.whl": [
@@ -38661,6 +38681,20 @@
         "CnXBFnx+JsYL3bLKEjtRGxX1I2jE0cf2Imi/kGmqlvw=",
         "dolmen.app.authentication-1.1.1.tar.gz"
       ]
+    }
+  },
+  "doodleverse-utils": {
+    "0.0.1a0": {
+      "sdist": [
+        "MdnIEk+BQyVDyemU4IHYgBjFRsdR6mHipl5mE29sics=",
+        "doodleverse-utils-0.0.1a0.tar.gz"
+      ],
+      "wheels": {
+        "doodleverse_utils-0.0.1a0-py3-none-any.whl": [
+          "sA270tpl3wErfSL4+6hhCEod5KsqJRkGtWEvuWti5g8=",
+          "py3"
+        ]
+      }
     }
   },
   "doryrips": {
@@ -79236,14 +79270,26 @@
     }
   },
   "notime": {
-    "0.0": {
+    "0.0.1": {
       "sdist": [
-        "GynMt+NN2Ed65/1QCnvF0E51yvha0itid6vKSFXgFdE=",
-        "notime-0.0.tar.gz"
+        "IR9VthtxqeSxRmarbowMdUg2gupTddA4o7nX6qIy62U=",
+        "NotiMe-0.0.1.tar.gz"
       ],
       "wheels": {
-        "notime-0.0-py3-none-any.whl": [
-          "XNdXJFYr7486TDRsJe7hIvTgEfe6UTmXxhJIGHIhynM=",
+        "NotiMe-0.0.1-py3-none-any.whl": [
+          "nrIm5p8yL7XJ6HOMk8P8nxiCrn8zav9yaQL1jCkRPDQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "LLra/P73fSTqNIUP+JR5TBmoS0mJBGl2bzmRQqFmZOs=",
+        "NotiMe-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "NotiMe-0.0.2-py3-none-any.whl": [
+          "zKY6Nk2gJH1mtESDTMCDwv958cwIe+GTGDlwQEl/+0Q=",
           "py3"
         ]
       }
@@ -86282,6 +86328,38 @@
         ]
       }
     },
+    "2.10.0rc3": {
+      "wheels": {
+        "pantsbuild.pants-2.10.0rc3-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "dmJ5WYsAYWyQmHDhYQI9MDcDNwUeYx/m68CtbUdojyc=",
+          "cp37"
+        ],
+        "pantsbuild.pants-2.10.0rc3-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "5/uqHGbpw3aQ/C0kZNl4wD7OgSt2BMHRz4ZxcnxTBUY=",
+          "cp37"
+        ],
+        "pantsbuild.pants-2.10.0rc3-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "KeHXIm5kp1LAoKW+hx7frXe3mFDM4e0UcvVNQVhJEIE=",
+          "cp38"
+        ],
+        "pantsbuild.pants-2.10.0rc3-cp38-cp38-manylinux2014_x86_64.whl": [
+          "nL6VkGQRQ+mOsq2iD5G4ooD9zsk/r23ItITHNW/wFL0=",
+          "cp38"
+        ],
+        "pantsbuild.pants-2.10.0rc3-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "Xm6SdSt6rRKsl8rTbUbcw4r3n2seqRq0TfiiyxIwrJY=",
+          "cp39"
+        ],
+        "pantsbuild.pants-2.10.0rc3-cp39-cp39-macosx_11_0_arm64.whl": [
+          "BcA8N90xiYi4lRWjD0lua1/kGxFIu0JnXAhPIb6/J7c=",
+          "cp39"
+        ],
+        "pantsbuild.pants-2.10.0rc3-cp39-cp39-manylinux2014_x86_64.whl": [
+          "7Gu8YPoZLD89MNFL+41JCEqZRmt6IsapbO9lDNmskUg=",
+          "cp39"
+        ]
+      }
+    },
     "2.11.0.dev0": {
       "wheels": {
         "pantsbuild.pants-2.11.0.dev0-cp37-cp37m-macosx_10_15_x86_64.whl": [
@@ -89222,6 +89300,38 @@
         ],
         "pantsbuild.pants-2.9.1rc0-cp39-cp39-manylinux2014_x86_64.whl": [
           "c/ro3IQNsR4C7pSyIwoboC1dmFd1qi1dGzKTBnJybt8=",
+          "cp39"
+        ]
+      }
+    },
+    "2.9.1rc1": {
+      "wheels": {
+        "pantsbuild.pants-2.9.1rc1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "/gfUWrORzVcwFNbQTca5/lmPbGRm0pzKuOSjAC64i1E=",
+          "cp37"
+        ],
+        "pantsbuild.pants-2.9.1rc1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "1ER22F3byKgzrHAgP96LQIEdYrBDb7kFaMAZNeg7ypY=",
+          "cp37"
+        ],
+        "pantsbuild.pants-2.9.1rc1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "BBofh37pfqNEbee1iuoXM620BPxVbNu5Y1MEOPQw9WE=",
+          "cp38"
+        ],
+        "pantsbuild.pants-2.9.1rc1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "C0rqPHPQMKwjmMAivgRW66STE1AI4YS0d0oZ5iikdVI=",
+          "cp38"
+        ],
+        "pantsbuild.pants-2.9.1rc1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "q23RMXrUZXxw0IeWOjgwHwmgtIOsbn+OIiLFLPYi+LI=",
+          "cp39"
+        ],
+        "pantsbuild.pants-2.9.1rc1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "XQZ+PbPFa+B5FEuUDKZgQJOK+gm7o8eIvaoPw2ox/7o=",
+          "cp39"
+        ],
+        "pantsbuild.pants-2.9.1rc1-cp39-cp39-manylinux2014_x86_64.whl": [
+          "/W9fkv9tr5odf6nusTKHd5bbh5K0cYa7temigbUyR+o=",
           "cp39"
         ]
       }
@@ -122340,6 +122450,18 @@
         ]
       }
     },
+    "0.26": {
+      "sdist": [
+        "cjk7B3s0csSkB04bO2UyEzsu0i1NbWF2ifVAKjO959s=",
+        "squad-client-0.26.tar.gz"
+      ],
+      "wheels": {
+        "squad_client-0.26-py3-none-any.whl": [
+          "F4PLxGGmyHdkolAQg/UvKT086SkHsUTdmFgwlrPPNVM=",
+          "py3"
+        ]
+      }
+    },
     "0.3": {
       "sdist": [
         "JeSnY9NpaSTOtKXqovy/xSt73MlxR6Z7w1cDU+7SU24=",
@@ -124556,6 +124678,18 @@
       "wheels": {
         "storops-1.2.10.dev1-py2.py3-none-any.whl": [
           "Kstdj0n3FeTfSnTwejV7QscAn4Gkr7O/Rod/1bKrXLM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.11": {
+      "sdist": [
+        "NMFk6lfEH+ZINOhRwV0XzG3XrBRP+VWcD98rcEGOd6g=",
+        "storops-1.2.11.tar.gz"
+      ],
+      "wheels": {
+        "storops-1.2.11-py2.py3-none-any.whl": [
+          "ZYiYavKsKM9Mm/CryBnCnDp8gNreucgxiI8Wy37lSIo=",
           "py2.py3"
         ]
       }
@@ -132996,6 +133130,18 @@
       "wheels": {
         "usort-1.0.1-py3-none-any.whl": [
           "l6ki4NWp1B+sBe/Jx5MIw2ILFrz0UCR0QRAjUIH6vbY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "8NvfzxixFzI9/zoD34BJV7o7dVwQadLPmL7hM1kr02k=",
+        "usort-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "usort-1.0.2-py3-none-any.whl": [
+          "Dn7gcCkC1NVP3TXLyB9VkN8lc9sp5yrrbt2qnp0Bzvk=",
           "py3"
         ]
       }

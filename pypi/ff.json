@@ -3563,6 +3563,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.1rc1": {
+      "sdist": [
+        "i0YqABCTTY/7pNxkHtTyDL8jMLSAzjr7gG8enqt3PVI=",
+        "apache-airflow-providers-apache-cassandra-2.1.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_apache_cassandra-2.1.1rc1-py3-none-any.whl": [
+          "RD0cxR3WgVyZPBv2uTpxmAtiPpetwwKizlYZW3QGfmA=",
+          "py3"
+        ]
+      }
     }
   },
   "apache-airflow-providers-cloudant": {
@@ -3690,6 +3702,18 @@
       "wheels": {
         "apache_airflow_providers_cloudant-2.0.1rc1-py3-none-any.whl": [
           "e7gvKOU14ZYvBuzRy5BbhiTs1uXSoZ9SkBGxyQTp0R4=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.2rc1": {
+      "sdist": [
+        "Dna46q3wTAWTioKmZZR9NpgM8Ciq0Q2locoHEYKOTt8=",
+        "apache-airflow-providers-cloudant-2.0.2rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_cloudant-2.0.2rc1-py3-none-any.whl": [
+          "8jM/D/kvSDb5y2ENvnyEAuJVkwj5iHkedB+rUA+KUYs=",
           "py3"
         ]
       }
@@ -28434,10 +28458,10 @@
     }
   },
   "delete-char-substring": {
-    "0.9.2": {
+    "0.9.3": {
       "sdist": [
-        "M66xqzkfa/2kX1neZL4VUVK2dQGBnSU1Hel//wS3UYQ=",
-        "delete_char_substring-0.9.2.tar.gz"
+        "sGiv9Tffp90kWgKF8TWuRjJNKNWsrzrPXxaI5Awm/dM=",
+        "delete_char_substring-0.9.3.tar.gz"
       ]
     }
   },
@@ -53537,6 +53561,12 @@
         "nxztYnCLKIztMR/2XdIO0/l9MNAOFXL/PkQYLfJ8gtI=",
         "kb_python-0.27.0.tar.gz"
       ]
+    },
+    "0.27.1": {
+      "sdist": [
+        "dUZjvpPihCJfqyg7Ba0TfWqa3ygb+l7cb3empo1EUEI=",
+        "kb_python-0.27.1.tar.gz"
+      ]
     }
   },
   "kbmc": {
@@ -54756,6 +54786,18 @@
       "wheels": {
         "laskea-2022.3.7-py2.py3-none-any.whl": [
           "sNdmtbgTlUh3NJh2brWbAmp+q8MlVpgbE+iYf6dieHg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2022.3.8": {
+      "sdist": [
+        "EDhS6QMHzgUmYgdQTmHZWUIWOi5WjKmedbbbbb4L1g4=",
+        "laskea-2022.3.8.tar.gz"
+      ],
+      "wheels": {
+        "laskea-2022.3.8-py2.py3-none-any.whl": [
+          "NeHgyXQJD6TCUPpytPH1JHliOpRVoAvbL1WOONEQgfc=",
           "py2.py3"
         ]
       }
@@ -67142,6 +67184,16 @@
       "wheels": {
         "odoo13_addon_base_gs1_barcode-13.0.1.1.1.dev1-py3-none-any.whl": [
           "Kv/2A3eJYVL78VYmnMh6SI/GhcrIPqlZHBZwbzAHbaY=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo13-addon-purchase-order-product-recommendation-classification": {
+    "13.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo13_addon_purchase_order_product_recommendation_classification-13.0.1.0.1.dev2-py3-none-any.whl": [
+          "rcVH8xSBYTcQdjUOiPyYIcfuR926A8CAif7uImMMBOE=",
           "py3"
         ]
       }
@@ -85829,6 +85881,18 @@
           "py2.py3"
         ]
       }
+    },
+    "8.4": {
+      "sdist": [
+        "CdgqAlvHxJQbIPxEY1kWbqe0GqGOjCZ3oUXKCAgrJeQ=",
+        "pyobjc-framework-FileProviderUI-8.4.tar.gz"
+      ],
+      "wheels": {
+        "pyobjc_framework_FileProviderUI-8.4-py2.py3-none-any.whl": [
+          "L6zjXZKrhP1cH+lssgwckHYvmsfebPTAf0TsyqhLq0w=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyobjc-frameworkcollaboration": {
@@ -99357,6 +99421,30 @@
           "py3"
         ]
       }
+    },
+    "0.2.9": {
+      "sdist": [
+        "ipuGXMpTdjVfBNKmrE5ys/3KnVvRhE1QLe1rXODB1Zk=",
+        "slowedvideos-0.2.9.tar.gz"
+      ],
+      "wheels": {
+        "slowedvideos-0.2.9-py3-none-any.whl": [
+          "7YPuFBcC79cuDdolbPdrCn5x2KugXZ46uhXggjC7Lb4=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "WeSG03PLSdAp96/Chf3amXco/Ah//NbSrknSuDqYOrI=",
+        "slowedvideos-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "slowedvideos-0.3.0-py3-none-any.whl": [
+          "Z5Z4mxZ/8V+ITU2zu6zflUwkGVfOOgoMPPvMk62Rm20=",
+          "py3"
+        ]
+      }
     }
   },
   "smali": {
@@ -109126,6 +109214,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ckafka-3.0.594-py2.py3-none-any.whl": [
           "QCt9h0Hxn/0Djx9MPbJroV3KpmzYVQF3WORQpmy67IQ=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.595": {
+      "sdist": [
+        "II3VUFmTLXkbAC+E88HwtSFQn9K5Dudlcfijd+OKVPg=",
+        "tencentcloud-sdk-python-ckafka-3.0.595.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ckafka-3.0.595-py2.py3-none-any.whl": [
+          "BwlhmGINds0qa03KQueT+fICjXaXnCqbaPvQ+bxOYX8=",
           "py2.py3"
         ]
       }

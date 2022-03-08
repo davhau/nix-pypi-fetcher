@@ -4671,6 +4671,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.2rc1": {
+      "sdist": [
+        "32czu0Y8KATuAgphdNltwdhG1PZPCTuxDfANo9xRYfg=",
+        "apache-airflow-providers-apache-pig-2.0.2rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_apache_pig-2.0.2rc1-py3-none-any.whl": [
+          "qLGbucakA2IMjeG380treTU8U0kLdBJwlKwKfqqzgYM=",
+          "py3"
+        ]
+      }
     }
   },
   "apache-airflow-providers-jdbc": {
@@ -4834,6 +4846,18 @@
       "wheels": {
         "apache_airflow_providers_jdbc-2.1.0rc2-py3-none-any.whl": [
           "vPRuB+7Bqu/Labm6fXaPrLgFR6LlNLXJQs+AXOebqiM=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.1rc1": {
+      "sdist": [
+        "bxfELJgL3ta7KvW7ckZS/c7KtbXgxR98erb6vJnB5hE=",
+        "apache-airflow-providers-jdbc-2.1.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_jdbc-2.1.1rc1-py3-none-any.whl": [
+          "0GoEnWO2hBcZKwPUZ0ZFMyFDOobYGlBJZ38ENsRRQ04=",
           "py3"
         ]
       }
@@ -56498,6 +56522,12 @@
       "sdist": [
         "Cg3ifdBfT44Ayy1NX8kULIXKKYBx/lj+kIaROlYLkK8=",
         "lyrebird-2.1.1.tar.gz"
+      ]
+    },
+    "2.1.2": {
+      "sdist": [
+        "5UMQLqvDyLcVrCGXILJaKOcMFoSHOFX7jCDXDoQwGXg=",
+        "lyrebird-2.1.2.tar.gz"
       ]
     }
   },
@@ -120110,6 +120140,18 @@
         ]
       }
     },
+    "1.17.12": {
+      "sdist": [
+        "YfpPqteA1yXXqWjkGhRs+vMqz+TL8w+FF1ChQYVttJI=",
+        "slg-dev-ops-1.17.12.tar.gz"
+      ],
+      "wheels": {
+        "slg_dev_ops-1.17.12-py3-none-any.whl": [
+          "5wh3+eY3DWTg9wPyWBvA8e6fs5Vy7hPvZtGrDjXAXi8=",
+          "py3"
+        ]
+      }
+    },
     "1.17.2": {
       "sdist": [
         "AGraWn0uqq2tlK0Vx1ikClG0PnQ/vsiRrqIkm2aSvs0=",
@@ -120202,6 +120244,54 @@
       "wheels": {
         "slg_dev_ops-1.17.9-py3-none-any.whl": [
           "ctH98jX+sRVDFkSzG2UhQcb0sp1Ff06wBafj1gGE0ic=",
+          "py3"
+        ]
+      }
+    },
+    "1.18.0": {
+      "sdist": [
+        "/uNEG749PuZFRAaLBFJ0DQdvuof3jA1yhSGqathjabU=",
+        "slg-dev-ops-1.18.0.tar.gz"
+      ],
+      "wheels": {
+        "slg_dev_ops-1.18.0-py3-none-any.whl": [
+          "TaD8CldkvGoRUITMA2s6AKh/Ai4L4cwnzA3VESB4isI=",
+          "py3"
+        ]
+      }
+    },
+    "1.18.1": {
+      "sdist": [
+        "8XpJxH6ZRHYtZGjm5iMwBoao9Pr87cPdzUHZ8QQ5ndc=",
+        "slg-dev-ops-1.18.1.tar.gz"
+      ],
+      "wheels": {
+        "slg_dev_ops-1.18.1-py3-none-any.whl": [
+          "SPoy/5xLvoq5PUUDmle+HelcPbBJQsVuiDjjjLD6AIk=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.0": {
+      "sdist": [
+        "IFSvq6jDjCu+qftqwHw5nkQel6JZIMAaH2PCqkZ9Yfo=",
+        "slg-dev-ops-1.19.0.tar.gz"
+      ],
+      "wheels": {
+        "slg_dev_ops-1.19.0-py3-none-any.whl": [
+          "MKsgkFi54SPznWzAT+zBX0JIs1e6LsqcOp2kg2q6O3Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.19.1": {
+      "sdist": [
+        "IFO4EtX8vR/MCiwb2l1xr+f6WN30Jum1rQQ/tbAAazY=",
+        "slg-dev-ops-1.19.1.tar.gz"
+      ],
+      "wheels": {
+        "slg_dev_ops-1.19.1-py3-none-any.whl": [
+          "gxY+K+wkIeKzqD0dsggo7P3ITU74bCmgERDc3Lt31ls=",
           "py3"
         ]
       }
@@ -124778,6 +124868,20 @@
         ],
         "swimbundle_email-0.2.1-py3-none-any.whl": [
           "bRYddcDN0Lgu962zRVGwdY16mOAwmPRboK+zeLRUjV4=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "swmmtonetcdf": {
+    "0.0.2": {
+      "sdist": [
+        "pIW3YOvlupFOBZxiCun4yEqv0o+V46bAc3wWkZY4fxM=",
+        "swmmtonetcdf-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "swmmtonetcdf-0.0.2-py3-none-any.whl": [
+          "LGKysenXhsUF0yZ/hdbwnmRCbAAo8x6HLogeAbjo33M=",
           "py3"
         ]
       }
