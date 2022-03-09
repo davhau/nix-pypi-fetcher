@@ -12781,6 +12781,20 @@
       ]
     }
   },
+  "cryptoex": {
+    "0.0.1": {
+      "sdist": [
+        "20N0+56HZP2RHqMM87M8Y0tt/cWwpa3Vs4V+RNxSUGc=",
+        "cryptoEx-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "iyinL1WOT7TCjoi49e++/Fqy1SVntPKjZYV286KZjIM=",
+        "cryptoEx-0.0.2.tar.gz"
+      ]
+    }
+  },
   "csd-common": {
     "0.0.1": {
       "sdist": [
@@ -28748,6 +28762,12 @@
       "sdist": [
         "IKcQyoNHckEQkV4mwYVnbw2O9llSQd+BjHvjAnilep8=",
         "erazhan_algorithms-0.0.6.tar.gz"
+      ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "1Ltprcf1U0ZNrSpZeyl3h+6doTomS1ds/aZU3K4t1HQ=",
+        "erazhan_algorithms-0.0.7.tar.gz"
       ]
     }
   },
@@ -48787,6 +48807,20 @@
       ]
     }
   },
+  "kperf": {
+    "3.3.3": {
+      "sdist": [
+        "XCZSbMiPTMrXKkjyx0O4Yn0GTEkYzjoUnftgASGTpK8=",
+        "kperf-3.3.3.tar.gz"
+      ],
+      "wheels": {
+        "kperf-3.3.3-py3-none-any.whl": [
+          "9gLD4BWgkIECn6N4106Yi3Q6JZr0xey4GonAS7Yw6iA=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ku": {
     "0.0.1": {
       "sdist": [
@@ -55830,6 +55864,78 @@
         ],
         "maturin-0.12.1-py3-none-win_arm64.whl": [
           "lrmAEfDA3PRHW69zpzY94c/Twco07w4Y09mzu7C0ICI=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.10": {
+      "sdist": [
+        "siVWyOovukJiabd8eA2J6lLeTqVw6q28SmaCFTP9XCs=",
+        "maturin-0.12.10.tar.gz"
+      ],
+      "wheels": {
+        "maturin-0.12.10-py3-none-macosx_10_7_x86_64.whl": [
+          "+MyeEHGMSVm5Q4KF2X5MoI5+da8GvwjJSZBdv0J0J+4=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "PiT76vOW85/JpYpYU7zHhqki97zfKnc7Dpiri1bBTqU=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "ELQRW9vvPXxKcbOmTnarmlZD4Yru/xcBRk0KgGkS9CA=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "LjBlvsZ4Q+csx34qvO8iN3P1FVMWuMSqgKzwQVSJdSE=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "VzFIH0eTiIKTqYKpr9nUQPTDKQsBCvrSQA45Z28HNTY=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "GV8Rs1Nc4x7AwjSfwfiQfoL5nw5gKbkeqpCtGQ5U3VU=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "KJZ/4gzNSfQroecpg6+WLds6swBq1UIqQuyedQcHIjQ=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "xm4PEljTMG8tHITQMgUsXGnMkwYgbDwvvsC352g3cUE=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-musllinux_1_1_aarch64.whl": [
+          "PhKaJDEzRf5I8RZ4owe/ONvSOt6zd4NJNnX/01LNQ6s=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-musllinux_1_1_armv7l.whl": [
+          "22GRHmW+H5je/pncrsAhy3f9P6mLCN64hMLk9h5gSXo=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-musllinux_1_1_i686.whl": [
+          "c09xPYKtL2UNZL7uRfJgiuLJMdaTJpNseKLyXy4YmhI=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-musllinux_1_1_ppc64le.whl": [
+          "vCZztA5Q7GCSVifvJf34tyUjjrec4uvI6EuyRdktM0A=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-musllinux_1_1_x86_64.whl": [
+          "gX5aS3ZDKqseCR1Wq8cem1MOE0XANvy9TMK1Q09nwoo=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-win32.whl": [
+          "lw0HXf+q5IpB8c5NBG4WsknQ9iHOW2MPzCk0qG6ET8M=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-win_amd64.whl": [
+          "ETQPGnzZ+HvGYWEdEvBG/dFe/HBg/bWpYq/nAx9VOyE=",
+          "py3"
+        ],
+        "maturin-0.12.10-py3-none-win_arm64.whl": [
+          "O9jwicnxl1Z1ACydtlIub5TGJq6c7hc48wG9PWbKRVc=",
           "py3"
         ]
       }
@@ -92310,6 +92416,18 @@
       "wheels": {
         "PySDM-2.4-py3-none-any.whl": [
           "9Omeo77cqeAgehw89nNrlaN2b2axiM7hPJWeRtR1bkA=",
+          "py3"
+        ]
+      }
+    },
+    "2.5": {
+      "sdist": [
+        "Q/KNXro7IrCHitbhyY77jOnQU3JLN1FsoUuwL6u3K2s=",
+        "PySDM-2.5.tar.gz"
+      ],
+      "wheels": {
+        "PySDM-2.5-py3-none-any.whl": [
+          "vKoj7UetZcBbIi7yV4qNlkiz+KcXyBbLPFPegIZWfhY=",
           "py3"
         ]
       }
