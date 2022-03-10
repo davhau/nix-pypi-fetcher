@@ -12790,6 +12790,12 @@
         "cbmi_utils-0.3.22.tar.gz"
       ]
     },
+    "0.3.23": {
+      "sdist": [
+        "ME7QJoEcxTuolQW6Q7DiRMBuxWqS+5F3zXNHf4ciM70=",
+        "cbmi_utils-0.3.23.tar.gz"
+      ]
+    },
     "0.3.3": {
       "sdist": [
         "vQufIFflEDtr7ESBqjFHZHob6FPSF1qYMQc4/2vnyw0=",
@@ -106983,6 +106989,46 @@
           "py3"
         ]
       }
+    },
+    "0.4.1": {
+      "sdist": [
+        "o/wK/XklJsokDiewBxDGj1ri++Knm5GpW6cG9d+neGE=",
+        "seamsh-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "seamsh-0.4.1-py3-none-macosx_10_9_x86_64.whl": [
+          "SCmta/avmBpmhKJhjHO7BOXesmdlChI6n2YI4mndnWw=",
+          "py3"
+        ],
+        "seamsh-0.4.1-py3-none-manylinux1_x86_64.whl": [
+          "hPPcqI2X8oEWMdaSFDqCvnkjVXM0i9sQLcOdYP/MHao=",
+          "py3"
+        ],
+        "seamsh-0.4.1-py3-none-win_amd64.whl": [
+          "lxgLCcdaS1wlYAfTO+U1L32bvsbgKzdZfYdUbJ25NXk=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.2": {
+      "sdist": [
+        "aSV1xbbCt7CvWkXTZ1j7LcG+FzMJvwwV32Z59F3Okqo=",
+        "seamsh-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "seamsh-0.4.2-py3-none-macosx_10_9_x86_64.whl": [
+          "KmCEZgTiRkxUYdXUNBeJBi4oUiMXkSy+oqOTR6Ki/9Q=",
+          "py3"
+        ],
+        "seamsh-0.4.2-py3-none-manylinux1_x86_64.whl": [
+          "9ta5MsDY1lnYBqV6cSFMdI134TJInYt0osKqUQgf4MQ=",
+          "py3"
+        ],
+        "seamsh-0.4.2-py3-none-win_amd64.whl": [
+          "rkyfoCxcSLTYJj0V4kQM0/RmFBJ3BSAtGxQlvAW9fY4=",
+          "py3"
+        ]
+      }
     }
   },
   "sec-python": {
@@ -114131,6 +114177,20 @@
         "0Grv1htU/CpQwWc73MAgx1trTTGP/RzEnY0A0lYLU2o=",
         "tempusloader-1.2.1.tar.gz"
       ]
+    }
+  },
+  "tenscalc": {
+    "0.1.1": {
+      "sdist": [
+        "YYPJjS897dqsFQimV6KXyY22WdX3Ej8bDAq39v/9FHI=",
+        "tenscalc-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "tenscalc-0.1.1-py3-none-any.whl": [
+          "RfPJKXxA/dpiIDXvZpHBs9EsOMKtYF2DqjSlsmBgwfg=",
+          "py3"
+        ]
+      }
     }
   },
   "tensorflow-text-nightly": {
@@ -127086,6 +127146,50 @@
         ],
         "tensorflow_text_nightly-2.9.0.dev20220309-cp39-cp39-win_amd64.whl": [
           "9LklAbpAg5GuTrzKm5M2eW+V8bytIj1TIeIqHYKwctA=",
+          "cp39"
+        ]
+      }
+    },
+    "2.9.0.dev20220310": {
+      "wheels": {
+        "tensorflow_text_nightly-2.9.0.dev20220310-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "jaU2e7asIAUBqewVLlN88Uw/fD97lTRI1ltlxGQ7V+I=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220310-cp310-cp310-win_amd64.whl": [
+          "+nn9gFL76W0ozOzTURPD+S8vgjt5mesvC5sJEynqeoo=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220310-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "z+Zw6iy9CyJ6mi0oZDu02Ld/fFK38aYJW2avyGRlvys=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220310-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "qg7UKZH/IFIUHOjXXZajUGD06Fr7Dh/UzsA4zqlKvhU=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220310-cp37-cp37m-win_amd64.whl": [
+          "XBwzPe/gG/adNituN4a7TavgliaCldCraMl5pT714Zc=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220310-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "9xD8RnfhEDu8kTf5IxII6sz/km47na9S4Ks/cDOnHNk=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220310-cp38-cp38-win_amd64.whl": [
+          "6xEMbraOi70yAV1YL7B/DNTpjjcpjCGCfRfXyMPggYQ=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220310-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "ZbhR1js4GIx/sCqtniuDCUjTK0mXvTfQDAEj0Z3MMm4=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220310-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "RHjmCDoa2Ix3l8CfoTOqSYaCsAwdRtfXTvL64lZULHM=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.9.0.dev20220310-cp39-cp39-win_amd64.whl": [
+          "RBvD9nZ+W/KnSo/zC8CZL+Em5tv6QuXGqMpFAC/EIqs=",
           "cp39"
         ]
       }
