@@ -5982,6 +5982,18 @@
         ]
       }
     },
+    "1.148.0": {
+      "sdist": [
+        "tVdbzM6RXEkfP581l7bS+bw8YA3TliASEtCsC/lWf2s=",
+        "aws-cdk.aws-events-1.148.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_events-1.148.0-py3-none-any.whl": [
+          "YIRtRuhZtCq8MuD9rPFYVKPmTSA/EVUeceDmkNSE8ag=",
+          "py3"
+        ]
+      }
+    },
     "1.15.0": {
       "sdist": [
         "byQvZUk1fyd+hm03xa7UGdkM0Vj06d1Xt5dtjc1Lr+Y=",
@@ -8072,6 +8084,18 @@
         ]
       }
     },
+    "1.148.0": {
+      "sdist": [
+        "O+stnRHEQIL8d6z3+6avlQOdAk9mf9Zauf5IuOCTRsA=",
+        "aws-cdk.aws-qldb-1.148.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_qldb-1.148.0-py3-none-any.whl": [
+          "Qgz4nKVjrx6dKCgAyTUR/oLljdu6QBi1Rye9IrSEiQw=",
+          "py3"
+        ]
+      }
+    },
     "1.15.0": {
       "sdist": [
         "6ACRRR6acsYuo/EE4nnypL1knUFDbPBkaerpKt4htCI=",
@@ -9956,6 +9980,18 @@
       "wheels": {
         "babi-1.1.0-py2.py3-none-any.whl": [
           "3K1oDjMk4zu1j22Wyg+M6qENhEEj5lsGACmWW3bajKA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "uIdk8qmbBHfumnaBDZ4W1q1hpvRv5woURsgCyjNCSdE=",
+        "babi-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "babi-1.2.0-py2.py3-none-any.whl": [
+          "KlwrMMAFMXLb3jT7Pj48hxWeNCoUp94WPt/lmfrafJQ=",
           "py2.py3"
         ]
       }
@@ -36520,403 +36556,15 @@
     }
   },
   "gamma-cli": {
-    "0.1.0": {
+    "0.0.0": {
       "sdist": [
-        "R5GhPa0ITKhkx9fhf2Y9N3+vfUddtRRP4CF/MSkSk3Y=",
-        "gamma-cli-0.1.0.tar.gz"
+        "/1kLzfdl7h+9aKTHhGq91DGkBAPFIWH7uXHepRfSB8c=",
+        "gamma-cli-0.0.0.tar.gz"
       ],
       "wheels": {
-        "gamma_cli-0.1.0-py2-none-any.whl": [
-          "/0cAtZ/zfkAQUKssNvhpHH4U1DFYDXXR2VAFVmTIut4=",
-          "py2"
-        ]
-      }
-    },
-    "0.1.1": {
-      "sdist": [
-        "+cRbDTMzDALun68ASZrS4lxpEuzIrHmm0822NdSvFGM=",
-        "gamma-cli-0.1.1.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.1-py2-none-any.whl": [
-          "0oyzagBs2T99yYiAkKKFfCLErb2t5SELgOWiVkrJYvg=",
-          "py2"
-        ],
-        "gamma_cli-0.1.1-py3-none-any.whl": [
-          "XPvU6rq7S1Frzyy87mtiecc46VzATlt55YgMeaOmEUg=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.10": {
-      "sdist": [
-        "+PXmWJTjElky0MAMsNJ4fieZRlV7K9jLLmPT88ex6ng=",
-        "gamma-cli-0.1.10.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.10-py3-none-any.whl": [
-          "Boq2uz9Jvo2Qy14AG6rHcKqeHq3PGxR5EdYElfKOwU4=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.11": {
-      "sdist": [
-        "649C05HG99NNLVMs1BsSGd+teM+8QAT4436QYwN/3U4=",
-        "gamma-cli-0.1.11.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.11-py3-none-any.whl": [
-          "7IQtVvQjihC78u+0IqRn/Ny9AxhJWIZJIix1cqD/2jA=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.12": {
-      "sdist": [
-        "A2pIXbCNzUHwPGgKHQv6YAo+9ka+5EY5kJdvMqc88wo=",
-        "gamma-cli-0.1.12.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.12-py3-none-any.whl": [
-          "Zk2aICfaa7fbVC9qg77W+mNcoC6LZL/i1u04ngdKByQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.13": {
-      "sdist": [
-        "Vp0ZGDrIw54FD72SlFdszCF+CjAueO3mQEUOK+BdYng=",
-        "gamma-cli-0.1.13.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.13-py3-none-any.whl": [
-          "y0Fq0QdKgr1EH7hz8n6C3a8HkwMpkbbiF6gO0JPznpY=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.14": {
-      "sdist": [
-        "msE/I0a/f5VtcO0Xccdxs6ifEOl0meWUMGAHDQPdQZo=",
-        "gamma-cli-0.1.14.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.14-py3-none-any.whl": [
-          "z+QzfiLYgEGaImG9Uhl2gVMQjpIbXfGB0NMD1UCnNb4=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.2": {
-      "sdist": [
-        "315ZPNVbb7i4ub4TGRAw+nAIlx3i6E3mBEA1+Q9AUng=",
-        "gamma-cli-0.1.2.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.2-py3-none-any.whl": [
-          "EzUogSrziOJhGsxdV+1hHJLal9iyYJP48MNsftrRxcQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.3": {
-      "sdist": [
-        "S3FAF9TKqlqNJK5EMiFCp9syBEwMaS/69SCUYDIwjCM=",
-        "gamma-cli-0.1.3.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.3-py3-none-any.whl": [
-          "c18NyJDd+TTfpL5ZkNDwU/92SPhKKhTP6TxhbeRi6JQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.4": {
-      "sdist": [
-        "/1YvwIjX87OxGbY0pMl/a9UJ/jWasHFXvxkvtgI8eBQ=",
-        "gamma-cli-0.1.4.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.4-py3-none-any.whl": [
-          "mt4PQM6OJoL7hhquOnDPIgqO199G3gkB9S6zDqDYkmI=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.5": {
-      "sdist": [
-        "Ok7m0d7T49PcGihXlvuFtsqYKegjXVDLpmT4ujq3STg=",
-        "gamma-cli-0.1.5.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.5-py3-none-any.whl": [
-          "+7ElyidHdPPnshq7LFvWZpt3bk89bAxNfa7ezFgBHoA=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.6": {
-      "sdist": [
-        "7TYmwP9dcRWOZfqao5goqfSP6F6Ta3SDLPoY+WhPY4o=",
-        "gamma-cli-0.1.6.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.6-py3-none-any.whl": [
-          "pTJTg6FSp0FSOEYF6S0HrLAtdw6s4vSZPMBrMe9qRGs=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.7": {
-      "sdist": [
-        "eFktdXN7HEELKlOaxQaR+QQLsJHbtQlKiyWxtTdS5j4=",
-        "gamma-cli-0.1.7.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.7-py3-none-any.whl": [
-          "z8IsCzKXhwWTVs3wSPO0B8311UtL3s0fnF6s/k0C2oM=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.8": {
-      "sdist": [
-        "aj1GaJTOfq6ry0ZEIHBPT/FzwYXNOb8wkDqie7hbqGk=",
-        "gamma-cli-0.1.8.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.8-py3-none-any.whl": [
-          "/Vco6VlnrrGrRze+sfOaqGHCJs+nZY6n7upakc95XsA=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.9": {
-      "sdist": [
-        "EIM4eoBBaph+fsYW4kK1nsFarJq+2nTTK3a2DUOIavY=",
-        "gamma-cli-0.1.9.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.1.9-py3-none-any.whl": [
-          "Ygyk81guHxaxHYnUBWdLmNH4mjC1p2LBnfDDc1gx+mY=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "sdist": [
-        "fA1TJJ7uZHiU3RxCNVTrVtvKmMNp1F+e5P+ylEeyGus=",
-        "gamma-cli-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.2.0-py3-none-any.whl": [
-          "f2iNBbTT7orJ47DEExNyuy3woePR/YE+WOXrriH1LB8=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.1": {
-      "sdist": [
-        "fmhZVVZNLKR116mjTa7L5aQTve8HeWa9h951PmbouDA=",
-        "gamma-cli-0.2.1.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.2.1-py3-none-any.whl": [
-          "zipVUV+L3apHhc6okzTgHP/a+T3TTSyuOOMuN+958jo=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0b2": {
-      "sdist": [
-        "rsLvIvZ5318l7zG4MFxXq+I5JeHd7koirEMeNfqEg7o=",
-        "gamma-cli-0.3.0b2.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.3.0b2-py3-none-any.whl": [
-          "KIaw3BurvFdnWFouaSQfSZcEP1vpqY4zQAFGXwwMbpw=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0b3": {
-      "sdist": [
-        "u8UXamOhs2dLIcZQcqMECb6lvR1NbgPwdnIRYrHEorE=",
-        "gamma-cli-0.3.0b3.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.3.0b3-py3-none-any.whl": [
-          "FTLVjPJYnHMePpHoEHqsJU+J668jFSim6QBJLGoedq8=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0b4": {
-      "sdist": [
-        "INsgbOcOyy1xXUvcoJOkPKogd8iYyrwHLEx7qW82AoU=",
-        "gamma-cli-0.3.0b4.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.3.0b4-py3-none-any.whl": [
-          "J4AiXvTXB206T73eL9K7Sba0Vq0dSeuzkzavCG2ymWg=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0b5": {
-      "sdist": [
-        "/TW0JUYFqdrbzbfKGgodNKB9v5CqH5/sdmiVtIdlRr0=",
-        "gamma-cli-0.3.0b5.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.3.0b5-py3-none-any.whl": [
-          "/ieRdB41uaHHn9XCA7T/QgfUCb3dV9PMLdHjKv02iNY=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0b6": {
-      "sdist": [
-        "82kMhpjUv4rW01qoC5P7oMoLtE8dGs8e5rOcTWiGhS0=",
-        "gamma-cli-0.3.0b6.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.3.0b6-py3-none-any.whl": [
-          "M+AptRwPdkCJjZ9jyWGhoKg2vbt2Y7LvlgbKrGHipAw=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0b7": {
-      "sdist": [
-        "OCtwcjq2c0WicQFH9xYvDTmlmKf1XDP1rD5TyNqAv8I=",
-        "gamma-cli-0.3.0b7.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.3.0b7-py3-none-any.whl": [
-          "L/cLuzubCPKZ8ba2jtprWv9hrWzn8yNN9awj05ahyaE=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0": {
-      "sdist": [
-        "QHF/9mtpUk2gx7I3NWbT2855ANa3zeWuc3AHdowBdVY=",
-        "gamma-cli-0.4.0.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.4.0-py3-none-any.whl": [
-          "dxE4cS9WAb30KLrA8Tl1uYHYopxG9CWAv53p+ddA86I=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0b1": {
-      "sdist": [
-        "9d4HD9AeMAjt9FmSVH5Y4T/RzRYh218W5sk4Yf2xiEc=",
-        "gamma-cli-0.4.0b1.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.4.0b1-py3-none-any.whl": [
-          "x/cGuxHPSr0Kc584A4HIrq1RYyIXXCJsJjOvV/N9QYI=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0b2": {
-      "sdist": [
-        "8EIboiOTcIhAqLHRUScnS3hALwBM5bvsmWHmcLvxmhk=",
-        "gamma-cli-0.4.0b2.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.4.0b2-py3-none-any.whl": [
-          "VvdRdjlyoIEdpSRZKdURXhgk49wcMvrJeO1DcUnrIiI=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.1": {
-      "sdist": [
-        "JXNH4RHiSOuJ0inkheMJGFGKqHoLoryPxmhqs5b9WqM=",
-        "gamma-cli-0.4.1.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.4.1-py3-none-any.whl": [
-          "KjxmjUfH6LYChqg03Pql0r2fX3MVygz0vR34GZdkqpI=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.2": {
-      "sdist": [
-        "RRmWrf3dXBfjZHhmToG5+XFmwgfGfq9qRNPyAxni8T8=",
-        "gamma-cli-0.4.2.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.4.2-py3-none-any.whl": [
-          "9l+mo4MS4VCq54drpfzRWCBS7jYH/63qkjVgfFFO1m8=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.3": {
-      "sdist": [
-        "IO6ZmJrslb+CP0QEW/2u/BRFD3Z1sOXz8rkfjS2NE44=",
-        "gamma-cli-0.4.3.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.4.3-py3-none-any.whl": [
-          "WUcG2LTLAMytqldSJR6Ug5K+wmYglB2cd/krMMGaBn4=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.4": {
-      "sdist": [
-        "2NbkasHqzq8K37jd5HbTtmlaCKxLaQdEpqMxBASmXHo=",
-        "gamma-cli-0.4.4.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.4.4-py3-none-any.whl": [
-          "iPiEpB4NZJCTuPvFNMYCfLqkAJB17z2HsMI6L6YZ9dw=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.5": {
-      "sdist": [
-        "epJB1VAsXXZeW/gwk/fy0vqxtkobJ7o+zhNSAXISDVI=",
-        "gamma-cli-0.4.5.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.4.5-py3-none-any.whl": [
-          "T0c++s3HfdROPdnHZRkHPXJmLepFBzAEUMYgM8PGxAE=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.6": {
-      "sdist": [
-        "/vgE7UAYW7JPp97hrnTcMFUv3262cdGDTgdZwxEwc5M=",
-        "gamma-cli-0.4.6.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.4.6-py3-none-any.whl": [
-          "1mRz+j3zQU/XQRULQAkYJ6HYSBZAfVkvksokaQtqoVY=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.7": {
-      "sdist": [
-        "6QPssXjJFkUTjx2giNLTribUAAPvigv97rEtvari8RQ=",
-        "gamma-cli-0.4.7.tar.gz"
-      ],
-      "wheels": {
-        "gamma_cli-0.4.7-py3-none-any.whl": [
-          "ZoZyd/DOuAKWSoKzU/761iY+gmXLTE4s2jvi1LRKWLY=",
-          "py3"
+        "gamma_cli-0.0.0-py2.py3-none-any.whl": [
+          "beygPTXvAc42NVLkQXYfuaaVcS0b5KpiUxkBoaaeNBY=",
+          "py2.py3"
         ]
       }
     }
@@ -69240,14 +68888,14 @@
     }
   },
   "javid-homework-dictionary": {
-    "2.0.0": {
+    "2.0.1": {
       "sdist": [
-        "Y7saNeRI7mcd+UdB8l7eHvfpgrwpHYp63UsFfuF8+cQ=",
-        "javid-homework-dictionary-2.0.0.tar.gz"
+        "PpQv/rld1fo/fg4/6i+Gej+JnhC0rlbIPM+H6VMkoEA=",
+        "javid-homework-dictionary-2.0.1.tar.gz"
       ],
       "wheels": {
-        "javid_homework_dictionary-2.0.0-py3-none-any.whl": [
-          "U1mhGxv4WmHhU7IpN+dJr966FAGBRX2KteZG8xPoB3E=",
+        "javid_homework_dictionary-2.0.1-py3-none-any.whl": [
+          "IvkKd1LXZAXHfv7OIDbNrpixtrEAwhQfPzEnMtHKq94=",
           "py3"
         ]
       }
@@ -71892,6 +71540,18 @@
       "wheels": {
         "lambdarado-2.3.0.post1-py3-none-any.whl": [
           "L29MPjd+Rk2Le3SdbXU393HccRiKTTXHSA6i0xpmero=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.0.post2": {
+      "sdist": [
+        "1bUVsyrUOB/kz6aEqmJR9GjuDlP0IcM2K7lYybbzNzg=",
+        "lambdarado-2.3.0.post2.tar.gz"
+      ],
+      "wheels": {
+        "lambdarado-2.3.0.post2-py3-none-any.whl": [
+          "9s3ANxLR3jEGS1Nmpsudh0WI6sJ/WGFJniuaED06YPM=",
           "py3"
         ]
       }
@@ -128160,6 +127820,66 @@
         ]
       }
     },
+    "13701": {
+      "sdist": [
+        "YgNyBPKtG18E6fxUfLgKiGqXJ1p4pdKlLooPJYzzHME=",
+        "quantconnect-stubs-13701.tar.gz"
+      ],
+      "wheels": {
+        "quantconnect_stubs-13701-py3-none-any.whl": [
+          "MouuxORREeUz1IIw/Nt04Bh+OxkNYdcxnIHk9hrMFBw=",
+          "py3"
+        ]
+      }
+    },
+    "13703": {
+      "sdist": [
+        "rjGh6Yxmhr/0sg+gRQr7mE6aag1e9NymRssMfvAyFL4=",
+        "quantconnect-stubs-13703.tar.gz"
+      ],
+      "wheels": {
+        "quantconnect_stubs-13703-py3-none-any.whl": [
+          "bdXcslgNhGobLWJtYxK0nHbZr6B6R8kH05wimitH7+U=",
+          "py3"
+        ]
+      }
+    },
+    "13704": {
+      "sdist": [
+        "qENQd5NnITr4jh92SI0mfyMHIevi6LO/158bZSJopS0=",
+        "quantconnect-stubs-13704.tar.gz"
+      ],
+      "wheels": {
+        "quantconnect_stubs-13704-py3-none-any.whl": [
+          "pdw8XKFBX1twMp4FSB8uz3a1Ogx7KrBsHLYq1lWrlvM=",
+          "py3"
+        ]
+      }
+    },
+    "13705": {
+      "sdist": [
+        "f64D51YhZO7iHpbNHeef3WL51p6n2VGR71GUg2E6ouE=",
+        "quantconnect-stubs-13705.tar.gz"
+      ],
+      "wheels": {
+        "quantconnect_stubs-13705-py3-none-any.whl": [
+          "5h0w/ZByg/llCGW8K8Cctta3ZNFmEOp97BgWY0sjC6M=",
+          "py3"
+        ]
+      }
+    },
+    "13706": {
+      "sdist": [
+        "lPENVrXO9E1x3JgaDEwPN2w15XPGsNi3iuvak8QSdQ8=",
+        "quantconnect-stubs-13706.tar.gz"
+      ],
+      "wheels": {
+        "quantconnect_stubs-13706-py3-none-any.whl": [
+          "4jlv73NipEdiP+14QDmJ7mguuW8PKQ/AKVqWkuX9aI4=",
+          "py3"
+        ]
+      }
+    },
     "9811": {
       "sdist": [
         "px/L4DK/RjuKWL+wnz8sFh+4PdQJvdbUNlwCHRcuJog=",
@@ -146745,6 +146465,20 @@
       }
     }
   },
+  "very-simple-dictionary-ece-unal-v2": {
+    "2.0.0": {
+      "sdist": [
+        "F6rwXYNjKIJ0nuz+GwppZEHPhn3wFq6XtpUhPiqaBMg=",
+        "very-simple-dictionary-ece-unal-v2-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "very_simple_dictionary_ece_unal_v2-2.0.0-py3-none-any.whl": [
+          "SH3xLpHiQcBCNUS0hge5Qgle008ydON9NCBJa/cYAks=",
+          "py3"
+        ]
+      }
+    }
+  },
   "vfunctions-sdk": {
     "0.0.1": {
       "sdist": [
@@ -146790,6 +146524,18 @@
       "wheels": {
         "vfunctions_sdk-0.0.4-py3-none-any.whl": [
           "0KH1PX6Ois6VrZhD3/F1ZCoBAB15dS4kaImCmLYFmL4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.5": {
+      "sdist": [
+        "konbYPpS6h4a+Ce0gd4oN/mIjeLzvFau/ZVWstPCPEo=",
+        "vfunctions_sdk-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "vfunctions_sdk-0.0.5-py3-none-any.whl": [
+          "9WA6Amsh7X4tof5C3x2D60EuEKMD4PJ/Qmw+eksLXDo=",
           "py3"
         ]
       }
