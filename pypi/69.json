@@ -3860,6 +3860,18 @@
         ]
       }
     },
+    "2.0.2": {
+      "sdist": [
+        "mvjLEjg7Y1nuGCRIIN2FcbcwQ9K0AM5cdnfvO/IrcX4=",
+        "apache-airflow-providers-dingding-2.0.2.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_dingding-2.0.2-py3-none-any.whl": [
+          "qt/X0zIiGk64YO2zI8M6MEWnGD9yul1ihJ/A7LZnDps=",
+          "py3"
+        ]
+      }
+    },
     "2.0.2rc1": {
       "sdist": [
         "1NNVnvGueb8jePmSbNbB+e41+a1qzIg0t33ywuDaLDM=",
@@ -57484,6 +57496,18 @@
         ]
       }
     },
+    "2022.3.11": {
+      "sdist": [
+        "yRxAUrs7Ee6XyGpYunIn080zFjSpsSWWxfQWYrINHOE=",
+        "kubric-nightly-2022.3.11.tar.gz"
+      ],
+      "wheels": {
+        "kubric_nightly-2022.3.11-py3-none-any.whl": [
+          "OApopjz47WKqgsz/dKRaX4psZTOswNXgLsO1xviwTN4=",
+          "py3"
+        ]
+      }
+    },
     "2022.3.2": {
       "sdist": [
         "8nkSFcnbcJifxTtSjrzZzQv78BFhnq/nMmtcM2zVRiA=",
@@ -69700,11 +69724,71 @@
     }
   },
   "libterraform": {
-    "0.0.1": {
+    "0.1.0": {
       "wheels": {
-        "libterraform-0.0.1-cp310-cp310-macosx_11_0_arm64.whl": [
-          "xdJe5eqsk1q0A+rlzIhogFt5TmJUqM+Fc6H08qDGKhA=",
+        "libterraform-0.1.0-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "ylIzKcdU0awzBTuf/wWHKYIAq3zw5jw1EV4qbmaHHu8=",
           "cp310"
+        ],
+        "libterraform-0.1.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "/RnxI3DbI5yUV6dnqoOkKen6Pyd6Cbb7yE5OKMRoPeU=",
+          "cp310"
+        ],
+        "libterraform-0.1.0-cp310-cp310-manylinux_2_31_x86_64.whl": [
+          "S8dFvMB0VTDJoyKhOQ9/wRAEZITlRCxDHYPSdeFyorc=",
+          "cp310"
+        ],
+        "libterraform-0.1.0-cp310-cp310-win_amd64.whl": [
+          "r2vAxc3nBqDTRiIovgjl3XY6KN7/Q5feq/hTS9u0e0M=",
+          "cp310"
+        ],
+        "libterraform-0.1.0-cp36-cp36m-macosx_10_16_x86_64.whl": [
+          "mQ9OoxOlTy9V92jvXVB5yJhirqFf54TqW6kt+mz5aqw=",
+          "cp36"
+        ],
+        "libterraform-0.1.0-cp36-cp36m-manylinux_2_31_x86_64.whl": [
+          "UNm3WByTsSvfc0YoM1KGSY7je9L6QjGM6LPeA2LBQnc=",
+          "cp36"
+        ],
+        "libterraform-0.1.0-cp36-cp36m-win_amd64.whl": [
+          "C4C9I293h+x2hRHtFfs1rUBcuTS296dVM2GgOsHhj+Y=",
+          "cp36"
+        ],
+        "libterraform-0.1.0-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "ZLlXRea2qgrZywbkXPCE0bCXHdDh7gccCYJj2k3bTA4=",
+          "cp37"
+        ],
+        "libterraform-0.1.0-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "sPswgg63eHu8KIChx2VWfhEyQY5LqheTxmxWJ8Nzwk4=",
+          "cp37"
+        ],
+        "libterraform-0.1.0-cp37-cp37m-win_amd64.whl": [
+          "lVPda2COBxtiyoWee8A/6yd4TAngoPA+8cYkpSU8rrs=",
+          "cp37"
+        ],
+        "libterraform-0.1.0-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "2IOybPPoFOhyBwDrT7lTXjvklD9J1StU/idIL+VOPYk=",
+          "cp38"
+        ],
+        "libterraform-0.1.0-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "x/LMrfh0XoMBTexh7rJ8idUCc1vLXEcsvNpGNlhbPbE=",
+          "cp38"
+        ],
+        "libterraform-0.1.0-cp38-cp38-win_amd64.whl": [
+          "pLT4jyLwk2ah+DNQfrk4E/ob9n0ziqlcDynyrjvfo6E=",
+          "cp38"
+        ],
+        "libterraform-0.1.0-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "Oe01vAiyoKJVjQa8mVacju5KdMMpMPSpaVWMJ6BdsJw=",
+          "cp39"
+        ],
+        "libterraform-0.1.0-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "o/Mc9JZUNBLGF7Z0CEL2Jx+Y6badNJ0bi2R7cZkC2SY=",
+          "cp39"
+        ],
+        "libterraform-0.1.0-cp39-cp39-win_amd64.whl": [
+          "3FpiEXqPiZbw9fJ+9X+bI8WBEIX2mrb8tAasgEptlWk=",
+          "cp39"
         ]
       }
     }
@@ -103975,6 +104059,30 @@
           "py3"
         ]
       }
+    },
+    "0.0.2": {
+      "sdist": [
+        "mMQ6TxtgHYAmk8zU9fNfGm5fyFI9Jzf1bjnB6eNvdPs=",
+        "strapping-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "strapping-0.0.2-py3-none-any.whl": [
+          "08R9ZLei2/M7jtGGduC9ckooEL4JgG0X8uowyEUQWFs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "QnTB/PjLm3MYN5AVKoB5FDm7TXm3rJo6ZXHtgTpPZ04=",
+        "strapping-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "strapping-0.0.3-py3-none-any.whl": [
+          "/5iwh0SkfNx55NPeJjWAe8h0T/EDeT/x5bG6o5F5s7Q=",
+          "py3"
+        ]
+      }
     }
   },
   "streamstockspy": {
@@ -109603,6 +109711,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.598": {
+      "sdist": [
+        "ys1y0YakAd6cdw/oasbmaHWnti68zyO3LyH/sR9hvCA=",
+        "tencentcloud-sdk-python-cam-3.0.598.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cam-3.0.598-py2.py3-none-any.whl": [
+          "opnVOaM9XtIIbpxGZiKop0eDzkvArRGJkHmCT/WZFWU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tenma-serial": {
@@ -109940,6 +110060,18 @@
       "wheels": {
         "teramesh_hardware_tester-0.5.4-py2.py3-none-any.whl": [
           "mwD+Eap0hAe0bdx+MXkwCxDl7s6s75Pml/me52wRvxU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "gk/LJCcCwnFbsDg/RTygzrTMTqdOYGCZLTTDkTvU2xs=",
+        "teramesh-hardware-tester-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "teramesh_hardware_tester-0.6.0-py2.py3-none-any.whl": [
+          "Q9v+Ma2xtL+2jKiuJHQ3PCxmEAORHw4bWUcsu2y0goU=",
           "py2.py3"
         ]
       }
