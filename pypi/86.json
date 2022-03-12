@@ -11097,6 +11097,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b20220312": {
+      "wheels": {
+        "bigdl_friesian-2.1.0b20220312-py3-none-macosx_10_11_x86_64.whl": [
+          "8GWpDSm5he+hk1xBwHhYpLGVKai9MXh9i+GFcIw7BhY=",
+          "py3"
+        ],
+        "bigdl_friesian-2.1.0b20220312-py3-none-manylinux1_x86_64.whl": [
+          "+7L+2f7eqA3ZzX60LIB9FZtPNEu0iGUS/joc/thzsx4=",
+          "py3"
+        ]
+      }
     }
   },
   "bigslice": {
@@ -22514,6 +22526,18 @@
       "wheels": {
         "configpile-5.0.1-py3-none-any.whl": [
           "3xvS4RVgdjmTACd7pOOLckMLhTIJM1M8aVwg3B1lVJY=",
+          "py3"
+        ]
+      }
+    },
+    "6.0.0": {
+      "sdist": [
+        "L/8UTuefP+npZGnt1OlQ5lAE6g0u1vQnQVRpIGkqiV0=",
+        "configpile-6.0.0.tar.gz"
+      ],
+      "wheels": {
+        "configpile-6.0.0-py3-none-any.whl": [
+          "PbnvtBVTO96oGQOZigNdXVeP2ZjrAcSpoLhUaG8znDY=",
           "py3"
         ]
       }
@@ -53825,6 +53849,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "PKrdWHAyagYFNWmMMHJMwtRuzkEnTAUPBFTcWGFkPE8=",
+        "Grevling-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "Grevling-2.0.0-py3-none-any.whl": [
+          "Y6fDHNGq6HtA53XEhNM1EjMQRwjhVxhoD3Svslf3pJ8=",
+          "py3"
+        ]
+      }
     }
   },
   "greytheory": {
@@ -57816,6 +57852,12 @@
       "sdist": [
         "FTY395Tf2NQt66Ob84RCd/GFB/lFZiWUDqzslBZOLl4=",
         "investor8-sdk-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "uf2PfBFAMat7shJat2MCSiSjOVnlyQD5uF3UYNFvsi8=",
+        "investor8-sdk-1.1.1.tar.gz"
       ]
     }
   },
@@ -93584,6 +93626,30 @@
       "wheels": {
         "pointers.py-1.0.8-py3-none-any.whl": [
           "Tn1fQ2kMBSqfqX7SfE2Orv8Ma9QkcwcBpq5q+8k1p74=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.9": {
+      "sdist": [
+        "wi02HXeweeOkK54tpz/GMmMCZtijjtuTzrBpIFikXko=",
+        "pointers.py-1.0.9.tar.gz"
+      ],
+      "wheels": {
+        "pointers.py-1.0.9-py3-none-any.whl": [
+          "Y2Q9VE+F+awY8k/gB/GrMqckdUzcA/m/W6DYBSGijaQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "ESHuvN1I2cEOzkFOKs6aIK+3HqZ9JT3DV0DysH79UAY=",
+        "pointers.py-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "pointers.py-1.1.0-py3-none-any.whl": [
+          "XJ2JVpfrgs6PY458u+6TnRUl82jb5I4DsSUhSWmQSPs=",
           "py3"
         ]
       }
@@ -131592,6 +131658,44 @@
       "wheels": {
         "terraform_bin-1.0.1-py3-none-any.whl": [
           "r1n/Hln2ILfbiP0RQRVyrqtAbQdZyqYCjqoBubOp/AE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "test-pyx-1": {
+    "0": {
+      "sdist": [
+        "U0qTeKrt7yLoNOtLwD3xBrimfPnyrH8n7X1+/3n7Zzw=",
+        "test-pyx-1-0.tar.gz"
+      ],
+      "wheels": {
+        "test_pyx_1-0-py3-none-any.whl": [
+          "342+BOipFiI0vof9F89ynb2hPxjjDeoJJTBKG6dKL4I=",
+          "py3"
+        ]
+      }
+    },
+    "0.1": {
+      "sdist": [
+        "V826WGbRiMULgrr8wJHB02NOzb6WDPQMS2cYMikbkes=",
+        "test-pyx-1-0.1.tar.gz"
+      ],
+      "wheels": {
+        "test_pyx_1-0.1-py3-none-any.whl": [
+          "EJcBc+FktymGD77AE25rGhLVwBNrIkYxC958GNGiZDo=",
+          "py3"
+        ]
+      }
+    },
+    "1": {
+      "sdist": [
+        "tf5mZovk3CvTJfvHFP56thoMBFcsL1MQOxaIUeeYi/E=",
+        "test-pyx-1-1.tar.gz"
+      ],
+      "wheels": {
+        "test_pyx_1-1-py3-none-any.whl": [
+          "ZzhgNV8E23RaZ9kCJlv8OKetqptyNvcX/liQEMdNk9w=",
           "py3"
         ]
       }
