@@ -1268,6 +1268,12 @@
     }
   },
   "ai-jobdeploy": {
+    "0.0.1.dev10": {
+      "sdist": [
+        "q1VAPrtJLUW8t4LYhksil7Biaa1UxMqtQlnUEdgZ8aU=",
+        "ai-jobdeploy-0.0.1.dev10.tar.gz"
+      ]
+    },
     "0.0.1.dev2": {
       "sdist": [
         "ViSHrsNBK9+ysqIzs5bjpe84ss6N0RYeGf3qbjXYM48=",
@@ -6922,6 +6928,18 @@
       "wheels": {
         "autofaiss-2.13.1-py3-none-any.whl": [
           "9dmr+v1XE0dIn/Gf8nRW2XVorcjrzw82J3bgzxTc4Hk=",
+          "py3"
+        ]
+      }
+    },
+    "2.13.2": {
+      "sdist": [
+        "ubbaQ2QVs42xOMDrD6UaDkZsdm/HmGzEBANi9EfPF58=",
+        "autofaiss-2.13.2.tar.gz"
+      ],
+      "wheels": {
+        "autofaiss-2.13.2-py3-none-any.whl": [
+          "Fyeix1rtaATV6Kt9e2cGsRex1M/0B/x1hWXaQ3M6UqM=",
           "py3"
         ]
       }
@@ -34259,6 +34277,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.2.4": {
+      "sdist": [
+        "SAHcdQ6OhDihxD9D48FHeE7HprCwSVWS1algWdhLgs4=",
+        "fileware-1.2.4.tar.gz"
+      ],
+      "wheels": {
+        "fileware-1.2.4-py2.py3-none-any.whl": [
+          "jZwkUHT4EySmSG+fqG3eVvMRXMQ1qBfaV2NelNXQuW0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "find-macho-linkmap": {
@@ -54244,83 +54274,87 @@
     }
   },
   "mujoco": {
-    "1.0.10": {
-      "wheels": {
-        "mujoco-1.0.10-cp36-cp36m-macosx_10_12_x86_64.whl": [
-          "0LsDm3UmKfSuyOX52nx0Vb/4hB8I+185xl/xuDYjPBo=",
-          "cp36"
-        ]
-      }
-    },
-    "1.0.11": {
+    "2.1.2": {
       "sdist": [
-        "XS1wjBc5VxOmjNwLaOY4SY24H/hWypB5am0Xr/+ErhI=",
-        "mujoco-1.0.11.linux-x86_64.tar.gz"
+        "f4gwvOpmi5PsnVZsxCOJjLXs3xcTJGsNhiimlQCJ9ks=",
+        "mujoco-2.1.2.tar.gz"
       ],
       "wheels": {
-        "mujoco-1.0.11-cp36-cp36m-macosx_10_12_x86_64.whl": [
-          "Ncn6TwS1/9Wvy+nF6W8n/adqBK8yb0ARQqbANjci3Iw=",
-          "cp36"
-        ]
-      }
-    },
-    "1.0.5": {
-      "wheels": {
-        "mujoco-1.0.5-cp36-cp36m-macosx_10_12_x86_64.whl": [
-          "yWD84+KNRz9T/MRwGP9QD5OYblzLZCfY7rNgIhADUmo=",
-          "cp36"
+        "mujoco-2.1.2-cp310-cp310-macosx_10_12_x86_64.whl": [
+          "rwphMUOIJcixaJVZuNxKYN6XkZSRZElsHAja/krUlI4=",
+          "cp310"
         ],
-        "mujoco-1.0.5-cp36-cp36m-macosx_10_13_x86_64.whl": [
-          "fxKdO2KkvSn2RRFO97HMk8paBRY6KEzl0DM7F7BxBkE=",
-          "cp36"
-        ]
-      }
-    },
-    "1.0.6": {
-      "wheels": {
-        "mujoco-1.0.6-cp36-cp36m-macosx_10_12_x86_64.whl": [
-          "46yZvYs6OW/i/mqRuAknRCPo1orZn1HNgyKGX7olLFY=",
-          "cp36"
-        ]
-      }
-    },
-    "1.0.7": {
-      "wheels": {
-        "mujoco-1.0.7-cp36-cp36m-macosx_10_12_x86_64.whl": [
-          "QJGjh8P3ckXiAilrAKoRLWGbQExEwPDFBHzmjhrKG4U=",
-          "cp36"
-        ]
-      }
-    },
-    "1.0.8": {
-      "wheels": {
-        "mujoco-1.0.8-cp36-cp36m-macosx_10_12_x86_64.whl": [
-          "g9Z9IsbGQTGUXIDAnx6EQ40/4DMIpKoKORzmcCHaPq0=",
-          "cp36"
-        ]
-      }
-    },
-    "1.0.9": {
-      "wheels": {
-        "mujoco-1.0.9-cp36-cp36m-macosx_10_12_x86_64.whl": [
-          "PdR1t29bOC92wmlOCOyhLGpYTekmAzH3cwuamGKI5uM=",
-          "cp36"
-        ]
-      }
-    },
-    "2.0.1": {
-      "wheels": {
-        "mujoco-2.0.1-cp36-cp36m-macosx_10_13_x86_64.whl": [
-          "3pw1GKw3tr+LZYsCWKmUTAYYhjF/TpxXsdCyuA8Yi60=",
-          "cp36"
-        ]
-      }
-    },
-    "2.0.2": {
-      "wheels": {
-        "mujoco-2.0.2-cp36-cp36m-macosx_10_12_x86_64.whl": [
-          "kT1ZXr9eHyH+jthkZ/y+F+vHtD2khhpL4Mg/HWAA1Ss=",
-          "cp36"
+        "mujoco-2.1.2-cp310-cp310-macosx_11_0_arm64.whl": [
+          "N7Shz6mHvRogtf6CMnHgHwLChmKdR3xwY+D1PF57u4g=",
+          "cp310"
+        ],
+        "mujoco-2.1.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "klmdeGDngHU8J2TLJC92hFKkIfGZk9IGjDNMG3B3l2E=",
+          "cp310"
+        ],
+        "mujoco-2.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qGxn4YHBhs3HgEXMxqsZb3idsEeJZzIm0VYYjdtGiso=",
+          "cp310"
+        ],
+        "mujoco-2.1.2-cp310-cp310-win_amd64.whl": [
+          "fjxIoUrTyV7Cfpxj5BsunPv8DSAUI3Q8eiJd8nSuDew=",
+          "cp310"
+        ],
+        "mujoco-2.1.2-cp37-cp37m-macosx_10_12_x86_64.whl": [
+          "kXsyk4gLG8tbEZgVx13KT0cs7QyRyPHIKP7iMbpSuhQ=",
+          "cp37"
+        ],
+        "mujoco-2.1.2-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "qYR5rIzEnjmnj+hUF7gt+Nsp8fD9zLkzxkViBwIzouM=",
+          "cp37"
+        ],
+        "mujoco-2.1.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hF8Sw90L4Eh6wzmNyawJL4wIa5Yn9kJgNEd7bnoedso=",
+          "cp37"
+        ],
+        "mujoco-2.1.2-cp37-cp37m-win_amd64.whl": [
+          "jL9PisZQodgL7P1vLZd1VHjbM4AgKwLH56GDwhUZVjE=",
+          "cp37"
+        ],
+        "mujoco-2.1.2-cp38-cp38-macosx_10_12_x86_64.whl": [
+          "eIvA3EK0qPZ6ZwTghF2sg1Ox/FNGMGUckqCvE/NxBac=",
+          "cp38"
+        ],
+        "mujoco-2.1.2-cp38-cp38-macosx_11_0_arm64.whl": [
+          "h5Lj1iUBjB6N/0B7ixuuo+y+7h4qOqZmoCgZD+ya5vE=",
+          "cp38"
+        ],
+        "mujoco-2.1.2-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "mhU0XEf+U0DikYIdC4s5tMvi+BMrlUzxL9qbuUYwEWY=",
+          "cp38"
+        ],
+        "mujoco-2.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QeVKm6XDv8/e5sFb2DDUx1TgYTwKrx/ZEFHgwOoCGRc=",
+          "cp38"
+        ],
+        "mujoco-2.1.2-cp38-cp38-win_amd64.whl": [
+          "7wyEC+KyQruHsuBIKQiiErohzmXM1oQynWc1u1G7acU=",
+          "cp38"
+        ],
+        "mujoco-2.1.2-cp39-cp39-macosx_10_12_x86_64.whl": [
+          "l5QMalKdhEzIcV32w7SjG18p+leyLNIv/kBvBdyiotQ=",
+          "cp39"
+        ],
+        "mujoco-2.1.2-cp39-cp39-macosx_11_0_arm64.whl": [
+          "d1Vj55wyI4CBCDtLHbiymsKpByQtVzDeNXNKlwuJbmE=",
+          "cp39"
+        ],
+        "mujoco-2.1.2-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "1KlQ0B8UFHLv+fn1XffQdM2fmmJdFTJbO1rbON/ZZCE=",
+          "cp39"
+        ],
+        "mujoco-2.1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HYeYe4RA+ksL/wO3W7JENcdWtkLrrc5RIvF2bsgFRy8=",
+          "cp39"
+        ],
+        "mujoco-2.1.2-cp39-cp39-win_amd64.whl": [
+          "LYpfUA6bSbMLzV3WD15p5/ZffhR1Az8HRlbsSfwwo/8=",
+          "cp39"
         ]
       }
     }
@@ -101502,6 +101536,18 @@
       "wheels": {
         "pysymbolscanner-1.9.2-py3-none-any.whl": [
           "M/sE52LGGwE4vLzxHZ3voNJovTjgnts7dFZ6QhU7CKM=",
+          "py3"
+        ]
+      }
+    },
+    "1.9.3": {
+      "sdist": [
+        "HY4SjuULLRHH/OmxUprWEJ6OozkxSd1OJvOz3EoUMZw=",
+        "pysymbolscanner-1.9.3.tar.gz"
+      ],
+      "wheels": {
+        "pysymbolscanner-1.9.3-py3-none-any.whl": [
+          "NrGmxvlzJROto7cgKnkS4EBTKfUloJfoLbDxbwQPIY0=",
           "py3"
         ]
       }
