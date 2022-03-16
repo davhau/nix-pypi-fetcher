@@ -27855,6 +27855,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.0": {
+      "sdist": [
+        "GxY3i7SWtstiUOdtuXnFYsW7XQ8YUOosCVf/P4Z/C1M=",
+        "cloudcomponents.cdk-chatops-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "cloudcomponents.cdk_chatops-2.0.0-py3-none-any.whl": [
+          "r8E/EZD08PK7UaRVgkKcKGDi5Garct2P93CGE17TcVc=",
+          "py3"
+        ]
+      }
     }
   },
   "cloudlab": {
@@ -47098,6 +47110,42 @@
         ],
         "ert-2.32.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "U1Md0q2nXBDkmbU1Y+g+x8wefEcGvq3fEe/GBBAkJJc=",
+          "cp39"
+        ]
+      }
+    },
+    "2.33.0": {
+      "wheels": {
+        "ert-2.33.0-cp36-cp36m-macosx_10_15_x86_64.whl": [
+          "jyEIC6ZCb2DCy1mHoFavhYFTrvAa37fCKk7oKRawKm8=",
+          "cp36"
+        ],
+        "ert-2.33.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ME3EVJNII6LP0NelgI5Fot+i5Mila4QGJnLnCQld3W4=",
+          "cp36"
+        ],
+        "ert-2.33.0-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "T/2IOpWI92E9hCOMV83ZwzkwGrcdIEuOKlgykKby9uM=",
+          "cp37"
+        ],
+        "ert-2.33.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Rj8/KkYgnwH/BHqO35v8VLQ+TBrFSelSJZikbmmUxio=",
+          "cp37"
+        ],
+        "ert-2.33.0-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "CIUcAdmioibhKYjoY8OctQV13PBefjAWUDP81+9cSAo=",
+          "cp38"
+        ],
+        "ert-2.33.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gC7RDbROpVgscSxw+GwaU7EJwJptbCjxqkfv1nFgfIg=",
+          "cp38"
+        ],
+        "ert-2.33.0-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "RDayIDWHVKH/hh0TRYmic9p1KefhzrsicCDFQpMQxls=",
+          "cp39"
+        ],
+        "ert-2.33.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YtdoAa5+lQTILUF1bbTDiBuJj2szMsW+ZCE/NnGzHko=",
           "cp39"
         ]
       }
@@ -107581,6 +107629,20 @@
       ]
     }
   },
+  "python-qa": {
+    "0.0.1": {
+      "sdist": [
+        "Dxke0NIdhanSHrUrgKVvpwRshsllx2dAPpP84sGb4gc=",
+        "python-qa-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "python_qa-0.0.1-py3-none-any.whl": [
+          "3P6PZwR0ZScRSro6y0B+c5cPU8Lvf0gIxPff9yHgYWI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "python-requests-bitcoinrpc": {
     "0.4.0": {
       "sdist": [
@@ -120590,78 +120652,6 @@
     }
   },
   "spiderx": {
-    "1.4.50": {
-      "sdist": [
-        "lFLuBQVxAmkWU95mSFhBoAv7U190ZG/QpobM3+1sHfQ=",
-        "spiderx-1.4.50.tar.gz"
-      ],
-      "wheels": {
-        "spiderx-1.4.50-py3-none-any.whl": [
-          "IWz8zaq3F5+z6y2+7gghohvTFZgyhb0ZMu3mq/563Tk=",
-          "py3"
-        ]
-      }
-    },
-    "1.4.60": {
-      "sdist": [
-        "vemEv4FE2Ag4u6+ZxHL36xCW44yObpYiILnQFHYV6j4=",
-        "spiderx-1.4.60.tar.gz"
-      ],
-      "wheels": {
-        "spiderx-1.4.60-py3-none-any.whl": [
-          "2qf0lT9TSuluSrmvm9Eu3Q33nTKbi22twlFdHXzM2dc=",
-          "py3"
-        ]
-      }
-    },
-    "1.4.61": {
-      "sdist": [
-        "0BT15Dscuf3Ej4vY5MqbpOB5WA49CbFO7FnrvXP3Dy0=",
-        "spiderx-1.4.61.tar.gz"
-      ],
-      "wheels": {
-        "spiderx-1.4.61-py3-none-any.whl": [
-          "YVouqLqxSXylcu5QPnP9mbs02epZGXeRVJuJTWZiENo=",
-          "py3"
-        ]
-      }
-    },
-    "1.4.62": {
-      "sdist": [
-        "CzFp8VAaUTgnBZn8QYM2OYx2jfL+KgZe8Qh7T+z2hS4=",
-        "spiderx-1.4.62.tar.gz"
-      ],
-      "wheels": {
-        "spiderx-1.4.62-py3-none-any.whl": [
-          "oEKUaFtVcDowZLIQZEl794588VtEmWQUCnagf4C4gt4=",
-          "py3"
-        ]
-      }
-    },
-    "1.4.63": {
-      "sdist": [
-        "pCsTkA2zvA3Zgr98ALoOHNmoUs3iBTXTtkjB5outDhQ=",
-        "spiderx-1.4.63.tar.gz"
-      ],
-      "wheels": {
-        "spiderx-1.4.63-py3-none-any.whl": [
-          "PsvP+IRE7X2+WxvDNEU9w3CQwxd4oKoKISKnxp24t2Y=",
-          "py3"
-        ]
-      }
-    },
-    "1.4.64": {
-      "sdist": [
-        "6qs+ZZnZDT7cNiIxLkMKxHHHZYr5tVdHkw/Z7QwIG7c=",
-        "spiderx-1.4.64.tar.gz"
-      ],
-      "wheels": {
-        "spiderx-1.4.64-py3-none-any.whl": [
-          "OybYOkNsyLSeldbKsTiqjcHKEDT7DJr7yjkCxUOKzZc=",
-          "py3"
-        ]
-      }
-    },
     "1.4.65": {
       "sdist": [
         "o0UHC0N+R3vMUQyhEgHAsJnd4FrHaJs0yOBNz5MgnBs=",
@@ -120670,42 +120660,6 @@
       "wheels": {
         "spiderx-1.4.65-py3-none-any.whl": [
           "U4vEzaC56Bl2HI7ONXZ6BVUR01V45Ib7KLkIyBXisak=",
-          "py3"
-        ]
-      }
-    },
-    "1.4.70": {
-      "sdist": [
-        "QVn+GdJCCc8MPXZ7S1Jhf+y1DZE1pXBYzVso/SR9k9M=",
-        "spiderx-1.4.70.tar.gz"
-      ],
-      "wheels": {
-        "spiderx-1.4.70-py3-none-any.whl": [
-          "5pqbYZRBp0cN9CnAo0WujW0njsVrKWE5HRlUA86a3Nk=",
-          "py3"
-        ]
-      }
-    },
-    "1.4.71": {
-      "sdist": [
-        "8GxWW5DkFqJCWcg6QWIDXeHEz8uUuRvkp9eAt0lck1o=",
-        "spiderx-1.4.71.tar.gz"
-      ],
-      "wheels": {
-        "spiderx-1.4.71-py3-none-any.whl": [
-          "g3lU5lRiUGdKaUPZjOa3jJPU5NIeYsizeS60yKrrxT8=",
-          "py3"
-        ]
-      }
-    },
-    "1.4.72": {
-      "sdist": [
-        "juS+FW3RBqX6d8kctTM2lzwgHg89jFqbFDRA/rZRbcg=",
-        "spiderx-1.4.72.tar.gz"
-      ],
-      "wheels": {
-        "spiderx-1.4.72-py3-none-any.whl": [
-          "16c8jyUWyA/hSzJRYn+2SWl5yW/RHXNpvE7uEHE2+7k=",
           "py3"
         ]
       }
@@ -134501,6 +134455,42 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "06/TxZ0NartOHuhfJWGCoMYobLf3zCS9tBun7bQMJ64=",
+        "turms-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "turms-0.2.0-py3-none-any.whl": [
+          "oXLUyuU/JSw9X0romwynC41eNwv+VrRxy/heBiy8SZc=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.2": {
+      "sdist": [
+        "5SxWkyuk5eY06DvBOp+MpGiOoH801OjBV8xOWcq9mUI=",
+        "turms-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "turms-0.2.2-py3-none-any.whl": [
+          "glGFzcujIqsitH2JJChHK2VDy+cwM2zo6Jl6WaFLavU=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "vpsXMXF7OfxK1IegJClbimfAiypo8f9ftxTCX3cNY0U=",
+        "turms-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "turms-0.2.3-py3-none-any.whl": [
+          "5VIZKr39rAHXv1tB+ghuS0r2HDF3cWzBuxmr5bBNkCQ=",
+          "py3"
+        ]
+      }
     }
   },
   "turq": {
@@ -139916,6 +139906,18 @@
       "wheels": {
         "xotless-3.6.0-py3-none-any.whl": [
           "AUqtUzsU1bZFBpDWYtQhGtT1+r/k0GRAEDTJbVhJh3w=",
+          "py3"
+        ]
+      }
+    },
+    "3.7.0": {
+      "sdist": [
+        "4XK2qjOg0GHPvy4pwKFnIPEq1J0Vb8yCGG83VEtcU5o=",
+        "xotless-3.7.0.tar.gz"
+      ],
+      "wheels": {
+        "xotless-3.7.0-py3-none-any.whl": [
+          "VlQnpUeCWoAWObdLyXKG+sh+d2qb3OjSReDzxp/cZWs=",
           "py3"
         ]
       }
