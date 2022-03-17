@@ -5835,6 +5835,14 @@
           "py3"
         ]
       }
+    },
+    "2.1.50b8": {
+      "wheels": {
+        "aqt-2.1.50b8-py3-none-any.whl": [
+          "U7j0zYlmitP2tn+A/2UMQw9LG3isiNSaQbdhWNumYbY=",
+          "py3"
+        ]
+      }
     }
   },
   "archive-project": {
@@ -9144,6 +9152,18 @@
       "wheels": {
         "aws_cdk.aws_route53resolver-1.148.0-py3-none-any.whl": [
           "w7Dw/LlWCSaE6XDtkBuF1VO6hrKT/hIQj3iBR5paHbE=",
+          "py3"
+        ]
+      }
+    },
+    "1.149.0": {
+      "sdist": [
+        "kbkgN9QRbF8mfcrKoIeZyfvINS4UT1gGm3iO7t2f/3s=",
+        "aws-cdk.aws-route53resolver-1.149.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53resolver-1.149.0-py3-none-any.whl": [
+          "Q2veTdY/rW6b/XsuGjmONQVhoQAJCUBow9G9GaPurQE=",
           "py3"
         ]
       }
@@ -25715,6 +25735,12 @@
         "6Gyr6yncA3CPcpXRgiE1sshcCEuMR+aiOannCG5cRDg=",
         "deepblink-0.1.2.tar.gz"
       ]
+    },
+    "0.1.3": {
+      "sdist": [
+        "nGr4m4nocKvXMNe09YBIrKmIPkhVMtuc3k6fx6bHwGs=",
+        "deepblink-0.1.3.tar.gz"
+      ]
     }
   },
   "deepeeg": {
@@ -38180,6 +38206,22 @@
         ]
       }
     },
+    "2022.3.17": {
+      "wheels": {
+        "fbgemm_gpu_nightly-2022.3.17-cp37-cp37m-manylinux1_x86_64.whl": [
+          "8c5ZL2dofRx9txxpbbL1yptVj2JlUVD7NM3Pbt96pkk=",
+          "cp37"
+        ],
+        "fbgemm_gpu_nightly-2022.3.17-cp38-cp38-manylinux1_x86_64.whl": [
+          "h3kiZ3sj+YNJZiNSiz/on2/+yU8iY/CjaMwu3pLWlfQ=",
+          "cp38"
+        ],
+        "fbgemm_gpu_nightly-2022.3.17-cp39-cp39-manylinux1_x86_64.whl": [
+          "BEffRffsP4b/jFfNHxzT4F30aGFZeLyO4UjzNasitZI=",
+          "cp39"
+        ]
+      }
+    },
     "2022.3.3": {
       "wheels": {
         "fbgemm_gpu_nightly-2022.3.3-cp37-cp37m-manylinux1_x86_64.whl": [
@@ -44200,6 +44242,58 @@
         ],
         "fugle_trade_core-0.2.0-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "JlmT33bgUyZG2SxjSRh5Z7M/kEGBRu3qhG6OtNjAQOQ=",
+          "pp37"
+        ]
+      }
+    },
+    "0.2.1": {
+      "wheels": {
+        "fugle_trade_core-0.2.1-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "qIKozYTE6yVqKElyTlWvYVG956XEGTRTQrEE19bCovw=",
+          "cp310"
+        ],
+        "fugle_trade_core-0.2.1-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "mhDhD1PcHuK7mSgtKR44VxJ1qVJGI8lHPaavALgexCY=",
+          "cp36"
+        ],
+        "fugle_trade_core-0.2.1-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "SyRvwrAQtjYuZ4sROuVXbyAZgQ9mRONY+gCxnEE1mas=",
+          "cp37"
+        ],
+        "fugle_trade_core-0.2.1-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "a3QgloiuGKLrKND8pvHotDf6Lsl6KKhuLRiIirLKyWI=",
+          "cp37"
+        ],
+        "fugle_trade_core-0.2.1-cp37-none-win_amd64.whl": [
+          "QiGdClCD63baYk9XHbRG7A/CMuMZjcmBSJx8vWHCc/A=",
+          "cp37"
+        ],
+        "fugle_trade_core-0.2.1-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "oPB2CG0Jp3HSQ2lclKIdUGqg41S6g6ayrmf1yHN5wAs=",
+          "cp38"
+        ],
+        "fugle_trade_core-0.2.1-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "j08OoTGojnbj8aWxVsBgRbu93cVXUtpUEK1gm6HJ8Bs=",
+          "cp38"
+        ],
+        "fugle_trade_core-0.2.1-cp38-none-win_amd64.whl": [
+          "aHGdmwagXPWbkr8dHADl9u5LeFoFysyZyS0W8LsUHCc=",
+          "cp38"
+        ],
+        "fugle_trade_core-0.2.1-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "geHxrkV6KkzY4vecR8GXhdxw17BZwQOQ/xPgklE449Y=",
+          "cp39"
+        ],
+        "fugle_trade_core-0.2.1-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "u2ic83XgilWV8hMqP88JldYnF5E5WIuKquyDhA6/grg=",
+          "cp39"
+        ],
+        "fugle_trade_core-0.2.1-cp39-none-win_amd64.whl": [
+          "EZlKptkcFMp2pNvl7Y30PGnUBqpneqofWgYIeG8nGgU=",
+          "cp39"
+        ],
+        "fugle_trade_core-0.2.1-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "q/ZoJkpl7z13XA2QRVSEBFQBMNo4O75UhARFspT5RXw=",
           "pp37"
         ]
       }
@@ -91705,6 +91799,18 @@
         "uJUWfYBQhxV34aTvQeQpC03BiisReK6HrONxDLZBZX0=",
         "nose-detecthttp-1.1.0.tar.gz"
       ]
+    },
+    "1.2.1": {
+      "sdist": [
+        "Cww5t+I2ZuzYqHxvvd2yR8WLqW3sKTF8rJzMn92zqX8=",
+        "nose-detecthttp-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "nose_detecthttp-1.2.1-py2.py3-none-any.whl": [
+          "6lUkH0evb9lOo8i+9WYCUW3emAAVNB0zfF++yQG9wK8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "nose-knows": {
@@ -100214,6 +100320,30 @@
       "wheels": {
         "os2mo_data_import-2.20.6-py3-none-any.whl": [
           "BoE9RyMUQxeZk9sp9cmKY1YR+LgOV3nQU8z3mIKDe+8=",
+          "py3"
+        ]
+      }
+    },
+    "2.20.7": {
+      "sdist": [
+        "QhpnYFUohgKDWU3jwVoH7n6Ow0rksd+DdAVA7m5X65Y=",
+        "os2mo_data_import-2.20.7.tar.gz"
+      ],
+      "wheels": {
+        "os2mo_data_import-2.20.7-py3-none-any.whl": [
+          "uuKQbXk6jRHDGg13dJkkgPCykSFTucQ7igNjgjEC8gU=",
+          "py3"
+        ]
+      }
+    },
+    "2.20.8": {
+      "sdist": [
+        "Gv13gVf5QbWSHS/CkMV+bOTH4Zm1FqcH0xMTeJDn5iQ=",
+        "os2mo_data_import-2.20.8.tar.gz"
+      ],
+      "wheels": {
+        "os2mo_data_import-2.20.8-py3-none-any.whl": [
+          "XllTXviCY8ftEQHxkpR75Ko+tD1kL8Ot+zMm3d/NVrE=",
           "py3"
         ]
       }
@@ -110940,6 +111070,18 @@
       "sdist": [
         "/lSip2jGdlML9qqjK0unSezQE2ny8RodsfGmFan/WZc=",
         "pushpy-0.1.7.tar.gz"
+      ]
+    },
+    "0.1.8": {
+      "sdist": [
+        "IdeeYsSTdTlz1Zs6NKHwA7x/w3DBm9nnWcGjP1Px6kI=",
+        "pushpy-0.1.8.tar.gz"
+      ]
+    },
+    "0.1.9": {
+      "sdist": [
+        "VApOEkULlHGpQRpCanKn5g9jfl1h/XY0wIO/CAQYMog=",
+        "pushpy-0.1.9.tar.gz"
       ]
     }
   },
@@ -126555,6 +126697,12 @@
         "xsRHJIqsBdl7p6JfrhonM5+fmq6tJ1c+5BT/RVpj5m4=",
         "rqsdk-1.3.9.tar.gz"
       ]
+    },
+    "1.4.0": {
+      "sdist": [
+        "EQ06gc4xOE4A4xvPY72CSofQ2PXDzAKymFRhF36HSM0=",
+        "rqsdk-1.4.0.tar.gz"
+      ]
     }
   },
   "rrpproxypy": {
@@ -138163,6 +138311,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "terrainy": {
+    "0.0.2": {
+      "sdist": [
+        "ePyl0lU9eoJx0VvXAv7dBJdY7cxxc284qo0fw7DiFiE=",
+        "terrainy-0.0.2.tar.gz"
+      ]
     }
   },
   "test-dev": {
