@@ -12273,6 +12273,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b202203171": {
+      "sdist": [
+        "SAdv8yAZlbh6KjB82FnoM8MdcAHBxjXH7k6KEBEmQE4=",
+        "bigdl-dllib-2.1.0b202203171.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.1.0b202203171-py3-none-manylinux1_x86_64.whl": [
+          "s/5e9oVwu7fFjC0sGs2nJycxTu55QAxG0mZDqFE5KNY=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -39050,30 +39062,6 @@
     }
   },
   "htcondor": {
-    "8.7.10": {
-      "wheels": {
-        "htcondor-8.7.10-cp27-cp27m-manylinux1_x86_64.whl": [
-          "+UXManWf5ZAubi5CGx31SwAZtmwsC7o6lW+22URw1NY=",
-          "cp27"
-        ],
-        "htcondor-8.7.10-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "nbTqHN8LsFlDOdX8rBZ8+UXbZdxVSxxjZ3iHQrF07Gk=",
-          "cp27"
-        ],
-        "htcondor-8.7.10-cp34-cp34m-manylinux1_x86_64.whl": [
-          "Hcj1Z+fnCqgMXrzTva6/IPbkXPkxj3GdIl/SEbyZ51k=",
-          "cp34"
-        ],
-        "htcondor-8.7.10-cp35-cp35m-manylinux1_x86_64.whl": [
-          "UWP0OmkGdHO3CTAFL/raUSMTKdDaK3Wjev18U4PeeU0=",
-          "cp35"
-        ],
-        "htcondor-8.7.10-cp36-cp36m-manylinux1_x86_64.whl": [
-          "mJ2QTj70RJLOOscWQQJtLnA46yb0NorM2KPY2wH1vIc=",
-          "cp36"
-        ]
-      }
-    },
     "8.8.0": {
       "wheels": {
         "htcondor-8.8.0-cp26-cp26m-manylinux1_x86_64.whl": [
@@ -39646,78 +39634,6 @@
         ]
       }
     },
-    "8.9.0": {
-      "wheels": {
-        "htcondor-8.9.0-cp26-cp26m-manylinux1_x86_64.whl": [
-          "RoQ6cDjQkxygjXzNuYQ0miL/AFzHtFX3ZxVfhhzqaFg=",
-          "cp26"
-        ],
-        "htcondor-8.9.0-cp26-cp26mu-manylinux1_x86_64.whl": [
-          "vxWNAuDn6MEqtEWbPnQUEVpTH0SiA+F2IvkqXJXhS7U=",
-          "cp26"
-        ],
-        "htcondor-8.9.0-cp27-cp27m-manylinux1_x86_64.whl": [
-          "Hg8geqdFqD8Et2k2Hqma8vJY6oScMZwqUKp+wUl6ViA=",
-          "cp27"
-        ],
-        "htcondor-8.9.0-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "kUxc40o2pNzdZJcrftJxKA+f4N9S7xiPG5xyMJqLVIM=",
-          "cp27"
-        ],
-        "htcondor-8.9.0-cp34-cp34m-manylinux1_x86_64.whl": [
-          "gYJnQjmkXETzlezjzsBcOiNaHX5ejyi1VC3nNLXBqIA=",
-          "cp34"
-        ],
-        "htcondor-8.9.0-cp35-cp35m-manylinux1_x86_64.whl": [
-          "XzlbDRgfWYCW9+gYPwnUirr3WmXrtEetvrVW+hsX95g=",
-          "cp35"
-        ],
-        "htcondor-8.9.0-cp36-cp36m-manylinux1_x86_64.whl": [
-          "X76aRmuPXXAAk9B8fx0kJNZvY54n8uDzq9VGD1wGuoE=",
-          "cp36"
-        ],
-        "htcondor-8.9.0-cp37-cp37m-manylinux1_x86_64.whl": [
-          "WSXXoZmjHGXCfo08jDl+aWqxvNBqlKWTbF/k3PG/jlE=",
-          "cp37"
-        ]
-      }
-    },
-    "8.9.1": {
-      "wheels": {
-        "htcondor-8.9.1-cp26-cp26m-manylinux1_x86_64.whl": [
-          "UiP2ehCvLtI6U2trZNPr1+cwP/3Oy7+VLT69q62pk90=",
-          "cp26"
-        ],
-        "htcondor-8.9.1-cp26-cp26mu-manylinux1_x86_64.whl": [
-          "GdAOwyRvYJ2U1U+OoCCbu8OiYPQS+Bg/+3MIzMQj4JI=",
-          "cp26"
-        ],
-        "htcondor-8.9.1-cp27-cp27m-manylinux1_x86_64.whl": [
-          "zqdvCr8/SJm3RVvMAA8koEbzHxMgeagG5b5hJsQo/v0=",
-          "cp27"
-        ],
-        "htcondor-8.9.1-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "szDDj64eHiBqzORpDBa6t/e+lQECL2CSOWghOiED0g4=",
-          "cp27"
-        ],
-        "htcondor-8.9.1-cp34-cp34m-manylinux1_x86_64.whl": [
-          "FsXH2JLPdIk+Z3t9w5faodLmKmfwTabDFLZSJTWtxXQ=",
-          "cp34"
-        ],
-        "htcondor-8.9.1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "DBdhVn7yhwdGbTJP4uhM//9NrtYhlImJK503U2W3DZg=",
-          "cp35"
-        ],
-        "htcondor-8.9.1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "O3+wFZqWivjgXOrsLj9dIItPR/9YlVKHfjNbXbDpaq0=",
-          "cp36"
-        ],
-        "htcondor-8.9.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "MVHaIe/hDVvJVTCpkJyZBcs0pC2EBYN3Ze8APK6LEqM=",
-          "cp37"
-        ]
-      }
-    },
     "8.9.10": {
       "wheels": {
         "htcondor-8.9.10-cp27-cp27m-manylinux1_x86_64.whl": [
@@ -39843,78 +39759,6 @@
         "htcondor-8.9.13-cp39-cp39-manylinux1_x86_64.whl": [
           "iO3v0tJzCYkilTkAzxQQAUfpYBDjQ+XV4mqLu5dowtY=",
           "cp39"
-        ]
-      }
-    },
-    "8.9.2": {
-      "wheels": {
-        "htcondor-8.9.2-cp26-cp26m-manylinux1_x86_64.whl": [
-          "wFvsSbQ944tBCxQhOtV2VNSuJbh2WlBBNPpQy63yXY4=",
-          "cp26"
-        ],
-        "htcondor-8.9.2-cp26-cp26mu-manylinux1_x86_64.whl": [
-          "LyOx5nUGqWEEWpGxA9496R3d/oHd9k7trdnnkCKIcR8=",
-          "cp26"
-        ],
-        "htcondor-8.9.2-cp27-cp27m-manylinux1_x86_64.whl": [
-          "1Zpl1HEe8X6V7EQAOZlfRuAgk2ZcKAXtskN8TJKqwSM=",
-          "cp27"
-        ],
-        "htcondor-8.9.2-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "jPsT0vwYjpDn4nUyyrMDUuqeo3Ayp8VHNzZ3VUZ1kOw=",
-          "cp27"
-        ],
-        "htcondor-8.9.2-cp34-cp34m-manylinux1_x86_64.whl": [
-          "88b84o8drosvxAEV/RK3LXRks/qManF4a5VWxEbFjXk=",
-          "cp34"
-        ],
-        "htcondor-8.9.2-cp35-cp35m-manylinux1_x86_64.whl": [
-          "hv8+lt05GGz04iNk/D+b+NsREk3k6FXWe5GnlAALVEw=",
-          "cp35"
-        ],
-        "htcondor-8.9.2-cp36-cp36m-manylinux1_x86_64.whl": [
-          "G1EBBsBMAZP/EFqIh4TlKbX2RrznzB1nemMEO9Z1nvg=",
-          "cp36"
-        ],
-        "htcondor-8.9.2-cp37-cp37m-manylinux1_x86_64.whl": [
-          "u0rzfOKalFYRb9XormuWmX6czlxGE3AGNZOF/+q43As=",
-          "cp37"
-        ]
-      }
-    },
-    "8.9.3.post1": {
-      "wheels": {
-        "htcondor-8.9.3.post1-cp26-cp26m-manylinux1_x86_64.whl": [
-          "P+9JK7pV3dlGqYy/nNPDycN0My84m5GNjbNKhUOwoaE=",
-          "cp26"
-        ],
-        "htcondor-8.9.3.post1-cp26-cp26mu-manylinux1_x86_64.whl": [
-          "luef27fL8Djr4mz3QyZ0u3PaZ7NLhgMsL1VDXblFiCY=",
-          "cp26"
-        ],
-        "htcondor-8.9.3.post1-cp27-cp27m-manylinux1_x86_64.whl": [
-          "kA4ALO1osJres2ZWxG9QRPXhe+Ngnozml4KbCcLmfpo=",
-          "cp27"
-        ],
-        "htcondor-8.9.3.post1-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "whBSxDZZsXgbYcybqL68MyDPDSELqBU7KrFpOoNz0wE=",
-          "cp27"
-        ],
-        "htcondor-8.9.3.post1-cp34-cp34m-manylinux1_x86_64.whl": [
-          "PGTkDCUK2Jm5TEmZHhgDwmUWXz8zKPgYv3GG5kfLdX4=",
-          "cp34"
-        ],
-        "htcondor-8.9.3.post1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "uDwQZRvqOYT+L6u2r0JnUYZ2QYLR8C5bZNlv5Iy4jCE=",
-          "cp35"
-        ],
-        "htcondor-8.9.3.post1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "AUSYmmvtjpWzxSA897hsoIdke+kLeA1aqTYEm8KALuM=",
-          "cp36"
-        ],
-        "htcondor-8.9.3.post1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "e4unuVqVt/WnT1ADRlTfl/DNIbC97BuoAUvju+WnFKo=",
-          "cp37"
         ]
       }
     },
@@ -40178,6 +40022,38 @@
         ],
         "htcondor-9.0.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
           "YAxOW8mwcBK8gSRjxzSSx6ex8g5Q55qzRLDMjldZHXY=",
+          "cp39"
+        ]
+      }
+    },
+    "9.0.11": {
+      "wheels": {
+        "htcondor-9.0.11-cp27-cp27m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "ywL3Ej7IzzInaSibISaLp7XKPCTtVtRVjrpopfxlNCc=",
+          "cp27"
+        ],
+        "htcondor-9.0.11-cp27-cp27mu-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "tykp0DbF5/MPqYBtCuzNFgNDogCg2V+4b5aBkSF16Tw=",
+          "cp27"
+        ],
+        "htcondor-9.0.11-cp35-cp35m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "wQuGUGoaNosC7GncONlmheDyQnASE7dyfgY2XqjuUHg=",
+          "cp35"
+        ],
+        "htcondor-9.0.11-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "yaTfW8+3Hinl6eAFjxKIJDtPExfdnLPuKTPsR3WqMFY=",
+          "cp36"
+        ],
+        "htcondor-9.0.11-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "SCp22bbZoUUdmRkTanpakZiUMS+uoS5KZctc5ZGgeEs=",
+          "cp37"
+        ],
+        "htcondor-9.0.11-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "t64GKtwOWLOUURCKOzDnIyAUU2lx2saLEWqBFBGWnnc=",
+          "cp38"
+        ],
+        "htcondor-9.0.11-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "ziSd4LbwFZCKXfQSNAOPaFC7PAWytYabbr1LgczUFwE=",
           "cp39"
         ]
       }
@@ -40502,38 +40378,6 @@
         ]
       }
     },
-    "9.1.4rc1": {
-      "wheels": {
-        "htcondor-9.1.4rc1-cp27-cp27m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
-          "yPS3gT33EVciXHaS21BTBdHJUI0IPO4z3yqOnP81eME=",
-          "cp27"
-        ],
-        "htcondor-9.1.4rc1-cp27-cp27mu-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
-          "oCaOR3QxZ3Ud0IXfJC2yci9fYaYYG+PDmdHm30DB5ME=",
-          "cp27"
-        ],
-        "htcondor-9.1.4rc1-cp35-cp35m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
-          "E68KrA2RN9fE50OX4HppgbbE0M0LfNYEoWGXATXy7uU=",
-          "cp35"
-        ],
-        "htcondor-9.1.4rc1-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
-          "TgWHBftMj67n2SObCjEY51C0+G4FIdbxSmattyC8zE4=",
-          "cp36"
-        ],
-        "htcondor-9.1.4rc1-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
-          "OcrcKd+0pkw9Rc+RDvO11QH7Vf67T64NHnNd5bDSlCA=",
-          "cp37"
-        ],
-        "htcondor-9.1.4rc1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
-          "RNYBEeg5XXkcvIy9D/TURhxLgzoTHAiKW38cdlqWuQg=",
-          "cp38"
-        ],
-        "htcondor-9.1.4rc1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
-          "vnpG639AG+rHApFoBgFXPkh2qvozkDbeHGHkqaD78zc=",
-          "cp39"
-        ]
-      }
-    },
     "9.2.0": {
       "wheels": {
         "htcondor-9.2.0-cp27-cp27m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
@@ -40706,6 +40550,30 @@
         ],
         "htcondor-9.5.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "QQ+6rJ8DwupF9tHyGBaorLkQN59GyHkz8KlC4SUvgG4=",
+          "cp39"
+        ]
+      }
+    },
+    "9.7.0": {
+      "wheels": {
+        "htcondor-9.7.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "U2dbvoB7aSI9FbDLIlYSZccaoCPl/mWud2m8mPYp7Lk=",
+          "cp310"
+        ],
+        "htcondor-9.7.0-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Eo+zyT8FnoNV07b+ZhFfQy7fwqXNXarDDitueQ5d7kk=",
+          "cp36"
+        ],
+        "htcondor-9.7.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "GfT/g5FMYvCSLpLvrMetpBnh0LwMYA/sdd46sYL6NGc=",
+          "cp37"
+        ],
+        "htcondor-9.7.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "/A5kVIt1lq834IX31lxaxB5iSRzfuniQbysTWH6lhxo=",
+          "cp38"
+        ],
+        "htcondor-9.7.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Sq/j/fKpGzAKyrt5S2parhH10i0klIAkM4eP0jfBvs8=",
           "cp39"
         ]
       }
@@ -48218,6 +48086,14 @@
       "wheels": {
         "libsrg-0.9.1-py3-none-any.whl": [
           "aulRJU/XyggVOW6OlsBc8nZazk5Tn49R3K9DZVCpI/U=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.2": {
+      "wheels": {
+        "libsrg-0.9.2-py3-none-any.whl": [
+          "LcVPJeZ7oEqPqnpwkmAzxwPkD1EVZyAwTcBJo8u84iQ=",
           "py3"
         ]
       }
@@ -101066,6 +100942,18 @@
         ]
       }
     },
+    "0.8.37": {
+      "sdist": [
+        "r/mxlIQgqfUtFuOk9O94ukyON1wxU8Oe9q065MuIQ1I=",
+        "static-frame-0.8.37.tar.gz"
+      ],
+      "wheels": {
+        "static_frame-0.8.37-py3-none-any.whl": [
+          "Fd92WW3ThqZvzJNZA7M8M351udT3sKq9jnyoAjEXCDM=",
+          "py3"
+        ]
+      }
+    },
     "0.8.4": {
       "sdist": [
         "GCLpEhtSXUxF/HOzYDqroCkoH3Fq7cpFMCA0VphSzlQ=",
@@ -105914,6 +105802,18 @@
       "wheels": {
         "super_ec2-0.0.305-py3-none-any.whl": [
           "GLnuv7WxJVA5G+XGTRu45oRlWzQTIzl1Ao55XwVFbgs=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.306": {
+      "sdist": [
+        "HsexjU+MmSltf7SjJboqGMb6RfmrKsx089pNeqkgbWQ=",
+        "super-ec2-0.0.306.tar.gz"
+      ],
+      "wheels": {
+        "super_ec2-0.0.306-py3-none-any.whl": [
+          "qvK4s0B1RAN4C5jwU3jM2DVmbMco3J4Pq4DmG5t5KXo=",
           "py3"
         ]
       }
