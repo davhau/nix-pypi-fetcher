@@ -7162,6 +7162,14 @@
         ]
       }
     },
+    "4.2.0.44": {
+      "wheels": {
+        "assemblyline_v4_service-4.2.0.44-py3-none-any.whl": [
+          "46ECP/cuIvdq0q3gSPT6LZCYQuqtph92J1U2qMcm+e8=",
+          "py3"
+        ]
+      }
+    },
     "4.2.0.5": {
       "wheels": {
         "assemblyline_v4_service-4.2.0.5-py3-none-any.whl": [
@@ -8006,6 +8014,14 @@
       "wheels": {
         "assemblyline_v4_service-4.2.1.dev2-py3-none-any.whl": [
           "1d2KBssL0Kp0hI/dByx1mfKdhENf0Ty1PhCtgSzERfc=",
+          "py3"
+        ]
+      }
+    },
+    "4.2.1.dev3": {
+      "wheels": {
+        "assemblyline_v4_service-4.2.1.dev3-py3-none-any.whl": [
+          "SUMW2YfOhRELT7Mys8FehqTMRZrHrAoILFgV9GvDeMs=",
           "py3"
         ]
       }
@@ -12356,6 +12372,30 @@
       "wheels": {
         "b2tsf-0.6.8.2-py3-none-any.whl": [
           "JIh7VAn9JMmCpEHXIBVA/UhbvQTKQ6EPI4ETY/pzOd0=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.8.3": {
+      "sdist": [
+        "p7VWkeeb845bLcDlg+Hl8bkrsgJULZnEBRLfHRJ4/ww=",
+        "b2tsf-0.6.8.3.tar.gz"
+      ],
+      "wheels": {
+        "b2tsf-0.6.8.3-py3-none-any.whl": [
+          "u95t0VrB9gcPsmTCyKyBFs5ZOdYgjP7gsi2GwuvHmKU=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.8.4": {
+      "sdist": [
+        "vMslOHqxW6tu03mOiVwuH7QpGnzZB2Efq+eM45DzpvY=",
+        "b2tsf-0.6.8.4.tar.gz"
+      ],
+      "wheels": {
+        "b2tsf-0.6.8.4-py3-none-any.whl": [
+          "zGa2FJK+9xT7LyXp484sEfcJCYwLD0Dy+oqHFbOO0Us=",
           "py3"
         ]
       }
@@ -46609,6 +46649,16 @@
         "L30cvS4uQczRq0a2raWG/krta+d1B7Il1JZrAlEbFbw=",
         "email2pdf-0.9.9.0.tar.gz"
       ]
+    }
+  },
+  "embedops-cli": {
+    "0.3.0": {
+      "wheels": {
+        "embedops_cli-0.3.0-py3-none-any.whl": [
+          "j5gmyWynfvMwq7d3SU9SPMNs2C5F2BsaysWT4LwB5oE=",
+          "py3"
+        ]
+      }
     }
   },
   "emmtyper": {
@@ -103684,20 +103734,12 @@
           "5iUzjKvwX6NqpWvnxX+dWPMQuaoQQuEoJXXfWdRu8jY=",
           "cp310"
         ],
-        "samlib-0.3.0.240-cp310-cp310-win_amd64.whl": [
-          "kogIAX78Z+r2VdiHvThRH8FxE/sW71qfFRSM1A/NSgo=",
-          "cp310"
-        ],
         "samlib-0.3.0.240-cp37-cp37m-macosx_10_9_x86_64.whl": [
           "Li0s42LH58tM75OUo2q901JzVDKL5H+YohfQmhLH+2g=",
           "cp37"
         ],
         "samlib-0.3.0.240-cp37-cp37m-manylinux2010_x86_64.whl": [
           "6f9fTbYs4lw+OhW2LMLTvnvN93Or9PN2ocWBkhzueFw=",
-          "cp37"
-        ],
-        "samlib-0.3.0.240-cp37-cp37m-win_amd64.whl": [
-          "hPuwmMPyAa55jm1KvEPO8U1/8A0Ixp9UfUF0ITq+B/E=",
           "cp37"
         ],
         "samlib-0.3.0.240-cp38-cp38-macosx_10_9_x86_64.whl": [
@@ -103708,10 +103750,6 @@
           "ftnaJTauPsWmnoo65alq3Ig9YfPzAZR8CEz0oYWyPjw=",
           "cp38"
         ],
-        "samlib-0.3.0.240-cp38-cp38-win_amd64.whl": [
-          "JKataRiReMCiKA1szRD/1eSJRz/fuAhG+C+N+Rv+xIc=",
-          "cp38"
-        ],
         "samlib-0.3.0.240-cp39-cp39-macosx_10_9_x86_64.whl": [
           "hpsb5N6xslHXdPJ7osuHStlWSIORR4ASRKiy1KG0gW4=",
           "cp39"
@@ -103719,9 +103757,25 @@
         "samlib-0.3.0.240-cp39-cp39-manylinux2010_x86_64.whl": [
           "Gqdy4NyP5LeJATdZOIP1vt0r6l6lZC2ipDYbhe1CURM=",
           "cp39"
+        ]
+      }
+    },
+    "0.3.1.240": {
+      "wheels": {
+        "samlib-0.3.1.240-cp310-cp310-win_amd64.whl": [
+          "hb4IRNPIUAryai5cMFsvB1TkF7Ocr5PY1W1o0mw4/iI=",
+          "cp310"
         ],
-        "samlib-0.3.0.240-cp39-cp39-win_amd64.whl": [
-          "0Z4qxFJYrtox6bjKyeVUdA1UIzcz44uUNQBUpZranoM=",
+        "samlib-0.3.1.240-cp37-cp37m-win_amd64.whl": [
+          "OGRfHIOPlKlarWoHUyFddB53kBLD5bm4vjv2wipFvq4=",
+          "cp37"
+        ],
+        "samlib-0.3.1.240-cp38-cp38-win_amd64.whl": [
+          "13wE5BUb40rUUzy5miIkYOMnWjzeENaN38vi7M01uJE=",
+          "cp38"
+        ],
+        "samlib-0.3.1.240-cp39-cp39-win_amd64.whl": [
+          "hnn6Xk4HWUfxQ4w71vpOX+UvbBISxkjm6SMm+ZJkN0A=",
           "cp39"
         ]
       }
@@ -115622,6 +115676,18 @@
       "wheels": {
         "tencentcloud_sdk_python_taf-3.0.601-py2.py3-none-any.whl": [
           "pQ2H4/HLmZOy/vll9YEQuBNBpi8AYUCJCZju2xQBrHU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.602": {
+      "sdist": [
+        "KZ9APuujOt8DOa+TDKlD5UoRZW5tD0m5fdxlPP2zADA=",
+        "tencentcloud-sdk-python-taf-3.0.602.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_taf-3.0.602-py2.py3-none-any.whl": [
+          "RQSJygYb25VFK9/gWf8CJntKp0qw5rMkYfiUsjgnvXk=",
           "py2.py3"
         ]
       }

@@ -15201,6 +15201,12 @@
         "TJj8PgqlXlIhqVniQW2Nv8dADRk/jCgISmB7OtWJ90Y=",
         "Caribe-0.3.8.tar.gz"
       ]
+    },
+    "0.3.9": {
+      "sdist": [
+        "+QZKGAla82XoZKeUR6hKIIzBd9holrWmnI6yLFPXeHQ=",
+        "Caribe-0.3.9.tar.gz"
+      ]
     }
   },
   "casbin-postgresql-watcher": {
@@ -17724,6 +17730,18 @@
       "wheels": {
         "cppython-0.4.1-py3-none-any.whl": [
           "XIzoWFlIzv3ymY+hgIpcAKiFOkKz2utjINqeebRz2CY=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.4": {
+      "sdist": [
+        "03PPeAa/b5jWxyQVsG+B6IXzAOk93dLwMh0AoJO8mfE=",
+        "cppython-0.4.4.tar.gz"
+      ],
+      "wheels": {
+        "cppython-0.4.4-py3-none-any.whl": [
+          "MFUcZTGg1K4ft4k++HEhwljSqbRctoY6SXFjg2uww2s=",
           "py3"
         ]
       }
@@ -58943,6 +58961,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.0": {
+      "sdist": [
+        "DRleT50n87RtUjkJO8rxbABS4TcIHJVJY1h6GXIWMOU=",
+        "meetupscraper-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "meetupscraper-0.8.0-py3-none-any.whl": [
+          "7feRV5UfjX2RH3pgHOGNxe6x209ZYc+cFcoih1N+IK4=",
+          "py3"
+        ]
+      }
     }
   },
   "meqtrees-frontend": {
@@ -87130,6 +87160,18 @@
       "wheels": {
         "oscrypto-1.2.1-py2.py3-none-any.whl": [
           "mICH4FsX34v8x8X6xR9UWV5G0+Tf+ns9FZVc9hpjNSk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.3.0": {
+      "sdist": [
+        "b1/vWctbNwgyHbfMpWrtitfmYoUzUeeZH89g7GBtR6Q=",
+        "oscrypto-1.3.0.tar.gz"
+      ],
+      "wheels": {
+        "oscrypto-1.3.0-py2.py3-none-any.whl": [
+          "Ky8dLULsFSypDMtWgvPgUftVmG4bFw695HKxM3E+cIU=",
           "py2.py3"
         ]
       }
@@ -117185,6 +117227,32 @@
       }
     }
   },
+  "st-click-detector": {
+    "0.0.2": {
+      "sdist": [
+        "iHqJXzPbZpM79MCJXZyZkg2mMvl/eeWN843EA+/yYcc=",
+        "st-click-detector-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "st_click_detector-0.0.2-py3-none-any.whl": [
+          "NWyXbcanMJz41cUXTgVzvf91JBdFYk63s9fKu2ibQNw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "OVchspr0X7dhjT1HXN6GUJphM9qXZEvkQID6oHYf1Vw=",
+        "st-click-detector-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "st_click_detector-0.0.3-py3-none-any.whl": [
+          "azi256poVl6m9tatN4ObVakonm6tWwylIOknleYqikg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "st-schema": {
     "1.0": {
       "sdist": [
@@ -122112,890 +122180,6 @@
     }
   },
   "tf-nightly-gpu": {
-    "2.8.0.dev20210925": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20210925-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "qyWFO2v73lwHQxzdCKm4QIPp1yxdRg9zM2nV+Gt/7a0=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210925-cp37-cp37m-win_amd64.whl": [
-          "ZRC5VGbs3IEEuQxvORvpWabvo2li/jWUJPAXRYBYaek=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210925-cp38-cp38-manylinux2010_x86_64.whl": [
-          "JoLTIqy5uD30Iw6Cy/49Bm7M/6xfczF6hD7RQSN3IfY=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210925-cp38-cp38-win_amd64.whl": [
-          "HFplf3tW215yYft+M0Q6gy84KYUSvWyMnFvKsCj1dU4=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210925-cp39-cp39-manylinux2010_x86_64.whl": [
-          "omG1AVDSp6zb3s2Ugh479PT9sEI5DZfWhZ8Dar/IThQ=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210925-cp39-cp39-win_amd64.whl": [
-          "LWl+/6sf5Mz99x4gicCRK5QFwC5dT5puLUUdaoLDqgk=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20210926": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20210926-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "1It3Ibd2NqoF+NCqOw1JXT1Lue1Y5uxdqvw7lyrPsJY=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210926-cp37-cp37m-win_amd64.whl": [
-          "k+Mz7gtGvgG5jyEo/k+M1bnvTh6iYjimHa5jp9ssZTQ=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210926-cp38-cp38-manylinux2010_x86_64.whl": [
-          "svt63PdaeupMpKMlXsDKyjDuM/bnGtvAKgD617gyZCI=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210926-cp39-cp39-manylinux2010_x86_64.whl": [
-          "UBdxvB5oswXQoOn1Fy7ehuyHtaxbF5wmTPCJ+Cd0sf8=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210926-cp39-cp39-win_amd64.whl": [
-          "so6wMCh2l4mYC4g0Jx4FdeW1uqIsP/5ZSQfwi2wmkwg=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20210927": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20210927-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "2NIah7F5zKlUAN5MggsCNxy0Ai/4UZaoSnrNgqc5u0U=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210927-cp37-cp37m-win_amd64.whl": [
-          "5201W9zeYmwi4VITKGQ88wq0nwpX95N8T2Ru6i4d1g0=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210927-cp38-cp38-manylinux2010_x86_64.whl": [
-          "7/5Or7jGVFlYole3038h75zWwKlEteWYCCoWl8J6NzM=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210927-cp38-cp38-win_amd64.whl": [
-          "h8k4X7vEl6XTA1mUBLLI/mm+1tJei2Iaj0U8sQsO6ws=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210927-cp39-cp39-manylinux2010_x86_64.whl": [
-          "b3L8tfYlANVDhbraBsbJ0nO00HyOcQ6xmwQbEb1u5iE=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210927-cp39-cp39-win_amd64.whl": [
-          "zCLt8MgIYkTSnodrgevJxgG2gTXi/ukahg2CabBEBo8=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20210928": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20210928-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "yRPFaN9h9vN5ER+JjnUhePLp3PfUoC0u0E+f4VQu8QI=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210928-cp37-cp37m-win_amd64.whl": [
-          "xhStqpInV5zRzTZsmDf/a6YvnTiHJqUOJJSbU/JKWTU=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210928-cp38-cp38-manylinux2010_x86_64.whl": [
-          "Llw9Ym4IpoOvnrbABLZaM/c2ruFJbT1m5EBip1mqm2s=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210928-cp38-cp38-win_amd64.whl": [
-          "63u0zK2MEChwlsLL3UvZbUqVI1Z5yvqL1dzetd8VVe0=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210928-cp39-cp39-manylinux2010_x86_64.whl": [
-          "famUkz35vRPmUOLkMN+NsGa/WdQeDej59YL6/IKTawo=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210928-cp39-cp39-win_amd64.whl": [
-          "Uu8HFWC2hc+3+6nD9nFhSTbl78+gv1+zvWEBgnzP/BA=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20210929": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20210929-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "sP8vdrl+AfSRJoqCSa65z/LUajCICID49gweSrT0/6g=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210929-cp38-cp38-manylinux2010_x86_64.whl": [
-          "gyVBmBr85V7b0V/3oozCtj8ZhSZASsWtP+DIpqNh11g=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210929-cp39-cp39-manylinux2010_x86_64.whl": [
-          "diyOMYvpgReAoASwXPClHFzCgi/RbKhyYLi25bPkjTM=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20210930": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20210930-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "V23Qu2Wpfm2039sL2hMRhL3fClxbs2PowyxgQDEzcqs=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210930-cp38-cp38-manylinux2010_x86_64.whl": [
-          "tPhPuAVeGh5aZKN2wMXF0TjT+YGf1cWBQ0baX1RHgZg=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20210930-cp39-cp39-manylinux2010_x86_64.whl": [
-          "lcJYh6WEjR8CjQfJTSY+vj0/Z/VTVC3Qm7q9/MqRtFI=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211001": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211001-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "LVb0kFigDRVGRp3eqraCNo9/0ZwzzPkGFFNypsSSpRU=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211001-cp37-cp37m-win_amd64.whl": [
-          "pYME+g/BbXlFOqMGh1jZ4TyKAJuCvw0VW9nE8C1EsH8=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211001-cp38-cp38-manylinux2010_x86_64.whl": [
-          "XVY3WybsvbyoMht8HJV6653aIt+HlUSCzOPUJnYoTTs=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211001-cp38-cp38-win_amd64.whl": [
-          "MaVw9LsKDuiFWnFSNHUT8S5J6a8KwlJQmcKwPf4MhPk=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211001-cp39-cp39-manylinux2010_x86_64.whl": [
-          "s6ur70fbySOSb5uqrMNo1ld5SbPGcR08ndw8YJDYW5M=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211001-cp39-cp39-win_amd64.whl": [
-          "Y10EPy7iBDML+OoP6jqnDb9jzE8/da4FnaCxwZA6hZI=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211002": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211002-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "Ah/5X757glvaIzbL2wahbozVU+itWFMleQeXsxB6XmY=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211002-cp38-cp38-manylinux2010_x86_64.whl": [
-          "GZ+XcsmLROK1o9Ukuy82hrYBgNAeUe3H8Y8ELs7Z4nQ=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211002-cp39-cp39-manylinux2010_x86_64.whl": [
-          "pandv8cOZmW6CcfswqrsHxevCnAVJWrcKblQhz2S1qw=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211003": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211003-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "Bu9fmhox29A+GS8g+JCkJuRU22tTZhUPEZEuuzob4Ls=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211003-cp37-cp37m-win_amd64.whl": [
-          "rLLN7tZaqMpFULUqTiZ9a1u26aAh1et3hRbb+qviWbY=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211003-cp38-cp38-manylinux2010_x86_64.whl": [
-          "JCZnXi4WEXJ4lMMqWHdO4aj2Ynv+htrFxv+LayS2Y8k=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211003-cp38-cp38-win_amd64.whl": [
-          "Kf/7E4pR5Q4kmLOUhHKbwg1ablkQ2nb/CvvrD5O+5D4=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211003-cp39-cp39-manylinux2010_x86_64.whl": [
-          "M6ObzyaPuDlAlcA1Ef0otrfMXbK8eafnmSRZ/Us3QnU=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211003-cp39-cp39-win_amd64.whl": [
-          "W38RMZ0Q/kaf6VrWueJWKvt3Ult1qCQ/hgn0nrzvUxg=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211004": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211004-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "1H1IzvPoTl4o0SmPfX5l7jUB6JZAQiG4DIsbDr3uO1o=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211004-cp38-cp38-manylinux2010_x86_64.whl": [
-          "kuina2SBTdvQlMoDsR+AB1Ekq8jRIKgQQtCcV9n8Ars=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211004-cp38-cp38-win_amd64.whl": [
-          "sRpTkF3dUUoTl/BLpYtzQgUM3AEm+msyaQNnTC2artI=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211004-cp39-cp39-manylinux2010_x86_64.whl": [
-          "TK7/tSU8Ybu4eKAtbS+MyTAiGjtPy1RciowieQeSD20=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211005": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211005-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "F6Gdb2UKUOPDXtpzahCyp2KfpJw5z6r3R2v5buHfJuQ=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211005-cp37-cp37m-win_amd64.whl": [
-          "VmpGBaryCeDq2JkM2LlvYjFhZoEdTmcsQkAXKWY8/38=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211005-cp38-cp38-manylinux2010_x86_64.whl": [
-          "kPZqrlOJCbNZtDpJ5jsFdpIPjqgH03XHVL540k5ZCJE=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211005-cp39-cp39-manylinux2010_x86_64.whl": [
-          "R081yVV3E70YkvnhQ9N1UJMVxX0Z31HIll94kAmkp2E=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211005-cp39-cp39-win_amd64.whl": [
-          "K38OitCfSR4vMPYosNgSIO+2KAksLHYqR4Y3jah/L8Q=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211006": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211006-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "umZir7W63u52sT0g5XrleIfeJEdIs/3WbncRr/BLJ4A=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211006-cp37-cp37m-win_amd64.whl": [
-          "A/eCPzsKJyu3N+Wp7TqkHbm0ybvzu2G/GKEUO/q9zZ4=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211006-cp38-cp38-manylinux2010_x86_64.whl": [
-          "AeQEoyZEhqh7IR5KOHyeDIcO/rIstLltRVrip7w0PtY=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211006-cp38-cp38-win_amd64.whl": [
-          "0Z7Z07seYZkpk4LlSKDL5kezKZqhx19yOnlV4jeR2yk=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211006-cp39-cp39-manylinux2010_x86_64.whl": [
-          "cAY0Sj8OjGMixUhBSnBJ7kzzNMPCEqUXlxNaVkw/EL4=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211006-cp39-cp39-win_amd64.whl": [
-          "B2hNyf7bTc6WpyZcStDKdhthSBPHoxPlG7BmfRtCYyo=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211007": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211007-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "k5R7dQszc7tBW2nM0Bmzsvu0wq+0NpzMTsggLs8u0uc=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211007-cp37-cp37m-win_amd64.whl": [
-          "xtgyatydeHpWOEGRDU/zrgsLXXvg5DS25+14TcOlvtY=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211007-cp38-cp38-manylinux2010_x86_64.whl": [
-          "DLF1srUU08yjB+ouEMj4f1Y2JwSqM8BBMj6oxp4KHsk=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211007-cp38-cp38-win_amd64.whl": [
-          "R+si33GKj7uAquW+hdGgqxkPvqMt+yIdhVwJdVWY5Js=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211007-cp39-cp39-manylinux2010_x86_64.whl": [
-          "YRxScMg/grVyu7flKu2tu94N1fLe1PNliYHzHdUTEpk=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211007-cp39-cp39-win_amd64.whl": [
-          "pm1QrVPYNJf/mJb5ZnnccKhA1fGghyrJUt+jNCK7c0M=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211008": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211008-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "M6zpu+fl7xcdLZIRgCoK4kHs4daAjxlNJ8XBzuCmuCU=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211008-cp37-cp37m-win_amd64.whl": [
-          "AdaWDdWsO7itmZIhW9YdFkFlWz4rhQ2zzkTKQfS0O5s=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211008-cp38-cp38-manylinux2010_x86_64.whl": [
-          "iI/pVp4IAjAzHOqlraVSicm3L8yFCtIwP2h8cQNrk5s=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211008-cp38-cp38-win_amd64.whl": [
-          "Ur2ZEkNHqaPxFa5GgnFFTgfjS46jSGjyBd9TuvrQG40=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211008-cp39-cp39-manylinux2010_x86_64.whl": [
-          "9QbElTtah1Zm2xQHWmLxG9nzH1W0eNG4AoYIMliczTQ=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211008-cp39-cp39-win_amd64.whl": [
-          "Dajy+NZSvJKagpLywhWqLFlcq7jEgJ3lo7kG/y3mxXs=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211009": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211009-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "IkWd6KeNqlgcuZqJaXi/jO14bjQfhaEgeFXZM7dgG38=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211009-cp38-cp38-manylinux2010_x86_64.whl": [
-          "BuZSsXURUf3xUppzYEz72dxVi6ogJ/We2V3AdRnM9WM=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211009-cp39-cp39-manylinux2010_x86_64.whl": [
-          "FCmY3AX5eFBLojB7/0uO4giBH8QeWMcaA5X12RkHFgc=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211010": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211010-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "mIt8Hgszk9H4mwyEyEIEekkuiGAq2WVkRM0qYri8gf8=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211010-cp37-cp37m-win_amd64.whl": [
-          "oeAWYN0jeDyydtXQ4ZyZ0rleUB541wh25kJifjUmvmQ=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211010-cp38-cp38-manylinux2010_x86_64.whl": [
-          "lCSRtkUtfxYJeiQNl+hdePtdw3qG+RPsDAsJMyVhioc=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211010-cp38-cp38-win_amd64.whl": [
-          "0wWrtYcTSYm1yQ2DCgWTmVpehlN7CzZCzBzAk0uSzVY=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211010-cp39-cp39-manylinux2010_x86_64.whl": [
-          "fFwg+DlaKl+hD8ZPvIFmwFNX6AdvfMJeFVoQTJZRmYQ=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211010-cp39-cp39-win_amd64.whl": [
-          "vRviDajTXmWZxfUJQ7Rn7GXtASvoZa5A7egJRIbs/3w=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211011": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211011-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "39cpMwR7Nm1RBuA9BowW57vJEc+MqStq/MEeWX5MLJA=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211011-cp37-cp37m-win_amd64.whl": [
-          "4p/BKFrGlizJ4J2OLy3zMPE3mzMvDZdKMIjbCVyjX40=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211011-cp38-cp38-manylinux2010_x86_64.whl": [
-          "N8S4mI6sr/X6c4boFXOVw7WucLE/X42Ep212qk4oQJk=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211011-cp38-cp38-win_amd64.whl": [
-          "wZfMBX+Su0X8e0PN0ykHpaGJciy7cZAk3vINFR7GN48=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211011-cp39-cp39-manylinux2010_x86_64.whl": [
-          "uf07CEUVu8xdxJc1fvyr+hL3J8Syjvgnh/YWfgieFnw=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211011-cp39-cp39-win_amd64.whl": [
-          "lobjtiGfoYlIurzW+I1nBkWtqkiV2Hd/qRKO8/lIcvQ=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211012": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211012-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "xgSslrKmh20GmBbSAbo8rHxIRK/t17Zs+Aym9E44UrQ=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211012-cp38-cp38-manylinux2010_x86_64.whl": [
-          "kVoMVFncUsIbBUkg4zsukS1u75qNPj5PQ6cWytwjlHM=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211012-cp39-cp39-manylinux2010_x86_64.whl": [
-          "+ke/ierklxOuzf4lUBF/Cw7IrdjI0eQ3cYDGFqMBpuU=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211014": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211014-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "iUQv+fclY1FRtsS+qRIjE8q6QMyyTvD3knclQCwnoec=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211014-cp38-cp38-manylinux2010_x86_64.whl": [
-          "ufneFptFgIH0OfUjJ49PzuDAOBKKRnB+d+VbG9Xyb8Y=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211014-cp39-cp39-manylinux2010_x86_64.whl": [
-          "1FDrEh8io9J5NJFRCfhUUCbiZK2SMVV7Hrh2hSY15lA=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211015": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211015-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "fwgwW9+FrDgiYxHLR5tU3tG+f3nPWjJp9M6jp85JQT8=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211015-cp37-cp37m-win_amd64.whl": [
-          "I/Gl8CGJ2ycYLLBb6SYRmYKmPfzbLk5fMWqP009OXOM=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211015-cp38-cp38-manylinux2010_x86_64.whl": [
-          "/odalEhJMx2BDhfVMANAFrPrUNa2KGI/jC5jyH0CkVQ=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211015-cp38-cp38-win_amd64.whl": [
-          "S5/+tWl8IyMeH0+/0RnJyfMlL5jUIJFAkUgqecKviLE=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211015-cp39-cp39-manylinux2010_x86_64.whl": [
-          "L1g1Q9EfaUkffvdYLeLfCVCTvKEe8yjnKYFEu6t409A=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211015-cp39-cp39-win_amd64.whl": [
-          "5HEHi4p9urTGItOqV9M55r3Dw9muE8hZ8amELt6bmtU=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211016": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211016-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "6PLVDWPGx4ET9flXrcwqkMwoE8HzF0vizKrpvthXqGw=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211016-cp37-cp37m-win_amd64.whl": [
-          "hd7FqE+3jzjucJhYwHxPbX5a5+2IogUuIgowR9GtXSs=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211016-cp38-cp38-manylinux2010_x86_64.whl": [
-          "gcg5Cn9fGPXJLeQ6Z0NFGtHh/DkxxD4EOBt86UqmJLU=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211016-cp38-cp38-win_amd64.whl": [
-          "QUNiXiPk0duVkc1kKW7U6td6Xp8eg6+StA0HiNL0Tps=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211016-cp39-cp39-manylinux2010_x86_64.whl": [
-          "VbrydMHB/GpqA1OfwzCOlObUmrzN/tyoMwWXjYeii4k=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211016-cp39-cp39-win_amd64.whl": [
-          "hoxaYG0nKupooSl0WtBHrKzZmHSmE2WZJ2IObrNktRQ=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211017": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211017-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "2B1NO+e3R/4RrBgUvXp+365JYmVBclvHv1UjF76l8kU=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211017-cp37-cp37m-win_amd64.whl": [
-          "e5fuXcDKN6VkPPunMigmAUpb1mHwGbVdK/KufbQCT/g=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211017-cp38-cp38-manylinux2010_x86_64.whl": [
-          "Upe+2DlMTU29tMjIvqqFHyh1rurGo3cfkBXFLgzHB0U=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211017-cp38-cp38-win_amd64.whl": [
-          "w7hT6//hhWsOdRvI0My7Qg1GjF56fx+OMtGBsJj1MBs=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211017-cp39-cp39-manylinux2010_x86_64.whl": [
-          "l/qo/T0dWM3i64GQXNKKOEl8bvOHJW7W4bRptZsykCQ=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211017-cp39-cp39-win_amd64.whl": [
-          "v7VApphZbHoc9zSTj8HbycYwld1g3g7R8hRIhiNKvKA=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211018": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211018-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "i5/qKKEeovshAlDUWYvaW1gbOSQWqjEdLSU3LGCDCZY=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211018-cp37-cp37m-win_amd64.whl": [
-          "loOtANnnGywHTt1ke4EExyCTmCoM/SorJZDgrQk/SWM=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211018-cp38-cp38-manylinux2010_x86_64.whl": [
-          "fRuJeIExijKJfSXhbWO1l5qJAA6CkLEUxhmRdmFpzTY=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211018-cp38-cp38-win_amd64.whl": [
-          "UrSKAUqeFY+wYRHyXtOQmbgZGOxIsAwuGFpUxLQ0/JE=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211018-cp39-cp39-manylinux2010_x86_64.whl": [
-          "JGbcfImJ3tjYb7jxcgfD/sa8nSM8iAz6cdz9fgj0mEI=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211018-cp39-cp39-win_amd64.whl": [
-          "cSTdScfdQtK/VqfQnsl7Rri4jjP2Qm25KbSkSNmDpLY=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211019": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211019-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "k0VPL0DapKH75rSPIwNZbqEunbmHMb/sMEoz4l6arfE=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211019-cp37-cp37m-win_amd64.whl": [
-          "fV7nfyvWEUIrUCzEPAeXb/2uWP6sZ6fMylyD+k9lJvc=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211019-cp38-cp38-manylinux2010_x86_64.whl": [
-          "1TRzi5AkN8Vn57SeJ2kwu5AtoJljhkxm7FrgvazUQG8=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211019-cp38-cp38-win_amd64.whl": [
-          "lBbuFkQE7ZLfJ+R05AlntKzLqEFzLCP5Tl/DWMSHPhw=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211019-cp39-cp39-manylinux2010_x86_64.whl": [
-          "TmdWOro0UVyaVWtp0z7cAED0enKgw9URK2WpIZAR4G0=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211019-cp39-cp39-win_amd64.whl": [
-          "IqwauEjm9lDs0oSjVPo2YnN0ZEGj2IgrQPm+POP+4l4=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211020": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211020-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "e7bYY0XWNOuVLZuIlYluWh/zzKZ1XozTG/O3WGvyR68=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211020-cp37-cp37m-win_amd64.whl": [
-          "qyxLQtg+FpEl97AUxgVlpLRHjcqBuS+K7txBrNZElUc=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211020-cp38-cp38-manylinux2010_x86_64.whl": [
-          "dphnTmxDAF+L6Z6V/dsGuk01wgUPLRIkelfoChy5wtc=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211020-cp38-cp38-win_amd64.whl": [
-          "QmMX5wawSxf1wX3LWE+AGbgFo9pU6ka6HBsJGojN/oo=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211020-cp39-cp39-manylinux2010_x86_64.whl": [
-          "32H2L914i7cgayKRY0XSw/b5dk07DNKC1iBUgWILbp8=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211020-cp39-cp39-win_amd64.whl": [
-          "6JSSQy17XGSJvlOpxXC67ivt0S6P6te41v/VczLn8ro=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211021": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211021-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "GE6He5dlIOXK9+iM11zGP+3pKfPGAHzVgWQIuW1RGFg=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211021-cp37-cp37m-win_amd64.whl": [
-          "57F+76SGjCktZmbaKDOrnN9no/5GwWdv11LNXHbj0IQ=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211021-cp38-cp38-manylinux2010_x86_64.whl": [
-          "hWyXiVVaZGOt+uNsHdnpe3diQn/wpRRihsnZ95N9nTI=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211021-cp38-cp38-win_amd64.whl": [
-          "WD1HhJ0h6a1deuplEaG7h79MYwyC30d1gTX/+bHUgtY=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211021-cp39-cp39-manylinux2010_x86_64.whl": [
-          "8JDqimyX+TA5pNUKiwGjxLxrC929lbY5Ovcfe/qJ00U=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211021-cp39-cp39-win_amd64.whl": [
-          "jDlunuQY5SB1n/HqoswPlcPb66imckOkymx7cAwPXQA=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211022": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211022-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "447OwDpkftEfocsIcaL6EIzo7KRcPodliC5taIHeL4M=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211022-cp37-cp37m-win_amd64.whl": [
-          "WNRNLUGhYJD1lnV2t5MvKxtp/FYzT48NJRfJKw5MRg0=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211022-cp38-cp38-manylinux2010_x86_64.whl": [
-          "YoeUpgRscLiO55J0iDm8hOy7uJsYgzGfueSiRamsg+4=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211022-cp38-cp38-win_amd64.whl": [
-          "0jHV54zD0eVuCkhXip+pDXdjRGVeQBkTSMCF21b8AOA=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211022-cp39-cp39-manylinux2010_x86_64.whl": [
-          "pM1YpQMIE5Y1tL2+shD/ZB52VjVGAQeOXEnoPf3JY+M=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211022-cp39-cp39-win_amd64.whl": [
-          "Buaj0GhZ0Gs3eMzUi2vcyYNMQPjl4tFHYH5igoCpWYQ=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211023": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211023-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "MYjHuAvnnFGOowwaIbgoFDjlnu2Y0KFRjgRsc1Mh0s8=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211023-cp38-cp38-manylinux2010_x86_64.whl": [
-          "hCmLiSU8ZNao6b3S+CR1/PYdEn0tEIEi+h77YYdSRr4=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211023-cp39-cp39-manylinux2010_x86_64.whl": [
-          "479dArXC5XNrOp7W8RyCqZu27H8CCCygfxdQqYpe7N4=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211024": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211024-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "v7ebozt0vzbWn9NMcM5E47Rtu4wDHS6aqFmFMRIZbQ8=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211024-cp37-cp37m-win_amd64.whl": [
-          "BM9ATO+cwAcCopxfqcBs4Xe0fuSOAAr1L0jO5oa9gAg=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211024-cp38-cp38-manylinux2010_x86_64.whl": [
-          "MH2aUPHjqAeLqCXtCgw8kAF+M224qpYS920sjS5e5wA=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211024-cp38-cp38-win_amd64.whl": [
-          "7wuya0oGT2mZP5ObZarF0NtWEzBOQ+6wDxjV6Lr0MCA=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211024-cp39-cp39-manylinux2010_x86_64.whl": [
-          "YBCPtAWEGjrfUaih3Nt9eWbE8bPEzBu5uXDp51XjIS4=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211024-cp39-cp39-win_amd64.whl": [
-          "2R0oFWpfEftIFZwQxfIggC9U9u8Y/ggWfUtaRKpjBg4=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211025": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211025-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "CoxmZMVGpaJdfoqryE2m4i7v+EHX4R8s75P6Oqn3v+c=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211025-cp37-cp37m-win_amd64.whl": [
-          "z2Yl39w4cQuRy5/bjNsxSGC2my8zSBN0ypffb+nAMeM=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211025-cp38-cp38-manylinux2010_x86_64.whl": [
-          "Dk0NrZczp8v5b1ShrPOD02oujmantVrGkuURehtOrZA=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211025-cp38-cp38-win_amd64.whl": [
-          "datl0lz6FiFiFp3os8HpPobdRRAwNbKqgQyZLJgS+2M=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211025-cp39-cp39-manylinux2010_x86_64.whl": [
-          "a2ZishsGJ2EKix1tUPlOAo0SAgr4tRLJ/ECFOQqHHD8=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211025-cp39-cp39-win_amd64.whl": [
-          "MuIyCDwjz1F+I+FzcdLcuOZgFNmfTfl0/Wa6QwwzfoY=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211026": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211026-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "KYdJzlVCLqyKC+U6AuR/eaVA7y4XdOoMz19keDdi6T8=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211026-cp37-cp37m-win_amd64.whl": [
-          "daL/MeV6HlzI7BkQ0IJdo8V3xvSMeYdq7x/tHPS1XoY=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211026-cp38-cp38-manylinux2010_x86_64.whl": [
-          "cqoeo+00U6wdjHvsw0UURwfoOsjFY/vEyrx5lcz4Kbw=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211026-cp38-cp38-win_amd64.whl": [
-          "rVtFUI7/3lx3ygEiT7WTu4oZpTqK3GDOSD4OH2wACIU=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211026-cp39-cp39-manylinux2010_x86_64.whl": [
-          "8xxbh0INjAm7DUSvRBaaWD2w9lI71sI0LwugXRL9MOI=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211026-cp39-cp39-win_amd64.whl": [
-          "UCiMg/K97m/r+HGMd5wVLdsb+xv+M2ooDPUaWqWNNHo=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211027": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211027-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "TlBQbDvyGLCOVdRjIAUvUs1/bWDKGoL5SkD3plg4KDU=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211027-cp37-cp37m-win_amd64.whl": [
-          "lnuU8NJtGNi/gvhTa/dUonaSijro9HxhlAT1s/hDcgk=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211027-cp38-cp38-manylinux2010_x86_64.whl": [
-          "mR5EjnuYrBN84vDn3M8xxsl4Sy+rXUoi5ToPr4ux/nE=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211027-cp38-cp38-win_amd64.whl": [
-          "xnG6IVUjLMGJCgW0MfYLbI/0tEGTWoaEe23Bem/kglY=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211027-cp39-cp39-manylinux2010_x86_64.whl": [
-          "oNznYW2/cPB7ddLLVkBbzmCG52SFL+WIqVli4ubH9VA=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211027-cp39-cp39-win_amd64.whl": [
-          "fTRLPPYi0/QIav6NTK+GFsT4kANeCifDw8/M7t7jwWs=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211028": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211028-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "ENL1wQATG/UHUhZ+j1cfHqAtL6GBpi+M4MR+docppJw=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211028-cp38-cp38-manylinux2010_x86_64.whl": [
-          "6tGGhGGSgjITv7rtTiQo2RwZXetWz1RjsiWxbyl6evI=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211028-cp39-cp39-manylinux2010_x86_64.whl": [
-          "pMPRlHl7sXNFl+Z6kq9xjkR7qPaqZQ8ON74zFyxUkYQ=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211029": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211029-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "auX38BosmJHmDU42EUUwfNVFtEe+bWlAwCuhFrhcAFA=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211029-cp37-cp37m-win_amd64.whl": [
-          "Ic/sV2inZa3qdI9h7NmANEnP0nOAE5x//FnrIBm1az8=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211029-cp38-cp38-manylinux2010_x86_64.whl": [
-          "iBEwq4WIpEK4Xn860XmbOpP5EtKUaq8HRALsQ+I+zUI=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211029-cp38-cp38-win_amd64.whl": [
-          "VdNi0XOtmk1QOJOf60tsTOgAiA/a9rNcRzqlDzyQXIw=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211029-cp39-cp39-manylinux2010_x86_64.whl": [
-          "HBqQItNkE3ut68PaHmXgSfVCdxMLtBR1uE1jIYMMxak=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211029-cp39-cp39-win_amd64.whl": [
-          "vY8jNbw/lGsKi3s6cNCBz0glNcyOjN8lBzjCGm/vaFE=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211030": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211030-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "PDQ1FDn8Sx35+Zlijd3SxBqlUzASp0chd6ntuyksxnc=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211030-cp37-cp37m-win_amd64.whl": [
-          "dd6sqEC/enGbglWVt+CelmqVuOgiYParSmnXwc60KzU=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211030-cp38-cp38-manylinux2010_x86_64.whl": [
-          "YeqzWMoGO4dR01c34ccjVlEjEhRHsuow0AB3abU5ByQ=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211030-cp38-cp38-win_amd64.whl": [
-          "2PhFz/Lt6EHpz1pZNyweKLbT/Su0vZGQCBXotzfDMzc=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211030-cp39-cp39-manylinux2010_x86_64.whl": [
-          "W3bkgvWBZ1hKVnPONI8cud6lDqh+ImZWHAo30DeL/2w=",
-          "cp39"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211030-cp39-cp39-win_amd64.whl": [
-          "QuV3G7XdBomurJgGPmHm32Z7/DV9Ac2DOTikcSTdedA=",
-          "cp39"
-        ]
-      }
-    },
-    "2.8.0.dev20211031": {
-      "wheels": {
-        "tf_nightly_gpu-2.8.0.dev20211031-cp37-cp37m-manylinux2010_x86_64.whl": [
-          "xM5fLCSrsWmz2hx0u5V4cFDKskUy8HvPVeeXdyx2p0g=",
-          "cp37"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211031-cp38-cp38-manylinux2010_x86_64.whl": [
-          "HAMlJ4BbLkUWFRvnTTr7kTKWGshm9kMUwNMyTnG8TYk=",
-          "cp38"
-        ],
-        "tf_nightly_gpu-2.8.0.dev20211031-cp39-cp39-manylinux2010_x86_64.whl": [
-          "bi17MioAfg9EXU+NuG+yxAoc2sQdpdCl6aoSm7MDuXo=",
-          "cp39"
-        ]
-      }
-    },
     "2.8.0.dev20211101": {
       "wheels": {
         "tf_nightly_gpu-2.8.0.dev20211101-cp37-cp37m-manylinux2010_x86_64.whl": [
