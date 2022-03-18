@@ -12291,6 +12291,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.1b20220318": {
+      "sdist": [
+        "gSDg6XXYLUPx9HQRs9cQkDAX+PnIn9K0+j5ra8cL7l4=",
+        "autogluon-0.4.1b20220318.tar.gz"
+      ],
+      "wheels": {
+        "autogluon-0.4.1b20220318-py3-none-any.whl": [
+          "ikih+2eDNLHWwcog9cTXD60OpOScI5lj5cWm3a13cZk=",
+          "py3"
+        ]
+      }
     }
   },
   "automatediareviewmicroservice": {
@@ -36800,6 +36812,18 @@
       "wheels": {
         "dbnd_mlflow-0.66.10-py2.py3-none-any.whl": [
           "zK6K4o8PB1XbgsMnWDFkFdBxx8hK91e/Hg6Jq6H72nE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.66.11": {
+      "sdist": [
+        "BXBi3RIo86PYRhxWYftdNLEKnSkuIXw8XH6jFOkPsVo=",
+        "dbnd-mlflow-0.66.11.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_mlflow-0.66.11-py2.py3-none-any.whl": [
+          "4NC2xXjhz3ckY7Xk3IrkOFBTivPWD202zql5njO9xcE=",
           "py2.py3"
         ]
       }
@@ -92048,6 +92072,10 @@
           "bxs0aD6emWxx3S932Jn24LuHa/YR/XCNXKE9Gsx/zzc=",
           "cp310"
         ],
+        "ortools-9.3.10497-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "zCWeC7Ar6an+ZgOwvQHbNIe5wERhYgul0zxmBJlJzZs=",
+          "cp310"
+        ],
         "ortools-9.3.10497-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "GzjjLyS9JUkCXz3bbqPt9Fi2LBcYelUwcIwgr1Xuvpw=",
           "cp310"
@@ -92088,6 +92116,10 @@
           "JftCs6t9Cie2aqgU4OP9kZpuaiUvOEZnS0rHlc2/e5Y=",
           "cp38"
         ],
+        "ortools-9.3.10497-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "wOovriKyzlBTDRswC8qTLpNMWNr86WRuhgAkAHxN+8o=",
+          "cp38"
+        ],
         "ortools-9.3.10497-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "wpTvDz/QYq63TT1Y7GXorw6TNxD5F45eHyZeGUFkfRk=",
           "cp38"
@@ -92102,6 +92134,10 @@
         ],
         "ortools-9.3.10497-cp39-cp39-macosx_12_0_arm64.whl": [
           "YG66YqweNsVABSo4GZVywIRBmtd7AExCYN+WiPW/oW8=",
+          "cp39"
+        ],
+        "ortools-9.3.10497-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "XKv+qmwunTcdPLp/jjxLsyuD3uAKamS8DkVO1pitF1I=",
           "cp39"
         ],
         "ortools-9.3.10497-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -98396,74 +98432,14 @@
     }
   },
   "pyacptrak": {
-    "0.0.4": {
+    "0.0.12": {
       "sdist": [
-        "pZZsSt3gZCJ/+bYLbHkRuiBcBiwjpgGQsA7AEieWmY0=",
-        "PyAcpTrak-0.0.4.tar.gz"
+        "kz8QcQ3edeupLlyjBnqc4I5sm9SUi50tcVH7VYPv0bw=",
+        "PyAcpTrak-0.0.12.tar.gz"
       ],
       "wheels": {
-        "PyAcpTrak-0.0.4-py3-none-any.whl": [
-          "uOuAyp4AYuqoTUC0BG0eY9k3pOV0vCl79e0UcXjmAk0=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "84xKXfkbnEyuZbkwaBTGTynSIE/mcKTTkMa3QrGD6ys=",
-        "PyAcpTrak-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "PyAcpTrak-0.0.5-py3-none-any.whl": [
-          "6kc7sXn6v8JLyXkvmBy+wrCR3JHf3RzEbnPtNpMDfyg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "HNXv3g+AJGXI8e9e2GBf7CcexzdlGvdp9RgPTcVSzEU=",
-        "PyAcpTrak-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "PyAcpTrak-0.0.6-py3-none-any.whl": [
-          "40DhkQ/8eot2WgJgX1kXjw+gLZL9O2z10SX1Aof1YO0=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "sa/SHMa5zS3HNv2JzDLWBynjvTkyuC9kNJeEW0l0u7E=",
-        "PyAcpTrak-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "PyAcpTrak-0.0.7-py3-none-any.whl": [
-          "oqC5yqXJcVY3D5nyp89EEujMVJO1M37nRfCS1THPOcE=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "Dqj6tjWD+BNk4wB22WFwlezybYUtO/0ORUJZsVCefNo=",
-        "PyAcpTrak-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "PyAcpTrak-0.0.8-py3-none-any.whl": [
-          "cf5jSFEf3HijIsgtegHlRSsfp9BeMJwgv+25y+7X1VQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "otWd7Y71CqGIRq9We+pm+5mv0+k2iPq04FH6lLOuhwM=",
-        "PyAcpTrak-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "PyAcpTrak-0.0.9-py3-none-any.whl": [
-          "CTjWYEAvVwiJspz5n+Osuw/GObvMQOwGBIpbrexRzQs=",
+        "PyAcpTrak-0.0.12-py3-none-any.whl": [
+          "/Yw/ACeD5qN243aAxDdsrWRvpPNXrwYbH7GgRg1+++k=",
           "py3"
         ]
       }
