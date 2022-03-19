@@ -39802,14 +39802,14 @@
         ]
       }
     },
-    "1.7.9": {
+    "1.7.9.post1": {
       "sdist": [
-        "VuG0DtAV89fsZYnssBFa2fOZd/Dz0VhNlQ2NvEhreKw=",
-        "Discord-Advert-Framework-1.7.9.tar.gz"
+        "sr+/6V+egWjlQQsZbX5OIz2mnepcwioxt5bAKghXo5c=",
+        "Discord-Advert-Framework-1.7.9.post1.tar.gz"
       ],
       "wheels": {
-        "Discord_Advert_Framework-1.7.9-py3-none-any.whl": [
-          "py8MlVQePzIMkax6HRvEQw1URSTW/lGN3WulNVjPLis=",
+        "Discord_Advert_Framework-1.7.9.post1-py3-none-any.whl": [
+          "2RgV4eTojch0ncU+DaMvD5WSl83BtNzbr2cPk1vBMGo=",
           "py3"
         ]
       }
@@ -98693,6 +98693,20 @@
       }
     }
   },
+  "package-dan-pr3": {
+    "0.0.1": {
+      "sdist": [
+        "KfaLrtk5wowvvG+rZ4j0LOCH827Vb3b4TwOX4OJ9Zpg=",
+        "package_dan_pr3-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "package_dan_pr3-0.0.1-py3-none-any.whl": [
+          "WG+mPS84jsdduUGiBw7dJhepeQweQNsmL9CKwnFMOAs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "panacotta": {
     "0.1": {
       "sdist": [
@@ -113043,6 +113057,22 @@
           "py3"
         ]
       }
+    },
+    "0.0.101647688208": {
+      "sdist": [
+        "mwQYfeAotuoatHgbxb37NvgPd+GKp55aJObLwkAfyKw=",
+        "pyre-check-nightly-0.0.101647688208.tar.gz"
+      ],
+      "wheels": {
+        "pyre_check_nightly-0.0.101647688208-py3-none-macosx_10_11_x86_64.whl": [
+          "urkPAzVSKJVTl5wZUrXVOibm458J6ZfgF+Zgn+fnQMQ=",
+          "py3"
+        ],
+        "pyre_check_nightly-0.0.101647688208-py3-none-manylinux1_x86_64.whl": [
+          "51O+BMLSmiZh/2TGMMwftctuXcwEize8xNlrf3X5D7s=",
+          "py3"
+        ]
+      }
     }
   },
   "pyreleaser-io": {
@@ -119139,6 +119169,12 @@
         "ZHYu6Dpqf/Yc0ZNd3S1JL0OaX2SadqfqrJqyml45mJc=",
         "robotframework-pabot-2.3.1.tar.gz"
       ]
+    },
+    "2.4.0": {
+      "sdist": [
+        "/FWrLRPkwqiOKdCYsXoL+Rfhuz5CnVkoAclD2FIimSs=",
+        "robotframework-pabot-2.4.0.tar.gz"
+      ]
     }
   },
   "roc-tools": {
@@ -119426,6 +119462,18 @@
       "wheels": {
         "RsSmw-4.90.49.53-py3-none-any.whl": [
           "bdAREFKUu3LsXhbJ81ZMBoaYgRbQ8bS3By2xC+T1AmU=",
+          "py3"
+        ]
+      }
+    },
+    "5.0.44.58": {
+      "sdist": [
+        "+xGdsyrSAzgxHr2GTQn8IyYB5qpoDm3gh+albbcLKjM=",
+        "RsSmw-5.0.44.58.tar.gz"
+      ],
+      "wheels": {
+        "RsSmw-5.0.44.58-py3-none-any.whl": [
+          "8wWgCxuut5Dms7lR+ZKZlRpBF/I/ZiFijoTFa/5uqMw=",
           "py3"
         ]
       }
@@ -140952,6 +141000,34 @@
         ],
         "tfq_nightly-0.7.0.dev20220318-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "fx+purxthq2j8iCh2Kadz47ndzDMIl7HXET0OFgqqXI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.7.0.dev20220319": {
+      "wheels": {
+        "tfq_nightly-0.7.0.dev20220319-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "KhETVgfFABhkDUUJxot2mLX0UXBRCI+RQ9mh0c/VrtA=",
+          "cp37"
+        ],
+        "tfq_nightly-0.7.0.dev20220319-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "qh/tZnneo6lrGdcVDgoEOs9IXmvNyYa7T/7jnsWx2tE=",
+          "cp37"
+        ],
+        "tfq_nightly-0.7.0.dev20220319-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "Y/Vi6jR6dflswreSCOTVWlXz41V4XVgLDB/7jbeFSK0=",
+          "cp38"
+        ],
+        "tfq_nightly-0.7.0.dev20220319-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "zkuhXkQRX5EX4W65vQDapr2yNL1KOpj0R3vuKavtbzM=",
+          "cp38"
+        ],
+        "tfq_nightly-0.7.0.dev20220319-cp39-cp39-macosx_12_1_x86_64.whl": [
+          "Sl3IQvL/cyR7koudpciUMjlDlE7NO9DjwKp6+TUVL4k=",
+          "cp39"
+        ],
+        "tfq_nightly-0.7.0.dev20220319-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "r+wQfpOmovRr3HaZHwIez1UVnaos89v3BgDGq6pK+WY=",
           "cp39"
         ]
       }
