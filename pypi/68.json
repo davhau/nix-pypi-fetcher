@@ -4769,6 +4769,18 @@
           "py3"
         ]
       }
+    },
+    "3.7.0": {
+      "sdist": [
+        "mS6Qo9jXC5HAnm+jPdNyMdgua4iAsSldoODhwXtjYEk=",
+        "archimedes-python-client-3.7.0.tar.gz"
+      ],
+      "wheels": {
+        "archimedes_python_client-3.7.0-py3-none-any.whl": [
+          "AKM6EQzTvm8VIuxmamEmPMdo8QC+4vqhkDwLz1h9w5M=",
+          "py3"
+        ]
+      }
     }
   },
   "archive-tools": {
@@ -64332,6 +64344,12 @@
         "modnet-0.1.11.dev0.tar.gz"
       ]
     },
+    "0.1.12": {
+      "sdist": [
+        "j/VTcmRVagcLIB9lQnsPXnwCKxGfVHjOuMrkgh9FTEE=",
+        "modnet-0.1.12.tar.gz"
+      ]
+    },
     "0.1.12.dev0": {
       "sdist": [
         "9JkfRCADmNIUskpHTfsxKmzTv1nWYS9d3B0Qos2Iulg=",
@@ -70517,6 +70535,14 @@
           "py2.py3"
         ]
       }
+    },
+    "1.1.8b20220321": {
+      "wheels": {
+        "multi_model_server-1.1.8b20220321-py2.py3-none-any.whl": [
+          "s7Rm9h/P58uGUVflBQU4K2WMlkfLDQ5MhYJt9FrqiH8=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "multiple-permissions": {
@@ -72708,6 +72734,68 @@
         ],
         "ncnn_vulkan-2022.3.2-cp39-cp39-win_amd64.whl": [
           "rFGB1LxgzjftVm97XK9cjDNKHmwolsV3bUlyM+6WQ3c=",
+          "cp39"
+        ]
+      }
+    }
+  },
+  "ndi-python": {
+    "5.1.1.1": {
+      "sdist": [
+        "l9rDKcHMLPQhIvqlyh+ckoBIvTFrg/MaRy5NS7aUuKA=",
+        "ndi-python-5.1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "ndi_python-5.1.1.1-cp310-cp310-macosx_10_12_x86_64.whl": [
+          "6JfdO0vi2//K2adCOZVNm5jjUJdyV1fOyOGXOQK+Sdo=",
+          "cp310"
+        ],
+        "ndi_python-5.1.1.1-cp310-cp310-win_amd64.whl": [
+          "RbN7VTrCGQT1V49ybO9/yUs+4yUSejOYOdFrNTlf6rk=",
+          "cp310"
+        ],
+        "ndi_python-5.1.1.1-cp37-cp37m-macosx_10_12_x86_64.whl": [
+          "M1uzZ9C2kyA/SFYgeaisJr14aNRM2/oaEWO6BPYoNNk=",
+          "cp37"
+        ],
+        "ndi_python-5.1.1.1-cp37-cp37m-win_amd64.whl": [
+          "HwRt3FcActmGHWpYctD8npNlM9kUZSCHIhCI/19tqh0=",
+          "cp37"
+        ],
+        "ndi_python-5.1.1.1-cp38-cp38-macosx_10_12_x86_64.whl": [
+          "loRcbG5/1VLU2jCn9hG3EMh7os7aH+PvkQ4QwnPQBCQ=",
+          "cp38"
+        ],
+        "ndi_python-5.1.1.1-cp38-cp38-win_amd64.whl": [
+          "6VWlTnyy1ou0+xK4g4n9F4jXp797et/219rk9ntyUH4=",
+          "cp38"
+        ],
+        "ndi_python-5.1.1.1-cp39-cp39-macosx_10_12_x86_64.whl": [
+          "AH79cTk4xQF1BaVTpRQBn5ZoerVDGTL3avjWB0CzpJc=",
+          "cp39"
+        ],
+        "ndi_python-5.1.1.1-cp39-cp39-win_amd64.whl": [
+          "7bwhksDgneLfPDfktg53PbMlpNVEENXCSHG77Wze3ck=",
+          "cp39"
+        ]
+      }
+    },
+    "5.1.1.2": {
+      "wheels": {
+        "ndi_python-5.1.1.2-cp310-cp310-manylinux2014_x86_64.whl": [
+          "4XWTRrU282xXZVwwNb0RA9Bh+gUOAyv7zHYnHdkzMnA=",
+          "cp310"
+        ],
+        "ndi_python-5.1.1.2-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "JnRm2uNFP463mL37s1S8s4IsquZqloXiRuXemcCBaeo=",
+          "cp37"
+        ],
+        "ndi_python-5.1.1.2-cp38-cp38-manylinux2014_x86_64.whl": [
+          "0NwCy/tSBqBXtLrZ1OtHe0MaLoAZQSQvgjzdHZcuPnY=",
+          "cp38"
+        ],
+        "ndi_python-5.1.1.2-cp39-cp39-manylinux2014_x86_64.whl": [
+          "MFd0k2/OXEZe73KPXLlgEJAgv975QffxficMl8tO1WM=",
           "cp39"
         ]
       }
@@ -86002,6 +86090,18 @@
       "wheels": {
         "prometheus_pve_sd-2.3.1-py3-none-any.whl": [
           "aDOK5H01wq/0xu8jo+Ja97zMPHt69604ZU2xkDDTzR0=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.2": {
+      "sdist": [
+        "eya0sjfqrwQdlHC9cAmaSdzSd3N6Ns64HOucmnBxMKw=",
+        "prometheus-pve-sd-2.3.2.tar.gz"
+      ],
+      "wheels": {
+        "prometheus_pve_sd-2.3.2-py3-none-any.whl": [
+          "2sVNqCMFmkA+Clsm8Mw+Cyrn5vnesCVo/7+o/Kne4FM=",
           "py3"
         ]
       }
@@ -101034,6 +101134,18 @@
       "wheels": {
         "repro-0.1.4-py3-none-any.whl": [
           "xpuYO7FJGBNGT1ZOFjwYS5k1fjqz5+WwC+VUWgT7qeI=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "7r3wPXVFyzRYENDmxncVLRUOb66d94gqTpOXPQRyAMY=",
+        "repro-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "repro-0.1.5-py3-none-any.whl": [
+          "mSAdalknX48WuN3G6GPR0OJUEh+qTRCtgg+6CKyxMfs=",
           "py3"
         ]
       }
