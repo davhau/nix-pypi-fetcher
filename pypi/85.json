@@ -4853,6 +4853,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.4rc1": {
+      "sdist": [
+        "Yw2TJyrJ3yBUCXXX8+OGuDsWG2dhgbBbT08XCGE92yo=",
+        "apache-airflow-providers-apache-pig-2.0.4rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_apache_pig-2.0.4rc1-py3-none-any.whl": [
+          "QeTxE8zbieleixf0/xuDQ5LbkcoamRedrT3IkQgHKu0=",
+          "py3"
+        ]
+      }
     }
   },
   "apache-airflow-providers-jdbc": {
@@ -5064,6 +5076,18 @@
       "wheels": {
         "apache_airflow_providers_jdbc-2.1.2rc1-py3-none-any.whl": [
           "UR9Lt1rZsKW/BTL2LE4wTpK59rO82CDQavOZ4NGi6UE=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.3rc1": {
+      "sdist": [
+        "5/13CSubk5AGm4zWPXVX6GNwaCrp+hDqMr4q3odXRJE=",
+        "apache-airflow-providers-jdbc-2.1.3rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_jdbc-2.1.3rc1-py3-none-any.whl": [
+          "FxaO2yzBeuOQp3vCIu8XLOPTuBjOdREjHWgobjvfErE=",
           "py3"
         ]
       }
@@ -25199,6 +25223,20 @@
         "5vIa6Sv8sbb9qkMIpVxvR2nMNyRBnroOfn4E71orcrs=",
         "custos-python-sdk-1.0.0.tar.gz"
       ]
+    }
+  },
+  "cutensor": {
+    "1.5.0.3": {
+      "wheels": {
+        "cutensor-1.5.0.3-py3-none-manylinux2014_aarch64.whl": [
+          "jeyMCLn4VLzXKJgxn9z4v0biejeCv/xmcUSYUqqsaTc=",
+          "py3"
+        ],
+        "cutensor-1.5.0.3-py3-none-manylinux2014_x86_64.whl": [
+          "KIZ2MldVbHJzNrgexbz9ixuqwT5HW6Bg0KtB0fPJLUA=",
+          "py3"
+        ]
+      }
     }
   },
   "cv2-test": {
@@ -60726,6 +60764,18 @@
         ]
       }
     },
+    "1.1.10": {
+      "sdist": [
+        "E5iz+MDxmAk5vF4nuh3wVkoDkQqz6ksQ2Aftpm2OP30=",
+        "meter-gear-1.1.10.tar.gz"
+      ],
+      "wheels": {
+        "meter_gear-1.1.10-py37-none-any.whl": [
+          "AYx0wKoPPBf92/qXzHrUXPm4O4XDLmeNiKmULcROMdg=",
+          "py37"
+        ]
+      }
+    },
     "1.1.2": {
       "sdist": [
         "Cc1uYEqWiazjIWazeIvzCT9DsAfHZZnsJXx3H6BHkiY=",
@@ -72716,6 +72766,30 @@
       "wheels": {
         "mypy_boto3_s3-1.21.0-py3-none-any.whl": [
           "slRKoC/A+jRdzZ1PGiu+j0l1pmpB4UgyTyJyhIPzyyA=",
+          "py3"
+        ]
+      }
+    },
+    "1.21.23": {
+      "sdist": [
+        "hla92LIvyyKedCSrz6nIqMaMvpewB+7cfAuqnagO+dQ=",
+        "mypy-boto3-s3-1.21.23.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_s3-1.21.23-py3-none-any.whl": [
+          "R3dRjAQ/PSFO6iyiBn4YM/OhZHuwubykYiGbGfz5Oms=",
+          "py3"
+        ]
+      }
+    },
+    "1.21.23.post1": {
+      "sdist": [
+        "COJeqD6y9S9z83X3AsawR48p+4tVarlfMfy3b9rKPWs=",
+        "mypy-boto3-s3-1.21.23.post1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_s3-1.21.23.post1-py3-none-any.whl": [
+          "4Xmj3t1qWdtruRn/Atg6xWwEVc0n+kngrlY4BCqq4C8=",
           "py3"
         ]
       }
@@ -91315,6 +91389,130 @@
           "pp38"
         ]
       }
+    },
+    "1.9.1": {
+      "sdist": [
+        "72R5w7YZKCUxawVjNtt36/9ueEmusfu4i3YAGsM3uck=",
+        "pygit2-1.9.1.tar.gz"
+      ],
+      "wheels": {
+        "pygit2-1.9.1-cp310-cp310-macosx_10_9_universal2.whl": [
+          "JlbsJXYVHu66ioX66TXHVbBuM+Pai60EncWQIX+u4vo=",
+          "cp310"
+        ],
+        "pygit2-1.9.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "BzxMIMHDzolBlX+juARN0DyXdrSLWrgfhZ/JJBonYXY=",
+          "cp310"
+        ],
+        "pygit2-1.9.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "FDpOEvUtnXvkxg1/Xm0XcCIOZ+SOD3xObO6dCmogeKo=",
+          "cp310"
+        ],
+        "pygit2-1.9.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "81y4QHV6sWFVIB2N7jDNKs4P2pm8gAeBZLvJYQDl3Sg=",
+          "cp310"
+        ],
+        "pygit2-1.9.1-cp310-cp310-win32.whl": [
+          "crsqkD0yWyXnTZY5sVWMVP7URq7qhZw8ySt7CsMZPNs=",
+          "cp310"
+        ],
+        "pygit2-1.9.1-cp310-cp310-win_amd64.whl": [
+          "eSjRhnHo37h32RyT6hnHJiqGMTdCF+8QoanwRfL2c+U=",
+          "cp310"
+        ],
+        "pygit2-1.9.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "s0L0ZcOuC9PfzWeSUaRKFpCVCKNCK+Y1LGG84U7Wq9k=",
+          "cp37"
+        ],
+        "pygit2-1.9.1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "0XJJh4htI8+NbZAa2TM/5pKfqARgh46sDj2mqRu1ocY=",
+          "cp37"
+        ],
+        "pygit2-1.9.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/XsjqUlLP5GngbF6Iyiexg4q82hGxJar3GJJsz8+FRM=",
+          "cp37"
+        ],
+        "pygit2-1.9.1-cp37-cp37m-win32.whl": [
+          "6UchtjhIQ1dhAr0Y1AnMDyvGk+NatJADRtanq7wqTyw=",
+          "cp37"
+        ],
+        "pygit2-1.9.1-cp37-cp37m-win_amd64.whl": [
+          "hxzIi/geis0zVUvCMea228y7xIm73pPR8b7O0IAVqyc=",
+          "cp37"
+        ],
+        "pygit2-1.9.1-cp38-cp38-macosx_10_9_universal2.whl": [
+          "BZC/BPaOSaCJytdDEjDFEG0imI/0n1T3yhH2lDf4LSA=",
+          "cp38"
+        ],
+        "pygit2-1.9.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "XXmBLWd+SodVUkWjFzfFY813S6jDUGv2+YvcMYrnDPU=",
+          "cp38"
+        ],
+        "pygit2-1.9.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "soA9roZvJ1kxjEknxyqXOqb7Cth9TWvmfKuc5u3/mX4=",
+          "cp38"
+        ],
+        "pygit2-1.9.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TRD/LeENmGrkKZ+cnB+zjlMa7TmdadS3Wn+g9R2Oqks=",
+          "cp38"
+        ],
+        "pygit2-1.9.1-cp38-cp38-win32.whl": [
+          "w+KInoVGjmT9KhjJ+76ruIWqmN/Pua0+b276sfZQPV0=",
+          "cp38"
+        ],
+        "pygit2-1.9.1-cp38-cp38-win_amd64.whl": [
+          "+VSE5wd84zLRsGR6CVcz/Uv/H6/RcsDTostIk0Ev5a4=",
+          "cp38"
+        ],
+        "pygit2-1.9.1-cp39-cp39-macosx_10_9_universal2.whl": [
+          "KbZD7x1cLqud8cLOCt1TkleAgNwy2aZd58VJamhqArQ=",
+          "cp39"
+        ],
+        "pygit2-1.9.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "aJWqLpzN/PICjksdwNqQ4rAa/x5Bn1FpbQ7KZ7CmXSs=",
+          "cp39"
+        ],
+        "pygit2-1.9.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "rJGBJZymU9pJZVKK2mofqSRV0JRbHAWm8gkqtabuT3c=",
+          "cp39"
+        ],
+        "pygit2-1.9.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eVOokUuH8eg11rHGXVKXUNRuFXHF802r4imdW1e5AzM=",
+          "cp39"
+        ],
+        "pygit2-1.9.1-cp39-cp39-win32.whl": [
+          "GqHPoV80kuNq/gunMm6YcxkuT60MU0ihp8SzTZf42Rw=",
+          "cp39"
+        ],
+        "pygit2-1.9.1-cp39-cp39-win_amd64.whl": [
+          "6ledTYBAgmgZYRfqnUF3zQI2LBvL93gNRYMF2E/z3LI=",
+          "cp39"
+        ],
+        "pygit2-1.9.1-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "9UxHPOm71v6kLO5wNWJz9yTxG5siMEcY1SwBhPtdluw=",
+          "pp37"
+        ],
+        "pygit2-1.9.1-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "K0H9x+9WiTdpKuq26gpj0vMhKXEo/kC6Co5K5Jyo3mw=",
+          "pp37"
+        ],
+        "pygit2-1.9.1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xNr1gD7yUCA0ZKfDbDkxnLJhBE0E8u0SI7lBaMO3ojM=",
+          "pp37"
+        ],
+        "pygit2-1.9.1-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "8qYDZ/HZeqdQ+uq7RqIiGha7x8Pr4aVJRd1XqMkjcYw=",
+          "pp38"
+        ],
+        "pygit2-1.9.1-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "HF+Q7FnxLDqpTm9ACfwqHJRB6yi7TJCWYyZ/z55Bou8=",
+          "pp38"
+        ],
+        "pygit2-1.9.1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "s++MGNt01DPk9J7XJx/VIfCaduf6iHn6QlWXZdrlJSQ=",
+          "pp38"
+        ]
+      }
     }
   },
   "pygoul": {
@@ -99613,6 +99811,32 @@
       ]
     }
   },
+  "quepland-bot": {
+    "0.1.5": {
+      "sdist": [
+        "nzdLQzLyM5hPAFdzdhZFQ5XMy+HmDf8Gjn6AYCwVet0=",
+        "quepland_bot-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "quepland_bot-0.1.5-py3-none-any.whl": [
+          "8BHNV6v8yowDWrPiQIMqwDRuZvx6g4wXjYrEQ3C9WqY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "wJrCEtPMTteVqPnqB+Sd7+KcGJ30CtHVBTAo3xbS16I=",
+        "quepland_bot-0.1.6.tar.gz"
+      ],
+      "wheels": {
+        "quepland_bot-0.1.6-py3-none-any.whl": [
+          "GjD4+QE1vExo4ywhSOkIrK1lw3lLnMTjt5xaGQy7Yio=",
+          "py3"
+        ]
+      }
+    }
+  },
   "quickdiagrams": {
     "0.3": {
       "sdist": [
@@ -104069,6 +104293,22 @@
           "py3"
         ]
       }
+    }
+  },
+  "roblox-free-robux-no-offers-2022-v-2091": {
+    "3.586": {
+      "sdist": [
+        "AdRryJk/u+vEECUgUCeMmkHqRviTxg60T5ErcXBTdAk=",
+        "roblox-free-robux-no-offers-2022-v-2091.zip"
+      ]
+    }
+  },
+  "roblox-free-robux-no-survey-2022-v-5206": {
+    "5.903": {
+      "sdist": [
+        "4GzGPYEG1nQz4gfyudAL6dKXiwEdP/aTMB6aii/daUA=",
+        "roblox-free-robux-no-survey-2022-v-5206.zip"
+      ]
     }
   },
   "roblox-free-robux-without-downloading-anything-hack-v-2082": {
@@ -131790,6 +132030,30 @@
       "wheels": {
         "types_aiobotocore_sagemaker_featurestore_runtime-2.1.1.post1-py3-none-any.whl": [
           "x6GH9APhTmoetFfFsPlxpK146Vzl7fkBMIj9trJMfTQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0": {
+      "sdist": [
+        "02N/3WaRrWyrJ3xhzMF6EF5p0UJjLeWzD0HhWtoiPuU=",
+        "types-aiobotocore-sagemaker-featurestore-runtime-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_sagemaker_featurestore_runtime-2.2.0-py3-none-any.whl": [
+          "mUJGzggC5zZ712t+nXYdffkhlAdxPvQnV8TFnf95c8k=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.0.post1": {
+      "sdist": [
+        "7haRh5DWz7aemDoTPlLUKSZwwcTozF92SL/A4Tqzrwc=",
+        "types-aiobotocore-sagemaker-featurestore-runtime-2.2.0.post1.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_sagemaker_featurestore_runtime-2.2.0.post1-py3-none-any.whl": [
+          "nYUA4vgWhJwfqdp/GF0UHc0plFJC945AY7dVNGeFbeo=",
           "py3"
         ]
       }
