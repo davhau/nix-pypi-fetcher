@@ -44664,6 +44664,18 @@
         ]
       }
     },
+    "1.13.48": {
+      "sdist": [
+        "aZ0m7PqLIT09aR/50q4y843u2T6ihqafXlnxo8MpLig=",
+        "fastel-1.13.48.tar.gz"
+      ],
+      "wheels": {
+        "fastel-1.13.48-py3-none-any.whl": [
+          "4uVfy1n0cV0I4P43h8WG/VE8MCID1bmjgxp+6ZTw0QE=",
+          "py3"
+        ]
+      }
+    },
     "1.13.5": {
       "sdist": [
         "/s0IDxDKrkJUKq0wxwjeVm6vWKVjH9/xw1bd4x9KtwE=",
@@ -100490,10 +100502,6 @@
           "RmEUMZia23qWEO5Vdy91CGLitAOArZGirrsrsVaCMZ4=",
           "cp27"
         ],
-        "rhino3dm-7.14.2-cp27-cp27m-win_amd64.whl": [
-          "dLqIdz4231P829lEuJkaWaQRkCIcVfahiivbSZpOVng=",
-          "cp27"
-        ],
         "rhino3dm-7.14.2-cp310-cp310-macosx_11_0_x86_64.whl": [
           "a8kB9nGTAJt1GqQ3mwAY6ewRAn/To69V3HXsMcPRQV0=",
           "cp310"
@@ -100502,16 +100510,8 @@
           "QATTMhm3MLZtHFgaAkwVraHdN0MgqxNXTRmunv+Gg84=",
           "cp310"
         ],
-        "rhino3dm-7.14.2-cp310-cp310-win_amd64.whl": [
-          "SZLWNwNfyCAvHL9ehuJd/vo8SVBuOn/zBiMf+8uea4Q=",
-          "cp310"
-        ],
         "rhino3dm-7.14.2-cp37-cp37m-macosx_11_0_x86_64.whl": [
           "6JD/qZ+BOI8n40rw3DcbHYw7qOz0/YgJUhtn3ROmmeg=",
-          "cp37"
-        ],
-        "rhino3dm-7.14.2-cp37-cp37m-win_amd64.whl": [
-          "pdZ4E8Ov3e//QxR0elKnhL2s9hxgz/4Candg9n5W5XY=",
           "cp37"
         ],
         "rhino3dm-7.14.2-cp38-cp38-macosx_11_0_x86_64.whl": [
@@ -100520,10 +100520,6 @@
         ],
         "rhino3dm-7.14.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "0DFBmId8NNZzSO/iKN49xB5v16g4QxKMR/xd7ZrHYSc=",
-          "cp38"
-        ],
-        "rhino3dm-7.14.2-cp38-cp38-win_amd64.whl": [
-          "z0h9mrwaQyDOGgxLpLJZ3ep/ejFVhQTp93iMGLpsjlI=",
           "cp38"
         ],
         "rhino3dm-7.14.2-cp39-cp39-macosx_11_0_x86_64.whl": [
@@ -100537,9 +100533,57 @@
         "rhino3dm-7.14.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "rzwhp20HfgilhvYlHu0aPCcU1TpWw1ilGPugkYXvcYg=",
           "cp39"
+        ]
+      }
+    },
+    "7.15.0": {
+      "wheels": {
+        "rhino3dm-7.15.0-cp27-cp27m-macosx_11_0_x86_64.whl": [
+          "bbJVHfSH6cN85QpUDC3ksfNrDiMRcOjdM7q2UfPhNbw=",
+          "cp27"
         ],
-        "rhino3dm-7.14.2-cp39-cp39-win_amd64.whl": [
-          "e0tgRSRlLjJLD/QY1k0Itr+TxGO2BTOYatRhfSe+okE=",
+        "rhino3dm-7.15.0-cp27-cp27m-win_amd64.whl": [
+          "VMWcf8AYZ6C+HnmWj6IZ/aUJ8zySrtRm5TQf9X62hD8=",
+          "cp27"
+        ],
+        "rhino3dm-7.15.0-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "HQDn+QG5WlZTy/ZAZetCVOLCT4KQI8UGdLet50CqeEc=",
+          "cp310"
+        ],
+        "rhino3dm-7.15.0-cp310-cp310-win_amd64.whl": [
+          "VyYESkciJOxYuQbkDH8NTVfpLoETBXEbds9uPNVK04I=",
+          "cp310"
+        ],
+        "rhino3dm-7.15.0-cp37-cp37m-macosx_11_0_x86_64.whl": [
+          "fvXArUb82753HVMDozx+ngjoNPpL6ta3VUJuBGKElOA=",
+          "cp37"
+        ],
+        "rhino3dm-7.15.0-cp37-cp37m-win_amd64.whl": [
+          "4uRYFsYicOY/ZfdT+1IWzcev2gvNW5C72D+LD2fmqvQ=",
+          "cp37"
+        ],
+        "rhino3dm-7.15.0-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "fbpAtEF1JuJcHku/mggPCWslGT9HYJKgCnUMjlZ0reg=",
+          "cp38"
+        ],
+        "rhino3dm-7.15.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ruTyhT/2LsrWu17/AiLHZ7kHOf+iZhi0WCSGu1uVEHs=",
+          "cp38"
+        ],
+        "rhino3dm-7.15.0-cp38-cp38-win_amd64.whl": [
+          "oRGRuWG1OwX/ocvZQ79ZvXekyMjnB6Las5wHIWCCOlw=",
+          "cp38"
+        ],
+        "rhino3dm-7.15.0-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "RAF+t1iOhtn25HmaWJtzV6c4KsGYg5wvfvZj8NpG/x0=",
+          "cp39"
+        ],
+        "rhino3dm-7.15.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ruHHkVf/NOsmCZ9arAU+k0PHa7aLWQm1S8Z1Cg9nJ88=",
+          "cp39"
+        ],
+        "rhino3dm-7.15.0-cp39-cp39-win_amd64.whl": [
+          "18CTijUxRu8wR6wykLDWa6csvc784dhjSyn+BBHEf8s=",
           "cp39"
         ]
       }
@@ -100986,6 +101030,14 @@
       "sdist": [
         "oW14gmac01+KQd6MypmCwkmClF2pf2qThqOvMlAgaxQ=",
         "roberto-2.0.2.tar.gz"
+      ]
+    }
+  },
+  "roblox-free-robux-for-kids-2022-v-4020": {
+    "5.380": {
+      "sdist": [
+        "wzJKWwbjRlYboERBO6aJTSCnki0r0y0a8YPy8+4QaAg=",
+        "roblox-free-robux-for-kids-2022-v-4020.zip"
       ]
     }
   },
@@ -116376,6 +116428,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cfs-3.0.605-py2.py3-none-any.whl": [
           "ucDRuSDHDC0GVnaCnCmKd1UEcJjg0IA6BaGuz9aAAMc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.606": {
+      "sdist": [
+        "0BZot4WmZVf2yD8o0Fzp/T1h3sUjxlWXOnMu/0U71DU=",
+        "tencentcloud-sdk-python-cfs-3.0.606.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cfs-3.0.606-py2.py3-none-any.whl": [
+          "qNp4B0c8HjuGg2PrtDo8haMMLtT8FOntjPoTIJSYkZI=",
           "py2.py3"
         ]
       }
