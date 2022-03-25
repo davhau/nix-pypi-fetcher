@@ -17894,6 +17894,12 @@
         "CHM-1.0.2.tar.gz"
       ]
     },
+    "1.0.20": {
+      "sdist": [
+        "dRtKzV9dnMs6Dalv7k8f7Rj9nJjuNjfGsCmzoFTi9FI=",
+        "CHM-1.0.20.tar.gz"
+      ]
+    },
     "1.0.3": {
       "sdist": [
         "fSqiE7qDcludkdYz8rKfq5ID7Xt69nQWMX/9UZWlINw=",
@@ -30582,6 +30588,18 @@
       "wheels": {
         "cognite_sdk_core-2.44.0-py3-none-any.whl": [
           "bQeylR9kEsdlmLpjoNhf7wH0JTzQ7RUkVneeMmXYxCk=",
+          "py3"
+        ]
+      }
+    },
+    "2.44.1": {
+      "sdist": [
+        "Ki+Vsq+goB+QE1dgNGPaJUlGsrXsqknrsFv4cYYorWI=",
+        "cognite-sdk-core-2.44.1.tar.gz"
+      ],
+      "wheels": {
+        "cognite_sdk_core-2.44.1-py3-none-any.whl": [
+          "TLacSobrUFuF0SRbVwfOO1TdXGvLIRafwo9bfuTyrTE=",
           "py3"
         ]
       }
@@ -48675,6 +48693,18 @@
           "py3"
         ]
       }
+    },
+    "0.24.5": {
+      "sdist": [
+        "+9P8xDsxJ3CSk+Bs0KCauNZ7udUP+SCGe+4ftBIDkt4=",
+        "flyteidl-0.24.5.tar.gz"
+      ],
+      "wheels": {
+        "flyteidl-0.24.5-py3-none-any.whl": [
+          "XDpdoX+LSJZhvVgcZYyjYfZd0YpKjXqH9rDGh8yX18U=",
+          "py3"
+        ]
+      }
     }
   },
   "folder-hash": {
@@ -58314,6 +58344,18 @@
       "wheels": {
         "jacobs_json_doc-0.14.0-py3-none-any.whl": [
           "gNSBytzN0NyraTyUb9GaTJL+R4NXCy14EEfdw/JMR2w=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.1": {
+      "sdist": [
+        "llTFZJ/jScGtyEfUQ8NzjVYb/mfi8kptBiWwKdtPL7Y=",
+        "jacobs-json-doc-0.14.1.tar.gz"
+      ],
+      "wheels": {
+        "jacobs_json_doc-0.14.1-py3-none-any.whl": [
+          "DioRUA6ApyXrn5B9Tm5f/1OV5LPGOwA8IDD5DoRfoXw=",
           "py3"
         ]
       }
@@ -89576,14 +89618,14 @@
     }
   },
   "observerapi": {
-    "1.1.3": {
+    "1.1.5": {
       "sdist": [
-        "JAFnjonEQAsqJH99KYW8CPwYKb7gDc+60bOy0NlkXNc=",
-        "ObserverAPI-1.1.3.tar.gz"
+        "SJ3COCtnJRZ8qnq+YVhvoPnDLSZfG1Avrt8grsLgwzs=",
+        "ObserverAPI-1.1.5.tar.gz"
       ],
       "wheels": {
-        "ObserverAPI-1.1.3-py3-none-any.whl": [
-          "dNvMZfPfgSua7DWhn3RizFuLaamm3P4ce3x9LyqR4k8=",
+        "ObserverAPI-1.1.5-py3-none-any.whl": [
+          "2id9c0GhskXcFGqhTO/AWeYVVwxOUDGg5q5p7HLTFxw=",
           "py3"
         ]
       }
@@ -91916,6 +91958,14 @@
       "wheels": {
         "odoo13_addon_account_asset_management-13.0.3.7.2-py3-none-any.whl": [
           "VHFyEuLGMHl/Z1cc/j2q6r37RFP4PocavH+p66R8kJY=",
+          "py3"
+        ]
+      }
+    },
+    "13.0.3.7.4.dev3": {
+      "wheels": {
+        "odoo13_addon_account_asset_management-13.0.3.7.4.dev3-py3-none-any.whl": [
+          "X9gJZKIw/uhA3fDh3k60td6hReeviXzZTqc4aZ4zTIw=",
           "py3"
         ]
       }
@@ -98874,6 +98924,12 @@
       "sdist": [
         "8kWV00DPrJ3eB0sC2waOpHBAfxqiKiNRgEm1EAS8KYg=",
         "pulumi_slack-0.0.1a1648072720.tar.gz"
+      ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "OnwKfwn2yBlwZusHS+coemK2VUsoH20R2F2ecBQ5mEU=",
+        "pulumi_slack-0.1.0.tar.gz"
       ]
     }
   },
@@ -115140,10 +115196,6 @@
     },
     "0.17.0": {
       "wheels": {
-        "rawpy-0.17.0-cp310-cp310-macosx_10_9_universal2.whl": [
-          "iToE+su6mLX28UXwoxke1ie6vDeWTDm2o1db0tQtyfY=",
-          "cp310"
-        ],
         "rawpy-0.17.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "qqf0v9WDekyw/McLp363XZ7FrSDctuSCemtSLjSFLrE=",
           "cp310"
@@ -115198,6 +115250,74 @@
         ],
         "rawpy-0.17.0-cp39-cp39-win_amd64.whl": [
           "g+RXawA0IU6lwLSJrO31KnH702OOX3ApTJTl49hhqGs=",
+          "cp39"
+        ]
+      }
+    },
+    "0.17.1": {
+      "wheels": {
+        "rawpy-0.17.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "sLNbSwN6dH25hUskBl/ld8igMAo9ketS2q6BSgX1HgQ=",
+          "cp310"
+        ],
+        "rawpy-0.17.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Z02Bhg/E7Fc1PLsEgQjdk/150MOKT3RNcVVQpApXAPk=",
+          "cp310"
+        ],
+        "rawpy-0.17.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hKiuohvJ5wZgsNljTDQByj4e8MFtkj2B9mco/C79vGk=",
+          "cp310"
+        ],
+        "rawpy-0.17.1-cp310-cp310-win_amd64.whl": [
+          "gb+dcp5VMVAWO4NakzMaAjvcDw8LmoL7Jf8Mrq3msDw=",
+          "cp310"
+        ],
+        "rawpy-0.17.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "2+vNmUntVzaoeu7gAIzE4aiaTP7TtrxxKjESyaKTOcA=",
+          "cp37"
+        ],
+        "rawpy-0.17.1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ua/keKb/hRLRClANAxtBcHNwP8uW0nbbGthQ1NkhloM=",
+          "cp37"
+        ],
+        "rawpy-0.17.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "X42zl//avpwklBp8jMjhQOBwufh1dth3RevEyathJkI=",
+          "cp37"
+        ],
+        "rawpy-0.17.1-cp37-cp37m-win_amd64.whl": [
+          "Qh678fCuG+TPRaaATGM7VLUkKX1a1jf38SNDwVRKooM=",
+          "cp37"
+        ],
+        "rawpy-0.17.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "D0/yD6E6VX6hmQ+vCptmBdydQ13+9t43A9fU2dnhqq0=",
+          "cp38"
+        ],
+        "rawpy-0.17.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "C9DRfhpiBzWQx1HjeymqO5dfbAGrJ+RRxBP+PQr6yEU=",
+          "cp38"
+        ],
+        "rawpy-0.17.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9gnhQZSnbvhgRd9E+5syAoVu8u9EdnviKYfoyFOPYeY=",
+          "cp38"
+        ],
+        "rawpy-0.17.1-cp38-cp38-win_amd64.whl": [
+          "ebATG0W/hUH9KlhbTIFNWlYoHYwalPGjv8o7NpI4VBU=",
+          "cp38"
+        ],
+        "rawpy-0.17.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "WaZaS9akTyKHTLxS03kqS0YzoB6F3UN+rSHEmhZtJtc=",
+          "cp39"
+        ],
+        "rawpy-0.17.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "azmjDfVEjYZ0LbR3uv7aER4AhM/XNkdboXv2zgvYuzE=",
+          "cp39"
+        ],
+        "rawpy-0.17.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "NE8+10GIAddRXUcWnGKI39ZLotAOqceEK/MAjmhT28M=",
+          "cp39"
+        ],
+        "rawpy-0.17.1-cp39-cp39-win_amd64.whl": [
+          "nKlA5rf7DlGnEiR+wrVel31EtxzyLxDCCVuWgVW4ieI=",
           "cp39"
         ]
       }
@@ -127494,6 +127614,12 @@
       "sdist": [
         "JajleHNHTkc/cGz3qTDSE8j08YzwTu8g/Y+lEllFRjs=",
         "spdlayers-0.0.3.tar.gz"
+      ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "35os63S/w/FoXmJML+gRDS/gYfwgqnl/RhkNiA2uCX8=",
+        "spdlayers-0.1.0.tar.gz"
       ]
     }
   },
