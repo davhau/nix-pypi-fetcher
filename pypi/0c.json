@@ -4320,6 +4320,18 @@
         ]
       }
     },
+    "2.1.2": {
+      "sdist": [
+        "6I/tEbLKBNin/D3zPJafmv6Z4E+jTsg+QgPlxTGOM6I=",
+        "apache-airflow-providers-trino-2.1.2.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_trino-2.1.2-py3-none-any.whl": [
+          "HkojH4taG9WONGn4+KMUcO7/ZXd8chvk3c9D+h/6r9k=",
+          "py3"
+        ]
+      }
+    },
     "2.1.2rc1": {
       "sdist": [
         "BkG//MhP8DO3U98yNs8gjVreSV9G2KeydfQeQtXK56g=",
@@ -24113,6 +24125,30 @@
           "py3"
         ]
       }
+    },
+    "0.15.0.dev20220325175722": {
+      "wheels": {
+        "cirq_web-0.15.0.dev20220325175722-py3-none-any.whl": [
+          "FGbntDZj9LZmPC9mK33V0mkmImaDtyoAlh3nYevgyoc=",
+          "py3"
+        ]
+      }
+    },
+    "0.15.0.dev20220325183758": {
+      "wheels": {
+        "cirq_web-0.15.0.dev20220325183758-py3-none-any.whl": [
+          "qVXTNBF/0VGv8atjM//BL56Oc8VPojGK9pgG+Ch2YK8=",
+          "py3"
+        ]
+      }
+    },
+    "0.15.0.dev20220326001927": {
+      "wheels": {
+        "cirq_web-0.15.0.dev20220326001927-py3-none-any.whl": [
+          "DixGz5V885cAj/78zbTSwzUjx95QvF99/yQIC5UEA3k=",
+          "py3"
+        ]
+      }
     }
   },
   "cityhash": {
@@ -26026,6 +26062,222 @@
         ],
         "cityhash-0.4.0.post1-cp39-cp39-win_amd64.whl": [
           "6L18c5r7on3yJbN8FQGp27+8jayXZAMDXlLjhWvQmBo=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.0.post2": {
+      "sdist": [
+        "4xkyWlxUfgMWplQZ8NJmZfO4/64VgErnGgTFO+Hz7vc=",
+        "cityhash-0.4.0.post2.tar.gz"
+      ],
+      "wheels": {
+        "cityhash-0.4.0.post2-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "I44/184V7MYIvl3ghJIKL2nFXwzv0CybJHWFS5HZe8s=",
+          "cp36"
+        ],
+        "cityhash-0.4.0.post2-cp36-cp36m-manylinux1_x86_64.whl": [
+          "a7dCoPexc8Gm+hGTLib0KfG3FZuhZUZUelZ4qiDfhAs=",
+          "cp36"
+        ],
+        "cityhash-0.4.0.post2-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "Wnzgq9jD0S4+dTTISmALJYB98SU/cI9l4l3AusKXkWw=",
+          "cp36"
+        ],
+        "cityhash-0.4.0.post2-cp36-cp36m-manylinux2014_aarch64.whl": [
+          "Xet83La0NwfP/eTLJ+b7Jv3PET6YR9KntsleCiuQntg=",
+          "cp36"
+        ],
+        "cityhash-0.4.0.post2-cp36-cp36m-win32.whl": [
+          "30SsTJaaAhXeuJHCH0deqsO81uAWSeeQCdBYz1YoyrE=",
+          "cp36"
+        ],
+        "cityhash-0.4.0.post2-cp36-cp36m-win_amd64.whl": [
+          "B3A90BLKA1M4jYFgh9VT066IJThjRb2DJQwA291cRJ4=",
+          "cp36"
+        ],
+        "cityhash-0.4.0.post2-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "pzIVfbavPLLRcmDdkZQPHVIYD/TjRQX14Wdpm3WD8cw=",
+          "cp37"
+        ],
+        "cityhash-0.4.0.post2-cp37-cp37m-manylinux1_x86_64.whl": [
+          "9NBM2qyDe8bcfwcYNLUlDYsl+reoUH8Gij9Ud83iLXo=",
+          "cp37"
+        ],
+        "cityhash-0.4.0.post2-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "jSbB+B88KmqHyXz9LVrj3hwXl0Z0h2RzG/6tfpwpQXY=",
+          "cp37"
+        ],
+        "cityhash-0.4.0.post2-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "BzU585ubg/uoZ/lV4oy/K5G3boeyp0HXm08JCZ2rI10=",
+          "cp37"
+        ],
+        "cityhash-0.4.0.post2-cp37-cp37m-win32.whl": [
+          "oAxuP6VCQAdpZci6yhcF+KgurrBdv/Fvj3Z6TFwue7E=",
+          "cp37"
+        ],
+        "cityhash-0.4.0.post2-cp37-cp37m-win_amd64.whl": [
+          "Q3fVbaOrwkHraGe85Cmg5IBJvDtFZJUjKqjnWHGDL0Y=",
+          "cp37"
+        ],
+        "cityhash-0.4.0.post2-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "S1hVUCLdQuLpZn8NDK6Z19+HQE0Pok47wkTc+lylRAg=",
+          "cp38"
+        ],
+        "cityhash-0.4.0.post2-cp38-cp38-manylinux1_x86_64.whl": [
+          "5P2Q81ko/lYsDZgGlVqJAEAgUApQ12R9PBjzGMLthh8=",
+          "cp38"
+        ],
+        "cityhash-0.4.0.post2-cp38-cp38-manylinux2010_x86_64.whl": [
+          "KPXZ9P2V5TiKXvVLMpD8wi8N6wYiDiLaBSnPw/ogq5I=",
+          "cp38"
+        ],
+        "cityhash-0.4.0.post2-cp38-cp38-manylinux2014_aarch64.whl": [
+          "chwWXNPPZNMybItGKYtfGIUeRpGp7+fgvxnVU/eEHUw=",
+          "cp38"
+        ],
+        "cityhash-0.4.0.post2-cp38-cp38-win32.whl": [
+          "KUUzN+nNvr0KROy+lk4gaHDD6aRyS71+3CKk7oqz5D8=",
+          "cp38"
+        ],
+        "cityhash-0.4.0.post2-cp38-cp38-win_amd64.whl": [
+          "4ANjqh/ynz8wjgThAD6vgVr7H3OKQ1guKlVBV1QFwTU=",
+          "cp38"
+        ],
+        "cityhash-0.4.0.post2-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "34u1xr3d29Z2u7n7FbslI0miBVf6I//rDATrx/oIpsE=",
+          "cp39"
+        ],
+        "cityhash-0.4.0.post2-cp39-cp39-macosx_11_0_arm64.whl": [
+          "gA55iee/qwAEfkStYzRE6QQuUWoNB4eBhSwpdAbfx0k=",
+          "cp39"
+        ],
+        "cityhash-0.4.0.post2-cp39-cp39-manylinux1_x86_64.whl": [
+          "Y9dB72ARLKRO8TCD+GhO5b19+IW7SLNehCFq0th1nmc=",
+          "cp39"
+        ],
+        "cityhash-0.4.0.post2-cp39-cp39-manylinux2010_x86_64.whl": [
+          "+m4ogkX04RomYTtE9q9huxkrA6zp7DTfVXJLGlOwoBU=",
+          "cp39"
+        ],
+        "cityhash-0.4.0.post2-cp39-cp39-manylinux2014_aarch64.whl": [
+          "WbWoInH0y0Xx88vtAl7o/tesAHF8qYAljOBxMhSNZTo=",
+          "cp39"
+        ],
+        "cityhash-0.4.0.post2-cp39-cp39-win32.whl": [
+          "EWsd/pKDw7lGh88wpl/8zZfQmBKH36FSrtXNH1C/jOc=",
+          "cp39"
+        ],
+        "cityhash-0.4.0.post2-cp39-cp39-win_amd64.whl": [
+          "IrisY9i3vGqHVHtgEg0itCTOQ5nC3WPrUmN0uVj5yBI=",
+          "cp39"
+        ]
+      }
+    },
+    "0.4.1": {
+      "sdist": [
+        "ie7AIu4ATLEA4j7GgvcU1nCnXPTUnqzwcvbc0yHal+0=",
+        "cityhash-0.4.1.tar.gz"
+      ],
+      "wheels": {
+        "cityhash-0.4.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "s565Q3mfMYDNh07s1ciEuiFpxgC7MlB2ozS/oqCkSKQ=",
+          "cp36"
+        ],
+        "cityhash-0.4.1-cp36-cp36m-manylinux1_x86_64.whl": [
+          "tVaa5NOKUgsAl5CRUHnkA8GMSsvNrjCSZrXtbC7/Fq0=",
+          "cp36"
+        ],
+        "cityhash-0.4.1-cp36-cp36m-manylinux2010_x86_64.whl": [
+          "ZxksvL9eGPCrYbHmdme18th+6pyeEC10OxuxACI/+BI=",
+          "cp36"
+        ],
+        "cityhash-0.4.1-cp36-cp36m-manylinux2014_aarch64.whl": [
+          "rbtZv3+a+DlgU5VdHWCAdA5de716APOz3/BJ8hqWsrw=",
+          "cp36"
+        ],
+        "cityhash-0.4.1-cp36-cp36m-win32.whl": [
+          "8Ti+SDUQuuHJL5L9PhcEDYdrSlVqUcNTEfwspUWO9l8=",
+          "cp36"
+        ],
+        "cityhash-0.4.1-cp36-cp36m-win_amd64.whl": [
+          "JkZPpARwsmfXbSPm+2EcTjcgjt7aK1FsKo46B/m84Wg=",
+          "cp36"
+        ],
+        "cityhash-0.4.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "jnqUZIuXmt+LAKICvuSPBrosxEouCIXgFwIci1vsy5E=",
+          "cp37"
+        ],
+        "cityhash-0.4.1-cp37-cp37m-manylinux1_x86_64.whl": [
+          "Kc25CbbcCoLbFnGdWVOIOsRx5Hz0TYgUTONk31+Ql0E=",
+          "cp37"
+        ],
+        "cityhash-0.4.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "LlbGpbBj+jEfg12zzKcd6fdNU4+cq1+hLjha8XDLk78=",
+          "cp37"
+        ],
+        "cityhash-0.4.1-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "TUdyVhjAtwlpo/oJHo7j8EBIrNl/b39fyZLz5ifySF8=",
+          "cp37"
+        ],
+        "cityhash-0.4.1-cp37-cp37m-win32.whl": [
+          "jcQnNdPMMVDG1vCRt3FbdvVWh41eBTBdraRb3W9nxHg=",
+          "cp37"
+        ],
+        "cityhash-0.4.1-cp37-cp37m-win_amd64.whl": [
+          "h/sBNvyBTaMVbK0VLT/fO1Ufl0xlVb9Map37Ui6yO5k=",
+          "cp37"
+        ],
+        "cityhash-0.4.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "R64TwaCd89/ksSL3YwSbbVwznPwccxWVFb586AmG+k4=",
+          "cp38"
+        ],
+        "cityhash-0.4.1-cp38-cp38-manylinux1_x86_64.whl": [
+          "iXTDKQ+cCg2MCg44/1J6l4z67BLs+iOq0B2YvLMB0Nk=",
+          "cp38"
+        ],
+        "cityhash-0.4.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "p5ewCMsfW0p+xYLxMgrRad7qhVzImdmWj5xraUphE0M=",
+          "cp38"
+        ],
+        "cityhash-0.4.1-cp38-cp38-manylinux2014_aarch64.whl": [
+          "4+XFo9XkztKEeydBY58TTZnaLptlIqBob1gjZlAM0Pc=",
+          "cp38"
+        ],
+        "cityhash-0.4.1-cp38-cp38-win32.whl": [
+          "qJAT09pIt1RCokBbXW34WEQuR4g2aPm1baCbNgMlR2Y=",
+          "cp38"
+        ],
+        "cityhash-0.4.1-cp38-cp38-win_amd64.whl": [
+          "QAHPnWzztROeWgMaJitUNLqsvOCSlFt2EmR6TS4p548=",
+          "cp38"
+        ],
+        "cityhash-0.4.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "8b0OFU6TM3W4QR4Y+6SLXUEw07RhclhY/Wo3gzJe3kU=",
+          "cp39"
+        ],
+        "cityhash-0.4.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "kNgF9mIn5HvBUzFEdGyC2VJcQDpn4Lq8TgsRGhF3f18=",
+          "cp39"
+        ],
+        "cityhash-0.4.1-cp39-cp39-manylinux1_x86_64.whl": [
+          "xxzkc8REDR0v29LTBPT/dyG42hGl1fPw+/fqJl8ITVU=",
+          "cp39"
+        ],
+        "cityhash-0.4.1-cp39-cp39-manylinux2010_x86_64.whl": [
+          "t6n1yFIxsHlMCY5ANzm4hd/Wsv6Vr9vKZduHPbLsb6Y=",
+          "cp39"
+        ],
+        "cityhash-0.4.1-cp39-cp39-manylinux2014_aarch64.whl": [
+          "P1AA/sOQ5xlQ/sESIsst7uPWZVsWzzTO0cSKt3eWB3E=",
+          "cp39"
+        ],
+        "cityhash-0.4.1-cp39-cp39-win32.whl": [
+          "6cR+JfY3ikFTflLtI3wwSJtrKHFwmBtxw11LcQxL6SQ=",
+          "cp39"
+        ],
+        "cityhash-0.4.1-cp39-cp39-win_amd64.whl": [
+          "KGRCZhiVMqUsXRSXYY1EjyustEWzdhmpDD6yeWjTzXk=",
           "cp39"
         ]
       }
@@ -35677,6 +35929,18 @@
           "py3"
         ]
       }
+    },
+    "0.6.0": {
+      "sdist": [
+        "VISiuXyceI1s9llE4tbTCR5+GV0o2DV9ZKjMIkQesos=",
+        "dbt-cloud-cli-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "dbt_cloud_cli-0.6.0-py3-none-any.whl": [
+          "OLZQsTX1MiA3TrQNAWM4WjI0Ox2I4yMsO1ruqyxmXu8=",
+          "py3"
+        ]
+      }
     }
   },
   "dbt-ibmdb2": {
@@ -44498,6 +44762,20 @@
       "wheels": {
         "epiphancloud-2.0.2-py3-none-any.whl": [
           "Ia3+ygTmFE27HF3IYmq7Hjq5XcaWKoTL6yqp9GUE/6w=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "epr2md": {
+    "0.1.0": {
+      "sdist": [
+        "z6oV9UfAjEw8j/cvKrNYRhAd1fo0FzjylC8Izn+F9LY=",
+        "epr2md-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "epr2md-0.1.0-py3-none-any.whl": [
+          "OF6HMAKi5V6VaYo8H0DTUkOm5cyRn6GirEkndfnr4yk=",
           "py3"
         ]
       }
@@ -69694,6 +69972,30 @@
       "wheels": {
         "lumibot-1.5.5-py3-none-any.whl": [
           "k/B21wXlvrA5QS5BSgAD9S3dbU0QoGHczMaNKW2bucI=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.0": {
+      "sdist": [
+        "57KLmCN6xbWYcliovdBo7JU4khy7D78DS70g3kJvgfo=",
+        "lumibot-1.6.0.tar.gz"
+      ],
+      "wheels": {
+        "lumibot-1.6.0-py3-none-any.whl": [
+          "gDh0r9a69qmce7FQE5vFVnBwuG0XyvBYKOz0JC3lWiY=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.1": {
+      "sdist": [
+        "Iahp//UTK85u6u8LCFTioNqaavmvP7D/a3Zn+3yJtqg=",
+        "lumibot-1.6.1.tar.gz"
+      ],
+      "wheels": {
+        "lumibot-1.6.1-py3-none-any.whl": [
+          "7pYp5ocBK7owTAXilm5X9oX3FqKSSCbWRY/kUhFCNcE=",
           "py3"
         ]
       }
