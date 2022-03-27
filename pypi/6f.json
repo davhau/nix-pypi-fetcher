@@ -5436,6 +5436,18 @@
         ]
       }
     },
+    "1.150.0": {
+      "sdist": [
+        "7YmAKAocerdGQwUHz8FyC0KYu3Q4qen78C5yFfpxGtU=",
+        "aws-cdk.aws-quicksight-1.150.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_quicksight-1.150.0-py3-none-any.whl": [
+          "9ACgDtuUmjh7mGHyw1OPBuWTi3DiwNZc5CGI/tmL474=",
+          "py3"
+        ]
+      }
+    },
     "1.86.0": {
       "sdist": [
         "Ef8c4x/QiHHlYeCJrVD5L/EPMGizQYKM0Y48PIobfE0=",
@@ -6322,6 +6334,18 @@
       "wheels": {
         "aws_cdk.aws_sso-1.149.0-py3-none-any.whl": [
           "f4WSdzS7ofzraAyohFpoFI/Z6irz2IC3vXVzLyvmSjA=",
+          "py3"
+        ]
+      }
+    },
+    "1.150.0": {
+      "sdist": [
+        "WHTwF0KHhcPI0E4g1iHnIHlt6cnVQebBpHP1XdnIsp8=",
+        "aws-cdk.aws-sso-1.150.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sso-1.150.0-py3-none-any.whl": [
+          "mgAScIxQr8qv9aeVfm3KfSQHAhYWkeq3V2pGAUbm0Cg=",
           "py3"
         ]
       }
@@ -8089,6 +8113,14 @@
         "J4pPaVawjBKXv+rgWVj1SCpWkQTdGlDGq+3hffz9vhA=",
         "bioc-1.3.7.tar.gz"
       ]
+    },
+    "2.0": {
+      "wheels": {
+        "bioc-2.0-py3-none-any.whl": [
+          "jcmTxhRQ+sK+zfpWUJLZ6Ry8Rc4SWwaDAmNI6N3zqQ8=",
+          "py3"
+        ]
+      }
     },
     "2.0.dev1": {
       "sdist": [
@@ -32623,6 +32655,20 @@
       }
     }
   },
+  "django-pictures": {
+    "1.0a1": {
+      "sdist": [
+        "Od74TiEUuMUipPcV72kOleDZJgzeNaUQsVybFdDklIk=",
+        "django-pictures-1.0a1.tar.gz"
+      ],
+      "wheels": {
+        "django_pictures-1.0a1-py3-none-any.whl": [
+          "1OL5+g1EQkqX1lcH7D1xrGMKAFQGxS4jvjyqIPq+3ZQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "django-polls-igvard": {
     "0.11": {
       "sdist": [
@@ -48588,6 +48634,24 @@
       "sdist": [
         "xxjdJVXb8DvcbM3QaYFzkfFsxIV9LOXMQA0mAv19pTE=",
         "global_chem_extensions-0.5.7.tar.gz"
+      ]
+    },
+    "0.5.8": {
+      "sdist": [
+        "UD66O0o2SPlFqjm2RuY3dTgbcsKrp9QlFPdzuKZy0Jc=",
+        "global_chem_extensions-0.5.8.tar.gz"
+      ]
+    },
+    "0.5.9": {
+      "sdist": [
+        "LrMWHWEkVFUjAqMoMQl87JXtP2+dJv/bkgKe5npDKUQ=",
+        "global_chem_extensions-0.5.9.tar.gz"
+      ]
+    },
+    "0.6.0": {
+      "sdist": [
+        "S0AQ1itXfqWBs9fhp9euwQQhNDe/wlRPV7W79jQRJQo=",
+        "global_chem_extensions-0.6.0.tar.gz"
       ]
     }
   },
@@ -108780,6 +108844,56 @@
       "wheels": {
         "seipy-1.3.2-py3-none-any.whl": [
           "1OJhPmPVP1XIb3yA62LrSULeBVPZtRB/Ym2zHitJ4ac=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "sentimentarcs": {
+    "0.0.1": {
+      "sdist": [
+        "FYSWvVGYcIYwuzlsO67fwGXxBpmwaVuSInKBAcL9HNY=",
+        "sentimentarcs-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "sentimentarcs-0.0.1-py3-none-any.whl": [
+          "Tg3Jxx+i3+Bom6IZERCBqCRiiHvmSmiDRZwB55AGIIY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "d9V7D2Shh7+QzqA/vDS+VQKDXIRfnKy03JJYL6FsrM4=",
+        "sentimentarcs-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "sentimentarcs-0.0.2-py3-none-any.whl": [
+          "B7z4Xa57eFeSECNAuvzm2btQP8UFwgMd7QIRNtJ8gNw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "2HNnW0nzMmCpJrUM2s+Ag8AsyiGAxfX+sYp25Zltaus=",
+        "sentimentarcs-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "sentimentarcs-0.0.3-py3-none-any.whl": [
+          "ggs/mGq28qAGTd7Itl0GMN4SlyGc622Io2rV4E4I1NY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "W//9k8J0G3i7Rof05GMisvTOUKcjx+CNq295Odig0u0=",
+        "sentimentarcs-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "sentimentarcs-0.0.4-py3-none-any.whl": [
+          "VIPIjx/HWKo8i5rv/8aywuh8A4rBquwTrfe5HQMrzBI=",
           "py3"
         ]
       }
