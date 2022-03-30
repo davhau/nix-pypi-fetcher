@@ -3809,6 +3809,16 @@
       }
     }
   },
+  "ansys-api-platform-instancemanagement": {
+    "0.1.0.dev0": {
+      "wheels": {
+        "ansys_api_platform_instancemanagement-0.1.0.dev0-py3-none-any.whl": [
+          "bAhcapxddHgPu+sATmUzd00GUOLNY6yxh+a42IKDfhs=",
+          "py3"
+        ]
+      }
+    }
+  },
   "apache-airflow-providersdatadog": {
     "0.1.0": {
       "sdist": [
@@ -12777,6 +12787,18 @@
           "py3"
         ]
       }
+    },
+    "1.7": {
+      "sdist": [
+        "yJqRDqdQrw0IXU17TeX49VnZvpVSWVGl+JivyYiuaNo=",
+        "azure-msi-mssql-django-1.7.tar.gz"
+      ],
+      "wheels": {
+        "azure_msi_mssql_django-1.7-py3-none-any.whl": [
+          "1I6NliIfF4Pys5B9aFZ6EBZGCyDa0nQ/pUCuCNhYRhM=",
+          "py3"
+        ]
+      }
     }
   },
   "babe": {
@@ -19756,6 +19778,12 @@
       "sdist": [
         "+XWMARWHglo2aavK9jWlSRzu8+kGDSjxZjWpdU3z11c=",
         "chm_hnsw-0.0.15.tar.gz"
+      ]
+    },
+    "0.0.16": {
+      "sdist": [
+        "2rPf5+FfJK2fMwARjxYTfx+yeFkpBkNaz+zIT5F9a48=",
+        "chm_hnsw-0.0.16.tar.gz"
       ]
     },
     "0.0.2": {
@@ -35408,6 +35436,42 @@
       "wheels": {
         "endoscopy-0.0.9-py3-none-any.whl": [
           "fgYpOIljuV+cpfsY97xM09mIepnaV5q4CWBFaAXK9ZQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0": {
+      "sdist": [
+        "fZNZR5wxyw/BRHv5l/zfgG1DHRZUwQFJm/SP927VXfA=",
+        "endoscopy-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "endoscopy-0.1.0-py3-none-any.whl": [
+          "AwvCOp9Q9HNvBDCEkHFtldgel6FcelPUvnsVQ8e8FQM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "+ehI6veq2k8abixtU/zDeSBMsEKP+7VaFGvH1i1iTtE=",
+        "endoscopy-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "endoscopy-0.1.1-py3-none-any.whl": [
+          "XF00bPoHqgA8ej610k4sW0bLoyyfP/DyvqGr2a4I3pY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "q2FM1S76eYDjw9g6vpqJN9kq8Bb+VPSRtrnk65mblcE=",
+        "endoscopy-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "endoscopy-0.1.2-py3-none-any.whl": [
+          "uAnJrWHeogXl2GU4udW/CMp22R4c0bCm7FlFXq6iBgk=",
           "py3"
         ]
       }
@@ -63749,6 +63813,46 @@
           "cp39"
         ]
       }
+    },
+    "9.1.2": {
+      "wheels": {
+        "KratosMultiphysics-9.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "W/HFhsIRvJF9rxGWfivT00sEcFQ37A76Ns21UtjfJWo=",
+          "cp310"
+        ],
+        "KratosMultiphysics-9.1.2-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7ncGbHHX6gdRKM95MeJTBLHot1Xcim/aUc765TNoqUE=",
+          "cp36"
+        ],
+        "KratosMultiphysics-9.1.2-cp36-cp36m-win_amd64.whl": [
+          "5rCFpwFQUAZSS8OR5PPtrqw0PIJ+0ze6XXAjRZcbhts=",
+          "cp36"
+        ],
+        "KratosMultiphysics-9.1.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XXZ3pZIY2PHzyp/Zg8y1ntJd7v8o7MWpyiH+mP0SZqk=",
+          "cp37"
+        ],
+        "KratosMultiphysics-9.1.2-cp37-cp37m-win_amd64.whl": [
+          "FHjzjgg6Keb/KCFfoHyc7LOvFMfq739DnqJYSIsVQ8w=",
+          "cp37"
+        ],
+        "KratosMultiphysics-9.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "q6vXS9LW1cCDS5xdmDKP4ZiyW54jACMbv5+8SWXgoqU=",
+          "cp38"
+        ],
+        "KratosMultiphysics-9.1.2-cp38-cp38-win_amd64.whl": [
+          "52J+Kiv1894S2MbLgo225VUN4XBD90FFygPuSsN9P34=",
+          "cp38"
+        ],
+        "KratosMultiphysics-9.1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "j24DEP0p+QwfDdsS6lLONxjjiXb/uVGAteblgkAz9eE=",
+          "cp39"
+        ],
+        "KratosMultiphysics-9.1.2-cp39-cp39-win_amd64.whl": [
+          "34/gqVoqJgrM9e08nq2MTZf3Vm+tZGXYfJXw+8P8lBQ=",
+          "cp39"
+        ]
+      }
     }
   },
   "krrpm": {
@@ -67978,6 +68082,32 @@
       "wheels": {
         "mdtoc-1.3-py3-none-any.whl": [
           "LIB9Ms+fhXQMEMNiHA9FXl1kYInncDyf5PO6nYTRS44=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "measuresunite": {
+    "0.0.1": {
+      "wheels": {
+        "measuresUnite-0.0.1-py3-none-any.whl": [
+          "aD1eQMcluLPngqXse+JOV74Zx/2CxVSnc+OAH6sPN18=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "wheels": {
+        "measuresUnite-0.0.2-py3-none-any.whl": [
+          "rDX2i7EU+L1G/okVNidaKJtzR/KklogAcrM8/v3zHys=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "wheels": {
+        "measuresUnite-0.0.3-py3-none-any.whl": [
+          "4rY+c5cenqnj9JOhKyeYpAuVmUnVEg3a0Z31JPmew6s=",
           "py3"
         ]
       }
@@ -93789,6 +93919,36 @@
         "pybroom-0.2rc1-py3-none-any.whl": [
           "xITVZVh0R7N7HBsokKPGra+1Tdu0Wq/3FwmIom5FTxw=",
           "py3"
+        ]
+      }
+    }
+  },
+  "pybundletool": {
+    "0.0.1.dev1": {
+      "wheels": {
+        "pybundletool-0.0.1.dev1-cp36-abi3-macosx_11_0_x86_64.whl": [
+          "y9vjcnTg176dPz2olhNSHsMnHTGUctDHEgAGrYlGdtc=",
+          "cp36"
+        ],
+        "pybundletool-0.0.1.dev1-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kayvhlgcGTFP1k8vtiX0AOrRqFHon+sMgahypq/cYFo=",
+          "cp36"
+        ]
+      }
+    },
+    "0.0.1.dev2": {
+      "wheels": {
+        "pybundletool-0.0.1.dev2-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "AksWZP+Thhv55O2CZ/HvcJahdILm3wlafNyyorGkkDg=",
+          "cp36"
+        ],
+        "pybundletool-0.0.1.dev2-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zQtzxmSSAoICBYgnyNRAs2phUr5PdLLVfIoO7WD3T7s=",
+          "cp36"
+        ],
+        "pybundletool-0.0.1.dev2-cp36-abi3-manylinux_2_24_x86_64.whl": [
+          "cvbolj905Wa0CF3DbISqH/6U8h6xQ1Y54LeOTWCKNzo=",
+          "cp36"
         ]
       }
     }
@@ -132583,6 +132743,14 @@
           "py3"
         ]
       }
+    },
+    "1.2.1": {
+      "wheels": {
+        "unify_idents-1.2.1-py3-none-any.whl": [
+          "CgPW6YYS3KnyjE0anFHjQbzjYEuME+Umcd32G1YXNP4=",
+          "py3"
+        ]
+      }
     }
   },
   "urlfix": {
@@ -133784,6 +133952,12 @@
       "sdist": [
         "/6rseK33QSG/NWRjvQKQ2DYINYvd/3XDQc88sxwsXk0=",
         "vatis_asr_commons-1.2.11.tar.gz"
+      ]
+    },
+    "1.2.12": {
+      "sdist": [
+        "CPTaZQzCzAb0mCGMluZFwgGjeZI8sD4TO66f6a7822g=",
+        "vatis_asr_commons-1.2.12.tar.gz"
       ]
     },
     "1.2.3": {
