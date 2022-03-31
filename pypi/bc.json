@@ -10391,6 +10391,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b202203312": {
+      "wheels": {
+        "bigdl_orca_spark3-2.1.0b202203312-py3-none-macosx_10_11_x86_64.whl": [
+          "qVlp4mxziKSjbxHJcM/7bbfxMJfiUdxkfDj62rHyTL8=",
+          "py3"
+        ],
+        "bigdl_orca_spark3-2.1.0b202203312-py3-none-manylinux1_x86_64.whl": [
+          "uItzIIS85Tg2aZHNbusKYZxi+qiD8Agl2dixO4eM03w=",
+          "py3"
+        ]
+      }
     }
   },
   "bigsec-mod1": {
@@ -17394,6 +17406,18 @@
         ]
       }
     },
+    "1.0.108": {
+      "sdist": [
+        "A6OXWSYXXunK8B1s6IdP3QSV6RIrc6o4vX0JW2s1ixg=",
+        "cdk-aurora-globaldatabase-1.0.108.tar.gz"
+      ],
+      "wheels": {
+        "cdk_aurora_globaldatabase-1.0.108-py3-none-any.whl": [
+          "3dhSn/pfnkuMLoJA4yY/2pL6L6LxigVgH0BtN4S2IKY=",
+          "py3"
+        ]
+      }
+    },
     "1.0.11": {
       "sdist": [
         "0IbnY6dQu1KqvoFevgABxahzxmAGQn/Drn5gjAYKIhw=",
@@ -18614,6 +18638,18 @@
       "wheels": {
         "cdk_aurora_globaldatabase-2.0.104-py3-none-any.whl": [
           "HRV6zTmi/VZZj7ydfggd7B9vowSmPCEzhkSB0WhEIEA=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.105": {
+      "sdist": [
+        "jIOO55xMcZpB8CDKKFavnB5/mCQ0cMdsS/JSi5YdsxU=",
+        "cdk-aurora-globaldatabase-2.0.105.tar.gz"
+      ],
+      "wheels": {
+        "cdk_aurora_globaldatabase-2.0.105-py3-none-any.whl": [
+          "iFfSVq+lXQV8uAsStjd2FAdolxS9BQ4hcrFcGBYc70I=",
           "py3"
         ]
       }
@@ -24474,6 +24510,18 @@
       "wheels": {
         "d2r_image-0.2.5-py3-none-any.whl": [
           "aofCRHBCu2buBVsR9HcxnRPprwm2s7Qiq3BlkBKad9E=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.6": {
+      "sdist": [
+        "Kd8cYU17uy3RshqLNPBYuncL7dBvo2e5jHrgDJWJZ2I=",
+        "d2r-image-0.2.6.tar.gz"
+      ],
+      "wheels": {
+        "d2r_image-0.2.6-py3-none-any.whl": [
+          "wWwaEItYC8Go4Yh1sOOsCpRWAfaXU7IaHcP3ykHS5pE=",
           "py3"
         ]
       }
@@ -79157,6 +79205,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.1.1.dev1": {
+      "wheels": {
+        "odoo14_addon_l10n_nl_xaf_auditfile_export-14.0.1.1.1.dev1-py3-none-any.whl": [
+          "V2MUMMMUOGQ4biMxxYzHlhcZTrQ5lgzDeUnlxWf+wm0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-membership-initial-fee": {
@@ -87582,6 +87638,56 @@
       "wheels": {
         "posca-0.1.0-py3-none-any.whl": [
           "nXka4zm52fgEVghnZvbafOQMYjj9mh1jgYdA19ao3TQ=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "postgrid-python": {
+    "1.0.2": {
+      "sdist": [
+        "WdCZHzeVgmQZnYtwaiYItPPcioRw3u+edGKnVosIafs=",
+        "postgrid-python-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "postgrid_python-1.0.2-py3-none-any.whl": [
+          "ncVOPlIYRRR6TUv+BA6aLB7+AXux/YqNVj3/li3oZDk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "otTNtk6d+Ic7z8K1uglJSy2gGtEzlGfusBj6Hm2Avks=",
+        "postgrid-python-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "postgrid_python-1.0.3-py3-none-any.whl": [
+          "oQh2beoJ3taioMyCJaubazdLmcsJc2hTvFMhCNdcZzM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.4": {
+      "sdist": [
+        "SgkSTOnG9StLlauyfWdw7wWhgGiVO0ltuNhK+p7OGCs=",
+        "postgrid-python-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "postgrid_python-1.0.4-py3-none-any.whl": [
+          "hVuxNHVcA3/BO7Art0+vgCi8zu8xDx2KHnwvfGV0MGE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.5": {
+      "sdist": [
+        "8KAiedZSYgOj38rGHLIj7Kx4Tr5I2IrOvC6fyMstris=",
+        "postgrid-python-1.0.5.tar.gz"
+      ],
+      "wheels": {
+        "postgrid_python-1.0.5-py3-none-any.whl": [
+          "zePZkXniBWz1lrqsf2H7dK7NbmZkpoqWWtfavzdKjKQ=",
           "py3"
         ]
       }
@@ -105017,6 +105123,12 @@
         "E9RMwoAOpYIxZ2yOlvx0ZRFnKI+JUtyI1lxtszvB948=",
         "SeedWaterSegmenter-0.6.7.tar.gz"
       ]
+    },
+    "0.7.0": {
+      "sdist": [
+        "2bvmjD+5/nF0ZHk7sXHVNRIVD3BucQw6tBV9u1FB+Ok=",
+        "SeedWaterSegmenter-0.7.0.tar.gz"
+      ]
     }
   },
   "seer": {
@@ -118041,6 +118153,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.611": {
+      "sdist": [
+        "L9a1wSmjUZi6bvuMCElsLJO2zPbBzbfu2Tn2aeIjWRU=",
+        "tencentcloud-sdk-python-iotvideoindustry-3.0.611.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_iotvideoindustry-3.0.611-py2.py3-none-any.whl": [
+          "m7jD69M/BPO1Nj1uhWK2oanadF0JbZOc/DigqtRQKGg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-tcb": {
@@ -122348,6 +122472,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tcb-3.0.610-py2.py3-none-any.whl": [
           "ezlP69t6tQ+xppK7JF9KgQTqbIo9EehfNjvNDu7u2N0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.611": {
+      "sdist": [
+        "wc8qR883nBhldwIPJQM8mCa4oDVoCLHWNQT3pMhiob8=",
+        "tencentcloud-sdk-python-tcb-3.0.611.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tcb-3.0.611-py2.py3-none-any.whl": [
+          "TyAWAXGnnXzO7qyCu3G/QpIpzCdo/YvfFRvIwimZ1+I=",
           "py2.py3"
         ]
       }
