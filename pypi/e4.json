@@ -379,6 +379,18 @@
         "U9hbh6MfnxzA3D7+vkELvouwiuOhErGoj7RJQ17ZCyA=",
         "a2p2-0.4.1.tar.gz"
       ]
+    },
+    "0.4.2": {
+      "sdist": [
+        "rEceP9IAIW4X0aFyANKjWc8N+mMHOdx/gh8irb59E24=",
+        "a2p2-0.4.2.tar.gz"
+      ]
+    },
+    "0.4.3": {
+      "sdist": [
+        "gDTiLp2NIS3G4RMfNp6EZZncNOQIFkcr1Xvmn2m2DrA=",
+        "a2p2-0.4.3.tar.gz"
+      ]
     }
   },
   "a38-decimal": {
@@ -9402,6 +9414,30 @@
       "wheels": {
         "atila-0.16.0a1-py3-none-any.whl": [
           "V5oWOqRjBzZbvNKu2QC+o2if5ehO1IztnsOZJy5qM/Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.1": {
+      "wheels": {
+        "atila-0.16.1-py3-none-any.whl": [
+          "p5Q7pAz+ROky/tGjohB+54k6h6A4vYClGmxFFEVZK6g=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.2": {
+      "wheels": {
+        "atila-0.16.2-py3-none-any.whl": [
+          "NS6NPTLaO9bJeqqhaPxVycU7+ir+OCLaM2KQB8URpUc=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.3": {
+      "wheels": {
+        "atila-0.16.3-py3-none-any.whl": [
+          "l+HAUCeWt/OZC8sOhutxHv+AaVWESFZceiRD6uECi+8=",
           "py3"
         ]
       }
@@ -64715,6 +64751,18 @@
           "py3"
         ]
       }
+    },
+    "1.21.31": {
+      "sdist": [
+        "FDxP9PrkBWNicay9MKlgmpXikxGbfw3M7VWuVkg9IKk=",
+        "mypy-boto3-ivs-1.21.31.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_ivs-1.21.31-py3-none-any.whl": [
+          "5i05s0Bn9SW+OmJbPl2IVl0g5l+c+ytSvWY8g9kR7zw=",
+          "py3"
+        ]
+      }
     }
   },
   "mypy-boto3-timestream-query": {
@@ -75083,6 +75131,14 @@
       }
     }
   },
+  "pekutko-serializer": {
+    "0.0.1": {
+      "sdist": [
+        "CHB5RyL+2mMRC6fOgP/2oCbdlA+qRPVG/qTIiyoBHX4=",
+        "pekutko_serializer-0.0.1.tar.gz"
+      ]
+    }
+  },
   "pelican-fix": {
     "0.0.1": {
       "wheels": {
@@ -85437,6 +85493,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "n/MxS9xPNbWQE4eP3KMEaP8KzlgmzOamlISVlQ1cy/c=",
+        "pyprql-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "pyprql-0.3.0-py3-none-any.whl": [
+          "/Hm2lOYmfiUyi89lHpc+TNqIt3HtuflAb9iKHiC8eVI=",
+          "py3"
+        ]
+      }
     }
   },
   "pypublicdecompwt": {
@@ -85516,7 +85584,81 @@
       "sdist": [
         "to3to9+0x2qoAR339cGfG4eNJKJnP6J4/gWevGKc4e8=",
         "pyPublicDecompWT-2.8.1.3.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "pyPublicDecompWT-2.8.1.3-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "er1pRc6c7tAy6snrxqXJqe2K2qSzHgzOsv2oKmkpX5k=",
+          "cp310"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp310-cp310-macosx_11_0_arm64.whl": [
+          "H2I7N5uZruN5h0Q17q7CPd7vfJjGfeXw8jhDl2JcFco=",
+          "cp310"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "bDkDtrJprectGM8PE0aqM0Ej2FaqX+1aTQyLAHDvYVQ=",
+          "cp310"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp310-cp310-win_amd64.whl": [
+          "aYYYvbvHP8EvZ+RKRp131R8N0eseN/Bo7rcP2uVZkp4=",
+          "cp310"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "EummNIxQTJRTHrZqh7GFtUgTPe2/lC43S4T1LUyX+14=",
+          "cp37"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+zqlbJpz3LijCoIlmfF5EPRJ0GKGo3BE3l4i6N4u9Bo=",
+          "cp37"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp37-cp37m-win_amd64.whl": [
+          "pz1L9Y+y0cJJ7c03yrDXNDj4DUBKsiox0Ee5ijLyHnE=",
+          "cp37"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "VHqItCPJe8+xJlgIQp2qFPLNIP4Luyc/m+5rXNGmWNg=",
+          "cp38"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp38-cp38-macosx_11_0_arm64.whl": [
+          "qFupPE9ONepZGenXm22Mjr2gr/bQkfcfk7EIY1h9Uyg=",
+          "cp38"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RO8VURat+qWEkJYJUWc5WlNj1nepCnflIf4rZEl/TJY=",
+          "cp38"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp38-cp38-win_amd64.whl": [
+          "BJ+Ov+f1ayfld7c7i9xK6ZkAP1sZ85MN+Wvp9+Bf8sw=",
+          "cp38"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "3ZWd+/QMBElYo6gCP6R60gE97mZvCKWnzWg++LD8Qfk=",
+          "cp39"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp39-cp39-macosx_11_0_arm64.whl": [
+          "ZU3XGgoEp5QeDr893Eq4yS52KU4VSAET1gh0XT352E4=",
+          "cp39"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "P4Svbj9cSja51FJP1P3qmeThqblQUf9KcleJzDTZYUg=",
+          "cp39"
+        ],
+        "pyPublicDecompWT-2.8.1.3-cp39-cp39-win_amd64.whl": [
+          "7gE2avsaHFAEtgm9OYM7CTxIUxzb/FGxlMN/12BsOGQ=",
+          "cp39"
+        ],
+        "pyPublicDecompWT-2.8.1.3-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "NlWS5S8cZ2QtOL9nQd0dyTEPvGmIcglbgBQDVTAXTjQ=",
+          "pp37"
+        ],
+        "pyPublicDecompWT-2.8.1.3-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4evoMsk2G3asv3GjQKZwcbi4GG1fWdzvZQJnnwXmHok=",
+          "pp37"
+        ],
+        "pyPublicDecompWT-2.8.1.3-pp37-pypy37_pp73-win_amd64.whl": [
+          "awE9yBwa67GJAhuJ7C0JN3bhJoBEAZ1WZSvUah41RbY=",
+          "pp37"
+        ]
+      }
     }
   },
   "pypyp": {
@@ -100772,6 +100914,30 @@
       "wheels": {
         "spinterface-0.0.53-py3-none-any.whl": [
           "DB6UenrnKJUTK/5adQAVTC1cyVKxIj6sT+gMe1w7YMQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.54": {
+      "sdist": [
+        "pVKQUgqC05C8OmbK+i04GQVQtQV6RFLiNlrG1BsaCHc=",
+        "spinterface-0.0.54.tar.gz"
+      ],
+      "wheels": {
+        "spinterface-0.0.54-py3-none-any.whl": [
+          "0acFOt065kV0/25F5QMfwZNPVaQO4FCnDrIyRu/A+Gc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.55": {
+      "sdist": [
+        "XsR+arsWLGn13j9SvFZB9fNpucBFAazkNcIgxmUWn0Y=",
+        "spinterface-0.0.55.tar.gz"
+      ],
+      "wheels": {
+        "spinterface-0.0.55-py3-none-any.whl": [
+          "pI8sq070Vbl6AbczX67JWjS6yiisdis9GvSQyiZ9nOk=",
           "py3"
         ]
       }
@@ -124500,6 +124666,78 @@
         ],
         "y_py-0.2.3-cp39-none-win_amd64.whl": [
           "sc3uPTZ6Nsw5FrNcDysyJnxxzOCInlPhU80U6vnqOEs=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "CgmLpT+tweRp6GbGTOMqXEiS9Hjg97uhJmbVzwmQZSk=",
+        "y_py-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "y_py-0.3.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "cB49/h1RPlSYXm1YJE5Ym+K1nmLLGIriXzN/sj6M3lQ=",
+          "cp310"
+        ],
+        "y_py-0.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HbJ8PArXN6H9Ol8FIlRzb42e10JC0qbcbUeTpNPlQbU=",
+          "cp310"
+        ],
+        "y_py-0.3.0-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "jUbfduIG7i1+ndVpcYlCSUdj5oMx5vXK47pTEzU56yM=",
+          "cp310"
+        ],
+        "y_py-0.3.0-cp310-none-win_amd64.whl": [
+          "rShxWAOXSwReIRe5zlEn4NLBaROa5wMeVB4q/LGNio8=",
+          "cp310"
+        ],
+        "y_py-0.3.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "8VVwQ1Ilw4Si1YrOEH1m+EhG7X5WPSLbSJ7A9VhL5tY=",
+          "cp37"
+        ],
+        "y_py-0.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5VEbsdLKSXxH0RvoBI7x76mqOrZARMQI+Y2PdjYuEMU=",
+          "cp37"
+        ],
+        "y_py-0.3.0-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "dbE3ykfAluTf9z8LOZCNgVEOp0CKnV+aUEM3gr/NOYs=",
+          "cp37"
+        ],
+        "y_py-0.3.0-cp37-none-win_amd64.whl": [
+          "6D5xpE82mOnOP0o5mg1fNboTj6Zyz53esmi115orBMc=",
+          "cp37"
+        ],
+        "y_py-0.3.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "cV0hY4RoYpQ0JWz51POFVXI9KiGwpaKTXb/cdfVHsN0=",
+          "cp38"
+        ],
+        "y_py-0.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UE9iOSsHluZb5S8R0/N3UEqFSCmU/G8/W78EqdbJ6CA=",
+          "cp38"
+        ],
+        "y_py-0.3.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Hm5qqEsplnLt5TNQ+dvVLcAY1BTtLCzQK8JV2LCyl/o=",
+          "cp38"
+        ],
+        "y_py-0.3.0-cp38-none-win_amd64.whl": [
+          "Y1MP6XbTiclSrPQ96vpjR/A8ErFzW902gCrDLemfW60=",
+          "cp38"
+        ],
+        "y_py-0.3.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "kKElQLSIzRvK52X0a1y81zdr2FT0t3Y4G8elTBMebrY=",
+          "cp39"
+        ],
+        "y_py-0.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sMUnrq+0pdnRZyMJBmPRRfFwBKJCQRvR4TJqNEyvG3E=",
+          "cp39"
+        ],
+        "y_py-0.3.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "yXhZ63UyLZVWGaScfDHk/15WFwvIKAKQHRmGfPQd5Ig=",
+          "cp39"
+        ],
+        "y_py-0.3.0-cp39-none-win_amd64.whl": [
+          "BZyz6Av1COyPDL6vF+GLsdnCaBQOc/Bocx4ZpX8BRaE=",
           "cp39"
         ]
       }
