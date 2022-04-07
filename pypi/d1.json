@@ -1586,6 +1586,18 @@
         ]
       }
     },
+    "2.0.14": {
+      "sdist": [
+        "hnfqcDk85nBssxHODgGG6vbN6sKVa4KmWPT0PGOUqAE=",
+        "alibabacloud_servicemesh20200111-2.0.14.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_servicemesh20200111-2.0.14-py3-none-any.whl": [
+          "MJmci03giLillaiuW713lYzFk3zCg+ehYaQxe1OaHFI=",
+          "py3"
+        ]
+      }
+    },
     "2.0.3": {
       "sdist": [
         "9WuyzVR0jRI9gcQX4m5zysxvV7Bwhb7Jj4GythA6SmY=",
@@ -8723,6 +8735,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "bot-detection": {
+    "1.0.0": {
+      "sdist": [
+        "kXFaIrcJs+ICwiyvuB3KPvWTL4xBwbJaVQ5Ug67Zc8E=",
+        "bot-detection-1.0.0.tar.gz"
+      ]
     }
   },
   "bottlecors": {
@@ -24884,6 +24904,42 @@
       "wheels": {
         "dbnd_airflow_versioned_dag-0.69.2-py2.py3-none-any.whl": [
           "q25m0L1xroI8l9vr7OAhg5o78aIzgB1kPooGhXoJMRY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.69.3": {
+      "sdist": [
+        "Tgu2Cm1aDW3G8maXWmnyQSadStLlkcrLbyyxmPvIeqw=",
+        "dbnd-airflow-versioned-dag-0.69.3.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow_versioned_dag-0.69.3-py2.py3-none-any.whl": [
+          "Rf3diQ1rD9GGy/I1vW6a5PlAmEquVkkRXy+pP4q29tw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.69.4": {
+      "sdist": [
+        "8oJyGv60nchKvS4Gx86hLQC0yf8xHjcVkw/DKImirgg=",
+        "dbnd-airflow-versioned-dag-0.69.4.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow_versioned_dag-0.69.4-py2.py3-none-any.whl": [
+          "jFhRGDpkF2I85+XHL/QoFwFsmfsxaci2oD8lWCFbkeI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.69.5": {
+      "sdist": [
+        "9vs+/xaQpSHiffH4ZUaF3o4xk+7ErDquCmiYzLl3Nu0=",
+        "dbnd-airflow-versioned-dag-0.69.5.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow_versioned_dag-0.69.5-py2.py3-none-any.whl": [
+          "SYREzuRlfVK2LoGuBtocivzFVyIUrFF+D3F9V3Xzzfk=",
           "py2.py3"
         ]
       }
@@ -49236,48 +49292,46 @@
     }
   },
   "imcpy": {
-    "0.4.dev0": {
+    "1.0.6": {
       "sdist": [
-        "JtalBqIh23b7SzKryvdw2CsHMZEmmiioVikMS6nAYow=",
-        "imcpy-0.4.dev0.tar.gz"
-      ]
-    },
-    "1.0.5": {
-      "sdist": [
-        "oURXi6J10+KHsltW7T5ChbfJ5QPuz7IO6c60+C5M9+w=",
-        "imcpy-1.0.5.tar.gz"
+        "+gdxl3X/fHfYIAh4bUF2OQ9h2r6qBMFxxtV2byPhkng=",
+        "imcpy-1.0.6.tar.gz"
       ],
       "wheels": {
-        "imcpy-1.0.5-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "U3kGozuaCVgmMjCGaHejhFNUo0sQqxjSLaf8iF1abHs=",
+        "imcpy-1.0.6-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "fLPR9bd5PUc5YRiT1hXhwN0+Gr099Hd7UzkBEId72cM=",
           "cp310"
         ],
-        "imcpy-1.0.5-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "bUbIyeJ7mRJB2kxPDBZzVPIWoIknTYntb8INgfiCsNQ=",
+        "imcpy-1.0.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "H00kNJ0irCqCpOZ0YWKN76eRtZu4c9VXH1mZRNL7mxI=",
           "cp310"
         ],
-        "imcpy-1.0.5-cp310-cp310-win_amd64.whl": [
-          "hd+h4h/Pd9l/UltGl4IuQIX5YMJImCInN1gicg1CQGs=",
+        "imcpy-1.0.6-cp310-cp310-win_amd64.whl": [
+          "3D8C9VqUmqy+IQsO4iGbxpzM6vhgAdbcbjHVw0x10g8=",
           "cp310"
         ],
-        "imcpy-1.0.5-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "nAL7ksA1Os47o1D4w4U8FuVHJJUFbe6oBiXfNY3mck8=",
+        "imcpy-1.0.6-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Aq3AhmXLojW4kkgK+9Jyn1stnfqYUzSCxKXGSCQ/WYM=",
           "cp38"
         ],
-        "imcpy-1.0.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "ZxJScChdVdA5rfLG5UOak9WjIyrnCC2+3KML6tcSYe8=",
+        "imcpy-1.0.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "33hUV0ORXmcqs/A9GSf8umZHFu80kdiWebvS4bBsVOg=",
           "cp38"
         ],
-        "imcpy-1.0.5-cp38-cp38-win_amd64.whl": [
-          "RQ3UpA2B2sxBJqjoMzv+XKFtXM18xNOtMU2clglJmuc=",
+        "imcpy-1.0.6-cp38-cp38-win_amd64.whl": [
+          "EJwbjvlq3LNp0jFoWloumjw4fHoZfN1uNZ1TnBQcUqU=",
           "cp38"
         ],
-        "imcpy-1.0.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "4DHqlch+/Xy+O1fSdSNkHdNPKYJRAjmRRaIFiJ+uO+I=",
+        "imcpy-1.0.6-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "qwyNL6aKyLh/Wma1lC/oDrAhmLM79AqJjtbPuHQhwIc=",
           "cp39"
         ],
-        "imcpy-1.0.5-cp39-cp39-win_amd64.whl": [
-          "Wsfjz9bUYnS8+sELbSf0m9lAvRrCYB3ubF1kAHcB3uk=",
+        "imcpy-1.0.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qPIcgszvOv3vaDhSq4BADgoicAKtQRiVwTujx4KE2sU=",
+          "cp39"
+        ],
+        "imcpy-1.0.6-cp39-cp39-win_amd64.whl": [
+          "QD+o4dE89TnUJJ1Arzt1IoPNcQv/jgWOvqByJdvktlA=",
           "cp39"
         ]
       }
