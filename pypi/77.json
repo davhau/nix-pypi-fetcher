@@ -44868,6 +44868,12 @@
         "girder-virtual-folders-3.1.13.dev6.tar.gz"
       ]
     },
+    "3.1.14.dev2": {
+      "sdist": [
+        "J3FyuMx2fymry8gWdg3bK0xxXvclozZPXOhH+tCs72I=",
+        "girder-virtual-folders-3.1.14.dev2.tar.gz"
+      ]
+    },
     "3.1.2": {
       "sdist": [
         "TPTZh1ngE5j+mZMmLQh7fo1eKoAebzq9JGEMRq9he2M=",
@@ -54020,6 +54026,30 @@
       "wheels": {
         "large_image_source_deepzoom-1.13.1.dev11-py3-none-any.whl": [
           "vTqQhPcuGZp5mjRQQV13BiW8j/oAwVRWWigTWa6dE4A=",
+          "py3"
+        ]
+      }
+    },
+    "1.13.1.dev16": {
+      "sdist": [
+        "I9ThceP4EsTwHsmt4wrDQNSdz/KAJlTLAkb2WFpBLPw=",
+        "large-image-source-deepzoom-1.13.1.dev16.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_deepzoom-1.13.1.dev16-py3-none-any.whl": [
+          "sw8s8ewbMcL/416H7Sss38hrKxoKN33ediS6ff1wKJY=",
+          "py3"
+        ]
+      }
+    },
+    "1.13.1.dev18": {
+      "sdist": [
+        "flm0gQwh7SMiOp/+qY9B+leh80AuVoRIwo24z0f6Bvk=",
+        "large-image-source-deepzoom-1.13.1.dev18.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_deepzoom-1.13.1.dev18-py3-none-any.whl": [
+          "RPLhzXkhS8c6GpQUnIlEZFnge5aDEGGKzzd605Tz15M=",
           "py3"
         ]
       }
@@ -90268,6 +90298,18 @@
         ]
       }
     },
+    "5.8.12": {
+      "sdist": [
+        "Q9/COd0DQPUbVZJ06eL/1TUjoxMaFUennaTPQf45aCA=",
+        "netfoundry-5.8.12.tar.gz"
+      ],
+      "wheels": {
+        "netfoundry-5.8.12-py2.py3-none-any.whl": [
+          "rrQCI3QOifHTOsncfWUGCQs48jtcow0+D4xmWKzsIog=",
+          "py2.py3"
+        ]
+      }
+    },
     "5.8.3": {
       "sdist": [
         "NY1YvzGR+PC4fn88DjmORW4efQo8LX1jgQJYb00ghlw=",
@@ -118622,10 +118664,10 @@
     }
   },
   "qmake2cmake": {
-    "1.0.0rc1": {
+    "1.0.0": {
       "wheels": {
-        "qmake2cmake-1.0.0rc1-py3-none-any.whl": [
-          "1ofNuiZOsylorA3o/jsfJ+qAP7FpbzjAzW8XKPLNTRM=",
+        "qmake2cmake-1.0.0-py3-none-any.whl": [
+          "RQf5I1GAEooRyDQQfOZpYQXaJmHNgb2nRWHkKKwsRh4=",
           "py3"
         ]
       }
@@ -122978,6 +123020,10 @@
           "aggxb7VYAjZolDLRceE16dNeNQupZULvfjJKujqf58Q=",
           "cp310"
         ],
+        "rundec-0.5.2-cp310-cp310-macosx_11_0_arm64.whl": [
+          "9PYfX2Bjs22SEY5XhgObotFKWdm/vjiXxRqsNjwxSEQ=",
+          "cp310"
+        ],
         "rundec-0.5.2-cp310-cp310-manylinux_2_12_i686.manylinux2010_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
           "XtbGH4keB5D5juDr8bSNSrUf43XAJXTP2+pI2jbEVYU=",
           "cp310"
@@ -123110,6 +123156,10 @@
           "w0MpIARqcHzDtpof5onSiIeh5e0YfM81OWyHxt7LiEc=",
           "cp38"
         ],
+        "rundec-0.5.2-cp38-cp38-macosx_11_0_arm64.whl": [
+          "zAG+dW3u5lFtBSjdfZt8CnyJmGazHBHfBqtf/sZ8pyg=",
+          "cp38"
+        ],
         "rundec-0.5.2-cp38-cp38-manylinux2010_i686.whl": [
           "gNYNk2DvF5DgMncfI9rckqVzeoulyctCvSJ3JfcatuY=",
           "cp38"
@@ -123144,6 +123194,10 @@
         ],
         "rundec-0.5.2-cp39-cp39-macosx_10_9_x86_64.whl": [
           "bFUDAhIKoBkH5M3n/zuTn1EQ3qbUj6dUgO97RViWle8=",
+          "cp39"
+        ],
+        "rundec-0.5.2-cp39-cp39-macosx_11_0_arm64.whl": [
+          "jbP8GRtCUkyB6hNzh6XZGD7IcEpP5/5qaalhb9ezgNE=",
           "cp39"
         ],
         "rundec-0.5.2-cp39-cp39-manylinux2010_i686.whl": [
@@ -145320,6 +145374,14 @@
       "wheels": {
         "tiledb_cloud-0.7.34-py3-none-any.whl": [
           "dv/WzoMbL9B+AUDumgccLo78p6CgD8gbhgHsUupnAtc=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.35": {
+      "wheels": {
+        "tiledb_cloud-0.7.35-py3-none-any.whl": [
+          "d3ru2Ug+J341zq83LEOHzUYMw9bl87PRa3Kehy0fxs8=",
           "py3"
         ]
       }
