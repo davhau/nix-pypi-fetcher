@@ -12887,6 +12887,12 @@
         "PPV1i8U5ZliR4WlnKL9lWpieAWESgqPGEBIcBz1Wqmg=",
         "buffered_pipe-0.0.2.tar.gz"
       ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "vr5lnBcJxwQvtd06XmeU5jQ0D8An7exgcwbjvbDQptc=",
+        "buffered_pipe-0.1.0.tar.gz"
+      ]
     }
   },
   "bugs": {
@@ -25352,6 +25358,18 @@
       "wheels": {
         "cssselect2-0.5.0-py3-none-any.whl": [
           "jUaQvOXyUBMmKZfmTO8+e63od9PvEm+cxiTlsfKU2TQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "W11t6oGl6wyco58RbIV43UE3eAYMlMH1EZY3FhiQkyU=",
+        "cssselect2-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "cssselect2-0.6.0-py3-none-any.whl": [
+          "OoOypoNwxpyc0/y4i7+uvp0i7e7ywi0f8+HtnH+kXtg=",
           "py3"
         ]
       }
@@ -52544,6 +52562,12 @@
       "sdist": [
         "BDVc0zKBN1/r2+dZhaVZ32QRboCFiZBaF0zky2TJNbM=",
         "gt4sd-0.33.0.tar.gz"
+      ]
+    },
+    "0.34.0": {
+      "sdist": [
+        "hmXXhWX2Dmjmg0r/tZ/jH/R2cdRQb2p2PUvbtYYVyCo=",
+        "gt4sd-0.34.0.tar.gz"
       ]
     }
   },
@@ -90771,6 +90795,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.1.0": {
+      "wheels": {
+        "odoo14_addon_l10n_fr_intrastat_service-14.0.1.1.0-py3-none-any.whl": [
+          "vUij+uRl9ZEcLqaz6MEBFxCs8vwFfwWUBcs7hpl+YNU=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-l10n-it-fatturapa-in-purchase": {
@@ -96018,401 +96050,23 @@
     }
   },
   "pkm-cli": {
-    "0.4.0": {
+    "0.4.36": {
       "sdist": [
-        "X8LPNS2ieyGFFDyFNew+Sm4Sx35dQrW+lKzF27UX1dw=",
-        "pkm_cli-0.4.0.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.0-py38-none-any.whl": [
-          "7mNNe30PEbgO4a/2AsrGEwmDuFA2dc560+CFARxLVTk=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.1": {
-      "sdist": [
-        "0grjs6KmCv3uiV5ixAhYn0VQrbWEpZ8sX+QEMwI0X8o=",
-        "pkm_cli-0.4.1.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.1-py38-none-any.whl": [
-          "01aLBCOa4b694TPlQT/fPxvohOfOJS5Fs7NGG/U94zk=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.10": {
-      "sdist": [
-        "YfwwsG5G8sEWJIN3H6zTyGJ6Tq+g0avvEYv/jnv6AGg=",
-        "pkm_cli-0.4.10.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.10-py38-none-any.whl": [
-          "g2ZerFnptp8Eb0YLohoiTa0OAwWGxSm8/ysdZY2x7lk=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.11": {
-      "sdist": [
-        "hyPUy+G0x9XGXNGHSuHxvQB8rBe+haKOrUUPK2ghs/w=",
-        "pkm_cli-0.4.11.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.11-py38-none-any.whl": [
-          "RjRF7NrEHQ1JkvZ3x2U1/I4TS9AH2TyDv5buZqOdngo=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.12": {
-      "sdist": [
-        "HYDeeSglrQMWkaFEUhh4F7JehWMBH3DLN4f9j0vxEbk=",
-        "pkm_cli-0.4.12.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.12-py38-none-any.whl": [
-          "FYFKJa6NwnBhDbWujRs5CDH2UhV5r4NIO/+9h+A6TUE=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.13": {
-      "sdist": [
-        "rpKI1pqfI5K/aVZf9pqa5dob1DkYiW0DrgqbJxH3sYg=",
-        "pkm_cli-0.4.13.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.13-py38-none-any.whl": [
-          "IM8xSaM8f0+wPN62yxwtnKlbV4e0bTvkLYAqA+eGMxY=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.14": {
-      "sdist": [
-        "tDvekCrYTO2KyXb/lwE39+E7EklGySA6ajWMqyaQdcc=",
-        "pkm_cli-0.4.14.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.14-py38-none-any.whl": [
-          "psA6oszc4n0g0Az3uWTMoMCnH/1OsU3Zyem8MwdyNEI=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.15": {
-      "sdist": [
-        "9D3L5Z4WZWg5cnhyEM+xna5tk3rOgiwvxNh6ySUX5i8=",
-        "pkm_cli-0.4.15.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.15-py38-none-any.whl": [
-          "jLbzaaBF2mWcwyHDfGSjy0LnBk0QjTfYg+yFuSnIzm0=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.16": {
-      "sdist": [
-        "1JGNQkevhS7m68JoNan+VvHDQBN7LqVLzPb+9a0qmA0=",
-        "pkm_cli-0.4.16.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.16-py38-none-any.whl": [
-          "QR8/ESZd9Om9BAdFhD706A3lfv/0fufeIw4tM2MWMns=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.17": {
-      "sdist": [
-        "douDAIMcLKpKTY+HHRINWfURynFL6RHbEN3fakIh254=",
-        "pkm_cli-0.4.17.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.17-py38-none-any.whl": [
-          "SS2JEoCHbdLZ3OewGUczyr6h93r2BYnQIDdsKoCb9bI=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.18": {
-      "sdist": [
-        "5uyKRkWyHRfrrDq3vQYQhvQYeNrt0itF8T4E0BjG/ho=",
-        "pkm_cli-0.4.18.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.18-py38-none-any.whl": [
-          "SNu7J19N1B8h3ltHheR+Sv8kqoXQJ9p6QbMZBahqMa8=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.19": {
-      "sdist": [
-        "+HyNsHEWeVH0NXxIe39K5yJzqHKDpIQBFRhqnzH8CEA=",
-        "pkm_cli-0.4.19.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.19-py38-none-any.whl": [
-          "9YqOIYkFObq1VIrjytpzdjAH4MTbHJCSIrjZJyUepGk=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.2": {
-      "sdist": [
-        "lRh3CxvcFfvIC4FyFRdv2l4HtCstY+AdQAKUyqiOErs=",
-        "pkm_cli-0.4.2.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.2-py38-none-any.whl": [
-          "DxEMKV0MplqLed2UN3QyNboD9/N6WjQSUdrRaK3fBQA=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.20": {
-      "sdist": [
-        "DXQ7z6s3XnLpn2YKZ1XlLrntOEI2xcTmQ/14GN3BJU0=",
-        "pkm_cli-0.4.20.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.20-py38-none-any.whl": [
-          "lp2UGDjvxCHkVu77D56Ozr5bT1kVBhpaNkECENNH0qI=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.21": {
-      "sdist": [
-        "M5G45rlAUOgpbV6yAAy1aWdExDjwCbdvEEAR/OOT8yE=",
-        "pkm_cli-0.4.21.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.21-py38-none-any.whl": [
-          "aWh49a1QL9iH2Ga/MJb+JWo7UD+30SRnQqWSB8JFomk=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.22": {
-      "sdist": [
-        "5ilrxGf6LAIegI0QmNQbwoWMbzb5AL99xdIDXmLQetg=",
-        "pkm_cli-0.4.22.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.22-py38-none-any.whl": [
-          "bDu0BSaOLoys2uRRMw6e9DvgLjvpk5jDHyFJDm3HmEg=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.23": {
-      "sdist": [
-        "fk08cDg/7SccGSijU2DbS1P8bGiTJKHGjMUeFQFydlU=",
-        "pkm_cli-0.4.23.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.23-py38-none-any.whl": [
-          "k8uEhVef+Ylg/jHHNMb1Q9YxEtv2CR9oCpdduOLVNCw=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.24": {
-      "sdist": [
-        "yWMckFysSSziMQyZ7HC+5JYVqnFHnUazWIJYc39UFGo=",
-        "pkm_cli-0.4.24.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.24-py38-none-any.whl": [
-          "7mBI+3ZfeqjKB2iM/sJ91Lu/TWZLZQX5FJ2NzVFl0s0=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.25": {
-      "sdist": [
-        "37oBxS/jP9QBGGRfqIhZEJY5JTAKkLZOjYJl/zfGBzM=",
-        "pkm_cli-0.4.25.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.25-py38-none-any.whl": [
-          "x2ach7zVY9FsPQekny8xSiGCppEINCz0wmtXyIMaf2U=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.27": {
-      "sdist": [
-        "aM7u2fh3mVgHakEWAqK0oZ32TrsNZhxNdepmRqICbeE=",
-        "pkm_cli-0.4.27.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.27-py38-none-any.whl": [
-          "uLrazyEXAw1kUcWg6B23DnQVOcx+lPpL+mL436iTSv8=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.28": {
-      "sdist": [
-        "p8/YpLzqxHue38qdv1KCHpCWRVSoM4kozo4/7VGnBzQ=",
-        "pkm_cli-0.4.28.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.28-py38-none-any.whl": [
-          "cnvEnSaqaS4+fQeCi6qZHGzCOFpE2gM3QQ6e7dp1hS8=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.29": {
-      "sdist": [
-        "T63IVwGe0obDyH/SBVzg4oP/hRl8avOYRfrbrNxc7Wo=",
-        "pkm_cli-0.4.29.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.29-py38-none-any.whl": [
-          "RYuYv3jYcKkM7uoaXAhXrkXcZAGlZsWwuOmGJQcyyrk=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.3": {
-      "sdist": [
-        "t9tQZEgSIU+D3/jViHQVYnHhIPkiQbd/my3AULtuj5Y=",
-        "pkm_cli-0.4.3.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.3-py38-none-any.whl": [
-          "Zw6mNtq6evUyPvqtpT5brQfd97X7rgnmuox3wRuukfE=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.30": {
-      "sdist": [
-        "yyGkC5rmyfYmEa5bZYUvBgm5c+hMpGQRw2vGfmS8oL0=",
-        "pkm_cli-0.4.30.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.30-py38-none-any.whl": [
-          "iDmCq+xQy2saHkHHIx8asg5iGRSVijgZU1vyHfEByl8=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.31": {
-      "sdist": [
-        "aKcxYIQPwne7pX66TqFvXc4G/L6uhIqAKQ8elhH5wYU=",
-        "pkm_cli-0.4.31.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.31-py38-none-any.whl": [
-          "eALAFbHNs83F2nLU5u5nAAPoLr4AUo01dDgTRdWbHG8=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.32": {
-      "sdist": [
-        "RGPxcRQs/pP287iO4N6bFRugrV2goHkMlYgkZryvwvw=",
-        "pkm_cli-0.4.32.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.32-py38-none-any.whl": [
-          "MbYjYhmehdJK+QPW7qjgxpJ5fTLjCV4Nav0RfTcCkzU=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.33": {
-      "sdist": [
-        "kN/oZITcfGLNt2Q6zQ/e3WVBjwzft2ILetSJj4uvjuk=",
-        "pkm_cli-0.4.33.tar.gz"
+        "xW0nMYHT9T6aOYfDlX/+BhuJJLlezutEFoNOYTqR9JI=",
+        "pkm_cli-0.4.36.tar.gz"
       ]
     },
-    "0.4.34": {
+    "0.4.37": {
       "sdist": [
-        "k4umZUv8SCSyZHCBt0KcGz930RtQZlgIQqqXfwMV4+4=",
-        "pkm_cli-0.4.34.tar.gz"
+        "rhZaXD3/kc8nla5eqK7rd+fdmD2djXLZFfhnihvh3Dg=",
+        "pkm_cli-0.4.37.tar.gz"
       ]
     },
-    "0.4.4": {
+    "0.4.38": {
       "sdist": [
-        "bdAIIkYfnFzv7Mdsxp9t1ck7jN2l9WQQVZL+/0VX4mk=",
-        "pkm_cli-0.4.4.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.4-py38-none-any.whl": [
-          "ek+SfjccOGXfYg4MSoTTkcp//+bMZUqEWqcRahgs55I=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.5": {
-      "sdist": [
-        "7L7SN1OYW8QMqQKGwGIME6r2faWuu5F5CgZTTiVd5/c=",
-        "pkm_cli-0.4.5.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.5-py38-none-any.whl": [
-          "FiYD94b5GhwVgP4Nokfb0j/56gsjXtus+5LOKkPA47Y=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.6": {
-      "sdist": [
-        "ztsATIV+zNR8dqOm9SvJlTdSH8UA7RqYZP+9eFQ7gLw=",
-        "pkm_cli-0.4.6.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.6-py38-none-any.whl": [
-          "Hh12DoB5d7vXeH6sitfgc7JvxIb0jOViHwN2/EBjDTM=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.7": {
-      "sdist": [
-        "/aH/249EyruvI+/kNiiXfC8/s6m9ujrRmFf0aMCFtRk=",
-        "pkm_cli-0.4.7.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.7-py38-none-any.whl": [
-          "JaLNG5xUZKNpPNKM47FIGoxNMQ0bfqgV6u/I1XQIDuU=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.8": {
-      "sdist": [
-        "Hiq/csHSO1+xJG9bc3ABzTUwzyRO996ZSQGDEBgHtDg=",
-        "pkm_cli-0.4.8.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.8-py38-none-any.whl": [
-          "Q/12hRVQiR7GcencjhJoOz/dkAWLbJMNe0e4Qv0BDfc=",
-          "py38"
-        ]
-      }
-    },
-    "0.4.9": {
-      "sdist": [
-        "Z3r6Gv0AiY1Y3lc8hH7conFHnjLw4jW03NYHHLb1iOQ=",
-        "pkm_cli-0.4.9.tar.gz"
-      ],
-      "wheels": {
-        "pkm_cli-0.4.9-py38-none-any.whl": [
-          "pJWL6zq1ikNkkNE2+p9bfcm7oA9eJmQvUsTxKCV8Lgg=",
-          "py38"
-        ]
-      }
+        "YGgmdVMSOtm6Tlbe2HFOS1PxUCTwtx9/xNU9H5ArliI=",
+        "pkm_cli-0.4.38.tar.gz"
+      ]
     }
   },
   "pktools": {
@@ -136602,6 +136256,30 @@
         ]
       }
     },
+    "1.32.38": {
+      "sdist": [
+        "pAAONoo7DOZFnIVKCOTjODELORmeQeOAKnS+WR8/R/Y=",
+        "zebrazoom-1.32.38.tar.gz"
+      ],
+      "wheels": {
+        "zebrazoom-1.32.38-py3-none-any.whl": [
+          "RzLtFiXByD2CRT5dED6ySYxFqCX3UVinFjV1Bt9XxaQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.32.39": {
+      "sdist": [
+        "L7+y1y0xaZ1qC6p3Qxqd5bHx85zuoalIyZPaSPKH3vU=",
+        "zebrazoom-1.32.39.tar.gz"
+      ],
+      "wheels": {
+        "zebrazoom-1.32.39-py3-none-any.whl": [
+          "BdOwzPBwzfg3Y5sLcIGtmYaP6Ls702joQJ7RDoim/C0=",
+          "py3"
+        ]
+      }
+    },
     "1.32.4": {
       "sdist": [
         "Zr661ZSympTDM0yHLZh2dhGoWoKAzscJDaPMN5u0tCM=",
@@ -136610,6 +136288,18 @@
       "wheels": {
         "zebrazoom-1.32.4-py3-none-any.whl": [
           "YszfcpSbUMvnjxrlkl1FU3LApZCl5aL+imy2Bdg8RBw=",
+          "py3"
+        ]
+      }
+    },
+    "1.32.40": {
+      "sdist": [
+        "SML5ZuPqQDeMDVTtxII4a4XJQe0PkzA/NN6POzr6fRM=",
+        "zebrazoom-1.32.40.tar.gz"
+      ],
+      "wheels": {
+        "zebrazoom-1.32.40-py3-none-any.whl": [
+          "uMx24wJOiB6lZEyDpbZSOG+S5JilwWsSbeCJeo6QzOw=",
           "py3"
         ]
       }
