@@ -18181,6 +18181,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.2": {
+      "sdist": [
+        "MYt/8cyeWeRVYtWSaDnioOTtA+AmRAH9wZMbTDqQOl8=",
+        "cppython-0.5.2.tar.gz"
+      ],
+      "wheels": {
+        "cppython-0.5.2-py3-none-any.whl": [
+          "US6bKCOXXVkqvO+h/Y/PsR4GiCQMUAUbJK7jXRcbh7Y=",
+          "py3"
+        ]
+      }
     }
   },
   "crazehub": {
@@ -32872,6 +32884,24 @@
       "sdist": [
         "+OMv/1AmQs7JGeSNkMaXL/gf8CTZ/U3OuzX8NHT4Fbw=",
         "fastapi-better-di-0.0.2.tar.gz"
+      ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "tLxorPwNWMvUDDyHYnRTb8J+lm50PteOufPkc2RvbH8=",
+        "fastapi-better-di-0.1.0.tar.gz"
+      ]
+    },
+    "0.1.1": {
+      "sdist": [
+        "oSR8JcAfhKljYncuJT0YfMtvQE5soc0inni2HsiyTb4=",
+        "fastapi-better-di-0.1.1.tar.gz"
+      ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "YPv7pUizh9oKMlUkSJFXeie12qrAb6TG7hUg4UvLAYM=",
+        "fastapi-better-di-0.2.0.tar.gz"
       ]
     }
   },
@@ -89541,6 +89571,26 @@
       ]
     }
   },
+  "pdcool": {
+    "0.1.0": {
+      "sdist": [
+        "l+VS/TIup3iHzEIOivfu6cmgWO149qBjW8HIebjlJQg=",
+        "pdcool-0.1.0.tar.gz"
+      ]
+    },
+    "1.1.0": {
+      "sdist": [
+        "EvrMGDX4loVPRjmC8XDFC6S4QmPiiCIHGJVl+Lqr36Q=",
+        "pdcool-1.1.0.tar.gz"
+      ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "dKNc+IDTmqprjULCEhqmmSuOS+UGZN4hM/rfrKg+/4A=",
+        "pdcool-1.1.1.tar.gz"
+      ]
+    }
+  },
   "pddb-genwch": {
     "0.0.1": {
       "sdist": [
@@ -119538,14 +119588,14 @@
     }
   },
   "stackholm": {
-    "1.0.0a6": {
+    "1.0.0a7": {
       "sdist": [
-        "Oss/RZ6NteynA0PFedtK/oX22/y/5vjSEbHufuhXTuQ=",
-        "stackholm-1.0.0a6.tar.gz"
+        "kJfsGEPFk1cpYNfB5/2FhXsPQTFajbrojlvjqUR6VXI=",
+        "stackholm-1.0.0a7.tar.gz"
       ],
       "wheels": {
-        "stackholm-1.0.0a6-py2.py3-none-any.whl": [
-          "HBdmS4GVKYtcdiJcSO6shFoQCfbGAiIuILxrLED/igs=",
+        "stackholm-1.0.0a7-py2.py3-none-any.whl": [
+          "Rzl1iP6z/S5BFThXJ8q/jTy7l6kFt0/b9Rq2jUnODPQ=",
           "py2.py3"
         ]
       }
@@ -125084,6 +125134,42 @@
         ],
         "tf_nightly_gpu-2.10.0.dev20220415-cp39-cp39-win_amd64.whl": [
           "w8T/c4dtJUEhVsHCnlr0eJpmUWPxdO1uCmCvj1puND4=",
+          "cp39"
+        ]
+      }
+    },
+    "2.10.0.dev20220416": {
+      "wheels": {
+        "tf_nightly_gpu-2.10.0.dev20220416-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oZUEDyjuzyVDXRdzH2u3WLxW8fVxKYDGtYrZCLk4ZWI=",
+          "cp310"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220416-cp310-cp310-win_amd64.whl": [
+          "r9xEHrvcWhSYPIJr4G4j4exL+jLG9kB4ZR+8Ohl0ZL0=",
+          "cp310"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220416-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "j1f0mTt78w8uzbmhKpB7QGLrg3gLpKuh+1ge3qKX64Y=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220416-cp37-cp37m-win_amd64.whl": [
+          "H5SmKn5uqJy9JUila+79X5/sBfbRcsaykfvX3+M33vc=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220416-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kX0H5mgSqk+Bva+Efsm4nvoHgQ/z15fuvJzGzhuJlr0=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220416-cp38-cp38-win_amd64.whl": [
+          "wwOkT7pT1qY7pTTC5MVt/11FS67jUCKg92imUw4Spow=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220416-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VC9FDenO622VOV4zaj/qwcxGzRqrgQLW1K8/6PqqM08=",
+          "cp39"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220416-cp39-cp39-win_amd64.whl": [
+          "Cbs6HBH6KrIxLToBShYVO/yx/k2EU5Oel34oGSoUBVw=",
           "cp39"
         ]
       }
