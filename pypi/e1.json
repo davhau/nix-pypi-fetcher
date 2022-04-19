@@ -38323,6 +38323,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "h2ZL+JgV25M+3SV4dua/lsDYvlak9Gdk/1z1KsySd6A=",
+        "bitwarden-menu-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "bitwarden_menu-0.4.0-py3-none-any.whl": [
+          "sRmPiUyUEeizqySvwP4vy2c848gYehlmB+1TM6WUmro=",
+          "py3"
+        ]
+      }
     }
   },
   "blink": {
@@ -44734,6 +44746,12 @@
       "sdist": [
         "Z9w0awle0hYlLpZ1B0PiCZwiKByLaFZA8cJSp4DBLd8=",
         "comic_dl-2022.4.17.tar.gz"
+      ]
+    },
+    "2022.4.19": {
+      "sdist": [
+        "b+BQuWlGSsJE9veWmNDL6tNAffFivsPBQl8WMQIDMJU=",
+        "comic_dl-2022.4.19.tar.gz"
       ]
     },
     "2022.4.9": {
@@ -96755,6 +96773,20 @@
       }
     }
   },
+  "ml-dev-tools": {
+    "0.0.2": {
+      "sdist": [
+        "ypljCjqzto0mrH7sElcKpSA96xGtYisCdf2rIxecSxs=",
+        "ml-dev-tools-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "ml_dev_tools-0.0.2-py3-none-any.whl": [
+          "U/UTjLe9WvbRRKmUyZ2CdUiAtZfetAtPr4VD9moSqqk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "mlme": {
     "0.0.101": {
       "sdist": [
@@ -131647,6 +131679,14 @@
       }
     }
   },
+  "scsurvivors": {
+    "1.0": {
+      "sdist": [
+        "GwZGhfJ9V75H0SDrrwcS5kK4uLlevoD9ob0D57Uqc/Y=",
+        "scsurvivors-1.0.tar.gz"
+      ]
+    }
+  },
   "scte": {
     "0.0.1": {
       "sdist": [
@@ -134861,9 +134901,17 @@
       }
     },
     "2.1.1.2": {
+      "sdist": [
+        "XAaJsAfUSc4M4XqeoyIVIxX7F+0ylJAFqXTT2cL1jaM=",
+        "SimpleITK-2.1.1.2.tar.gz"
+      ],
       "wheels": {
         "SimpleITK-2.1.1.2-cp310-cp310-macosx_10_9_x86_64.whl": [
           "gnDI8NkiOrNPTyob5/eFHkQPOwem9ujS2qbN+l222P8=",
+          "cp310"
+        ],
+        "SimpleITK-2.1.1.2-cp310-cp310-macosx_11_0_arm64.whl": [
+          "4ebHWA3R405XwSwYCAJWktSR8uQSRACK4md/lZyhRbI=",
           "cp310"
         ],
         "SimpleITK-2.1.1.2-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
@@ -134914,6 +134962,10 @@
           "Dkfe6mBivsEN4ElTlVbnrElNq9xYzjrSTUo92LWk+10=",
           "cp38"
         ],
+        "SimpleITK-2.1.1.2-cp38-cp38-macosx_11_0_arm64.whl": [
+          "ivJhU8D6JIvGP2rbCqqaVpQbyunS/zSwvubUYZhqoIY=",
+          "cp38"
+        ],
         "SimpleITK-2.1.1.2-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "sP8Qt4oX94zuTPRPLPUO7ROELBQmmf/Xz61FoEtDpeM=",
           "cp38"
@@ -134928,6 +134980,10 @@
         ],
         "SimpleITK-2.1.1.2-cp39-cp39-macosx_10_9_x86_64.whl": [
           "5FcRxhhwLflw5b99Ro1RVOI78EqGHwbOH5ZAbfNb3n0=",
+          "cp39"
+        ],
+        "SimpleITK-2.1.1.2-cp39-cp39-macosx_11_0_arm64.whl": [
+          "FNBP9TQ9vKEsRNYZBSkuFKqlI9jLahiv8vzqa+78KKg=",
           "cp39"
         ],
         "SimpleITK-2.1.1.2-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
@@ -141632,6 +141688,30 @@
       "wheels": {
         "tfbuild-1.0.0-py3-none-any.whl": [
           "mhDdcbb/K16W+t8fgXx9yEKhArTzp3nf1DD/VIQ9kfU=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "YHOaI3oPxF5oXT7bamrxhrAZj9FFUqw+482zwX9YbtE=",
+        "tfbuild-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tfbuild-1.1.0-py3-none-any.whl": [
+          "XY1DNzIjbBvKp8nIMKAd0ZTaMo2qG7YYhjPBU4DYDSQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.1": {
+      "sdist": [
+        "FUIKBD6PysYv70AtWadEO0tk6wkDMpR+iH/D0eFtHKU=",
+        "tfbuild-1.1.1.tar.gz"
+      ],
+      "wheels": {
+        "tfbuild-1.1.1-py3-none-any.whl": [
+          "x4Mgp/Xtxeag+0eKinfLa5p7hO1B90gu8ulg1ZXAIPk=",
           "py3"
         ]
       }
