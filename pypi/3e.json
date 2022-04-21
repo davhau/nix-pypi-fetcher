@@ -5135,6 +5135,12 @@
         "84Fe4R/wTYIjCjGsSObJhRJ4l76lKAF5/7q4JUf/Ois=",
         "api.video-1.2.4.tar.gz"
       ]
+    },
+    "1.2.5": {
+      "sdist": [
+        "pKiqaeP0SQXrBdrGFkEePKnyGnCqcxhnbMb2vAvu2o4=",
+        "api.video-1.2.5.tar.gz"
+      ]
     }
   },
   "appiumbase": {
@@ -17553,6 +17559,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b20220421": {
+      "wheels": {
+        "bigdl_friesian_spark2-2.1.0b20220421-py3-none-macosx_10_11_x86_64.whl": [
+          "gIsstklWf6a1Z9QZzCPHIWrEAVhfJ7pIu8SN1+8VRZ0=",
+          "py3"
+        ],
+        "bigdl_friesian_spark2-2.1.0b20220421-py3-none-manylinux1_x86_64.whl": [
+          "tbDk+TWNgQsLVZnrhps6665JZ1QteBsTh4rqVr0710k=",
+          "py3"
+        ]
+      }
     }
   },
   "biggerquery-zombie": {
@@ -25432,6 +25450,18 @@
       "wheels": {
         "CodeChat-1.9.0-py3-none-any.whl": [
           "Ib6uMc+UiRXdzO8aWrcDhX+zzCfsGOh2+GohPksQU10=",
+          "py3"
+        ]
+      }
+    },
+    "1.9.1": {
+      "sdist": [
+        "Mj5AtAbkJvau+4GM+Gin/0zOrtwj9f1qFlXz3Xu79eY=",
+        "CodeChat-1.9.1.tar.gz"
+      ],
+      "wheels": {
+        "CodeChat-1.9.1-py3-none-any.whl": [
+          "dt2D8Tgspas3kj1XaqacWzIjj1YPCHADMalTWGgwOiQ=",
           "py3"
         ]
       }
@@ -68529,6 +68559,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "soH8Ee8C4O0t1YHEoOrZgPb/sLb1a1ZbECbE0OtjWA4=",
+        "geobeam-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "geobeam-0.3.0-py3-none-any.whl": [
+          "N2Gv0Tleoh311rxCDEobBJg07mdxKNJr3JGkt8u0pbo=",
+          "py3"
+        ]
+      }
     }
   },
   "geobinning": {
@@ -72070,6 +72112,14 @@
       "wheels": {
         "huaweicloudsdkswr-3.0.84-py2.py3-none-any.whl": [
           "BkREppyZUFt0YXmAEB/ukNSCOr/I29vlulxWuQ+ZOa4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.85": {
+      "wheels": {
+        "huaweicloudsdkswr-3.0.85-py2.py3-none-any.whl": [
+          "B0iVc8renWm3M2x/WKr1QTp1klZ6eemu5umN0qLzioo=",
           "py2.py3"
         ]
       }
@@ -104531,6 +104581,20 @@
       ]
     }
   },
+  "py-perf-timer": {
+    "0.1.0": {
+      "sdist": [
+        "5SbIbCLoPiQ4fZ68/GiRZ336ldp2MWdYUfwwOL5m45E=",
+        "py-perf-timer-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "py_perf_timer-0.1.0-py3-none-any.whl": [
+          "/kGJ0UDTWJ4puEN7Bw0aYo6QUhamFFuommouKO1IWHY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "py-search": {
     "0.1.0": {
       "sdist": [
@@ -107016,6 +107080,34 @@
         "pyfxr-0.3.0.tar.gz"
       ],
       "wheels": {
+        "pyfxr-0.3.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "yJoBevZHw/sRigmzUdmBCf5COQXsNXNceAwZ1CTL/c8=",
+          "cp310"
+        ],
+        "pyfxr-0.3.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Dj/0Trc6ROOb8Pzi8Oz5EWOa7YSTzbwW709ASPbQ4sg=",
+          "cp310"
+        ],
+        "pyfxr-0.3.0-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "rl2WXkxnDiYefDw5BUYaR9seqQBKwQnHe7JcMD4yXqc=",
+          "cp310"
+        ],
+        "pyfxr-0.3.0-cp310-cp310-musllinux_1_1_i686.whl": [
+          "Y90bGO8iKt6/2mpIcoIHfFtyXiY9HSXPVvb243d/NRw=",
+          "cp310"
+        ],
+        "pyfxr-0.3.0-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "XARUgRm81kq/4FozqXltDUoGoO/0f2bhmrvVktknaG0=",
+          "cp310"
+        ],
+        "pyfxr-0.3.0-cp310-cp310-win32.whl": [
+          "kHYgcJ574ekwmsdBsoNa3TnKVh5TYzwU4+jaHLBkdco=",
+          "cp310"
+        ],
+        "pyfxr-0.3.0-cp310-cp310-win_amd64.whl": [
+          "X+N7LJt3qLMzAfVPVXjZ/xIDW6CiSZydoCkurTOu+LM=",
+          "cp310"
+        ],
         "pyfxr-0.3.0-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "ZrQZfTkCcLdtXxOX/AOtJrXWe+qyUm9KHgEL2vP98PI=",
           "cp36"
@@ -107026,6 +107118,22 @@
         ],
         "pyfxr-0.3.0-cp36-cp36m-manylinux1_x86_64.whl": [
           "dWoRnI5QZUnYALRhnpoDiFQYHuE2fs3T2VrQvG1BLMw=",
+          "cp36"
+        ],
+        "pyfxr-0.3.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BWMXNxYjr6vREwa6RlPlI6xdnJL+BsCwjhJYM89UAlI=",
+          "cp36"
+        ],
+        "pyfxr-0.3.0-cp36-cp36m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "2p+ZlzGTHXyiTIjjwK8LBMqh9t9y9Dcv/W3RINLN3GA=",
+          "cp36"
+        ],
+        "pyfxr-0.3.0-cp36-cp36m-musllinux_1_1_i686.whl": [
+          "FPYLhB+lQwe1hlGKy3zra/qZCQwnwPYI3zVLYheJ17Q=",
+          "cp36"
+        ],
+        "pyfxr-0.3.0-cp36-cp36m-musllinux_1_1_x86_64.whl": [
+          "LIVzUP5/1gK+fHTTjQsFKAuPzoazWy/hVv1PxQk6Sr4=",
           "cp36"
         ],
         "pyfxr-0.3.0-cp36-cp36m-win32.whl": [
@@ -107048,6 +107156,22 @@
           "ZUL53jJczynI3JLUUcz2oW6Jqqw7LQTWXXZvy+TLtkg=",
           "cp37"
         ],
+        "pyfxr-0.3.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Hk5Z6rPe0vjbTxAn9M8EqCP4o9QmykuX+Ne397FtBbs=",
+          "cp37"
+        ],
+        "pyfxr-0.3.0-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "JeSbOqrhLKpMEnYkTFzhEOfLoohBJNnpXe+8qen9mJA=",
+          "cp37"
+        ],
+        "pyfxr-0.3.0-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "eUovLxFK7LiwwjWIXjn0WZXj4OGRGa4csPgrhnp7RTs=",
+          "cp37"
+        ],
+        "pyfxr-0.3.0-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "SBwFq+wpTVWppfRqGH98g7p/XqOLyAgivJMcuhOo0X0=",
+          "cp37"
+        ],
         "pyfxr-0.3.0-cp37-cp37m-win32.whl": [
           "dug7WTEt7Mv54rx3KTG+3nrd7aiRZx1RDF91aVg06aE=",
           "cp37"
@@ -107068,6 +107192,22 @@
           "c19MMz9BpfSy67jKdn5UQGXLVuWETSQ2jT4sl+ut1qI=",
           "cp38"
         ],
+        "pyfxr-0.3.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XOt6/XdiVt4DC+gwNfLRp+HEp76Vbm5Ixl+Rf9FOI3E=",
+          "cp38"
+        ],
+        "pyfxr-0.3.0-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "xx6zIRnNZ0JPRsgbBf7mSF1ZEj5sIXpCtfSqAAzNH40=",
+          "cp38"
+        ],
+        "pyfxr-0.3.0-cp38-cp38-musllinux_1_1_i686.whl": [
+          "0HC7DvfwhPJazNtzeNrmDo9zoh5Ug8ANengJRLiTwL0=",
+          "cp38"
+        ],
+        "pyfxr-0.3.0-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "F/Hn2PR9C4ynMBrhertggSL1MxX1BBjA4yopGWkkMd8=",
+          "cp38"
+        ],
         "pyfxr-0.3.0-cp38-cp38-win32.whl": [
           "LRvM69uU+7uTbi2F8SJdFmQESW3y2oVJRDHHbWcwTwk=",
           "cp38"
@@ -107086,6 +107226,22 @@
         ],
         "pyfxr-0.3.0-cp39-cp39-manylinux1_x86_64.whl": [
           "tPeZyguTp/hKkWlS6GMqamdTeVw8Df5xD5Zd2xryHK8=",
+          "cp39"
+        ],
+        "pyfxr-0.3.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BkwWk8uTFFPZI5r8c1gqLzWGA9DZ0q3a+jKijd565pY=",
+          "cp39"
+        ],
+        "pyfxr-0.3.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "6A/l8KH+oulAwMZyRZ1bgHnfubV/I2NF31PFu6XZ1Rk=",
+          "cp39"
+        ],
+        "pyfxr-0.3.0-cp39-cp39-musllinux_1_1_i686.whl": [
+          "fZIOr6Mqr8uDYyU4eaF1kbAQC+WTWAjJBkV/l13ODW8=",
+          "cp39"
+        ],
+        "pyfxr-0.3.0-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "zQWUVJQaOjPuiSSuDelk3mZ076rO9fyxasg3NoVJ604=",
           "cp39"
         ],
         "pyfxr-0.3.0-cp39-cp39-win32.whl": [
@@ -107124,9 +107280,53 @@
           "oXq5O9KDlamt6hqTm+wlW8No5Do9CIDDABwnpLKBGT8=",
           "pp37"
         ],
+        "pyfxr-0.3.0-pp37-pypy37_pp73-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "4QK1E4gNAs6+97DyeSplWwM3r3F0nCRNbfIxOfiayJo=",
+          "pp37"
+        ],
+        "pyfxr-0.3.0-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Fj/8QTni4Ul0FLyClAKR2HIf3If+JvO/Jieo9H4qbLM=",
+          "pp37"
+        ],
         "pyfxr-0.3.0-pp37-pypy37_pp73-win32.whl": [
           "226klCNguEEnpTTKsWCJDd8Y4CsS3BnLduhEL3c29pA=",
           "pp37"
+        ],
+        "pyfxr-0.3.0-pp37-pypy37_pp73-win_amd64.whl": [
+          "y65lXlSvPojsdffkRieY3DMBuoNVh7t5ptUk2ss7yK4=",
+          "pp37"
+        ],
+        "pyfxr-0.3.0-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "GfL7CmpNDelMPNVWF899v9DAwhgT+mRJuWksBwuL8Gg=",
+          "pp38"
+        ],
+        "pyfxr-0.3.0-pp38-pypy38_pp73-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "hyD1f6G7hflg6gAm3lzKUaJuFLi9i07XpN2TJr1/llQ=",
+          "pp38"
+        ],
+        "pyfxr-0.3.0-pp38-pypy38_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YUmrn14MKDHaxwHcdgwF8kHjuzZ4tv68FxS1DXWq+SM=",
+          "pp38"
+        ],
+        "pyfxr-0.3.0-pp38-pypy38_pp73-win_amd64.whl": [
+          "hOKuLJ73Da+4B0EXy/ZVY0H/mTVxACO7FFLWKFRp6F8=",
+          "pp38"
+        ],
+        "pyfxr-0.3.0-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "bLenktuFVEXQXTZMeVzmEdnWu7b6xZ+v5Qb5msygz2g=",
+          "pp39"
+        ],
+        "pyfxr-0.3.0-pp39-pypy39_pp73-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "WSBW3pc3Ah7yLftTbLtJob2Zmq+z/jygdghM+24+wSA=",
+          "pp39"
+        ],
+        "pyfxr-0.3.0-pp39-pypy39_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BoatQHXoN6XldkbCXQ8ck3ncV4+fjQVKzRIP629GN+U=",
+          "pp39"
+        ],
+        "pyfxr-0.3.0-pp39-pypy39_pp73-win_amd64.whl": [
+          "QCYWqJVSII4430kkIdt9dD1+RzeztfI3aJV8aqpadZM=",
+          "pp39"
         ]
       }
     }
@@ -130599,6 +130799,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.0": {
+      "sdist": [
+        "To+OW8Ep6Qy3+Hc4yjil3oIRAhdF6nTTPr1SBjIioqM=",
+        "swh.loader.core-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "swh.loader.core-3.0.0-py3-none-any.whl": [
+          "5xWHXXZvL3CJ+zQZQWMlJx/IzSB8XPxIyiWs7kX1cFU=",
+          "py3"
+        ]
+      }
     }
   },
   "switchyard": {
@@ -148891,6 +149103,12 @@
           "py2.py3"
         ]
       }
+    },
+    "0.1.6": {
+      "sdist": [
+        "6kmhElAPNwQ5L9sELH4H8mnNt7Roi6+3HiIUMcOgs9Y=",
+        "wikimapper-0.1.6.tar.gz"
+      ]
     }
   },
   "wildflower-honeycomb-sdk": {
