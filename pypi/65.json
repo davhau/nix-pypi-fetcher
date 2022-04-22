@@ -5087,6 +5087,18 @@
           "py3"
         ]
       }
+    },
+    "1.153.0": {
+      "sdist": [
+        "ff3sGRvqsLDsJGsIoOsBp3IstzNAilh6h07PnpHP348=",
+        "aws-cdk.aws-cur-1.153.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cur-1.153.0-py3-none-any.whl": [
+          "991lE6PiO1w6hco0x2EpiGTnSW5sAIAG6n3syfhOmc0=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-parameter-store": {
@@ -37446,6 +37458,48 @@
       "sdist": [
         "PGD3PdHE1sDgvnxz8xepWygSCAldxpiJlJX6GbBtLUo=",
         "DjangoTemplateConverter-1.4.tar.gz"
+      ]
+    },
+    "1.5": {
+      "sdist": [
+        "/+vgsnWsNp76L3HPXq4/X7JVOqqZIYXcMqDvFsVw9TE=",
+        "DjangoTemplateConverter-1.5.tar.gz"
+      ]
+    },
+    "1.6": {
+      "sdist": [
+        "Dp9MyiQ+uGcn0kSll0sxangfWbDW2tC5qLkSn7uYql8=",
+        "DjangoTemplateConverter-1.6.tar.gz"
+      ]
+    },
+    "2.0": {
+      "sdist": [
+        "PAI+skYDjdM5yRJ0lb1u9gYYwoeY2iWpoFq8AHtxps4=",
+        "DjangoTemplateConverter-2.0.tar.gz"
+      ]
+    },
+    "2.1": {
+      "sdist": [
+        "ZNPbM+kXRdRSuM+JBss8mhCzwsqjvo0z91p88nt9sok=",
+        "DjangoTemplateConverter-2.1.tar.gz"
+      ]
+    },
+    "2.2": {
+      "sdist": [
+        "IWmWua+G81TM8IlVVUsGgixeHrJTboornU5ZOb9EB2Y=",
+        "DjangoTemplateConverter-2.2.tar.gz"
+      ]
+    },
+    "2.3": {
+      "sdist": [
+        "l/8JX+5VNVgvLQMJfkntyjjU3Fv2X8Iq1g+BifibyJM=",
+        "DjangoTemplateConverter-2.3.tar.gz"
+      ]
+    },
+    "2.4": {
+      "sdist": [
+        "YaJkzc+NazBLi3ROuUxZTyw+tKzO3BvhNdrZmxh6XFw=",
+        "DjangoTemplateConverter-2.4.tar.gz"
       ]
     }
   },
@@ -90945,6 +90999,12 @@
         "p1rFPvtgXejF5RpYG/gagL0p/H+ut+CZALFK530SgWM=",
         "pulumi_dnsimple-3.4.0a1648830014.tar.gz"
       ]
+    },
+    "3.4.0a1650644586": {
+      "sdist": [
+        "Zef1upqVHpXU/BrSPuAcNMVpgK86opuVWyG1mZNtjLQ=",
+        "pulumi_dnsimple-3.4.0a1650644586.tar.gz"
+      ]
     }
   },
   "pulumi-docker": {
@@ -118356,6 +118416,58 @@
         ],
         "tensorflow_text_nightly-2.10.0.dev20220421-cp39-cp39-win_amd64.whl": [
           "uXKB88IvgZyb0NJy7qJFhvRKB2COJO//ywmFLC/Jzbs=",
+          "cp39"
+        ]
+      }
+    },
+    "2.10.0.dev20220422": {
+      "wheels": {
+        "tensorflow_text_nightly-2.10.0.dev20220422-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "s01FSR4qw+YHKe+ffrRwHEQq8GKVhIBkPLWvl6u1L54=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.10.0.dev20220422-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PmMdTKeuKBG74D3b9TZKeI6WNmWTB81hFxMQ5Ie5d6w=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.10.0.dev20220422-cp310-cp310-win_amd64.whl": [
+          "ieN0MXSKujMzapY8Ve5G53slXLpnvwuRQZA6ERv0gOY=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.10.0.dev20220422-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "pRRPdWBSu5sX7oNEky6oEgw5ytphwsVUXqnvoFF0TqI=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.10.0.dev20220422-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xuzNJXu3nRLs+LK73oT+04yetUzzERS/Nf7CjMo/rds=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.10.0.dev20220422-cp37-cp37m-win_amd64.whl": [
+          "69QncxMniN+jZAfEV0/lvmsoO81scH4wZvCKDl0OdzM=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.10.0.dev20220422-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "nmXh/pMZ/OyUluks/URECl0+yfZRnWuWZG9vDcDtcnk=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.10.0.dev20220422-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Ix7+oGXF99t7hbeL1CxjWkOsqtE1JnMi12LUZ6Rmfdc=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.10.0.dev20220422-cp38-cp38-win_amd64.whl": [
+          "78K4Gqf6jAyqrptuWUdo/nr6861ofuAmHPxMsFD+h0g=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.10.0.dev20220422-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "o2tLyMreACNS7c47t481JmIflSrfk7PZ2gl+J6b9VQk=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.10.0.dev20220422-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hqN7Yuw7csDp3wZ9FwZyZX39/mgunyWAWfu8mmYYHrE=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.10.0.dev20220422-cp39-cp39-win_amd64.whl": [
+          "tz7dWYLCOFGTcn0cNtkckL3lqVl9YfxZOSpYoPqX8xk=",
           "cp39"
         ]
       }
