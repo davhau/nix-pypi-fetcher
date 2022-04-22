@@ -56239,6 +56239,12 @@
         "/7l3atXfuE1YlmkuqOkHjEz9NT2towaDadGiRUPHyY0=",
         "mmcv-1.4.8.tar.gz"
       ]
+    },
+    "1.5.0": {
+      "sdist": [
+        "NX6NOkwr+TiDRjTtldBbJu4USlwW99Wv0Jg2BZRNBBI=",
+        "mmcv-1.5.0.tar.gz"
+      ]
     }
   },
   "mmir": {
@@ -56524,6 +56530,18 @@
       "wheels": {
         "momento_wire_types-0.12.0-py3-none-any.whl": [
           "LW5Ra9c4R/3B4T07cLpX83XbcaX5uBCDmQu1pDmXDoY=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.1": {
+      "sdist": [
+        "lx3QQhmoSkKH3Qa66RSeenB0TDhdsDZiP0a7RooFa4k=",
+        "momento-wire-types-0.12.1.tar.gz"
+      ],
+      "wheels": {
+        "momento_wire_types-0.12.1-py3-none-any.whl": [
+          "I+l+R98GPqCWlBzEasgHdX5eUxdARs8iRfIYLm75Sv8=",
           "py3"
         ]
       }
@@ -77398,6 +77416,18 @@
         ]
       }
     },
+    "3.1.6.dev12": {
+      "sdist": [
+        "a4Q734aLmsFmWQ69NFUCsL5QUkkRX4nSCrCJaU22ERs=",
+        "moto-3.1.6.dev12.tar.gz"
+      ],
+      "wheels": {
+        "moto-3.1.6.dev12-py2.py3-none-any.whl": [
+          "baRY9C1GEj5/Vx2AE5Q13O3tqcLTEY0PbEPKahwRxmA=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.1.6.dev2": {
       "sdist": [
         "3OrxaT9ikuoAJG4UlostVpslSFiem4Lc1b03OzYtkC8=",
@@ -93739,6 +93769,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.0": {
+      "sdist": [
+        "79lTw1zY1Vu7PsZzQYlKrJTrsbSJZrs0DAYcuJk2kw4=",
+        "novalabs-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "novalabs-0.3.0-py3-none-any.whl": [
+          "XERUyV0qD6RpP3NEWn3L8Ija0lqOfMQAXIve0eoQy6w=",
+          "py3"
+        ]
+      }
     }
   },
   "novelpy": {
@@ -106606,122 +106648,38 @@
     }
   },
   "practicuscore": {
-    "22.3.25": {
+    "22.4.21": {
       "wheels": {
-        "practicuscore-22.3.25-cp310-none-macosx_10_9_x86_64.whl": [
-          "iXKkd5niPZ0ex2Mk54waLeDh9aN9QvToL15lzlo11Q0=",
+        "practicuscore-22.4.21-cp310-none-macosx_10_9_x86_64.whl": [
+          "eEwAXqUPoY2mSjZzJzoxJIr9L9KfkIGTeLfSYawZ+9I=",
           "cp310"
         ],
-        "practicuscore-22.3.25-cp310-none-win_amd64.whl": [
-          "LJ6hvRSNHYp8aDHxZ0Y7RUa0Ke5h7xMFqrBSXIE/ZB0=",
+        "practicuscore-22.4.21-cp310-none-win_amd64.whl": [
+          "BerFgbF1sPlsDG+lgNmOeG2S8/mS0+GV4ete8x9VOlI=",
           "cp310"
         ],
-        "practicuscore-22.3.25-cp37-none-macosx_10_9_x86_64.whl": [
-          "+3Ks2ZODiRPvKypvLgplUlU2RGNNG1imaf3NH0W4yAQ=",
+        "practicuscore-22.4.21-cp37-none-macosx_10_9_x86_64.whl": [
+          "eejhOwv5/k/pbx4w10JSJRKvVJB0DQGvA8HbVgbExrk=",
           "cp37"
         ],
-        "practicuscore-22.3.25-cp37-none-win_amd64.whl": [
-          "tH9kon+BVbftZ4gYCP91k5e4M8H27/TAfWBJWmIetOo=",
+        "practicuscore-22.4.21-cp37-none-win_amd64.whl": [
+          "GCrusfC/fqJtUYrpNzbrb4S3y0kvs9PrCFLkPYbBY2w=",
           "cp37"
         ],
-        "practicuscore-22.3.25-cp38-none-macosx_10_9_x86_64.whl": [
-          "UyOerQaIz1DN1L/L9E6AE1I1t/SkEWvz+NLRyEkC+4I=",
+        "practicuscore-22.4.21-cp38-none-macosx_10_9_x86_64.whl": [
+          "J+UAF/S8UXRmthzAlCW9UImFeBrt4JRsCYx3dYKjS4Y=",
           "cp38"
         ],
-        "practicuscore-22.3.25-cp38-none-win_amd64.whl": [
-          "DlOQnvYUkY6nCJOzD5ECVfXbt2cQZlQ3GbFxvS0OL2g=",
+        "practicuscore-22.4.21-cp38-none-win_amd64.whl": [
+          "4v2p/K0TiRQIwMRNcpkvsREBTXKBDQa0Wf2mM178hCs=",
           "cp38"
         ],
-        "practicuscore-22.3.25-cp39-none-macosx_10_9_x86_64.whl": [
-          "LriuiShUi0Lgw/MbAHC/hI2Z6qGo3D5D6NcumfO4ikg=",
+        "practicuscore-22.4.21-cp39-none-macosx_10_9_x86_64.whl": [
+          "EhpJDsAzqz8+aLjDZqybQOCVOfkZSBpb3eCQSCg6jxw=",
           "cp39"
         ],
-        "practicuscore-22.3.25-cp39-none-win_amd64.whl": [
-          "BrDzyXMhQp0e43/CYX1E660lWk0N+N3UAGUtm4wtdb4=",
-          "cp39"
-        ]
-      }
-    },
-    "22.4.13": {
-      "wheels": {
-        "practicuscore-22.4.13-cp39-none-macosx_10_9_x86_64.whl": [
-          "vy9m8Kd9ZY9suJMeOfBPDIraMdgQ2XcXsUUz0PfgYbI=",
-          "cp39"
-        ]
-      }
-    },
-    "22.4.18": {
-      "wheels": {
-        "practicuscore-22.4.18-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "PZAbSJZr4D1Mq3pA5qXkUQycQL+GQmcosWeS0BA9Rtg=",
-          "cp310"
-        ],
-        "practicuscore-22.4.18-cp310-cp310-musllinux_1_1_x86_64.whl": [
-          "edzyYFFrVaoowEbiFYr8tEovjWIVxHuJ6gopfjUqJrA=",
-          "cp310"
-        ],
-        "practicuscore-22.4.18-cp310-none-macosx_10_9_x86_64.whl": [
-          "nhb0tfo0P8o1EenXqH9hfKSYgmB2MQWBTPAC0ahEEVo=",
-          "cp310"
-        ],
-        "practicuscore-22.4.18-cp310-none-win_amd64.whl": [
-          "K3FLJqDXKCOQVyHdFE7yf1wEvnStF5JvuJg6cwBr6vE=",
-          "cp310"
-        ],
-        "practicuscore-22.4.18-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "TUSraxcmkoMeQcXdS4xWCMjhJLJgsRBKelVGQqmsHX8=",
-          "cp36"
-        ],
-        "practicuscore-22.4.18-cp36-cp36m-musllinux_1_1_x86_64.whl": [
-          "1TTPzYs6PRAeJodG0nJguuGZL3SExLiCU+VGIWdfCTY=",
-          "cp36"
-        ],
-        "practicuscore-22.4.18-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "x/hb58aSasdRPQkUeIu/AdabEItCAWkH2xdv3wrsb20=",
-          "cp37"
-        ],
-        "practicuscore-22.4.18-cp37-cp37m-musllinux_1_1_x86_64.whl": [
-          "OA+YLobRWJDjJG3qzc/qJKzXVT3qEC2q1dA6rA2+bZ8=",
-          "cp37"
-        ],
-        "practicuscore-22.4.18-cp37-none-macosx_10_9_x86_64.whl": [
-          "YJ5shsm8qlA8YaasZoZRb9yOpIEzLG1h2XDDDmcsBd8=",
-          "cp37"
-        ],
-        "practicuscore-22.4.18-cp37-none-win_amd64.whl": [
-          "U5sTQHAg4q+ii938HhocSQ6o93ZpMrrDJ5PUxcLx9LA=",
-          "cp37"
-        ],
-        "practicuscore-22.4.18-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "FINYT/jjc3D5rafiMHfNswGyyKAWc+fAsuMT0E9xTtw=",
-          "cp38"
-        ],
-        "practicuscore-22.4.18-cp38-cp38-musllinux_1_1_x86_64.whl": [
-          "1I5DSmMPPTmSxhxzkgLGp6HxsZhu2WcLcSFpJpPuVjo=",
-          "cp38"
-        ],
-        "practicuscore-22.4.18-cp38-none-macosx_10_9_x86_64.whl": [
-          "grl91r8qOOFIG4kmvKJl/hsSRPDaur3xIoPZnBgoMDM=",
-          "cp38"
-        ],
-        "practicuscore-22.4.18-cp38-none-win_amd64.whl": [
-          "a/AdOL9MxgisHmaUrShhg87i7YT4cKSy1FObdpjYbo0=",
-          "cp38"
-        ],
-        "practicuscore-22.4.18-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "6pEcvtGWCd+bINAvevmEp972YqVGm5HFNFPBYqe/rH4=",
-          "cp39"
-        ],
-        "practicuscore-22.4.18-cp39-cp39-musllinux_1_1_x86_64.whl": [
-          "qyHRGtXKHfTnV2WsonktS0Y1sruvMXpY+Et+JU1UAD0=",
-          "cp39"
-        ],
-        "practicuscore-22.4.18-cp39-none-macosx_10_9_x86_64.whl": [
-          "+hZIJ8OKXcZI7XGg8hYTRiNIAay2YjD4Bzfd5H8hn/g=",
-          "cp39"
-        ],
-        "practicuscore-22.4.18-cp39-none-win_amd64.whl": [
-          "AFGUlBxSQ1lSTmXHUdv4fkiugJS17UiLZhkihJfSKIc=",
+        "practicuscore-22.4.21-cp39-none-win_amd64.whl": [
+          "8q9jonzwXvbuLiWJrSQNJN8Xp73rmc3dimPlpQrswTU=",
           "cp39"
         ]
       }
@@ -130632,6 +130590,30 @@
       "wheels": {
         "telefone_types-6.0.0.1-py3-none-any.whl": [
           "GQ/6yWxXLT+OoPr/soG5XbzatiFzBN5St7Gwyed/XpQ=",
+          "py3"
+        ]
+      }
+    },
+    "6.0.0.10": {
+      "sdist": [
+        "PrFgKl6hhNzfUKRoMUOkHHUwFKRvT5rNVgHz3GLaRvI=",
+        "telefone-types-6.0.0.10.tar.gz"
+      ],
+      "wheels": {
+        "telefone_types-6.0.0.10-py3-none-any.whl": [
+          "GDJAXUc1+340rmny7e007dxjVQyUWx2vfAt5gWVgO5k=",
+          "py3"
+        ]
+      }
+    },
+    "6.0.0.11": {
+      "sdist": [
+        "2bk0rqmn1qbNIdqS1Y3gnQadDte+fH7/ZpZibAPmNS0=",
+        "telefone-types-6.0.0.11.tar.gz"
+      ],
+      "wheels": {
+        "telefone_types-6.0.0.11-py3-none-any.whl": [
+          "SHhXoaMTlZqWpOwas+JEYo66INBbvWOYgQoqaXKrDus=",
           "py3"
         ]
       }

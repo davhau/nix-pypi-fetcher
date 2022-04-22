@@ -33406,6 +33406,18 @@
         ]
       }
     },
+    "2.0.5rc5": {
+      "sdist": [
+        "pBHcO7LxDuLkWXG4SLXAFrS8L37ioIquhdFlsLyaWsU=",
+        "django-postgres-extra-2.0.5rc5.tar.gz"
+      ],
+      "wheels": {
+        "django_postgres_extra-2.0.5rc5-py3-none-any.whl": [
+          "HMcylog6eIPjrfPi9wHOeFekpJN+tiChiU76+qIvu2s=",
+          "py3"
+        ]
+      }
+    },
     "2.0a10": {
       "sdist": [
         "pKd4zl1Dqms2mFGZQIR7g2JuvQjaSKY+5Dv4QK0Bjzg=",
@@ -36471,6 +36483,18 @@
         "YvkWfDT0MLuWNtd3QZDO8vIcBiH+u3T0LgKU/Eme7EU=",
         "document-utils-1.7.2.tar.gz"
       ]
+    },
+    "1.8.1": {
+      "sdist": [
+        "QQKecFUT5TLopiZb0kNAl47rvjCJqL6Jx3nnj3igcQs=",
+        "document-utils-1.8.1.tar.gz"
+      ],
+      "wheels": {
+        "document_utils-1.8.1-py3-none-any.whl": [
+          "pZo+OC43jlCQR6OigNty+cHun3sTlRFyS6dE6SlwGVs=",
+          "py3"
+        ]
+      }
     }
   },
   "donuts": {
@@ -101898,6 +101922,86 @@
         ],
         "rdkit_pypi-2022.3.1-cp39-cp39-win_amd64.whl": [
           "txKmOQTDP2BNXQz9pHp9VCGtnkXFRuHF2jHAN+06GYg=",
+          "cp39"
+        ]
+      }
+    },
+    "2022.3.1.1": {
+      "wheels": {
+        "rdkit_pypi-2022.3.1.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "kYSkofpz7oXXnd30wu2zM/qc44EjHjAv024IwXieRHU=",
+          "cp310"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "f5MarYHIoLS2nhQya7OCOxXI1NudvdZ5ZALsMJhO/XM=",
+          "cp310"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "R+Qw35qXhvhmfFOOBSFocRGEv3MUIxy6L3XujhitYQo=",
+          "cp310"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "KTaflTb6C3nBdAF+Z1DSRXoS43i88cCwC6HaaFqeEkY=",
+          "cp310"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp310-cp310-win_amd64.whl": [
+          "Ovv0L9CyY3eussiUxnIVxNkTr433t0hr5iXH6dUb1rI=",
+          "cp310"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "Dwm1ik5/yyLQ0BUOuEh212gz9jzRrZLF6p6/sgEeKU0=",
+          "cp37"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "KbYKaslz534nWRkoMHMj25BkEE/LrSfEzNeEr9VHp5A=",
+          "cp37"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wMReaZ16pEZUjLmMeroMe9ysFsTg0+uAsNVeY3LParc=",
+          "cp37"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp37-cp37m-win_amd64.whl": [
+          "IulTggdDl26ECVRSF9O2bPggLqvt+rJv40SAa+oaOd8=",
+          "cp37"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "hrBt3T5rxz6a8lEYSN+dgrkn3nMjVj/kIQEla0JPvtQ=",
+          "cp38"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "RAOgg98DjanLoiK7GrSqU+/GJvk9WyGQqjvok0/rSYo=",
+          "cp38"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "y5KI19W/gIaZNkld3bLLZCnUDb6cnx77WAea93pUIg0=",
+          "cp38"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FS3sHxp604nyHXr+Pj8esVxFh3WnrRZMoR/xIceFLUo=",
+          "cp38"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp38-cp38-win_amd64.whl": [
+          "Fo2/kIJnpfsFQye8U5a6nINYNoei6KJlzW8y7br0+lQ=",
+          "cp38"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "ywB6Vu1W5HfwibZzX7o9hdmkw6D3xJusN6M+AgbPx2c=",
+          "cp39"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "t3V/yZoUVBMIW0GHPkVuS5z+SKlBwaBZ3uXJejYTDN0=",
+          "cp39"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "bZYsCpk9zxmMY/YpxOY/rOuBCOKNrllOSzOpj9jgFf8=",
+          "cp39"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zbZZRaVYm4LsHUf0xYon7eEpPxmCHZYPVtvR19Y1q+g=",
+          "cp39"
+        ],
+        "rdkit_pypi-2022.3.1.1-cp39-cp39-win_amd64.whl": [
+          "+uWzineZzNvsXyXnn69IY7Ag8MOa1x0caqIFNgnLDVg=",
           "cp39"
         ]
       }
