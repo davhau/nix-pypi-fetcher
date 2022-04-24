@@ -28701,6 +28701,14 @@
       ]
     }
   },
+  "docsilhouette": {
+    "0.1.0": {
+      "sdist": [
+        "d2ha7kMi6NRpvxxjjXryL1qbAJlMA435HT0XKgubsa4=",
+        "docSilhouette-0.1.0.tar.gz"
+      ]
+    }
+  },
   "docums-localsearch": {
     "1.0": {
       "sdist": [
@@ -44800,6 +44808,18 @@
         ]
       }
     },
+    "0.0.71": {
+      "sdist": [
+        "V27ImW2KILqJLzJEorEVO1Wjs3NaaWeQCNJ3NlPQYc0=",
+        "htsct-0.0.71.tar.gz"
+      ],
+      "wheels": {
+        "htsct-0.0.71-py3-none-any.whl": [
+          "p6vh0UhpsUoIwVFTtrEKSvB5MSO378CQx8dkXVxUUYA=",
+          "py3"
+        ]
+      }
+    },
     "0.0.8": {
       "sdist": [
         "ohqTznjcJRCaehRcPCZTOVwH7q6YxCKmTmY9QZZXIBQ=",
@@ -55826,6 +55846,22 @@
         ],
         "mindspore_cuda11_dev-1.7.0.dev20220418-cp39-cp39-manylinux1_x86_64.whl": [
           "PkpulHfx2UrhmO6DS27vfG8GNH1qglOjkXt1AYDsBkY=",
+          "cp39"
+        ]
+      }
+    },
+    "1.7.0.dev20220424": {
+      "wheels": {
+        "mindspore_cuda11_dev-1.7.0.dev20220424-cp37-cp37m-manylinux1_x86_64.whl": [
+          "quI24mIGoFZsfQKvxwA+8R6uvN+s8hvIheCy7vt94Cw=",
+          "cp37"
+        ],
+        "mindspore_cuda11_dev-1.7.0.dev20220424-cp38-cp38-manylinux1_x86_64.whl": [
+          "LTHbgEcEplZni/PwyQXXtJWjxO3RwC50xJFw+XAXZYY=",
+          "cp38"
+        ],
+        "mindspore_cuda11_dev-1.7.0.dev20220424-cp39-cp39-manylinux1_x86_64.whl": [
+          "QfFmHXnGtpETEziuxwbhu3khAhk/LP6y1I/kn9i5v4Q=",
           "cp39"
         ]
       }
@@ -69260,12 +69296,56 @@
         "paddle_bfloat-0.1.2.tar.gz"
       ],
       "wheels": {
+        "paddle_bfloat-0.1.2-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "l0eOD2dunZaZEDCjebQgKlG+Kj17m64T3JntUU9X57Q=",
+          "cp310"
+        ],
+        "paddle_bfloat-0.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jjXQ39QHL1ZSS6vcihsRS2lE6H4LXsaj/dZg7PuKIuI=",
+          "cp310"
+        ],
+        "paddle_bfloat-0.1.2-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "/DG3AonxZwlqeiO8XmlsEcH6yqS08uHPWv3HtQa24pU=",
+          "cp310"
+        ],
+        "paddle_bfloat-0.1.2-cp310-cp310-musllinux_1_1_i686.whl": [
+          "fYreWjllL1FXGbOA5HjcyBrzRjC8eGYSqFJBO+xn8wM=",
+          "cp310"
+        ],
+        "paddle_bfloat-0.1.2-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "Fh8sqy/iQ15HfT9xkDQfAZIHc6OkdzRDgHcmnWAs5SE=",
+          "cp310"
+        ],
+        "paddle_bfloat-0.1.2-cp310-cp310-win32.whl": [
+          "N10tov/kdvLX9nA3AapsgAAXZqRQdg7f+OOAVXiaZ9I=",
+          "cp310"
+        ],
+        "paddle_bfloat-0.1.2-cp310-cp310-win_amd64.whl": [
+          "HIQSUwdFunGbPl2PaBKr48AgDV82wFXgbAXNB3MHIuM=",
+          "cp310"
+        ],
         "paddle_bfloat-0.1.2-cp36-cp36m-macosx_10_9_x86_64.whl": [
           "9UAjKdsQehe1sdrCWi0Hwo+PKm5Pt+H2u5smcH/FEo0=",
           "cp36"
         ],
+        "paddle_bfloat-0.1.2-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Y6Tg//6Z9xxdx9HO7PckXSmSOFyjxo2p4+pD+tpzDkM=",
+          "cp36"
+        ],
         "paddle_bfloat-0.1.2-cp36-cp36m-manylinux_2_27_x86_64.whl": [
           "cv8JQ7uFjt1S1+RMrW7d7M+6KtGaucWwu4Fv/dW/fpo=",
+          "cp36"
+        ],
+        "paddle_bfloat-0.1.2-cp36-cp36m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "dreZ81XkqeoXlmIdeCsX6ov0yejLC/yrw4yF4ERzwXc=",
+          "cp36"
+        ],
+        "paddle_bfloat-0.1.2-cp36-cp36m-musllinux_1_1_i686.whl": [
+          "Snau9mHd17TDOrIvqjM2LMBCmfCAi1fsXXq+87RgdFM=",
+          "cp36"
+        ],
+        "paddle_bfloat-0.1.2-cp36-cp36m-musllinux_1_1_x86_64.whl": [
+          "An/DdXaIGQ5/2ZfxbtKG/Wj9Fslo8Lfs7d0dcnWfrDI=",
           "cp36"
         ],
         "paddle_bfloat-0.1.2-cp36-cp36m-win32.whl": [
@@ -69280,8 +69360,24 @@
           "jQ5yIg07r5RKM/dwsHB0VxvOiFG6f1CaVcLWM3e31nM=",
           "cp37"
         ],
+        "paddle_bfloat-0.1.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "a5sHK3YN7D1q9efywxJr4KkH8h0ZePqGArouThC3Se8=",
+          "cp37"
+        ],
         "paddle_bfloat-0.1.2-cp37-cp37m-manylinux_2_27_x86_64.whl": [
           "ZPYdYEE2LFzC5KeHxi8heN59qg+td2lvLJhiyf8dvd4=",
+          "cp37"
+        ],
+        "paddle_bfloat-0.1.2-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "6lPk9E3k4Sb4ia7ge57Eg1QMBJCs9txRKD1yLpJ035Q=",
+          "cp37"
+        ],
+        "paddle_bfloat-0.1.2-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "dHeX1P/Sts6lmpq5wr7wZgJr3pB+H4UqarE64zsirBQ=",
+          "cp37"
+        ],
+        "paddle_bfloat-0.1.2-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "ptY2a8TQN7vxuDFBlfkJp//7TnCIfZ3cwg6Bb4agI9c=",
           "cp37"
         ],
         "paddle_bfloat-0.1.2-cp37-cp37m-win32.whl": [
@@ -69296,8 +69392,24 @@
           "XdSSQ+DDzuUWvTrWDq43GHwjK+bivBFVPdzunmQEOqo=",
           "cp38"
         ],
+        "paddle_bfloat-0.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "W7GJbTVLMS+cShzWrQNWYXCTq8hRxSlRgnhgPMbggiM=",
+          "cp38"
+        ],
         "paddle_bfloat-0.1.2-cp38-cp38-manylinux_2_27_x86_64.whl": [
           "OoAHEPLzUd1zQjtbqhHOdcG3dwHag3qJBunG05MTWJ8=",
+          "cp38"
+        ],
+        "paddle_bfloat-0.1.2-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "MaPoN9hJuqxamV8idB333dKCHN7igwlEHmNnZ+xRwHQ=",
+          "cp38"
+        ],
+        "paddle_bfloat-0.1.2-cp38-cp38-musllinux_1_1_i686.whl": [
+          "RnfRQUd7aHRIWECxsZt4ZCcs3/GjZXO66zoHuwXGGIY=",
+          "cp38"
+        ],
+        "paddle_bfloat-0.1.2-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "Kzh0Ma1aVSxhQJ/gUfKBw8bmKJqrrg9bj60vMNw0v+o=",
           "cp38"
         ],
         "paddle_bfloat-0.1.2-cp38-cp38-win32.whl": [
@@ -69312,8 +69424,24 @@
           "XPZtjW6hBck57FKVsfFrDe9Bvlon2wNxZTEEZMCuAac=",
           "cp39"
         ],
+        "paddle_bfloat-0.1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Wzom8H7gsFMICdKmyjKqfj4myYpOug0lTUoESscfLMg=",
+          "cp39"
+        ],
         "paddle_bfloat-0.1.2-cp39-cp39-manylinux_2_27_x86_64.whl": [
           "tv2Gn2BLyU/yaXG/dWtzFfcAeuJb5a5PMTZicv0h200=",
+          "cp39"
+        ],
+        "paddle_bfloat-0.1.2-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "wQB92yo2dOaLoA72zjHR5D3HnOzOiDFLg3Rx9rkragw=",
+          "cp39"
+        ],
+        "paddle_bfloat-0.1.2-cp39-cp39-musllinux_1_1_i686.whl": [
+          "SPy5XTybxGH02V7uzP55rYBr/UYKNktwyWpLg3n7ELA=",
+          "cp39"
+        ],
+        "paddle_bfloat-0.1.2-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "aRkyDOLksNRqjR75d8oIXofG78TZAbLAbq+sLz2Syaw=",
           "cp39"
         ],
         "paddle_bfloat-0.1.2-cp39-cp39-win32.whl": [
@@ -81535,6 +81663,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.58": {
+      "sdist": [
+        "MWLNM2Hzbf1fSCgbgN4ZV+PvbC0xyPbrRktGVzUcyJ8=",
+        "pymultigit-0.0.58.tar.gz"
+      ],
+      "wheels": {
+        "pymultigit-0.0.58-py3-none-any.whl": [
+          "NVSc4a1dVv0t+xkX57c3fztSkKDTICnTsvefioTu5VM=",
+          "py3"
+        ]
+      }
     }
   },
   "pymysharesdk": {
@@ -86022,6 +86162,18 @@
       "wheels": {
         "python_geoacumen-2022.4.17-py3-none-any.whl": [
           "zF1pFWm8TMF27CdAEHt/CYwnf68iDKKb/y4DqSfQEBU=",
+          "py3"
+        ]
+      }
+    },
+    "2022.4.24": {
+      "sdist": [
+        "DoSqke9SZogPzt2H9tDaCKH3GmGJm91EJwt+C8a8+F8=",
+        "python-geoacumen-2022.4.24.tar.gz"
+      ],
+      "wheels": {
+        "python_geoacumen-2022.4.24-py3-none-any.whl": [
+          "obfQ4YCcJlIq0v/0yCyWUKse5xzyVD5VKUUvfxhvsXY=",
           "py3"
         ]
       }
@@ -103544,6 +103696,18 @@
         ]
       }
     },
+    "0.1.22": {
+      "sdist": [
+        "5zMuCFCvh7BXr9BbyyDhWw1Lt/Fomv0SALiPJQbxJNQ=",
+        "svdtools-0.1.22.tar.gz"
+      ],
+      "wheels": {
+        "svdtools-0.1.22-py3-none-any.whl": [
+          "Dm1jEWw+mL6o+LQHX2APnAGHK5YPx3qSEOKHWsOAILw=",
+          "py3"
+        ]
+      }
+    },
     "0.1.3": {
       "sdist": [
         "SZWQkEjrdRnwwDbRNmgNh+9LyljlGiwsXDQz24BhCks=",
@@ -112144,6 +112308,18 @@
       "wheels": {
         "ultralytics-0.0.15-py3-none-any.whl": [
           "8pd6rJlEGwbOj0OZwpho1FfZo9k4lCuzzDIpB5sTvNw=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.16": {
+      "sdist": [
+        "JOkBLdqzlsLWWAkOG+V2Y/bw1Sz0GQ8KzyOo775sa3U=",
+        "ultralytics-0.0.16.tar.gz"
+      ],
+      "wheels": {
+        "ultralytics-0.0.16-py3-none-any.whl": [
+          "6nFrnc5OdPxYK2fcbNt86apwtuOyFdRVI3s8sMlN8kY=",
           "py3"
         ]
       }
