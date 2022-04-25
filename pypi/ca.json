@@ -809,6 +809,12 @@
         "thjYUoJkA148EDtwCms7BhUQnSt9raOMjKHOwjG0sr4=",
         "adafruit-circuitpython-typing-1.5.0.tar.gz"
       ]
+    },
+    "1.6.0": {
+      "sdist": [
+        "9TSsj8d0pMUzbkoFbddbuD4OdnK1aIqd3lPj+qJ/3kY=",
+        "adafruit-circuitpython-typing-1.6.0.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-veml6075": {
@@ -2108,6 +2114,18 @@
       "wheels": {
         "album-0.7.1-py3-none-any.whl": [
           "GAWWKGCOj3ZKGGAAwP2RWn5wOtdxKY2ikP7vGn1r8kM=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "qwWbTG5mfFF/2Vq7YV4yV8ZuJyCMdp5iQsQQhFIpjg0=",
+        "album-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "album-0.8.0-py3-none-any.whl": [
+          "xecRcYufR4Fy0g9NJtHBBq1FW/wj672FyTd1qRe/VOY=",
           "py3"
         ]
       }
@@ -15539,6 +15557,14 @@
       ]
     }
   },
+  "cfcapi": {
+    "1.0.1": {
+      "sdist": [
+        "WfnBpLxzDaqPbJVvISSYiV364jq0yI4eERLfx2rPl9Y=",
+        "cfcapi-1.0.1.tar.gz"
+      ]
+    }
+  },
   "chai": {
     "0.1.0": {
       "sdist": [
@@ -21376,6 +21402,22 @@
       "wheels": {
         "cirq_ionq-0.15.0.dev20220423004415-py3-none-any.whl": [
           "GzKKdwwdqlHbeeq/f2fVBdPPfxWI70/Ev2fuLnl9Gkw=",
+          "py3"
+        ]
+      }
+    },
+    "0.15.0.dev20220425151025": {
+      "wheels": {
+        "cirq_ionq-0.15.0.dev20220425151025-py3-none-any.whl": [
+          "j1Op02eWocyQzM7TmQz6APOdqQp0Ypr/peNjRi6yqBc=",
+          "py3"
+        ]
+      }
+    },
+    "0.15.0.dev20220425154555": {
+      "wheels": {
+        "cirq_ionq-0.15.0.dev20220425154555-py3-none-any.whl": [
+          "87PwBpZrk5pUdhpqASAHBQAu/iENc7lfw+AGhX5Gh7w=",
           "py3"
         ]
       }
@@ -103423,6 +103465,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0rc1": {
+      "sdist": [
+        "8OgDv+GlEMA68GGisTBt/56vuNS8nsVCmnz8QeuE0YY=",
+        "pytest-embedded-jtag-0.7.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "pytest_embedded_jtag-0.7.0rc1-py3-none-any.whl": [
+          "QNRtV+WpVbE2xF+pSxFfKBCTrGDDQhyyTs1MKbA0M30=",
+          "py3"
+        ]
+      }
     }
   },
   "pytest-hpfeeds": {
@@ -107844,6 +107898,18 @@
       "wheels": {
         "quickboard-0.1.2-py3-none-any.whl": [
           "MDzK8MJQCDNQOgqhGJqI7jbGi8PLQnYyXVcV8Lr2RfQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "uONXsLpzUWXfTwPGvtbcRA4pEwABY1iUgzMo7GkklzA=",
+        "quickboard-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "quickboard-0.2.0-py3-none-any.whl": [
+          "lyo25oncORMaFtbz4/6bctp0dZSfhpLTQ+eGhOl9V3o=",
           "py3"
         ]
       }
@@ -130678,8 +130744,32 @@
     },
     "2022.4.24": {
       "wheels": {
+        "torchrec_nightly-2022.4.24-py37-none-any.whl": [
+          "Rxh5W0x0x3YNwFFB5UiHGBv3sdOGAMaOI0OzksIvTSU=",
+          "py37"
+        ],
+        "torchrec_nightly-2022.4.24-py38-none-any.whl": [
+          "gYes729wyqFiDOKFLisreTXhs8lMK8w39i8Uvc/NWoM=",
+          "py38"
+        ],
         "torchrec_nightly-2022.4.24-py39-none-any.whl": [
           "Jd4Ps9Z7vPsknrxZZiASsbEyDW+ZUk7gRgq4LED/WJU=",
+          "py39"
+        ]
+      }
+    },
+    "2022.4.25": {
+      "wheels": {
+        "torchrec_nightly-2022.4.25-py37-none-any.whl": [
+          "Y9sC74kBWIp4GH81XY2R/s/MUxw+KBXVJpth0akzBNI=",
+          "py37"
+        ],
+        "torchrec_nightly-2022.4.25-py38-none-any.whl": [
+          "5fQzx3+2kY46GfvuJJlmQeT7LnkpAA5u4vevhD7y0pw=",
+          "py38"
+        ],
+        "torchrec_nightly-2022.4.25-py39-none-any.whl": [
+          "5se1R6Vho0mE+290jY3yU+OzWeZc7tCAH1+xWLjB9jo=",
           "py39"
         ]
       }
