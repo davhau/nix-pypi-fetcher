@@ -2,7 +2,7 @@
 Tired of manually finding the right url and sha256 hash for a pypi package? This project makes your life easier while still providing the same reproducibility / security.
 
 ### What it does:
-This package comes with a full copy of `url + sha256` for each python package ever published on pypi.org. It is updated on a 12h basis. Checkout the most recent commit if you need recently released packages from pypi. By importing this project you will download around 140 MB (350MB uncompressed) of pypi metadata. Afterwards you can just fetch pypi sources within your nix expressions like this:
+This package comes with a full copy of `url + sha256` for each python package ever published on pypi.org. It is updated on a 12h basis. Checkout the most recent commit if you need recently released packages from pypi. By importing this project you will download around 250 MB (1 GB uncompressed) of pypi metadata. Afterwards you can just fetch pypi sources within your nix expressions like this:
 ```nix
 # pseudo example not including the necessary imports
 
