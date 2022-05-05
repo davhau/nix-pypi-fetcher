@@ -18428,6 +18428,18 @@
         ]
       }
     },
+    "1.0.18": {
+      "sdist": [
+        "8305FplyX0HKfT8innGk2DSaTn4Sy+7qVavnYTmKhCk=",
+        "blint-1.0.18.tar.gz"
+      ],
+      "wheels": {
+        "blint-1.0.18-py3-none-any.whl": [
+          "7Xew7bDMnjXs7PJE7TudoLZhXfsqaTDtqoyUDnrGgYg=",
+          "py3"
+        ]
+      }
+    },
     "1.0.3": {
       "sdist": [
         "WzuSnSFqksDdNOuDVWU0chN4Go45mzh2y5fxo2xqIho=",
@@ -33491,6 +33503,20 @@
         "M9yIbwCjn5NVPHgWTS4mWBofdaySql+SbuVcFVZULXs=",
         "django-generic-json-views-0.8.tar.gz"
       ]
+    }
+  },
+  "django-highlightselect-model-admin": {
+    "1.0.0": {
+      "sdist": [
+        "lACuecyTzi1pwjYS/j9trEKFoCICAkDpWDhQBkmTJw0=",
+        "django-highlightselect-model-admin-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "django_highlightselect_model_admin-1.0.0-py3-none-any.whl": [
+          "5WTQvfCE5s8C5SbJNvH11KqoJb7U1BWx7eVaka8+a98=",
+          "py3"
+        ]
+      }
     }
   },
   "django-historique": {
@@ -66280,6 +66306,12 @@
       "sdist": [
         "9QfzCkvWdz75PhL5jt/hjwuAP7hwKubfHYAxw9bFbL0=",
         "lzllyh-0.3.8.tar.gz"
+      ]
+    },
+    "0.3.9": {
+      "sdist": [
+        "IRFy4vZHgcm87ETae0k1jNHqLbd1+u/1vESc+DD3tiM=",
+        "lzllyh-0.3.9.tar.gz"
       ]
     }
   },
@@ -103584,7 +103616,13 @@
       "sdist": [
         "QdD6gRZrGXuNjpsIthvIgkjPMUYJ/KqyDRkXuWpNo6U=",
         "pyobjc-framework-DeviceCheck-8.5.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "pyobjc_framework_DeviceCheck-8.5-py2.py3-none-any.whl": [
+          "UYsFImP6Q/GDvk8pO6n4sp1k9hE688omJcTBikKOrKQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyobjc-frameworkintents": {
@@ -112140,6 +112178,82 @@
         ],
         "rqfactor-1.2.3-cp39-cp39-win_amd64.whl": [
           "zcUuzq8PPp2CNH1Th5154TratN6opy0MVdpPakd2Grg=",
+          "cp39"
+        ]
+      }
+    },
+    "1.2.4": {
+      "wheels": {
+        "rqfactor-1.2.4-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "ej8N1pYj5Y5gTC7fYjQQYomzqMc+DmaJ1cugf6aNDo4=",
+          "cp310"
+        ],
+        "rqfactor-1.2.4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QKKpEdTWDI5SpOfMgm3gDB1umsMWpp3naLqKCrBqv9Y=",
+          "cp310"
+        ],
+        "rqfactor-1.2.4-cp310-cp310-win_amd64.whl": [
+          "ctBzfHOA1pAdMTBK4QD/Y5Vgej+8pfOUF8p8pkISmO0=",
+          "cp310"
+        ],
+        "rqfactor-1.2.4-cp35-cp35m-macosx_10_7_x86_64.whl": [
+          "muOZ/dveUsVCucvQP8FZU/weq138IXmFQL40jbHy02c=",
+          "cp35"
+        ],
+        "rqfactor-1.2.4-cp35-cp35m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OUMWrRiPJUEY5CQ52VAI8ZCsk10Q8Qn4jnkhAGYSfmg=",
+          "cp35"
+        ],
+        "rqfactor-1.2.4-cp35-cp35m-win_amd64.whl": [
+          "+JKIwTju8R50p/GWHaG1bdelcs1Yv5VK1Zgqpq3HFRY=",
+          "cp35"
+        ],
+        "rqfactor-1.2.4-cp36-cp36m-macosx_10_7_x86_64.whl": [
+          "3705S42UBdvEArkwFcawrHrmz5W6WW/Z22XHGSE/Gm4=",
+          "cp36"
+        ],
+        "rqfactor-1.2.4-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "nL9doIEsXU5ZFNfASMvcUYKbja2Zs0zeL44KC5r+pDg=",
+          "cp36"
+        ],
+        "rqfactor-1.2.4-cp36-cp36m-win_amd64.whl": [
+          "aSXtDL5X6Y8FCP734z4/Z8EQDAsiniqse4nvl3ijyn4=",
+          "cp36"
+        ],
+        "rqfactor-1.2.4-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "k1YIEHinXixgC8zRn3wJvGiEp9XnAmumtH+85IOvais=",
+          "cp37"
+        ],
+        "rqfactor-1.2.4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2CuaSFEKaisoeS+b39fjC9gqE+uS9QiausPy8xThhy4=",
+          "cp37"
+        ],
+        "rqfactor-1.2.4-cp37-cp37m-win_amd64.whl": [
+          "67XIVyJMhMECd3i2jf0U92Lxxah5BPlxVaTZj+8jNiY=",
+          "cp37"
+        ],
+        "rqfactor-1.2.4-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "M9Pr3GpnY2QhLz2qHPKnCvb+lrD1EMB9TwSUhdGr2CQ=",
+          "cp38"
+        ],
+        "rqfactor-1.2.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XeJ0YKiiAr3KXUoKk5+tyAIZ37tRWuhRDDICNfoV7zg=",
+          "cp38"
+        ],
+        "rqfactor-1.2.4-cp38-cp38-win_amd64.whl": [
+          "GMv1nFfciceJ+XckG0Cq58C68I01gUgFQkRo39o90FI=",
+          "cp38"
+        ],
+        "rqfactor-1.2.4-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "UZBBx9iK5RfyaIwyyX4BKolQepac1SfbREosHqUnE1M=",
+          "cp39"
+        ],
+        "rqfactor-1.2.4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kcWP6pn/n3zwtmu9+oK68PQZptqdJcqN/eMmhS9lvPU=",
+          "cp39"
+        ],
+        "rqfactor-1.2.4-cp39-cp39-win_amd64.whl": [
+          "VGlSoYr5hqIFHNhxVpdiFfkHNyrWtmpMYXkh9HhYJ+k=",
           "cp39"
         ]
       }

@@ -30724,6 +30724,12 @@
         "cf-plot-3.1.2.tar.gz"
       ]
     },
+    "3.1.21": {
+      "sdist": [
+        "BXqkJURcLK0lJHrzafv+oowWFkqegLKN2rbwj+nvCvU=",
+        "cf-plot-3.1.21.tar.gz"
+      ]
+    },
     "3.1.3": {
       "sdist": [
         "QaGSDSok4v35e9fyMrDp4vlXOlM1JaAZnKw9TBXHwtk=",
@@ -64414,6 +64420,14 @@
       "wheels": {
         "huaweicloudsdkgaussdb-3.0.86-py2.py3-none-any.whl": [
           "glKPDUvPGSwm2kVSnnKvkUmXpu/W4C8jj7U3sVey34E=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.87": {
+      "wheels": {
+        "huaweicloudsdkgaussdb-3.0.87-py2.py3-none-any.whl": [
+          "0e5Va0+XCKyFgBS/g7nOATSy/39qrf3tXAQg+q+0ogc=",
           "py2.py3"
         ]
       }
@@ -114256,7 +114270,13 @@
       "sdist": [
         "VqM7kWZJ/YzTWQGXhmd0X9ov0oqRj3mnI8er+zldq60=",
         "pyobjc-framework-PencilKit-8.5.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "pyobjc_framework_PencilKit-8.5-py2.py3-none-any.whl": [
+          "mi62ikzj0uYnUWNzq0woLpS7DdlTDBGUelOMoPubBO0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyobjcframework-latentsemanticmapping": {
@@ -118014,6 +118034,62 @@
         ],
         "qpalm-1.1.1-cp39-cp39-win_amd64.whl": [
           "Imoc0rHJ6SX4gH87YJet1soynMz0mJmYW1grUqnC0+w=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "Q0H60bCbQPwND2VKaa2+qkQaW+rmDMQ3FYiaZL6yIcs=",
+        "qpalm-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "qpalm-1.1.2-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "Eq/ql1lVzPJ4k1SRQE/QLJ11pbG8CQo6cEJt+SWDHKk=",
+          "cp310"
+        ],
+        "qpalm-1.1.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.manylinux_2_27_aarch64.whl": [
+          "toRkGs0zBBO6GlS0bs5NEwqpF2L51ky0opkiZBv6Q9E=",
+          "cp310"
+        ],
+        "qpalm-1.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_27_x86_64.whl": [
+          "1ejDA8AS4wskoAUnjyYn6TbHM6YFbaAYl9nVQhyQOkY=",
+          "cp310"
+        ],
+        "qpalm-1.1.2-cp310-cp310-win_amd64.whl": [
+          "O/t4WiMEFxGFWGT3aWQmVwL0BML916kUfvXWI0zUIdk=",
+          "cp310"
+        ],
+        "qpalm-1.1.2-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "+D7upLZAcRvmjQGzaVuYNzIB0GnfQo45P0DIZtu5Izw=",
+          "cp38"
+        ],
+        "qpalm-1.1.2-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.manylinux_2_27_aarch64.whl": [
+          "X8NkH7l2XONN59CAz80j8iiwIyTsIcWdPXKi5M4JQXU=",
+          "cp38"
+        ],
+        "qpalm-1.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_27_x86_64.whl": [
+          "ZeL4DL5Mw5VktIahlW2FrMsiFd5m5m38x5IY+SaSF1s=",
+          "cp38"
+        ],
+        "qpalm-1.1.2-cp38-cp38-win_amd64.whl": [
+          "c19suQO0uZON6nJx/vHYF6FDhvoj0HT+3ZHr6W9Xouc=",
+          "cp38"
+        ],
+        "qpalm-1.1.2-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "9yqF2hduaTF8naTXBnQUvkRcwb3keQTBuNcQSdC5RM8=",
+          "cp39"
+        ],
+        "qpalm-1.1.2-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.manylinux_2_27_aarch64.whl": [
+          "JJH97lK7Vbyjv7pG9NyjLF2gF662riCXlkcJkqMVCII=",
+          "cp39"
+        ],
+        "qpalm-1.1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_27_x86_64.whl": [
+          "DxbVvPwCEMeEPElXstieby+j5ykrkhu2OVzetPRfyS4=",
+          "cp39"
+        ],
+        "qpalm-1.1.2-cp39-cp39-win_amd64.whl": [
+          "U8X2bL2D9pbAOUEIoXrJWsmdAFt1mycIpENUFlPhwnc=",
           "cp39"
         ]
       }
@@ -134227,6 +134303,18 @@
           "py3"
         ]
       }
+    },
+    "4.7.0": {
+      "sdist": [
+        "P4AndG7qc6/1hS0nElze/DKHqIpv+dbRAYIQ60Wcv4U=",
+        "taskflow-4.7.0.tar.gz"
+      ],
+      "wheels": {
+        "taskflow-4.7.0-py3-none-any.whl": [
+          "R/sLqniQaOGDD3DjWZl5t6w80gLxgLGjPDpeqowkjKA=",
+          "py3"
+        ]
+      }
     }
   },
   "taskgraph": {
@@ -141740,6 +141828,18 @@
       "wheels": {
         "tmtccmd-2.0.1-py3-none-any.whl": [
           "itfTTsLlr7RuOH8zzmFQWDjgaHzNhIqI3EQabU49bWM=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0": {
+      "sdist": [
+        "Hj8nmU3pMmd5fnwcA9/x4PcoZxkwUze4XlKheVryZ2c=",
+        "tmtccmd-2.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tmtccmd-2.1.0-py3-none-any.whl": [
+          "wMfyQpegD+mi/OFewgDeirDXTy9VjKYipg8SLmOyBYo=",
           "py3"
         ]
       }
