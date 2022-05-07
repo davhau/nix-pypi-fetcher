@@ -4979,6 +4979,12 @@
         "dXNiXdOqJaZGZTd2wUNDGAkvMdoSEZQgFAe6zOsvtBo=",
         "askitsu-0.1.1.tar.gz"
       ]
+    },
+    "0.2.0": {
+      "sdist": [
+        "Ja3zY4s70d/jtvIJGjG5Z1a8BDoLfDrWhFWmt85MDuU=",
+        "askitsu-0.2.0.tar.gz"
+      ]
     }
   },
   "astropy-stark": {
@@ -6868,6 +6874,18 @@
       "wheels": {
         "azure_core-1.23.1-py3-none-any.whl": [
           "w+ipo+ydifWbXVsvGdGaMNdqW1wM7jeI7K08tyub0Cg=",
+          "py3"
+        ]
+      }
+    },
+    "1.24.0": {
+      "sdist": [
+        "NFsbBB+q19AgWyDVaX8dDfNEMC56qoUBkFWA/4e9C+U=",
+        "azure-core-1.24.0.zip"
+      ],
+      "wheels": {
+        "azure_core-1.24.0-py3-none-any.whl": [
+          "kj5JLnLRA8dopkPfrTMc5rjsFmlXXH0IMv7Rm//RGfc=",
           "py3"
         ]
       }
@@ -63945,6 +63963,14 @@
           "py3"
         ]
       }
+    },
+    "0.9.354644": {
+      "wheels": {
+        "layer_sdk-0.9.354644-py3-none-any.whl": [
+          "y8dQAqTboCGrPDD5FsXJaiqrAKOGtDliowG6rX6PGRM=",
+          "py3"
+        ]
+      }
     }
   },
   "layz-import": {
@@ -68971,6 +68997,20 @@
         "EAZgYnMrd0r3ULuCsnjJt74IGuoabDdk/ZsuLjuqfbw=",
         "model_mommy_dev-1.2.6.tar.gz"
       ]
+    }
+  },
+  "modelta": {
+    "1.0.0": {
+      "sdist": [
+        "BUc0t2BT/lIXONDJ7besyGX0gyTHc/euVIdWJ3nWZeU=",
+        "modelta-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "modelta-1.0.0-py3-none-any.whl": [
+          "9zS/gOjnctuf8J2tk5A5ewKzvERI1w3prkHPvX4xDTo=",
+          "py3"
+        ]
+      }
     }
   },
   "modifiednb": {
@@ -117528,106 +117568,14 @@
     }
   },
   "tensorboard-plugin-neuron": {
-    "0.0.1": {
+    "0.0": {
+      "sdist": [
+        "zJEf0vakZf/VSPAiRN/gf+xMleWtXze17bn23LdkWyI=",
+        "tensorboard-plugin-neuron-0.0.tar.gz"
+      ],
       "wheels": {
-        "tensorboard_plugin_neuron-0.0.1-py3-none-any.whl": [
-          "gQ7c00plnuJaadsqKfa9BzpZvCDlpMCJ2QPptL5gRCE=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.29.0": {
-      "wheels": {
-        "tensorboard_plugin_neuron-2.0.29.0-py3-none-any.whl": [
-          "lYTfrzTsSMwIlMJOVLVFre2o5dAkxpt0qdbWv57nBjA=",
-          "py3"
-        ]
-      }
-    },
-    "2.0.29.1": {
-      "wheels": {
-        "tensorboard_plugin_neuron-2.0.29.1-py3-none-any.whl": [
-          "88l6Hp69kQ4hJUzaa9wY9ivlOaJLqitDya4TW0SqTgQ=",
-          "py3"
-        ]
-      }
-    },
-    "2.1.0.0": {
-      "wheels": {
-        "tensorboard_plugin_neuron-2.1.0.0-py3-none-any.whl": [
-          "cn9DSToKJw5Cu1YxWvCPCWyxWzYkfRggK6gMSO7BYNg=",
-          "py3"
-        ]
-      }
-    },
-    "2.1.0.1": {
-      "wheels": {
-        "tensorboard_plugin_neuron-2.1.0.1-py3-none-any.whl": [
-          "kuFGBI9hfSRgNzNx4kjFB4pVdCKwvMFrx6Ilew7XyZs=",
-          "py3"
-        ]
-      }
-    },
-    "2.1.2.0": {
-      "wheels": {
-        "tensorboard_plugin_neuron-2.1.2.0-py3-none-any.whl": [
-          "DNVJ6Nf0/FTi6NX+yGTFKLqcl7LymNB+KjX3rRBYzyY=",
-          "py3"
-        ]
-      }
-    },
-    "2.1.2.1": {
-      "wheels": {
-        "tensorboard_plugin_neuron-2.1.2.1-py3-none-any.whl": [
-          "DG73ESG/82y89hx4CgK42TQ1VOuv/jlF4SC5FxiIdvU=",
-          "py3"
-        ]
-      }
-    },
-    "2.2.0.0": {
-      "wheels": {
-        "tensorboard_plugin_neuron-2.2.0.0-py3-none-any.whl": [
-          "SQHxqN1dC9Pr1eNevbj4FvSejXCtfm7kWM37FnDysqg=",
-          "py3"
-        ]
-      }
-    },
-    "2.2.0.1": {
-      "wheels": {
-        "tensorboard_plugin_neuron-2.2.0.1-py3-none-any.whl": [
-          "e/OQrsnY+WR46V/juNCijX3k6A+KHIla6ctLs/Mt3fI=",
-          "py3"
-        ]
-      }
-    },
-    "2.3.0.0": {
-      "wheels": {
-        "tensorboard_plugin_neuron-2.3.0.0-py3-none-any.whl": [
-          "h0j8EBQeBueHvzWJoRJlWYKYDW2YsezJXtrnWRdwafk=",
-          "py3"
-        ]
-      }
-    },
-    "2.3.0.1": {
-      "wheels": {
-        "tensorboard_plugin_neuron-2.3.0.1-py3-none-any.whl": [
-          "R/80xm2PHzbSpnMfZDALO50yy5EkbMyJ3NLKwDbmn54=",
-          "py3"
-        ]
-      }
-    },
-    "2.4.0.0": {
-      "wheels": {
-        "tensorboard_plugin_neuron-2.4.0.0-py3-none-any.whl": [
-          "D/KZcVemUGZoORNZGepe+qaX7nh3hLLubOwOzSi4vNY=",
-          "py3"
-        ]
-      }
-    },
-    "2.4.0.1": {
-      "wheels": {
-        "tensorboard_plugin_neuron-2.4.0.1-py3-none-any.whl": [
-          "sQUrJl2Auef3jQGSu+m688zXNNW5ZmZ2JxfgYpxLydE=",
+        "tensorboard_plugin_neuron-0.0-py3-none-any.whl": [
+          "DT1+/RDUBYQsz6uVkYNxbocVia/rtMjegIo4hf9I8Hk=",
           "py3"
         ]
       }
