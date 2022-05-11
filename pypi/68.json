@@ -28778,6 +28778,18 @@
         ]
       }
     },
+    "2022.5.11.1": {
+      "sdist": [
+        "T+CQEz51wSrWA5JjDVrVYOcpdw2mF7gOjkH1z6f749Y=",
+        "deng-2022.5.11.1.tar.gz"
+      ],
+      "wheels": {
+        "deng-2022.5.11.1-py3-none-any.whl": [
+          "ZTJYozo2LKWw1Sq3arRWbyM/FvcahuW+vFKJMUtn9aw=",
+          "py3"
+        ]
+      }
+    },
     "2022.5.9.1": {
       "sdist": [
         "2TgPp2TAurj178hhPgNYKjfCL+GsH5eM2SakkF0ncSk=",
@@ -40026,6 +40038,18 @@
       "wheels": {
         "eland-8.1.0-py3-none-any.whl": [
           "yBWXeKnU8d3WLhPDqH2HSzuvCmJIh+QIiZN26POBwqM=",
+          "py3"
+        ]
+      }
+    },
+    "8.2.0": {
+      "sdist": [
+        "ANIsh1gZMx/j0V8KQzv7JloXixJE3d+A1VchE8SSqEI=",
+        "eland-8.2.0.tar.gz"
+      ],
+      "wheels": {
+        "eland-8.2.0-py3-none-any.whl": [
+          "kb7zgXm/DgIkCFZT8dJy2CReyz680AOMYPT8oQ/4mPc=",
           "py3"
         ]
       }
@@ -82834,20 +82858,40 @@
           "TYeXGvHPuNfdWj40UrhFMbCZRjUDxNWiTJs6Zz6QF8k=",
           "cp310"
         ],
+        "otpmml-1.12-cp310-cp310-win_amd64.whl": [
+          "l7qiecIWPU5p8y7E7TcNethCsbAl0jVwwgcas+AWh8w=",
+          "cp310"
+        ],
         "otpmml-1.12-cp36-cp36m-manylinux1_x86_64.whl": [
           "hdhYC41gs7obxlymaxmAFrlNzLYwkENxS6/1RSrkUSE=",
+          "cp36"
+        ],
+        "otpmml-1.12-cp36-cp36m-win_amd64.whl": [
+          "MOjU2NsnENA+yow00lqdval8CMQVQG3PhQzak2mM0cI=",
           "cp36"
         ],
         "otpmml-1.12-cp37-cp37m-manylinux1_x86_64.whl": [
           "cVK7WDGHqtoh4R+/za+VxGYs/Vmd4bD+DNgp2JUlel0=",
           "cp37"
         ],
+        "otpmml-1.12-cp37-cp37m-win_amd64.whl": [
+          "MLYzKdckPDC9KvlBGobN41nBE9J5eTw/zTHBBejJzQc=",
+          "cp37"
+        ],
         "otpmml-1.12-cp38-cp38-manylinux1_x86_64.whl": [
           "LtwIb36oOXtGdQlBDsg35MZmf5oc/jq64AVQkfh0tAg=",
           "cp38"
         ],
+        "otpmml-1.12-cp38-cp38-win_amd64.whl": [
+          "YAm9Lh2U9wdAAWE44aPA0/H5/F1KOuho9LBZmfyfMQU=",
+          "cp38"
+        ],
         "otpmml-1.12-cp39-cp39-manylinux1_x86_64.whl": [
           "LR+4JBmYYucCneecSxHas75n46HAf7CAE+LLPYBO47o=",
+          "cp39"
+        ],
+        "otpmml-1.12-cp39-cp39-win_amd64.whl": [
+          "NyjMSmRhFlmAJD9uMukgPk9IgjlV+mw+laTt10kN1eA=",
           "cp39"
         ]
       }
@@ -103427,6 +103471,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0": {
+      "sdist": [
+        "Uh/BHhmqOQQ+MTIwNG+UE4nqZAG8cz8jAqU/M0ruaXk=",
+        "reasoner-validator-2.2.0.tar.gz"
+      ],
+      "wheels": {
+        "reasoner_validator-2.2.0-py3-none-any.whl": [
+          "Aru81tVmYoFLwaGUJqe2O8nUYe+xIADVT1vO3hBVC+Y=",
+          "py3"
+        ]
+      }
     }
   },
   "recombinator": {
@@ -106220,42 +106276,6 @@
     }
   },
   "sberpm": {
-    "1.0.1": {
-      "sdist": [
-        "igoL62CIA4AWRAn1QtvImGEQp5ymkpV1Xs3VQ66+Hrg=",
-        "sberpm-1.0.1.tar.gz"
-      ]
-    },
-    "1.0.2": {
-      "sdist": [
-        "tMHGoRcALDKaHEicpAusX+Mm8+Bhchuk9/fEwnh4WDg=",
-        "sberpm-1.0.2.tar.gz"
-      ]
-    },
-    "1.0.3": {
-      "sdist": [
-        "VLXUOrWZ+KkHT5LHdS4SO2ZqefHd/LvE+v+C+XXkSlc=",
-        "sberpm-1.0.3.tar.gz"
-      ]
-    },
-    "1.1.0": {
-      "sdist": [
-        "vVLYhoF6E2sK0hg39+IKzqoTdjuSV+1raqTFt65lqqA=",
-        "sberpm-1.1.0.tar.gz"
-      ]
-    },
-    "1.1.1": {
-      "sdist": [
-        "ArL7CdwsjMx6LvSq3Ho/8phkgAOKL5JzpFOAVfCX71s=",
-        "sberpm-1.1.1.tar.gz"
-      ]
-    },
-    "1.2.0": {
-      "sdist": [
-        "1oM+/reGcB9HDMUbmI3lS7jqgvYoJ+ccfqyfNxjdGGc=",
-        "sberpm-1.2.0.tar.gz"
-      ]
-    },
     "1.3.0": {
       "sdist": [
         "RtxY+rO5Oy33JrxM2clKayfy6eVJUP/o3SySEGEhhE0=",
