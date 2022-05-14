@@ -3227,6 +3227,12 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1": {
+      "sdist": [
+        "i1sJYEdMiL3PmhqJ4eCkqukGhguvNUaRljbZgORKGU8=",
+        "anuga-3.1.tar.gz"
+      ]
     }
   },
   "anyon": {
@@ -11098,6 +11104,12 @@
       "sdist": [
         "0GQ5WzGSAZrru3/tnmn3FbVXEer4qUIVQ5OxCEfaLWE=",
         "classixclustering-0.6.1.tar.gz"
+      ]
+    },
+    "0.6.2": {
+      "sdist": [
+        "VCZgJrJeP4Jx7HtZRbXzm4kZXTOFFv5WlTmZ0QhERqI=",
+        "classixclustering-0.6.2.tar.gz"
       ]
     }
   },
@@ -53063,6 +53075,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.4": {
+      "sdist": [
+        "plsE98hAnxk1z9UMHnb3ATclsdVcz8o/zhbyUhvXHAU=",
+        "logging-dlt-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "logging_dlt-0.0.4-py3-none-any.whl": [
+          "sBVjDpbqg6yQbEUkGpiIMQlraVv2ntiO18o81pq2B8M=",
+          "py3"
+        ]
+      }
     }
   },
   "logging2": {
@@ -59462,6 +59486,78 @@
         ],
         "maturin-0.12.16_beta.3-py3-none-win_arm64.whl": [
           "DPJdbK7Gj6zodzwGs8ZFK/5EGR9j8HI9yWgKbIooY4s=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.16b4": {
+      "sdist": [
+        "eBfEVjo2wAuW8aXVkZUldrAQlBDCsn4ja7AUbqHLlzU=",
+        "maturin-0.12.16_beta.4.tar.gz"
+      ],
+      "wheels": {
+        "maturin-0.12.16_beta.4-py3-none-macosx_10_7_x86_64.whl": [
+          "kZTyxQcZ5NbG16XnK2kNEp2+Qmic4Er8Ba/Ag82ogXg=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "tKX+2HVwic5YvCXP5jmKwCNaBDM/0bwQcoDFW6LJTpw=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "4CcBdaKJch064Ro59AAhriuC3bkMzepe3M51iNWWxYU=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xahArpq/PzJQ7hr/VH4Js+BKcS9x42gqvZSd8vayMsA=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "o1PSBmnjxFGYx6ALV6AZiK0OIFRpiA1cBRsNil4Tmyw=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.whl": [
+          "0YUbmo2Ak/1LcqPeVD5IBb1YQtdNYk4WM1J1tm/A2Dk=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "qf/yqLbDZmAj5edlZkvxnCBN+K9mi0NzrD3gafq6aw8=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "t9QaYFoXazqrQfPH76lDfbAsrkTa+Kzhf7JpebY8mPM=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-musllinux_1_1_aarch64.whl": [
+          "FnnTOlWa2yeNh4Vmcg3+f32Cpk5JyX4DtlkDHTSat4Q=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-musllinux_1_1_armv7l.whl": [
+          "VZjbsK51rCHwlSSJt23cduqacFY5cR7pj9c+MefmSJQ=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-musllinux_1_1_i686.whl": [
+          "yBJqh2CP5y5yq6N4HAp5ZrLnURWN6pH5BpsLYBZFvB0=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-musllinux_1_1_ppc64le.whl": [
+          "y8kYiSPompbYkk/uyR2pntgOymFbr0x2y7yT6Hwc95U=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-musllinux_1_1_x86_64.whl": [
+          "wViWrvI29MMlaGiJLJYV6kJSU3paSeT+SpdSNGZCS2k=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-win32.whl": [
+          "mHmdIp+lgkQnVjqOREGlc2jhHS24nyqfz2KTX32IZ5M=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-win_amd64.whl": [
+          "+dm7khoUqoRp+eaXI3K6JMvYBMH0GxKFd9watXbyWu0=",
+          "py3"
+        ],
+        "maturin-0.12.16_beta.4-py3-none-win_arm64.whl": [
+          "6vNRA5NzlW83uTFRn0Q2KvEY73meqm7ds1QTg9+NPlM=",
           "py3"
         ]
       }
@@ -88577,6 +88673,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.1": {
+      "sdist": [
+        "7zLFSYd79EOdpt89/wi+ENnf47/Iol1nanhv/oYe4JY=",
+        "proxmoxer-1.3.1.tar.gz"
+      ],
+      "wheels": {
+        "proxmoxer-1.3.1-py3-none-any.whl": [
+          "rERJy3VKTXoab2oRDefZA8dC7gI8En7n3kf86io3uAI=",
+          "py3"
+        ]
+      }
     }
   },
   "proxytools": {
@@ -89795,6 +89903,20 @@
         "7Iqf71Gr39h3Sfj5YUZsGEyTTBgPi7OzZhaTomYEsJ0=",
         "pydarts-1.1.3.tar.gz"
       ]
+    }
+  },
+  "pydit-jceresearch": {
+    "0.0.1": {
+      "sdist": [
+        "/WMUwywMfVlfcSq9V2ff3NJDWB9rhClc+QW/VV8QsHE=",
+        "pydit-jceresearch-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pydit_jceresearch-0.0.1-py3-none-any.whl": [
+          "7J8sHej2l0GStHbiLZ0EYVRK0FgMH4TCpPnfM/EfEFo=",
+          "py3"
+        ]
+      }
     }
   },
   "pydiva": {
