@@ -32833,6 +32833,12 @@
         "1e8GQuPVHe3KeDLQ+0StKyWNGKfZ/jors1dVBS0jg7w=",
         "eccodes-1.4.1.tar.gz"
       ]
+    },
+    "1.4.2": {
+      "sdist": [
+        "Y/qAodG0RZBPSGvDlqamYF3wKfTiFazCjOsaH/XrZk8=",
+        "eccodes-1.4.2.tar.gz"
+      ]
     }
   },
   "ecmwf-opendata": {
@@ -35862,6 +35868,18 @@
         ]
       }
     },
+    "2022.5.18": {
+      "wheels": {
+        "fbgemm_gpu_nightly_cpu-2022.5.18-cp37-cp37m-manylinux1_x86_64.whl": [
+          "MYvJwFhTDSP/YnDoRSqwGZiy9ijJxlZDbf6/lz3fbG4=",
+          "cp37"
+        ],
+        "fbgemm_gpu_nightly_cpu-2022.5.18-cp38-cp38-manylinux1_x86_64.whl": [
+          "fltiTWgY5tia/tyOFg937j/0Y6DIADNQjpndUpnOaTI=",
+          "cp38"
+        ]
+      }
+    },
     "2022.5.2": {
       "wheels": {
         "fbgemm_gpu_nightly_cpu-2022.5.2-cp37-cp37m-manylinux1_x86_64.whl": [
@@ -37008,6 +37026,30 @@
       "wheels": {
         "flask_frame-0.1.11-py3-none-any.whl": [
           "/14hIQrxbvYy70U/5NJwHhwtcsLJDPpRYUILgoLr3bs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.12": {
+      "sdist": [
+        "WjerbrycS78QMc34vxJXp2lE7GvRoFIfxba/AMjwYhc=",
+        "flask_frame-0.1.12.tar.gz"
+      ],
+      "wheels": {
+        "flask_frame-0.1.12-py3-none-any.whl": [
+          "A+3Fna7SVmsvZNquXbC+H7BiBUsvnhHKEq929C0yJ4g=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.13": {
+      "sdist": [
+        "1dMSVjYD/61U2m/b2n4+/GZa+NOW1Di91M9MBiZ9LJw=",
+        "flask_frame-0.1.13.tar.gz"
+      ],
+      "wheels": {
+        "flask_frame-0.1.13-py3-none-any.whl": [
+          "8GLIMdt0WEGNhMTu1nObe30gxlpeNuDYDwebtuh+pwk=",
           "py3"
         ]
       }
@@ -59866,10 +59908,28 @@
         "jina-3.4.3.dev5.tar.gz"
       ]
     },
+    "3.4.4": {
+      "sdist": [
+        "4paFWaAemKsXizKN1MjQd1c92RZ6wS0rycbilf3+NyA=",
+        "jina-3.4.4.tar.gz"
+      ]
+    },
+    "3.4.4.dev0": {
+      "sdist": [
+        "oAGBx3cNKI/qdzMLy5rD0HUxrB/h3bOfifDntXN8yd4=",
+        "jina-3.4.4.dev0.tar.gz"
+      ]
+    },
     "3.4.4.dev2": {
       "sdist": [
         "T4mBFTyyJYPGO8C6YYtcpFA1ihhFSxXIQL2+IdqtIyQ=",
         "jina-3.4.4.dev2.tar.gz"
+      ]
+    },
+    "3.4.4.dev4": {
+      "sdist": [
+        "7fq7CzGska4LV740/iqoFhNXv+dUMRmcp8Mz9PidbOI=",
+        "jina-3.4.4.dev4.tar.gz"
       ]
     }
   },
@@ -73346,6 +73406,14 @@
       "wheels": {
         "odoo_addon_l10n_es_aeat_sii_oca-15.0.2.0.2-py3-none-any.whl": [
           "HopyD3/ZZoBetC7wQ3xcVPCh0j0pqtu67b0vt6BULzQ=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.2.2.0.2": {
+      "wheels": {
+        "odoo_addon_l10n_es_aeat_sii_oca-15.0.2.2.0.2-py3-none-any.whl": [
+          "TvZ66afXs43P+KAzLHIfwjWrmfCJcE0K9fs520jMWnM=",
           "py3"
         ]
       }
@@ -113178,6 +113246,18 @@
         ]
       }
     },
+    "0.13.1": {
+      "sdist": [
+        "SbN/2egGfLRFI3ebrkbG9AT+XRdBJbt1TLkD68/eZvg=",
+        "squirrel-core-0.13.1.tar.gz"
+      ],
+      "wheels": {
+        "squirrel_core-0.13.1-py3-none-any.whl": [
+          "wlFkyPrmMPNcr3fnGxCJT666ZckYpBG9GaDZromDFVU=",
+          "py3"
+        ]
+      }
+    },
     "0.13.1.dev373": {
       "sdist": [
         "gq5TNBqqg3MrwP43tGwrcX3RZspFVDqOLXpWjgQ6QbY=",
@@ -113186,6 +113266,30 @@
       "wheels": {
         "squirrel_core-0.13.1.dev373-py3-none-any.whl": [
           "miH4xCvrlkM//MoQ19nEPtVrz7+EGTwOiWhnazo+6Z4=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.2": {
+      "sdist": [
+        "V9MtxxtekhF22t6cEtKc3Aa522dNYnUCKSnUrmDpwOo=",
+        "squirrel-core-0.13.2.tar.gz"
+      ],
+      "wheels": {
+        "squirrel_core-0.13.2-py3-none-any.whl": [
+          "2Z4sc52WI8exvKSjKbIZmyugX+hKkuN+SlE515jOwXE=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.2.dev9362": {
+      "sdist": [
+        "vgC8GaxoVLYzpw2KjHPLUSFpAgGXpOqKqJPiogcRKhA=",
+        "squirrel-core-0.13.2.dev9362.tar.gz"
+      ],
+      "wheels": {
+        "squirrel_core-0.13.2.dev9362-py3-none-any.whl": [
+          "WrzLQRYe/tgm9gPEU16QGJk/8bMFKGKvsBWIU6fNw7w=",
           "py3"
         ]
       }
