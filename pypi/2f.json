@@ -2103,6 +2103,12 @@
         "unf6nmie/g6hJLZx47C6WNelTi02SsKOjln7gmLSxDQ=",
         "aioflureedb-0.4.5.tar.gz"
       ]
+    },
+    "0.4.6": {
+      "sdist": [
+        "lMgymxi0brsRqOJdNPgz1wQLZXxtywbkD2plVAE+wXo=",
+        "aioflureedb-0.4.6.tar.gz"
+      ]
     }
   },
   "aiohttp": {
@@ -44014,6 +44020,18 @@
       "wheels": {
         "exmol-2.0.0.dev1-py3-none-any.whl": [
           "BRX+Yb5OPVvK14oHIDVyMOo35B6DgMBm77f+cHBgljM=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0.dev2": {
+      "sdist": [
+        "yppVyPTG2h7oa7iSvCIRtblt7dCGfR5OAJyLrgDI514=",
+        "exmol-2.0.0.dev2.tar.gz"
+      ],
+      "wheels": {
+        "exmol-2.0.0.dev2-py3-none-any.whl": [
+          "/AS+VX35IQAS/KblaMT+GJJIE0L2C7QFtdJF/H1rW5Q=",
           "py3"
         ]
       }
@@ -113773,6 +113791,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "mFD0e3VbFWHGK81uXW/5ESxjoWRUiY+mq15p4chsxdU=",
+        "scanpatterns-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "scanpatterns-0.2.0-py3-none-any.whl": [
+          "NOQpWH2CeOG6wH32kylXolbrDVewGxZgYoGnTFwFFJk=",
+          "py3"
+        ]
+      }
     }
   },
   "scikit-highs": {
@@ -126729,6 +126759,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.637": {
+      "sdist": [
+        "XRdjlDLV063ccIBEopQNalrnKLRKHqg2xKqQBT1ia/M=",
+        "tencentcloud-sdk-python-cvm-3.0.637.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cvm-3.0.637-py2.py3-none-any.whl": [
+          "9cpSMu5tA1wng9Z8KFFiNS9eLUTe8m6sO20Y86F7WUw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-rce": {
@@ -130355,6 +130397,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.637": {
+      "sdist": [
+        "uRYGq3r/hoNvRYv/5gzVM201dFm+EoVeT7KQtaxcn1A=",
+        "tencentcloud-sdk-python-rce-3.0.637.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_rce-3.0.637-py2.py3-none-any.whl": [
+          "5x7o8pUApU6zIGXieXsmD0axcZ2jUOxJCxV9tG4j8X0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendenci-django-admin-bootstrapped": {
@@ -133928,6 +133982,14 @@
         ]
       }
     },
+    "2022.5.18": {
+      "wheels": {
+        "torchx_nightly-2022.5.18-py3-none-any.whl": [
+          "YIYh06WrJjQYhV4qBl2V/4DGj624qTomZ/M9PwxsppU=",
+          "py3"
+        ]
+      }
+    },
     "2022.5.2": {
       "wheels": {
         "torchx_nightly-2022.5.2-py3-none-any.whl": [
@@ -134008,118 +134070,6 @@
     }
   },
   "tqsdk2": {
-    "1.3.0": {
-      "wheels": {
-        "tqsdk2-1.3.0-cp37-cp37m-manylinux1_x86_64.whl": [
-          "mCs6Yrn4WRMqeF1tY6xcYfx1VePC0HRQYoiNNBboMHw=",
-          "cp37"
-        ],
-        "tqsdk2-1.3.0-cp37-cp37m-win_amd64.whl": [
-          "HEEJ/D/xGY/a4/XSHUR7UwejKWIq5YU2yLTvInqACIE=",
-          "cp37"
-        ],
-        "tqsdk2-1.3.0-cp38-cp38-manylinux1_x86_64.whl": [
-          "cRK8zL3Cnn0yrGuhKzEq0owiw1Oi8HEvrka7djafgF8=",
-          "cp38"
-        ],
-        "tqsdk2-1.3.0-cp38-cp38-win_amd64.whl": [
-          "UxsLxgsYtCJyOWFFCQQqTJXQt/PK/y08EHNKNCDVb6c=",
-          "cp38"
-        ],
-        "tqsdk2-1.3.0-cp39-cp39-manylinux1_x86_64.whl": [
-          "Wc45BBzOeYoCIFZN3a3lfOzHdV3SJAZ0RHyOWpPKNWg=",
-          "cp39"
-        ],
-        "tqsdk2-1.3.0-cp39-cp39-win_amd64.whl": [
-          "oYF+nk7T0OtpNdIIawgE0WW6j1U7Mg+NiLQmmISXGVE=",
-          "cp39"
-        ]
-      }
-    },
-    "1.3.1": {
-      "wheels": {
-        "tqsdk2-1.3.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "Rq6OFZE6O3U4+eyOiDy3QduDLQ3GGRLWMfqlq10/GD0=",
-          "cp37"
-        ],
-        "tqsdk2-1.3.1-cp37-cp37m-win_amd64.whl": [
-          "y8F/nMkP/sOppPMQZv0095lRjnol9DYxglHaOJmdjls=",
-          "cp37"
-        ],
-        "tqsdk2-1.3.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "/yEJ857VCxnM+XZc3oLuL9bw8Ny35RXlX3B2P73V2Ko=",
-          "cp38"
-        ],
-        "tqsdk2-1.3.1-cp38-cp38-win_amd64.whl": [
-          "10acq5iEegdUlWGFDE0HslXddNLXuXDA5el0C1qSFWQ=",
-          "cp38"
-        ],
-        "tqsdk2-1.3.1-cp39-cp39-manylinux1_x86_64.whl": [
-          "A0OsrtT2TQ01DF1nNm3GHxSPsX1RjgYlI0+exbJQ5x0=",
-          "cp39"
-        ],
-        "tqsdk2-1.3.1-cp39-cp39-win_amd64.whl": [
-          "TnxX0dygbZftOv3UF+7172/RvZ1nYJCjXnetJHwBoRQ=",
-          "cp39"
-        ]
-      }
-    },
-    "1.3.2": {
-      "wheels": {
-        "tqsdk2-1.3.2-cp37-cp37m-manylinux1_x86_64.whl": [
-          "qQAZHnISOO7ZqcQOhP9r0WrUSqkJ2SPph6tRqX90Kg4=",
-          "cp37"
-        ],
-        "tqsdk2-1.3.2-cp37-cp37m-win_amd64.whl": [
-          "ntzZjgYgfvsuPhZffhN8sHlnQGyPgcqxqC7n+fpbQZo=",
-          "cp37"
-        ],
-        "tqsdk2-1.3.2-cp38-cp38-manylinux1_x86_64.whl": [
-          "HI2y1/1zBy6fpg3NDUHBS8ER+nm4g+0TVqiX36XJYQU=",
-          "cp38"
-        ],
-        "tqsdk2-1.3.2-cp38-cp38-win_amd64.whl": [
-          "6LsX0m9tIkAntjGYsqYPENf+zneFO28e2j6oALMcHBA=",
-          "cp38"
-        ],
-        "tqsdk2-1.3.2-cp39-cp39-manylinux1_x86_64.whl": [
-          "zZUvSc2STc9/ibF5zJDEvajLzyZx+QJzVk8LR0vqsY4=",
-          "cp39"
-        ],
-        "tqsdk2-1.3.2-cp39-cp39-win_amd64.whl": [
-          "SyhN+zGkfMNR/pnaRADWAzRbIUxyB1SmskuKfs/Og/0=",
-          "cp39"
-        ]
-      }
-    },
-    "1.3.3": {
-      "wheels": {
-        "tqsdk2-1.3.3-cp37-cp37m-manylinux1_x86_64.whl": [
-          "RUAuq1Au5cUxE290q2+jTFPrfbmjz7vEm1dEKKOtheI=",
-          "cp37"
-        ],
-        "tqsdk2-1.3.3-cp37-cp37m-win_amd64.whl": [
-          "bnhECK22Zs78ECFKcY1BU3ckRybzav/haE/7l3jhF28=",
-          "cp37"
-        ],
-        "tqsdk2-1.3.3-cp38-cp38-manylinux1_x86_64.whl": [
-          "28yOgAV0FpbKfzny6ibs0MNnNpXACOkVhaSky3gVwdk=",
-          "cp38"
-        ],
-        "tqsdk2-1.3.3-cp38-cp38-win_amd64.whl": [
-          "TyxLtzY1430i5CiSRT30Jb9fRkuTo+ZTmTm/nJAAEWA=",
-          "cp38"
-        ],
-        "tqsdk2-1.3.3-cp39-cp39-manylinux1_x86_64.whl": [
-          "n2ScM8SfKutmHMR20vru7JDgxeeoEsMjLuuDq1FkPkc=",
-          "cp39"
-        ],
-        "tqsdk2-1.3.3-cp39-cp39-win_amd64.whl": [
-          "eFNCbPHKvMvI9G1vX/ZmSG3L58Tu5SrchfyrDEzrmOA=",
-          "cp39"
-        ]
-      }
-    },
     "1.3.5": {
       "wheels": {
         "tqsdk2-1.3.5-cp37-cp37m-manylinux1_x86_64.whl": [
