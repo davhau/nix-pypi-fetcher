@@ -12343,6 +12343,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b20220519": {
+      "wheels": {
+        "bigdl_friesian-2.1.0b20220519-py3-none-macosx_10_11_x86_64.whl": [
+          "jHlgfZpHLro3xGkYjFzxz4Am5ASoZqsv6DYzCOmZYMs=",
+          "py3"
+        ],
+        "bigdl_friesian-2.1.0b20220519-py3-none-manylinux1_x86_64.whl": [
+          "52KEUdeYe/RuBmqHRisBeHJxL1pH7m+DhT0bhAYnk6s=",
+          "py3"
+        ]
+      }
     }
   },
   "bigslice": {
@@ -23323,6 +23335,14 @@
           "py3"
         ]
       }
+    },
+    "0.15.0.dev20220519170135": {
+      "wheels": {
+        "cirq_pasqal-0.15.0.dev20220519170135-py3-none-any.whl": [
+          "H7Bz+Wlro4Z4n3VzhRQ7cSP71+IXCSuW5rGKtGMqNnM=",
+          "py3"
+        ]
+      }
     }
   },
   "citymaker-sdk": {
@@ -26988,6 +27008,18 @@
       "wheels": {
         "coveo_stew-2.2.2-py3-none-any.whl": [
           "LOmyiq8EtbNO438Ixs1iBGnJZSf9sPTq7gYjmcZHq4g=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.3": {
+      "sdist": [
+        "vatW9bLM6dQrnfXA3DWUsgcl2qIFzttpU4r37hy/08o=",
+        "coveo-stew-2.2.3.tar.gz"
+      ],
+      "wheels": {
+        "coveo_stew-2.2.3-py3-none-any.whl": [
+          "Ewri5gtKdTX9rUhWml8L0wIDMSNATJ37tmNOiPMU5mU=",
           "py3"
         ]
       }
@@ -54364,6 +54396,18 @@
         ]
       }
     },
+    "1.1695.0": {
+      "sdist": [
+        "GZ7CXX4urSMsRT+gqalzHpYNp4uV4wYVABdm90ldYRk=",
+        "gardener-oci-1.1695.0.tar.gz"
+      ],
+      "wheels": {
+        "gardener_oci-1.1695.0-py3-none-any.whl": [
+          "6bqHQKbpYGEkbgA72n5HI7NxYR+nX1ECHmyx5IwSZmU=",
+          "py3"
+        ]
+      }
+    },
     "1.907.0": {
       "sdist": [
         "wEF7TpyVBzniCb2HUzXJpeKF1rxue41u8NWcZiFhr40=",
@@ -60822,6 +60866,18 @@
       "wheels": {
         "helios_opentelemetry_sdk-0.1.66-py3-none-any.whl": [
           "NTr1NKRfFREQYro/YnW+Retc1EjsijyIuSgdxcpzAxU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.67": {
+      "sdist": [
+        "osOHh3lsQAzsMVgJBDGN2xxRNwbBzr3mGwALuqt0AQs=",
+        "helios-opentelemetry-sdk-0.1.67.tar.gz"
+      ],
+      "wheels": {
+        "helios_opentelemetry_sdk-0.1.67-py3-none-any.whl": [
+          "CQxH/BV8bslnyqbIsDAKJZbYUQB0wWcseVLR7/tJ3jk=",
           "py3"
         ]
       }
@@ -67874,6 +67930,18 @@
       "wheels": {
         "kiss3-8.0.0a3-py3-none-any.whl": [
           "os9hPE6ymRVvD5kQnkOwiOnR//Y/J/paf88Xx1CW2Xw=",
+          "py3"
+        ]
+      }
+    },
+    "8.0.0a4": {
+      "sdist": [
+        "jl9CG84JFVadLrOAlyrB3O3E96cYWctdXuvAFsR2Z9c=",
+        "kiss3-8.0.0a4.tar.gz"
+      ],
+      "wheels": {
+        "kiss3-8.0.0a4-py3-none-any.whl": [
+          "jxwLqXmlAJqaSECMPAEo/Cg6UzzcgkyLm9+BrstX2Kk=",
           "py3"
         ]
       }
@@ -94143,6 +94211,32 @@
       }
     }
   },
+  "openmc-data": {
+    "0.0.1": {
+      "sdist": [
+        "odv9e1yqRxK3IbMT9eOT+RKi158mhg9XAg/6gkne0Yw=",
+        "openmc_data-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "openmc_data-0.0.1-py3-none-any.whl": [
+          "V881aXVoXSygcA9XK05SeWyQk3h1Oqf6rSz7fANBTdc=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "MwJ4s4BI9c/lcgCzf8EH9lXWSO6Ux0L2fHlg5L9rzrk=",
+        "openmc_data-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "openmc_data-0.0.2-py3-none-any.whl": [
+          "btgGQo7amoqD1RZmjpj8GIvllhCc0uQXM3Ok7W+bBLk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "openmovement": {
     "0.0.1": {
       "sdist": [
@@ -117531,6 +117625,20 @@
         "quartet_manifest-1.0.5-py2.py3-none-any.whl": [
           "JRYgPNCfpuoDwvsWYlCqlTb2Ty1Bs4wQUUQSPu7V+Is=",
           "3.6"
+        ]
+      }
+    }
+  },
+  "qudit-sim": {
+    "0.1.0": {
+      "sdist": [
+        "HJAM0Ml6vevbpCPHj2x0AL2RWWKST9NwucwMC8qljz4=",
+        "qudit-sim-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "qudit_sim-0.1.0-py3-none-any.whl": [
+          "gYywiA8xCT0SBXPQAPib0mpZv6ilMjDnB6L3qqFbNew=",
+          "py3"
         ]
       }
     }
