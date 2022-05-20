@@ -5401,6 +5401,14 @@
           "py3"
         ]
       }
+    },
+    "0.1.8": {
+      "wheels": {
+        "applications_superstaq-0.1.8-py3-none-any.whl": [
+          "Hh4mHkK5IIWs/weucnfI6siE4jvOKexgtIN8gRTa9Xw=",
+          "py3"
+        ]
+      }
     }
   },
   "appscale-agents": {
@@ -23892,6 +23900,18 @@
         ]
       }
     },
+    "0.3.2.dev18": {
+      "sdist": [
+        "H/rG8j+Dv5HMkVH2NhSx+bpJJQV4jBjRnN65KP0dYwY=",
+        "cppython-vcpkg-0.3.2.dev18.tar.gz"
+      ],
+      "wheels": {
+        "cppython_vcpkg-0.3.2.dev18-py3-none-any.whl": [
+          "n3RY18/1fiJBj+nhdRqvc4ROdL/rzQ2rduoXDTGr/A8=",
+          "py3"
+        ]
+      }
+    },
     "0.3.2.dev2": {
       "sdist": [
         "MDFj3cSU7FpljlgIvtEaSvKxqwLzjOefLHmpGNyfEdc=",
@@ -39316,22 +39336,6 @@
     }
   },
   "fbgemm-gpu-nightly": {
-    "2022.5.1": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.5.1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "ArHrbkgo+jf2FAS+MoQyvY2DYK+xmsOBa7f8fdGGEX0=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.5.1-cp38-cp38-manylinux1_x86_64.whl": [
-          "A3BmGmaLcXNyzr9S8vnYqZz+nwGvhlOsQi/BUar5qxk=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.5.1-cp39-cp39-manylinux1_x86_64.whl": [
-          "GXSmLiHizI0lPgcltptymaB6jUzNP6QPp7YoXUsms8o=",
-          "cp39"
-        ]
-      }
-    },
     "2022.5.10": {
       "wheels": {
         "fbgemm_gpu_nightly-2022.5.10-cp37-cp37m-manylinux1_x86_64.whl": [
@@ -39452,98 +39456,6 @@
         ],
         "fbgemm_gpu_nightly-2022.5.19-cp39-cp39-manylinux1_x86_64.whl": [
           "Jh+rT/Tifr+G+AnSP9kf/IQBhjuYtA7xNiUJSs2PZHA=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.5.2": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.5.2-cp37-cp37m-manylinux1_x86_64.whl": [
-          "eKE53jY1EHGjrjx8Qv+s+omp6dIhFznwO2mbtSlSMbU=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.5.2-cp38-cp38-manylinux1_x86_64.whl": [
-          "dfpxdJRls0mjarIJueqQnKh44hUuoXOnKFwMP0dNwWM=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.5.2-cp39-cp39-manylinux1_x86_64.whl": [
-          "k7cB20Lo7PmAINK3vAZKMEbPaFciuqELyMbkHFSEMSE=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.5.3": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.5.3-cp37-cp37m-manylinux1_x86_64.whl": [
-          "hrqWMR0v+oDDICnvGjoWn0m2xD2XXYUn8BEByAmXChE=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.5.3-cp38-cp38-manylinux1_x86_64.whl": [
-          "w4uasb6GCmxAHDVL3GyxTLZMhjZ0UaqR892YDAwMpbA=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.5.3-cp39-cp39-manylinux1_x86_64.whl": [
-          "frXMwqhc2jsJ6TOe/g4jJCtJ40Ud1/WNxrk0E3Y1ygc=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.5.4": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.5.4-cp37-cp37m-manylinux1_x86_64.whl": [
-          "ITwqQVnLRc5YuBbdRY5UlDc/F6kKuDxwR+Qm+B4a3uU=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.5.4-cp39-cp39-manylinux1_x86_64.whl": [
-          "SHmIY+O0MW3P7vlsYyyJn9gLaDWRhljDZ2ECrFCpujw=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.5.5": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.5.5-cp37-cp37m-manylinux1_x86_64.whl": [
-          "ji6vwua86hLbwYftI7D5VvXxT85R0vtyubbS562pqxs=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.5.5-cp38-cp38-manylinux1_x86_64.whl": [
-          "keVLY6D2jKWtOLBekby6wU4VpY+nRU2XpGkZSLFGCNg=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.5.5-cp39-cp39-manylinux1_x86_64.whl": [
-          "Ul14+4LXzeewKD5OKcM+IPLS7T1sMwRm1jgMQSy9sus=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.5.6": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.5.6-cp37-cp37m-manylinux1_x86_64.whl": [
-          "m+86bNqWvxUnNwD+2nvwS38y1uGMBdf+7ughz40GjL8=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.5.6-cp38-cp38-manylinux1_x86_64.whl": [
-          "1o+K5LzNeHgbzfb4CtQQOXgbmf6nyictVAQZv213D8E=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.5.6-cp39-cp39-manylinux1_x86_64.whl": [
-          "EXVXIWccHEdH115j3oZqxko6hRsFBXNhR99xj8X2Nzg=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.5.7": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.5.7-cp37-cp37m-manylinux1_x86_64.whl": [
-          "ae93tT72eyHuGX3o8MVV78hxH5kirlodC57GpZ62RZQ=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.5.7-cp38-cp38-manylinux1_x86_64.whl": [
-          "l4u5X8hY/03Cid2tQH27WICrjXddDgEAh68ciDxTHLE=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.5.7-cp39-cp39-manylinux1_x86_64.whl": [
-          "uppKRmo7RHiz1Naq+0N9AmXWiXeZev9qEUzcSrRpEPg=",
           "cp39"
         ]
       }
@@ -73850,6 +73762,14 @@
       "wheels": {
         "mosaik.EId-0.1.0rc20220519000406-py3-none-any.whl": [
           "IVhDI8oyWPmKh0b3PHXXBzvzuVa7J5vVN2NDr5VpdSE=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0rc20220520000406": {
+      "wheels": {
+        "mosaik.EId-0.1.0rc20220520000406-py3-none-any.whl": [
+          "D4SARR+eNqyu7aS3ANDVQhQDBCTFKi19T31h+sJqeyw=",
           "py3"
         ]
       }
@@ -109577,6 +109497,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.2.4": {
+      "sdist": [
+        "ZzuqBxDtFNxtMSZd9x0u3t4SuOzj8+tT/UIvWOwwBBM=",
+        "pollination-sky-view-1.2.4.tar.gz"
+      ],
+      "wheels": {
+        "pollination_sky_view-1.2.4-py2.py3-none-any.whl": [
+          "NSk0rW917pxBY5tuQPVJlvG4XisY7u7mWUkZvkn2X9A=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "polyanalyst6api": {
@@ -125001,6 +124933,14 @@
           "cp39"
         ]
       }
+    },
+    "0.24.210928b1": {
+      "wheels": {
+        "qdk_sim_experimental-0.24.210928b1-cp39-cp39-win_amd64.whl": [
+          "G7nc6jjV8V2s1cHAsxTFBi8zkuF0bfZKVbXWiwFW7Tc=",
+          "cp39"
+        ]
+      }
     }
   },
   "qds-app": {
@@ -132933,6 +132873,12 @@
         "LxKBwO/K0b396sYunJAYKD5OuiGDhFpL6sgJd3aE4ZQ=",
         "ros-cdk-ess-1.0.5.tar.gz"
       ]
+    },
+    "1.0.6": {
+      "sdist": [
+        "tqoHo3gsPmzOwD2kPF6aSykL+EA9SxIve4ehl64eFqI=",
+        "ros-cdk-ess-1.0.6.tar.gz"
+      ]
     }
   },
   "round-robin-tournament": {
@@ -133152,6 +133098,12 @@
       "sdist": [
         "d5DXIPhJM6P4jbvhwFeOuYnYopfhryApgEcy+Bj8Sbc=",
         "rqsdk-1.4.1.tar.gz"
+      ]
+    },
+    "1.4.2": {
+      "sdist": [
+        "SKEVwPaQbVQ/snfthKk00DqkjqlcJSAX6boSgS9sUC8=",
+        "rqsdk-1.4.2.tar.gz"
       ]
     }
   },
@@ -145288,6 +145240,18 @@
       "wheels": {
         "tencentcloud_sdk_python_facefusion-3.0.637-py2.py3-none-any.whl": [
           "lApAZmdxy+ITPU8GrEY9bzTK4p9e6gdnagwiCWWr3IY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.638": {
+      "sdist": [
+        "wkrSZBgIuBGBSPUDVUyrfY+TlOyKfPAgG+kIT+gRbic=",
+        "tencentcloud-sdk-python-facefusion-3.0.638.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_facefusion-3.0.638-py2.py3-none-any.whl": [
+          "Sc/POwGtjcKc+pZdbcyWsW71C4oszMLraB3XUMin1RY=",
           "py2.py3"
         ]
       }
