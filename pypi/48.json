@@ -12573,6 +12573,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b20220520": {
+      "wheels": {
+        "bigdl_orca_spark2-2.1.0b20220520-py3-none-macosx_10_11_x86_64.whl": [
+          "Q9y0AzMn8ad7qd1w13ZF0586z2/955jDeorgANjTaTs=",
+          "py3"
+        ],
+        "bigdl_orca_spark2-2.1.0b20220520-py3-none-manylinux1_x86_64.whl": [
+          "hzZeDPeGHwU2KVYOf0jRDnkt+uQFq1VFQ4gHlb4lkzs=",
+          "py3"
+        ]
+      }
     }
   },
   "billing-api": {
@@ -31546,6 +31558,20 @@
       "wheels": {
         "drone_scratch4robots-1.0.3-py3-none-any.whl": [
           "w86KWNoiVNyaSSEm1MKB2TfPy/9tVts8aab/t5hlSxk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "dropland-sqla": {
+    "0.7.0": {
+      "sdist": [
+        "1FXsrdM79Xx2dJlNpr4uiMF32OHYMixL3aYkM5v6tww=",
+        "dropland-sqla-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "dropland_sqla-0.7.0-py3-none-any.whl": [
+          "WTZENBA28bu/EmvjpHjSUsca4gltuZnqBfpIbhsFsM4=",
           "py3"
         ]
       }
@@ -68510,6 +68536,18 @@
         ]
       }
     },
+    "0.0.75": {
+      "sdist": [
+        "B11R030HWyWlNX97RYz/0uVqkAcYwSJTMTl3O5XN4l0=",
+        "nbdev-stdlib-0.0.75.tar.gz"
+      ],
+      "wheels": {
+        "nbdev_stdlib-0.0.75-py3-none-any.whl": [
+          "D8N56yPxozUFOuhmgG9JUqap9RUXUpayd+0OnE8oo78=",
+          "py3"
+        ]
+      }
+    },
     "0.0.8": {
       "sdist": [
         "wa3IlJZYkZky6FpqE85luDLw1uzc1wKLAJX0NYLp6AM=",
@@ -70410,6 +70448,78 @@
         ],
         "neuroglancer-2.26.post1.dev0-cp39-cp39-win_amd64.whl": [
           "t8YidX1nvXswlxIIdDWCu0m2bVws2KjbvU88s/7Y7ag=",
+          "cp39"
+        ]
+      }
+    },
+    "2.27": {
+      "sdist": [
+        "Hopwq+kIv7g9xeJ+fWsOVv3dTYkzaKWbFD3C9k4IAO0=",
+        "neuroglancer-2.27.tar.gz"
+      ],
+      "wheels": {
+        "neuroglancer-2.27-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "NrJQe2/lDzt5fNHm3denY59q9yiUwvC3MaPGop0P1t0=",
+          "cp310"
+        ],
+        "neuroglancer-2.27-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8Jjf2bp/h9VJlpkplpQkUCNyS8L5Sc4G/08RDONFVEs=",
+          "cp310"
+        ],
+        "neuroglancer-2.27-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "10Y4s90wsPttAhffSP+eAA2Mgtf9rhta67k/sVziFx0=",
+          "cp310"
+        ],
+        "neuroglancer-2.27-cp310-cp310-win_amd64.whl": [
+          "1rZ4kxbimE0rA3n0Djfb08LNeXVWS4GOETqfJWjxc0E=",
+          "cp310"
+        ],
+        "neuroglancer-2.27-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "d5ES5lqovcQi/qiu/p+dtzSEldS0G+445VDs1u5lriw=",
+          "cp37"
+        ],
+        "neuroglancer-2.27-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "v17s+zuCMpey+kdOtxEhgXqKL89LXKtJVG1R6BKRmFw=",
+          "cp37"
+        ],
+        "neuroglancer-2.27-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "2cN67cE64Mnu2Iu3Tl33+g6HeVqXyW7C19h5zNLHVmU=",
+          "cp37"
+        ],
+        "neuroglancer-2.27-cp37-cp37m-win_amd64.whl": [
+          "yWNQksna2Xzb9y4xJwTuO5hfDbbzI/r3ZNGNQj/J8+o=",
+          "cp37"
+        ],
+        "neuroglancer-2.27-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "B3rr+sAwAU9/qwTT3Sh7rLVNzQVIL/hN9NmRNeld4Io=",
+          "cp38"
+        ],
+        "neuroglancer-2.27-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FIzFHHN1yJOFtL8pBmYT7asxrE9c+pbj52wQshLQ2K0=",
+          "cp38"
+        ],
+        "neuroglancer-2.27-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "+BURcdIKfTXAyNV1EBWt2tlCPDfcrj8Zo0ypvz/6xIc=",
+          "cp38"
+        ],
+        "neuroglancer-2.27-cp38-cp38-win_amd64.whl": [
+          "kOGP01X5BPfxyCS3Mer2nMwxDucWvUVSwplRQOwCxBY=",
+          "cp38"
+        ],
+        "neuroglancer-2.27-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "TX+F1a+tWwjLM6gX1vKp3NekpHs0FkzQjQSJQSrJ+h4=",
+          "cp39"
+        ],
+        "neuroglancer-2.27-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XnwCdKEydWKH+LRgpWUF8F1+7iPz6y7BrQ2Dlu9D604=",
+          "cp39"
+        ],
+        "neuroglancer-2.27-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "O4p5gVURL1381Ah3fgu0S3v8r6raMApBsoVov1d8EuE=",
+          "cp39"
+        ],
+        "neuroglancer-2.27-cp39-cp39-win_amd64.whl": [
+          "k/PblMHPg8pRDclBZCuaBwW9OaOJfGG9JQTB6FcrvMY=",
           "cp39"
         ]
       }
@@ -75704,6 +75814,16 @@
       "wheels": {
         "odoo14_addon_edi_ubl_oca-14.0.1.0.1.dev3-py3-none-any.whl": [
           "8U3TlNzKywI7JvP67tDCuY3LFK2AwaRRRfEDyS2E1dk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addon-hr-employee-service-contract": {
+    "14.0.1.0.1.dev2": {
+      "wheels": {
+        "odoo14_addon_hr_employee_service_contract-14.0.1.0.1.dev2-py3-none-any.whl": [
+          "dw/X/HCGVC039t+yxWNNn3D24BZpmSg2FODPo3hlJHs=",
           "py3"
         ]
       }
