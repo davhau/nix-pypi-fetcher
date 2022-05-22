@@ -3773,6 +3773,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.0": {
+      "sdist": [
+        "E/blZqZ7BdTPtYlNOWZNo6XkbmumFv291QACfSNkmMM=",
+        "annoworkcli-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "annoworkcli-3.0.0-py3-none-any.whl": [
+          "yLflp7YXDGxFvmwPbheBWPoK6RJN5RkLcAWdO3syOc8=",
+          "py3"
+        ]
+      }
     }
   },
   "antchain-riskplus": {
@@ -38084,6 +38096,10 @@
   "dynet38": {
     "2.1": {
       "wheels": {
+        "dyNET38-2.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "gli4g7TEn/KWyEhE1v07nnzKlprZJy4ZLmTOKeYP7A8=",
+          "cp310"
+        ],
         "dyNET38-2.1-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
           "Lot/qzg4ediuSCNkfBNYExJGT79Gmgxiu9C3SH7XDX4=",
           "cp310"
@@ -38100,6 +38116,18 @@
           "6rxVuxtgpJjk7+maM5pbTRBtsQDezaYYZ6WBBCm/EKI=",
           "cp311"
         ],
+        "dyNET38-2.1-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "quRrcQiXi26rIuzYVnqFYAFkV+ZnNiDf0H2Xf+v1DSY=",
+          "cp36"
+        ],
+        "dyNET38-2.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "kYwvbJj6mQcrQ/zQayydPz7ctthDop4ZTu/Su4aNVzE=",
+          "cp37"
+        ],
+        "dyNET38-2.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "/rlYjzCXut4J5/B0OUzDEJd6VFKQio9nz7pYe+SxR+o=",
+          "cp38"
+        ],
         "dyNET38-2.1-cp38-cp38-manylinux1_i686.whl": [
           "Wcat18FeZG7oGgYtf+Owh/GC09DOsTQCt+88vwytZgE=",
           "cp38"
@@ -38107,6 +38135,10 @@
         "dyNET38-2.1-cp38-cp38-manylinux1_x86_64.whl": [
           "QCvobDQml7l2iaXqshmyGBARRE8fHFBBKrTkGYXEn4A=",
           "cp38"
+        ],
+        "dyNET38-2.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "25rvSwnfhILfU47AUsuD/N1YUcAxWRVr0FeiaxhM9vE=",
+          "cp39"
         ],
         "dyNET38-2.1-cp39-cp39-manylinux1_i686.whl": [
           "qQR0PlefUp9w6s80eDSy5p4FeUbIx6IBJDxEnRd30UA=",
@@ -38116,6 +38148,10 @@
           "/aGTNvgVKDflQOYfQCVt1BEHutSdTeLOsT60mSv9NJg=",
           "cp39"
         ],
+        "dyNET38-2.1-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "TM8F9fy/6oczkSEWztvIvcVYrsUmgYbUUKuBw1flND0=",
+          "pp37"
+        ],
         "dyNET38-2.1-pp37-pypy37_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
           "p+MfU0k5lDnsEXGDzkewKleJSJqqWt7ekUOoVRDD0ZI=",
           "pp37"
@@ -38124,6 +38160,10 @@
           "0mQNGM8UP3pQCsyNXB9dkzxJTeVtxtDdez27s619qHw=",
           "pp37"
         ],
+        "dyNET38-2.1-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "z38NeMTGbat7hzY1gCxpfQ6jvexlsifa6qtX3T9p2K4=",
+          "pp38"
+        ],
         "dyNET38-2.1-pp38-pypy38_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
           "7wQmmqDFscxgmiLRQjh1jnJTwBPrCyeZbG0qpBAqFgU=",
           "pp38"
@@ -38131,6 +38171,10 @@
         "dyNET38-2.1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "8EK6grgf0UCY5dIyaBN0bbVQtboNGBT8Yhbrsd5PDlw=",
           "pp38"
+        ],
+        "dyNET38-2.1-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "NPTU4kz/kX7dRWOTLh9hTysj2iXm7rNUqQBnRxI8Vt8=",
+          "pp39"
         ],
         "dyNET38-2.1-pp39-pypy39_pp73-manylinux_2_17_i686.manylinux2014_i686.whl": [
           "fW/B1cUKNA62g1tP9XGggX7/XCjgdeempI0ANeEMyKg=",
@@ -113662,6 +113706,78 @@
       "wheels": {
         "systembridgewindowssensors-3.0.9.dev3-py3-none-any.whl": [
           "IqIHdfpKH+lRRwbghbvtycQHEru1k2iOYnTFgkdHHlI=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.0.dev1": {
+      "sdist": [
+        "fa0h+3hhtDMdBC/pmC/FrCqwIfH6aAouO/3WzgIlzfo=",
+        "systembridgewindowssensors-3.1.0.dev1.tar.gz"
+      ],
+      "wheels": {
+        "systembridgewindowssensors-3.1.0.dev1-py3-none-any.whl": [
+          "f/q4QMRLgYeKJ3RvyH4fCCpKOLJjC9Q5jUA+bcr1gaA=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.0.dev2": {
+      "sdist": [
+        "JbwtWWF+PdRWDkAkDsWa4KuF13OTYEEwg1Rgf+zicw8=",
+        "systembridgewindowssensors-3.1.0.dev2.tar.gz"
+      ],
+      "wheels": {
+        "systembridgewindowssensors-3.1.0.dev2-py3-none-any.whl": [
+          "midNVWYjCYiYXEoBYKY+ZgIbhn27iBgGToRly7Pve0s=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.0.dev3": {
+      "sdist": [
+        "h4GPiB9l0MwU8aEf2+kwIawQ7JBv05+7nmB6vxN8ZJ4=",
+        "systembridgewindowssensors-3.1.0.dev3.tar.gz"
+      ],
+      "wheels": {
+        "systembridgewindowssensors-3.1.0.dev3-py3-none-any.whl": [
+          "G8VFhknolr18BVO3G+gW7rWDCClXVSKcn26uVgHMYqQ=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.0.dev4": {
+      "sdist": [
+        "BOAicwL2Y7Wm1bkq9S3DfAWtB5CMPFvG4GZqOKtllcY=",
+        "systembridgewindowssensors-3.1.0.dev4.tar.gz"
+      ],
+      "wheels": {
+        "systembridgewindowssensors-3.1.0.dev4-py3-none-any.whl": [
+          "hsvNh3Wyg3rPBHFig89aJTQ+2VYAQU2kI4pSzdnTeqA=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.0.dev5": {
+      "sdist": [
+        "MKQgV/F0hcZZ+GXWwymv+JQG+KJsA8hq0vnpddfBuNQ=",
+        "systembridgewindowssensors-3.1.0.dev5.tar.gz"
+      ],
+      "wheels": {
+        "systembridgewindowssensors-3.1.0.dev5-py3-none-any.whl": [
+          "RQqMBavr1TTy3gz+o8tVqfJAWpS8s8X+QAl6ryzD2Es=",
+          "py3"
+        ]
+      }
+    },
+    "3.1.0.dev6": {
+      "sdist": [
+        "5/vjunCbi6F0qT/3iaWd7+6c7ZTop4pwoaG/wS89gU8=",
+        "systembridgewindowssensors-3.1.0.dev6.tar.gz"
+      ],
+      "wheels": {
+        "systembridgewindowssensors-3.1.0.dev6-py3-none-any.whl": [
+          "VA70wjcuwi4PQlPOdnTjiBZKlusKvj2dZe7YgSK1QF8=",
           "py3"
         ]
       }
