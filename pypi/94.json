@@ -33272,6 +33272,14 @@
     }
   },
   "fds.sdk.factsetbenchmarks": {
+    "0.20.0": {
+      "wheels": {
+        "fds.sdk.FactSetBenchmarks-0.20.0-py3-none-any.whl": [
+          "WBaIu23z/Cx7KZygxu54wo33TCViG8QqjnrygJffI+U=",
+          "py3"
+        ]
+      }
+    },
     "0.9.0": {
       "wheels": {
         "fds.sdk.FactSetBenchmarks-0.9.0-py3-none-any.whl": [
@@ -74106,6 +74114,12 @@
         "openshift-python-wrapper-4.10.5.tar.gz"
       ]
     },
+    "4.10.6": {
+      "sdist": [
+        "H7a4Tuezh7Sn+fp9IN0PAO9GM8Cho0Qv7jzUy8t5YAI=",
+        "openshift-python-wrapper-4.10.6.tar.gz"
+      ]
+    },
     "4.11.0": {
       "sdist": [
         "CIJTZnVXTcHzt2X6x/DtLi75Ky8z37IYbqnQs2FAzyI=",
@@ -74134,6 +74148,18 @@
       "sdist": [
         "dcW0uG/0LOaIgUzdp4hHUzHe7lxtcv7BSO9q+TlJRvA=",
         "openshift-python-wrapper-4.11.13.tar.gz"
+      ]
+    },
+    "4.11.14": {
+      "sdist": [
+        "5PuwLs1wa5n6kvY323evSGfjc2fBlwLzwCYiekvbfDA=",
+        "openshift-python-wrapper-4.11.14.tar.gz"
+      ]
+    },
+    "4.11.15": {
+      "sdist": [
+        "o8OJC56rqOF007cdedfUEC4pC5sloJDM71Ov8OpWqN0=",
+        "openshift-python-wrapper-4.11.15.tar.gz"
       ]
     },
     "4.11.2": {
@@ -81780,6 +81806,18 @@
       "wheels": {
         "pokeapiclient-0.9.0-py3-none-any.whl": [
           "+/ya8vHbqL97R6jzzvd0uT8cT5MHsZK8AKqeM/hZzDg=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "sdist": [
+        "5ess3PvKu6nrtujYZqOnjhOTtvgxjvv2out2+aLUbaE=",
+        "pokeapiclient-0.9.1.tar.gz"
+      ],
+      "wheels": {
+        "pokeapiclient-0.9.1-py3-none-any.whl": [
+          "hHPBi8dJtJkP1LiC4xykipFz7E75d/zbUGKBTi7HZyY=",
           "py3"
         ]
       }
@@ -95646,6 +95684,18 @@
       "wheels": {
         "rabbit_client-2.4.0-py2.py3-none-any.whl": [
           "7bNnLno1uAc1Zr5tN8J1aHWHsav7/9GeUxHY+kdAat4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.5.0": {
+      "sdist": [
+        "6Kxet4OP93ZtLrNQA/SteueHkRgnkF013gN8hXsRhtY=",
+        "rabbit-client-2.5.0.tar.gz"
+      ],
+      "wheels": {
+        "rabbit_client-2.5.0-py2.py3-none-any.whl": [
+          "ay3PE0E6OMGieYkMvSSBtQtKL+Ij99vHJj4vnuBK0LQ=",
           "py2.py3"
         ]
       }
@@ -121453,6 +121503,56 @@
         "CRAkyxJ5f+SCJ1MJYs1gP0lxXvLZcxHsRCCP9l7MVZw=",
         "websitetoclass-1.0.tar.gz"
       ]
+    }
+  },
+  "wechat-enterprise-sdk": {
+    "0.1": {
+      "sdist": [
+        "EI073d6vMoidv17iCGY8lc3hEisHoff3T0/SkFnDgz8=",
+        "wechat_enterprise_sdk-0.1.tar.gz"
+      ],
+      "wheels": {
+        "wechat_enterprise_sdk-0.1-py3-none-any.whl": [
+          "ndjwoezDYLKK4Bf6UTwrsEQEH3jRZYvOZlIjnQuzA/M=",
+          "py3"
+        ]
+      }
+    },
+    "0.2": {
+      "sdist": [
+        "9HNHjMlGXV9N0TN08fqdYnjZTSj3co9dpLOtFPiDLAk=",
+        "wechat_enterprise_sdk-0.2.macosx-10.9-x86_64.tar.gz"
+      ],
+      "wheels": {
+        "wechat_enterprise_sdk-0.2-py3-none-any.whl": [
+          "YLappdCYem2u0xVtSXIQoxAghRXnHOfNRWaf603qVVE=",
+          "py3"
+        ]
+      }
+    },
+    "0.3": {
+      "sdist": [
+        "zz81nvLvQLHFYLHWMr+JUHceB5Yjh9XLIPM3JcBsGp8=",
+        "wechat_enterprise_sdk-0.3.tar.gz"
+      ],
+      "wheels": {
+        "wechat_enterprise_sdk-0.3-py3-none-any.whl": [
+          "KNgVHFGeexU+NsxCKGnycHAosSGRpZVAqXEl8RRdNAI=",
+          "py3"
+        ]
+      }
+    },
+    "0.4": {
+      "sdist": [
+        "s5lR49x3zD+1zEj35t9xwsUUd9F/LG5aoUoFcdH1CUY=",
+        "wechat_enterprise_sdk-0.4.tar.gz"
+      ],
+      "wheels": {
+        "wechat_enterprise_sdk-0.4-py3-none-any.whl": [
+          "G9EYFEkveCAUHSmYpoeL5JMhvD8N3UhVUGytG+1Z0b4=",
+          "py3"
+        ]
+      }
     }
   },
   "wengmack-test": {
