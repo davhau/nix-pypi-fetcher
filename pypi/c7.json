@@ -17416,6 +17416,12 @@
         "cupy-10.4.0.tar.gz"
       ]
     },
+    "10.5.0": {
+      "sdist": [
+        "RV0ImYBLczaVtVZStEX2WtrhKjpps9gKIXdX3MtKDFg=",
+        "cupy-10.5.0.tar.gz"
+      ]
+    },
     "11.0.0a1": {
       "sdist": [
         "o8G4yVzphJkbKZhzhXPFSWUx7/aRbmbZ0r9LIdEFpH4=",
@@ -17438,6 +17444,12 @@
       "sdist": [
         "zO8qHHR4TAsJnqKbdsVU+75GANZXsI6/WcieRh91cU4=",
         "cupy-11.0.0b2.tar.gz"
+      ]
+    },
+    "11.0.0b3": {
+      "sdist": [
+        "EWFpcdNl1rMMjzMiaAybCh40Z431MNIiHQBrv/4foWY=",
+        "cupy-11.0.0b3.tar.gz"
       ]
     },
     "2.0.0": {
@@ -29655,6 +29667,20 @@
       ]
     }
   },
+  "emr-metadata-collector": {
+    "1.0.0": {
+      "sdist": [
+        "7f7J5LfwnZgsOURz19adx3zQ8gdyXIa3XLjXzSe0pno=",
+        "emr_metadata_collector-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "emr_metadata_collector-1.0.0-py3-none-any.whl": [
+          "q7d4jZRnUrHT3axQ4xhghpDfLW3wHeWVsxkbGiqaESk=",
+          "py3"
+        ]
+      }
+    }
+  },
   "emupbk": {
     "4.0": {
       "sdist": [
@@ -41158,6 +41184,14 @@
       "wheels": {
         "huaweicloudsdkdgc-3.0.89-py2.py3-none-any.whl": [
           "eWxY+7cqWfvQ82wp4gVsFXZGfu7zaU3QmXeuWkUi3GA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.90": {
+      "wheels": {
+        "huaweicloudsdkdgc-3.0.90-py2.py3-none-any.whl": [
+          "SNOVW22I/nwGjirP0Joh/Jd/gOuHVv1u9y10CgaLIWk=",
           "py2.py3"
         ]
       }
@@ -116434,6 +116468,26 @@
         ]
       }
     },
+    "2.8.1": {
+      "wheels": {
+        "tensorflow_aarch64-2.8.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "jTuz2ulSo2GYE7YvCnNYM0tlX/Zy5uDK5mlQBC4EOq0=",
+          "cp310"
+        ],
+        "tensorflow_aarch64-2.8.1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "fDjUzHzHLfVtqhYu2wDJYNE5goWZp5JZbMCbHqg5+ZI=",
+          "cp37"
+        ],
+        "tensorflow_aarch64-2.8.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ddJePQ5ZaFWs0wIV9FH/h/CCZ2LKjWoXeDYfT4fRSiw=",
+          "cp38"
+        ],
+        "tensorflow_aarch64-2.8.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "H5/eMIhXn6lQ5W1ZdyK9TQJ0Qu2DWtv8xVk6SgQJHCE=",
+          "cp39"
+        ]
+      }
+    },
     "2.9.0": {
       "wheels": {
         "tensorflow_aarch64-2.9.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
@@ -126962,6 +127016,18 @@
       "wheels": {
         "types_waitress-2.0.8-py3-none-any.whl": [
           "XnxWLhQyCL/2q9iXXze1DqBpw+Fr+2LDjaKf9uGvNKU=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.9": {
+      "sdist": [
+        "9iTDG1u56JhraciD3KOWDo9TFxRLeHLoXrelFdFGudg=",
+        "types-waitress-2.0.9.tar.gz"
+      ],
+      "wheels": {
+        "types_waitress-2.0.9-py3-none-any.whl": [
+          "3MIa/O/mTBbxiaqCedmQpXYRkCrv/it+IKWci57A9KY=",
           "py3"
         ]
       }
