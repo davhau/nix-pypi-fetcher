@@ -7625,6 +7625,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.3.0": {
+      "sdist": [
+        "Dxb6JChpNXzKgBKZfDBgxLjoxOPdZWzs8tUBrGboME8=",
+        "celigo_pipeline_core-2.3.0.tar.gz"
+      ],
+      "wheels": {
+        "celigo_pipeline_core-2.3.0-py2.py3-none-any.whl": [
+          "NeDGSIRe3YK5CEo0lNCyn5e962dF+fEvSEcUyw7/610=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "cellworld": {
@@ -11098,6 +11110,18 @@
       "wheels": {
         "climetlab_cems_flood-0.1.8-py3-none-any.whl": [
           "VHl1+HMX491E6xzVna/g8BK+n7cFCv0dIfKII/4x11Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "gPQZrXbYYgQ3PYQa2IOZvaEdNDG5gupVEm361QueqKA=",
+        "climetlab_cems_flood-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "climetlab_cems_flood-0.1.9-py3-none-any.whl": [
+          "rEfyA2bLMqzdIe3ptg4LL3YhhZKPI2WtRJr9iPdBFVg=",
           "py3"
         ]
       }
@@ -60139,6 +60163,14 @@
           "py2.py3"
         ]
       }
+    },
+    "2.0.4rc20220528000434": {
+      "wheels": {
+        "mosaik.HouseholdSim_SemVer-2.0.4rc20220528000434-py2.py3-none-any.whl": [
+          "MKNYc8/X4OgqH8PQ8/bhCDmyYc1d/G3BRD0/TLh+g40=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "mpddrp": {
@@ -71088,670 +71120,6 @@
     }
   },
   "odoo-tools": {
-    "0.0.1": {
-      "sdist": [
-        "L1zarvlnZjyGY4XBGELXzGL5lj48qIQ6EtzXbU9gpUg=",
-        "odoo-tools-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.1-py3-none-any.whl": [
-          "tkEH+TTtbjGrncGZst1LaDsiuCifxlQWWxunr2+AyEA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.10": {
-      "sdist": [
-        "wp7PHEb/Z4SVEoYmg3399sonyd2aAvY+DMc4NsJl6no=",
-        "odoo-tools-0.0.10.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.10-py3-none-any.whl": [
-          "MaGxuhEbi1YJcI60mRGiBlYXgcS+iRih/MaNstK61RU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.11": {
-      "sdist": [
-        "PgvVN4C+05TL0wXHm0JEdGehgid1IntlWMQDEwqdngg=",
-        "odoo-tools-0.0.11.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.11-py3-none-any.whl": [
-          "OwQA/+29opGjpeSnZRj58+pApBNFLpzkQxErOPvwhgk=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "pID4E23RCEmNIl16VPzz83IX/kukjexiNfKhcHvhhd4=",
-        "odoo-tools-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.12-py3-none-any.whl": [
-          "id/MxrUqI4TlOFLZNoBeHW4HotSgk+g7ME+6NRJv3Ko=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.13": {
-      "sdist": [
-        "A/u9glP45DkxJgadCGtR6xK6Dptg31tAIJdzl/If7gw=",
-        "odoo-tools-0.0.13.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.13-py3-none-any.whl": [
-          "JBO0ZatKYX8FpcQ3v03lV57BW9napv47Dbzv6AnEaFw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.14": {
-      "sdist": [
-        "d5ECtuuIJRem/ODNLENSFEtuBlBN6IEhE/jxzb9wsmI=",
-        "odoo-tools-0.0.14.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.14-py3-none-any.whl": [
-          "cZk9gbxpWLvci50uAOrfQ3tlTkA9r6wnM5nWZFRog5k=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.15": {
-      "sdist": [
-        "cWcADkBgnp6haxMIzxzy4LH5KYSTjNsZFQOCgE3ADP8=",
-        "odoo-tools-0.0.15.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.15-py2-none-any.whl": [
-          "IJ+wg8rML5N4an4+tWmED8z10WZu2GP8jsC9ZoZgkH4=",
-          "py2"
-        ]
-      }
-    },
-    "0.0.16": {
-      "sdist": [
-        "pmgsBBYGYQgExhUOO289oJG1+nL3S/DWxNpFyWeCEkk=",
-        "odoo-tools-0.0.16.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.16-py2-none-any.whl": [
-          "Ahi3G0flD5YXVAYTR+cxCvLvCdqyBM4iki1I0G8zXxc=",
-          "py2"
-        ]
-      }
-    },
-    "0.0.17": {
-      "sdist": [
-        "OsFEF1DP7QDewMOgtZKnKHFFH8bNop0DEvOYDERcNhw=",
-        "odoo-tools-0.0.17.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.17-py2-none-any.whl": [
-          "X20yoVHaU+aInobCxDz5kJ/elVFbsUdK5wNa6V6EMEw=",
-          "py2"
-        ]
-      }
-    },
-    "0.0.18": {
-      "sdist": [
-        "OybQ9y8UQuGmALy4hG0FE5fXDIhiD/bnX0MAQ0nDVgU=",
-        "odoo-tools-0.0.18.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.18-py2-none-any.whl": [
-          "e44tv3g7+05rGMAhGmZbvsINmlqGifwMT9VcGfMuDWE=",
-          "py2"
-        ]
-      }
-    },
-    "0.0.19": {
-      "sdist": [
-        "TLCFSUy4djIfx2n2BaSuRy0BmzSpzuUOudmUHCz6KM0=",
-        "odoo-tools-0.0.19.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.19-py3-none-any.whl": [
-          "z2dz/1Q0tHNVroX49r3KyLBjZFEGMma9jNhl++Fn7cg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "fXC8/U6XHVTkKjYhdW5b9q1kcbDJaYc5tzvrT/OVFaQ=",
-        "odoo-tools-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.2-py3-none-any.whl": [
-          "Oi6i0Q+ftXABlm4kdVq9QoDNl0pimLWUIjP+l//+w6w=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.21": {
-      "sdist": [
-        "pOo0peAdLVfKExstLMLM0l4soU0gdMoWwkW4IUiEwWU=",
-        "odoo-tools-0.0.21.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.21-py3-none-any.whl": [
-          "jT0HwSpuOJK1+qMxUxklxMAzl2Eq/L+eEeOKU1q8sZM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.22": {
-      "sdist": [
-        "VoZsF8ybVvIfD4C5c9M1cf0khtgoj7jJaxJW3bH7hOY=",
-        "odoo-tools-0.0.22.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.22-py3-none-any.whl": [
-          "22s0mhrJ59v/fViVYIFzA38ZVXo4jDQSfkVoUg6gBGc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.23": {
-      "sdist": [
-        "/0KcNKacl4CSTsCkxrCUPiw5ufEsi8I/WoehUYWZ+wk=",
-        "odoo-tools-0.0.23.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.23-py3-none-any.whl": [
-          "JYp6A9uma1ieINe1hZQ7QJ6uj9+cSXIaHkvW6kzVmIA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.24": {
-      "sdist": [
-        "6OaBFnGJniZqlaEh1OmpOxf8MqG7BcxZmr72bbmaHj8=",
-        "odoo-tools-0.0.24.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.24-py3-none-any.whl": [
-          "Rp0fJmJ+eVyIRNdwMNGgckUX5zlUWGbxVstWyyqh/Yw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.27": {
-      "sdist": [
-        "DCtGht9MMKFZJtqLt6OPSnqRDP43r5bcQw7HrYZsgqM=",
-        "odoo-tools-0.0.27.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.27-py3-none-any.whl": [
-          "ItefV2mc089FQqFkZmXC6yaACR9Ahh2C9EBmWLacWPU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.28": {
-      "sdist": [
-        "a23UmsPCKOg4FrBKw6NaiZTyZB9iqrK1OP3YFQf4V60=",
-        "odoo-tools-0.0.28.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.28-py2-none-any.whl": [
-          "sK/lO11FUpHg3gltftlUVJ0xZBURGnX0wIw9PoI2vYQ=",
-          "py2"
-        ],
-        "odoo_tools-0.0.28-py3-none-any.whl": [
-          "tLYSQZ7zsGgtS6UO8EP9FcoFwPWZXyhmPvG+rqVvYJQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.29": {
-      "sdist": [
-        "ArG1JGVs1d2N2UiGIatpbHGL2gEbwVaj0oZGiQHN/yc=",
-        "odoo-tools-0.0.29.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.29-py3-none-any.whl": [
-          "2u3+vv0WGf+Z15sMcoSWlgKG8jAb5XJvBW6f4B04gVA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "qkGUTfiyH1X7NmPjRpkgzc8QqmV8snVtc6/hZ1YaNr8=",
-        "odoo-tools-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.3-py3-none-any.whl": [
-          "fBRQ3vbc4wKtA5R7PeKc1advoB5RlhTlMRhZnPE+yt0=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.30": {
-      "sdist": [
-        "lA/vy+g8qiEORpa/dxKO144XFrnRqygS0WTGhq9zDzs=",
-        "odoo-tools-0.0.30.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.30-py3-none-any.whl": [
-          "6BBP1mcTM0CikF5a/+UMUs7qufxH8cdh0CTSMz623KQ=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.31": {
-      "sdist": [
-        "Uvv/gvkFZeAmcsbbcq6v/1tmxVX4oB1LnAeFCWpAZ78=",
-        "odoo-tools-0.0.31.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.31-py3-none-any.whl": [
-          "S3iTXO/9mCCuQ9TbD6gOgCPVCcn8F9a8Ko8QLtcY/AA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.33": {
-      "sdist": [
-        "wKSXu3QHSZ9uWKZm9AHF2DZ+H4NaBTTp4BOP2M8C/tI=",
-        "odoo-tools-0.0.33.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.33-py3-none-any.whl": [
-          "29I3Y89SmdJfD0/mpsaEJib6JkF8vIVdo2LV84LmzKw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.35": {
-      "sdist": [
-        "L2LHVYBue+BHIoLwKv88PkPk1jb7ONBj3Dh1r4D3e0E=",
-        "odoo-tools-0.0.35.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.35-py3-none-any.whl": [
-          "wPEVLDRurQYe0tz4EP1Vmp1QoLGmhzlg8OvNCAHgNEI=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.36": {
-      "sdist": [
-        "syCsrw2c+WZjXGGxdeWxINSoOGvYu74NwHkgd7fc0yk=",
-        "odoo-tools-0.0.36.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.36-py3-none-any.whl": [
-          "rGUDM9nyaXvyRduw/GyCkvA102AUD6jstracJnsxMNc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.37": {
-      "sdist": [
-        "Pyuow+z7X9iEIM+XlBn9ALwCpRVt51aPdglDeMqqwsU=",
-        "odoo-tools-0.0.37.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.37-py3-none-any.whl": [
-          "L6/sm4Tc0/5LpSZ6bUlrf0ejxqBxuGZbvzpBtyP/ntE=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.38": {
-      "sdist": [
-        "3EjBplhqxCuVRuRrmjUcM82iW6Wn9zjz/gh1M4Q7aNU=",
-        "odoo-tools-0.0.38.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.38-py3-none-any.whl": [
-          "KdkIj+Dz+1oN1kAhs8sGXQfyN7ZICgHCrO+WGPkpT3o=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.39": {
-      "sdist": [
-        "dLHQdL3UykAAcPd5691k4Gxo8gh65Ybwyf8BLT3mkFQ=",
-        "odoo-tools-0.0.39.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.39-py3-none-any.whl": [
-          "q6oxl3/73cGC2AV5OH3fIUeNSY2gabicxCWAF4l+GOA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "gVDCqxrPXgzZIsWaQWq5lJL84J7Ms3l+fEzYyajYXPo=",
-        "odoo-tools-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.4-py3-none-any.whl": [
-          "rDsX8eIP8/Swn1mPZfDxECE3tZ4COF1R1ScsIf4t1MI=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.40": {
-      "sdist": [
-        "U0CQkPDhuQ9RJHR0vK9ASWOLyY7ANlxXHcLIC+0eCLU=",
-        "odoo-tools-0.0.40.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.40-py3-none-any.whl": [
-          "2uxDpDRyJZaSJ9m/nrnQSLC5jNhI6UWvOCXRt+4SG1Y=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.41": {
-      "sdist": [
-        "lbZzKM5sXPWHVtZ4KFtEvPUp31+z7W8zeIwywRg8x7Q=",
-        "odoo-tools-0.0.41.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.41-py3-none-any.whl": [
-          "Zfcprpbkw9jHxqh5wJtMGZER60jJVcNy+CvqA2xkSn4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.42": {
-      "sdist": [
-        "5qlipHl+7JIOvuyJ+AZQw3l5rB/yrGG/TvSZXduBrY0=",
-        "odoo-tools-0.0.42.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.42-py3-none-any.whl": [
-          "ZmHUOd+PaP/7B8WJc13jPPSgZtoY0JlbDfvJs2GBoA4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.43": {
-      "sdist": [
-        "STJOvkVEPAFRBvLfCAHiocGEG1VYDzHczkiLU9Kf/xg=",
-        "odoo-tools-0.0.43.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.43-py3-none-any.whl": [
-          "j4eidVh1YzIZU4G/O98Dl6PuIBQxkF4OISj2WghCvAM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.44": {
-      "sdist": [
-        "NOiJigR1tzd//4ZmHkMI1pLatbyIKs8xZlwiQQ4Yx5A=",
-        "odoo-tools-0.0.44.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.44-py3-none-any.whl": [
-          "M3aoymPTcsJc5wUJ60x+jCLTtwQmGaMQU/xL16YRO6o=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.45": {
-      "sdist": [
-        "ivXp8XrrFz9Y61e1AYnZIJnW1MJHA1lDHKtXCe7naAQ=",
-        "odoo-tools-0.0.45.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.45-py3-none-any.whl": [
-          "ooO876tbcZEDYQmtLWCG8LbeCmk6Cdau29OKHEgHSv4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.46": {
-      "sdist": [
-        "QR6ZmiIAZ3c/6xxDDPQqvSzsrNcdS5Qc9e2Z46v9srA=",
-        "odoo-tools-0.0.46.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.46-py3-none-any.whl": [
-          "jBdIfesbOAqPzQE9/zBhzynkgAe+ujNQ0SiFcjIV8og=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.47": {
-      "sdist": [
-        "sHbXEZvwPgtIOcyi50FTF/eZygEFQ/BCq6ZOtIxiFxY=",
-        "odoo-tools-0.0.47.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.47-py3-none-any.whl": [
-          "gGDDuFNvS9TETIx9/01FD4YZEtcHOeTetDoH1tJOsMg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.48": {
-      "sdist": [
-        "7y7zMlyE04ZO9EuC9P2NTE3yQGcGgbX0EL5RBSLvTZ0=",
-        "odoo-tools-0.0.48.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.48-py3-none-any.whl": [
-          "KKISmZowhy/Zqe8T185SpcqtXWZZ28BzdCi93DJNXCM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.49": {
-      "sdist": [
-        "Yluxdk7KEAOK7loHUZ5pPXVSjMAXTaKKWGpqy9qqvIo=",
-        "odoo-tools-0.0.49.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.49-py3-none-any.whl": [
-          "7w5E0VsOooJAtgQydFBkdF01cx51HfsB0iniVn/gZ6s=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "06IbMr34oyifsh3/sfYrtv5oUAZAXDLcG+iNPycHXV8=",
-        "odoo-tools-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.5-py3-none-any.whl": [
-          "XQK5KMFNb7acWeokhuth9qVl6fDgTlV3e3JHPe8BZRM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.50": {
-      "sdist": [
-        "cT88dnwOM4PtNOpBz+RHlmzi/WUxrfzCCBr8sd4FZtM=",
-        "odoo-tools-0.0.50.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.50-py3-none-any.whl": [
-          "Vt3KGfZUeZo8cGccRLyt8jAMt3V1sGAB24pcf2MiCao=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.51": {
-      "sdist": [
-        "6HtSvk4GAzcd0H+j5AoOoRcbJHXhXGsMjZBEY5ehrfU=",
-        "odoo-tools-0.0.51.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.51-py3-none-any.whl": [
-          "70xL85LKPdEBGEnUL+iCd/lFeyaKjkUhpWNdjWKGVTM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.52": {
-      "sdist": [
-        "uhgt54pfzS1eWuY0WZK5K4/oLCSOIkonXBpR29WF4Bo=",
-        "odoo-tools-0.0.52.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.52-py3-none-any.whl": [
-          "/fraqe3CmY9aLzc5+S58u75fKzlIw3X+rISbCuRDLgc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.53": {
-      "sdist": [
-        "B6b5v7hgH1l/V5Mg7o/RlzLqYGAP/ml2C5o04OncA2s=",
-        "odoo-tools-0.0.53.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.53-py3-none-any.whl": [
-          "DfIAjsWlXNU1KDcZbozXohQXkZZKhi3weUPUvVAGNRI=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.54": {
-      "sdist": [
-        "8Daq7lCcqiH1cnMOUnfGDrBEQXtaqem6JQH0zKDWorw=",
-        "odoo-tools-0.0.54.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.54-py3-none-any.whl": [
-          "vBV6WVxarkWv+tvz6FLCkHHrELEtHAyKYsqoqzhe/ac=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.55": {
-      "sdist": [
-        "4vLENcGnssMZsjeMJ0B69FtPSrnziQQMKHfbMpAonso=",
-        "odoo-tools-0.0.55.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.55-py3-none-any.whl": [
-          "t3Tkp0m9PXfTI4++YCi718LfESIsHQst8rLIzAzq10o=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.56": {
-      "sdist": [
-        "UlW4Wxe5TbF9L/YwLfSiqVvKfUns3IPJwSD/2OafwbY=",
-        "odoo-tools-0.0.56.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.56-py3-none-any.whl": [
-          "Pk69TVo8KhkwtobBoonj68LDI6CSRCRq0sEulHraNks=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.58": {
-      "sdist": [
-        "HBpXXtquDKMqgYVgmF4WQgdOIRWqW4DL49OJeAu/tZw=",
-        "odoo-tools-0.0.58.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.58-py3-none-any.whl": [
-          "s5u39chfT9y8ooVXDVpos2TNEVIQkA1u0tTnxH+sojA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.59": {
-      "sdist": [
-        "9agE2UXHraWC/NOjdyhKb0sZwyHu/GuEYO/viHKcqgo=",
-        "odoo-tools-0.0.59.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.59-py3-none-any.whl": [
-          "clEcpLsD9Vcx567ix6LmkI1E5XB4SD4/ghdpbJZbUcw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.6": {
-      "sdist": [
-        "Kqkghr0Sgh8dmQpFzbeP81HSiv6vd/gwWoKEbpMX2ok=",
-        "odoo-tools-0.0.6.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.6-py3-none-any.whl": [
-          "8mbXeQguRY2Dcm2uqMu9e8MHsDVXf9Z+zg4xr7eUvRI=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.60": {
-      "sdist": [
-        "eY6DhABhyMx6AKl94u1/4GXAgrqoP2rihbROk8ya3Xw=",
-        "odoo-tools-0.0.60.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.60-py3-none-any.whl": [
-          "TSgYSU7caT2KodmzfOgIGa4O687jL3Gt/h3ChPVS/lM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.61": {
-      "sdist": [
-        "fTjdqErz/3dTZ+Fs6AxNPd2BCIjZYBjlvdFr0IWuifA=",
-        "odoo-tools-0.0.61.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.61-py3-none-any.whl": [
-          "Vtj59FxNZmocsHt9sy82hi3KW21BpxIjc18oUEmKm54=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.62": {
-      "sdist": [
-        "6VpsYxmV8EkyJ4Rieh+qLYeKSL4y3MVoXLkaTMnUp08=",
-        "odoo-tools-0.0.62.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.62-py3-none-any.whl": [
-          "ZwQTC52Qv9tk1JaPhfNn5/7qghehW8pOfF6wwMy7qs8=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.63": {
-      "sdist": [
-        "rXTnnIIw9mJ75Ptvyk+woqkbDzWQymNOZiiMPg4KfqQ=",
-        "odoo-tools-0.0.63.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.63-py3-none-any.whl": [
-          "S5Bn6rm5uAoqc1LrxAZq57QoVDC+HTYaw826JMT1h3k=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.64": {
-      "sdist": [
-        "svPyeAZFgvzwDndZTwXsQxtdb41HHLTJTrv4GZYxxEo=",
-        "odoo-tools-0.0.64.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.64-py3-none-any.whl": [
-          "rwyCC+gTkZrDHdlZcF9U9ZfUsrl9/daLj5PAf6qJ8lk=",
-          "py3"
-        ]
-      }
-    },
     "0.0.65": {
       "sdist": [
         "aX9dIUyvGyMbwEZnN7ixwevcibVyMDH7MLy2Dk83eHk=",
@@ -71760,42 +71128,6 @@
       "wheels": {
         "odoo_tools-0.0.65-py3-none-any.whl": [
           "9/Jf9/i23+CSuaMYUOAtCRi0hR60dx4Vs05B0C7NJnM=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "G4MTrJ80uZs69elzt6Wctc20oFdkqd24aOCmWe9FL3Y=",
-        "odoo-tools-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.7-py3-none-any.whl": [
-          "aEK+zzJCam1AmkerQxHZlJETYyx5cgmHMA/8ynelT4w=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "aqrfxGuhmhMNI4nHzEl6222Hzu3y//ANwRLR4595Hfk=",
-        "odoo-tools-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.8-py3-none-any.whl": [
-          "MVnPv3eyICtqG4Xc5V6cCtK3CMHm1IyjdTFxk97A5Pg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.9": {
-      "sdist": [
-        "ZXXpF9JcDNb7htA8eSVnR8ZZdariyDnxGm8s6nf3mQM=",
-        "odoo-tools-0.0.9.tar.gz"
-      ],
-      "wheels": {
-        "odoo_tools-0.0.9-py3-none-any.whl": [
-          "LgMM7EzHGdsuqr8dVdpPJBURD4JqmUL48Q45P57JOAc=",
           "py3"
         ]
       }
@@ -89764,6 +89096,18 @@
       "wheels": {
         "pyderman-3.2.1-py3-none-any.whl": [
           "/WRIqj1eK4jdF0yTBAU7PTpsTyuAh1rMKAjlev5EMis=",
+          "py3"
+        ]
+      }
+    },
+    "3.3.0": {
+      "sdist": [
+        "Yw6aP+jEDDzWgbAhfHBsW0yyILRmfPH0NPKlHKTbZdQ=",
+        "pyderman-3.3.0.tar.gz"
+      ],
+      "wheels": {
+        "pyderman-3.3.0-py3-none-any.whl": [
+          "zQSbMTX8OhUE27CCOQY0hILKsfVrrX20+61nDm6kGgM=",
           "py3"
         ]
       }
