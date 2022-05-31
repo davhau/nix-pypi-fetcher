@@ -19049,6 +19049,20 @@
       ]
     }
   },
+  "compositional-attention": {
+    "0.1.0": {
+      "sdist": [
+        "ZhpAD92YYixpCOadz+6uaZCRSlFbahCkTupADfXEhsY=",
+        "compositional-attention-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "compositional_attention-0.1.0-py3-none-any.whl": [
+          "3SZRdNoe7ytIuMeC0a3BfiXbGnh7xFyTjymNK4Yvn80=",
+          "py3"
+        ]
+      }
+    }
+  },
   "concurrency": {
     "0.1.0": {
       "sdist": [
@@ -26828,6 +26842,18 @@
       "wheels": {
         "dbnd_airflow_versioned_dag-0.75.3-py2.py3-none-any.whl": [
           "E6Zu5eemg/m+Xg14KBmtLG/2DgJaZnZwZIjWIucSkzI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.75.4": {
+      "sdist": [
+        "O6Pf+oAFfeSAqGKyKaixWtAJwurA5+IZBt73m0DlWxw=",
+        "dbnd-airflow-versioned-dag-0.75.4.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow_versioned_dag-0.75.4-py2.py3-none-any.whl": [
+          "FbPOTvf760V0FBXSAlWrH3ij9sjrg/vGSTUH54bOXtU=",
           "py2.py3"
         ]
       }
@@ -34706,6 +34732,18 @@
       "wheels": {
         "ec2map-1.0.2-py3-none-any.whl": [
           "Sjbkcl1ol7G34aq76j+0DPIaCqiH/vYzMGaVJXNR6UM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "41UBHmXptl6Ud+dZzWFh5ySAhw/pMiV2kAg5ZjrcZZU=",
+        "ec2map-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "ec2map-1.0.3-py3-none-any.whl": [
+          "vwY8VYy8tsKHRJJ6C/H560s81LVTxKN3lplOjo+wGZ8=",
           "py3"
         ]
       }
@@ -76495,6 +76533,12 @@
         "yWHwfaHTKVKGjFF7jE62Q8iApUdAZPaqGydQLmzfwLc=",
         "nonebot-plugin-covid19-news-0.2.9.tar.gz"
       ]
+    },
+    "0.2.9.1": {
+      "sdist": [
+        "dpXerhTsZ1b/FBlccCViCGkYC0rkWaziaE247vrEwWk=",
+        "nonebot-plugin-covid19-news-0.2.9.1.tar.gz"
+      ]
     }
   },
   "nord-pygments": {
@@ -107143,6 +107187,70 @@
           "cp39"
         ]
       }
+    },
+    "1.9.1": {
+      "wheels": {
+        "snapml-1.9.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "ldxCopPfcSNjL/vzqabRZBTEbCnW2TpsCqltMDdi7OU=",
+          "cp37"
+        ],
+        "snapml-1.9.1-cp37-cp37m-manylinux2010_x86_64.whl": [
+          "67bSz3iHWXxr7Zt0kaDDQ74ef0Cn6XhiFNGjOuWCTxg=",
+          "cp37"
+        ],
+        "snapml-1.9.1-cp37-cp37m-manylinux2014_ppc64le.whl": [
+          "xjXAYlcyWxsPEf+Ta3lrtW/7jlGWf6WqRmVXetszGq8=",
+          "cp37"
+        ],
+        "snapml-1.9.1-cp37-cp37m-manylinux2014_s390x.whl": [
+          "DvzNVRw9pky9ndcVGlsDE2POYeGakthvTkuo3+3jwTg=",
+          "cp37"
+        ],
+        "snapml-1.9.1-cp37-cp37m-win_amd64.whl": [
+          "Qsf2BCydBl4Lu3nufVh6YCKiB4DSFz2ILIuWwIxqVgc=",
+          "cp37"
+        ],
+        "snapml-1.9.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "PvPssZHATN8NCsBcEktoeIVmgDuKuiLMRrL/tTR2S7A=",
+          "cp38"
+        ],
+        "snapml-1.9.1-cp38-cp38-manylinux2010_x86_64.whl": [
+          "JpQKAyw9dx07+Ey03XcwYRDj4KXUc4JIAJjbYIna1k4=",
+          "cp38"
+        ],
+        "snapml-1.9.1-cp38-cp38-manylinux2014_ppc64le.whl": [
+          "45aZyzASR+Kk7PUxw7rBMS4K6JXlwV/PBaEBQD9X960=",
+          "cp38"
+        ],
+        "snapml-1.9.1-cp38-cp38-manylinux2014_s390x.whl": [
+          "KVfBuw1yHf1D9VL6mya6FNPMt00/+EC0FsxFPomENy4=",
+          "cp38"
+        ],
+        "snapml-1.9.1-cp38-cp38-win_amd64.whl": [
+          "XZcDpT3J021Ibc8akYfxedXkZWqUnZ83EnV8rsXoI5E=",
+          "cp38"
+        ],
+        "snapml-1.9.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "UFLRgrt4gkIogwfae/aojv2o5+OfdxnHbZ/z8jJMF8g=",
+          "cp39"
+        ],
+        "snapml-1.9.1-cp39-cp39-manylinux2010_x86_64.whl": [
+          "m+DPpHNugDiO3oF0wkCsOaDgyIENdWDHbtOHPIek1Pc=",
+          "cp39"
+        ],
+        "snapml-1.9.1-cp39-cp39-manylinux2014_ppc64le.whl": [
+          "Nr6A2QKwUTBEWPwPF7JIU4dmM1mOwcMKmq23nB5zhug=",
+          "cp39"
+        ],
+        "snapml-1.9.1-cp39-cp39-manylinux2014_s390x.whl": [
+          "CzAsGQp1cpOBbymwZHKpt4Ondt23t3o//+7+EOGQyak=",
+          "cp39"
+        ],
+        "snapml-1.9.1-cp39-cp39-win_amd64.whl": [
+          "7kRSJn12lj0F0Qn+H/amNS5ITuRJ3J6n7i+CR4olyZQ=",
+          "cp39"
+        ]
+      }
     }
   },
   "sneact": {
@@ -110998,6 +111106,18 @@
       "wheels": {
         "streamlit_folium-0.6.12-py3-none-any.whl": [
           "b7p2T619c7kBVUnJGWZYWW+P2fab0eGHuOl0KCdA7O4=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.13": {
+      "sdist": [
+        "zBCK0nP5G1nlJJ7MqYjg5Wq+Oz6I8RG9lYzRe8cPv9k=",
+        "streamlit_folium-0.6.13.tar.gz"
+      ],
+      "wheels": {
+        "streamlit_folium-0.6.13-py3-none-any.whl": [
+          "/XkovKKGqfmQhWQKmCVABeCKAK0hD6ECDUVx7FYHMCc=",
           "py3"
         ]
       }
