@@ -8138,6 +8138,18 @@
         ]
       }
     },
+    "1.159.0": {
+      "sdist": [
+        "tuCLXHccpwoHcv9GZmSQlSGxKFwQac9mFaVNu4PQZhw=",
+        "aws-cdk.aws-cloudformation-1.159.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_cloudformation-1.159.0-py3-none-any.whl": [
+          "AmWPniOXafydfM9O2vprQDxwmPwxUJ3L/c/dfWofxgo=",
+          "py3"
+        ]
+      }
+    },
     "1.16.0": {
       "sdist": [
         "HrJ46sVV58g1PxP99bJ3Es8YaZyrH5Ot2uC3npr5DWQ=",
@@ -10596,6 +10608,18 @@
       "wheels": {
         "aws_cdk.aws_sns-1.158.0-py3-none-any.whl": [
           "Pwq75WLLJ7lGLo/k5MdKDbOJCX+Ny9GFM4MfRrUPWko=",
+          "py3"
+        ]
+      }
+    },
+    "1.159.0": {
+      "sdist": [
+        "4swQrChGY3L15uBkugohnHSRNh1ruo7U3PiJ3z+AU0M=",
+        "aws-cdk.aws-sns-1.159.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_sns-1.159.0-py3-none-any.whl": [
+          "hiekF92tXFCDyO8EzObQJGY4rHAMXHjbV48ObHyisHY=",
           "py3"
         ]
       }
@@ -20918,6 +20942,18 @@
       "wheels": {
         "cdk8s_image-0.2.162-py3-none-any.whl": [
           "MZx45OE/MRFvqbvkM4KkbcwFTO0fFzLp3mapwtG6T/M=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.163": {
+      "sdist": [
+        "ERmjIOhcMlxxE/ElNAtZmYZp0kKqhVsUVBjE1BftwCQ=",
+        "cdk8s-image-0.2.163.tar.gz"
+      ],
+      "wheels": {
+        "cdk8s_image-0.2.163-py3-none-any.whl": [
+          "6otp6ykndjS3JfskezEDYqlQfmO+7qOttOFl0d3OLNA=",
           "py3"
         ]
       }
@@ -49388,8 +49424,28 @@
     },
     "0.57": {
       "wheels": {
+        "fastdup-0.57-cp37-cp37m-manylinux_2_27_x86_64.whl": [
+          "BHWjGYc6390SaH5P6d7coE0JNBYcFGNsCiVl50Q58LA=",
+          "cp37"
+        ],
+        "fastdup-0.57-cp38-cp38-manylinux_2_27_x86_64.whl": [
+          "sgmc7kMLIPBC3NM9KFvVVX+46PUeIb5J9bk/+lpTGR0=",
+          "cp38"
+        ],
         "fastdup-0.57-cp38-cp38-manylinux_2_31_x86_64.whl": [
           "Apqd6zzN24qsJEmm5yHC7DVe5wnWXTaUnWrHQPFYXao=",
+          "cp38"
+        ]
+      }
+    },
+    "0.58": {
+      "wheels": {
+        "fastdup-0.58-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "KVe/Z3D30zljI9TIvzbKd8Q5OI8TN3Xcze8lq460P/0=",
+          "cp37"
+        ],
+        "fastdup-0.58-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "XQuzQNSQEwpCx66h9yZzIkbSXvL7LRfCvp/Xu3ODOMI=",
           "cp38"
         ]
       }
@@ -86559,6 +86615,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.0.2.dev3": {
+      "wheels": {
+        "odoo14_addon_sale_order_lot_generator-14.0.1.0.2.dev3-py3-none-any.whl": [
+          "MopgmjQrL7guIxNE4TzsH+GMq8+ByZNU5sfOOQkaVLk=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addons-oca-account-payment": {
@@ -118987,6 +119051,26 @@
           "cp37.cp38.cp39.py37.py38.py39"
         ]
       }
+    },
+    "0.95.0": {
+      "sdist": [
+        "s2q6R60UunV6HvmCAPx/6gmjkQpLTNTtKV4GGLhwqPE=",
+        "semgrep-0.95.0.tar.gz"
+      ],
+      "wheels": {
+        "semgrep-0.95.0-cp37.cp38.cp39.py37.py38.py39-none-any.whl": [
+          "mjmQeKfNQNXhNVomnehRysL/3aJcEaV9et4jF/xh9fI=",
+          "cp37.cp38.cp39.py37.py38.py39"
+        ],
+        "semgrep-0.95.0-cp37.cp38.cp39.py37.py38.py39-none-macosx_10_14_x86_64.whl": [
+          "yO3PmWo6jAmDoBpsr7LRxWen4u6Q9fy4oDJ7yi5zjkw=",
+          "cp37.cp38.cp39.py37.py38.py39"
+        ],
+        "semgrep-0.95.0-cp37.cp38.cp39.py37.py38.py39-none-macosx_11_0_arm64.whl": [
+          "50c6yMVN8CFZWklrib0E3NQKqmD2M5wN4tgcz/2D5DQ=",
+          "cp37.cp38.cp39.py37.py38.py39"
+        ]
+      }
     }
   },
   "semi-ate-control-app": {
@@ -132588,6 +132672,18 @@
         ]
       }
     },
+    "3.0.473.1": {
+      "sdist": [
+        "St4zpdWS6ZY9U3WYJlgbhV8FXzGtimZyxmYyesOv+wQ=",
+        "tccli-intl-en-3.0.473.1.tar.gz"
+      ],
+      "wheels": {
+        "tccli_intl_en-3.0.473.1-py2.py3-none-any.whl": [
+          "MDrxhnr2Z3UKcy1YYJ2ZWCHPJX2+rFrE2KmGEOFlQHI=",
+          "py2.py3"
+        ]
+      }
+    },
     "3.0.48.1": {
       "sdist": [
         "c0/pMq3sekWFSQVsZFwPL4r00HMqLNleX4czHx1R51Y=",
@@ -138046,6 +138142,18 @@
       "wheels": {
         "tencentcloud_sdk_python_cls-3.0.647-py2.py3-none-any.whl": [
           "z/jnY/OkYCwAxv6hhhW0pdKayzMQryOpQOXmT1moefo=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.648": {
+      "sdist": [
+        "jxsazSDCsE5pKABx252qzcXRkywN8sPXTN36zICd01U=",
+        "tencentcloud-sdk-python-cls-3.0.648.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_cls-3.0.648-py2.py3-none-any.whl": [
+          "61iLG2v0BOchZuwuZWe6AIvsKtDg5nk8CD2w+fYnYFM=",
           "py2.py3"
         ]
       }
