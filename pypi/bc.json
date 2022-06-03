@@ -11269,6 +11269,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b20220603": {
+      "wheels": {
+        "bigdl_orca_spark3-2.1.0b20220603-py3-none-macosx_10_11_x86_64.whl": [
+          "Y5mSqQ3no8qTh/Zxw597C/f9WENaFelsZfvWI+OVg30=",
+          "py3"
+        ],
+        "bigdl_orca_spark3-2.1.0b20220603-py3-none-manylinux1_x86_64.whl": [
+          "DtpBWi+iB0Lr3HVc9SP9oCAq0Nc7xb46z3mrAX7MAYE=",
+          "py3"
+        ]
+      }
     }
   },
   "bigsec-mod1": {
@@ -29460,6 +29472,18 @@
       "wheels": {
         "dagster_spark-0.14.18rc6-py3-none-any.whl": [
           "ncy4lQqgi2uGJMP8wQBd+/ViGXmkf/d20IDIO5JZGWk=",
+          "py3"
+        ]
+      }
+    },
+    "0.14.19": {
+      "sdist": [
+        "cuonpThaFWvFtMjc0Em3Di6zSrtC73eB5+Bd5flrd/w=",
+        "dagster-spark-0.14.19.tar.gz"
+      ],
+      "wheels": {
+        "dagster_spark-0.14.19-py3-none-any.whl": [
+          "ay9onRxWYuJBIzehhljxoUHv9CiRQZhEMCj9WbQExe4=",
           "py3"
         ]
       }
@@ -58474,6 +58498,18 @@
       "wheels": {
         "jpassets-0.0.1-py3-none-any.whl": [
           "OjgEo+cbk75roj93ZGvXJ2uYQr1Ijr6bmJpQA9K17D4=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "Qe7K3TtwY7sx+QhEBwDt8iA2+d650z1uRz0qc10+WXc=",
+        "jpassets-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "jpassets-0.0.2-py3-none-any.whl": [
+          "WkYN1KUVroNPt2NqTuGJE0J1YhVs+dGRCrtZJgkhlCs=",
           "py3"
         ]
       }
@@ -116289,6 +116325,20 @@
       }
     }
   },
+  "speech-dataset-parser": {
+    "0.0.1": {
+      "sdist": [
+        "WySrmN2ZXoHdhgi81dnIxPrt5hFj0OF+yJkqHN1J+j0=",
+        "speech-dataset-parser-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "speech_dataset_parser-0.0.1-py3-none-any.whl": [
+          "akuYRftefSUZRFF17kmkMdqna23f4tVmmArolnh7Cy4=",
+          "py3"
+        ]
+      }
+    }
+  },
   "spellchecker": {
     "0.2": {
       "sdist": [
@@ -132387,6 +132437,30 @@
           "py2.py3"
         ]
       }
+    },
+    "0.1.7": {
+      "sdist": [
+        "ELps8k88e1eiUjWFMvPlhDwgXUZZmfOHWNB1NBx2aes=",
+        "twitter_demographer-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "twitter_demographer-0.1.7-py2.py3-none-any.whl": [
+          "rR98lfH3ck+KRXNs4+I7wA+2GMPAZqV3h4SgGdxfJhY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "buIx2UzSIk0lB/RJBKCdUemi3Wupwn40z/v1m8mc8kQ=",
+        "twitter_demographer-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "twitter_demographer-0.1.8-py2.py3-none-any.whl": [
+          "L9vJkY/wBJFa2b8jXhGLf54yAvkC2egoVa8VG5lf7Ik=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "twitter-of-babble": {
@@ -133414,38 +133488,14 @@
     }
   },
   "ui-components": {
-    "0.1.8": {
+    "0.2.1": {
       "sdist": [
-        "WaBkxYz/NQjpLnMbaD7BskK0Qr/Vd5hBA7OrLrI49TU=",
-        "ui-components-0.1.8.tar.gz"
+        "z4bKYLGvMUS3Ee542D4nYo+2COwoA8a/IDfMYqSOVuc=",
+        "ui-components-0.2.1.tar.gz"
       ],
       "wheels": {
-        "ui_components-0.1.8-py3-none-any.whl": [
-          "UTrvrijYoQYuJqEeWwe20VyL8IbdHcwuzqbq7XWi084=",
-          "py3"
-        ]
-      }
-    },
-    "0.1.9": {
-      "sdist": [
-        "cWUiAJszLZNOIi2AxiZrb1eBgdQKdddyROEOLFnEVxg=",
-        "ui-components-0.1.9.tar.gz"
-      ],
-      "wheels": {
-        "ui_components-0.1.9-py3-none-any.whl": [
-          "98oICtEfOK/c4EW3SybfFB8vz6LSGqj9LhDYVGhNNoA=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.0": {
-      "sdist": [
-        "wnJlKRoUiOQD/jtmKj9qiG/dZsKhFs4OZlp5k2pV10o=",
-        "ui-components-0.2.0.tar.gz"
-      ],
-      "wheels": {
-        "ui_components-0.2.0-py3-none-any.whl": [
-          "u6Xzzm2Lz0MmWndaClIkiEBt3xWY8+8YNlC8tPJvcrs=",
+        "ui_components-0.2.1-py3-none-any.whl": [
+          "IsxaJ4m1rwBYxDSBgEoWUSiLNcMZX287crg0HZBgwJU=",
           "py3"
         ]
       }
