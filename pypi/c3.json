@@ -117,6 +117,32 @@
       ]
     }
   },
+  "ab-testing-analysis": {
+    "0.0.1": {
+      "sdist": [
+        "szUMeTKKgVScqD51cEFWjr6l1BjMTTcnRxuYfsy4ztw=",
+        "ab_testing-analysis-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ab_testing_analysis-0.0.1-py3-none-any.whl": [
+          "Pmr7Cy98fEoacgOA3/UmyHd+5VPACU/21RX0h+CR9i8=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.3": {
+      "sdist": [
+        "PURItyaNq2fN9yKXBH9UBzR/BxLF5rmbk5kZnG7VZuk=",
+        "ab_testing-analysis-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "ab_testing_analysis-0.0.3-py3-none-any.whl": [
+          "yI8FPIYNOfYfkiHXb/dXYne/UriO6RPwmnAHTaoz4s8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "access-control": {
     "0.1.0": {
       "sdist": [
@@ -41714,14 +41740,26 @@
     }
   },
   "flask-xtra-info": {
-    "0.3.9": {
+    "0.3.10": {
       "sdist": [
-        "0M2eidcnrCyxvmbe5KIItev0Ij8q5cXdRzGoXoqGP+Y=",
-        "flask-xtra-info-0.3.9.tar.gz"
+        "kGOEsJ5WDJx7bixYsaWF5NxUtdImVEaHnpCEiKF1+hQ=",
+        "flask-xtra-info-0.3.10.tar.gz"
       ],
       "wheels": {
-        "flask_xtra_info-0.3.9-py3-none-any.whl": [
-          "CNGDTLwbA86kB5YGlIscdAQ2NSzbyiaHOipZteMWraI=",
+        "flask_xtra_info-0.3.10-py3-none-any.whl": [
+          "uvp0ldohTpm1bTVX6nXa7WcDCnr60MkJBgOshWMh+k0=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.11": {
+      "sdist": [
+        "HvquoIAg4ChUUTEsdJVLPjaVekVgFe/+miRQKZ7QJlY=",
+        "flask-xtra-info-0.3.11.tar.gz"
+      ],
+      "wheels": {
+        "flask_xtra_info-0.3.11-py3-none-any.whl": [
+          "RjPGAcaN2xVDAcapUYF+WjlcmZCz/sY0nvu1iMxH/6Y=",
           "py3"
         ]
       }
@@ -113992,6 +114030,80 @@
       "wheels": {
         "sfu_torch_lib-0.0.9-py3-none-any.whl": [
           "yn/eiGTCzORulsjkZQCcAWSDjRZeveeoHKZzS2a7AGc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "sgtlibc": {
+    "1.0.15": {
+      "sdist": [
+        "rNZTl56WHxIoABueMzd+CyMYNzxHICxGjpV7fY//64g=",
+        "sgtlibc-1.0.15.tar.gz"
+      ],
+      "wheels": {
+        "sgtlibc-1.0.15-py3-none-any.whl": [
+          "9anKt9rYvPL3BTRNzz1Bo4Nv+u8aMrxNhYaa2dmJ+8M=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.26": {
+      "sdist": [
+        "Q36dR9m1WinpMG0VL/BO4JzikTgqNcd3MnZQQBDAA/Y=",
+        "sgtlibc-1.1.26.tar.gz"
+      ],
+      "wheels": {
+        "sgtlibc-1.1.26-py3-none-any.whl": [
+          "a3yNs7zNsoYHzbzUEQWxk9TWSp/fH0FLic+EKEMKX2E=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.32": {
+      "sdist": [
+        "f171ljsInPOiX6xcptJrXbMsFnTuBBfUhPwdv6CJeA8=",
+        "sgtlibc-1.1.32.tar.gz"
+      ],
+      "wheels": {
+        "sgtlibc-1.1.32-py3-none-any.whl": [
+          "3nGhIhNG2faHseWesa9Nw87lGB1oJDuiR8ZrFct91wo=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.14": {
+      "sdist": [
+        "r0/a6YVOpb+XOV1B4mGy8b18+B726D4vBSpM46U8e+c=",
+        "sgtlibc-1.7.14.tar.gz"
+      ],
+      "wheels": {
+        "sgtlibc-1.7.14-py3-none-any.whl": [
+          "uQ44U3jnJSnS2OMM2duX4XyeoL57BpINQrjnPYMwNzo=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.4": {
+      "sdist": [
+        "MpzlNEhdDnuGp6FgOb/RlAOQV/Muzmrgcod1ZUgrMUQ=",
+        "sgtlibc-1.7.4.tar.gz"
+      ],
+      "wheels": {
+        "sgtlibc-1.7.4-py3-none-any.whl": [
+          "pIGtpkAGbEn0STURP7+qbrer+VobFzvpWvLYv2YWkIc=",
+          "py3"
+        ]
+      }
+    },
+    "1.7.5": {
+      "sdist": [
+        "YR2T5GLD2mwORaW1cZzWnu/6ZcBQXO93vTzNA/+B9Qc=",
+        "sgtlibc-1.7.5.tar.gz"
+      ],
+      "wheels": {
+        "sgtlibc-1.7.5-py3-none-any.whl": [
+          "F4YIWqhlZIKJ+XtcdM5+OagZM2ba+F+HvocCPRSc35U=",
           "py3"
         ]
       }
