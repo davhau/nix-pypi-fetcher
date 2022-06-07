@@ -41151,6 +41151,18 @@
           "py2.py3"
         ]
       }
+    },
+    "2.7.1": {
+      "sdist": [
+        "UqPwa3OogA2MLm0eCwl2fWSz5Pu6wc6SfiDIF/y8k9I=",
+        "google-cloud-videointelligence-2.7.1.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_videointelligence-2.7.1-py2.py3-none-any.whl": [
+          "htp3W1RbOUCDsYS4kf79Wo1o5LHO6UghCuhaISdcYGs=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "google-structlog": {
@@ -60636,6 +60648,12 @@
       "sdist": [
         "xaMECOox8a+q4ajce19rtipgWLT7h92Zip+q7JpfEj8=",
         "mo-parsing-8.182.22128.tar.gz"
+      ]
+    },
+    "8.183.22158": {
+      "sdist": [
+        "++1tMuUzawyr0Y712vymztQjFPuU3o0klVD8yCYq+fQ=",
+        "mo-parsing-8.183.22158.tar.gz"
       ]
     },
     "8.23.21357": {
@@ -88351,6 +88369,12 @@
         "tm5d3tJqeBU2xsYpZPU5d0TUbRScfKBA2tQkpIrGmCY=",
         "peek-plugin-branch-3.2.2.tar.gz"
       ]
+    },
+    "3.2.3": {
+      "sdist": [
+        "LRQfA9gnST9lr5P/ZOQ9dQbtcUOnkX/ntVy7NWFiV1U=",
+        "peek-plugin-branch-3.2.3.tar.gz"
+      ]
     }
   },
   "penn-chime": {
@@ -101873,6 +101897,30 @@
           "py3"
         ]
       }
+    },
+    "0.57.8": {
+      "sdist": [
+        "cmuAjKyi1+rxYYMbxyXL2CpkHT0aR9Rf9ITiLjah62U=",
+        "projen-0.57.8.tar.gz"
+      ],
+      "wheels": {
+        "projen-0.57.8-py3-none-any.whl": [
+          "rH5UgWsR1YG4jAEldixzYaxNXejp7RFRLSQnDwyfXaE=",
+          "py3"
+        ]
+      }
+    },
+    "0.57.9": {
+      "sdist": [
+        "jkWoG7/OzxBS6JTZdzbGLOyd101YENq1UhRWRbfOOnk=",
+        "projen-0.57.9.tar.gz"
+      ],
+      "wheels": {
+        "projen-0.57.9-py3-none-any.whl": [
+          "Py/YCqltJkvnQUDm5rt1sibAYJqDpXmejmTZOYElwn4=",
+          "py3"
+        ]
+      }
     }
   },
   "projet-is": {
@@ -102806,6 +102854,18 @@
       "wheels": {
         "py_eureka_client-0.11.2-py3-none-any.whl": [
           "3lWT5VlIkS+gw6OE+58O29OWxQGCsHoFI0HhvluDN8g=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.3": {
+      "sdist": [
+        "vbpL8k/HY8+FQlhSqDEdYXgsJW58GxyX/DOKy6K+Vik=",
+        "py_eureka_client-0.11.3.tar.gz"
+      ],
+      "wheels": {
+        "py_eureka_client-0.11.3-py3-none-any.whl": [
+          "1mmM1/Ku11DV1khmP2SrRIuzoQGvFi0yQzA1/jlmKJA=",
           "py3"
         ]
       }
@@ -108570,6 +108630,70 @@
         ],
         "pyAgrum-1.1.0-cp39-cp39-win_amd64.whl": [
           "Tg/3a6dDBwfGpihhb7Zvw1xjYZZiT8Jr9lGPPVEYFbs=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.1": {
+      "wheels": {
+        "pyAgrum-1.1.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "3MKcvRkvnjfYTU3Myx8bp+tC8vq6HD385kZ02owtw3E=",
+          "cp310"
+        ],
+        "pyAgrum-1.1.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "Cp7uDNiLuJLAepG6RAf7i0GBbwgI+NqlVER4DlNiSo8=",
+          "cp310"
+        ],
+        "pyAgrum-1.1.1-cp310-cp310-manylinux2014_aarch64.whl": [
+          "apUNUlZQQiCn8c4bL6emuW0dkjW1zSMgE/WvIgBC2LU=",
+          "cp310"
+        ],
+        "pyAgrum-1.1.1-cp310-cp310-manylinux2014_x86_64.whl": [
+          "IAjCKjxdBYWEX4XIoHtP+/423qgm+PBkfeF2lhuFyQI=",
+          "cp310"
+        ],
+        "pyAgrum-1.1.1-cp310-cp310-win_amd64.whl": [
+          "zGYm9Iwmu3Uw6n4pdqwkPQTk/UPGUdrRtevsUzOtFlg=",
+          "cp310"
+        ],
+        "pyAgrum-1.1.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "clm5EXJgsdLUy+nMHMSFeBRFpHkuN9yliHn4ufXAZ1Y=",
+          "cp38"
+        ],
+        "pyAgrum-1.1.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "MPnGzaLTjbrs8XhEydCf6Rj1QW8lcppgq5xDjnyxWHQ=",
+          "cp38"
+        ],
+        "pyAgrum-1.1.1-cp38-cp38-manylinux2014_aarch64.whl": [
+          "cabIV3lXm+JB51S96XgHZW7PVzK+V6dA5DEzzZ1bhZk=",
+          "cp38"
+        ],
+        "pyAgrum-1.1.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "f9QDuoRyyRpjM7zeU1072VDShJe7v41kRKCHttOhj/U=",
+          "cp38"
+        ],
+        "pyAgrum-1.1.1-cp38-cp38-win_amd64.whl": [
+          "SydGYL1Rj+xvqXaXsMyqdq//HSudd7eaFJiFfpCkFPg=",
+          "cp38"
+        ],
+        "pyAgrum-1.1.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "DgHMZWL0UYa2GYxF9A3pz+/5UivbbSGrTZP5aMwmfb8=",
+          "cp39"
+        ],
+        "pyAgrum-1.1.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "sAa8Fkl5BWygcJzUf2wgUZQl18Zoht/Qu1qAQwWd9po=",
+          "cp39"
+        ],
+        "pyAgrum-1.1.1-cp39-cp39-manylinux2014_aarch64.whl": [
+          "7aJRNI9hcBRMg8cCUvSOWYi7AdMue5801UGg2fy8YfY=",
+          "cp39"
+        ],
+        "pyAgrum-1.1.1-cp39-cp39-manylinux2014_x86_64.whl": [
+          "5hCt4HnNy+kof2EgOUQmGVd7MYdcATESoWtdkr32vfI=",
+          "cp39"
+        ],
+        "pyAgrum-1.1.1-cp39-cp39-win_amd64.whl": [
+          "duZzxZcfNt3BA024DWCZkMBU3T5yONst2g7XY4O3NOs=",
           "cp39"
         ]
       }
@@ -127711,6 +127835,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.3": {
+      "sdist": [
+        "F/8nlaXEtC9sjQfGEdzxVlgn0W09hrA+BFQ/H2D9Q7A=",
+        "smskillsdk-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "smskillsdk-0.2.3-py3-none-any.whl": [
+          "sa9HJXnsW4FtpNkAEOqLLec39zHQiwT8DEMMIqWFNFY=",
+          "py3"
+        ]
+      }
     }
   },
   "snap-configs-proxy-client": {
@@ -133490,6 +133626,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ivld-3.0.648-py2.py3-none-any.whl": [
           "xzTh9TgmlcXaQ5/wY5lsB7UVzITXyp9RD6jUan0cfcg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.649": {
+      "sdist": [
+        "wuThRy1Mnvs8b1kPmT5HDgdmxD5isU+E6zu3zOxxYYk=",
+        "tencentcloud-sdk-python-ivld-3.0.649.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ivld-3.0.649-py2.py3-none-any.whl": [
+          "ed84Hi8lB9jsApARKi6zgDec+YV0g0BWsX9QqtT3Hn0=",
           "py2.py3"
         ]
       }
