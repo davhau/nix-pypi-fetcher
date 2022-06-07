@@ -6047,6 +6047,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.0rc1": {
+      "sdist": [
+        "EGfxgkHU/U4t2Q89KrDkSfFuRw9g1UTN5j9yTyYuT68=",
+        "apache-airflow-providers-jenkins-3.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_jenkins-3.0.0rc1-py3-none-any.whl": [
+          "TsmqLQNyixljWvGmY4/vLkS5V56977W9uyHf3xWNGnM=",
+          "py3"
+        ]
+      }
     }
   },
   "apache-flink-statefun": {
@@ -44467,6 +44479,12 @@
         "lm9S6IETI9SnQAh6WtUa886mbcmk6ef3pYdTHgMLhI0=",
         "haas-python-pca9685-0.0.1.tar.gz"
       ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "lxzHHyyAzVeE2rK0oCLyN/rzA1j1Fc9ASMA3IV89sAA=",
+        "haas-python-pca9685-0.0.2.tar.gz"
+      ]
     }
   },
   "haas-python-soil-moisture": {
@@ -44474,6 +44492,12 @@
       "sdist": [
         "uhOSKDerNj26vlCo6fXMKvfi7GzzLWxy5HG9BeAdW50=",
         "haas-python-soil_moisture-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "ln5O4EG30U8vjjeZcQfOcPCciEheLc62Ke8wjqBl1Qg=",
+        "haas-python-soil_moisture-0.0.2.tar.gz"
       ]
     }
   },
@@ -65760,6 +65784,90 @@
         ],
         "natun_labsdk-0.0.1a13-cp39-cp39-win_amd64.whl": [
           "4muCUx+qroy0kBitNsFVilNyEknDJjO4LgojmJAmmUc=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.1a21": {
+      "sdist": [
+        "lM+llx3+xNu3uLL/pJkhLDnVnWxZun3qBngil578Tlw=",
+        "natun-labsdk-0.0.1a21.tar.gz"
+      ],
+      "wheels": {
+        "natun_labsdk-0.0.1a21-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "8aOnSTk4vlfjTePZOFV7pbHeT0Iuggxx2C4VfTtkdJk=",
+          "cp310"
+        ],
+        "natun_labsdk-0.0.1a21-cp310-cp310-macosx_11_0_arm64.whl": [
+          "GEZmF8WgA1mGwqbUzoMC9L8qyAuI+ZeFISIE/uSGm50=",
+          "cp310"
+        ],
+        "natun_labsdk-0.0.1a21-cp310-cp310-manylinux_2_24_aarch64.whl": [
+          "rtAvMuUba/Tf/HbR+TcDYjU+eXIQx2QpDhwwxWdOu3o=",
+          "cp310"
+        ],
+        "natun_labsdk-0.0.1a21-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "CJUmIxfUVZ9nPiQciX2/x4xJyjak5WNtximnfCsvtqQ=",
+          "cp310"
+        ],
+        "natun_labsdk-0.0.1a21-cp310-cp310-win_amd64.whl": [
+          "vbhe7XbJJMvDVB1tGkwipKe01QSvkExoSznGAtyspfY=",
+          "cp310"
+        ],
+        "natun_labsdk-0.0.1a21-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "cCfb93hj2G384xGFP0LtBFR5nfqJCOpNi6sInAA/wTM=",
+          "cp37"
+        ],
+        "natun_labsdk-0.0.1a21-cp37-cp37m-manylinux_2_24_aarch64.whl": [
+          "w7grqK0gHsAHUXYhvt2weO/BSwKB1xhWDVgZjQvkr+M=",
+          "cp37"
+        ],
+        "natun_labsdk-0.0.1a21-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "BBcHrohuUluHdGODzRhI4ghH0nw0CQkdsdMN7163mK8=",
+          "cp37"
+        ],
+        "natun_labsdk-0.0.1a21-cp37-cp37m-win_amd64.whl": [
+          "2OdtIXu0fgY0BBjsYoDTEA8NEOdT1RZtNW7loEiLZvI=",
+          "cp37"
+        ],
+        "natun_labsdk-0.0.1a21-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "dbdeiK1YqgxV9qmACeJxJ8tRQ5eQD0lIojtwrZ/g67s=",
+          "cp38"
+        ],
+        "natun_labsdk-0.0.1a21-cp38-cp38-macosx_11_0_arm64.whl": [
+          "n4qqXORKlb+v8JRrdQvpOHJbqlHoYH7TCLIR1nuaeM0=",
+          "cp38"
+        ],
+        "natun_labsdk-0.0.1a21-cp38-cp38-manylinux_2_24_aarch64.whl": [
+          "FJu4xkq+NK285eG6Qg4D/jbdHSrF5ywfUcb1wwYTtIg=",
+          "cp38"
+        ],
+        "natun_labsdk-0.0.1a21-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "48CaMU446TWz6MDUwHCILJ8nOHzHaF1ChnlXpxj2bBU=",
+          "cp38"
+        ],
+        "natun_labsdk-0.0.1a21-cp38-cp38-win_amd64.whl": [
+          "Orks5a42Bt2KoeG8DjwhUgYg5yJg1nLjJahwjGVzcfg=",
+          "cp38"
+        ],
+        "natun_labsdk-0.0.1a21-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "ZdlK/MoKINKLvrMO+CzysbVb5z8XbTzacbJG5J0meDg=",
+          "cp39"
+        ],
+        "natun_labsdk-0.0.1a21-cp39-cp39-macosx_11_0_arm64.whl": [
+          "6ylqSSmmyX8AjPOlnA4Xa+TxwuTqJErTn+zayn/Nbj0=",
+          "cp39"
+        ],
+        "natun_labsdk-0.0.1a21-cp39-cp39-manylinux_2_24_aarch64.whl": [
+          "l4omxh7qfyqdiZRluYdPICUeEcRnS3T5SoULh4cugH4=",
+          "cp39"
+        ],
+        "natun_labsdk-0.0.1a21-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "SIRD8b+t1yixs0Ei6Paz0JAZVYcVkkol8kHDF7U1Doo=",
+          "cp39"
+        ],
+        "natun_labsdk-0.0.1a21-cp39-cp39-win_amd64.whl": [
+          "dzZMJTIxB8nP0Rj5gxNx/i0LY/L9XSRwNfT0f9jhIq4=",
           "cp39"
         ]
       }

@@ -10655,6 +10655,12 @@
         "WszL86UfwgoClAh11M3OkSw7rqhjbmq3Jf4G8XdPSx8=",
         "atlasify-0.7.2.tar.gz"
       ]
+    },
+    "0.7.3": {
+      "sdist": [
+        "RGhRQwceSglPfmL85V3Nn+cJ7eS1V+qAijAnRxvbtn0=",
+        "atlasify-0.7.3.tar.gz"
+      ]
     }
   },
   "attrs-strict": {
@@ -37152,26 +37158,6 @@
         ]
       }
     },
-    "0.4.11": {
-      "wheels": {
-        "ecmwflibs-0.4.11-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Dw/rBzeFqX1LdVGt6GdrMZKuGI/jTh4gwKA/x9eX5zU=",
-          "cp310"
-        ],
-        "ecmwflibs-0.4.11-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "J1D7FY/gzaMiC/0CiHls5WG5xgvIsxer7MUr2LlHLGw=",
-          "cp37"
-        ],
-        "ecmwflibs-0.4.11-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "U/FH81F6KAHY9EroYC4rPxSpoSqxJrQrUymrUMem7Q4=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.11-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "fL+lQajP/IcdvtYSzJIdH6m24f6VgKSK5l12XJ+kqHs=",
-          "cp39"
-        ]
-      }
-    },
     "0.4.12": {
       "wheels": {
         "ecmwflibs-0.4.12-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -37248,98 +37234,6 @@
         ],
         "ecmwflibs-0.4.12-cp39-cp39-win_amd64.whl": [
           "tamyEn+E+MWNLya+Ng/BysFJ5rGQDtRh6INfJh+Bsiw=",
-          "cp39"
-        ]
-      }
-    },
-    "0.4.13": {
-      "wheels": {
-        "ecmwflibs-0.4.13-cp310-cp310-macosx_10_15_x86_64.whl": [
-          "qFT6GaLkq+E4mGd9bQbTqG2nw83RKPaQ8a3BH/FoCBc=",
-          "cp310"
-        ],
-        "ecmwflibs-0.4.13-cp310-cp310-macosx_11_0_arm64.whl": [
-          "nErRPsedEdaFGTwq/v6T4VxYeRcVBbtzF30GPNzPbKs=",
-          "cp310"
-        ],
-        "ecmwflibs-0.4.13-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "TCj5JOjSKdBLigf8NPWkghtVe6w9TQVpLY09orbkWDs=",
-          "cp310"
-        ],
-        "ecmwflibs-0.4.13-cp310-cp310-win32.whl": [
-          "/XY88bu/1z2Rv5hsZ6BO+zK6+IZPz4g38B6MaCfeg3A=",
-          "cp310"
-        ],
-        "ecmwflibs-0.4.13-cp310-cp310-win_amd64.whl": [
-          "3vegwofS9Suv1DDZxVOu4tEIZH1AsC0Za/RjWSdUrK0=",
-          "cp310"
-        ],
-        "ecmwflibs-0.4.13-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "A1Pylv01qhCa8VXaXcj3MO4Zuv6DZY2TI/3pxvCoBas=",
-          "cp36"
-        ],
-        "ecmwflibs-0.4.13-cp36-cp36m-win32.whl": [
-          "/owO63VDt2erZRKQQfrwUCQLcgUTNaN/wHnon3V9ouU=",
-          "cp36"
-        ],
-        "ecmwflibs-0.4.13-cp36-cp36m-win_amd64.whl": [
-          "UFxgdN8x3VHdildY+pd836w+MGE9WgdFxNFEaifOy6k=",
-          "cp36"
-        ],
-        "ecmwflibs-0.4.13-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "+r844viaZk+hoYqRExUacnJW00Y9Fz0+3rjtDxn5guU=",
-          "cp37"
-        ],
-        "ecmwflibs-0.4.13-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "lWRm1PU6mj8bnccaeCSklNAKNLiqpezIfC8+i1HF3sM=",
-          "cp37"
-        ],
-        "ecmwflibs-0.4.13-cp37-cp37m-win32.whl": [
-          "/HH6d+JsVu9uZGBIuOltcWpSnulV9vvFtWEyfOX13eM=",
-          "cp37"
-        ],
-        "ecmwflibs-0.4.13-cp37-cp37m-win_amd64.whl": [
-          "q6Xf2k2svqxUL5mEMpbhycbDcSc6wLu5nx0s3uTIVzw=",
-          "cp37"
-        ],
-        "ecmwflibs-0.4.13-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "4OmOoEIMX31/tz9OAV6ikOGmvaGY4383z/h4uIkeOvw=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.13-cp38-cp38-macosx_11_0_arm64.whl": [
-          "w2Ri1eYqQ8W1Ki5ecQ4GDj4c1hk9Cgty9F0H/RP6CZ8=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.13-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "koO1WjSgcW8lwIr+ENOHJMsUcaRhVIvPiJvr4OEWWgA=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.13-cp38-cp38-win32.whl": [
-          "ElJsPVfloIx871QnY6QGyL3QCkmV/d/3tItVsRCg0DY=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.13-cp38-cp38-win_amd64.whl": [
-          "xmmGNF/9CcaO+33MngLhdg0Og7tH7pKPdPdhj1+Vaq8=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.13-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "ECKQ2PPaTqg26efex66lkbz1f9+eujUXGv84gGPCEdo=",
-          "cp39"
-        ],
-        "ecmwflibs-0.4.13-cp39-cp39-macosx_11_0_arm64.whl": [
-          "Icgndkh9T6v8WUM5VLzEqjMwY43cGP9EGdpffE92x3M=",
-          "cp39"
-        ],
-        "ecmwflibs-0.4.13-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "naqlf/QXLHAOHhrt/eyA7LufqlyQ9Ys9FrHqYDgfLIU=",
-          "cp39"
-        ],
-        "ecmwflibs-0.4.13-cp39-cp39-win32.whl": [
-          "M6+PTSDrMJDpVLb0KtU+IM6iYfbS1DZTSP6iQmKUvz8=",
-          "cp39"
-        ],
-        "ecmwflibs-0.4.13-cp39-cp39-win_amd64.whl": [
-          "feVKdi4S4RKr+IM75kg1wlYf323W6lwHMxi33W+TZ0M=",
           "cp39"
         ]
       }
@@ -37524,82 +37418,78 @@
         ]
       }
     },
-    "0.4.16": {
+    "0.4.17": {
       "wheels": {
-        "ecmwflibs-0.4.16-cp310-cp310-macosx_11_0_arm64.whl": [
-          "JrOSs6MmNZlhHSS6D4pYhYOUZznO40AUiDqj/xjk6nE=",
+        "ecmwflibs-0.4.17-cp310-cp310-macosx_11_0_arm64.whl": [
+          "Hv4CMDilB1ZDFp1DzcqtELNBgMMNEPxV/wUbMCIp3Vo=",
           "cp310"
         ],
-        "ecmwflibs-0.4.16-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Lv1qSH9dnE+TC9fjHleOXLTCAh/0DLR2LBSZUD98LZk=",
+        "ecmwflibs-0.4.17-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4zrLdqmcrC1VjwIbwdfdrfUw3iwvWt+9v8UcGCNBwLM=",
+          "cp310"
+        ],
+        "ecmwflibs-0.4.17-cp310-cp310-win32.whl": [
+          "33HzAMlieOzwBL0iWep49uDJelGSgOLEcgMGaFslfH8=",
+          "cp310"
+        ],
+        "ecmwflibs-0.4.17-cp310-cp310-win_amd64.whl": [
+          "3V0G7aUL//vtDep8IGrczQs/hNG0emeEkdPuOJM/n9U=",
+          "cp310"
+        ],
+        "ecmwflibs-0.4.17-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UEufxcsLL+Efx9U71I4VF7m/MJaUOIROa4JkX6MHPuE=",
           "cp36"
         ],
-        "ecmwflibs-0.4.16-cp38-cp38-macosx_11_0_arm64.whl": [
-          "I++/lq9CA35QGASsTH9L2Oo0J03bFEZ2dPWSPPDfO3g=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.16-cp38-cp38-win32.whl": [
-          "3qMEEoV/l6d1d7KeDaYHKnsCxNUx6NDn0pS82sghx5w=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.16-cp39-cp39-macosx_11_0_arm64.whl": [
-          "miVBgNzpm6/d3O3fSlM5E55ZTJXITZaVRF+2flWTp90=",
-          "cp39"
-        ]
-      }
-    },
-    "0.4.5": {
-      "wheels": {
-        "ecmwflibs-0.4.5-cp36-cp36m-macosx_10_14_x86_64.whl": [
-          "uBr0LE7bvRwfuJTPFq6nZxIOWFeMfU1yoNvNHZigZeo=",
+        "ecmwflibs-0.4.17-cp36-cp36m-win32.whl": [
+          "zsdoqSyyE4mH4LwbhZJa4u8v+ydnNVuW7mnVMDhos8I=",
           "cp36"
         ],
-        "ecmwflibs-0.4.5-cp36-cp36m-win32.whl": [
-          "tFUY1PdNTb+lJC+ncMckjJN6ptzHBhaFn+z5FVpzlww=",
+        "ecmwflibs-0.4.17-cp36-cp36m-win_amd64.whl": [
+          "vcjLG8gwgxuc7B1PEGV5QnC2w6RB6+YKvUiCFytOSSg=",
           "cp36"
         ],
-        "ecmwflibs-0.4.5-cp36-cp36m-win_amd64.whl": [
-          "BWtDEp+11ZYb0xli3pa5swYcyxmeztgxx8xYPrqlKE0=",
-          "cp36"
-        ],
-        "ecmwflibs-0.4.5-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "PAJ7c4978XNE4vTeECOKBcFdHI5SsGFLP/moMMk1bS0=",
+        "ecmwflibs-0.4.17-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "RyKftsw8LSzzQlir81nbJFiDWEwxguVGUVAffKtG2u4=",
           "cp37"
         ],
-        "ecmwflibs-0.4.5-cp37-cp37m-win32.whl": [
-          "4EKE5c7LJvjjZQZTyL6bsivBvQkRkyH25GWkJvNvi9Q=",
+        "ecmwflibs-0.4.17-cp37-cp37m-win32.whl": [
+          "Bk/f+ri+IRoE1UTC8NCHsvKcHsYt7twuQTcR25Dptc8=",
           "cp37"
         ],
-        "ecmwflibs-0.4.5-cp37-cp37m-win_amd64.whl": [
-          "rLZKA/LEVFWG9ACGBwPEeBtBLYzs1kJDtaGLyMkSi8M=",
+        "ecmwflibs-0.4.17-cp37-cp37m-win_amd64.whl": [
+          "rDHr9bJ5rtyhbh4RTQ8N88EY0XuDSbXlVwa6z9roWhs=",
           "cp37"
         ],
-        "ecmwflibs-0.4.5-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "znF9YkVHX0/TvVjgqT9V05KE1fJS1ewSXIjXxYuEioY=",
+        "ecmwflibs-0.4.17-cp38-cp38-macosx_11_0_arm64.whl": [
+          "cJ/DXxXZW5Vy8bhs8B84zUkFQMaaWOek2ADg+MDhvWA=",
           "cp38"
         ],
-        "ecmwflibs-0.4.5-cp38-cp38-macosx_11_0_arm64.whl": [
-          "EUTzz9wsEqiqoQdZcHBN0jSuMkKztAAqhdw8XkaKZMo=",
+        "ecmwflibs-0.4.17-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BDVlmshrG+WUOzfAu1eSOuq3Ci4Jrk+wURBqxmF5Ah0=",
           "cp38"
         ],
-        "ecmwflibs-0.4.5-cp38-cp38-win32.whl": [
-          "YaEcgFN8oMVZ3i7cfeK1lAawu4CcT78IP2VWAsms3aM=",
+        "ecmwflibs-0.4.17-cp38-cp38-win32.whl": [
+          "Kxh2yjhBQ+KucTiXcy9mgQgSHoBwiINsrTol2L84eik=",
           "cp38"
         ],
-        "ecmwflibs-0.4.5-cp38-cp38-win_amd64.whl": [
-          "FRZXRYhQUBoy2zbG3xqdPr5HXSK1Qnkg2H0RyUndjlg=",
+        "ecmwflibs-0.4.17-cp38-cp38-win_amd64.whl": [
+          "dGvaB06BFB4F1m1Mxq5ZXUsfx0eIZE6W+C9iqC9k8+A=",
           "cp38"
         ],
-        "ecmwflibs-0.4.5-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "BgLJiPeOYwXCW9hDEZheFGA3AGwBUxKzm3hpw4PV0u8=",
+        "ecmwflibs-0.4.17-cp39-cp39-macosx_11_0_arm64.whl": [
+          "SfqRok4wsXKam74v6ggxmf+jZunI0JB5MSBFlAS3Zco=",
           "cp39"
         ],
-        "ecmwflibs-0.4.5-cp39-cp39-win32.whl": [
-          "OoN0xG3udtphSeQ1xZbye8NzN9KJonzARv3Kdlyh1yI=",
+        "ecmwflibs-0.4.17-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "gX9h//WqezBn83P+vVC6i+oddNezHLzMlXsOHgSJfnU=",
           "cp39"
         ],
-        "ecmwflibs-0.4.5-cp39-cp39-win_amd64.whl": [
-          "PFyZyfxu6KK41UcmFo9wObQ5Pd8mq2fdfTzcsxAl5rs=",
+        "ecmwflibs-0.4.17-cp39-cp39-win32.whl": [
+          "NRs+Bi3SJDZ8jNLVBWq8pPtTJE+RdDE0YbZ5fjw3XEs=",
+          "cp39"
+        ],
+        "ecmwflibs-0.4.17-cp39-cp39-win_amd64.whl": [
+          "t8CDRdFVS4a/oVxMbYBCG69JDwsFttsBImg+KvVhM4w=",
           "cp39"
         ]
       }
@@ -37745,94 +37635,6 @@
         "ecmwflibs-0.4.7-cp39-cp39-win_amd64.whl": [
           "Aj8wCZ39g8TOS/NPY18CkbZ1FsIXz38y0e14JtH+J8M=",
           "cp39"
-        ]
-      }
-    },
-    "0.4.8": {
-      "wheels": {
-        "ecmwflibs-0.4.8-cp310-cp310-macosx_10_15_x86_64.whl": [
-          "ZdyQJuZ4nW/v9lXo3eVqYPcSFxt6gUqvOrVhZyGnm5w=",
-          "cp310"
-        ],
-        "ecmwflibs-0.4.8-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Ht5nc5+x/kIfrIie8xOZ0q3YHgAkNPoVen8psCbwx50=",
-          "cp310"
-        ],
-        "ecmwflibs-0.4.8-cp310-cp310-win32.whl": [
-          "i3q/cRQeBNj1AGh6HCev6v9Km5TuYM6xc8s/sqL6Nro=",
-          "cp310"
-        ],
-        "ecmwflibs-0.4.8-cp310-cp310-win_amd64.whl": [
-          "C63VEHXOOMbrQkTD4Pbk0/CC5DwfLf52G22wH6DjMLU=",
-          "cp310"
-        ],
-        "ecmwflibs-0.4.8-cp36-cp36m-win32.whl": [
-          "EhMO6CAosyPXSVkCpHMKH4vz4jt+6yMuv5SQnRsXS+8=",
-          "cp36"
-        ],
-        "ecmwflibs-0.4.8-cp36-cp36m-win_amd64.whl": [
-          "lYFgwaGVJ2vYj0VdW64HY9zfUIURe6fbtwgXLk+Tp4U=",
-          "cp36"
-        ],
-        "ecmwflibs-0.4.8-cp37-cp37m-macosx_10_14_x86_64.whl": [
-          "JqMkzNlVp/fMOhHRHa9DGcXqMe1+ox/oE/iE48gVaGY=",
-          "cp37"
-        ],
-        "ecmwflibs-0.4.8-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "4lrL37zbms6CscjYCPVWtbi1va65uIKTPeZNYYz5cb0=",
-          "cp37"
-        ],
-        "ecmwflibs-0.4.8-cp37-cp37m-win32.whl": [
-          "CyTj3tnTTQgVg95NtBWzPox2Ew5XdtQDrd4H7CbIE1M=",
-          "cp37"
-        ],
-        "ecmwflibs-0.4.8-cp37-cp37m-win_amd64.whl": [
-          "oPJgs4AayATM3bMDeUJDRMKKa3PE0aS62QPgEf+wQMw=",
-          "cp37"
-        ],
-        "ecmwflibs-0.4.8-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "2zryHNPGdmvS7hMdzhnJr3tI8aJiyvfYJtDvJMZwX9w=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.8-cp38-cp38-macosx_11_0_arm64.whl": [
-          "N9HdkJyr9zi+C5fgDDuMgYC8wKmjP+DZ00V/d0XecAY=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.8-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "/fCRwgIglb2IUDJ8LUcA2ZbhFpFXgJzsez2IUIISGKk=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.8-cp38-cp38-win32.whl": [
-          "tzJprbuW/9ALitFGbZOPRss/b2AOJNZx0HG7wuujkTY=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.8-cp38-cp38-win_amd64.whl": [
-          "/LPAbnc0XnGVt4n1DLSAM2PQUnRvb4rGaDjLlkcExlY=",
-          "cp38"
-        ],
-        "ecmwflibs-0.4.8-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "A4/3c3Y9gfnRI4qlEDDLOBLySMCXuxbXG/zV5/Q2Ml0=",
-          "cp39"
-        ],
-        "ecmwflibs-0.4.8-cp39-cp39-macosx_11_0_arm64.whl": [
-          "/iCqp57KS0Yt4yDsyTURFHSYjxjtGd5h3PvNCwiDpBI=",
-          "cp39"
-        ],
-        "ecmwflibs-0.4.8-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "6P1Hbaht0LDKjCP3ScEiVpCchWeO+kqFz1Axe3bwWdo=",
-          "cp39"
-        ],
-        "ecmwflibs-0.4.8-cp39-cp39-win32.whl": [
-          "2SaX8jzPUe+Uha/3CE9wipbxAL4iCfHjXfWiPuYKpFo=",
-          "cp39"
-        ],
-        "ecmwflibs-0.4.8-cp39-cp39-win_amd64.whl": [
-          "W1uaubQQ3KUH6RFQ/wm7RJqn6dkL8tHLOYwmlqoWgUY=",
-          "cp39"
-        ],
-        "ecmwflibs-0.4.8-py2.py3-none-any.whl": [
-          "wDWF72k3JX/eFj0fQfGn7cC1daAq0hFtm54WSTbXr+0=",
-          "py2.py3"
         ]
       }
     }
@@ -51832,6 +51634,18 @@
       "wheels": {
         "google_cloud_secret_manager-2.11.0-py2.py3-none-any.whl": [
           "xvfIbRSZB7zsC8W40IZ6ZcqfGq7lrg+CB5dJ6jA56Cg=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.11.1": {
+      "sdist": [
+        "tSy0d8kdyDSE+/gcg4B+fplnLJ4ipoa+TZvUoExaYVU=",
+        "google-cloud-secret-manager-2.11.1.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_secret_manager-2.11.1-py2.py3-none-any.whl": [
+          "Qcg3pYO5BKE05lwjR7YACaEOrQDcBA24VwtzvHimd38=",
           "py2.py3"
         ]
       }
@@ -79283,6 +79097,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.2.0.4": {
+      "wheels": {
+        "odoo_addon_l10n_es_aeat-15.0.2.0.4-py3-none-any.whl": [
+          "x1IoWuyaccrxchLdduPMYt9e8VYYs93ceii62ZLDAz0=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-tools-grap": {
@@ -94782,6 +94604,18 @@
         ]
       }
     },
+    "0.0.37": {
+      "sdist": [
+        "jhTt7JjtQ68Xi+xhbBYPZFiKfMFiqwi1J2O8FTEKQGc=",
+        "py3cw-0.0.37.tar.gz"
+      ],
+      "wheels": {
+        "py3cw-0.0.37-py3-none-any.whl": [
+          "JLeNjxNdxNrKawMdX1dUmk5MAWjucmtOt4UO3EDkvPM=",
+          "py3"
+        ]
+      }
+    },
     "0.0.4": {
       "sdist": [
         "sLjKLW6iIQU5hh5IfAOlepdVVJ2t0OS7CDoWJq7LE5c=",
@@ -104918,6 +104752,18 @@
       "wheels": {
         "python_soql_parser-0.1.10-py3-none-any.whl": [
           "nWTfXElYcPcFzU5qg2e18UlFd9w+DZSG8tw7AehAdAg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.11": {
+      "sdist": [
+        "zsbVYRzkNDc8r7mjP0dR2YQfCH/jHHFUe3VW1U4TH14=",
+        "python-soql-parser-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "python_soql_parser-0.1.11-py3-none-any.whl": [
+          "GScj9FUGp/iAeQYmZdUg3HHXtGQQc6/VVm1Oyu4rZfQ=",
           "py3"
         ]
       }

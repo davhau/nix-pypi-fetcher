@@ -5121,6 +5121,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.0rc1": {
+      "sdist": [
+        "bDHhKZxTo+hjGkYJbz4JldOatEMfYx8g6AHRcLRMSKA=",
+        "apache-airflow-providers-apache-pig-3.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_apache_pig-3.0.0rc1-py3-none-any.whl": [
+          "5pIM8qjGdTfzt49lpswfOzoArDlyJvCOB4A9iz5jJlE=",
+          "py3"
+        ]
+      }
     }
   },
   "apache-airflow-providers-jdbc": {
@@ -5356,6 +5368,18 @@
       "wheels": {
         "apache_airflow_providers_jdbc-2.1.3rc1-py3-none-any.whl": [
           "FxaO2yzBeuOQp3vCIu8XLOPTuBjOdREjHWgobjvfErE=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0rc1": {
+      "sdist": [
+        "emZuH0WGQxAFC+vj23N0ks00fazTyQlZ6U0b0V05/n8=",
+        "apache-airflow-providers-jdbc-3.0.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "apache_airflow_providers_jdbc-3.0.0rc1-py3-none-any.whl": [
+          "804Zi2i1uFfNwFCYugneSbhbW/GedmmnJqwRTgiiTzU=",
           "py3"
         ]
       }
@@ -16868,6 +16892,18 @@
         ],
         "bigdl_spark2-2.1.0b20220606-py3-none-manylinux1_x86_64.whl": [
           "C6STNqiw52DUoAEPO9ZJbjFt8o9/fESmxY/pUnOF+Vw=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0b20220607": {
+      "wheels": {
+        "bigdl_spark2-2.1.0b20220607-py3-none-macosx_10_11_x86_64.whl": [
+          "aGwYvXWKp4RcxyT5nIshf/suy5N5AVe4NF0iElDiGqE=",
+          "py3"
+        ],
+        "bigdl_spark2-2.1.0b20220607-py3-none-manylinux1_x86_64.whl": [
+          "F6AfL20AT7ieOowjEfMomfPJZ4XFrKb8eIctXy/sGfQ=",
           "py3"
         ]
       }
@@ -47349,6 +47385,18 @@
           "py2.py3"
         ]
       }
+    },
+    "1.2.1": {
+      "sdist": [
+        "Dylm0lEXzyMvsj07I3gyS/7m0bsddrEwH8XHgifTnD8=",
+        "google-cloud-deploy-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_deploy-1.2.1-py2.py3-none-any.whl": [
+          "ll2CNZaaYY/4r4jsibgHiGrvfJUe2+VsJVAoYViPbnM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "google-cloud-iot": {
@@ -47552,6 +47600,18 @@
       "wheels": {
         "google_cloud_iot-2.5.0-py2.py3-none-any.whl": [
           "S089VGsXhQmwo+XEQJ/Ln+Xo6JonQEXd7WEYx6/CBis=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.5.1": {
+      "sdist": [
+        "Y71v505bwXEV1u28WFAHs12Qx0tKY7BDjFCc+oBgZcw=",
+        "google-cloud-iot-2.5.1.tar.gz"
+      ],
+      "wheels": {
+        "google_cloud_iot-2.5.1-py2.py3-none-any.whl": [
+          "5daYb5WCBKgy2ksplkdrRdmAqYD0I6XAgbTrElr281s=",
           "py2.py3"
         ]
       }
@@ -63783,6 +63843,12 @@
         "pzqAdLdw5IkbISi3rccz+6cXJ4I/PWJuwtQJMQOpQXU=",
         "lyrebird-2.5.3.tar.gz"
       ]
+    },
+    "2.5.4": {
+      "sdist": [
+        "BNenNSz5AEAy/RfqwI6uXWTzq4f6ATTqpXAbNdR5HAc=",
+        "lyrebird-2.5.4.tar.gz"
+      ]
     }
   },
   "mac-appify": {
@@ -67628,6 +67694,18 @@
       "wheels": {
         "meter_gear-1.1.9-py37-none-any.whl": [
           "+3oORKZbxS6aWfj2Mld0XGSax6RDmK/mt6wpsXLcyg0=",
+          "py37"
+        ]
+      }
+    },
+    "1.2.0": {
+      "sdist": [
+        "HmlkrTspjgFflo3sAkyYlR2nxBmvPzrfmDYuXhKJkac=",
+        "meter-gear-1.2.0.tar.gz"
+      ],
+      "wheels": {
+        "meter_gear-1.2.0-py37-none-any.whl": [
+          "4U9tyYppYYoWE25BbY4MxCJmJmWKHkuim+YupHMxisk=",
           "py37"
         ]
       }
@@ -94364,6 +94442,12 @@
       "sdist": [
         "ddRqWfC5qxCioQUGqMYH1vNXFw4nx8YnSnGpBql4qJ0=",
         "pulumi_aws_static_website-0.0.3.tar.gz"
+      ]
+    },
+    "0.0.4": {
+      "sdist": [
+        "uazz3Vih1DKILDs7/AgkmlUbIe571dau1TCBzidEvRM=",
+        "pulumi_aws_static_website-0.0.4.tar.gz"
       ]
     }
   },
@@ -125953,6 +126037,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "A78GuprP20QuwwGiKIifYPZtRsNOnakGaSHKQ9xYPBo=",
+        "scheduled_futures-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "scheduled_futures-1.0.2-py3-none-any.whl": [
+          "l69CJAamyzlaxO7F7ZIPyiiRaGrg644ZyWePaXQJwDY=",
+          "py3"
+        ]
+      }
     }
   },
   "schema-builder": {
@@ -135630,6 +135726,18 @@
       "wheels": {
         "streams_explorer-1.6.0-py3-none-any.whl": [
           "Z+Tiat0RISaWLzkl2UWaPfah+E3uZwsDZhOd/JxqeX4=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.1": {
+      "sdist": [
+        "/ORziEVkN4af9RZ+GIwV2n0OJEM+DWJEmohTPRIDCRA=",
+        "streams-explorer-1.6.1.tar.gz"
+      ],
+      "wheels": {
+        "streams_explorer-1.6.1-py3-none-any.whl": [
+          "EfXBVV6s2a9J24lOGC3Z+ylixgsJy+3ObzgZ+5tSOmk=",
           "py3"
         ]
       }

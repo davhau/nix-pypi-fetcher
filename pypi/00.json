@@ -593,6 +593,12 @@
         "NlGBFksIpazVdPCS7MQVWRFc1v+hO6ep7AoMqQeviyo=",
         "adafruit-circuitpython-tmp007-2.1.7.tar.gz"
       ]
+    },
+    "2.1.8": {
+      "sdist": [
+        "9IwwV3YaBjFFhJ6apruLgTtGtjJ5wLaB3t5zACe5U54=",
+        "adafruit-circuitpython-tmp007-2.1.8.tar.gz"
+      ]
     }
   },
   "adnmtf": {
@@ -9233,6 +9239,12 @@
         "qbKScCsEqgeB/sQjIFsTqaV8Adk4xoc1MCfxUDLsW0Q=",
         "bpnsdata-0.1.7.tar.gz"
       ]
+    },
+    "0.1.8": {
+      "sdist": [
+        "bonxObmQbAbSFBXWP7PUGhXZA2E/hxkgs3BpVWW2T5M=",
+        "bpnsdata-0.1.8.tar.gz"
+      ]
     }
   },
   "bputils": {
@@ -17056,6 +17068,14 @@
       "wheels": {
         "datarobot_drum-1.9.3-py3-none-any.whl": [
           "oY42hpWrfNMkD8L9z/AHnesSyhGaIV4DSsgn9uSdWpQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.9.4rc1": {
+      "wheels": {
+        "datarobot_drum-1.9.4rc1-py3-none-any.whl": [
+          "TrirOIRc3iCJWyEUBGCjX8wWxnVDkws67PiEVJpKeAw=",
           "py3"
         ]
       }
@@ -35314,6 +35334,12 @@
       "sdist": [
         "aA8oVc5XVfNjG4AAdwJIk9txOFAC0+GyqDg+qP9Spk0=",
         "haas-python-si7006-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2": {
+      "sdist": [
+        "CWdSLHMl/VUx6bwrKHM6ada23ynV/d4R83CDduZwqV0=",
+        "haas-python-si7006-0.0.2.tar.gz"
       ]
     }
   },
@@ -90628,6 +90654,10 @@
           "cWW2XJm30BxmwOGJU9LqwrmSAlfuF1yQOa4d+5NEnYw=",
           "cp310"
         ],
+        "orjson-3.7.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "JwraNY8pNv+0yrk0Xpc5PBFNqA9Z7F/EX/3XBDlmXWU=",
+          "cp310"
+        ],
         "orjson-3.7.0-cp310-cp310-manylinux_2_24_aarch64.whl": [
           "WUR2tp9chd9JcYlrzTiCHRSlYGadHV9hmrazXDV6nbQ=",
           "cp310"
@@ -90760,6 +90790,10 @@
           "1KOAwWT4xAZgzo+WeRaVqnTTKipF1AOKKkgm2ewsYfY=",
           "cp310"
         ],
+        "orjson-3.7.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hFfgWZQIGyxYb4SrEvs0JxKVkOO0UUmN3nKbdxtQwGg=",
+          "cp310"
+        ],
         "orjson-3.7.1-cp310-cp310-manylinux_2_24_aarch64.whl": [
           "JsZNooDJ4JcIHRIEfxO0rbp3axmIXaXkiMCT1KFGEFY=",
           "cp310"
@@ -90870,6 +90904,138 @@
         ],
         "orjson-3.7.1-cp39-none-win_amd64.whl": [
           "VzDkT8IIkcrep9FjotrXI/lc+BGZ4aAtrDOaEUN6mZ0=",
+          "cp39"
+        ]
+      }
+    },
+    "3.7.2": {
+      "sdist": [
+        "HPlpCgt8UamIIhN2dBoxCHvB3CrDJ7st3pGYBt+llEQ=",
+        "orjson-3.7.2.tar.gz"
+      ],
+      "wheels": {
+        "orjson-3.7.2-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "TGvbCn3+U8ypZaQDcce45yoEQci8SUnJAVYA8cf65Ag=",
+          "cp310"
+        ],
+        "orjson-3.7.2-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "bm/GB3W7CgUIRnEMShEOitF/QeRD/50NBRRdjzp0tXc=",
+          "cp310"
+        ],
+        "orjson-3.7.2-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "5LcLsfdGqcmvsfhhoElpILWDP/BvnRsltqfSkst+igY=",
+          "cp310"
+        ],
+        "orjson-3.7.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mbshJ+4XTdbmglXbJtvvC9bEMwN3oXhn7PoxTUe/rII=",
+          "cp310"
+        ],
+        "orjson-3.7.2-cp310-cp310-manylinux_2_28_aarch64.whl": [
+          "JjBtmIQBzDSslN04hzuMA4QnalrYDN9Q4mbgYIMoSXU=",
+          "cp310"
+        ],
+        "orjson-3.7.2-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "NKZ9gQ287HfQDXZKtzDFu7C+4ddaA3yNjpgVBuj7pWA=",
+          "cp310"
+        ],
+        "orjson-3.7.2-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "FLxyf0HODdk9GmqfwGB24kAecbANC/EHv2TYjS2WO3c=",
+          "cp310"
+        ],
+        "orjson-3.7.2-cp310-none-win_amd64.whl": [
+          "TGhsu3PMzgKSndeZQniX8KCy3Vl9L1trQ0kX7MN3QUY=",
+          "cp310"
+        ],
+        "orjson-3.7.2-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "EutoPdvd3WhHyis7B09CV0r8D78a/zPY/fOkMpFndio=",
+          "cp37"
+        ],
+        "orjson-3.7.2-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "mTVQ5uRRorcUNRQtSCSgn424DUl6uuI9yfP+YrbKJMA=",
+          "cp37"
+        ],
+        "orjson-3.7.2-cp37-cp37m-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "VM+k2RWpggk2bc9QDuXD9mQIzJ4rT9d3yFCPaaj1GaE=",
+          "cp37"
+        ],
+        "orjson-3.7.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9zWZnUni//LJgS8eozCzaDSfd3JolOKgbRc3HmHXcbs=",
+          "cp37"
+        ],
+        "orjson-3.7.2-cp37-cp37m-manylinux_2_28_x86_64.whl": [
+          "WQvF8z5U6yJh3mXkAmh25X0EQ3urjcrelRRVfjHYRTc=",
+          "cp37"
+        ],
+        "orjson-3.7.2-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "isYcXJjLzc96PQpLYshzu9mplqaeqkT4NWqeEKop70k=",
+          "cp37"
+        ],
+        "orjson-3.7.2-cp37-none-win_amd64.whl": [
+          "ZivaFe300l1SCUVmCHPnMOOm2ZdQQbqcMvDOk7Yy7g0=",
+          "cp37"
+        ],
+        "orjson-3.7.2-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "GeuACBGlPvxxEf91NgefsvYtpwmN8KQnVrqR573QGv8=",
+          "cp38"
+        ],
+        "orjson-3.7.2-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "VKHk45yJ0309vHTd420J7rzeNl7GgDQxr5yGYEu7rzo=",
+          "cp38"
+        ],
+        "orjson-3.7.2-cp38-cp38-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "+9O0asUUy+KezrzuOII4MCKs+Eqk0zOPJtBoxvvfVqA=",
+          "cp38"
+        ],
+        "orjson-3.7.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "iRZA0zLIx6FHjqbRO2dtI53IZFGvpGAAxOjQmQoNct0=",
+          "cp38"
+        ],
+        "orjson-3.7.2-cp38-cp38-manylinux_2_28_aarch64.whl": [
+          "l3in7Exy1oFPHhFlkfNRQEpN8uHcUtKC/2eHgfRbUJs=",
+          "cp38"
+        ],
+        "orjson-3.7.2-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "sLJIP4rR+TrkqkO89qmF5uwnjpMdARi65gX/2BG2FKE=",
+          "cp38"
+        ],
+        "orjson-3.7.2-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "LZDKTnR1DHrft3CN6wlvg19+bEuJK99wP+hxVluwStc=",
+          "cp38"
+        ],
+        "orjson-3.7.2-cp38-none-win_amd64.whl": [
+          "sPTpK9/oag2lcCjmabwfUPSNgQ729mHmPcZZPEUDFL8=",
+          "cp38"
+        ],
+        "orjson-3.7.2-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "twUTKygn0zKRaEBnzKa6pFGkmbRZ5Gdh0w/PTWziGpo=",
+          "cp39"
+        ],
+        "orjson-3.7.2-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "xYnQC0+wd38iKzWSXk+gMMR3fxbRYjZp9EvcGRVwvmY=",
+          "cp39"
+        ],
+        "orjson-3.7.2-cp39-cp39-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "fhl+Z3myMOdDM+BtuAT/h2snMGRw9oaS7HDCcxDnNm8=",
+          "cp39"
+        ],
+        "orjson-3.7.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qCCJ7J4ffpuZL/WrmLTDwvmOe7/cb62+8EbFqq/sK1Q=",
+          "cp39"
+        ],
+        "orjson-3.7.2-cp39-cp39-manylinux_2_28_aarch64.whl": [
+          "P/ScIZsw1xXIuq4Xx8WDn+PywtsQpmxh1rkb2oC/h4k=",
+          "cp39"
+        ],
+        "orjson-3.7.2-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "KZp0NXaqoE9ceZQBBgj5bfXUqSTVhKaGxuJjzucyywA=",
+          "cp39"
+        ],
+        "orjson-3.7.2-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "064+1SyHXOGmxgf4UsoXcFdEUomJVIOwJH8NxXtIEkE=",
+          "cp39"
+        ],
+        "orjson-3.7.2-cp39-none-win_amd64.whl": [
+          "eWkU90Yyd9NxQCd1U2+0YZSMDTSmfSClfcTsSaSKhhM=",
           "cp39"
         ]
       }
