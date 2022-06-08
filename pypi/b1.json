@@ -23799,6 +23799,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "X+YFVvw1Y0FbNTxIFhCuCcPb2fMnMUJ0zuTO70ciqqU=",
+        "datanommer.models-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "datanommer.models-1.0.4-py3-none-any.whl": [
+          "xxHO+QAR+Y/LQs8zY4yzEqgjOoaCMZikBdh4v80qQKM=",
+          "py3"
+        ]
+      }
     }
   },
   "datarecorder": {
@@ -70483,6 +70495,12 @@
         "sk2UUkQW6c4RwHyQ+mjShJXUZoSmw97xRa+UN6+uZCo=",
         "libreflow.rouge-2.0.0.tar.gz"
       ]
+    },
+    "2.0.1": {
+      "sdist": [
+        "m4a+V3dn57Vvb0zFP/vgJPkdwz1ng9iT6eHeQzEGxNY=",
+        "libreflow.rouge-2.0.1.tar.gz"
+      ]
     }
   },
   "libsousou": {
@@ -95602,6 +95620,10 @@
           "RXbRSaot0Cfg/h1PpOOxGy6cwoeCSfPVy7jT19oMVeg=",
           "cp38"
         ],
+        "panphon2-0.3.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "hX9D0JLkii+ETT0Un7iW43UmUnojdeR2blR4+3he1Gw=",
+          "cp38"
+        ],
         "panphon2-0.3.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
           "gQ4TXSG0bfnfaWShUyAVJdp6ns/uEzfo+sjpWQZ9UA0=",
           "cp38"
@@ -95614,12 +95636,68 @@
           "81869NtzOKWJ1puxj6STDKD0Jc9IHvYBmlaVEgNbXcU=",
           "cp39"
         ],
+        "panphon2-0.3.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "PgaaPYAsjzAZuSomVI6ZOvWvudPGpjBvsJsa9sYS88M=",
+          "cp39"
+        ],
         "panphon2-0.3.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
           "yNU0SgzCV/1wikKLkmllkAZo88McQ3iZS9vV/nRQW8w=",
           "cp39"
         ],
         "panphon2-0.3.1-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
           "QWrmoCp9tGNgQiCiyiMnnORLs8RtRh0T3y0lcTVJetE=",
+          "pp37"
+        ]
+      }
+    },
+    "0.3.2": {
+      "wheels": {
+        "panphon2-0.3.2-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "mgATu69okyNA0heebgP12BD0gsAmfzeURGAK5RI7dAk=",
+          "cp310"
+        ],
+        "panphon2-0.3.2-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "m/yWOEM1eTwYXvXwJu/o6ENpzi4fKqjPDYfdZLLkG8c=",
+          "cp311"
+        ],
+        "panphon2-0.3.2-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "6UYE5ri72OXyycP7phL+gHnlmyl95xhaVVbNvQQWiQ8=",
+          "cp37"
+        ],
+        "panphon2-0.3.2-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "1Jf0uL+D+vz80scK2DfQZ2i59VYQSx7Pf5tc4usGf8Y=",
+          "cp38"
+        ],
+        "panphon2-0.3.2-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "isZrFwR3q4AzguLWW/SCb7fE+jkFfAid53arcVMCack=",
+          "cp38"
+        ],
+        "panphon2-0.3.2-cp38-cp38-macosx_11_0_arm64.whl": [
+          "tY6e3WMx9h7dktsI7IllMDGrsRAkSGcsLuEW2SMTP/4=",
+          "cp38"
+        ],
+        "panphon2-0.3.2-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "9pkZ4uoYCKO3qoNMpSVgriTJY42J/uhJGhjZjZY0C/k=",
+          "cp38"
+        ],
+        "panphon2-0.3.2-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "dOYLcXXHbi5jKw3SFd2TPn8+qFPITEywVPyoEMKlBeQ=",
+          "cp39"
+        ],
+        "panphon2-0.3.2-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "hWIxcjLoejMZvDHIgubPZo7x5R7WIfMgDLWtRZP/4Tw=",
+          "cp39"
+        ],
+        "panphon2-0.3.2-cp39-cp39-macosx_11_0_arm64.whl": [
+          "QXhCQ6zW0F0Mf31XtkcAJ0o2t6pcq3siV77/sgxXkcM=",
+          "cp39"
+        ],
+        "panphon2-0.3.2-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "x/aKKvwbzBTeXQEFbRs3qA7wxsvYeKio8LGtge8pLow=",
+          "cp39"
+        ],
+        "panphon2-0.3.2-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "52cdOmAdKezac+9C1HRWpJiSE8BNAXIa5LBe07Gh988=",
           "pp37"
         ]
       }
@@ -101247,6 +101325,16 @@
       ]
     }
   },
+  "proteustechlogger1": {
+    "0.1": {
+      "wheels": {
+        "proteustechlogger1-0.1-py3-none-any.whl": [
+          "G8hhJqjMOyCEXzyYIKatNcoRFhyUGGqSExyqoUvh/hE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ps-nester": {
     "1.0.0": {
       "sdist": [
@@ -104027,6 +104115,20 @@
           "py3"
         ]
       }
+    }
+  },
+  "pyglider": {
+    "0.0.1": {
+      "sdist": [
+        "GBMxutib1GY/+ISdgMVUy6RZYGaf61OJdMESHjlJ5Qw=",
+        "pyglider-0.0.1.tar.gz"
+      ]
+    },
+    "0.0.2a0": {
+      "sdist": [
+        "u6tFRE9J49nLh73yZF5gX32w+O5dDpFi3NJu8Dp7EbY=",
+        "pyglider-0.0.2a0.tar.gz"
+      ]
     }
   },
   "pygopac": {
