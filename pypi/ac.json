@@ -200,6 +200,12 @@
         "adafruit-circuitpython-debug-i2c-1.2.1.tar.gz"
       ]
     },
+    "1.2.10": {
+      "sdist": [
+        "a9qAf6cY0VeQBf3TJvJAAkytYPlr57HhI5OWHL2nZqA=",
+        "adafruit-circuitpython-debug-i2c-1.2.10.tar.gz"
+      ]
+    },
     "1.2.2": {
       "sdist": [
         "spAMy2SLsgy+X7bkAUZZw+UlZANV2guEp3WOGQ1rdI8=",
@@ -2664,10 +2670,14 @@
     }
   },
   "android-manager": {
-    "1.0": {
+    "3.3": {
+      "sdist": [
+        "2hS2blJXc43VWIDCxUgMJ14JvA14n8HmaufllJmoyDU=",
+        "android-manager-3.3.tar.gz"
+      ],
       "wheels": {
-        "android_manager-1.0-py3-none-any.whl": [
-          "wzaf93ZE+MAk19GNyhZvky+qziWUzyiEMqI6B+vGsXw=",
+        "android_manager-3.3-py3-none-any.whl": [
+          "4OoR3zneYlkK4g7m4Fj3jpq4FYmiq3UJl/Tvd552ggc=",
           "py3"
         ]
       }
@@ -33831,6 +33841,14 @@
       }
     }
   },
+  "ergoncredit": {
+    "1.0": {
+      "sdist": [
+        "gOgP9c+jaWzRVKDhfOwBP9vrhxTb/xgI5yAaTIwvWsA=",
+        "ergoncredit-1.0.tar.gz"
+      ]
+    }
+  },
   "et-micc3": {
     "3.0.0": {
       "sdist": [
@@ -57604,6 +57622,20 @@
       "wheels": {
         "mat2py-0.0.9-py3-none-any.whl": [
           "UcvnH38MzlCaeQBzmPaOfdljaKhr9vgLexN+rgm8sYE=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "math-parser": {
+    "0.1.2": {
+      "sdist": [
+        "UTI7PYYVao/VJT5tyfuMIrcHLz9YWH5NlNV2MQxDQuY=",
+        "Math-Parser-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "Math_Parser-0.1.2-py3-none-any.whl": [
+          "FMIHUk39wmY8bR4eI8fCFj55c3SyLSr/txJDPnmtzHs=",
           "py3"
         ]
       }
@@ -93469,6 +93501,58 @@
           "py3"
         ]
       }
+    },
+    "2.0.0b1": {
+      "sdist": [
+        "LSjgVCXQB617Fx0Bubwd03sYO47Atea5D3mCc1DSKgc=",
+        "pypdfium2-2.0.0b1.tar.gz"
+      ],
+      "wheels": {
+        "pypdfium2-2.0.0b1-py3-none-macosx_10_11_x86_64.macosx_11_0_x86_64.macosx_12_0_x86_64.whl": [
+          "DVo7T6W+NwRBi0chk+ZCk9Ua58xvFBkXUVuNnc8G9Bs=",
+          "py3"
+        ],
+        "pypdfium2-2.0.0b1-py3-none-macosx_11_0_arm64.macosx_12_0_arm64.whl": [
+          "N4tdsG/rXTBbRS0JEKOXWKUGI7xpzSxGBYCK0FDe1po=",
+          "py3"
+        ],
+        "pypdfium2-2.0.0b1-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "7gcpCEG+ahBixHZUVN8/pCaudh1ysuZ077tA4GOKofI=",
+          "py3"
+        ],
+        "pypdfium2-2.0.0b1-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.whl": [
+          "kUE3ZZ4MPinm0vYOFPY8jLHmvc/t9aFVe16G0odouZs=",
+          "py3"
+        ],
+        "pypdfium2-2.0.0b1-py3-none-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Y5XqtEmkWytSPmcPEqIUKOOy8NcOxPeDl+8vt+TqD9g=",
+          "py3"
+        ],
+        "pypdfium2-2.0.0b1-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "88xJQIAicztSvvGBVeAKPBC3E7dAj0ZEKcONHeL7d4w=",
+          "py3"
+        ],
+        "pypdfium2-2.0.0b1-py3-none-musllinux_1_2_i686.whl": [
+          "u42HI0NVJRquqxB4g9xA3Bj4XCFKJLTQAkpV8olJNbI=",
+          "py3"
+        ],
+        "pypdfium2-2.0.0b1-py3-none-musllinux_1_2_x86_64.whl": [
+          "VAySZ04KFC/iwpgRuu+KCsVBWaWZEZ1tx/wYtnLJL70=",
+          "py3"
+        ],
+        "pypdfium2-2.0.0b1-py3-none-win32.whl": [
+          "mc17Yk0Jq5+PIzqxWN2AeP4I/l44b4ZGPK4fuuiGmiQ=",
+          "py3"
+        ],
+        "pypdfium2-2.0.0b1-py3-none-win_amd64.whl": [
+          "T8ko9ABjaNLq1T7Hx2uH3L0U2DbFKXFLna3XhLFLFls=",
+          "py3"
+        ],
+        "pypdfium2-2.0.0b1-py3-none-win_arm64.whl": [
+          "GOQpFZ9fTCPCZmk1ZU29qvsZ7Faoq+BT03p26YONXik=",
+          "py3"
+        ]
+      }
     }
   },
   "pypel": {
@@ -117880,6 +117964,18 @@
       "wheels": {
         "tencentcloud_sdk_python_gs-3.0.649-py2.py3-none-any.whl": [
           "RY9HkyABKhdHmc5lEltbd1tffIGUTZKVWU1fGR5fPCc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.650": {
+      "sdist": [
+        "0FAt5nqjLA6geOrl7+lmAvlXhzLmVQL68tFhY8L9TCM=",
+        "tencentcloud-sdk-python-gs-3.0.650.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_gs-3.0.650-py2.py3-none-any.whl": [
+          "KQBqCELyKb+H3LZkj/JmxXdWsimguxZptQbVYuDIRFE=",
           "py2.py3"
         ]
       }

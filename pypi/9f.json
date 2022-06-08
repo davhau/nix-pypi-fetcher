@@ -1227,6 +1227,12 @@
         "apbfugXv3JQbs4vDhp04wXoWZ47QDyJfrW7qymVtNuc=",
         "adafruit-circuitpython-74hc595-1.3.5.tar.gz"
       ]
+    },
+    "1.3.6": {
+      "sdist": [
+        "IUuGQ8NKx9XSgYnxobEkPgItUySkMjze7Pfp7wtuXtM=",
+        "adafruit-circuitpython-74hc595-1.3.6.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-cursorcontrol": {
@@ -1324,6 +1330,12 @@
       "sdist": [
         "HrdH8fCPOIst1/PPO9H8RduVEuo07L56379Q12icgQk=",
         "adafruit-circuitpython-cursorcontrol-2.7.0.tar.gz"
+      ]
+    },
+    "2.7.1": {
+      "sdist": [
+        "FtP14TkqMduxyUhmXOTrOhKuzKbgapVHG9OUfu6xChk=",
+        "adafruit-circuitpython-cursorcontrol-2.7.1.tar.gz"
       ]
     }
   },
@@ -3635,21 +3647,41 @@
       }
     },
     "0.3.3": {
+      "sdist": [
+        "GnWlGZbxhganUl8WV3jFPWfqAgY00T6koCasEkqMHZI=",
+        "antspyx-0.3.3.tar.gz"
+      ],
       "wheels": {
         "antspyx-0.3.3-cp36-cp36m-macosx_10_15_x86_64.whl": [
           "uBJSEEGHFWh1SRBT95kcIDR2hi4IoU/HynsgjOxx3xE=",
+          "cp36"
+        ],
+        "antspyx-0.3.3-cp36-cp36m-manylinux_2_24_x86_64.whl": [
+          "BRbom/YyJH5rKnHKtF59XTcYybDSJEstUx6M/bUmHUA=",
           "cp36"
         ],
         "antspyx-0.3.3-cp37-cp37m-macosx_10_15_x86_64.whl": [
           "JqNQKw2LyB42oEnO9BP4P2nqWfvTX29rgk9LgQ/3XSY=",
           "cp37"
         ],
+        "antspyx-0.3.3-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "KxsFcVtdgF59VSPv4tQA/7dFip04OD9kFYDptGwGP00=",
+          "cp37"
+        ],
         "antspyx-0.3.3-cp38-cp38-macosx_10_15_x86_64.whl": [
           "F4o0qzVGpHnythk5XrRSMyRSc7lMk5ZpJ2VlheEiY0s=",
           "cp38"
         ],
+        "antspyx-0.3.3-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "WA9j4WG5eCVE4AILVLccQ49XhEcfpAftLDk72ODOlKg=",
+          "cp38"
+        ],
         "antspyx-0.3.3-cp39-cp39-macosx_10_15_x86_64.whl": [
           "fcnWgO8xKZ1Eq5AvxPT9Xmju7nGMVP41hfPyVpfc+KY=",
+          "cp39"
+        ],
+        "antspyx-0.3.3-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "kZtzKmYCKzNLQdMkC6jrn0ypSPuwsQsrEYdZS346rwQ=",
           "cp39"
         ]
       }
@@ -13390,6 +13422,14 @@
       "wheels": {
         "boostaug-1.2.14a1-py3-none-any.whl": [
           "zQSGLbiV58uga0OBFFETC9lC96JFENlgE1BR8j3LT4Y=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.14a2": {
+      "wheels": {
+        "boostaug-1.2.14a2-py3-none-any.whl": [
+          "GDpOPr/tEXWA8rNZeeqpHz9AkQIAgCxQwaKDwdJY4AQ=",
           "py3"
         ]
       }
@@ -81017,6 +81057,30 @@
           "py3"
         ]
       }
+    },
+    "0.4.2": {
+      "sdist": [
+        "2zrRql4FTWsdGFUCR7W8XOfAHoXj+j6MaA8hUoFYzos=",
+        "modbamtools-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "modbamtools-0.4.2-py3-none-any.whl": [
+          "7pO8w8k2aL6BVgQkJs21X86wj+QLhC92NAmYZC41cR8=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.3": {
+      "sdist": [
+        "oEbYlwX9rrq738D4MQlqIcrXKCqYw8nMxPzRBQBepoA=",
+        "modbamtools-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "modbamtools-0.4.3-py3-none-any.whl": [
+          "tIyhyyF86ascBTqED8ltjXBU6DvCxBFjv7lvYW5oP4I=",
+          "py3"
+        ]
+      }
     }
   },
   "mogptk": {
@@ -130327,6 +130391,18 @@
           "py3"
         ]
       }
+    },
+    "1.2.2": {
+      "sdist": [
+        "hyBiLG+DQKbQwGGZUM4WMujszoJPFV8taushhn4SfP4=",
+        "tapipy-1.2.2.tar.gz"
+      ],
+      "wheels": {
+        "tapipy-1.2.2-py3-none-any.whl": [
+          "mrA2DHgFSqkJmtU/VQqGjhrlXQhY/nqbXyQh1JXrNUQ=",
+          "py3"
+        ]
+      }
     }
   },
   "tarot": {
@@ -135312,6 +135388,18 @@
       "wheels": {
         "tencentcloud_sdk_python_af-3.0.649-py2.py3-none-any.whl": [
           "RtZlULtqTZOqK7RUhcaHGpRzKm5XX9hrxaBrum0gNyA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.650": {
+      "sdist": [
+        "rsCGRHICnscBvzNo3ohtfpBtPu1YdOfdytctkPAOe/g=",
+        "tencentcloud-sdk-python-af-3.0.650.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_af-3.0.650-py2.py3-none-any.whl": [
+          "OVqxx+0kE4/AmkDcD2A2amARPxUYNzwq5dBmGPikias=",
           "py2.py3"
         ]
       }
@@ -140898,14 +140986,14 @@
     }
   },
   "verificador-de-processo": {
-    "5.0": {
+    "10.0": {
       "sdist": [
-        "4VLIQ2lTApWiZLqiQy4eJ4kUcwbPuHO9X2fQVzZyD5w=",
-        "Verificador-de-processo-5.0.tar.gz"
+        "k0BkNWH9ymaH7IiGyUOwPPr2OZ61Q4GeEigb3SYasxU=",
+        "Verificador-de-processo-10.0.tar.gz"
       ],
       "wheels": {
-        "Verificador_de_processo-5.0-py3-none-any.whl": [
-          "I0iimYtBql9ZwW73rZ3QpNYXGFrMKaEFts8c+kfH4Fo=",
+        "Verificador_de_processo-10.0-py3-none-any.whl": [
+          "EAl9qchMHDpkyjxbhrimZWeiwtqH5urOeiQUfhqFEZE=",
           "py3"
         ]
       }
@@ -144778,6 +144866,18 @@
       "wheels": {
         "workos-1.11.0a1-py3-none-any.whl": [
           "Ldem/ZyIiErnW5Gtgy05nyHKm/bOy2HnPD/PNMf0mRQ=",
+          "py3"
+        ]
+      }
+    },
+    "1.12.0": {
+      "sdist": [
+        "6gE+vmfuoaXm43/ePU04/jPQCJihJ9/yKWJlRM2xWlo=",
+        "workos-1.12.0.tar.gz"
+      ],
+      "wheels": {
+        "workos-1.12.0-py3-none-any.whl": [
+          "hEb73cMvF0H8qy8TtogXoYUxUX8J3DUdSto8GW4DmRs=",
           "py3"
         ]
       }
