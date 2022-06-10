@@ -1489,6 +1489,12 @@
         "d5BFoHKuFWIp7XB1Bi/9WjLtk2Gf3qWK/cTFeshue1o=",
         "adafruit-circuitpython-mlx90640-1.2.8.tar.gz"
       ]
+    },
+    "1.2.9": {
+      "sdist": [
+        "ciOd63XOqvQHAwat8yTyBJrd8YVi4KEM867EP1NGrEs=",
+        "adafruit-circuitpython-mlx90640-1.2.9.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-motor": {
@@ -1683,6 +1689,12 @@
         "OsNjzvoZ2tXG6IHERSXBJZ4v64oGp/VmhJjof+4FC0I=",
         "adafruit-circuitpython-motor-3.4.1.tar.gz"
       ]
+    },
+    "3.4.2": {
+      "sdist": [
+        "1jDrZHnZSFeHRJkMGjaZT44DzHjpLF1CeIM4mTKMP20=",
+        "adafruit-circuitpython-motor-3.4.2.tar.gz"
+      ]
     }
   },
   "adafruit-circuitpython-shtc3": {
@@ -1762,6 +1774,12 @@
       "sdist": [
         "R680eEOEK2HneRHOQifuaW8m4/Qefh0k2bANLsyflDM=",
         "adafruit-circuitpython-shtc3-1.1.5.tar.gz"
+      ]
+    },
+    "1.1.6": {
+      "sdist": [
+        "WzEi2WldLc/k0Wo2rCu4wOw1yNNFWhsePxBnamr2Hno=",
+        "adafruit-circuitpython-shtc3-1.1.6.tar.gz"
       ]
     }
   },
@@ -22277,6 +22295,20 @@
       ]
     }
   },
+  "civiq6": {
+    "0.1.0": {
+      "sdist": [
+        "XXmSlXapwhb+LGY8kJs8scgHWgvQ6fBKFPNw8/82SAs=",
+        "civiq6-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "civiq6-0.1.0-py3-none-any.whl": [
+          "dt5iEsSrtzBtCG2hSkHrq7FWphvj3vuyCJoX1Gw6suc=",
+          "py3"
+        ]
+      }
+    }
+  },
   "ckan-uploader": {
     "0.1.2": {
       "sdist": [
@@ -25338,6 +25370,62 @@
         ],
         "couchbase-4.0.0rc1-cp39-cp39-win_amd64.whl": [
           "gdHBaosPgdpenYlun2kSizxLF9CQ4RTXcn/b63kBPgo=",
+          "cp39"
+        ]
+      }
+    },
+    "4.0.1": {
+      "sdist": [
+        "ZagXq9JpV3kADNbHsZou4Q7Su0OtwKh15A2lxtLouFM=",
+        "couchbase-4.0.1.tar.gz"
+      ],
+      "wheels": {
+        "couchbase-4.0.1-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "j9UAmIN1ZNQfrJqTRfY2UycduPfqHTaocoxHiA/FDJA=",
+          "cp310"
+        ],
+        "couchbase-4.0.1-cp310-cp310-macosx_11_0_universal2.whl": [
+          "JzprHD5dRfLjIuqfHEiXCjsVPVSWNW62LlMjRLe8f44=",
+          "cp310"
+        ],
+        "couchbase-4.0.1-cp310-cp310-win_amd64.whl": [
+          "Ex4zTqDsYl1AiRInznibwy513XA0eqRMJMsHefHjR78=",
+          "cp310"
+        ],
+        "couchbase-4.0.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "K36eWUB/Rm+7vVJ+GZhSq8Y9jOvqOB7Dbjabw76YI9w=",
+          "cp37"
+        ],
+        "couchbase-4.0.1-cp37-cp37m-macosx_11_0_universal2.whl": [
+          "g9tGAajLm3l8i+dIv8JcgtI8VYGBoc9JuH9fF3SdSvU=",
+          "cp37"
+        ],
+        "couchbase-4.0.1-cp37-cp37m-win_amd64.whl": [
+          "TrCClSbwgS6zg9SHfqsgxHanSNMxEC7ZiQ52IkIS4lw=",
+          "cp37"
+        ],
+        "couchbase-4.0.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "esO7j9IoDgDyBPshEfD53aBpZ2dUvn8DRYSSMc4TnvQ=",
+          "cp38"
+        ],
+        "couchbase-4.0.1-cp38-cp38-macosx_11_0_universal2.whl": [
+          "vG0cLvEbdSCmKN2RFGFBaoWe/jZPgfRKy+mh8ksKjqc=",
+          "cp38"
+        ],
+        "couchbase-4.0.1-cp38-cp38-win_amd64.whl": [
+          "gtGDuavi+VTMowSYX9gLo3YFt6HpSVXvoREAPKaxjP0=",
+          "cp38"
+        ],
+        "couchbase-4.0.1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "bY3RwdhTlVnGTNxbyDYjW/WkMEjvbK2UreLc3ybtcTI=",
+          "cp39"
+        ],
+        "couchbase-4.0.1-cp39-cp39-macosx_11_0_universal2.whl": [
+          "TWreJ//4YhOaRQKnY1FbhjACbRgXvNh1U3ypVC53hkQ=",
+          "cp39"
+        ],
+        "couchbase-4.0.1-cp39-cp39-win_amd64.whl": [
+          "UvCjDPoAJguvELgs2vGtAQs/RpbBsujcOg0xeYspet8=",
           "cp39"
         ]
       }
@@ -53701,6 +53789,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0a5": {
+      "sdist": [
+        "+5ad/+e+t2bdNsc1vWTZp/jXAtp0D6TPrzY+41atdNY=",
+        "heaserver-folders-aws-s3-1.0.0a5.tar.gz"
+      ],
+      "wheels": {
+        "heaserver_folders_aws_s3-1.0.0a5-py3-none-any.whl": [
+          "GfnR6VPVjIM9DvtUQ9knsL7H+W7ZXyQ5Fm52j3ktkp0=",
+          "py3"
+        ]
+      }
     }
   },
   "hedfpy": {
@@ -58644,6 +58744,30 @@
       "wheels": {
         "jp_prefecture-0.2.5-py3-none-any.whl": [
           "9+tglMlKJ2Kp1eCr4PSw72i08cyFYm6KXCXxzhgIwKw=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.0": {
+      "sdist": [
+        "g0K5yTQf7rpqbEYNQeZW1utxpekmJfW0hrUmC7V+Znw=",
+        "jp_prefecture-0.3.0.tar.gz"
+      ],
+      "wheels": {
+        "jp_prefecture-0.3.0-py3-none-any.whl": [
+          "z9ixBHfgXZLdCRG9C+U3DAkaKh/P+DDRN6WuHcdXO2U=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.1": {
+      "sdist": [
+        "+jz2cYZoWZ/hJLrzuDpTcEJ/aT53Rh4lgdcL9CH0nJo=",
+        "jp_prefecture-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "jp_prefecture-0.3.1-py3-none-any.whl": [
+          "N/vzdj/EcCHBfeXuqvhbYacjFg5d6TlUtYoW2MHuu3c=",
           "py3"
         ]
       }
@@ -105729,6 +105853,18 @@
           "py3"
         ]
       }
+    },
+    "2.3.5": {
+      "sdist": [
+        "6X60hCH0y3qJf8cXjWjjU3F70Nde3zx+VH69/6Jqgno=",
+        "RelevanceAI-2.3.5.tar.gz"
+      ],
+      "wheels": {
+        "RelevanceAI-2.3.5-py3-none-any.whl": [
+          "+84+c0Fd7bnMYWIya28pr7LfOzN2fU4lwPuNxPWsRio=",
+          "py3"
+        ]
+      }
     }
   },
   "remotecv-redis": {
@@ -124465,6 +124601,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.652": {
+      "sdist": [
+        "Jc6oJkaYH9iswYn3eEx9/RO5FqIeXxRsSXhStuaDtAc=",
+        "tencentcloud-sdk-python-rkp-3.0.652.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_rkp-3.0.652-py2.py3-none-any.whl": [
+          "lGUub5ecAP2NYTdvTzMKVbej60wbA7gvufWgJg44H7Q=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensor-evolution": {
@@ -128334,6 +128482,12 @@
       "sdist": [
         "9IoumlEtfGAUlCVNpx/7Doc0PXP/NNK6MzlvdVPluoM=",
         "tutor-13.3.1.tar.gz"
+      ]
+    },
+    "14.0.0": {
+      "sdist": [
+        "ETreG3M3IwmutJS+q3n6iUAXOr+8h2XiYZ2d687Gxyg=",
+        "tutor-14.0.0.tar.gz"
       ]
     }
   },
@@ -133745,6 +133899,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.27": {
+      "sdist": [
+        "PqruWratcMTDIBPvEiYMtnb8QQlZ+E685/D1O2TFZLM=",
+        "whacc-1.1.27.tar.gz"
+      ],
+      "wheels": {
+        "whacc-1.1.27-py3-none-any.whl": [
+          "uSt3h7YOrYvGxTSq/fvxLq/yWrbGRs6WOiKXDY4p/nY=",
+          "py3"
+        ]
+      }
     }
   },
   "wickedql": {
@@ -136460,6 +136626,12 @@
       "sdist": [
         "b+w/+JjyxGkNdLkuK7MCMXOx/13T+Gb5vxrT7ICUo7A=",
         "xfields-0.6.1.tar.gz"
+      ]
+    },
+    "0.6.2": {
+      "sdist": [
+        "UWqs7+ISfFjScgd9Rz99f+GKLURRE2XPLqffqhZ3ixI=",
+        "xfields-0.6.2.tar.gz"
       ]
     }
   },
