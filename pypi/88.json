@@ -3289,6 +3289,18 @@
         "uTPIDGDVkkxcuzd93UvlFZiqoR7t5UW9qtPMpbHVv9A=",
         "anuga-3.1.5.tar.gz"
       ]
+    },
+    "3.1.7": {
+      "sdist": [
+        "RbITQ478Jt/CljR7mAh/yPvN6SuNLX/xHx7BTCQcmoA=",
+        "anuga-3.1.7.tar.gz"
+      ]
+    },
+    "3.1.8": {
+      "sdist": [
+        "HxVpDK8C7ZxF0IhTa+4i0QpB0ZVAd+iEs83MNh1CKQQ=",
+        "anuga-3.1.8.tar.gz"
+      ]
     }
   },
   "anyon": {
@@ -17691,6 +17703,20 @@
       ]
     }
   },
+  "deepmtp": {
+    "0.0.5": {
+      "sdist": [
+        "5Zsa7FBlaf/FQZN74Ab30JhvXtUcvZz60cz4aq1qiww=",
+        "DeepMTP-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "DeepMTP-0.0.5-py3-none-any.whl": [
+          "L3n6sxdZvK2o82QBamiIqslvDVNoUVn286ZiiAqt0Sw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "default-values": {
     "0.0.10": {
       "sdist": [
@@ -21864,6 +21890,18 @@
       "wheels": {
         "django_jsonform-2.10.0-py3-none-any.whl": [
           "6b+CVPzFpb/BHV36r+rsTQ+GDRAtdPq2+b8b5i8m93A=",
+          "py3"
+        ]
+      }
+    },
+    "2.10.1": {
+      "sdist": [
+        "WEKLQbFgJJv2QEkd2enWtklOa2fnynTwoBrr2AZLl/I=",
+        "django-jsonform-2.10.1.tar.gz"
+      ],
+      "wheels": {
+        "django_jsonform-2.10.1-py3-none-any.whl": [
+          "NM1wxn/UDwQY3JhelG1r7CM60zXMrQCU++4fi5fEYOg=",
           "py3"
         ]
       }
@@ -54193,6 +54231,12 @@
         "c4s6bFgCu6KE0oX925h9t0L8qu8i769aPRqJuo8986o=",
         "logistics-0.0.4.tar.gz"
       ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "MPN6zAZUizzvYcyCvXHPmZP86ry3GloXLJ91c1O4lDg=",
+        "logistics-0.0.5.tar.gz"
+      ]
     }
   },
   "logitboost": {
@@ -58252,6 +58296,58 @@
         ],
         "maturin-0.13.0_beta.4-py3-none-win_arm64.whl": [
           "iQoqGBDkkmn5wGQzNIZXf+gxvjTYml+1HeTSjDOxnEA=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.0b5": {
+      "sdist": [
+        "VS3Wp0prRHCEX4EBMeDlHIL78FPWtjErdKHPBBIGTgY=",
+        "maturin-0.13.0_beta.5.tar.gz"
+      ],
+      "wheels": {
+        "maturin-0.13.0_beta.5-py3-none-macosx_10_7_x86_64.whl": [
+          "1wSVRJxBiK9RLP9LwW0XztcBpkzoIR+3wwZ4LW0E+gY=",
+          "py3"
+        ],
+        "maturin-0.13.0_beta.5-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "9lM6NIUEPgUwk4zJesIBbNzNrtcGVxRnCVtNI8T+pb8=",
+          "py3"
+        ],
+        "maturin-0.13.0_beta.5-py3-none-manylinux_2_12_i686.manylinux2010_i686.musllinux_1_1_i686.whl": [
+          "nVf9g6W7QVlcVW24rDWaQMd02lRa8D2BK/pOxXfLMAk=",
+          "py3"
+        ],
+        "maturin-0.13.0_beta.5-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.musllinux_1_1_x86_64.whl": [
+          "+LNH0czcA1x9/8hrzbOymOCm0u8wuykF+CoyDyLyxsg=",
+          "py3"
+        ],
+        "maturin-0.13.0_beta.5-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl": [
+          "mRFAF4oIxcSaLblpU4lkUoV6bBSpUKhEC2MGHN1GSpY=",
+          "py3"
+        ],
+        "maturin-0.13.0_beta.5-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.musllinux_1_1_armv7l.whl": [
+          "mJy0llr2gUw69Tf3vNlxBPgEEB1SJgex/rqdDgB4qpw=",
+          "py3"
+        ],
+        "maturin-0.13.0_beta.5-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.musllinux_1_1_ppc64le.whl": [
+          "gU+md+snIsFrInCo2ycKBctdO16iVbwyxN0Jsl3/dOw=",
+          "py3"
+        ],
+        "maturin-0.13.0_beta.5-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "QuY2ym2YS7OjrvrbAhIlnW6DTLh/PmXCl4mbGV89jW0=",
+          "py3"
+        ],
+        "maturin-0.13.0_beta.5-py3-none-win32.whl": [
+          "RZFh/AJrW5TCbpmW3I//TdigrVaxHO0BA7WY9LslQDY=",
+          "py3"
+        ],
+        "maturin-0.13.0_beta.5-py3-none-win_amd64.whl": [
+          "N1nJogMPobnEQtG7BpNGF3UeWlXSzw8JNPLesmKPWP8=",
+          "py3"
+        ],
+        "maturin-0.13.0_beta.5-py3-none-win_arm64.whl": [
+          "zUayG/zJMaZ6yocieZhSgsfCfgsHi4NGDefOgwyNE0M=",
           "py3"
         ]
       }
@@ -81631,6 +81727,12 @@
         "XqCR3kEB6BoZTu1PZbGICPMmYCDuGZqwcnCCKGo9Bvw=",
         "ph-1.1.0.tar.gz"
       ]
+    },
+    "1.1.1": {
+      "sdist": [
+        "K4cd/FHyC38VbY3LoqrpZrCK1z9UnZtrvDoOmfqXtn8=",
+        "ph-1.1.1.tar.gz"
+      ]
     }
   },
   "phash": {
@@ -97605,6 +97707,42 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "q+9mTw/M8UUYIOfATbYuVDfNQX/aE5uAak+x6VDuiNE=",
+        "rcs-pydantic-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "rcs_pydantic-0.2.2-py3-none-any.whl": [
+          "oXQ2iEJoeL8KRRe4sjYTinvZJOdt3I07UAznzANARwA=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "sdist": [
+        "68KOU6U60GRhEYVD4drqqBzCxs6ITLytYWvIpuFNF2A=",
+        "rcs-pydantic-0.2.3.tar.gz"
+      ],
+      "wheels": {
+        "rcs_pydantic-0.2.3-py3-none-any.whl": [
+          "kG53bRFnINvwE/HfQcDXLLH7ncqgRWc23VdQgE3hOBw=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.4": {
+      "sdist": [
+        "nv5IotJAkO3G9Ssc5bPrt0zui2DRauuM7qUwbAhtOXk=",
+        "rcs-pydantic-0.2.4.tar.gz"
+      ],
+      "wheels": {
+        "rcs_pydantic-0.2.4-py3-none-any.whl": [
+          "d+T7tpW0y7ccg9s7iw5uNigeWcp3F9nhD+vBmU1R7mE=",
+          "py3"
+        ]
+      }
     }
   },
   "rcute-cozmars": {
@@ -101576,6 +101714,18 @@
         ]
       }
     },
+    "0.1.11": {
+      "sdist": [
+        "LEOuPzfzoF9nxB9jtyjeyhHz0kBeFHHDmEjdajncbnM=",
+        "rikai-0.1.11.tar.gz"
+      ],
+      "wheels": {
+        "rikai-0.1.11-py3-none-any.whl": [
+          "QFPD7a+GLbHxgd1uix7NpCqPYorW0nL9PrK4Jx7oTFk=",
+          "py3"
+        ]
+      }
+    },
     "0.1.2": {
       "sdist": [
         "YgzY3TqoKRc2ZvGGaM0Nn+K/1iMQInXhqDV4Qo1p0iA=",
@@ -102454,6 +102604,26 @@
       "sdist": [
         "2hAGTDtiYuc8w8mkRZbP+F7n/CnQFZNlR8yaUP7k9rE=",
         "rocketlog-0.1.6.tar.gz"
+      ]
+    }
+  },
+  "roughfilter": {
+    "2.0": {
+      "sdist": [
+        "/ATPaOnPTcVyqo8FhQincrSd0uu+JlLrnrcsh76TC9Q=",
+        "roughfilter-2.0.tar.gz"
+      ]
+    },
+    "2.0.1": {
+      "sdist": [
+        "YXNgb2YnkSj1D2qKz/Pq8ViHVaOkn/GMvseC2XX82kc=",
+        "roughfilter-2.0.1.tar.gz"
+      ]
+    },
+    "2.0.2": {
+      "sdist": [
+        "Tu11ZMaJmLA5OyfZrXvdLOMPJZW5GrwW3g3xY+fi+rY=",
+        "roughfilter-2.0.2.tar.gz"
       ]
     }
   },
@@ -112985,6 +113155,20 @@
         "Rh+vWJ5ygKm1znwptnE5bs7XCujbS0kcD0gSYuxTM+Y=",
         "TheZine-0.0.1.zip"
       ]
+    }
+  },
+  "thingsboard-py": {
+    "0.1.0": {
+      "sdist": [
+        "G60y53vIRmzhkJ+QLFL+xtPDkk+4KK02QZg9dTEuBGY=",
+        "thingsboard_py-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "thingsboard_py-0.1.0-py3-none-any.whl": [
+          "mSHvtoKWSQhSjJdo091mh9f3EMWh6tcNEo+jtXCUQ6Y=",
+          "py3"
+        ]
+      }
     }
   },
   "throw-away-sample": {
