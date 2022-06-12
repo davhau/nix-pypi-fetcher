@@ -9594,6 +9594,18 @@
         ]
       }
     },
+    "0.5.20": {
+      "sdist": [
+        "tHr8qZmkUC4DbDLAgAgMQJ/pIvsSUVghyU6emGfDg4o=",
+        "bioregistry-0.5.20.tar.gz"
+      ],
+      "wheels": {
+        "bioregistry-0.5.20-py3-none-any.whl": [
+          "k/zRhfxckvDO3RbbdF1Fb9w/5h7pnNQyvHCqS+0QBtM=",
+          "py3"
+        ]
+      }
+    },
     "0.5.3": {
       "sdist": [
         "JGhl670sGMr1tboNT5nlJZ+yWXNlqkALe74PJgE/cSs=",
@@ -12664,6 +12676,24 @@
       "sdist": [
         "4+VTwV37KIKjFULQgZuHnWhcljnb65JeCYj+Zha7DYE=",
         "ceres-raytracer-0.5a0.tar.gz"
+      ]
+    },
+    "0.5a1": {
+      "sdist": [
+        "izneyzENikQBqQt3Y24kJIFhJ4XuZd4C8czpzNMXZp4=",
+        "ceres-raytracer-0.5a1.tar.gz"
+      ]
+    },
+    "0.5a2": {
+      "sdist": [
+        "MY87M/sGX4kZCvjiUm/M0IeudjgAmtB20BsTlgl9SWU=",
+        "ceres-raytracer-0.5a2.tar.gz"
+      ]
+    },
+    "0.5a3": {
+      "sdist": [
+        "PSFzmkMe925cUSqWLXuvpIwDGU37/14/RtJt4Gykefg=",
+        "ceres-raytracer-0.5a3.tar.gz"
       ]
     }
   },
@@ -15890,178 +15920,6 @@
     }
   },
   "clickhouse-connect": {
-    "0.0.10": {
-      "sdist": [
-        "qYGAqyLT1amotZkFEm9sYdKrYKs8ig9aqD+S7aVSsCA=",
-        "clickhouse-connect-0.0.10.tar.gz"
-      ],
-      "wheels": {
-        "clickhouse_connect-0.0.10-cp39-cp39-macosx_12_0_x86_64.whl": [
-          "v6TGzRkW+iEJ3AyX9s2sf713NBoqwN7WJu4W1In4aFk=",
-          "cp39"
-        ]
-      }
-    },
-    "0.0.12": {
-      "sdist": [
-        "j1X1dvbUsMpCwVUiupjBXR3EZY2Ax81m2+BtVjTBiVM=",
-        "clickhouse-connect-0.0.12.tar.gz"
-      ],
-      "wheels": {
-        "clickhouse_connect-0.0.12-cp310-cp310-macosx_10_15_x86_64.whl": [
-          "tbsUVgbQ7olX1t3pEYse6KZXxnZeaa+OpyZG+MhOozc=",
-          "cp310"
-        ],
-        "clickhouse_connect-0.0.12-cp310-cp310-win_amd64.whl": [
-          "/KjWqaRshfdrC1Vjj9ckhAA5dCRYpToxNeEXycIqd8Q=",
-          "cp310"
-        ],
-        "clickhouse_connect-0.0.12-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "Gm5BCvKZHPctcb2r144SCrSUN/JsRw1cqLcwG0NbNlk=",
-          "cp37"
-        ],
-        "clickhouse_connect-0.0.12-cp37-cp37m-win_amd64.whl": [
-          "iRdIzbn9/JaVvgrFdRszXbsbOG1bMg4tG6EGRjxUDpM=",
-          "cp37"
-        ],
-        "clickhouse_connect-0.0.12-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "y/rrVoDximaMhpPpHyQUSkAVXsjD5Gxhkkmlrs8xcY4=",
-          "cp38"
-        ],
-        "clickhouse_connect-0.0.12-cp38-cp38-win_amd64.whl": [
-          "/lFkzmHwvN4cJ53YrOWomUqVve/Nsgza7JwSXsnnQFY=",
-          "cp38"
-        ],
-        "clickhouse_connect-0.0.12-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "acY74UJWnIvkLFAKudh4r/LcrZk5FyrWtzDl2NFJx7A=",
-          "cp39"
-        ],
-        "clickhouse_connect-0.0.12-cp39-cp39-win_amd64.whl": [
-          "Xf3ujoN+0+LSXRJTHPO1MZ0sb3BVQ5LZU+yegXr3jlk=",
-          "cp39"
-        ]
-      }
-    },
-    "0.0.13": {
-      "sdist": [
-        "ZrDOl3jMGUhmuAYONLiA7kfwOPBtCbVo9TynlqWky/E=",
-        "clickhouse-connect-0.0.13.tar.gz"
-      ],
-      "wheels": {
-        "clickhouse_connect-0.0.13-cp310-cp310-macosx_10_15_x86_64.whl": [
-          "epTq3AJrBCY4y4bqrgTNVCxevWDu7DAbcxeDOK4s7gQ=",
-          "cp310"
-        ],
-        "clickhouse_connect-0.0.13-cp310-cp310-win_amd64.whl": [
-          "4+Y6nEgBelpqDoQBCkuQhO+JAFKivdLO5uohbs7yvMs=",
-          "cp310"
-        ],
-        "clickhouse_connect-0.0.13-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "aq8VW6w7SuhjV+KB1Jc2kK20ljCmspigEaUVkEQ5Dos=",
-          "cp37"
-        ],
-        "clickhouse_connect-0.0.13-cp37-cp37m-win_amd64.whl": [
-          "YmpB5joK5gk5JDB0PoFBaAKjHXPdqaVMdnp5c+fiFJo=",
-          "cp37"
-        ],
-        "clickhouse_connect-0.0.13-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "2Z0etujnCOnb5ylmBkz0bPw6qynikEfS2wboDQmGFkA=",
-          "cp38"
-        ],
-        "clickhouse_connect-0.0.13-cp38-cp38-win_amd64.whl": [
-          "PrLKrN6dllNpSBGoNdtH7uArEPUxpF7AA6FpyXAb/Nc=",
-          "cp38"
-        ],
-        "clickhouse_connect-0.0.13-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "etzP7EEK6KxEWku0FOLE/K9TwJVkE4y4WGBhlpuP3O4=",
-          "cp39"
-        ],
-        "clickhouse_connect-0.0.13-cp39-cp39-win_amd64.whl": [
-          "GkCVDjXXPIiSk4lr9d1Hc9DyFnorkwvG2Sfr25bflL8=",
-          "cp39"
-        ]
-      }
-    },
-    "0.0.14": {
-      "sdist": [
-        "AUvlIF2rvM5DCYDdTBk1xg1IajvxzkNB//py20vpuLE=",
-        "clickhouse-connect-0.0.14.tar.gz"
-      ],
-      "wheels": {
-        "clickhouse_connect-0.0.14-cp310-cp310-macosx_10_15_x86_64.whl": [
-          "cCV9soqC49ljQ/cJnc4HtqOo3WrEI66QvqaGA7SFBrY=",
-          "cp310"
-        ],
-        "clickhouse_connect-0.0.14-cp310-cp310-win_amd64.whl": [
-          "XuaxEtab6iDap1d4Ht15CjbmBkcZOXW83H9iGb6iCI0=",
-          "cp310"
-        ],
-        "clickhouse_connect-0.0.14-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "iJ/1o6eXQTvYe/VhiCUKyWI6r9cT46UVqI6AFgbW5B4=",
-          "cp37"
-        ],
-        "clickhouse_connect-0.0.14-cp37-cp37m-win_amd64.whl": [
-          "I44Uw0XUB8nJ/PrH9N64Sqf384Ey4b+szpGqwkT8m+g=",
-          "cp37"
-        ],
-        "clickhouse_connect-0.0.14-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "OIBrkFDrbBqkdPsm2uBLzoQjDHdwrbfzIK0gz3G3W+o=",
-          "cp38"
-        ],
-        "clickhouse_connect-0.0.14-cp38-cp38-win_amd64.whl": [
-          "RtFJzEIxxfYWNwDLRxi7MtGYJJrKBGkO6cfTPFEtrZs=",
-          "cp38"
-        ],
-        "clickhouse_connect-0.0.14-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "qjm1qt5cWECoh5mmxeqMVZGv48lYrDZJc1akRh5829k=",
-          "cp39"
-        ],
-        "clickhouse_connect-0.0.14-cp39-cp39-win_amd64.whl": [
-          "ofzSsIlmqBZp5qPlSw2BjkwZeMYobulwk67v0ucN28k=",
-          "cp39"
-        ]
-      }
-    },
-    "0.0.15": {
-      "sdist": [
-        "XPZGVw2P32scYelleZJXCB3tyTKoecDu7wm4c7mBpsc=",
-        "clickhouse-connect-0.0.15.tar.gz"
-      ],
-      "wheels": {
-        "clickhouse_connect-0.0.15-cp310-cp310-macosx_10_15_x86_64.whl": [
-          "Ewfpl5DLMg6KE+SxRHReLX7xAzbIJlRjDkPnSiFS0pM=",
-          "cp310"
-        ],
-        "clickhouse_connect-0.0.15-cp310-cp310-win_amd64.whl": [
-          "U/7Fci65aSkk3oYh6m/dbLqRWnHdiGnozvReHnTRcUU=",
-          "cp310"
-        ],
-        "clickhouse_connect-0.0.15-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "eU18e0+z7olOdXJSciqb/XpmNdWwIFnIQ8NWU9npbrc=",
-          "cp37"
-        ],
-        "clickhouse_connect-0.0.15-cp37-cp37m-win_amd64.whl": [
-          "v1Qr2GBqox4azn7uujewJiqaWyuwolmTU3uiVJ6PgAs=",
-          "cp37"
-        ],
-        "clickhouse_connect-0.0.15-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "SZjbVW/torOp0Ft7IxoA4ieDbC+DESvwkpCUurlkb7k=",
-          "cp38"
-        ],
-        "clickhouse_connect-0.0.15-cp38-cp38-win_amd64.whl": [
-          "frIOpI3YH74w7zgEbryLtxZvGk4yf5WGgvRkVNd4+Ns=",
-          "cp38"
-        ],
-        "clickhouse_connect-0.0.15-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "+Qn+TdBnGs8msHYJLrPQzJK57w4GYUr3RhX+FY3hNQo=",
-          "cp39"
-        ],
-        "clickhouse_connect-0.0.15-cp39-cp39-win_amd64.whl": [
-          "ZawG4fmvaCq5sSqDIYvhdusfpop6el55T8XKkNnDHUA=",
-          "cp39"
-        ]
-      }
-    },
     "0.1.0": {
       "sdist": [
         "8yYLDjYUAVjiLSXtbHvfjL8WyKtAmEPN9h6Wf54TTwQ=",
@@ -16098,6 +15956,46 @@
         ],
         "clickhouse_connect-0.1.0-cp39-cp39-win_amd64.whl": [
           "73EyzEEmHcKIFJfM3TNcbFUJusyhJwOO/LzZ3leGqwo=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "WSRBni5tM8vvWdQyCjL9/6a8+8qIvFyEtKxeVuQFRlY=",
+        "clickhouse-connect-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "clickhouse_connect-0.1.1-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "vEsjA99Wp7QQomjo1Le+/DnqEotbTpD9C+/CY0ZPZys=",
+          "cp310"
+        ],
+        "clickhouse_connect-0.1.1-cp310-cp310-win_amd64.whl": [
+          "ozapXzsVSyeQ+dig+0zLeHkkPRCN/bIccEbPmI2mhbo=",
+          "cp310"
+        ],
+        "clickhouse_connect-0.1.1-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "1xxyL++rson/G8AOJ8O5EgVrAh7nWNx1sCl/euJSqJQ=",
+          "cp37"
+        ],
+        "clickhouse_connect-0.1.1-cp37-cp37m-win_amd64.whl": [
+          "tbQhF5dLkTcflbK4jkt5A+C8ien2/6s8YWhOC+8mk6U=",
+          "cp37"
+        ],
+        "clickhouse_connect-0.1.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "al2/8vrvkvQBSX6pzT0q9Pr4mCr5vMglJaKkSjaTQWw=",
+          "cp38"
+        ],
+        "clickhouse_connect-0.1.1-cp38-cp38-win_amd64.whl": [
+          "YdYdkOrwaOZJ/O4YwXoHvYtgDBgmcYXMGm0sfklAMiM=",
+          "cp38"
+        ],
+        "clickhouse_connect-0.1.1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "KO9zVBgmqPAb0+99LEMmC+iCK+VMa+QEPnTshQyad78=",
+          "cp39"
+        ],
+        "clickhouse_connect-0.1.1-cp39-cp39-win_amd64.whl": [
+          "kPRg56xWo8Z/H3Otb7F5xwZXUm1HOvTxONtdbz7anB0=",
           "cp39"
         ]
       }
