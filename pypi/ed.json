@@ -17922,9 +17922,17 @@
           "wJD6Kij7IdJouaWjmzBYhxAqyCMoyKZsuyyySw46qQI=",
           "cp310"
         ],
+        "clickhouse_toolset-0.20.dev0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "nIv7YUJIpTgnSJF4tEuddFntfjppv82cCBiN++eswzY=",
+          "cp310"
+        ],
         "clickhouse_toolset-0.20.dev0-cp310-cp310-manylinux2014_x86_64.whl": [
           "e3F2zrR2ZSLvN6sayt576m0JyZLEc02wsKeNx9o4KoY=",
           "cp310"
+        ],
+        "clickhouse_toolset-0.20.dev0-cp311-cp311-macosx_11_0_arm64.whl": [
+          "QkIfMvlYoNMtfrE8WGEF/gmJEWPm6TQFjFHP7vUpsv0=",
+          "cp311"
         ],
         "clickhouse_toolset-0.20.dev0-cp311-cp311-manylinux2014_x86_64.whl": [
           "EakjGc8Pn+W1vh/8OMo7Z11HshcOoba9jV1Cc6A/+JY=",
@@ -17942,12 +17950,20 @@
           "3r9EAfQiZnENuZ3n/78AxdvVavLz9yqlxmdXkdyS6xc=",
           "cp38"
         ],
+        "clickhouse_toolset-0.20.dev0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "+GYRAY/zAJZzfFkY96S3JjTr5uPmiCWjEqz6tKqErQ0=",
+          "cp38"
+        ],
         "clickhouse_toolset-0.20.dev0-cp38-cp38-manylinux2014_x86_64.whl": [
           "sJtSP8Ogth3aUXHOFz01GBvLJbrBlI84iMlrlb9sSoc=",
           "cp38"
         ],
         "clickhouse_toolset-0.20.dev0-cp39-cp39-macosx_10_4_x86_64.whl": [
           "CrFWSg9ZygrR/uHmMiFVeL4pwSI65O3fXjy5A3dE5X0=",
+          "cp39"
+        ],
+        "clickhouse_toolset-0.20.dev0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "TxX354fjBRpEEkyrOUbyq4u1HrRhzVDlBwS5cCMT/Y8=",
           "cp39"
         ],
         "clickhouse_toolset-0.20.dev0-cp39-cp39-manylinux2014_x86_64.whl": [
@@ -25740,6 +25756,18 @@
       "wheels": {
         "copier-6.0.0b0-py3-none-any.whl": [
           "wtUn1ggPtEUs0gw6yuPA2qVbyBp/ZAFQ6FYWWLd9T1M=",
+          "py3"
+        ]
+      }
+    },
+    "6.1.0": {
+      "sdist": [
+        "07OZKFdj6XocPEnLx+DTs86i8FtoD2Uv9Y1ZpbWfOjw=",
+        "copier-6.1.0.tar.gz"
+      ],
+      "wheels": {
+        "copier-6.1.0-py3-none-any.whl": [
+          "+t+gZGishz6fLyVcqQE1K4soryYdV0rxIBmzPLKfNSY=",
           "py3"
         ]
       }
@@ -59375,6 +59403,12 @@
         "3l7lzcCbc8nqVtn4/i5nCQFwEnbkFbGgvF+0E4LAVL8=",
         "influx_si-6.0.tar.gz"
       ]
+    },
+    "6.0.1": {
+      "sdist": [
+        "r8WVMbQEgPwnNgdUSrHhu2faK4cWBzIafQjZE4qPYa8=",
+        "influx_si-6.0.1.tar.gz"
+      ]
     }
   },
   "infrae.paster": {
@@ -65468,6 +65502,18 @@
       "wheels": {
         "lbry_batch_uploader-1.0.3-py3-none-any.whl": [
           "Q2NUquRMYR2XIeKWOlBiIckHdqadZSR6Ho5dEIa4ios=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0": {
+      "sdist": [
+        "ESEGRhzGhLS/i9m/l5UmtNEBJTpmoFHZQvsGwgGSBpU=",
+        "lbry_batch_uploader-1.1.0.tar.gz"
+      ],
+      "wheels": {
+        "lbry_batch_uploader-1.1.0-py3-none-any.whl": [
+          "1eoa+NfOlBmFTeNMYeqZblyspSW5hTR6JFTg0lXR/ig=",
           "py3"
         ]
       }
@@ -129553,6 +129599,18 @@
         "threema.gateway-5.0.0-py36.py37.py38.py39-none-any.whl": [
           "Ycq1YpQp+F9igPylyi74CVTswtfCoE4S46lGzS0LJuQ=",
           "py36.py37.py38.py39"
+        ]
+      }
+    },
+    "6.0.0": {
+      "sdist": [
+        "VJ7ml5hyGnCK6s9vLKELBBTDTKKRoRI3my5KpNEN46o=",
+        "threema.gateway-6.0.0.tar.gz"
+      ],
+      "wheels": {
+        "threema.gateway-6.0.0-py37.py38.py39.py310-none-any.whl": [
+          "0YN/fVU4QyyoSy8W+oRCw9LYYqLRCvtHJkk45XHzXOQ=",
+          "py37.py38.py39.py310"
         ]
       }
     }
