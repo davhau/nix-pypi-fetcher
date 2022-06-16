@@ -11261,6 +11261,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.93": {
+      "sdist": [
+        "YBj1YIOAjnjj1eIzQ5df3b+YIIcAMQMGm+ADbFQqvvw=",
+        "aws_prototyping_sdk.nx_monorepo-0.0.93.tar.gz"
+      ],
+      "wheels": {
+        "aws_prototyping_sdk.nx_monorepo-0.0.93-py3-none-any.whl": [
+          "4QyhEilyHbHWpZsVBbPlsCP2k7taPdU9iYwmwPnRi5I=",
+          "py3"
+        ]
+      }
     }
   },
   "awscdk-aws-codecommit": {
@@ -96705,6 +96717,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "PvtcCj7VLEeEwtrCHSZECQDg5SOYtE8VNk1zv6JPCFM=",
+        "pylimiter-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "pylimiter-0.2.0-py3-none-any.whl": [
+          "d8PVlCqtsEnC5tpQBsknmZ915OLgfuAE1IG6lVtr/3E=",
+          "py3"
+        ]
+      }
     }
   },
   "pymodaq-plugins-amplitude": {
@@ -102640,6 +102664,22 @@
         ]
       }
     },
+    "0.6.6rc107": {
+      "wheels": {
+        "qontract_reconcile-0.6.6rc107-py3-none-any.whl": [
+          "Wu05gM8W3u7uSergo6GM3Pze7SCliKQnnyyg452BN14=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.6rc108": {
+      "wheels": {
+        "qontract_reconcile-0.6.6rc108-py3-none-any.whl": [
+          "1RUpe7gd1wSXEogKUbVyGXmjacWGvY50iLgLGNsxgN4=",
+          "py3"
+        ]
+      }
+    },
     "0.6.6rc11": {
       "wheels": {
         "qontract_reconcile-0.6.6rc11-py3-none-any.whl": [
@@ -104952,6 +104992,18 @@
       "wheels": {
         "rcon-2.2.0-py3-none-any.whl": [
           "WI80mHnlqnn9z5A00X5s5UTCZ8cB70uz3dRUwI2iBO4=",
+          "py3"
+        ]
+      }
+    },
+    "2.2.1": {
+      "sdist": [
+        "xoluLIx9zA9WWazAIHQR5+jt5aY4GjI5SfvRSVhOwBg=",
+        "rcon-2.2.1.tar.gz"
+      ],
+      "wheels": {
+        "rcon-2.2.1-py3-none-any.whl": [
+          "eMj/n6ACXN/nWc11z60e06OHngQDgBQGT8HOtxpg5vY=",
           "py3"
         ]
       }
@@ -128070,6 +128122,58 @@
         ],
         "tf_nightly_cpu-2.10.0.dev20220615-cp39-cp39-win_amd64.whl": [
           "9/lgxT2Sqi9CRVv8QvXZQI2g+Mdfl+2LbiW1lfuNmUs=",
+          "cp39"
+        ]
+      }
+    },
+    "2.10.0.dev20220616": {
+      "wheels": {
+        "tf_nightly_cpu-2.10.0.dev20220616-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "5Z6Cd3yGNe1JHaHhsvsU3w79iI4CGo5xOFzVu4+8W9k=",
+          "cp310"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220616-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "YIz52EuwMnZB/UvhD48eXeiqt1tbatEUa26/5Tvoz78=",
+          "cp310"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220616-cp310-cp310-win_amd64.whl": [
+          "nTOuhB7mzHi5xCLJFdukPq9dOPCKGVnQny/W3tv3/YI=",
+          "cp310"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220616-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "5fjBV6l5P5yGBZlHROPvxh6Q3O2Il1JiL0Ri3IIgQyU=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220616-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SB9RBYOXoF2jXtQFWMQt512RbVSdal/XxTy9+iaH0Do=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220616-cp37-cp37m-win_amd64.whl": [
+          "4iXGDo6iE9vZa8zaU1BtVj41SbbHYPF3Rrx8ABipkRI=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220616-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "1iG+esVWaxUagfbgr6yNPUetP2x+N4RqPImzVnY3ugw=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220616-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Qc3Qj0x9yP6icU4zP+O+ynYsu9Ylve4BFUtd+SDf5wk=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220616-cp38-cp38-win_amd64.whl": [
+          "+2syPME6TLnEQ5ESMKUGdYx7RkruaD8bMNOvbaRs9C0=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220616-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "fAli7cgO9i7OJxeTpEGlM5GWDundQ+94NLT6VgiHT88=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220616-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tkSLbQ2sAIK8cGBIfV9I0L/aX6SEnVnP/zWFSQB8Ias=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220616-cp39-cp39-win_amd64.whl": [
+          "d3nqCv954YRJTaGYZnpP/Zgn+1zvsA7J40ZsnKWd/8I=",
           "cp39"
         ]
       }
