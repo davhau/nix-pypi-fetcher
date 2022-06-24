@@ -10795,6 +10795,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.1": {
+      "sdist": [
+        "6EsV/AVjMVswQwZspU9k7521b7sXCQihgsyEcqs893A=",
+        "axisregistry-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "axisregistry-0.3.1-py3-none-any.whl": [
+          "WdKWyUX7VzD9AKFbD2uLuzXXarxJzuCVzNy8pyDWlJ8=",
+          "py3"
+        ]
+      }
     }
   },
   "azure-cli-cognitiveservices": {
@@ -34694,6 +34706,12 @@
       "sdist": [
         "LCnvqgbYQf5XutU8ao/J/Z8GWcBL15zeLHdMAgMon+s=",
         "dmstockapi-1.1.5.tar.gz"
+      ]
+    },
+    "1.1.6": {
+      "sdist": [
+        "PKZgYOZcECm61Htndp/S4oOJ7vUB3TRnVh8e3X+5flk=",
+        "dmstockapi-1.1.6.tar.gz"
       ]
     }
   },
@@ -63952,17 +63970,11 @@
     }
   },
   "lmlib": {
-    "0.0.1": {
+    "2.0.0rc0": {
       "sdist": [
-        "r0ulg0vg0pbsKNS5MFknVyRUo8PNzv+Yh3g+n7/6eD4=",
-        "lmLib-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "lmLib-0.0.1-py3-none-any.whl": [
-          "hvcabkEKnZXSVLs9MsV/5nLLa0AhL11rJeKR0AGIErg=",
-          "py3"
-        ]
-      }
+        "O+sk0xv/eMy80XMcBIh/J4+AoPaCwCbrnDO6OFC4HEA=",
+        "lmlib-2.0.0rc0.tar.gz"
+      ]
     }
   },
   "lmproof": {
@@ -94906,6 +94918,30 @@
         ]
       }
     },
+    "0.22.25.0": {
+      "sdist": [
+        "0kqoD3y1IOMiHjzzDNLn9/wme/kHVfFfeAyzRpZgSGU=",
+        "pybrary-0.22.25.0.tar.gz"
+      ],
+      "wheels": {
+        "pybrary-0.22.25.0-py3-none-any.whl": [
+          "FHn2RKL7PgqpGzdxE1NGpV2d2h9FHRx3nL1wJe7Kagw=",
+          "py3"
+        ]
+      }
+    },
+    "0.22.25.1": {
+      "sdist": [
+        "WBvpwg2BdXnR/+mIrDIhi4UdH85QmFGA+9OLwuLIcz0=",
+        "pybrary-0.22.25.1.tar.gz"
+      ],
+      "wheels": {
+        "pybrary-0.22.25.1-py3-none-any.whl": [
+          "SqsuL+qtGbyXwhJ4D7pybyCLHJgtxg52sdaA/z3SY8E=",
+          "py3"
+        ]
+      }
+    },
     "0.22.7.0": {
       "sdist": [
         "vT+CEWOFM16J9UKxb9wdpmSSeMmKvZKju8w3YVbzKUI=",
@@ -100739,6 +100775,12 @@
         "rbU7BeLn/aA8GRQ2/zXQvDMbhkPISgLOQkjH+u1yCpI=",
         "pythonagent-0.0.6.tar.gz"
       ]
+    },
+    "0.0.7": {
+      "sdist": [
+        "fP9dEJQ1UrjQ7qY6qv6sFei2lA87POSnrREWZmHaoJI=",
+        "pythonagent-0.0.7.tar.gz"
+      ]
     }
   },
   "pythonic-cv": {
@@ -102184,31 +102226,27 @@
     }
   },
   "quarkstudio": {
-    "6.0.5": {
-      "wheels": {
-        "quarkstudio-6.0.5-cp310-cp310-manylinux1_x86_64.whl": [
-          "mpK9YBYHN1nYVC3uhZNQ9KSymr1zpN6rH7o0Ll2foUU=",
-          "cp310"
-        ],
-        "quarkstudio-6.0.5-cp310-cp310-win_amd64.whl": [
-          "X1L5xSR3T48LuLsg0vsg7Hs1ItioSS78yMxZ8m8bkoY=",
-          "cp310"
-        ],
-        "quarkstudio-6.0.5-cp39-cp39-manylinux1_x86_64.whl": [
-          "Fd/uEm7WqYn4YLQ3bvzSt6K8JcwzMwIKXeR8/fl4GjE=",
-          "cp39"
-        ],
-        "quarkstudio-6.0.5-cp39-cp39-win_amd64.whl": [
-          "qRk82utGBi9TRefS5SelObTebECQIWyL82UXblVm7oU=",
-          "cp39"
-        ]
-      }
-    },
     "6.0.6": {
       "wheels": {
+        "quarkstudio-6.0.6-cp310-cp310-macosx_10_9_universal2.whl": [
+          "/pbPk0zSdgMPDTiOhoHnzmZQ2c6d6w+Y6GSA1uXAWaE=",
+          "cp310"
+        ],
+        "quarkstudio-6.0.6-cp310-cp310-manylinux1_x86_64.whl": [
+          "/N0I2km7f7AuPZY7yJtZTVP8mDLbTlIq/ycldusG9mA=",
+          "cp310"
+        ],
         "quarkstudio-6.0.6-cp310-cp310-win_amd64.whl": [
           "1s2REqCHDXJ8IrvnE9hD9gbDjJRaMD6z3msp/D7h3mY=",
           "cp310"
+        ],
+        "quarkstudio-6.0.6-cp39-cp39-macosx_10_9_universal2.whl": [
+          "xI925gJbSyi7hQtXpmmlmrbQadtJC+QMwD1i/f2GHg0=",
+          "cp39"
+        ],
+        "quarkstudio-6.0.6-cp39-cp39-manylinux1_x86_64.whl": [
+          "fWh3RKAi/5Kkr8d9aLtTuuX6G9v0265NPDiodlV7TVw=",
+          "cp39"
         ],
         "quarkstudio-6.0.6-cp39-cp39-win_amd64.whl": [
           "9Ovty0mUzbNbshzT+UmG4Luz5bgU7h7R5HFYgB6UbHU=",
@@ -105230,6 +105268,18 @@
       "wheels": {
         "resotoworker-2.3.1-py3-none-any.whl": [
           "9NZZdMH4I9A61EhtY6DdZkqhlF30++o1ZJbQDla/ouo=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.2": {
+      "sdist": [
+        "Wb1T1vlj8e5Otrm4boP24HBfdZOGIipTH1+3VH5krWs=",
+        "resotoworker-2.3.2.tar.gz"
+      ],
+      "wheels": {
+        "resotoworker-2.3.2-py3-none-any.whl": [
+          "dPwgS7CosCw0GUn0SR0n/ElNGrvO8gWISHTVOMTr4NI=",
           "py3"
         ]
       }
@@ -125710,6 +125760,12 @@
       "sdist": [
         "OZkbQCbt8AVLHncvoFoCYfqmAvMtPv6SbVzFHAXfY6A=",
         "withings-sync-3.3.1.tar.gz"
+      ]
+    },
+    "3.4.0": {
+      "sdist": [
+        "v0wX+F/PeVFFjWsJJD8p7UadRUfTTvVxEFKd99do/0A=",
+        "withings-sync-3.4.0.tar.gz"
       ]
     }
   },
