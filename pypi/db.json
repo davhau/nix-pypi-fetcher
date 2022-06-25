@@ -17626,6 +17626,18 @@
         ]
       }
     },
+    "0.1.37": {
+      "sdist": [
+        "PMnlh8PzSKH3gN9R6gNUOmUiwqLsRNDidRWJQbpyhqE=",
+        "cdktf-cdktf-provider-spotinst-0.1.37.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdktf_provider_spotinst-0.1.37-py3-none-any.whl": [
+          "LpqyME96VGJMnfvqszSvya5PXoapUlcAXR9L9nxp3KU=",
+          "py3"
+        ]
+      }
+    },
     "0.1.4": {
       "sdist": [
         "RGZsgqziDHKgbwZ75srEDvJlv+Tb3VAOdsJcjx725II=",
@@ -26584,6 +26596,18 @@
       "wheels": {
         "dbt_redshift-1.1.0rc1-py3-none-any.whl": [
           "oPKP0+SGRIDC9s1lHzjwFULerc3AKRHHzJfcd9otb8k=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.0b1": {
+      "sdist": [
+        "VSJuzatDyNrMCjEKjyqHibKaBpmz2DhCgrJ/bCf4b1g=",
+        "dbt-redshift-1.2.0b1.tar.gz"
+      ],
+      "wheels": {
+        "dbt_redshift-1.2.0b1-py3-none-any.whl": [
+          "NXkaXtZEf3QwFVHaRvBp16lhg1kU6UEVsq3hX3UYBP8=",
           "py3"
         ]
       }
@@ -60953,6 +60977,20 @@
       ]
     }
   },
+  "maco": {
+    "1.0.0": {
+      "sdist": [
+        "dHXnaT3RFMsIfEciJMCe7KVhtc4ec/LFeEZVBELJ9Fo=",
+        "maco-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "maco-1.0.0-py3-none-any.whl": [
+          "VlMixvAuy1kDN3uZQ5isyWvY7CQ3+0pmy+AmbrvEljg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "maetl-report": {
     "0.1": {
       "sdist": [
@@ -74240,6 +74278,54 @@
         ],
         "NEURON_nightly-9.0.dev0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "S/kpGkrma0Mg1kZ3e+d5BrpyvNE/Q7PwUCEuFuwha6g=",
+          "cp39"
+        ]
+      }
+    },
+    "9.0.dev10": {
+      "wheels": {
+        "NEURON_nightly-9.0.dev10-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "LoZ9VM050Yq9DsSO8X1uXaP8jJnZ1FvPkBdhMJSISnE=",
+          "cp310"
+        ],
+        "NEURON_nightly-9.0.dev10-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "aSnshPWaW0oCr5na9GVtfXNfkEt70Iiy0IUMV43u8fI=",
+          "cp310"
+        ],
+        "NEURON_nightly-9.0.dev10-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2V/qNwuetlTxDbmLg7GBGOoLTOE6tfv9/8Y/VsT1gOc=",
+          "cp310"
+        ],
+        "NEURON_nightly-9.0.dev10-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "apen6Iv4znjMDMeghyTopDPYRSZQvAF5QUgYESvXqYo=",
+          "cp37"
+        ],
+        "NEURON_nightly-9.0.dev10-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VQBZJCdrqGe5vO0t2jiAd1OAZqbMFqLyUi+cRtg0T5k=",
+          "cp37"
+        ],
+        "NEURON_nightly-9.0.dev10-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "UQ+UoKTBKUtBNFZ11bsyXwnY1WtI1NHWhdJvTtNLtoM=",
+          "cp38"
+        ],
+        "NEURON_nightly-9.0.dev10-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "yzPqOXACnQl4ZIaY8eybDqebva78XBJeklTakjnmSrc=",
+          "cp38"
+        ],
+        "NEURON_nightly-9.0.dev10-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "qMhfb27KRuhG/OCxoiZPxBn419KYtMDl3iU0udiOxRE=",
+          "cp38"
+        ],
+        "NEURON_nightly-9.0.dev10-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "9QyRvfYpqxMkTOavydzkODYcacM2zMBdNOGPgEsNu6U=",
+          "cp39"
+        ],
+        "NEURON_nightly-9.0.dev10-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "gakl8PS0gvOaq3nEEqTGnFToY5yNurUsKsg5FkzT5SI=",
+          "cp39"
+        ],
+        "NEURON_nightly-9.0.dev10-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "dzcQpYZIrWcAqqUxO/bbTznel/VA+iqhupvE86tITT8=",
           "cp39"
         ]
       }
@@ -124833,6 +124919,18 @@
           "py3"
         ]
       }
+    },
+    "1656117502": {
+      "sdist": [
+        "bcXcjIryBPzDxB3etrssh4WkOqFNQVjI4VwfZcp6j4o=",
+        "torchdatasets-nightly-1656117502.tar.gz"
+      ],
+      "wheels": {
+        "torchdatasets_nightly-1656117502-py3-none-any.whl": [
+          "Eka1aFh9V8WRbaThB2EP8U6nzGuQRRZ7QHUoRBZYrcg=",
+          "py3"
+        ]
+      }
     }
   },
   "torchfused": {
@@ -128402,6 +128500,18 @@
       "sdist": [
         "avW3o8vvObHkFOFeUJmKKvLPgD9Z/Jw12uDtLaICbG4=",
         "v3wrapper-0.0.15.tar.gz"
+      ]
+    },
+    "0.0.16": {
+      "sdist": [
+        "oqZiNji8x4HinNquSlBCqKZI0EG2MfApCMQg0w8p75A=",
+        "v3wrapper-0.0.16.tar.gz"
+      ]
+    },
+    "0.0.17": {
+      "sdist": [
+        "Qzqcy1zbPBjjkiONS1J9TsoBA6BVh4o5F/cqcGt5tz0=",
+        "v3wrapper-0.0.17.tar.gz"
       ]
     },
     "0.0.4": {
