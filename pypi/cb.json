@@ -12592,6 +12592,18 @@
         ]
       }
     },
+    "22.3.8": {
+      "sdist": [
+        "8v3IubR1GUAQQLTh3ybkWtriSBcxI16+j1T8ofz59II=",
+        "backend.ai-cli-22.3.8.tar.gz"
+      ],
+      "wheels": {
+        "backend.ai_cli-22.3.8-py3-none-any.whl": [
+          "3kKTnylJCoZIrRrb7Fj2NTEnOsfGFNBfyFPAfho0HLU=",
+          "py3"
+        ]
+      }
+    },
     "22.6.0.dev0": {
       "wheels": {
         "backend.ai_cli-22.6.0.dev0-py3-none-any.whl": [
@@ -12636,6 +12648,18 @@
       "wheels": {
         "backend.ai_cli-22.6.0.dev4-py3-none-any.whl": [
           "hKyZLgQCwwKEjna2QnDS1B55MOJH8nlHEKP06wiH9+o=",
+          "py3"
+        ]
+      }
+    },
+    "22.6.0b1": {
+      "sdist": [
+        "OlQTrsQD/1PkZZHqeOMnkxa9KUc1KtvNxH7mWdD7fOU=",
+        "backend.ai-cli-22.6.0b1.tar.gz"
+      ],
+      "wheels": {
+        "backend.ai_cli-22.6.0b1-py3-none-any.whl": [
+          "3VWBLqWL3ke/2iSBH+CGha9r2sXz2nYQcIJVOL09Nfk=",
           "py3"
         ]
       }
@@ -103556,6 +103580,14 @@
         ]
       }
     },
+    "0.6.6rc133": {
+      "wheels": {
+        "qontract_reconcile-0.6.6rc133-py3-none-any.whl": [
+          "cYgM0EURW2K8oDO2EuOoAQMP/kYMzOC2EzugMLEMiFU=",
+          "py3"
+        ]
+      }
+    },
     "0.6.6rc14": {
       "wheels": {
         "qontract_reconcile-0.6.6rc14-py3-none-any.whl": [
@@ -123515,6 +123547,20 @@
       }
     }
   },
+  "study-cli": {
+    "0.0.1": {
+      "sdist": [
+        "mx6qfhl3cFuadzW4beUskVIs5GHJRWZTUHCT9YDHm1Y=",
+        "study-cli-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "study_cli-0.0.1-py3-none-any.whl": [
+          "v6eaAjABtyg5m2QVP13IA/FlReaIxIJv9O4+73ZIsgE=",
+          "py3"
+        ]
+      }
+    }
+  },
   "style": {
     "1.0.3": {
       "sdist": [
@@ -129610,6 +129656,58 @@
         ],
         "tf_nightly_cpu-2.10.0.dev20220625-cp39-cp39-win_amd64.whl": [
           "sSaIqOhDSJQjpoN3S6qIgTpv4VtRrWL1++6e0Sd8Ffo=",
+          "cp39"
+        ]
+      }
+    },
+    "2.10.0.dev20220626": {
+      "wheels": {
+        "tf_nightly_cpu-2.10.0.dev20220626-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "zjKtsdAaqglWMvt4JrdfpQlYLijMR5Jj00mMhxwLpQY=",
+          "cp310"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220626-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8542xq9tKEdJTN1tYC2QLNam78nCdFrQ3N6d1KQlcEE=",
+          "cp310"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220626-cp310-cp310-win_amd64.whl": [
+          "UMWvP1QA71BNQYvlGMaw5sRx4YvEZj96ZCps4D+xa6U=",
+          "cp310"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220626-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "JFRDp7qV+banvGNy/D15YLsoVPgA+4B+KigizXqdiQ0=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220626-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "nPviP3B1/j3aNgteiKOOZxcV4KEP9EgbyEBwux2+YQY=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220626-cp37-cp37m-win_amd64.whl": [
+          "jrYNZ6J0Xrcwp6G6qqavrv1p1hMBSLVNzV3bvxuZKf0=",
+          "cp37"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220626-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "/lqF4ECRDG7Q1oZZKq4wVsPCGRai7h0sWUT61KlhuvA=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220626-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XqFiMWNZ9+P1aXOlTOY/eLbsc3/2gVekzWEFykbOI+w=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220626-cp38-cp38-win_amd64.whl": [
+          "oCZ33CMxFE8x2CIZ4n/ssWxnegRb6iJUAqSfqZkI0bU=",
+          "cp38"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220626-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "MkQENzZ8dDO40zZZ55xu+zhjkmhCBPxppqm/Wonqo7g=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220626-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9vRVVf+x13zU1WSosDuX4YN9qgmNI+fXn5gszU2TyBo=",
+          "cp39"
+        ],
+        "tf_nightly_cpu-2.10.0.dev20220626-cp39-cp39-win_amd64.whl": [
+          "Z3Fp2aBC30abtfetQZaNQMkjyTSzNV+AWX4fZXkAQFo=",
           "cp39"
         ]
       }
@@ -137432,6 +137530,18 @@
       "wheels": {
         "types_JACK_Client-0.5.1-py3-none-any.whl": [
           "mtBFIwsxPxh1JTg4xcQBYTFvZcGFQuQ40hUi7bSYA8o=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.10": {
+      "sdist": [
+        "9BQmGvNUPQDvU50Rx9ad+2F2LfIsg1sQpK9oDO9t2hA=",
+        "types-JACK-Client-0.5.10.tar.gz"
+      ],
+      "wheels": {
+        "types_JACK_Client-0.5.10-py3-none-any.whl": [
+          "tWCt3TBIg1a0TAYHu/r6LvPXG+etiDZyANFfr1Rerec=",
           "py3"
         ]
       }
