@@ -31026,6 +31026,10 @@
         "deltachat-1.87.0.tar.gz"
       ],
       "wheels": {
+        "deltachat-1.87.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "9rWySCQthbiyNehcLOgm/oBE0GbBP/mDlbg/gSQUJLg=",
+          "3.1.0"
+        ],
         "deltachat-1.87.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "sVSVlewBXvAaxvZFuhqXFL4fWBbeQUisZu4gzP1eWJY=",
           "3.1.0"
@@ -31033,6 +31037,10 @@
         "deltachat-1.87.0-cp310-cp310-musllinux_1_1_x86_64.whl": [
           "PN7etYelpjSuo6WsjDlVeQ1rm8IRsNZx9tLzdE1Z4bk=",
           "3.1.0"
+        ],
+        "deltachat-1.87.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "Oc0BXQVcxmea2M1Y5tm1og7bmtkJx40hh4a1mIGVtro=",
+          "3.7"
         ],
         "deltachat-1.87.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "EV8TMKKm1dz9tV6Cxaa3tpXPQmro/HE4yniPDcBrb1Y=",
@@ -31042,6 +31050,10 @@
           "EoULBRQH8SvFmd1F0rdvo8RNA9mcfWQ68EqaaGYgoA0=",
           "3.7"
         ],
+        "deltachat-1.87.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "FN9Dm8YcADDpQO6Ra9Olh5zrjAQakbP5jJmP5vam8JE=",
+          "3.8"
+        ],
         "deltachat-1.87.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "FLZ4oe1MchACvaqa43LfWhNBKopQYdCK4EMPHsvyjo4=",
           "3.8"
@@ -31049,6 +31061,10 @@
         "deltachat-1.87.0-cp38-cp38-musllinux_1_1_x86_64.whl": [
           "iey7tElD8fx5Oecel5SuSUT7WoZ2bJO1+XhJ9ZhV5hY=",
           "3.8"
+        ],
+        "deltachat-1.87.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xjRFv0tuGcgn2PnA/sByORMhsgGSxGztJv5PH2CnB3s=",
+          "3.9"
         ],
         "deltachat-1.87.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "XmOfG38ywORsGA9DOzdmQjUmzcg6C0hfcuPcI/FAmWo=",
@@ -56014,6 +56030,18 @@
       "wheels": {
         "geospatial-0.6.0-py2.py3-none-any.whl": [
           "hIf7GemS5Yn5vn7Ri70XNDPtqAENL6fMgaLgZ/P6F3I=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.6.1": {
+      "sdist": [
+        "n7L+3ymlQhapVPdybPb/RbP66RtXgVkMTzrPqNI/UCM=",
+        "geospatial-0.6.1.tar.gz"
+      ],
+      "wheels": {
+        "geospatial-0.6.1-py2.py3-none-any.whl": [
+          "+9vu/az4d3E7eTepdnffWjHI4774gRVrKl2sTu38GPo=",
           "py2.py3"
         ]
       }
@@ -89305,6 +89333,16 @@
       }
     }
   },
+  "odoo14-addon-repair-discount": {
+    "14.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo14_addon_repair_discount-14.0.1.0.1.dev3-py3-none-any.whl": [
+          "ApgyFtjz/KKrJNua81sR2Adx67O/hZ7FL0D89wz6Z3g=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo14-addon-sale-order-lot-generator": {
     "14.0.1.0.1": {
       "wheels": {
@@ -109172,6 +109210,12 @@
       "sdist": [
         "t5u7lCEncRk5IuzD1yFVrpoqQ0nf2l5MySy6KntD2Vo=",
         "pyobs-fli-0.18.2.tar.gz"
+      ]
+    },
+    "0.20.0": {
+      "sdist": [
+        "qZRUWj8xBynno6IRRRl5yvrOXx4tLsIrMP3IyYetypg=",
+        "pyobs-fli-0.20.0.tar.gz"
       ]
     },
     "0.8": {
@@ -143742,6 +143786,42 @@
       "wheels": {
         "the_spymaster_solvers_client-0.4.0-py3-none-any.whl": [
           "0URFSXx3Hm3jK+NuMldMEN/IXqAVvVi8rzqrOzRtDgk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "Kot5W9WQgZYS7YbteFWw6hHxTs+Hx4xdEZMMdBVeLZI=",
+        "the-spymaster-solvers-client-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "the_spymaster_solvers_client-1.0.0-py3-none-any.whl": [
+          "0CQFV8uFnUmW4uIuTlqxx3Dw2OQTKoCDynNioTqNCvk=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "aATO6+9LgOm/wxsiFdBx/AOREvdB6s1Ma+W1OTaLDDM=",
+        "the-spymaster-solvers-client-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "the_spymaster_solvers_client-1.0.1-py3-none-any.whl": [
+          "l+YJ+esDJIn4RYlGEq8gwyz+fmvZXWfDkIpHLb73NkU=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "96XNJsjGray2dacR9hfgvcXakZukDqK/kX62fLFyUig=",
+        "the-spymaster-solvers-client-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "the_spymaster_solvers_client-1.0.2-py3-none-any.whl": [
+          "bXHttRnQ5RdNfnNUQ7P8spqMd7m8bjLvvcKEV2mliQg=",
           "py3"
         ]
       }
