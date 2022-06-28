@@ -13666,6 +13666,18 @@
         ]
       }
     },
+    "2.0.65": {
+      "sdist": [
+        "RrQEDK2sTO8DHJRgsBvXjdGw0pabUS6ZBDlWz9cunxQ=",
+        "cdk-fargate-run-task-2.0.65.tar.gz"
+      ],
+      "wheels": {
+        "cdk_fargate_run_task-2.0.65-py3-none-any.whl": [
+          "S+RgseXL+0hN7r4Af+V6R7sl7sJg3W3TbIVwjCWurqw=",
+          "py3"
+        ]
+      }
+    },
     "2.0.7": {
       "sdist": [
         "yZa/VlAAWA+7CJKzkVv9ERp3CjQivKOCgLpxVJDPjsI=",
@@ -34188,8 +34200,16 @@
         "duckdb-0.4.1.dev112.tar.gz"
       ],
       "wheels": {
+        "duckdb-0.4.1.dev112-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "bfMWonXXT4hSLtHaOWnYO88nVSHqquSbD/k612j8/88=",
+          "cp310"
+        ],
         "duckdb-0.4.1.dev112-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "JNPs9twRGDJKpVutMEPqCFZLYTbizU+n9G8R59c859M=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev112-cp310-cp310-musllinux_1_1_i686.whl": [
+          "2o/o2IcWJJq1L+C4KioKEFLVVAqWCHQPslhyRwl+43w=",
           "cp310"
         ],
         "duckdb-0.4.1.dev112-cp310-cp310-musllinux_1_1_x86_64.whl": [
@@ -34247,7 +34267,39 @@
       }
     },
     "0.4.1.dev129": {
+      "sdist": [
+        "U91nZ27QbkkKA+o9riFUksPBPYwsA4+K6ttIHk5cCmU=",
+        "duckdb-0.4.1.dev129.tar.gz"
+      ],
       "wheels": {
+        "duckdb-0.4.1.dev129-cp310-cp310-macosx_10_9_universal2.whl": [
+          "cYzRXVh+xjuYyOoWCYCd2az0QJexwu4dnAIjTjPJCug=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev129-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "2iycluyauocBYk8fjpJXt7art7d57SLTmddB+PDUq9Y=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev129-cp310-cp310-macosx_11_0_arm64.whl": [
+          "VxI8nHbl6Ox+xmCAN+/MUi3ZYrCGURDwkVj2GAxU6N4=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev129-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "zfaVE7oXGwE5w9Jk1HBiLNek6ngf8kVR6lS053UxYlk=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev129-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Uk4pFwVy0N/ihz/jACTekUi4QXKwSHsIhBlNv51rNCQ=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev129-cp310-cp310-musllinux_1_1_i686.whl": [
+          "PGkubZdLqnmPBFlrRz6SSRU0FDQhCyQNGbFdXted8Fk=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev129-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "UJ+wlqnsF9tiROsIs9RsODh7+J224yO9/uYSuseFS1o=",
+          "cp310"
+        ],
         "duckdb-0.4.1.dev129-cp310-cp310-win32.whl": [
           "zvygiefeV0rHCZ8Hip+tzVVBR3bsLGCuMUePqtSaWIk=",
           "cp310"
@@ -34268,6 +34320,26 @@
           "inHK746UHvXJ0P42NqLpMgiV3OvBUYMPJFqAuzFgPcQ=",
           "cp36"
         ],
+        "duckdb-0.4.1.dev129-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "mV8ua2TRp250V/ETJ4GU53ySDV0ljsYr2ZQgLLy1iNk=",
+          "cp37"
+        ],
+        "duckdb-0.4.1.dev129-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "ZSKdJmhAReQ1e8kH22rV5I6UD4IPhnvbICLATlV7AG8=",
+          "cp37"
+        ],
+        "duckdb-0.4.1.dev129-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HJnPJNQ74PFK+B1bPUI9sZ636UVr1WFWdn5mhviSniQ=",
+          "cp37"
+        ],
+        "duckdb-0.4.1.dev129-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "H8tn4Mf9+Bzb0C8vwQGoOOnx2chB0pa+c0h6NGSoh/w=",
+          "cp37"
+        ],
+        "duckdb-0.4.1.dev129-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "HFVyxaozgg4QAkImLywoPXBMuTT2pfJqo0UUPmYRF1M=",
+          "cp37"
+        ],
         "duckdb-0.4.1.dev129-cp37-cp37m-win32.whl": [
           "LFnOZf2K8/JxWVPEc/P3qJK9eGteX4v52cAlBrINARM=",
           "cp37"
@@ -34276,6 +34348,34 @@
           "KDlEPaTh/d0OkjhN148Va7iXH5/PunFXQttDJ8rB228=",
           "cp37"
         ],
+        "duckdb-0.4.1.dev129-cp38-cp38-macosx_10_9_universal2.whl": [
+          "/qL6pt957RDUjfh0wLfY0TL/pifNBz2JwjHI21Hn8jM=",
+          "cp38"
+        ],
+        "duckdb-0.4.1.dev129-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "9PT8BiOOmwJO0VzRxtv9FjUOTSPFgS6D6xj14VaqY/M=",
+          "cp38"
+        ],
+        "duckdb-0.4.1.dev129-cp38-cp38-macosx_11_0_arm64.whl": [
+          "F4jpj9Q4R4ZjTDooLK+eBDar6RABhWjEy0gBSXYdB64=",
+          "cp38"
+        ],
+        "duckdb-0.4.1.dev129-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "1fG2rDPvtTnJpFdT80bLLyAVQz4XCCRm9XVKIC/rIKg=",
+          "cp38"
+        ],
+        "duckdb-0.4.1.dev129-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "eWIDxFhE7OXszF2Imkw+SjgBBLWs5fg/DPzTnnDF1rs=",
+          "cp38"
+        ],
+        "duckdb-0.4.1.dev129-cp38-cp38-musllinux_1_1_i686.whl": [
+          "6kPQh9ZzPqC0/yy7zO2d4S0XMP+Nll91mkPf/LSR0sY=",
+          "cp38"
+        ],
+        "duckdb-0.4.1.dev129-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "wcDQ/ezCUbSH6jD5w2XKpLeYi9vVPY/WHeuqsscVDT8=",
+          "cp38"
+        ],
         "duckdb-0.4.1.dev129-cp38-cp38-win32.whl": [
           "y+3MVUu32vr1jNzlikrRyMWeeB+K7hLTPZO0OD5cGOQ=",
           "cp38"
@@ -34283,6 +34383,34 @@
         "duckdb-0.4.1.dev129-cp38-cp38-win_amd64.whl": [
           "pFGl4zEFlrVbGV2ohAln7k88Nre4cL3/tw8rylurQGo=",
           "cp38"
+        ],
+        "duckdb-0.4.1.dev129-cp39-cp39-macosx_10_9_universal2.whl": [
+          "OyfS1WVTMoz1r1pbwA5FgZVd50lcXdqC41w/d1CVDFs=",
+          "cp39"
+        ],
+        "duckdb-0.4.1.dev129-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "xXKRzA1OtPWoVTOQcPOBsB9D9c8DWHQomzWUzv/EOL4=",
+          "cp39"
+        ],
+        "duckdb-0.4.1.dev129-cp39-cp39-macosx_11_0_arm64.whl": [
+          "RcLa2pwQgoEwrSJ8GeFNjTAqHd9yGOpGA8V2iqCTU14=",
+          "cp39"
+        ],
+        "duckdb-0.4.1.dev129-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "SIsBfK1R7gGLT4h0MAOTAGO62i7mPy8dJ0v0ZjfPt/U=",
+          "cp39"
+        ],
+        "duckdb-0.4.1.dev129-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "07zq3Pk4SHvwtzqkTpwDdm2GGNzuwUUpCZsmJ+0Z7sY=",
+          "cp39"
+        ],
+        "duckdb-0.4.1.dev129-cp39-cp39-musllinux_1_1_i686.whl": [
+          "Oq5aenlq5tFelDm13VWZpbU09bBTAwHOLmrZBYXP0I0=",
+          "cp39"
+        ],
+        "duckdb-0.4.1.dev129-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "1DoVVDr455sPp3U5Z8pFnC7bQO4F68oqNNVDX66a7CE=",
+          "cp39"
         ],
         "duckdb-0.4.1.dev129-cp39-cp39-win32.whl": [
           "bcui6fF8AlYGSr2TPOy9oEDFgw9pj+8nJrKopbS3Seo=",
@@ -66473,6 +66601,296 @@
       }
     }
   },
+  "metapensiero-sqlalchemy-proxy": {
+    "1.9.5": {
+      "sdist": [
+        "sU3300z+q/Bz1gkUL1V4rifOk6OcoWziC2qqjhDdImI=",
+        "metapensiero.sqlalchemy.proxy-1.9.5.tar.gz"
+      ]
+    },
+    "1.9.6": {
+      "sdist": [
+        "M4JxwOjeRqkoRL79GTXBNcfVQV9s8pLHmFRjtilNZo4=",
+        "metapensiero.sqlalchemy.proxy-1.9.6.tar.gz"
+      ]
+    },
+    "2.0": {
+      "sdist": [
+        "RUzV17TcusMR8EqM1xJlyAcyrNPZgtSyt3nFyi31deE=",
+        "metapensiero.sqlalchemy.proxy-2.0.tar.gz"
+      ]
+    },
+    "2.1": {
+      "sdist": [
+        "Xe6AqE4/E1laZy3a2U0NEqY3La946/3io80AxSxSQkY=",
+        "metapensiero.sqlalchemy.proxy-2.1.tar.gz"
+      ]
+    },
+    "2.2": {
+      "sdist": [
+        "N9UgM+kShzSt8sXq2hTVe+bdV4joJu8yDNSCm+10r3o=",
+        "metapensiero.sqlalchemy.proxy-2.2.tar.gz"
+      ]
+    },
+    "2.3": {
+      "sdist": [
+        "nxVncLCAWuvZR7yBBa1RjmkLT8YZ3lMLWq783/LHlBk=",
+        "metapensiero.sqlalchemy.proxy-2.3.tar.gz"
+      ]
+    },
+    "2.4": {
+      "sdist": [
+        "LCGsTDGxsukVIpi1koRZUSKhr/3dy93eId73WOxJ2mE=",
+        "metapensiero.sqlalchemy.proxy-2.4.tar.gz"
+      ]
+    },
+    "2.5": {
+      "sdist": [
+        "fDWblHQ/YhjCg9ynDUVjRWAq5iqaXOBmzFBB04D0z2o=",
+        "metapensiero.sqlalchemy.proxy-2.5.tar.gz"
+      ]
+    },
+    "2.6": {
+      "sdist": [
+        "KYazWMV67vmq3NAoHc+fRP2/8xdNJ6/Qc3LO7hpCrcI=",
+        "metapensiero.sqlalchemy.proxy-2.6.tar.gz"
+      ]
+    },
+    "2.7": {
+      "sdist": [
+        "2h6s5NoKfTXXLfv0wplH2PgCeaSllUWZ1UIjDWcTTT4=",
+        "metapensiero.sqlalchemy.proxy-2.7.tar.gz"
+      ]
+    },
+    "2.8": {
+      "sdist": [
+        "/Iw+usxj+EK/wvIwVj46aPrUIhy+SRZyfsUN8ZMBWDE=",
+        "metapensiero.sqlalchemy.proxy-2.8.tar.gz"
+      ]
+    },
+    "3.0": {
+      "sdist": [
+        "s8PtEfaqHwXTHeqDIhzU55I5D+nxYvoEpEEXpiGOdvU=",
+        "metapensiero.sqlalchemy.proxy-3.0.tar.gz"
+      ]
+    },
+    "3.1": {
+      "sdist": [
+        "bvJfnv8GR/Rm/iOxHVoI6kmsu96wsUHAj4a9ImkCKVg=",
+        "metapensiero.sqlalchemy.proxy-3.1.tar.gz"
+      ]
+    },
+    "3.2": {
+      "sdist": [
+        "mRP0MI9itDoiw6XSUrpwGEd7PqdvxEo2hphObj+Zq2A=",
+        "metapensiero.sqlalchemy.proxy-3.2.tar.gz"
+      ]
+    },
+    "3.3": {
+      "sdist": [
+        "/gBDR8T+yCUOf+Ti3aQx+0s1CzRkw8q9QAlSdh+RE+Q=",
+        "metapensiero.sqlalchemy.proxy-3.3.tar.gz"
+      ]
+    },
+    "3.4": {
+      "sdist": [
+        "/0wZKeEqOiKwlDWRClOl7MYcJvt7u5YJiaYrdyp/3Dg=",
+        "metapensiero.sqlalchemy.proxy-3.4.tar.gz"
+      ]
+    },
+    "3.5": {
+      "sdist": [
+        "TE/6wXwY9T21HEvo04iix8POrqo6+NVmC3EOu0U9QMI=",
+        "metapensiero.sqlalchemy.proxy-3.5.tar.gz"
+      ]
+    },
+    "3.6": {
+      "sdist": [
+        "c+1zAaJAHYZGLN7jjBDlD3O6Kx7qLqrekoGEZE12RKE=",
+        "metapensiero.sqlalchemy.proxy-3.6.tar.gz"
+      ]
+    },
+    "4.0": {
+      "sdist": [
+        "gM4ILWIHMlfB1HufdUAPrJ68PVwPr3Oep0Kt0MQr1Vk=",
+        "metapensiero.sqlalchemy.proxy-4.0.tar.gz"
+      ]
+    },
+    "4.1": {
+      "sdist": [
+        "1lVITLqiNbDl5Y95l7YIBOUewlmfP61eTdvb49OkFsQ=",
+        "metapensiero.sqlalchemy.proxy-4.1.tar.gz"
+      ]
+    },
+    "4.2": {
+      "sdist": [
+        "ozuFMl3cSo8hX+DofEP7WfGuu8/LVgTrxRFFpVTVR9Y=",
+        "metapensiero.sqlalchemy.proxy-4.2.tar.gz"
+      ]
+    },
+    "4.3": {
+      "sdist": [
+        "qfIxmlwu04Z+QOHeZoVAAsF664n3R/uh3NsThvMAw/I=",
+        "metapensiero.sqlalchemy.proxy-4.3.tar.gz"
+      ]
+    },
+    "4.4": {
+      "sdist": [
+        "4eIu7HAlCTizxWRrqWvrDWKv1Kw+LF66u+81Ad537DM=",
+        "metapensiero.sqlalchemy.proxy-4.4.tar.gz"
+      ]
+    },
+    "4.5": {
+      "sdist": [
+        "Neb6iqTwFGCHUGEYoefHvPn87Ww3Btmx6ddD083WWmE=",
+        "metapensiero.sqlalchemy.proxy-4.5.tar.gz"
+      ]
+    },
+    "4.6": {
+      "sdist": [
+        "xNNvf6DMeXYqV3DNfVE5ezkfNDfQP3vEf5Ub9rKpiuI=",
+        "metapensiero.sqlalchemy.proxy-4.6.tar.gz"
+      ]
+    },
+    "4.7": {
+      "sdist": [
+        "hqcxnMN06Jf7eTdz7KzFE5CPFu5TGAbZa0qx1GJPVU8=",
+        "metapensiero.sqlalchemy.proxy-4.7.tar.gz"
+      ]
+    },
+    "4.8": {
+      "sdist": [
+        "ikOTdtXAN0xBgVIiq258qOBmje5947fRtQbCIMrzhfY=",
+        "metapensiero.sqlalchemy.proxy-4.8.tar.gz"
+      ]
+    },
+    "5.0": {
+      "sdist": [
+        "fF5h8itZDuYZD7ls8BZVC3QPIq5OVz8gEjVKwE5VNqI=",
+        "metapensiero.sqlalchemy.proxy-5.0.tar.gz"
+      ]
+    },
+    "5.1": {
+      "sdist": [
+        "byi+0+hj51mlosblkXbBbB9IxH/GL6dwSnJy0Ix8znA=",
+        "metapensiero.sqlalchemy.proxy-5.1.tar.gz"
+      ]
+    },
+    "5.10": {
+      "sdist": [
+        "GEPCUc7QECmjNhGfU7OsHoEAT/X/nmoqycCbAVkcwI0=",
+        "metapensiero.sqlalchemy.proxy-5.10.tar.gz"
+      ]
+    },
+    "5.11": {
+      "sdist": [
+        "aL4M2ti0Mc9pwYy6UVyXpJuCK4Wk1PrFlXPNda01DXY=",
+        "metapensiero.sqlalchemy.proxy-5.11.tar.gz"
+      ]
+    },
+    "5.12": {
+      "sdist": [
+        "GOnyHz2lhcFwTjLdTVbIo9+tQX2F63yZvOqQTDJC0NI=",
+        "metapensiero.sqlalchemy.proxy-5.12.tar.gz"
+      ]
+    },
+    "5.13": {
+      "sdist": [
+        "uXw0LQZasSYNwi2gOugFpitK1+UFD5o76DYgMUrItz4=",
+        "metapensiero.sqlalchemy.proxy-5.13.tar.gz"
+      ],
+      "wheels": {
+        "metapensiero.sqlalchemy.proxy-5.13-py3-none-any.whl": [
+          "0aJ+Kf8K7ifPezBT9eNKte43iywqNVwmL3LpdgjPmHA=",
+          "py3"
+        ]
+      }
+    },
+    "5.14": {
+      "sdist": [
+        "ONbxM3CAf3hohsYBOZfGiySU4pmP7/cMKj0zanhh2yY=",
+        "metapensiero.sqlalchemy.proxy-5.14.tar.gz"
+      ],
+      "wheels": {
+        "metapensiero.sqlalchemy.proxy-5.14-py3-none-any.whl": [
+          "+0LhcyR/MkQSEWH5eYEy/rUDfvt7VsCjrdA7IIezGHY=",
+          "py3"
+        ]
+      }
+    },
+    "5.2": {
+      "sdist": [
+        "RQDoYE5/K4Z44CEq9xIyaOjXxHhJ2No0UVgkbW85jB0=",
+        "metapensiero.sqlalchemy.proxy-5.2.tar.gz"
+      ]
+    },
+    "5.3": {
+      "sdist": [
+        "PtP0lQ7XC887u70o8bVd6WPpB6vNWcVMBSOubTUb/e0=",
+        "metapensiero.sqlalchemy.proxy-5.3.tar.gz"
+      ]
+    },
+    "5.4": {
+      "sdist": [
+        "MgqSjagypSIH53KmW71a7d3k9uzj2fX6NCfWjWiqz5g=",
+        "metapensiero.sqlalchemy.proxy-5.4.tar.gz"
+      ]
+    },
+    "5.5": {
+      "sdist": [
+        "G3L7/925nCPq/OuheVxQFeH3k0GmuMBJzG7A/5XJM8A=",
+        "metapensiero.sqlalchemy.proxy-5.5.tar.gz"
+      ]
+    },
+    "5.6": {
+      "sdist": [
+        "T7g0hlSGIvCk0ONK59AzjmSx62eJhfMzxeHfAPkrXCc=",
+        "metapensiero.sqlalchemy.proxy-5.6.tar.gz"
+      ]
+    },
+    "5.7": {
+      "sdist": [
+        "tZ3J205+t0cp/tozS0cQ6Sa93nvhq6hKuXx7U4WcBsc=",
+        "metapensiero.sqlalchemy.proxy-5.7.tar.gz"
+      ]
+    },
+    "5.8": {
+      "sdist": [
+        "5g8Ts5PLYvwAQI3DWDY9QUlvmXkbpMdLkz9EgaxSjGU=",
+        "metapensiero.sqlalchemy.proxy-5.8.tar.gz"
+      ]
+    },
+    "5.9": {
+      "sdist": [
+        "OdAHwwTibAZJ36scRbJdadca3fEbdkR925jzFn8LDiE=",
+        "metapensiero.sqlalchemy.proxy-5.9.tar.gz"
+      ]
+    },
+    "6.0.dev0": {
+      "sdist": [
+        "ODgi8uORvu044ftHpMfCTZhzUnsKtXwwdQEtCjyyO9s=",
+        "metapensiero.sqlalchemy.proxy-6.0.dev0.tar.gz"
+      ],
+      "wheels": {
+        "metapensiero.sqlalchemy.proxy-6.0.dev0-py3-none-any.whl": [
+          "0hKRzu0XFEgSs55VVxx+JN3jkpzb6AIVVcAXLD4vgy4=",
+          "py3"
+        ]
+      }
+    },
+    "6.0.dev2": {
+      "sdist": [
+        "lPvq+VLZhCpOqZ6W+i7yAB7TE+f98AIeXGjR+jWl0JA=",
+        "metapensiero_sqlalchemy_proxy-6.0.dev2.tar.gz"
+      ],
+      "wheels": {
+        "metapensiero_sqlalchemy_proxy-6.0.dev2-py3-none-any.whl": [
+          "n3f1hKToSwD9buPe5MVr95qIyz4qffLNfK7oKBtoJLQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "metavis": {
     "0.1.1.dev0": {
       "wheels": {
@@ -68509,6 +68927,30 @@
           "cp39"
         ]
       }
+    },
+    "0.5.4": {
+      "sdist": [
+        "xuSfaFrF9jvJszVtVpbA8HuvhHm7hoL4J7XwzpNXG6I=",
+        "modbampy-0.5.4.tar.gz"
+      ],
+      "wheels": {
+        "modbampy-0.5.4-cp36-cp36m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "SupUj4PXgPNC59lDljVQOdn7y+3zzAvCXYiyASl9lCk=",
+          "cp36"
+        ],
+        "modbampy-0.5.4-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "efwPT0t/EyKrhth8cndAkP7Ksq9WDx0FiYsfQfZeg1k=",
+          "cp37"
+        ],
+        "modbampy-0.5.4-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "6Qq/ULHg/WbLNqazgRVR7fCowKYuTFkmgTODhZ0OA6M=",
+          "cp38"
+        ],
+        "modbampy-0.5.4-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Y5pLWKybOBq5ZjGlaDLKxgxCPNafSKcWf7bfsv62YyA=",
+          "cp39"
+        ]
+      }
     }
   },
   "modelbricks": {
@@ -70296,6 +70738,18 @@
       "wheels": {
         "nbdev_pandas-0.0.14-py3-none-any.whl": [
           "Te2OgFcr4j3zmyDOsIv0Y5C4ye7Yz1TAyKfNXmusnhI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.140": {
+      "sdist": [
+        "NzMV8xk7XtoFpk9LHqB3juCvWWUwpi6/myqpao+7vHQ=",
+        "nbdev-pandas-0.0.140.tar.gz"
+      ],
+      "wheels": {
+        "nbdev_pandas-0.0.140-py3-none-any.whl": [
+          "Gta0FKloefZYfoWm3xHTS6DcNlvThzAojxGG9qsyVM4=",
           "py3"
         ]
       }
@@ -128145,6 +128599,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.665": {
+      "sdist": [
+        "42TGDikfYD2YRWhpQpEacTDY+sKD39R3FbNzc1KXP5k=",
+        "tencentcloud-sdk-python-dbdc-3.0.665.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dbdc-3.0.665-py2.py3-none-any.whl": [
+          "2DqR3yIUyKlG0OdRNLYOciQrq6oXM9ZiA4w9bh+dM4o=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-tem": {
@@ -131456,6 +131922,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tem-3.0.664-py2.py3-none-any.whl": [
           "fBZpiCl9beLF3C6uXRw9n93ZNVqHpYYV3dv8YRuPLM4=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.665": {
+      "sdist": [
+        "+olsu/hejNqFO1hcN5kDtfwag/5gn6wxKAyrPg/Htpk=",
+        "tencentcloud-sdk-python-tem-3.0.665.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tem-3.0.665-py2.py3-none-any.whl": [
+          "6RhLURhXhxlz3e2sF84qeNwDDL3bEBQgQE4edsTlIIg=",
           "py2.py3"
         ]
       }
