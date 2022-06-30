@@ -4663,6 +4663,14 @@
           "py3"
         ]
       }
+    },
+    "1.1.4": {
+      "wheels": {
+        "apifiny-1.1.4-py3-none-any.whl": [
+          "qtg/jB7nYyKptqLJ7mZ0xzA4Uf0q87jA7DHPNn/LuBY=",
+          "py3"
+        ]
+      }
     }
   },
   "apitist": {
@@ -29146,6 +29154,18 @@
         ]
       }
     },
+    "0.79.17": {
+      "sdist": [
+        "9eQyJbWiDOzGnodLYIXmrxAbCn896Pmz30QgTOUdiig=",
+        "dbnd-gcp-0.79.17.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_gcp-0.79.17-py2.py3-none-any.whl": [
+          "3TeXNJ5QfvE0OVA7eQKMPsC/glrioIZbSfqBnNkzhTI=",
+          "py2.py3"
+        ]
+      }
+    },
     "0.79.2": {
       "sdist": [
         "bHpm265nBjSIRHowFkFJLRbX2FTCtOuTS79eKke9Tr4=",
@@ -46653,6 +46673,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "hotlatta": {
+    "0.0.1": {
+      "sdist": [
+        "8Wv0dtwsPmbJ/s4G5AX4C3/Dm+kgmJ0mQUx5RSQv/qo=",
+        "hotlatta-0.0.1.tar.gz"
+      ]
     }
   },
   "hotqueue": {
@@ -71788,6 +71816,18 @@
         ]
       }
     },
+    "0.0.157": {
+      "sdist": [
+        "YJ0KxQWIknT+IyuCPK54xmgXAj4IyoMZia/Hw688wDo=",
+        "nbdev-stdlib-0.0.157.tar.gz"
+      ],
+      "wheels": {
+        "nbdev_stdlib-0.0.157-py3-none-any.whl": [
+          "/14UKrfY4IT4KAjgTElGOdsZQ0swqScVT09yd+EeZZQ=",
+          "py3"
+        ]
+      }
+    },
     "0.0.16": {
       "sdist": [
         "wIb8YRS/9B9e6Dn28jrY8T+q3lF0yY21TRZ2p5lwoZM=",
@@ -92976,6 +93016,22 @@
         ],
         "pyre_check-0.9.14-py3-none-manylinux1_x86_64.whl": [
           "dkotLurSgfXWrDTzX6tmuYPH4GHwmXLbniPy+9lvTdo=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.15": {
+      "sdist": [
+        "SOk8lnW6D/KKx3dpaVNMLZfLGeO6c86IrpIgb+mei/4=",
+        "pyre-check-0.9.15.tar.gz"
+      ],
+      "wheels": {
+        "pyre_check-0.9.15-py3-none-macosx_10_11_x86_64.whl": [
+          "LRpizqhZptD9F87aL+D91RuNDFwKBZSucqQq6ivC9G0=",
+          "py3"
+        ],
+        "pyre_check-0.9.15-py3-none-manylinux1_x86_64.whl": [
+          "VFglCXSsVT97v+hQrzUP2nklXGB2kBcJTB8xcA1UGeQ=",
           "py3"
         ]
       }
@@ -115461,6 +115517,64 @@
         "streamz-0.6.3-py2.py3-none-any.whl": [
           "61cSMMLknOPqALYSOID49/4uIrSh+4G/YUyBAM+2tR8=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "stringmetrics": {
+    "0.1.0": {
+      "sdist": [
+        "NVtBTFzH6zDD9YNomEqZLI3Aq+Omz7aCnqh8f3G8Rvw=",
+        "stringmetrics-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "stringmetrics-0.1.0-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "HxCH10VwZJW3rY006bFvVn190vutL5O2kjXlmOjg/fg=",
+          "cp310"
+        ],
+        "stringmetrics-0.1.0-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "3ZoL9IB15SFLP4cd4ZwgrQ+w39RYgrVflz6tj8ZWzY4=",
+          "cp39"
+        ]
+      }
+    },
+    "1.1.2": {
+      "sdist": [
+        "1/eOgRy9RXA1qlO8+E5Ylx5PZ+CLRyJmQ/G2NR74TKU=",
+        "stringmetrics-1.1.2.tar.gz"
+      ],
+      "wheels": {
+        "stringmetrics-1.1.2-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "M3q18jI48zfOkkKyq4qxdmqnuW4vmpd0mkn2JCyQPGg=",
+          "cp310"
+        ],
+        "stringmetrics-1.1.2-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "QlHHnOa5bwvhosqnWb/qTckRJmz/vKiAxSwPmJNmn5o=",
+          "cp310"
+        ],
+        "stringmetrics-1.1.2-cp311-cp311-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "iMtQIZmsaKXwFpmWInkaEI8zjbsPtU26MGEVRXW8JEM=",
+          "cp311"
+        ],
+        "stringmetrics-1.1.2-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "tge0+xOi8kVE1RzmpcDM57FeHLFkyx0jiXB5db48W28=",
+          "cp37"
+        ],
+        "stringmetrics-1.1.2-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "TNfqM6k23V2zWGtQ7quigCunHAObU0TR77e9Tjf73Ho=",
+          "cp38"
+        ],
+        "stringmetrics-1.1.2-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "5BNYdgRGRypmtTYzptCbKYpfKeY0BbO73+cJrXfW+n0=",
+          "cp39"
+        ],
+        "stringmetrics-1.1.2-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "XD2bNqeDOzWj/gE3fC3w1WQ3jWlLh3eFLzYFOFt6t+o=",
+          "cp39"
+        ],
+        "stringmetrics-1.1.2-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "IeWBS0nfDy/vVfPnYQFFoY9o8G+UD4/9f1Bsm4gq9n0=",
+          "pp37"
         ]
       }
     }
