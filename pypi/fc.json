@@ -32712,6 +32712,10 @@
         "edflib-0.84.1.tar.gz"
       ],
       "wheels": {
+        "edflib-0.84.1-cp310-cp310-win_amd64.whl": [
+          "B5pLU2RyAdwRhsNMcslE8v/3Uyy3sua6boVXraSEeTQ=",
+          "cp310"
+        ],
         "edflib-0.84.1-cp37-cp37m-win_amd64.whl": [
           "EMmLPYqQOKkLvajBFpCincM/+kDbgSzjLFpFHuwBcCg=",
           "cp37"
@@ -32719,6 +32723,10 @@
         "edflib-0.84.1-cp38-cp38-win_amd64.whl": [
           "jQ90b3kfIK6Sv4/ua3aJ698PfzlW/X+RL+81cjBnGwY=",
           "cp38"
+        ],
+        "edflib-0.84.1-cp39-cp39-win_amd64.whl": [
+          "L0Riyd9Ku7RjLs1jtKcx1cb9BZA5pNmY1fQvFFJ9bNo=",
+          "cp39"
         ]
       }
     }
@@ -50457,6 +50465,14 @@
           "py2.py3"
         ]
       }
+    },
+    "1.9.3": {
+      "wheels": {
+        "hahomematic-1.9.3-py2.py3-none-any.whl": [
+          "7dx1zKVOyiAjTT6B0/giS+/Gv7El5Oh4tCewQixqJ84=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "halfpipe": {
@@ -59210,6 +59226,30 @@
       "wheels": {
         "juliacall-0.9.1-py3-none-any.whl": [
           "STkIspXwnKnzapYIiTf+sJGdEs4XlSCrB4fMvB1JQxo=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.2": {
+      "sdist": [
+        "286ESCDNXV7SQAkEjXP8uSgyibue6nzbpK4feB9HZSY=",
+        "juliacall-0.9.2.tar.gz"
+      ],
+      "wheels": {
+        "juliacall-0.9.2-py3-none-any.whl": [
+          "Su8GrMDUBCiQmnL+2QdFUc/G4Q5t4gU+fymsT15//hA=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.3": {
+      "sdist": [
+        "byvOis0f3QJQoeVqx1AateMtPWuXTrS425WQ/64okAY=",
+        "juliacall-0.9.3.tar.gz"
+      ],
+      "wheels": {
+        "juliacall-0.9.3-py3-none-any.whl": [
+          "KE6zj32kIfzMYSrf8k572zxOusXcdLJuTgiPgMuw2c4=",
           "py3"
         ]
       }
@@ -86423,6 +86463,32 @@
         "pibybit-0.1.0-py2.py3-none-any.whl": [
           "HJCxgAKilHIN2oZYrURLMgx9JAFKrTuBiD1ytReGz8c=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "picai-prep": {
+    "1.3.3": {
+      "sdist": [
+        "W4dXeZx8wfQWostrxXJNhg2XjWiJW5j4ff+DeF1EmSY=",
+        "picai_prep-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "picai_prep-1.3.3-py3-none-any.whl": [
+          "4onfBBNzaB1qpdsSTIAnU3d1XTsZKAV0FZWSVvMtrow=",
+          "py3"
+        ]
+      }
+    },
+    "1.3.4": {
+      "sdist": [
+        "Cb0cRoQpUkkjlThrluxZhZC2EHAAv1T0cslhYZEaSdA=",
+        "picai_prep-1.3.4.tar.gz"
+      ],
+      "wheels": {
+        "picai_prep-1.3.4-py3-none-any.whl": [
+          "JjMWcAtV/gfPHjz9mUoX0m5Gu9qoZvdhNJeg4CzEXJU=",
+          "py3"
         ]
       }
     }
@@ -132730,54 +132796,54 @@
     }
   },
   "wenet": {
-    "1.0.5": {
+    "1.0.6": {
       "wheels": {
-        "wenet-1.0.5-cp36-cp36m-macosx_10_11_x86_64.whl": [
-          "iDPhdOYMRnrKPSbiT6JP7jfozKDlm09hLMIdNbbi8KM=",
+        "wenet-1.0.6-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "RKVKJg7fRkzfPQsJdD2l3A5NcQR9vDbx1krIqxdCdCk=",
           "cp36"
         ],
-        "wenet-1.0.5-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "HwqUTMCggJ3kCYqcS9IjJRd19zS3kLD6anT3aloJ8VI=",
+        "wenet-1.0.6-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "C96WtxwIBonC8lQOvjOzIGLtKp8oyCnC5bWutm1wIoY=",
           "cp36"
         ],
-        "wenet-1.0.5-cp36-cp36m-win_amd64.whl": [
-          "sSMrmza0FtoiWVTuhifnN0yqMnUwMtwKWWLFNXfO/5c=",
+        "wenet-1.0.6-cp36-cp36m-win_amd64.whl": [
+          "5oh9//nhK7TPm7c5/+yqr55oGyLIuQUiSuHP3eBmEiQ=",
           "cp36"
         ],
-        "wenet-1.0.5-cp37-cp37m-macosx_10_11_x86_64.whl": [
-          "RC5dSe8xGOpMqco7MuX82EpZLNFLYRqigcx3fjLaFdM=",
+        "wenet-1.0.6-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "uFrKXbHnZQFchmPqS7BxE5pdq78RyZoDh94ahvvcQ4Q=",
           "cp37"
         ],
-        "wenet-1.0.5-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "2QnCx2oFWl+19vTevX7vdoywhOt2/dO5oefe+5V1qy8=",
+        "wenet-1.0.6-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ezB/f0ZHbdZqkg5XwEm64fOKlZvCwmH9y/u+7Ki4jV4=",
           "cp37"
         ],
-        "wenet-1.0.5-cp37-cp37m-win_amd64.whl": [
-          "7ZlYBzGwHWLSsJrzQn7BiJbnG39X44icP6S8evoaZss=",
+        "wenet-1.0.6-cp37-cp37m-win_amd64.whl": [
+          "O010SfAvptlJvt9rJ5a0HaLkhkTPNJPl1k+LPz002s8=",
           "cp37"
         ],
-        "wenet-1.0.5-cp38-cp38-macosx_10_11_x86_64.whl": [
-          "Vk2RPne0F7gi93nOYluFfv0P3hW5U6hse8g132/dR9w=",
+        "wenet-1.0.6-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "Z4gY5OicS2OAvYZqJQtjSPVz33Qpn8nL1itOeg8HI3I=",
           "cp38"
         ],
-        "wenet-1.0.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "aYZ3TDaTsTS+snKmjEC6I2gX2/5DsC6vpaFJsNlfwz8=",
+        "wenet-1.0.6-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sWPe+9oVrKz1zT/ey9DjW85DQ2BpQfaY9V4bP8hTu9s=",
           "cp38"
         ],
-        "wenet-1.0.5-cp38-cp38-win_amd64.whl": [
-          "YmTWhaprstEgc3adgnaUcD3Fd9EiyxmF9rUNj1s6YCk=",
+        "wenet-1.0.6-cp38-cp38-win_amd64.whl": [
+          "zLmlA0qb19+q5bmXB3J4vbPqN14BjljtrRq2gPH7WyQ=",
           "cp38"
         ],
-        "wenet-1.0.5-cp39-cp39-macosx_10_11_x86_64.whl": [
-          "Q12mf/qj6cWFWVg60O8R5x/4Jw1F/jFG5scuvd/a+SI=",
+        "wenet-1.0.6-cp39-cp39-macosx_10_11_x86_64.whl": [
+          "r8SwV8GiWLv5ZICPLb+rWY5S472yplKGx4kU24zzzUM=",
           "cp39"
         ],
-        "wenet-1.0.5-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "uMFWew3g7zS9kF4Bf91SJdpFFX9GRN9uCasM7NTfbrc=",
+        "wenet-1.0.6-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Q8rjVfKpFRWz3yfA138TcrAetLs0S3Wadt8OjFcqxEI=",
           "cp39"
         ],
-        "wenet-1.0.5-cp39-cp39-win_amd64.whl": [
-          "Gc4AM0JYSF7KbeGbCM9uGViGo1poSBUAppNZqw8Ty3g=",
+        "wenet-1.0.6-cp39-cp39-win_amd64.whl": [
+          "oLGyLwomdybpaa2h3Wz/6vI096B94d0nHw9tZZvgvNU=",
           "cp39"
         ]
       }
