@@ -19321,6 +19321,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b20220703": {
+      "wheels": {
+        "bigdl_friesian_spark2-2.1.0b20220703-py3-none-macosx_10_11_x86_64.whl": [
+          "0tACMg0+G8925lisgSGAmlAJB3jHzzUkeOZjpOMArpI=",
+          "py3"
+        ],
+        "bigdl_friesian_spark2-2.1.0b20220703-py3-none-manylinux1_x86_64.whl": [
+          "Xvz5hf982TGXGXJQ+bphkhsjUf+Ued9T6IWPIpBrum0=",
+          "py3"
+        ]
+      }
     }
   },
   "biggerquery-zombie": {
@@ -22598,6 +22610,12 @@
       "sdist": [
         "97LeQmq1lcNse9eyj47Iak1WGeJP2gJeda6YOVbsV74=",
         "cc_py_commons-0.2.62.tar.gz"
+      ]
+    },
+    "0.2.63": {
+      "sdist": [
+        "U2+ImTaTzhmVkb/7f+U0+cXc9R6cUKeARUwBCGTlaUA=",
+        "cc_py_commons-0.2.63.tar.gz"
       ]
     },
     "0.2.7": {
@@ -91267,6 +91285,20 @@
       ]
     }
   },
+  "mgr-0407-o-cnq-dev": {
+    "0.0.2": {
+      "sdist": [
+        "svUXekmbeeSncjnifw2shjCXAIdAOemJrbLjmDp3tto=",
+        "mgr_0407_o_cnq_dev-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "mgr_0407_o_cnq_dev-0.0.2-py3-none-any.whl": [
+          "P+s4gLRCwD5T3WbcIzTj3g9VXs4WwwQBi2FvJVlSvUg=",
+          "py3"
+        ]
+      }
+    }
+  },
   "microcosm-eventsource": {
     "0.1.0": {
       "sdist": [
@@ -96329,6 +96361,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.91": {
+      "sdist": [
+        "ybGizISjfLK4g2zn+u3EIE5XS23jhlduoVgOhUmB/WU=",
+        "muvinai-0.0.91.tar.gz"
+      ],
+      "wheels": {
+        "muvinai-0.0.91-py3-none-any.whl": [
+          "UyFhAeoh1tKcbmxSSSN8dXRywh1KevY05jqwofdMKOg=",
+          "py3"
+        ]
+      }
     }
   },
   "mv-regex": {
@@ -97332,6 +97376,18 @@
       "wheels": {
         "nbgrader-0.8.0a0-py3-none-any.whl": [
           "3/82OoyvnY3zFuQ8KPUINXIgwU/ZqAM7wCaGOqPbkrA=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0a1": {
+      "sdist": [
+        "wMAI9JJG7RzimoA4ND3rNEU2U1AQTqdtjIsZ9BUM9dc=",
+        "nbgrader-0.8.0a1.tar.gz"
+      ],
+      "wheels": {
+        "nbgrader-0.8.0a1-py3-none-any.whl": [
+          "EyKXKN2GPPfHDEezTIs+G750xeNFQePliZWTaa5nDXo=",
           "py3"
         ]
       }
@@ -159052,43 +159108,63 @@
         ]
       }
     },
-    "1.1.0": {
+    "0.2.2": {
       "sdist": [
-        "4eMEN8zLgT5xSCSrw+rxqkamJeSAJ6QxsG6lQvBs3BI=",
-        "visio_rust-1.1.0.tar.gz"
+        "TOXnOABWXwvktXcCda987r5P0NXsfnYs+WvneU6clL4=",
+        "visio_rust-0.2.2.tar.gz"
       ],
       "wheels": {
-        "visio_rust-1.1.0-cp310-cp310-macosx_10_7_x86_64.whl": [
-          "ZRrrurKf7ZQ8W2fp21QBozL3854b1Mks0n81qdpHl4U=",
+        "visio_rust-0.2.2-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "b77XbL0RKPHtkOiEmwTPot28HK79x81cx23dCa8u2Tk=",
           "cp310"
         ],
-        "visio_rust-1.1.0-cp310-none-win_amd64.whl": [
-          "FJiEQqypCy4By3pdMJL0KOi7vQ1TWVN3IRtvZvnVScU=",
+        "visio_rust-0.2.2-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "a8fpR1jgJPkNJbW30ehTFg/STWqfC4bH9dchdQF71cQ=",
           "cp310"
         ],
-        "visio_rust-1.1.0-cp37-cp37m-macosx_10_7_x86_64.whl": [
-          "kGLJ0aYvRmz4rpfU8yajayGubZOZ3izA4PGy/hg+s0w=",
+        "visio_rust-0.2.2-cp310-none-win_amd64.whl": [
+          "q8Jpvp92xn6M5kn8ZhH4keN+XIwFx3t/hroWD5cNMpU=",
+          "cp310"
+        ],
+        "visio_rust-0.2.2-cp37-cp37m-macosx_10_7_x86_64.whl": [
+          "QKyq3/wzity/Ruv/pQYY0ddzYCCSGB+Xje477mOxT/s=",
           "cp37"
         ],
-        "visio_rust-1.1.0-cp37-none-win_amd64.whl": [
-          "T0xtH8J1JzQH/HUrmjJ54SyAqxsbhUJ9oyhVJhJr//o=",
+        "visio_rust-0.2.2-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "iBDnjFz2/Epn3s8LcUnHAouUZNRT1VkqiuWDEUJpGLc=",
           "cp37"
         ],
-        "visio_rust-1.1.0-cp38-cp38-macosx_10_7_x86_64.whl": [
-          "0umkDscs/qvD4aOr0G6RKuY8Nnugn3VZ/lloyCtjFKc=",
+        "visio_rust-0.2.2-cp37-none-win_amd64.whl": [
+          "GJ6w9d217RZZ3Cm4uJKswg1M8ZMHO7wyDuDYQXg2OyU=",
+          "cp37"
+        ],
+        "visio_rust-0.2.2-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "nbIPMSKS4gVpdOOB1tEX9S3J06R/IpvYJzXPddJn9I0=",
           "cp38"
         ],
-        "visio_rust-1.1.0-cp38-none-win_amd64.whl": [
-          "5R4Kb7+kp2YT//GM2xPCpqhY7YuzN9QReXrXBw9OmRo=",
+        "visio_rust-0.2.2-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "MPj5T91woF7Aou9JKkTpA7UIb85i4PgyWlsnSzTmBEc=",
           "cp38"
         ],
-        "visio_rust-1.1.0-cp39-cp39-macosx_10_7_x86_64.whl": [
-          "Nq4QcyK4JzIFcUFXcYtxfOAhv3svF+6vKgrprNiwxx8=",
+        "visio_rust-0.2.2-cp38-none-win_amd64.whl": [
+          "Wi0Hsc1PITwkzt2ntF5FShCD0lTT9jh8UdvZdn3nagU=",
+          "cp38"
+        ],
+        "visio_rust-0.2.2-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "/trdz+F4NxP59uaeURN/yetmrayiFOAh1yphOZhrAyE=",
           "cp39"
         ],
-        "visio_rust-1.1.0-cp39-none-win_amd64.whl": [
-          "cWo0U85Zxwu9QaGXMG+z0Q8Jf9VdUnzRhryMohRxHN4=",
+        "visio_rust-0.2.2-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "o+o2MPcRw6MXt/FdUeoQNua9i81FWkpd+eSs0eNLUvM=",
           "cp39"
+        ],
+        "visio_rust-0.2.2-cp39-none-win_amd64.whl": [
+          "/K8cQdSdyK2EYDoQctcSIqQsTntrhXtFY87SVuT3eLo=",
+          "cp39"
+        ],
+        "visio_rust-0.2.2-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "UUnitDF5lfRaNlLyDQf5jIPfUXKg69dbxOnqd2MGnOI=",
+          "pp37"
         ]
       }
     }
