@@ -7023,6 +7023,18 @@
           "py3"
         ]
       }
+    },
+    "0.8.1": {
+      "sdist": [
+        "0c/KyEWV9Vct2jVxcHcnvj8wdQ/bs4RhGTLOwuXz9Ss=",
+        "badger-opt-0.8.1.tar.gz"
+      ],
+      "wheels": {
+        "badger_opt-0.8.1-py3-none-any.whl": [
+          "yZgUUFrp4EotFBxUSOTwY5rjuEqMHFEDT2UKX0cG4Kc=",
+          "py3"
+        ]
+      }
     }
   },
   "badgermole": {
@@ -16680,6 +16692,18 @@
       "wheels": {
         "cdk_sops_secrets-0.3.105-py3-none-any.whl": [
           "sj0qRFm7RNz0L65dHFDG5ayPDA9JXvWc/g8vw3ZKMNE=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.106": {
+      "sdist": [
+        "0z0ayNaoXGaUNUlc1nQtygWG9Vr4iKTUctLBxGnDAnw=",
+        "cdk-sops-secrets-0.3.106.tar.gz"
+      ],
+      "wheels": {
+        "cdk_sops_secrets-0.3.106-py3-none-any.whl": [
+          "NQUSst2VCiHVEbgNpWG/xQ302REU5a0mbU6u2EJH6cw=",
           "py3"
         ]
       }
@@ -56193,6 +56217,12 @@
         "5zGYwe7F8wWe2RXyPMfqzF2wsqBcoEgaIadEoD4AgHg=",
         "kundih-0.0.4.tar.gz"
       ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "YMhtSBEETS/3CcPLROWU/kTDQ34bXPjm089s2NYEHlA=",
+        "kundih-0.0.5.tar.gz"
+      ]
     }
   },
   "kzzcrawl": {
@@ -68458,6 +68488,12 @@
         "modern_treasury-0.0.40.tar.gz"
       ]
     },
+    "0.0.41": {
+      "sdist": [
+        "4NoF0b9IeNluhNY8kT1D//syyFMtBq33dMdI2mxcE+8=",
+        "modern_treasury-0.0.41.tar.gz"
+      ]
+    },
     "0.0.5": {
       "sdist": [
         "4ZAoELLpLIbNbDQGyfhhF0yg8B15qrbVjMHdSV2HUDc=",
@@ -68968,6 +69004,14 @@
       "wheels": {
         "monai-0.9.0rc3-202206081741-py3-none-any.whl": [
           "FRAlVfQc8gMOLK9/QbWod4OAR5EGk5vXzjr+jn9X2fM=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1rc1": {
+      "wheels": {
+        "monai-0.9.1rc1-202207051405-py3-none-any.whl": [
+          "qEdZJTOxFva/BL6LFtkDJzzx/5UY+Sy2EUYPJdbRkoo=",
           "py3"
         ]
       }
@@ -131961,6 +132005,32 @@
       }
     }
   },
+  "tat-pulsar": {
+    "0.1.0": {
+      "sdist": [
+        "nuLNuJr7Ov0Fev0nJwvKkyfbain3seRtxmdVEwpUXq8=",
+        "tat-pulsar-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "tat_pulsar-0.1.0-py3-none-any.whl": [
+          "dkZ+PFmNpl1Uv/OisdEo5/+iW5bLv/kriM6CPpqbihI=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "6FwwKMaqQzRYrYIBtXTGg/U3r05c8raIp8oXBwTmptA=",
+        "tat-pulsar-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "tat_pulsar-0.2.1-py3-none-any.whl": [
+          "ykH4rmPI80UCI1GkkYwh8jf+cfOaieNtfkvqMdcNVMQ=",
+          "py3"
+        ]
+      }
+    }
+  },
   "taxamo": {
     "0.0.12": {
       "sdist": [
@@ -135490,6 +135560,42 @@
         ],
         "tf_nightly_gpu-2.10.0.dev20220704-cp39-cp39-win_amd64.whl": [
           "4j0mBbzhUZcH+hEjpnIh8s5cpKrAj+tjcFg11FxMe7Y=",
+          "cp39"
+        ]
+      }
+    },
+    "2.10.0.dev20220705": {
+      "wheels": {
+        "tf_nightly_gpu-2.10.0.dev20220705-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "0eZ0KlDY8sdI5bBP0YCy2m4hAnrxTDhta5w5XTiwaAY=",
+          "cp310"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220705-cp310-cp310-win_amd64.whl": [
+          "qtBxBDR+BrAXAHL4R1UzZLQH4zrJeN0jEgUpRjqxEBY=",
+          "cp310"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220705-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Ez9IQ7+Xb1d0bypKCjYkWD5ZRdpSFOReJM3ycWR8BoA=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220705-cp37-cp37m-win_amd64.whl": [
+          "KzZeDm5YUDIIs3JXsDz2NUJ8zmWtdy1Hvl23pbhNjiw=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220705-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8Xk6Dj1Dzkq3Y+qAXpURpK9s5x7gtMXtnd2MfnTMFfM=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220705-cp38-cp38-win_amd64.whl": [
+          "R3l/IfOrVfVoLVkN1xtX3+L9Wjxn3NWAPwGI/S1wVNY=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220705-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "75wMKcJazK8W4dvUmXN5iDhmPqjZpPFdvO9Lj5ua6JQ=",
+          "cp39"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220705-cp39-cp39-win_amd64.whl": [
+          "6ZYKAWMBVUQ03dlQVknP79RQspzyj5bXpskM+fc33Sc=",
           "cp39"
         ]
       }
