@@ -22991,6 +22991,32 @@
       ]
     }
   },
+  "django-cloudflare-restrictor": {
+    "1.0.0": {
+      "sdist": [
+        "oqfFdJgHv23Y77RuLwUtIxmQqE6ju1rRar3U4W/9d6E=",
+        "django-cloudflare-restrictor-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "django_cloudflare_restrictor-1.0.0-py3-none-any.whl": [
+          "xF6eTKsisVErvs0y3RXyPcne1kmwuLibGdB2DucyKHg=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "t/dtls6JS71DNmKd1tSFnIyB5wvaNjqsA5BOEk7ebaQ=",
+        "django-cloudflare-restrictor-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "django_cloudflare_restrictor-1.0.1-py3-none-any.whl": [
+          "Gus1tibn4QZrBMWuTONt+JmVOLHhFTDA7JIYq1X1QkI=",
+          "py3"
+        ]
+      }
+    }
+  },
   "django-code-deploy": {
     "0.1": {
       "sdist": [
@@ -40118,6 +40144,18 @@
         ]
       }
     },
+    "0.3": {
+      "sdist": [
+        "rS4nU3oQYLLv8+ZcnShqAOoewRqg8xMhv0MCW/bLkog=",
+        "generic-proto-plus-stubs-0.3.tar.gz"
+      ],
+      "wheels": {
+        "generic_proto_plus_stubs-0.3-py3-none-any.whl": [
+          "hO8BEgNAjY6tDMQ7IrFQlnYeNEyJmwl+VCUbFPWu5u8=",
+          "py3"
+        ]
+      }
+    },
     "0.3.dev1": {
       "sdist": [
         "M8S0rSkq7ILN28WUal/NEVC6FvII1T+xYUFGZSTt1nw=",
@@ -40150,6 +40188,18 @@
       "wheels": {
         "generic_proto_plus_stubs-0.3.dev3-py3-none-any.whl": [
           "xXlgyM4SOdai++lyIg1aCUPA+DGA5SksuqccFgvhSoM=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.dev4": {
+      "sdist": [
+        "xVjiOkHM0CGNBdyVCpCFMAU6+dJapUV7eHraBbtzJts=",
+        "generic-proto-plus-stubs-0.3.dev4.tar.gz"
+      ],
+      "wheels": {
+        "generic_proto_plus_stubs-0.3.dev4-py3-none-any.whl": [
+          "fthsQbZ8tAVWyk8qu3rv6cFn+hPKzHBnCXnLqIGAtDg=",
           "py3"
         ]
       }
@@ -46143,6 +46193,26 @@
           "cp39"
         ]
       }
+    },
+    "1.12.0": {
+      "wheels": {
+        "intel_extension_for_pytorch-1.12.0-cp310-cp310-manylinux2014_x86_64.whl": [
+          "55Eq2aVTxj2vknlTmXXFM+XwR7yPmrtS/S1/TOJSKW8=",
+          "cp310"
+        ],
+        "intel_extension_for_pytorch-1.12.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "HGPl90/7p6IfSMt+0xXeQluuh/o1otOJwF6+pY0mLKs=",
+          "cp37"
+        ],
+        "intel_extension_for_pytorch-1.12.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "0iptSUjQqFOrJFuoNf6/ZmcGb7avjzbhXCZyrTSuMSg=",
+          "cp38"
+        ],
+        "intel_extension_for_pytorch-1.12.0-cp39-cp39-manylinux2014_x86_64.whl": [
+          "bxT4diAbC0xCAW7NfQnvHnwj2LoDhyhrc/Pmn+YwLDU=",
+          "cp39"
+        ]
+      }
     }
   },
   "intercom": {
@@ -50218,8 +50288,16 @@
         "kmedoids-0.3.2.tar.gz"
       ],
       "wheels": {
+        "kmedoids-0.3.2-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "ntqF++u3hRDGGVGdcGLYSd1ROUoVQxPtx61bO9dGquY=",
+          "cp310"
+        ],
         "kmedoids-0.3.2-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
           "SvGVUOHhYIEtflMh3RKKExsedHmI5wnJdChiBSPwtps=",
+          "cp310"
+        ],
+        "kmedoids-0.3.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Q+B71zI9E9xi0y22yB438b1eMz84b5NQvvYxK/EwygU=",
           "cp310"
         ],
         "kmedoids-0.3.2-cp310-cp310-manylinux_2_28_x86_64.whl": [
@@ -50230,12 +50308,28 @@
           "dAQAuXPBo1AdystsfWcT8vubKOATAseHyo6iF+sjO0M=",
           "cp310"
         ],
+        "kmedoids-0.3.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Xr1zXLXTEADcWeJAkBhBBIFqBwCg+R7u8qL0dYpZ0H4=",
+          "cp311"
+        ],
+        "kmedoids-0.3.2-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "GMkd7oBmuXo0lGSdawXOXGqhWwXZAvDwkyALqNVHslU=",
+          "cp311"
+        ],
         "kmedoids-0.3.2-cp37-none-win_amd64.whl": [
           "E6lHdinY1cv+lYe4WIu5kf4yRD5fBqGsDBfiYBpLNLg=",
           "cp37"
         ],
+        "kmedoids-0.3.2-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "3ra1elRl9/JJKCK/uwJJ+2qgr5Wa7rzxPBQ8u2zK0LQ=",
+          "cp38"
+        ],
         "kmedoids-0.3.2-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
           "KHrUHN3xMWwWsouPdaYouldXQq1U5OOBKfrqPWkPEgs=",
+          "cp38"
+        ],
+        "kmedoids-0.3.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VkktevGcIVWvgTLVGVq80U1n6C2rK+z762pBFfZC6h8=",
           "cp38"
         ],
         "kmedoids-0.3.2-cp38-cp38-manylinux_2_28_x86_64.whl": [
@@ -50246,8 +50340,16 @@
           "Eug09TgjV4W6G6M+aD+0Ejv83/kYYWmfSubWW4YXeIo=",
           "cp38"
         ],
+        "kmedoids-0.3.2-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "mDT95H7LtsbK370QM1Rb1V248jEqH842Vwmxn72UWRU=",
+          "cp39"
+        ],
         "kmedoids-0.3.2-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
           "SixDB3+eEWZCQrxifiixqgoYv3/fxQhw6CJC9MxCYRI=",
+          "cp39"
+        ],
+        "kmedoids-0.3.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aQ8y9aQ/7+r7v/g/Y8lYjlQyxvEmraukLwNCt74MfvM=",
           "cp39"
         ],
         "kmedoids-0.3.2-cp39-cp39-manylinux_2_28_x86_64.whl": [
@@ -50256,6 +50358,86 @@
         ],
         "kmedoids-0.3.2-cp39-none-win_amd64.whl": [
           "uGB1FIYlknYifrOcVYnmCRFcbkuqT7vaRjbiGaU2Pos=",
+          "cp39"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "xqa7Yg4LlzOBk1i8phDAcdAH+mcFqCIhbNlm9reP0og=",
+        "kmedoids-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "kmedoids-0.3.3-cp310-cp310-macosx_10_7_x86_64.whl": [
+          "98lbnd6cCKQNEoJJXbt2KA22cfz5ClU9orW7IF/+sDc=",
+          "cp310"
+        ],
+        "kmedoids-0.3.3-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "RiIJs8kCmOlOp7gNYNoOwG2qGAu2tBdeth/k0Tm+KoI=",
+          "cp310"
+        ],
+        "kmedoids-0.3.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "bbOjuApvjXQpMN/Mt4O3r0XmF8Dn++ufQV5nS/uYnfw=",
+          "cp310"
+        ],
+        "kmedoids-0.3.3-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "id4bcgT1T8j6er9aarzIve9O9dehEkkYuhdNFKXM+JE=",
+          "cp310"
+        ],
+        "kmedoids-0.3.3-cp310-none-win_amd64.whl": [
+          "9X6X0pOlM858h4j/30suQZHWtoRlqLW3BUl4k655F44=",
+          "cp310"
+        ],
+        "kmedoids-0.3.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TubYaLb/mxW0MYXJERDQtk79uMSwDHlU7h1e+/6/fu8=",
+          "cp311"
+        ],
+        "kmedoids-0.3.3-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "oCobMqVoogzOgRkGaNO4d1uG1lcOXBE/Ju/Ptw1y50Y=",
+          "cp311"
+        ],
+        "kmedoids-0.3.3-cp37-none-win_amd64.whl": [
+          "Qy+qwQXtnDiqK5JlRPN3R5GQtHqxXDbQz1TqL3CqAJ4=",
+          "cp37"
+        ],
+        "kmedoids-0.3.3-cp38-cp38-macosx_10_7_x86_64.whl": [
+          "no4UpQesI7gytpdxukiQ3ytRwrNfvzO9sa29wf7HgBw=",
+          "cp38"
+        ],
+        "kmedoids-0.3.3-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "13krygj254jraOrlJfdmzgEf7QOAxnjXfeWNtP024yY=",
+          "cp38"
+        ],
+        "kmedoids-0.3.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2z6rI+a819tXvI7YH6V1s50EGWI/DJCzcPXb4ey8+gM=",
+          "cp38"
+        ],
+        "kmedoids-0.3.3-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "XhnswMsxtNFeeNQlXfIEqble7WqtOLTfIjRDa4OEHfs=",
+          "cp38"
+        ],
+        "kmedoids-0.3.3-cp38-none-win_amd64.whl": [
+          "+CCFS8Y6W81dgCzvt3AwSeMmP7UIrc9ppYCU3dUH4h8=",
+          "cp38"
+        ],
+        "kmedoids-0.3.3-cp39-cp39-macosx_10_7_x86_64.whl": [
+          "fZVQl/CfQ38ggE1eyfDWmgXEwb2VEKV/FfpQZH9BlLg=",
+          "cp39"
+        ],
+        "kmedoids-0.3.3-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "KvjcZUWsqxc06PJKTMPI2GieeJUsNN6IzajuGkuO4nc=",
+          "cp39"
+        ],
+        "kmedoids-0.3.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4ZHvCtgeO8ttNGp1gedn2yc5ruSPOwxwzDJqXJLpa3s=",
+          "cp39"
+        ],
+        "kmedoids-0.3.3-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "aX/dnMXY4FUW0Jnm1TFbyfsM6scjFHrbviHAMoLTyHw=",
+          "cp39"
+        ],
+        "kmedoids-0.3.3-cp39-none-win_amd64.whl": [
+          "xontxE0B6vafwbc98gV3dXqa9h0jodtNiHvLqD6PUqY=",
           "cp39"
         ]
       }
@@ -108441,6 +108623,18 @@
           "py3"
         ]
       }
+    },
+    "3.0.7": {
+      "sdist": [
+        "qLbiq40X3WFcIVc7WW8y6TxM+UFNbQznyV5sGnXFva0=",
+        "sqlglot-3.0.7.tar.gz"
+      ],
+      "wheels": {
+        "sqlglot-3.0.7-py3-none-any.whl": [
+          "ia0dJ6tdD6oGzKjC2O8/6KBZx+X7ksdqFDzkhC4Jbno=",
+          "py3"
+        ]
+      }
     }
   },
   "sqltask": {
@@ -124236,6 +124430,18 @@
         ]
       }
     },
+    "0.12.3": {
+      "sdist": [
+        "uPkjr8IgI5GL89ZHcVjO4i8/fgKLq+ukLSmakDZNjNU=",
+        "thapbi_pict-0.12.3.tar.gz"
+      ],
+      "wheels": {
+        "thapbi_pict-0.12.3-py3-none-any.whl": [
+          "QyJBjfINgeAbu5BZ4uAtrEM8ZAb/pY6dtqqfVzd+3Uk=",
+          "py3"
+        ]
+      }
+    },
     "0.2.0": {
       "sdist": [
         "c5rqIod4K3EtZNlLCp+P0MDW3Pmf1sTXXPsVrtyAjFA=",
@@ -137357,6 +137563,20 @@
         "EuUgRI6FYRVvE4FAUR/TmquvusGqJdjOO1455mlT5JI=",
         "yafte-0.7.1.tar.gz"
       ]
+    }
+  },
+  "yaltai": {
+    "0.0.1a0": {
+      "sdist": [
+        "3JPmMmjMrRnzQXYrxv1CfuF1BHS5yG+IMZicorTFf1o=",
+        "YALTAi-0.0.1a0.tar.gz"
+      ],
+      "wheels": {
+        "YALTAi-0.0.1a0-py2.py3-none-any.whl": [
+          "NJ+3rrFfauV0t6BGtdaIo/IhaVWF9kxEpkJk2zsSvQg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "yamaha-av": {
