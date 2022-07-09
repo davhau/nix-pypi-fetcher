@@ -11165,6 +11165,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b20220709": {
+      "wheels": {
+        "bigdl-2.1.0b20220709-py3-none-macosx_10_11_x86_64.whl": [
+          "53a9TOE4C39RF33PIG9PNn1u+tIVucfpyRVTF2c6vlw=",
+          "py3"
+        ],
+        "bigdl-2.1.0b20220709-py3-none-manylinux1_x86_64.whl": [
+          "PV85zEW69BUyEBboI34hUdRT0CUSvx3J52FmQJvfJJM=",
+          "py3"
+        ]
+      }
     }
   },
   "binaryheap": {
@@ -43208,6 +43220,18 @@
       "wheels": {
         "jupyter_contrib_core-0.3.3-py2.py3-none-any.whl": [
           "HsgeJ1qPWFjVawxMbNhTNaqOkVABuGV/5RxiDDzd5Q8=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.4.0": {
+      "sdist": [
+        "rZlfV1QYirQepflNacmh+WulBUMnTXmNkAH5N/cw0yY=",
+        "jupyter_contrib_core-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "jupyter_contrib_core-0.4.0-py2.py3-none-any.whl": [
+          "XnfN/1xz9f92s3E8RZ+SjA3/Re7lPujC/j8mSQ9NQnA=",
           "py2.py3"
         ]
       }
@@ -78864,6 +78888,14 @@
         ]
       }
     },
+    "1.16.4": {
+      "wheels": {
+        "pyabsa-1.16.4-py3-none-any.whl": [
+          "MOu2BPkuaYLpQ6McLcclgnNlxwAUIJc29Ohd6/XI+hk=",
+          "py3"
+        ]
+      }
+    },
     "1.2.0": {
       "wheels": {
         "pyabsa-1.2.0-py3-none-any.whl": [
@@ -98760,290 +98792,6 @@
         ]
       }
     },
-    "1.0.0b1": {
-      "sdist": [
-        "mOlCENInPp9vN7UklldM2DGAeUe4XtkxHAAcNEIKNGQ=",
-        "scipy-1.0.0b1.tar.gz"
-      ],
-      "wheels": {
-        "scipy-1.0.0b1-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "sE9FdXp+nRmJdsr59HePM6qirVwWFUKrXzXOYa8s+8o=",
-          "cp27"
-        ],
-        "scipy-1.0.0b1-cp27-cp27m-manylinux1_i686.whl": [
-          "oUML2RPYzK7dLS1MBlbjRyrUlHgkRdJZ7DmHkVkcZCI=",
-          "cp27"
-        ],
-        "scipy-1.0.0b1-cp27-cp27m-manylinux1_x86_64.whl": [
-          "vFu9a2wwFPXS0+3ZZnutXnFfrtT5rLuEvnLE17Ye3ak=",
-          "cp27"
-        ],
-        "scipy-1.0.0b1-cp27-cp27mu-manylinux1_i686.whl": [
-          "pHhFjOy3616sGmTWyaEu1uRVGtSerL0Z52g8Io7Crig=",
-          "cp27"
-        ],
-        "scipy-1.0.0b1-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "UBt71EAuMRcDzv0OhDh2zGXod8NMfL/L4ypsqb2U/jk=",
-          "cp27"
-        ],
-        "scipy-1.0.0b1-cp27-none-win32.whl": [
-          "hWF0rAtjyAXHT9cU9XPwmjwqKS48PfiGvPXRynEqZCk=",
-          "cp27"
-        ],
-        "scipy-1.0.0b1-cp27-none-win_amd64.whl": [
-          "8/ewsrNwvSdHKASWgP6qrlGJ5JZQvaiXlarD3n4Ftcs=",
-          "cp27"
-        ],
-        "scipy-1.0.0b1-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "QnIvLGrvQ3i1oV7lADHWyuHt+1TCmBh+1NU0AGW8t8E=",
-          "cp34"
-        ],
-        "scipy-1.0.0b1-cp34-cp34m-manylinux1_i686.whl": [
-          "VuH0LH5eKyyT63Rp/LeLGGngl3/mdUd1MQtO0hdmoVc=",
-          "cp34"
-        ],
-        "scipy-1.0.0b1-cp34-cp34m-manylinux1_x86_64.whl": [
-          "ZadOIVDbGPeDhyjg6Rob9BqyKs8JZ0kCJqE7ds8E2Vw=",
-          "cp34"
-        ],
-        "scipy-1.0.0b1-cp34-none-win32.whl": [
-          "CMVWtg592R7mY6zsg/IFSYm/qileND4VCg3oijnDiqE=",
-          "cp34"
-        ],
-        "scipy-1.0.0b1-cp34-none-win_amd64.whl": [
-          "JmlefCvGmd+mQC+ZEobBr+abtmNN63cVLBCRYxcSrWk=",
-          "cp34"
-        ],
-        "scipy-1.0.0b1-cp35-cp35m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "csK+ZQAB2zOFis9ZvzQSzfhV+EodoHUsk1kMy0NCToE=",
-          "cp35"
-        ],
-        "scipy-1.0.0b1-cp35-cp35m-manylinux1_i686.whl": [
-          "fBIm/Ij2iH0E2BzNUUXKWpCY4inFnW4DcFb8CJ4SpSU=",
-          "cp35"
-        ],
-        "scipy-1.0.0b1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "Begpt/i6rqvRVnFd5ZD79D1V9p9adRv+ZAFok/Ral8c=",
-          "cp35"
-        ],
-        "scipy-1.0.0b1-cp35-none-win32.whl": [
-          "WR7Z0PL4/xxD1CsCngErw9aFRDGx/eUkPcLtrV4q1Lw=",
-          "cp35"
-        ],
-        "scipy-1.0.0b1-cp35-none-win_amd64.whl": [
-          "uZFBFRR8sVNrgnEI92LgKyvQLzQ1GgSVgbFWMBhxhtc=",
-          "cp35"
-        ],
-        "scipy-1.0.0b1-cp36-cp36m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "PlYHv+IfovbyTfW9wRURph9l8Pc1vUqD08BwvMk5A/k=",
-          "cp36"
-        ],
-        "scipy-1.0.0b1-cp36-cp36m-manylinux1_i686.whl": [
-          "aoq7vxXDhYJ6cTp8Dx/hXX7tXRp/QZ9/XZNNchWA63k=",
-          "cp36"
-        ],
-        "scipy-1.0.0b1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "fPc3DWJqCxrZw44cF1e8TW1y/i03xh/mNrGXbEC0rlg=",
-          "cp36"
-        ],
-        "scipy-1.0.0b1-cp36-none-win32.whl": [
-          "nTsU3v8jA2DwRwmHKATGj2EUuRroTaQehhzr2/EnBVg=",
-          "cp36"
-        ],
-        "scipy-1.0.0b1-cp36-none-win_amd64.whl": [
-          "Gb7DIaFYKXqYCjy/2dufT1HYJbirPIeDFMAfvFITOFo=",
-          "cp36"
-        ]
-      }
-    },
-    "1.0.0rc1": {
-      "sdist": [
-        "uWkGOhW/2SHGEKQVIPEDsPaZINIMzIcTSVHLXCzFhHA=",
-        "scipy-1.0.0rc1.tar.gz"
-      ],
-      "wheels": {
-        "scipy-1.0.0rc1-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "/orh+KS7eQ2hywIh5WltihAURWHkR3G8cWAyR35Xgcw=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc1-cp27-cp27m-manylinux1_i686.whl": [
-          "flCeY1OMMQUhnCEOBeWPTyDb5DHQ5KnG9j/vtlduBKI=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc1-cp27-cp27m-manylinux1_x86_64.whl": [
-          "n+bRfmSRLGiO+ja7nHaZdOFAHW2txLP9TwhITnU+lII=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc1-cp27-cp27mu-manylinux1_i686.whl": [
-          "GEtL1Nf3oZk0Ez5qhPXdMwgjYeED/vJGflZ6AxD6QRk=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc1-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "FzlsUnEGlcbACiiQm5zauiyIJSq42ASuJVfS3tO99RY=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc1-cp27-none-win32.whl": [
-          "NJTpffUeprw+n5pqgny2e2z+uXiOCoxYlvT59V0DVBc=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc1-cp27-none-win_amd64.whl": [
-          "YwEFkJSi4wQ6lF3/ND538UCDIzFDtecf7fXYlEj3+AA=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc1-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "0v6wZl9i7yrroj+VIeBvVVXQske6+ZH3xEKLfxrmQn8=",
-          "cp34"
-        ],
-        "scipy-1.0.0rc1-cp34-cp34m-manylinux1_i686.whl": [
-          "5SCXTcOZWrGI/XEBvrOjcLmHM+xy3x8SKDSyp3gD28M=",
-          "cp34"
-        ],
-        "scipy-1.0.0rc1-cp34-cp34m-manylinux1_x86_64.whl": [
-          "leLfXFDvMqHLuf3nhed3fHu5qR2cXuxqRLbbsAIn8NM=",
-          "cp34"
-        ],
-        "scipy-1.0.0rc1-cp34-none-win32.whl": [
-          "mgfIoz0+ZzUuAZaDAMoQ10nD9LNzKkW+XK9fUQuzlhk=",
-          "cp34"
-        ],
-        "scipy-1.0.0rc1-cp34-none-win_amd64.whl": [
-          "yGedbaGR2yDJiLBbN5gnaQY0ieuJ4aBTyBHsX47Cyho=",
-          "cp34"
-        ],
-        "scipy-1.0.0rc1-cp35-cp35m-manylinux1_i686.whl": [
-          "EXh7uZqE6NY2rzBjhyH8OV4Yc5madWppMKN3eJqLqRA=",
-          "cp35"
-        ],
-        "scipy-1.0.0rc1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "zyA2q+VLV1Pgi9NCH9B4v1dICIwvDIiVq69SwBuYyEk=",
-          "cp35"
-        ],
-        "scipy-1.0.0rc1-cp35-none-win32.whl": [
-          "FOGsQkhC9Xr0QOlE6U0blpnaoxOTjlQRznzk5BBr4Qk=",
-          "cp35"
-        ],
-        "scipy-1.0.0rc1-cp35-none-win_amd64.whl": [
-          "IiNg2BTn1GM7XC3WDtbrMzl9l70A0YCjaS2HNj4acEQ=",
-          "cp35"
-        ],
-        "scipy-1.0.0rc1-cp36-cp36m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "Cw3+7i3jFvlLJ9p2wujhw0GLK2pL4b6+FL7COEvIYGY=",
-          "cp36"
-        ],
-        "scipy-1.0.0rc1-cp36-cp36m-manylinux1_i686.whl": [
-          "T5vCb62nOsfrAW8Bt3hCEPADsksvVBbhWS9GkK+0D4Q=",
-          "cp36"
-        ],
-        "scipy-1.0.0rc1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "YTSLqS6oa5N15LebNlayHjy95V2MUFFa2TYjnf3AaPQ=",
-          "cp36"
-        ],
-        "scipy-1.0.0rc1-cp36-none-win32.whl": [
-          "OEms1dhumDJmyY4xQmTRo8XFqH2vXqs1tzxBztsOsOk=",
-          "cp36"
-        ],
-        "scipy-1.0.0rc1-cp36-none-win_amd64.whl": [
-          "DmwaTqFWJhcnOfnFoKDepWNVV2C54KK1sAFvi7PEsHw=",
-          "cp36"
-        ]
-      }
-    },
-    "1.0.0rc2": {
-      "sdist": [
-        "rR+F8WbYwU8d9+OJZ36srDoraJupgKSmPQ8G4iucFEE=",
-        "scipy-1.0.0rc2.tar.gz"
-      ],
-      "wheels": {
-        "scipy-1.0.0rc2-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "IBUxqC8Zmkk8juacUTkHUDu2WUFzDN0OKRKeGBZVQus=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc2-cp27-cp27m-manylinux1_i686.whl": [
-          "ra111YgXqWWU3VTz+kr3ZnTjlXFuPlr0ndTTtlAEEDw=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc2-cp27-cp27m-manylinux1_x86_64.whl": [
-          "ITTYwLhaDB+QV19BETh4GtkcDxpFg8MwWgeATnQxA4c=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc2-cp27-cp27mu-manylinux1_i686.whl": [
-          "IJR+pVASRfIsfbSaetONAJqt1L+jVdpS6+IPtp00Go8=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc2-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "6ZcfnNZOkYB8+/uJyFsbOTuICL3RX+MW7x1iSm1Akfs=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc2-cp27-none-win32.whl": [
-          "0Lz3BvN7xBDz0udDmw5Bpj3glqkRBLKaRVolOEit6TA=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc2-cp27-none-win_amd64.whl": [
-          "KVvoLb8Fw+yVzLGuk81OUJswrR0p2pPWFxYN+v3YpjY=",
-          "cp27"
-        ],
-        "scipy-1.0.0rc2-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "lyxVdv520bTTxL6F2dKBrAoYD/90k7few4te5L7H2Rw=",
-          "cp34"
-        ],
-        "scipy-1.0.0rc2-cp34-cp34m-manylinux1_i686.whl": [
-          "+Nc+HgYwI9v+uUALEtSNY3hXlRnRhbeZ53MnlyfBo1w=",
-          "cp34"
-        ],
-        "scipy-1.0.0rc2-cp34-cp34m-manylinux1_x86_64.whl": [
-          "l7t5zO2QauiUX3YrTN01jE81qcbLO4zdKlQlYmW58FY=",
-          "cp34"
-        ],
-        "scipy-1.0.0rc2-cp34-none-win32.whl": [
-          "fiSAmFTdwIihg6vxc9bDt7Z2p/A3ozhgk0yXdWatk2E=",
-          "cp34"
-        ],
-        "scipy-1.0.0rc2-cp34-none-win_amd64.whl": [
-          "iJO6JXKPOxs1Hmsuz9Hj1AlLDaiRlKK8o22dFTyuG64=",
-          "cp34"
-        ],
-        "scipy-1.0.0rc2-cp35-cp35m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "W5DuQfZv7mQvlIvOiKfWjwmE8HMY/7bNWS0H2K1jfEQ=",
-          "cp35"
-        ],
-        "scipy-1.0.0rc2-cp35-cp35m-manylinux1_i686.whl": [
-          "KuEh/TJBVRicdo4pKahpNLuXdv3aKtIxIn0cl3afoEs=",
-          "cp35"
-        ],
-        "scipy-1.0.0rc2-cp35-cp35m-manylinux1_x86_64.whl": [
-          "i3x4TJR6LO47tVI5XYGJEQhuJxuS001q/PBSeO3uI3M=",
-          "cp35"
-        ],
-        "scipy-1.0.0rc2-cp35-none-win32.whl": [
-          "cvyCUrNXh076vNvAKSJAeNRCuOOcQQ9ym1DryhfHSgI=",
-          "cp35"
-        ],
-        "scipy-1.0.0rc2-cp35-none-win_amd64.whl": [
-          "VuTgxB5xsJBL/1vcS7iUylhxNsBIiApR2yoyQVkQDL0=",
-          "cp35"
-        ],
-        "scipy-1.0.0rc2-cp36-cp36m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "/zDQzt2i2HLnxxqIWnKh+kohf3krX3shGOuLGcS77Fg=",
-          "cp36"
-        ],
-        "scipy-1.0.0rc2-cp36-cp36m-manylinux1_i686.whl": [
-          "sS9dVRvLZ2gVPN6lu4srJQLPi+7t95oKYoq4aJAazjo=",
-          "cp36"
-        ],
-        "scipy-1.0.0rc2-cp36-cp36m-manylinux1_x86_64.whl": [
-          "1bCfNzrEn1ahNn1ekVPL8d6EedhyRyhKaDeuyzqfXc4=",
-          "cp36"
-        ],
-        "scipy-1.0.0rc2-cp36-none-win32.whl": [
-          "OKh36f+oq2p8JCGdbM7BnfdoxKITUNF+bMRmd/8an28=",
-          "cp36"
-        ],
-        "scipy-1.0.0rc2-cp36-none-win_amd64.whl": [
-          "8TQ56lTwXwwghWork4yAgKWRKx45Jj9Ih3h8xq7Tco8=",
-          "cp36"
-        ]
-      }
-    },
     "1.0.1": {
       "sdist": [
         "hznGeELtmhw0xi1symMB0K3kDVDvFLopK9Mx8NbJQLo=",
@@ -99256,102 +99004,6 @@
         ]
       }
     },
-    "1.1.0rc1": {
-      "sdist": [
-        "4zcMpYFOUZzI8wF6OnXLflBwhIpESN8E8dpmGz+ts2A=",
-        "scipy-1.1.0rc1.tar.gz"
-      ],
-      "wheels": {
-        "scipy-1.1.0rc1-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "fb6qdSjqT8PFNL6Wol+JRL+WsdXEWp/9C4doSV2e2p4=",
-          "cp27"
-        ],
-        "scipy-1.1.0rc1-cp27-cp27m-manylinux1_i686.whl": [
-          "0LaQeL8xaUXtLjB8aojl5vAefcrp0cNY/AIjTs8pQ4w=",
-          "cp27"
-        ],
-        "scipy-1.1.0rc1-cp27-cp27m-manylinux1_x86_64.whl": [
-          "cxX5tyt5lwMSASA5B3AwWih18gAaKz9rqcZMYgjc4g0=",
-          "cp27"
-        ],
-        "scipy-1.1.0rc1-cp27-cp27mu-manylinux1_i686.whl": [
-          "o/L6w8QPQ+ekBdNm57BsNbFGQUHN5YuFzs0b+Itk/ls=",
-          "cp27"
-        ],
-        "scipy-1.1.0rc1-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "BcRNofHqNjYxd7PJL2F4aPtLMX+sDiXh4h+UPDLy/jM=",
-          "cp27"
-        ],
-        "scipy-1.1.0rc1-cp27-none-win32.whl": [
-          "WMa04g2QJ/xDujlclOmxigv4Lzb5v/5/1LmgxZRyEsc=",
-          "cp27"
-        ],
-        "scipy-1.1.0rc1-cp27-none-win_amd64.whl": [
-          "nC/SNyjn5Sm+LqBbdOPlrUi8iPVXrAwoMD4d2RfS9q8=",
-          "cp27"
-        ],
-        "scipy-1.1.0rc1-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "k7lZCy2LMsVHMZJwr6q9dls+dqM7g51pDaUDGehwBg4=",
-          "cp34"
-        ],
-        "scipy-1.1.0rc1-cp34-cp34m-manylinux1_i686.whl": [
-          "LQXmC2asHz4u+iELqXHYp0BCeeQm6NleHx3AnSUOtBs=",
-          "cp34"
-        ],
-        "scipy-1.1.0rc1-cp34-cp34m-manylinux1_x86_64.whl": [
-          "Y0oWqse4v54DD3TGkmmZ8u+jOtoEUWpzHJszt97IzXg=",
-          "cp34"
-        ],
-        "scipy-1.1.0rc1-cp34-none-win32.whl": [
-          "1W5u6kXV/Ly6yxx5cdnKaNugc8lIb6we6YzA/A6q/GA=",
-          "cp34"
-        ],
-        "scipy-1.1.0rc1-cp34-none-win_amd64.whl": [
-          "O7KAOldRUAOW1KQVkSkpSWAIz37vCpiQ4pY2/ZpU4Fs=",
-          "cp34"
-        ],
-        "scipy-1.1.0rc1-cp35-cp35m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "7R1mK8wvUg+apYhD7U6VPmDd6FTpMa1evL//trFxFNY=",
-          "cp35"
-        ],
-        "scipy-1.1.0rc1-cp35-cp35m-manylinux1_i686.whl": [
-          "E/04GWyZHvbP6/joNq+srQO9l4l2s4K7X4Z70INKVt4=",
-          "cp35"
-        ],
-        "scipy-1.1.0rc1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "BvMMok+QgoJZEnBD6XtfnMK69Cp1rtDrbjpEXSDPy90=",
-          "cp35"
-        ],
-        "scipy-1.1.0rc1-cp35-none-win32.whl": [
-          "nOJ5npKqXlk4P4N1ys2qS+nQ8hPWcfRCfQcSP51o6dk=",
-          "cp35"
-        ],
-        "scipy-1.1.0rc1-cp35-none-win_amd64.whl": [
-          "EjtC0U81BTSZbG+Sj2BnEIWYA8w0rq8Rb4bRemL+qlw=",
-          "cp35"
-        ],
-        "scipy-1.1.0rc1-cp36-cp36m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "Ygs/CvjclD3G4QOVTQAvwyJ0m4wZvodHrUnHlghq1Jg=",
-          "cp36"
-        ],
-        "scipy-1.1.0rc1-cp36-cp36m-manylinux1_i686.whl": [
-          "o9jwbjtzW575zaj+ZTjm0E1jUvJgxesejDkRn7BAgkk=",
-          "cp36"
-        ],
-        "scipy-1.1.0rc1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "9ihi7Jm9se6iV9VCRQWiBTPlOS1UwfzIrSp1/vkQfkk=",
-          "cp36"
-        ],
-        "scipy-1.1.0rc1-cp36-none-win32.whl": [
-          "wq5L6qErXbESHnxNvtb9147ItWKLCZkaN9k+8hwC6Q8=",
-          "cp36"
-        ],
-        "scipy-1.1.0rc1-cp36-none-win_amd64.whl": [
-          "5BI+eeaLUvpYK49etzphCqBu7lAAFvZRwBdozS/D4kk=",
-          "cp36"
-        ]
-      }
-    },
     "1.2.0": {
       "sdist": [
         "UaJCTI7YDmC9uaiWgG562vJKWCU7Mm+60Q+AptBvIhQ=",
@@ -99464,238 +99116,6 @@
         ],
         "scipy-1.2.0-cp37-cp37m-win_amd64.whl": [
           "Vwa3hcoon9/ZGqBQZmGeUdFAYTthPjWTJgHyMV9dhHA=",
-          "cp37"
-        ]
-      }
-    },
-    "1.2.0rc1": {
-      "sdist": [
-        "ypuja7Jx3LQnPjMMC9QYocNWb/diSN1jTv7L4OnBchw=",
-        "scipy-1.2.0rc1.tar.gz"
-      ],
-      "wheels": {
-        "scipy-1.2.0rc1-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "oyggJ3Q+idX8ts16nk7Nu95hv4Em/RloPpe2n19qIWM=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc1-cp27-cp27m-manylinux1_i686.whl": [
-          "i4hB4DYg1NcE9O/T2u1XXiOmJyrpyb4sTMdR/r7phPc=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc1-cp27-cp27m-manylinux1_x86_64.whl": [
-          "JU6i9/PFr++fAsAZLS29j1M2wbHFPvrn72SoiAzMwpk=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc1-cp27-cp27mu-manylinux1_i686.whl": [
-          "ANy2BhAfoQlR7iNa9p2/9V2ZmwHJuyvA9k31/Dr/TrY=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc1-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "OIV+tJ9+ONPsB5dyIlp5I10L2EfiTS+oyan6cO5p8KI=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc1-cp27-cp27m-win32.whl": [
-          "1EmDJBnfPjejlCd4tGwUD9YdHk84+eNL7SeKd6rNvTE=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc1-cp27-cp27m-win_amd64.whl": [
-          "5X8+PqqIzXvJNGYSL8pIw2hj4DrrJPnVcKLmsuo8v5I=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc1-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "m5lQJ482xOd3kUjMmnGdQaMFAkxwAF+ZRBKEUXKt40Y=",
-          "cp34"
-        ],
-        "scipy-1.2.0rc1-cp34-cp34m-manylinux1_i686.whl": [
-          "yKL8FcZPGxYrAvhtKBU7ZfZHIMpk6DK89b+uBgpQeUk=",
-          "cp34"
-        ],
-        "scipy-1.2.0rc1-cp34-cp34m-manylinux1_x86_64.whl": [
-          "TiBeDl6I/iEFxZSnBqyfpVj+ek2qK+8shrNDq1B9i9Y=",
-          "cp34"
-        ],
-        "scipy-1.2.0rc1-cp34-cp34m-win32.whl": [
-          "sE+4unlhmNg2FBONf5boh5HYP19OMeYozOUf2hoJL2Y=",
-          "cp34"
-        ],
-        "scipy-1.2.0rc1-cp34-cp34m-win_amd64.whl": [
-          "w05M6ajGLIXzIteJeiV6g5pLt/2U4IcBBE6bHMG7FaY=",
-          "cp34"
-        ],
-        "scipy-1.2.0rc1-cp35-cp35m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "y39MKJwGUUxuIkJjhoqY1eaqboqQ8jBLFv8naqlgMM4=",
-          "cp35"
-        ],
-        "scipy-1.2.0rc1-cp35-cp35m-manylinux1_i686.whl": [
-          "3K7tNOfpZek1uiUv0ykMBMr7fYT29EycCCaVBKouCgU=",
-          "cp35"
-        ],
-        "scipy-1.2.0rc1-cp35-cp35m-manylinux1_x86_64.whl": [
-          "E7I0tPvaE2hHSmZ/wp6DZbYixMYH7UkPAGQ2Jcj1DMo=",
-          "cp35"
-        ],
-        "scipy-1.2.0rc1-cp35-cp35m-win32.whl": [
-          "BzVg1lmLl7jyFKMYVqHUPJZwG0bFzJgFeJ+WLDuKDpc=",
-          "cp35"
-        ],
-        "scipy-1.2.0rc1-cp35-cp35m-win_amd64.whl": [
-          "YAz1lrg/GF3KNFXQPKgC3gtN6Yy0yNBBImCJ140Ewrw=",
-          "cp35"
-        ],
-        "scipy-1.2.0rc1-cp36-cp36m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "d7ftjhPwOoQ9LxG9FA8iSr5i+1ZlbzU0hXjjg4/01Sg=",
-          "cp36"
-        ],
-        "scipy-1.2.0rc1-cp36-cp36m-manylinux1_i686.whl": [
-          "mHhrUW0ZVVkvkhwrNlBYQP+SHJ6C9cKKbCpYD7PpavE=",
-          "cp36"
-        ],
-        "scipy-1.2.0rc1-cp36-cp36m-manylinux1_x86_64.whl": [
-          "j2L8asa4QtfDxJkmkVDsgdJqDepc6Biu87Dp4U5Txcc=",
-          "cp36"
-        ],
-        "scipy-1.2.0rc1-cp36-cp36m-win32.whl": [
-          "ITz8Newvv4bFlX0a2pmh/h6szNtJjUeQCJr5z1DK2rQ=",
-          "cp36"
-        ],
-        "scipy-1.2.0rc1-cp36-cp36m-win_amd64.whl": [
-          "KH5G+HOZ65iXxybG01jIk/bHaTAFmbxdqVy/M5egCqc=",
-          "cp36"
-        ],
-        "scipy-1.2.0rc1-cp37-cp37m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "cRbRk9pLrKb3zRzXgQVI+gPtSgbgXzJZeLLwAYsF6tk=",
-          "cp37"
-        ],
-        "scipy-1.2.0rc1-cp37-cp37m-manylinux1_i686.whl": [
-          "nNP+dnIlsNz8yfCe0YKItRwps1yhbcTlpvNYe0rH17U=",
-          "cp37"
-        ],
-        "scipy-1.2.0rc1-cp37-cp37m-manylinux1_x86_64.whl": [
-          "QCSuqWoBygWvcB+T/SJ6f2RiWBFpA4madbH0ofATS/g=",
-          "cp37"
-        ],
-        "scipy-1.2.0rc1-cp37-cp37m-win32.whl": [
-          "7M0ObTIVhbbi7hj6DuHbT+BC5S+0ro4oo9Ij32vNao4=",
-          "cp37"
-        ],
-        "scipy-1.2.0rc1-cp37-cp37m-win_amd64.whl": [
-          "lvbGmy2PY9rVYSOFUh0M+LYvZlpi9WtrPT+3BCpjw0w=",
-          "cp37"
-        ]
-      }
-    },
-    "1.2.0rc2": {
-      "sdist": [
-        "aJxf+3Y0Vg4qNnHzusPCqZJsh7xNhNi8fFTKRpXKNVI=",
-        "scipy-1.2.0rc2.tar.gz"
-      ],
-      "wheels": {
-        "scipy-1.2.0rc2-cp27-cp27m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "OwjV7QbTUY9M7iJTbRizszuUJl+QKg2vkjjOKG5IH7k=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc2-cp27-cp27m-manylinux1_i686.whl": [
-          "OyokuR4VcKEPZc3Ov5C9gYZzi6Jdk0vjg4X2rV5WmX8=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc2-cp27-cp27m-manylinux1_x86_64.whl": [
-          "863SuBho3ns+wUcBmm0qMiJ9rhNm5Ef/aeonRMbVmj0=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc2-cp27-cp27mu-manylinux1_i686.whl": [
-          "AaMqy0NykhnPWDulD9f3fmzK3TfG+4NaWjaVwsUazrE=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc2-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "No/OLRhhIKidbnrG7TdPoEGPksUCpU9bbEYgNiVEluA=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc2-cp27-cp27m-win32.whl": [
-          "thYGtbs9RwY2LUaLNYGVLLX3Ar0jdRDW7zNHqZpvLtQ=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc2-cp27-cp27m-win_amd64.whl": [
-          "FJjTspYHWyKBUkxCcGvm2PQREu3aEF6w9aozVc7lGiE=",
-          "cp27"
-        ],
-        "scipy-1.2.0rc2-cp34-cp34m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "BqgeHZn2sCw/bvVIJ91LrPU9AUmI28CblU9BJObEFOE=",
-          "cp34"
-        ],
-        "scipy-1.2.0rc2-cp34-cp34m-manylinux1_i686.whl": [
-          "qFneHNdE9R/7eHDFKzmC4LeLnKJfMDaoOq4QbNV+uKs=",
-          "cp34"
-        ],
-        "scipy-1.2.0rc2-cp34-cp34m-manylinux1_x86_64.whl": [
-          "5gI52I/S4JSwNpomi0SAdQw8izeyIt1Noi1T5KfcJbM=",
-          "cp34"
-        ],
-        "scipy-1.2.0rc2-cp34-cp34m-win32.whl": [
-          "ac5jZGoTsk+zVUnftMna9P99rMlk4XIM+LzLTbVOSro=",
-          "cp34"
-        ],
-        "scipy-1.2.0rc2-cp34-cp34m-win_amd64.whl": [
-          "WO+kv+FG6UnRuaXHcsy1JKj5OegkI/0RKXRbzdAplho=",
-          "cp34"
-        ],
-        "scipy-1.2.0rc2-cp35-cp35m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "WXwf3tj0kBntA9HjZI0pbVbeil1VMMppit3VcH9ykEg=",
-          "cp35"
-        ],
-        "scipy-1.2.0rc2-cp35-cp35m-manylinux1_i686.whl": [
-          "JXNQZc/Io/ybZXWUXGoTCx3XHW4JajUoijw5vocECTQ=",
-          "cp35"
-        ],
-        "scipy-1.2.0rc2-cp35-cp35m-manylinux1_x86_64.whl": [
-          "dJJiNV5onh84KMtTBJYgLZ1s2Ip3NPaQgmbfBejeutc=",
-          "cp35"
-        ],
-        "scipy-1.2.0rc2-cp35-cp35m-win32.whl": [
-          "Kz2cVuxw6b4ajgo+SD8L9/mZjUzTfpqR1jUqwWjeHT0=",
-          "cp35"
-        ],
-        "scipy-1.2.0rc2-cp35-cp35m-win_amd64.whl": [
-          "3NBVaafdD8Jn6t7FTUFqtyjbPzBEf9wHjVNhZmN6mT8=",
-          "cp35"
-        ],
-        "scipy-1.2.0rc2-cp36-cp36m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "aVeibZW+K0HftrsO3gsNiCaCeVT9++jPAuepT6KSQ+I=",
-          "cp36"
-        ],
-        "scipy-1.2.0rc2-cp36-cp36m-manylinux1_i686.whl": [
-          "Qs2DF4q0yoO4qjoAAUYola2mGx/2Vsb25FWmyeuNJoo=",
-          "cp36"
-        ],
-        "scipy-1.2.0rc2-cp36-cp36m-manylinux1_x86_64.whl": [
-          "5UC+FWAQ2sS4nhC4MZPm5wC1gRN4HyD2J6g/qvozXXk=",
-          "cp36"
-        ],
-        "scipy-1.2.0rc2-cp36-cp36m-win32.whl": [
-          "oyC29csFnHN23tSptGQDDely2/TliAe68BReBCMBqLA=",
-          "cp36"
-        ],
-        "scipy-1.2.0rc2-cp36-cp36m-win_amd64.whl": [
-          "N9A1LnhtKAld+BztfmjuonJMauZt0vdMDFnt+/BCfT4=",
-          "cp36"
-        ],
-        "scipy-1.2.0rc2-cp37-cp37m-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl": [
-          "a6ocAkL0Havz5Ksb6AjHk8vX7UlL/3UPr+iFRsABW/s=",
-          "cp37"
-        ],
-        "scipy-1.2.0rc2-cp37-cp37m-manylinux1_i686.whl": [
-          "nCtTRnXuiwe3d40n2q/e4GND3IyWBh1FvWRuNGYwA8E=",
-          "cp37"
-        ],
-        "scipy-1.2.0rc2-cp37-cp37m-manylinux1_x86_64.whl": [
-          "ighgY2IaUx95cYihe5liCyo6NRU2GNrDDIMl6LjrE64=",
-          "cp37"
-        ],
-        "scipy-1.2.0rc2-cp37-cp37m-win32.whl": [
-          "0BgFPBFuniYzTwoAzz74Nfcl3RaMyxr/7r4vRMhyQAM=",
-          "cp37"
-        ],
-        "scipy-1.2.0rc2-cp37-cp37m-win_amd64.whl": [
-          "G2sQ57iyNu+5j1EpfNjHOUTR4/a+wTJpuaIlMbKYtes=",
           "cp37"
         ]
       }
