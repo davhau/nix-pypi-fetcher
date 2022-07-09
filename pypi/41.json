@@ -9990,6 +9990,18 @@
         ]
       }
     },
+    "1.163.1": {
+      "sdist": [
+        "Hx7j2/51eJGVUSi7FTVzGnuusXo66fjP3nAioIetPQM=",
+        "aws-cdk.aws-route53resolver-1.163.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_route53resolver-1.163.1-py3-none-any.whl": [
+          "82KyTqXLnHJ1E/9VhGXM/QA54AqWYJRENaeEPNBXK6Y=",
+          "py3"
+        ]
+      }
+    },
     "1.17.0": {
       "sdist": [
         "32N393IHe9SkF/MXHOo6fstgdCcAN0Yq41rKRmn5VXE=",
@@ -21556,6 +21568,12 @@
       "sdist": [
         "Z/aI/V2VW+BfYTJEEYMXBj/b+1TliJTmw19zrErkr4M=",
         "cloudtrace-1.7.1.tar.gz"
+      ]
+    },
+    "2.0.2": {
+      "sdist": [
+        "C30X30Qnt/nTlO0dTC4zmrWrIKuH5waD9he0hoJ2U5s=",
+        "cloudtrace-2.0.2.tar.gz"
       ]
     }
   },
@@ -40932,146 +40950,6 @@
     }
   },
   "fbgemm-gpu-nightly": {
-    "2022.6.16": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.6.16-cp37-cp37m-manylinux1_x86_64.whl": [
-          "kFsuJhXtypk1lzgZW0vfHxPnWMOLWdEzA2BKRCT6b08=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.6.16-cp38-cp38-manylinux1_x86_64.whl": [
-          "U3adD71Fsg3d0LykNfeeino6+NiG0udjLRc3AEbnG30=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.6.16-cp39-cp39-manylinux1_x86_64.whl": [
-          "IPNva4bIfMCnlnifD8HdLbMRw6RoMhIMfzM66KHPhZ4=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.6.17": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.6.17-cp37-cp37m-manylinux1_x86_64.whl": [
-          "u80RmBzvQz+xOX2GakHbvAK7Ha9KsXcqkhKM7yy6JJA=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.6.17-cp38-cp38-manylinux1_x86_64.whl": [
-          "2qiykk6WnTep8EbAwIEUKZriG0IpbcOdIOhSgyJtASY=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.6.17-cp39-cp39-manylinux1_x86_64.whl": [
-          "VPScjCHMZJFUYJ90atxBENhFqggly5KdYkfAnaIpKxg=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.6.18": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.6.18-cp37-cp37m-manylinux1_x86_64.whl": [
-          "ABXdPrfvqxKawt3geT2eBbdHh+0P0c9y9Z0r7VKt/c4=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.6.18-cp38-cp38-manylinux1_x86_64.whl": [
-          "HYzvwUo0gG8LRMWpELAeRaecfZ3pl9muAY68gBVZkbI=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.6.18-cp39-cp39-manylinux1_x86_64.whl": [
-          "uX8XOeYo/nwWtGE5CbvgP9vVP2ZLPPv1XjWeRAQPAAU=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.6.19": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.6.19-cp37-cp37m-manylinux1_x86_64.whl": [
-          "SJ4Hnxt56RR28RHXUPqaiEPC2FaF4FuXoueQ09O0fm4=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.6.19-cp38-cp38-manylinux1_x86_64.whl": [
-          "ijQ2zXQUg+VaSRzEmMOzFOZTlornm/hqgy0obBPwku0=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.6.19-cp39-cp39-manylinux1_x86_64.whl": [
-          "ABlYVpqwFoC6PonxB6M5j/WhDXdzuUguVjMpnCQ8wCo=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.6.20": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.6.20-cp37-cp37m-manylinux1_x86_64.whl": [
-          "9002dUw8xLuAGXW6hMs2BMFdmteBxnUQ91/5JA3gY4Q=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.6.20-cp38-cp38-manylinux1_x86_64.whl": [
-          "PHYtX3MDqGvV6qaZRetI/biBPeUpmVEJ9HowCnVOc4s=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.6.20-cp39-cp39-manylinux1_x86_64.whl": [
-          "kMLD/kSvhfPgZ+h8VKHdm9bQ6OdieSY+7BDx4e4yJ9E=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.6.22": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.6.222-cp37-cp37-manylinux1_x86_64.whl": [
-          "ykOFxQNNRK1RZ8We31EpdOideskMFPhVrMUjZksiWrU=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.6.222-cp39-cp39-manylinux1_x86_64.whl": [
-          "5eVdVvaqExFSTRUh1uYdrTJylyfrRhtU1rPvLsdl2Rw=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.6.23": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.6.23-cp37-cp37m-manylinux1_x86_64.whl": [
-          "f1VnGy0tuji7eVT3EWbojVoHmbJAEBNs4vYuf0EPKmk=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.6.23-cp38-cp38-manylinux1_x86_64.whl": [
-          "QUcnGjV5357moLQ53+apebVKzHuh/RXULy9DJB8PzTk=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.6.23-cp39-cp39-manylinux1_x86_64.whl": [
-          "uo8dWYzUOQ4793OIfUHd1phmThMQ8112gqkcIEknGCU=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.6.24": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.6.24-cp37-cp37m-manylinux1_x86_64.whl": [
-          "5qXr6l6zjVokIBtHrPKraSky5gg+Tx9/1fKeNTEXbyo=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.6.24-cp38-cp38-manylinux1_x86_64.whl": [
-          "cwoVtVIVoiLx0Ec2zOcIF+bo9gJyYbCz72FaQaHjLsc=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.6.24-cp39-cp39-manylinux1_x86_64.whl": [
-          "vtnyj6FY442TdzzyAR9h+pYpSNXcpZ4xnmcn3LoDnF0=",
-          "cp39"
-        ]
-      }
-    },
-    "2022.6.25": {
-      "wheels": {
-        "fbgemm_gpu_nightly-2022.6.25-cp37-cp37m-manylinux1_x86_64.whl": [
-          "MyVD6o5oRUOo4M2L8XPmoXPuBvCOTEDijI1JSWPwtAQ=",
-          "cp37"
-        ],
-        "fbgemm_gpu_nightly-2022.6.25-cp38-cp38-manylinux1_x86_64.whl": [
-          "+bK3CTbYqBOdLgStfcD85y5pDEMrakQgwGO1n57ttOA=",
-          "cp38"
-        ],
-        "fbgemm_gpu_nightly-2022.6.25-cp39-cp39-manylinux1_x86_64.whl": [
-          "YLvmdfQEynwgY3wA2hsZYovsMRXUnNiySODuv0cB06s=",
-          "cp39"
-        ]
-      }
-    },
     "2022.6.26": {
       "wheels": {
         "fbgemm_gpu_nightly-2022.6.26-cp37-cp37m-manylinux1_x86_64.whl": [
@@ -41240,6 +41118,22 @@
         ],
         "fbgemm_gpu_nightly-2022.7.6-cp39-cp39-manylinux1_x86_64.whl": [
           "biHTM8mOkOJZs+y7V7pqoUPZPhy49lqV29L4CO7WxEM=",
+          "cp39"
+        ]
+      }
+    },
+    "2022.7.8": {
+      "wheels": {
+        "fbgemm_gpu_nightly-2022.7.8-cp37-cp37m-manylinux1_x86_64.whl": [
+          "V80yfSsijGcFA6LQnGsDfpRj8bQqPNi2TKtHN6fRP+c=",
+          "cp37"
+        ],
+        "fbgemm_gpu_nightly-2022.7.8-cp38-cp38-manylinux1_x86_64.whl": [
+          "iJlehvts+3CfWN0nYGjxxgSrGKSdkrwNtkN5iZC/8Zw=",
+          "cp38"
+        ],
+        "fbgemm_gpu_nightly-2022.7.8-cp39-cp39-manylinux1_x86_64.whl": [
+          "AbbPYK03YThl5L7isv4jPztCuHgu1tRLgl6hr0hz7Sk=",
           "cp39"
         ]
       }
@@ -55772,6 +55666,20 @@
       "wheels": {
         "hoboreader-0.0.2-py3-none-any.whl": [
           "KFlaJFvfw4sCX/Voe2aPd7e4BlHYe6JM6BjzcnEA4NA=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "homeworkpy": {
+    "0.1.1a0": {
+      "sdist": [
+        "BJ3IPO4MUdlHdxOtAeDSPBMIvaGYLeyu1o81qKO3Y5I=",
+        "homeworkpy-0.1.1a0.tar.gz"
+      ],
+      "wheels": {
+        "homeworkpy-0.1.1a0-py3-none-any.whl": [
+          "iyNYeAcZl2slTznFMIxgjbbTyrD+SHK+s8dFh5pBEh4=",
           "py3"
         ]
       }
@@ -119504,6 +119412,12 @@
         "pulumi_kubernetes-3.0.0a1657222701.tar.gz"
       ]
     },
+    "3.0.0a1657311876": {
+      "sdist": [
+        "8aoGyA+pBO7MNPLi/YIMoe4gqc5lazxid8DE1GH2l+g=",
+        "pulumi_kubernetes-3.0.0a1657311876.tar.gz"
+      ]
+    },
     "3.0.0b1": {
       "sdist": [
         "4JeEGVYm5uOfY79qGmJXwzqcABpvAnI1vXawT2bbUFg=",
@@ -121982,6 +121896,18 @@
       "wheels": {
         "pychonet-2.3.0-py3-none-any.whl": [
           "iZX3X3s8b1cUX0357OuI4GA51YBdoBuSK3tQSvpqQFI=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.1": {
+      "sdist": [
+        "3hbdptLf/ShDtguRCUnQSA0Y1DLud1Gvcxz3toTyYYk=",
+        "pychonet-2.3.1.tar.gz"
+      ],
+      "wheels": {
+        "pychonet-2.3.1-py3-none-any.whl": [
+          "srRRosUcsIt/SO+JEOZr3ECXPni/5EUIDLSie7gQFNs=",
           "py3"
         ]
       }
