@@ -577,6 +577,20 @@
       }
     }
   },
+  "addition-library": {
+    "0.1.0": {
+      "sdist": [
+        "/3j0KswxjqdgrSKh2+coeLbm7dga1dq81TSpYmfsDes=",
+        "Addition-Library-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "Addition_Library-0.1.0-py3-none-any.whl": [
+          "jioYgQ4UjUBUY1FQVVpQ6X/Wnal8lXGpqRn/QbTXMF8=",
+          "py3"
+        ]
+      }
+    }
+  },
   "adele-30-leak-album-download": {
     "2.0.12": {
       "sdist": [
@@ -8454,9 +8468,33 @@
     },
     "3.9.18": {
       "wheels": {
+        "bcml-3.9.18-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "L6JsOpWzmTudJQy5raG7Fy+qqWXmqKaVml15sA9sacE=",
+          "cp310"
+        ],
+        "bcml-3.9.18-cp310-none-win_amd64.whl": [
+          "icu7cMPdahIhip4+aX/zRjOAci+b87gd3Rf88oCBioo=",
+          "cp310"
+        ],
+        "bcml-3.9.18-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "JEQbzciIA0IKBuL4Si7lid8Mj/xfPndtY/FdazvCsK4=",
+          "cp37"
+        ],
+        "bcml-3.9.18-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "rgANy6b462xtxScPjeaPbU8KmxRAw3RHYK2AFwlVc+g=",
+          "cp38"
+        ],
+        "bcml-3.9.18-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "m3nismqS5C15ihWF39KK7JdgazEHEmaDdUA4etdhQo8=",
+          "cp39"
+        ],
         "bcml-3.9.18-cp39-none-win_amd64.whl": [
           "eyNHV2VMAW0UVHmGIKXkowdZYdQTF7sUY1XmmWQQx+w=",
           "cp39"
+        ],
+        "bcml-3.9.18-pp37-pypy37_pp73-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "DEMN9Tb0HwWQHZuE0Wju6Cg9mMNAiopTMVt5bmvT5s0=",
+          "pp37"
         ]
       }
     },
@@ -29342,6 +29380,18 @@
       "wheels": {
         "dbnd_airflow_versioned_dag-0.80.7-py2.py3-none-any.whl": [
           "tUdFqmwO0G75GfAvvxY+P7Fnojs9Atesrkrh3/7+zvI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.80.9": {
+      "sdist": [
+        "dC0Ohs2UNer0DLOdRipLIFUuszRuuGh6nptToTkM+nc=",
+        "dbnd-airflow-versioned-dag-0.80.9.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_airflow_versioned_dag-0.80.9-py2.py3-none-any.whl": [
+          "8uF1p0KAjtHTXXZiCgCQCrB9JY9MmzKAURId/nguRZU=",
           "py2.py3"
         ]
       }
@@ -84704,98 +84754,14 @@
     }
   },
   "openldap-schema-parser": {
-    "1.0.1": {
+    "1.1.4": {
       "sdist": [
-        "snFHt+yxk10GbA4NjT1PAGPWdMI9KPvxqY5dRVnshV0=",
-        "openldap-schema-parser-1.0.1.tar.gz"
+        "0Ydlsg7FI0/jPBTyZXDh5f1bZPvzOIgV2bQzAjIJwYs=",
+        "openldap-schema-parser-1.1.4.tar.gz"
       ],
       "wheels": {
-        "openldap_schema_parser-1.0.1-py3-none-any.whl": [
-          "hEU+SFf55ONwtuNQnQkP2qV+mKd+/pR6ILyU6saTOkA=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.3": {
-      "sdist": [
-        "PV3A5OIDdqZwyuP/UW1Z33ziANqj7kGSIRfeh2LGq0A=",
-        "openldap-schema-parser-1.0.3.tar.gz"
-      ],
-      "wheels": {
-        "openldap_schema_parser-1.0.3-py3-none-any.whl": [
-          "bG040cUaIkFeHdnbFUXZQcyHx4LJutMbC4Wbmoy9tLg=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.4": {
-      "sdist": [
-        "gtMQK0Mij5+c+LWOWLXE8cW5GnDMtxCt73nH7ESEbFY=",
-        "openldap-schema-parser-1.0.4.tar.gz"
-      ],
-      "wheels": {
-        "openldap_schema_parser-1.0.4-py3-none-any.whl": [
-          "93T4fue+94Qk7KR5V+/AudV3VYv62LXxWlBN7wKqWXI=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.5": {
-      "sdist": [
-        "fAtb9jpwvbHCT263ktx752bSDZy2uFazOHvoh2Xre3o=",
-        "openldap-schema-parser-1.0.5.tar.gz"
-      ],
-      "wheels": {
-        "openldap_schema_parser-1.0.5-py3-none-any.whl": [
-          "gvSogTfA99VSnMUUo3c7+KF5JI/F9QEqi5nYeXC8brE=",
-          "py3"
-        ]
-      }
-    },
-    "1.0.6": {
-      "sdist": [
-        "RHQYC7QbwsopvyU+Ee6rNxTgsDhkk0QTOr8zG6BdKKI=",
-        "openldap-schema-parser-1.0.6.tar.gz"
-      ],
-      "wheels": {
-        "openldap_schema_parser-1.0.6-py3-none-any.whl": [
-          "gstH5TZ+L42YnexcPT85wyNH56ATP/hPkAwe3MePpFo=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.0": {
-      "sdist": [
-        "a336Rlz7ySyCFg2+rLoEhe69FnjRPVfKEIZFcaim5nY=",
-        "openldap-schema-parser-1.1.0.tar.gz"
-      ],
-      "wheels": {
-        "openldap_schema_parser-1.1.0-py3-none-any.whl": [
-          "UajpqQoG4VVI/OkOYmlWtOSg6QSKh0PABMWGMgJIatM=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.1": {
-      "sdist": [
-        "qTlDygln5tEJCezk2r2rqHUjMmA8U0K7HR0t1hZudoA=",
-        "openldap-schema-parser-1.1.1.tar.gz"
-      ],
-      "wheels": {
-        "openldap_schema_parser-1.1.1-py3-none-any.whl": [
-          "bgJqdK/ufKLlgivYS7sd/SN/wcyDS/UHzlgD0GWoWv8=",
-          "py3"
-        ]
-      }
-    },
-    "1.1.2": {
-      "sdist": [
-        "oJNOxTJufOhVXaogK2ExNLN+5lOIrt8MvZQHc77O4GY=",
-        "openldap-schema-parser-1.1.2.tar.gz"
-      ],
-      "wheels": {
-        "openldap_schema_parser-1.1.2-py3-none-any.whl": [
-          "RjZiPM+hkuMb/bRB2YqpLcl2Gaz1idF2Y9gONQbtmlQ=",
+        "openldap_schema_parser-1.1.4-py3-none-any.whl": [
+          "YiH1g3qsJZvdYhF94yu36ksTZohIBrmq++PbveLROk4=",
           "py3"
         ]
       }

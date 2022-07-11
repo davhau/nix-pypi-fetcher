@@ -13455,6 +13455,18 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b20220711": {
+      "wheels": {
+        "bigdl_orca_spark2-2.1.0b20220711-py3-none-macosx_10_11_x86_64.whl": [
+          "hT9+Ko9ICXQDmd6MzwOg6XE+AAHzy/6802pix/Hi4OE=",
+          "py3"
+        ],
+        "bigdl_orca_spark2-2.1.0b20220711-py3-none-manylinux1_x86_64.whl": [
+          "1iJEntzcFfWchP14JN5wLvzlWvqpE/JCqQmRZ3eMpHA=",
+          "py3"
+        ]
+      }
     }
   },
   "billing-api": {
@@ -29470,6 +29482,18 @@
       "wheels": {
         "dbnd_gcp-0.80.7-py2.py3-none-any.whl": [
           "hv9/Feb4WB8jk2FRtASIpmGPtiRpK+qKlHZWgqHwgpA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.80.9": {
+      "sdist": [
+        "E25OoarqeO4EyFY8bqghSsOCjqsF/Q7j4Z/m3YTVtW8=",
+        "dbnd-gcp-0.80.9.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_gcp-0.80.9-py2.py3-none-any.whl": [
+          "5VPvyv31GsX1kd8KaLb/0n1y1ebL+ZjtXeT97DXJMlI=",
           "py2.py3"
         ]
       }
@@ -57714,6 +57738,18 @@
         ]
       }
     },
+    "0.21.2": {
+      "sdist": [
+        "BkJj9DgpU3Wf7Caq41gvM1/v1XdmiYrPCzx+mR4C6x4=",
+        "mergem-0.21.2.tar.gz"
+      ],
+      "wheels": {
+        "mergem-0.21.2-py3-none-any.whl": [
+          "K55K/suGnRZ4xOrcZzd2txBUQs84YgQ2hCip25KyDT8=",
+          "py3"
+        ]
+      }
+    },
     "0.3": {
       "sdist": [
         "2atJkstbW6CxgV/dtMYGDltZqbvPyg4B5Dx2yGboGlU=",
@@ -72500,6 +72536,18 @@
       "wheels": {
         "nbdev_stdlib-0.0.177-py3-none-any.whl": [
           "TtkWLWGUdn1qLUxfb94qnLjplzWcJCwWv0b+jCQZxuI=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.178": {
+      "sdist": [
+        "7CdIk+o839N5YexSVPvANtZ6rU1ItFz3NIOvmSuPaXI=",
+        "nbdev-stdlib-0.0.178.tar.gz"
+      ],
+      "wheels": {
+        "nbdev_stdlib-0.0.178-py3-none-any.whl": [
+          "HGFDFq4Ge9/Lro6TlKnD6NprpXxHKZB1/h99QAXw65Q=",
           "py3"
         ]
       }
@@ -116424,6 +116472,66 @@
         ],
         "stringmetrics-1.1.2-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
           "IeWBS0nfDy/vVfPnYQFFoY9o8G+UD4/9f1Bsm4gq9n0=",
+          "pp37"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "meIAIHmj6x+seETjejz8RTCwAGt3qU3TaY8L2JEmJuw=",
+        "stringmetrics-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "stringmetrics-2.0.0-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "dDCzBU0q1mcE3gUJlJ9tEYBzsQ9UJfwXErqJ+JIHYV4=",
+          "cp310"
+        ],
+        "stringmetrics-2.0.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "hE2ljnT7RrlR4PECWTYiySn383KSr+DiDzOElLkfXhU=",
+          "cp310"
+        ],
+        "stringmetrics-2.0.0-cp310-none-win_amd64.whl": [
+          "OpIN59LV+34zlce2SADmKX5gPfkPaOAFDhF1EySyZrw=",
+          "cp310"
+        ],
+        "stringmetrics-2.0.0-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "FlqLjRC8H17aD1nhU3KIrlfVmE2nvim0at3kyOwCNsk=",
+          "cp37"
+        ],
+        "stringmetrics-2.0.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "If3iMWPTQ00TE7A/hSz+BN6IMyO2lyIjn+DkbRvOCm0=",
+          "cp37"
+        ],
+        "stringmetrics-2.0.0-cp37-none-win_amd64.whl": [
+          "raX1Vq8hG1B5FeH84oIA9Y+i3my4qB+GWZNNCgJqVbE=",
+          "cp37"
+        ],
+        "stringmetrics-2.0.0-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "EcaraPhMxPUIgC4f8WGVpynY8otS6Fd5U5zrEMJ6Y9E=",
+          "cp38"
+        ],
+        "stringmetrics-2.0.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "CC/QP6ql3HQ41n+8Jd21OU+UjcfLSoV6ivCDxZLM60Q=",
+          "cp38"
+        ],
+        "stringmetrics-2.0.0-cp38-none-win_amd64.whl": [
+          "WjDfqmXnjGAzRz7rcbSW5k6Nd8CEczzyu1/dTjHcxzQ=",
+          "cp38"
+        ],
+        "stringmetrics-2.0.0-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "+jrA+d0nnC3/SeCnCnZH5YZep/JS6fQJDW5QgTVLu2g=",
+          "cp39"
+        ],
+        "stringmetrics-2.0.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "L3xNaM22PJuX8JLrDDGnseoN03LoZbkVsIFdOTyitbQ=",
+          "cp39"
+        ],
+        "stringmetrics-2.0.0-cp39-none-win_amd64.whl": [
+          "BfIQ9vKM06x5lBvSLOujnrGYL0avw+xf9k0NqlKlWjU=",
+          "cp39"
+        ],
+        "stringmetrics-2.0.0-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "Q6GthFJiYF4wN/5VK+eb9D16EgKNms73B8WAkAxfCnI=",
           "pp37"
         ]
       }
