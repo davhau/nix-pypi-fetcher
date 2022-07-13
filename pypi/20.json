@@ -18863,6 +18863,12 @@
         "dH1M7VwHl+KrHT4AoDsxLbI+fsZRBhSPxjvuwlu7pQ8=",
         "circuitbreaker-1.3.2.tar.gz"
       ]
+    },
+    "1.4.0": {
+      "sdist": [
+        "gLe9qAPZog5WhFPrJvNTDNm/YC1kFPb/anTGEWAzltI=",
+        "circuitbreaker-1.4.0.tar.gz"
+      ]
     }
   },
   "cisu-python": {
@@ -63844,6 +63850,26 @@
         ],
         "idyntree-5.2.2.dev5-cp39-cp39-manylinux_2_24_x86_64.whl": [
           "hgoZjvfGvEnb7fMhSukUhySJriwXlrDpwVx81sXv+eM=",
+          "cp39"
+        ]
+      }
+    },
+    "5.2.2.dev7": {
+      "sdist": [
+        "lFdYGVGPW23s7R7r5FihjyKf9/JyClyoy5V3j/tHkaI=",
+        "idyntree-5.2.2.dev7.tar.gz"
+      ],
+      "wheels": {
+        "idyntree-5.2.2.dev7-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "futSw6aQrly4PcHQoaPuPM3pChsSCKiLGe2izpF12nw=",
+          "cp37"
+        ],
+        "idyntree-5.2.2.dev7-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "XINl1x/DE66tDEZ06r9BwDH/isrfXWvmk0cxistO8UY=",
+          "cp38"
+        ],
+        "idyntree-5.2.2.dev7-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "EvIAw2Hbv7j0SpmpAiX3HDHvT4mTw75U9KunMavgxEk=",
           "cp39"
         ]
       }
@@ -133540,6 +133566,14 @@
         "upolygon-0.1.7.tar.gz"
       ],
       "wheels": {
+        "upolygon-0.1.7-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "fIS4MKV0ku9Fd++qlyS3ygQXU6TLG/4DiMs4dTkA238=",
+          "cp310"
+        ],
+        "upolygon-0.1.7-cp310-cp310-win_amd64.whl": [
+          "lgjN7sWW50rBReIYBWCUODvwQqU4LswY4eFw03ueQ2s=",
+          "cp310"
+        ],
         "upolygon-0.1.7-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
           "1FIVSGUQ/kIAbEYZyCQN30/Wk9lLZEZSMJHp50dCucw=",
           "cp36"
@@ -133566,6 +133600,66 @@
         ],
         "upolygon-0.1.7-cp39-cp39-win_amd64.whl": [
           "qwN1c568c8ryaVyov+ueVwW2hVickz8Cuyr235PX7rw=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "JmKeJU4ty6Z+lLUaiw+pnWgD2Qa2UxX/se26F6egatI=",
+        "upolygon-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "upolygon-0.1.8-cp310-cp310-macosx_10_15_universal2.whl": [
+          "X7jj9OzdSsdmyZdMbmA0AKFIBBAF0YBu6mvL/L0QZgQ=",
+          "cp310"
+        ],
+        "upolygon-0.1.8-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "D8kRePfm57goTUJMvvZ48mzrCBjzzFut+cR6xOtP7/I=",
+          "cp310"
+        ],
+        "upolygon-0.1.8-cp310-cp310-win_amd64.whl": [
+          "F/NdioStev0tDxmIztn14B+ohIzhYJflQpROEfRQBsg=",
+          "cp310"
+        ],
+        "upolygon-0.1.8-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "PNIw3IKi80Z6bCpGxiGnuzGG5o6GKwltQmXkVYWAGWQ=",
+          "cp36"
+        ],
+        "upolygon-0.1.8-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "fJw75JFdMxDfNNSPuMexzEQJCZ6CoyVU2zL718Hykx4=",
+          "cp37"
+        ],
+        "upolygon-0.1.8-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "0t6hauaz5VSLDxt5SEPDJYbigxx4dvpfJ4uxfkTiDmE=",
+          "cp37"
+        ],
+        "upolygon-0.1.8-cp37-cp37m-win_amd64.whl": [
+          "ABehdrY61TbXBNjQBB7KMjC3a4ddpSiq5slQ76SbpTA=",
+          "cp37"
+        ],
+        "upolygon-0.1.8-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "s2y4FZ7bLSFNzDQwwE2tWOQ25p8+NoW6pHfbNd/9oRA=",
+          "cp38"
+        ],
+        "upolygon-0.1.8-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "ASyb/+rvNKuBMOzJaOz2qoFRKavxBbvqZG4b1+jK6fM=",
+          "cp38"
+        ],
+        "upolygon-0.1.8-cp38-cp38-win_amd64.whl": [
+          "dv6YScr5ISI2X7Sa1zkpuMqdeaGgfjqVPxBnEX4BozA=",
+          "cp38"
+        ],
+        "upolygon-0.1.8-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "186z5FhxI00ZiDcvVETGPo4V99KPWUxB5EGa/5Y3jXM=",
+          "cp39"
+        ],
+        "upolygon-0.1.8-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "xH+rBXsfaSSUEXfAvOEsdZl00J3cK/kTTU35P7uuSOQ=",
+          "cp39"
+        ],
+        "upolygon-0.1.8-cp39-cp39-win_amd64.whl": [
+          "QN5gcKqLa+2+DGOEglk2Qjo0I2Mh4LjLlEG9zOG89dY=",
           "cp39"
         ]
       }
@@ -135754,6 +135848,14 @@
       "wheels": {
         "vmn-0.7.2-py3-none-any.whl": [
           "F8dJOgR7/D3FdQGwuQIFiNUym0y0wCLNbCBinphzKf0=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.3rc2": {
+      "wheels": {
+        "vmn-0.7.3rc2-py3-none-any.whl": [
+          "OQMeKawK/x23pK8bnWltq5/vuFdiZ2xLELs09Mgl4m4=",
           "py3"
         ]
       }

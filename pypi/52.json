@@ -26285,6 +26285,14 @@
           "py3"
         ]
       }
+    },
+    "0.16.0.dev20220713163204": {
+      "wheels": {
+        "cirq_aqt-0.16.0.dev20220713163204-py3-none-any.whl": [
+          "Xn4j8+G70HyBL9T/3ivOqkfXW4mLQaCYctrYkIv9lak=",
+          "py3"
+        ]
+      }
     }
   },
   "ckanext-userautoadd": {
@@ -49338,6 +49346,14 @@
       "wheels": {
         "drf_writable_nested-0.6.3-py3-none-any.whl": [
           "uW0wrKlT9NujE7tWl9pAIkcNxj+y2+aMk9ONOJ7GOsI=",
+          "py3"
+        ]
+      }
+    },
+    "0.6.4": {
+      "wheels": {
+        "drf_writable_nested-0.6.4-py3-none-any.whl": [
+          "4yJO3Kr4bMQ6Hg2OLzmu1C5lG0WrAQba3wLwevOAZiY=",
           "py3"
         ]
       }
@@ -81636,6 +81652,14 @@
       "wheels": {
         "model_hub-0.18.3rc8-py3-none-any.whl": [
           "nWWnWajaAtAg7D7b20uOZStNreDHNUuQaXhgBD7IeQI=",
+          "py3"
+        ]
+      }
+    },
+    "0.18.4rc0": {
+      "wheels": {
+        "model_hub-0.18.4rc0-py3-none-any.whl": [
+          "8HmzfJrSFyg85sqvm2utsI9DaW85yms2wRQ1Jj7sXn4=",
           "py3"
         ]
       }
@@ -148390,6 +148414,30 @@
         ]
       }
     },
+    "0.10.7": {
+      "sdist": [
+        "c+cNOUpzWvAQRuu0867e6CNpUdgRAxXB6blpDKuFmUE=",
+        "thornpy-0.10.7.tar.gz"
+      ],
+      "wheels": {
+        "thornpy-0.10.7-py3-none-any.whl": [
+          "lurfP1+2Zv+5fW6283Aa/fugXSV4KJDWLR6tHm/Eo0U=",
+          "py3"
+        ]
+      }
+    },
+    "0.10.8": {
+      "sdist": [
+        "9/z35b62wyt0ezy84E3vonlDrD6Wzk4foeEOY3vCOic=",
+        "thornpy-0.10.8.tar.gz"
+      ],
+      "wheels": {
+        "thornpy-0.10.8-py3-none-any.whl": [
+          "YPI8rhcVzMrs3JCMGoFkpzslcTwUGAHAAULIMZ63efE=",
+          "py3"
+        ]
+      }
+    },
     "0.2.10": {
       "sdist": [
         "Xy63nth6vl4DtbCvIHffphXI/w4/LGEf3JBh1WRjQ3o=",
@@ -151480,62 +151528,6 @@
         ],
         "torcharrow-0.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "0F6lamVYTLDoQSk0PKES2ulUYtJc2GbCAeKLPBX1+PM=",
-          "cp39"
-        ]
-      }
-    },
-    "0.1.0a0.dev20220705": {
-      "wheels": {
-        "torcharrow-0.1.0a0.dev20220705-cp310-cp310-macosx_10_15_universal2.whl": [
-          "RtX5vdoEFFBymxKDaxatYpcyh12HPt3S8l0CvKurJjk=",
-          "cp310"
-        ],
-        "torcharrow-0.1.0a0.dev20220705-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "6exw6xLysIIrcb1ucm3OFRuYafeybbf+jtprmt9q6dg=",
-          "cp37"
-        ],
-        "torcharrow-0.1.0a0.dev20220705-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "eawKsDKTtPp2Y6K7GANva23uq46pPk0e/EKuWBOts1E=",
-          "cp38"
-        ],
-        "torcharrow-0.1.0a0.dev20220705-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "zrPVRP7KEw0nm1hcEx2WfeK/Ysi4THLhh4tNB6EkBoc=",
-          "cp39"
-        ]
-      }
-    },
-    "0.1.0a0.dev20220712": {
-      "wheels": {
-        "torcharrow-0.1.0a0.dev20220712-cp310-cp310-macosx_10_15_universal2.whl": [
-          "4xwSydFPiVaocnpapvLGuiGHx8qk2acdBzbjZ2TOSAE=",
-          "cp310"
-        ],
-        "torcharrow-0.1.0a0.dev20220712-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "RPGj4gavsNxFpo8LgJSU4NvhMrUpi2MoNsZ9d3+dPSQ=",
-          "cp310"
-        ],
-        "torcharrow-0.1.0a0.dev20220712-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "p4xy5neYsKSLfElSYA2M72fURNBbONLPDobmagusN8o=",
-          "cp37"
-        ],
-        "torcharrow-0.1.0a0.dev20220712-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "9rlRFEXMama5rvpst7csDq/SC2yLw7wwRkzUZDvXpJE=",
-          "cp37"
-        ],
-        "torcharrow-0.1.0a0.dev20220712-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "pK+VMYKmWRNtyNPmmJa8yq/zcmDD525xzbs2mFnQVdw=",
-          "cp38"
-        ],
-        "torcharrow-0.1.0a0.dev20220712-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "0z6seup8ar8NAHd+XufXuWOR322/rPRj/peSpvIqu70=",
-          "cp38"
-        ],
-        "torcharrow-0.1.0a0.dev20220712-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "8KbJ9h9wy92Jf33J7jj6H3vrn9jv8B+Y/k7rTdKvpDY=",
-          "cp39"
-        ],
-        "torcharrow-0.1.0a0.dev20220712-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "uim0VsT62duMs954SpyMDEbvKYF8KIsPIM+M+/Mj7Ms=",
           "cp39"
         ]
       }
