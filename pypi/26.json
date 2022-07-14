@@ -37569,6 +37569,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "ccWbkXBg9aHcId+l3l4j2TwkF+DTq8X22R9Exktjsw8=",
+        "dotfile_manager-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "dotfile_manager-0.2.0-py3-none-any.whl": [
+          "EeSXr7arW43K/STLcHfJRJaamjy22YWNhwrBJFVaZWQ=",
+          "py3"
+        ]
+      }
     }
   },
   "dp-tms": {
@@ -38031,6 +38043,22 @@
         "dplus_api-4.3.8-cp37-cp37m-win_amd64.whl": [
           "+nzQ1nr4iyuCrVEV2Yz6xisS7RJRJSUGhbyd7C0Tu1U=",
           "cp37"
+        ]
+      }
+    },
+    "4.6.0": {
+      "wheels": {
+        "dplus_api-4.6.0-cp310-cp310-win_amd64.whl": [
+          "lr+wPaEs0dH1gDGAV8n1PYyg8GfK0M9NxmcxNevy5bM=",
+          "cp310"
+        ],
+        "dplus_api-4.6.0-cp38-cp38-win_amd64.whl": [
+          "OxSm5kjcal5+oe99iby1YD4D9wixl0SxoEPTDG8ZL+Q=",
+          "cp38"
+        ],
+        "dplus_api-4.6.0-cp39-cp39-win_amd64.whl": [
+          "0q3x1BAo32cAi4NwsGfoW7fcCA4dlTvAe1rD7iTR+9k=",
+          "cp39"
         ]
       }
     }
@@ -66064,122 +66092,14 @@
     }
   },
   "mantik": {
-    "0.3.0": {
+    "0.1.0": {
       "sdist": [
-        "fraZ2lC7S2oSdZJ9VJixLDRQra4HKii2t0JgOeJ2L60=",
-        "mantik-0.3.0.tar.gz"
+        "IcLEfiuLMf06axgc6hHNqkCur+P8Zlf84n7y2vL5jTc=",
+        "mantik-0.1.0.tar.gz"
       ],
       "wheels": {
-        "mantik-0.3.0-py3-none-any.whl": [
-          "geosNsfzz0gwsE6ZTawETpUKcdLYs86XomPCIaiUH54=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0.dev10": {
-      "sdist": [
-        "pVnrH3UyQ3AUdqed5bSUOTncnYvOZ+M1lcHJmydo4TE=",
-        "mantik-0.3.0.dev10.tar.gz"
-      ],
-      "wheels": {
-        "mantik-0.3.0.dev10-py3-none-any.whl": [
-          "hCgd3edslGF39pGzi/exIHPQmfTVL/FdgpH/fPUrRGU=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0rc2": {
-      "sdist": [
-        "ExDyX0U6oAssa1TnSW0ZjKUz8y1gcFQ520vxLgn19hE=",
-        "mantik-0.3.0rc2.tar.gz"
-      ],
-      "wheels": {
-        "mantik-0.3.0rc2-py3-none-any.whl": [
-          "i1pQoHXuGUjxUFwIgYbRBWbZJ74zHVucLXwlFSZhdIc=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0rc3": {
-      "sdist": [
-        "Bb3BgdjJGrfm4uDLoq2QDlDpK0UX2d+NOjhi59sfkZ8=",
-        "mantik-0.3.0rc3.tar.gz"
-      ],
-      "wheels": {
-        "mantik-0.3.0rc3-py3-none-any.whl": [
-          "x/HsGQRJ/13oLuxpTa4ZgI68guaEQU345Qr6UC6VL7U=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0rc4": {
-      "sdist": [
-        "MNJboqgvFl3FtMq2MFJ1rH/ZVrhORXuJu2Wmtk4R0Jc=",
-        "mantik-0.3.0rc4.tar.gz"
-      ],
-      "wheels": {
-        "mantik-0.3.0rc4-py3-none-any.whl": [
-          "kjF94xpbYP3dIm+sx5ls/NUGLuGybjrbQ5D51xsSe1c=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.0rc6": {
-      "sdist": [
-        "0Yd/YBEMwNXm+brvaANJtop9EHisnjm7JRW9EsbxAZQ=",
-        "mantik-0.3.0rc6.tar.gz"
-      ],
-      "wheels": {
-        "mantik-0.3.0rc6-py3-none-any.whl": [
-          "AvJbQen6IIebTf82tGZYMnABD5DrF0EAvfITA9jI+H8=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.1rc1": {
-      "sdist": [
-        "kYciEM8kr2RdSFo4tt+8Ev8AOvcmdHiXY7/19NsAVJ8=",
-        "mantik-0.3.1rc1.tar.gz"
-      ],
-      "wheels": {
-        "mantik-0.3.1rc1-py3-none-any.whl": [
-          "UaIwfvndahPWBVcFyYO3BDy+OCEj3l7vKPcutVDxwM0=",
-          "py3"
-        ]
-      }
-    },
-    "0.3.1rc2": {
-      "sdist": [
-        "HOEQQ9IjqqUtYEzs4rhLb7AdV4ncdwe4+r8GZK9rIkA=",
-        "mantik-0.3.1rc2.tar.gz"
-      ],
-      "wheels": {
-        "mantik-0.3.1rc2-py3-none-any.whl": [
-          "WVVrSetp+A/o45aiYUsCNujsXKCNw/iQLiyM+PRFX6Q=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0": {
-      "sdist": [
-        "Ln1aQib9ZpkhtRJf3JT5uBsQDxjwRoJoATbZPvuUa5s=",
-        "mantik-0.4.0.tar.gz"
-      ],
-      "wheels": {
-        "mantik-0.4.0-py3-none-any.whl": [
-          "9bva+/bvQv92cbibfNg6LYqjSV2ff/EFPuwcM7vhgo0=",
-          "py3"
-        ]
-      }
-    },
-    "0.4.0rc1": {
-      "sdist": [
-        "NIOUhW0z+bJ9R8EnSpFYPV9qRHNkhjKovgYIBJbj7FU=",
-        "mantik-0.4.0rc1.tar.gz"
-      ],
-      "wheels": {
-        "mantik-0.4.0rc1-py3-none-any.whl": [
-          "CVrwxdE99lo/i4LhgB2c3TkhMgh72veqsY3XOFKwiRs=",
+        "mantik-0.1.0-py3-none-any.whl": [
+          "PMfQXgntHv5gRonL31Yidgt3LaXDdTGhvVWKtgLoKRI=",
           "py3"
         ]
       }
@@ -90414,6 +90334,18 @@
       "wheels": {
         "pex-2.1.98-py2.py3-none-any.whl": [
           "pK4s18GfIdu5GzULWP0d1HSyVxY5qbsZAqgFo40YhaM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.1.99": {
+      "sdist": [
+        "P+r0JOSVwIVWkQROvsbpUocwB4x0HrVyy9oY9CdNj6s=",
+        "pex-2.1.99.tar.gz"
+      ],
+      "wheels": {
+        "pex-2.1.99-py2.py3-none-any.whl": [
+          "ueehBwxPYWuRFOEEdenEnz/5MyeJ5YHt9LVkauR30LE=",
           "py2.py3"
         ]
       }
