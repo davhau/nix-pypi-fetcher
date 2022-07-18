@@ -14010,6 +14010,18 @@
         ]
       }
     },
+    "2.0.84": {
+      "sdist": [
+        "LQE8YQemmCCrLYQgnQNOxyIsVZV4oUkhDZ2LCQl2TKM=",
+        "cdk-fargate-run-task-2.0.84.tar.gz"
+      ],
+      "wheels": {
+        "cdk_fargate_run_task-2.0.84-py3-none-any.whl": [
+          "8WW0prkQt0II+d+5bRL9TyeeXqtL43/JaUWizIEYycw=",
+          "py3"
+        ]
+      }
+    },
     "2.0.9": {
       "sdist": [
         "He+YYXVHMrtEls2vsmZs87HnyEw+RDYj5d0PGBWb3e4=",
@@ -34724,8 +34736,16 @@
           "urJ63FGtlwGZBzvWsmWDmj82wJecymF0yAj+EFxz3Ek=",
           "cp310"
         ],
+        "duckdb-0.4.1.dev752-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "NjaxqDsKdkieh6wZdJZ0htapWvJBfIK8pRWz9G4Y2AQ=",
+          "cp310"
+        ],
         "duckdb-0.4.1.dev752-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "s5vvND+HdTcqeUzZVbs8DM7rHZkEEql5jLniIpNN49c=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev752-cp310-cp310-musllinux_1_1_i686.whl": [
+          "v611QPQAecgq2+hpemUQsj3vA1LR6Sfvkb0MJJ9IUj8=",
           "cp310"
         ],
         "duckdb-0.4.1.dev752-cp310-cp310-musllinux_1_1_x86_64.whl": [
@@ -35226,6 +35246,42 @@
       "wheels": {
         "easyencryption-0.1.0-py3-none-any.whl": [
           "VSsyUNBvyslMAj7mZM+tw3zl8w1jIBnB3DPw7vn+OGg=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "bdCEQ6UtoQCTn/O2XRQsrz842GCzZAX2lQnyihU/OEE=",
+        "easyencryption-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "easyencryption-0.1.1-py3-none-any.whl": [
+          "dNLmaH9a6oVPZR0jSGxlXnEh4x+/1alu4tk7bZhe5/M=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "XJj89YQ9wCinQok9j1ZFBI/dFvx7kg4CkNOKSZE2nyI=",
+        "easyencryption-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "easyencryption-0.1.2-py3-none-any.whl": [
+          "wyvwrY+Z6bTKVDvJCp+H7d+zDbHOdbrN7Aqm+gJaDPo=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "8QqcZirM8wRDeeSm/Tu1j4fP5dzQC8pE6LPLbP15izo=",
+        "easyencryption-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "easyencryption-0.1.3-py3-none-any.whl": [
+          "Z/CwLzPCdo8GOR+EN1YGX4Vnerbpb6O9FBvo2UT6igI=",
           "py3"
         ]
       }
@@ -72550,6 +72606,18 @@
         ]
       }
     },
+    "0.0.178": {
+      "sdist": [
+        "QlkQECRX7zvBi4gUujGDNCrCZWooC2vhKR2isyBBRrY=",
+        "nbdev-pandas-0.0.178.tar.gz"
+      ],
+      "wheels": {
+        "nbdev_pandas-0.0.178-py3-none-any.whl": [
+          "3Ym0qndO+hhoQ1XY5RIPVfMKpQ32ObwqFKrxd2OYiCY=",
+          "py3"
+        ]
+      }
+    },
     "0.0.18": {
       "sdist": [
         "9L2phnWOT6lji+D9eXC/0Kbgqpn6DPEnMsFiGd6R/FM=",
@@ -83672,6 +83740,54 @@
       "wheels": {
         "plotly_resampler-0.8.0rc1-cp310-cp310-manylinux_2_35_x86_64.whl": [
           "Hl82kGZ9sYOhEf60ZnBp3a4Q2zI0613NDkXukOANZuE=",
+          "cp310"
+        ]
+      }
+    },
+    "0.8.0rc2": {
+      "sdist": [
+        "095tk56gMgcc6BVIYGzHM71IYyXdoSn/rzB9LYeO/oE=",
+        "plotly-resampler-0.8.0rc2.tar.gz"
+      ],
+      "wheels": {
+        "plotly_resampler-0.8.0rc2-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "6ZaNfK5XnpysEnwqUMUXVeOcJ7lScpMMWAyt9rmE028=",
+          "cp310"
+        ]
+      }
+    },
+    "0.8.0rc3": {
+      "sdist": [
+        "fFbjk2qk4LnxT8TgYC3sSJlDm7pgYS74395F2HtcScE=",
+        "plotly-resampler-0.8.0rc3.tar.gz"
+      ],
+      "wheels": {
+        "plotly_resampler-0.8.0rc3-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "W6yVDDsGBkjdR2AgbTdYwkUztn3/BzhwCIQcCGdTkyc=",
+          "cp310"
+        ]
+      }
+    },
+    "0.8.0rc4": {
+      "sdist": [
+        "EASfufCYLAbc04pLrimUKSiIfXU1wKoykXp7TXKXmsw=",
+        "plotly-resampler-0.8.0rc4.tar.gz"
+      ],
+      "wheels": {
+        "plotly_resampler-0.8.0rc4-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "Tpr46qC0mWzEbEqYB9xABmZOyrCXHg3HocbxtDDG8GY=",
+          "cp310"
+        ]
+      }
+    },
+    "0.8.0rc5": {
+      "sdist": [
+        "jLYxZ715ZNVWbPaewylc1zgsY+g9xa1zc9FE4vW+hX0=",
+        "plotly-resampler-0.8.0rc5.tar.gz"
+      ],
+      "wheels": {
+        "plotly_resampler-0.8.0rc5-cp310-cp310-manylinux_2_35_x86_64.whl": [
+          "zhIfKErNMm+kQ2n1nhptra73ns783IsoYc5Bu1NHhAk=",
           "cp310"
         ]
       }
@@ -131415,6 +131531,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.679": {
+      "sdist": [
+        "HFXIeCLAQOcuVxu0tesKD6ydfK5QkaGspQRHGIPWrhI=",
+        "tencentcloud-sdk-python-dbdc-3.0.679.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dbdc-3.0.679-py2.py3-none-any.whl": [
+          "ZlytWtjbD7Losjno0Ne0AkUUzgug3s0JzdDDN2uWgtg=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-tem": {
@@ -134894,6 +135022,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tem-3.0.678-py2.py3-none-any.whl": [
           "chzN/dE5RuoChRT3qLjIlh9rzrbs0vI+B1cc7Z+OR0Y=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.679": {
+      "sdist": [
+        "Pr52/xCMSc/0ZXN7mrYxDv5Z3o/DpgK8wh3atVXhqQ4=",
+        "tencentcloud-sdk-python-tem-3.0.679.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tem-3.0.679-py2.py3-none-any.whl": [
+          "DlRvU4FtwVQC/E2IyycA8D2/9SSl5bnYY4hk2ia1qGk=",
           "py2.py3"
         ]
       }
