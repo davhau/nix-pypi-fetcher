@@ -9392,6 +9392,18 @@
         ]
       }
     },
+    "1.165.0": {
+      "sdist": [
+        "omuNOD+0GbjZ43CXy72d8uKxfTNSEZt15C5SkAhk+os=",
+        "aws-cdk.aws-backup-1.165.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_backup-1.165.0-py3-none-any.whl": [
+          "TeyhlE3pvwCw4xmsaImXMUzv7FQTHI2JjRdVS/3Rttk=",
+          "py3"
+        ]
+      }
+    },
     "1.17.0": {
       "sdist": [
         "CFVR6QRyi42WEg5FxHROVaVg51qiVTHH8BwLwbQv3MM=",
@@ -23005,6 +23017,20 @@
       }
     }
   },
+  "ctitools": {
+    "0.1.0": {
+      "sdist": [
+        "o2tohiR69iHHWw/Ljf/pCEk5Y52alp7e34ndHkUw99M=",
+        "ctitools-0.1.0.tar.gz"
+      ],
+      "wheels": {
+        "ctitools-0.1.0-py3-none-any.whl": [
+          "+EDQ1BenWo57vSB1djhCfAm1Sj8aOqYV8XuHhvJ6c9s=",
+          "py3"
+        ]
+      }
+    }
+  },
   "cuckoo3-processing": {
     "0.0.1": {
       "wheels": {
@@ -32304,6 +32330,18 @@
       "wheels": {
         "django_fmd-0.1.3-py3-none-any.whl": [
           "12Yw3zOTHXlA3bZYZ3HxMj00YBoCd0GM2nzguFSqSRw=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "q81zbbKLonO1cnUWvu90nyCDZrw4nnYnON4IiPlw9N8=",
+        "django-fmd-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "django_fmd-0.2.0-py3-none-any.whl": [
+          "WJ9cizg3inzF76EBlfeyuLyry4r+w/B4N67v/GrscLg=",
           "py3"
         ]
       }
@@ -64279,6 +64317,26 @@
           "cp39"
         ]
       }
+    },
+    "6.0.0": {
+      "sdist": [
+        "1Ple73g+sxuKMtse44V6zujgKA99cXuletYHyXknDqU=",
+        "idyntree-6.0.0.tar.gz"
+      ],
+      "wheels": {
+        "idyntree-6.0.0-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "AS31dfDEh7O/8kqPKMSydkI9F/+pgiisRuW4vvHmkEI=",
+          "cp37"
+        ],
+        "idyntree-6.0.0-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "B82G6O5RzQ+O7/xlqe1JeeAFSCu6QXzDk6wkABhbrtQ=",
+          "cp38"
+        ],
+        "idyntree-6.0.0-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "Lu/x1DkCPa1L+fUf000xjIKBfHBJSB1KsTP/BQhbMnM=",
+          "cp39"
+        ]
+      }
     }
   },
   "ifparser": {
@@ -67480,6 +67538,118 @@
         ],
         "jij_cimod-1.4.22-cp39-cp39-win_amd64.whl": [
           "JKGCMfYdlipp8hyrdmJJWpqFJZXcBOq/XvNM/McQN1o=",
+          "cp39"
+        ]
+      }
+    },
+    "1.4.24": {
+      "sdist": [
+        "AjD1hBtV3qNdME9D10VW5iwNSd2YTB1oOjCUOjJ3pdA=",
+        "jij_cimod-1.4.24.tar.gz"
+      ],
+      "wheels": {
+        "jij_cimod-1.4.24-cp310-cp310-macosx_10_16_x86_64.whl": [
+          "MBKIo8GIgDE+3ldQbaF7dwsaBs8g83kEHpQYw/4DJA4=",
+          "cp310"
+        ],
+        "jij_cimod-1.4.24-cp310-cp310-macosx_11_0_arm64.whl": [
+          "OP68x/TDOZVManfS5k6QeEeLvx88ZZR+Pq2qSI9MBeI=",
+          "cp310"
+        ],
+        "jij_cimod-1.4.24-cp310-cp310-macosx_11_0_x86_64.whl": [
+          "n1InyqmngjFepWGCyOAsXtYRucU1FTNuCixVvBc9B80=",
+          "cp310"
+        ],
+        "jij_cimod-1.4.24-cp310-cp310-manylinux_2_28_aarch64.whl": [
+          "5a67NFpq8KZ/IWLHBO4c8WxGZtgGHSyJ4YayJswz8qQ=",
+          "cp310"
+        ],
+        "jij_cimod-1.4.24-cp310-cp310-manylinux_2_28_x86_64.whl": [
+          "GToZV06c1iOt/hVl72rDMqa6Ykp+PChWrJtxoYlEhAE=",
+          "cp310"
+        ],
+        "jij_cimod-1.4.24-cp310-cp310-win_amd64.whl": [
+          "p+CLnn8EKhin5K+m3lI6PbI9gDXLwHiLKu0dI9bMOhw=",
+          "cp310"
+        ],
+        "jij_cimod-1.4.24-cp37-cp37m-macosx_10_16_x86_64.whl": [
+          "CxPyCw70mThcX5MMzlUKrgJAImQVgngIEIoxjaPzDos=",
+          "cp37"
+        ],
+        "jij_cimod-1.4.24-cp37-cp37m-macosx_11_0_x86_64.whl": [
+          "CkXzjWqZq4IV9MghE0GIVs2r6AooKsBCYQlQuE59QIk=",
+          "cp37"
+        ],
+        "jij_cimod-1.4.24-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OP+Ms9wqCyorYSBk5DiyMTO2MQ9m9pzXCEVmNKP5R58=",
+          "cp37"
+        ],
+        "jij_cimod-1.4.24-cp37-cp37m-manylinux_2_28_aarch64.whl": [
+          "v59wQLfXZkqJ9B0mzA/GfrXYIRJj4XydWSUcsZBWpDk=",
+          "cp37"
+        ],
+        "jij_cimod-1.4.24-cp37-cp37m-manylinux_2_28_x86_64.whl": [
+          "t1r+8ppYPe98/OmqZ/9EKRQDPDuQOhBcI7njJfs+r7k=",
+          "cp37"
+        ],
+        "jij_cimod-1.4.24-cp37-cp37m-win_amd64.whl": [
+          "kr1w4pg7tHIugUHOPoamvq/oMQb1Og0+6wQLgbDw840=",
+          "cp37"
+        ],
+        "jij_cimod-1.4.24-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "zPH5mgmn/rgP37tRVVeeALx1ywhaM8wQfApwyilAWJc=",
+          "cp38"
+        ],
+        "jij_cimod-1.4.24-cp38-cp38-macosx_11_0_arm64.whl": [
+          "qlVdiTBeNu8rhs8RlvLyfZp2tQ1rytduxtbobxcGG7Q=",
+          "cp38"
+        ],
+        "jij_cimod-1.4.24-cp38-cp38-macosx_11_0_x86_64.whl": [
+          "IWiWq/WhvbSBA+rrjP2+AhMV5qoCx0aMXjqNr+plnoI=",
+          "cp38"
+        ],
+        "jij_cimod-1.4.24-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "SNQhlR4swPcbl+FWo8QEgTBWOOqexlZxCDxTap4Mlcc=",
+          "cp38"
+        ],
+        "jij_cimod-1.4.24-cp38-cp38-manylinux_2_28_aarch64.whl": [
+          "JQxdb5QGjRjzChrhb9xT7njtotSrfwd/LvfRBeG8JpY=",
+          "cp38"
+        ],
+        "jij_cimod-1.4.24-cp38-cp38-manylinux_2_28_x86_64.whl": [
+          "h3H5FKmCaYRfcTriFg0XYba12R8zQkUue9wFb8c1PiU=",
+          "cp38"
+        ],
+        "jij_cimod-1.4.24-cp38-cp38-win_amd64.whl": [
+          "pw3TpW85nt8McJawc+A8KUZ1dv6V/Rrf+t5P6kg3X0o=",
+          "cp38"
+        ],
+        "jij_cimod-1.4.24-cp39-cp39-macosx_10_16_x86_64.whl": [
+          "kLB1atBzJ6gxYDrjdT3G8srQAQ9+2OY4tmiPd1O0haM=",
+          "cp39"
+        ],
+        "jij_cimod-1.4.24-cp39-cp39-macosx_11_0_arm64.whl": [
+          "NzVmCPRARpx+66+zj8oxiSedeHJ5h16nNmMqzZPb/bo=",
+          "cp39"
+        ],
+        "jij_cimod-1.4.24-cp39-cp39-macosx_11_0_x86_64.whl": [
+          "JAblGLU5i1yhIPMCLrdhuZBrVs/uOmtp5iDLPFnKUnI=",
+          "cp39"
+        ],
+        "jij_cimod-1.4.24-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IWZBEJuxb2VWe3G4DCXnHPjF3BQglXCmhvHUbz30a0U=",
+          "cp39"
+        ],
+        "jij_cimod-1.4.24-cp39-cp39-manylinux_2_28_aarch64.whl": [
+          "gE1Y4YTFgmQryVusyMtCMNtyQgbCERhX4w5D+YTi9As=",
+          "cp39"
+        ],
+        "jij_cimod-1.4.24-cp39-cp39-manylinux_2_28_x86_64.whl": [
+          "rO3r6mwxgaNqNkSqeoo7I/E6DiuS7rguBxU72XwopYY=",
+          "cp39"
+        ],
+        "jij_cimod-1.4.24-cp39-cp39-win_amd64.whl": [
+          "NVXGYBNwiaCoU2vCdm7mEC3JZaK3igI/FK5KGvGOygo=",
           "cp39"
         ]
       }
@@ -84519,6 +84689,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.1.0.2": {
+      "wheels": {
+        "odoo14_addon_spec_driven_model-14.0.1.0.2-py3-none-any.whl": [
+          "gWQhbvT/HXsGJC89xGdmt+7Xfug6sH5PlCqq+OQV1oM=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo14-addon-stock-inventory-include-exhausted": {
@@ -85576,6 +85754,66 @@
       "wheels": {
         "ofsc-1.16-py3-none-any.whl": [
           "BtySSi7XZTyYli+9nTN+WtDqz5a8givHsdCaUFrDGjs=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.1": {
+      "sdist": [
+        "1ef+is0TbWCo5oS5TaxPgSQer7nkaCP6cRG4Pmf0uSU=",
+        "ofsc-1.16.1.tar.gz"
+      ],
+      "wheels": {
+        "ofsc-1.16.1-py3-none-any.whl": [
+          "+jqUzdTXGNbNzC755aKDiXh6nSz2aNpTLwb1AWx5hGI=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.2": {
+      "sdist": [
+        "xnC7e9JcQQCLxUrEdofLLDL3B7toDe6DVmOt+gVPUoA=",
+        "ofsc-1.16.2.tar.gz"
+      ],
+      "wheels": {
+        "ofsc-1.16.2-py3-none-any.whl": [
+          "u1ND+tx1BpE10gMqF90NpmfUmy0H75jfhipc/fCYrKI=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.5": {
+      "sdist": [
+        "mUc5EF9GyKiGTyzPtz2NpaS0FE4LQEYGpmwSqutIR1w=",
+        "ofsc-1.16.5.tar.gz"
+      ],
+      "wheels": {
+        "ofsc-1.16.5-py3-none-any.whl": [
+          "Iu9y7Pp5E8yZhoXVZiDc6qVhlvh/iAkmhPLds12CcN4=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.5.1": {
+      "sdist": [
+        "JYsjGF47fllW2Nni07IGYZXFLutl7xyd3inclw+/jD4=",
+        "ofsc-1.16.5.1.tar.gz"
+      ],
+      "wheels": {
+        "ofsc-1.16.5.1-py3-none-any.whl": [
+          "93443JuBLlqBNGTqJwELj8s1Msqe7TDW3MWiTn1KlXM=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.5.2": {
+      "sdist": [
+        "nZTF9V0Xzjp3wnH1vkmJgc2D1UTrnQZYu3zEs6VerkI=",
+        "ofsc-1.16.5.2.tar.gz"
+      ],
+      "wheels": {
+        "ofsc-1.16.5.2-py3-none-any.whl": [
+          "tf4CBv8Hx3bNoSnf/arTAwapyCE+mjTWAmI7VoVZE2s=",
           "py3"
         ]
       }
@@ -126906,6 +127144,32 @@
       "wheels": {
         "stepng-1.0.3-py3-none-any.whl": [
           "E4qYkNMES7O5IogvSRd97RjUix6IjEWuSzs0zIuZ25U=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "stocra": {
+    "0.1.7": {
+      "sdist": [
+        "y7arX5MEhtJsY7JNEdb4X5HjD7XzFVhnSnKpOi6e2OM=",
+        "stocra-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "stocra-0.1.7-py3-none-any.whl": [
+          "8WnHvbdgkPuBuKInvTZ/cDrVX1gUUTxLjKOQ/XXjBmI=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "1DOfJb24wMxw9/8HDLjFLDk/L3ZdIYI0x3Rx2EcA0zA=",
+        "stocra-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "stocra-1.0.0-py3-none-any.whl": [
+          "n+n5X+SQjrzYZuHH/9/+rSNu1dHegXmbZItwLFOSo6Y=",
           "py3"
         ]
       }
