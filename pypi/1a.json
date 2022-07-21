@@ -3101,6 +3101,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.9b3": {
+      "sdist": [
+        "qHmS4QTMbPH2CJUf0+ekTEn71CHYzmFbXJgzng6Dmb4=",
+        "alteon-sdk-0.9b3.tar.gz"
+      ],
+      "wheels": {
+        "alteon_sdk-0.9b3-py2.py3-none-any.whl": [
+          "V/GQrVjY4R6dTcvfUA8dOr+kpYd0VAEI96xZl6pmc8w=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "amadeus": {
@@ -3458,6 +3470,12 @@
       "sdist": [
         "qy3PboFRrI9DJ0y4bRQrK7JIjOfUAbtNnE2AEVVXDjE=",
         "amadeus-6.0.1.tar.gz"
+      ]
+    },
+    "7.0.0": {
+      "sdist": [
+        "gaPkKqL7TLAor0CqPrFqFkku6GjHWYUrCsKqAw4D/0s=",
+        "amadeus-7.0.0.tar.gz"
       ]
     }
   },
@@ -38901,6 +38919,14 @@
           "py3"
         ]
       }
+    },
+    "0.21.0": {
+      "wheels": {
+        "fds.sdk.DirectStreamingofTransactionMessages-0.21.0-py3-none-any.whl": [
+          "wRGVYcLxqC3JP5GslZPgv0T7vMTNxe4sG/yG99X8jd8=",
+          "py3"
+        ]
+      }
     }
   },
   "fetch-aws-secrets-test": {
@@ -64335,6 +64361,12 @@
         "ArWojzsI57T0DNElKQK9sXYTBqKzQhAomZEpEYNCixY=",
         "leeger-0.2.0.tar.gz"
       ]
+    },
+    "0.3.0": {
+      "sdist": [
+        "nszLkBb5rZU/ONCNTNUioQtqTLJsNI22kKR38+47aCs=",
+        "leeger-0.3.0.tar.gz"
+      ]
     }
   },
   "lektor-jinja-content": {
@@ -67712,6 +67744,18 @@
       "wheels": {
         "lusid_drive_sdk_preview-0.1.372-py3-none-any.whl": [
           "tXc5z4YUsu7eOi0WXNelup66xXhRS8e8Oox7Eo1YUTk=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.373": {
+      "sdist": [
+        "PgNaMc/OJZaKGICheaK/G95R+sTwKPnj1GwKkW9/3yw=",
+        "lusid-drive-sdk-preview-0.1.373.tar.gz"
+      ],
+      "wheels": {
+        "lusid_drive_sdk_preview-0.1.373-py3-none-any.whl": [
+          "Xa8GavlyHsizc0OEbZnpAXNVJUc8x6IjU3K/ZwuK5po=",
           "py3"
         ]
       }
@@ -82684,6 +82728,18 @@
         ]
       }
     },
+    "0.20.0rc1": {
+      "sdist": [
+        "H9DXb4AK4edfCrHOczGWZLsDO0gx/wQO+hRcMVp2mcM=",
+        "perceval-0.20.0rc1.tar.gz"
+      ],
+      "wheels": {
+        "perceval-0.20.0rc1-py3-none-any.whl": [
+          "FrZPtbitMHPvhw2cPKTMiNPqPWCDtHrPROoyUInz2LE=",
+          "py3"
+        ]
+      }
+    },
     "0.3.0": {
       "sdist": [
         "U97YBdnbSd+eb48D1jfGf6o9VbHTDj3MDg3fEsuYzH0=",
@@ -89294,65 +89350,11 @@
     }
   },
   "pyaver": {
-    "0.0.1": {
+    "0.0.6": {
       "sdist": [
-        "NHfDf0D6e744W/A9cG87teyoEfFHDjDo3+lmrgx/DRU=",
-        "pyaver-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "pyaver-0.0.1-py3-none-any.whl": [
-          "tZEBjLxYQtygQ+aFgK99lAepPZCL/EnA23G/dYe1rEA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "SiyRa+N6Eg2gGU5wU1ObjRc3ypRYGpbLaBBBJdX+7Io=",
-        "pyaver-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "pyaver-0.0.2-py3-none-any.whl": [
-          "1JNg4EgnXdFvB6yYoLo4egVGb3eUJgzleIE5BihYSYU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "Qr7sN6N7hkIj69CgxZBb7x39BYkhsLGuACYyG4k92LM=",
-        "pyaver-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "pyaver-0.0.3-py2-none-any.whl": [
-          "vIGe9xZ8PqOmro+oGCr9Gg0qiher7obT6oAuZ0yMDGM=",
-          "py2"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "lXlOJMWuhwmY49WA2x4zmFCg9N9PolbFd6e4vSfzO6w=",
-        "pyaver-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "pyaver-0.0.4-py3-none-any.whl": [
-          "XDNy5MnbGrfxxHj/sBfnwMLNsAnJQzpFiV/LteKeyTg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "3LsadR43jQ09pxzKSZHGXNujDcDVMv4LgIQhYOADwPM=",
-        "pyaver-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "pyaver-0.0.5-py3-none-any.whl": [
-          "2PCAuxeSu0z68ruGFmjd8hfXlQ2oT5NJqVuerRJ+SVg=",
-          "py3"
-        ]
-      }
+        "Km6iJqi+GZiQ3yefLs400UbFt0KpVFmKHgNLovBKKSE=",
+        "pyaver-0.0.6.tar.gz"
+      ]
     }
   },
   "pybase16-builder": {
@@ -102950,6 +102952,12 @@
       "sdist": [
         "BpskjpySwhhmOwouni2aQq4WOmw1q74oL42BRSfeJCc=",
         "rbpy-rb-0.11.1.tar.gz"
+      ]
+    },
+    "0.11.2": {
+      "sdist": [
+        "ZzHniR2c6rgyM4r8tUcdfop0BWK8QpAHSrimJQTwwNg=",
+        "rbpy-rb-0.11.2.tar.gz"
       ]
     },
     "0.2.0": {
