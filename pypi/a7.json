@@ -75,6 +75,14 @@
       ]
     }
   },
+  "adafruit-circuitpython-ov2640": {
+    "1.1.5": {
+      "sdist": [
+        "IB+3aIacrbZxQrEtfRULktV6Omz8o048sfCY1Jxm7qw=",
+        "adafruit-circuitpython-ov2640-1.1.5.tar.gz"
+      ]
+    }
+  },
   "addr-detector": {
     "0.1.0": {
       "sdist": [
@@ -4811,6 +4819,18 @@
         "7GwQoZQ5xDByeAH169n8t0IZKZCkHsDc0jtU63gS9z8=",
         "aviary-genome-0.4.1.tar.gz"
       ]
+    },
+    "0.4.2": {
+      "sdist": [
+        "mBxyEloT64cx3O0jal6pnUaxmDkOz3/ZNHu80chwEs8=",
+        "aviary-genome-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "aviary_genome-0.4.2-py3-none-any.whl": [
+          "Z36xfdq4GcGccY1JHg0yRoI4sNK3547qPUSQjkxGccs=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk-aws-stepfunctionstasks": {
@@ -21820,6 +21840,12 @@
       "sdist": [
         "4/0wLLsQK+sF+8BrYCKCYTcF60f6t+UUjtxc+cs2lN4=",
         "destripegui-1.2.1.tar.gz"
+      ]
+    },
+    "1.3.0": {
+      "sdist": [
+        "tFPxM9NJyDsTumKtzwp4bcF1oKEy+m38zarfWSVe6kw=",
+        "destripegui-1.3.0.tar.gz"
       ]
     }
   },
@@ -65020,6 +65046,74 @@
         ],
         "mmu-0.1.0rc3-cp39-cp39-win_amd64.whl": [
           "p54UYQYRD1v9irYhfEPYtR8T4nFT6BN3VH1q0LF2s2I=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.0rc4": {
+      "sdist": [
+        "Q8MzZgZOd+VeS9IzuCxSaZfv0G2e1qMSuqWzJU6Onc8=",
+        "mmu-0.1.0rc4.tar.gz"
+      ],
+      "wheels": {
+        "mmu-0.1.0rc4-cp310-cp310-macosx_10_13_x86_64.whl": [
+          "GWJdfX+PTTfk9gkA3He6Oz4UWVeOW2YXDZtMz5Ql/O4=",
+          "cp310"
+        ],
+        "mmu-0.1.0rc4-cp310-cp310-macosx_11_0_arm64.whl": [
+          "MG7Qf/SkelI6RJ/4iLjOGlnTmaan45tu2SGf3U5oPYY=",
+          "cp310"
+        ],
+        "mmu-0.1.0rc4-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HmcUKlcE763bhnLs+8jJWBAc5KFtcOhNPXRb8k/wmo8=",
+          "cp310"
+        ],
+        "mmu-0.1.0rc4-cp310-cp310-win_amd64.whl": [
+          "Y0200uZo+Thx2O2OoBKSwPwX6s1XLqXDRcRR1glb3Do=",
+          "cp310"
+        ],
+        "mmu-0.1.0rc4-cp37-cp37m-macosx_10_13_x86_64.whl": [
+          "PXSaYgWQNgJHu8si/NuKHkiJgfaKQAOdeJ1M0hkpzEg=",
+          "cp37"
+        ],
+        "mmu-0.1.0rc4-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fq9vXQgsdC+4I9Z9zIM2zVt1kurR9lN0ZBjARBn9yII=",
+          "cp37"
+        ],
+        "mmu-0.1.0rc4-cp37-cp37m-win_amd64.whl": [
+          "Pm+byTUPmwyKw4s4XKcVPurGb8WdejHxKxQawafC7Lw=",
+          "cp37"
+        ],
+        "mmu-0.1.0rc4-cp38-cp38-macosx_10_13_x86_64.whl": [
+          "hZsuoymlLYiX9K+/1tlEALiXd/f97EgJRhxSRvljRrc=",
+          "cp38"
+        ],
+        "mmu-0.1.0rc4-cp38-cp38-macosx_11_0_arm64.whl": [
+          "MH7KL/ttNQYMdmfwR30CVHoRGlr7te/y7qpcS2SpN1g=",
+          "cp38"
+        ],
+        "mmu-0.1.0rc4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wgiMvlhlU6+QiGmzYz3RjdzK+wTTOwXrn8XaJf8ey2g=",
+          "cp38"
+        ],
+        "mmu-0.1.0rc4-cp38-cp38-win_amd64.whl": [
+          "sLNsMxRR/NOksymU2IPmFBNulqRRNveTYmy86jgEFtY=",
+          "cp38"
+        ],
+        "mmu-0.1.0rc4-cp39-cp39-macosx_10_13_x86_64.whl": [
+          "jFCnMO99qi8Yfurc05HYr69BmA7RP+tLGE8wdjOpyb4=",
+          "cp39"
+        ],
+        "mmu-0.1.0rc4-cp39-cp39-macosx_11_0_arm64.whl": [
+          "Ig4m1zEnbpiwSc5PonBMHHfXCRDyttzHsXEqCKGy3C8=",
+          "cp39"
+        ],
+        "mmu-0.1.0rc4-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yS4rs8UaT/UQfXt5zV6QtvRSnc6tKHqKMMsQYuj+Ssw=",
+          "cp39"
+        ],
+        "mmu-0.1.0rc4-cp39-cp39-win_amd64.whl": [
+          "s9eQur/Wb2jenC0hXGmp2SvZy5WcUyaOfV1oRDbxFXY=",
           "cp39"
         ]
       }
