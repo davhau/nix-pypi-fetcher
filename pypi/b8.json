@@ -16614,6 +16614,12 @@
         "clip-server-0.4.20.dev1.tar.gz"
       ]
     },
+    "0.4.21.dev10": {
+      "sdist": [
+        "zQmMta20+a8jV0mY6q5OP/qn0h9A4uIS4/B2rMQvLis=",
+        "clip-server-0.4.21.dev10.tar.gz"
+      ]
+    },
     "0.4.21.dev3": {
       "sdist": [
         "O5vMzhZDHTYrFEulWL1pWZo2uZ0dtv3bufSr4aIv7xs=",
@@ -20593,6 +20599,14 @@
           "py3"
         ]
       }
+    }
+  },
+  "curriedef": {
+    "0.1.0": {
+      "sdist": [
+        "c9c6n+1wwdtnRH9l4gdaW0/OQb4z2GWBzqjaQFo2nu8=",
+        "curriedef-0.1.0.tar.gz"
+      ]
     }
   },
   "cuscom": {
@@ -37164,6 +37178,14 @@
       "wheels": {
         "gdolib-0.2.2-py3-none-any.whl": [
           "6pmci9EMOKzUuZEjAKma7BpYfo1qtYBRKRweJAwSMg4=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.3": {
+      "wheels": {
+        "gdolib-0.2.3-py3-none-any.whl": [
+          "geawe2Wuhw+Xi6/w1efE4YM5J8SMso+H99GsWSnVRBQ=",
           "py3"
         ]
       }
@@ -66821,18 +66843,6 @@
           "py3"
         ]
       }
-    },
-    "0.7.0a0": {
-      "sdist": [
-        "JDmwlW/zJgmLmKwqTewAM74rX7YEwu/aRGPl7RXZSIY=",
-        "naturtag-0.7.0a0.tar.gz"
-      ],
-      "wheels": {
-        "naturtag-0.7.0a0-py3-none-any.whl": [
-          "OQHp1fnb1+t1/UnicDKNrnm9zzk+7KCFuCTA6E1aIFg=",
-          "py3"
-        ]
-      }
     }
   },
   "nene": {
@@ -95548,6 +95558,18 @@
         ]
       }
     },
+    "0.17.2": {
+      "sdist": [
+        "p2zpNthX8UG1gMCVuQWE5io9S79rQjBjwxLjSII+19g=",
+        "rime_sdk-0.17.2.tar.gz"
+      ],
+      "wheels": {
+        "rime_sdk-0.17.2-py3-none-any.whl": [
+          "0sG/Nc8Z6C2yRSSjA5qZ4SixDONZpUQAEU85Xp0MBLg=",
+          "py3"
+        ]
+      }
+    },
     "0.18.0rc0": {
       "sdist": [
         "3BXXDJz2agn4Tod05imaaw7JDpQ9Jp5Y7O9/naDmP9I=",
@@ -106363,6 +106385,48 @@
         "Lxu22e9xKvNEFtm11mI51Oof9NNWuDUzKxCISknKwhQ=",
         "sshxx-1.0.1.tar.gz"
       ]
+    }
+  },
+  "sslouvain": {
+    "0.1.1": {
+      "wheels": {
+        "sslouvain-0.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TFlrw+MzGhhBfLh/n9RtxBgzgUwpin45A7c9EH8mlCE=",
+          "cp310"
+        ],
+        "sslouvain-0.1.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UOQuVOGlbJsAatHr881WwHbtZQE8ckrU3M4H0PQDsbM=",
+          "cp311"
+        ],
+        "sslouvain-0.1.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "EehRw5Lt4GWtGMtuVCLKLQ4Hq46YT7dnHGi0YwhYxvk=",
+          "cp36"
+        ],
+        "sslouvain-0.1.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "s2XMgUV9PZMNEKx/4WXWzWARvmJU4glHV2jfrvOzYL8=",
+          "cp37"
+        ],
+        "sslouvain-0.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "V23aIjroe4vtKUr2JeTET9oq/9QfLUT53+ALk3i8hKo=",
+          "cp38"
+        ],
+        "sslouvain-0.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cAv4wnplT61REj2ceBFbXkDO/byeaf60YG5ibLkKN+8=",
+          "cp39"
+        ],
+        "sslouvain-0.1.1-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "9AzMjSZ+mPn4Xn1Y8Dk2sWo3NIMkRIBNVXNBse696lY=",
+          "pp37"
+        ],
+        "sslouvain-0.1.1-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "N0UJJanM984X4ZZj3L/XVdHa6xA1frYxABNryVdBLUU=",
+          "pp38"
+        ],
+        "sslouvain-0.1.1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "StyuTCuzMQDNTR/hJT0aHzDEzUwx2xSFfarh9bzGp1w=",
+          "pp39"
+        ]
+      }
     }
   },
   "ssmpy": {
