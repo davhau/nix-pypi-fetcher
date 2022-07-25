@@ -69397,6 +69397,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.1": {
+      "sdist": [
+        "Pw3z/RV3V0EM5dHW0RnHH/KAPr4uM0V5qUi36ZPoepo=",
+        "modelator-0.5.1.tar.gz"
+      ],
+      "wheels": {
+        "modelator-0.5.1-py3-none-any.whl": [
+          "bEYVnp+sOy0sGgseNBaaMesiKznERKSsOjsnD1Hzu6g=",
+          "py3"
+        ]
+      }
     }
   },
   "modern-treasury": {
@@ -70132,6 +70144,14 @@
       "wheels": {
         "monai-0.9.0rc3-202206081741-py3-none-any.whl": [
           "FRAlVfQc8gMOLK9/QbWod4OAR5EGk5vXzjr+jn9X2fM=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "wheels": {
+        "monai-0.9.1-202207251608-py3-none-any.whl": [
+          "zM6Of5Xb6n5MYVV1IixV1G2nXrk93ZQ5NzYEAOPImMw=",
           "py3"
         ]
       }
@@ -137786,12 +137806,68 @@
           "7t9jo/hnuhov41Jph8FWdX8e8+bU4te9Fz7yvPj/qaU=",
           "cp310"
         ],
+        "tf_nightly_gpu-2.10.0.dev20220724-cp310-cp310-win_amd64.whl": [
+          "xXKUIpJGvGi8DkuOAzIWb+5zGr3IbMmGycnSbpmnF5I=",
+          "cp310"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220724-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "5uJrmEQbJagFAVHb9pv8fNIr7tVr+fOlMiALZrVo4cI=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220724-cp37-cp37m-win_amd64.whl": [
+          "cwcXn2w/MAlj1CStK+IdROHH0x5RF8Dp3vz+P9GF41M=",
+          "cp37"
+        ],
         "tf_nightly_gpu-2.10.0.dev20220724-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "r2h+CJfhSlf/0cUBT0skun5t6HD1+tA5yXoH94brn1E=",
           "cp38"
         ],
+        "tf_nightly_gpu-2.10.0.dev20220724-cp38-cp38-win_amd64.whl": [
+          "EPJLPFQ4nhHrsRNvEK82kZrdxVnKMT38u2FKSNnFhtE=",
+          "cp38"
+        ],
         "tf_nightly_gpu-2.10.0.dev20220724-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "7S6sjIxURgUl6iTMOTKtcqklb7Ov4sVJR229e7P7lz0=",
+          "cp39"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220724-cp39-cp39-win_amd64.whl": [
+          "pI3hrSidqxU4dM0SOh0MjpMUSN/0g9cDA0TaGL8k3gw=",
+          "cp39"
+        ]
+      }
+    },
+    "2.10.0.dev20220725": {
+      "wheels": {
+        "tf_nightly_gpu-2.10.0.dev20220725-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jZ/zUsJu/ulCSl17OsoR4a4wlvG7iqfc5CBkm4FN6bs=",
+          "cp310"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220725-cp310-cp310-win_amd64.whl": [
+          "z9Y5UqPtte6TSF+TvC6GwmwefnskfXpkjj13if0DhDI=",
+          "cp310"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220725-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "d+MSbAG6esE5S89rmsMTVuhwWUaXuCmA81txp34FPWk=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220725-cp37-cp37m-win_amd64.whl": [
+          "bHybgfhf9nME/HNyffeqt9ugDzdA9me9a4LN+3VKugs=",
+          "cp37"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220725-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xHIlVK6MoqvyhdAHBbIuCwMyUMTA7uvuitEHrqAwOYE=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220725-cp38-cp38-win_amd64.whl": [
+          "jl4FbeicFTNNzN9RZnujfKR2GSFWTXPhDBBnO9z6M38=",
+          "cp38"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220725-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "aEvtFPt8GRdMyg7NY91OCEfjAkOnLdxTmBKlrwl3cYI=",
+          "cp39"
+        ],
+        "tf_nightly_gpu-2.10.0.dev20220725-cp39-cp39-win_amd64.whl": [
+          "KbctdLOkFt3x/lzueGstzpiJLtWqBfY/yUIk/4XNnc0=",
           "cp39"
         ]
       }
@@ -151414,6 +151490,30 @@
       "sdist": [
         "h0Mz3aaG7MIxDzw64RlP1m+5NtuKippRf+ezPeeNsds=",
         "web-foundation-0.0.4.tar.gz"
+      ]
+    },
+    "0.0.5": {
+      "sdist": [
+        "jh/76BiMrMTbTKtJInM2PzmzO4rc+wheGiS4WzSoT+c=",
+        "web-foundation-0.0.5.tar.gz"
+      ]
+    },
+    "0.0.5.1": {
+      "sdist": [
+        "+mNlUHrE7englfNGA9knvvkc3eOzBruwWparC4byViw=",
+        "web-foundation-0.0.5.1.tar.gz"
+      ]
+    },
+    "0.0.5.2": {
+      "sdist": [
+        "hkdciuRV69jrXW0Isf0lElcEfgdSkm2aMe4Er8t/a88=",
+        "web-foundation-0.0.5.2.tar.gz"
+      ]
+    },
+    "0.0.5.3": {
+      "sdist": [
+        "iDQpH387vVAR8+6JmwfItRWm9sDsvUA509/1/JzzbFo=",
+        "web-foundation-0.0.5.3.tar.gz"
       ]
     }
   },
