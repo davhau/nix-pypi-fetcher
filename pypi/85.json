@@ -18098,8 +18098,20 @@
     },
     "2.1.0b20220723": {
       "wheels": {
+        "bigdl_spark2-2.1.0b20220723-py3-none-macosx_10_11_x86_64.whl": [
+          "IJGe8Ue4WqaT4ji7M2VqwhlrpyD7TqSbn2zn6pcggns=",
+          "py3"
+        ],
         "bigdl_spark2-2.1.0b20220723-py3-none-manylinux1_x86_64.whl": [
           "TDYMTU+fxCyutesk8j1L4q6QSgxxda8/SEwrUdnvX2U=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0b20220724": {
+      "wheels": {
+        "bigdl_spark2-2.1.0b20220724-py3-none-manylinux1_x86_64.whl": [
+          "htv6iGy4dXtTAhH+nKaz6Th1IQTajmQS/T0uwIoEu/s=",
           "py3"
         ]
       }
@@ -27599,6 +27611,10 @@
       ]
     },
     "1.4.4a10": {
+      "sdist": [
+        "UNFFqZRPwJR5lplAiYxdVqJ9FPuk5u5KV3YAEWNFJjM=",
+        "comictagger-1.4.4a10.tar.gz"
+      ],
       "wheels": {
         "comictagger-1.4.4a10-py3-none-any.whl": [
           "TEJ9uSOZfdbxdgo2yPvYxL4RGSwyMpBV6NcuacumMNk=",
@@ -83159,6 +83175,18 @@
           "py3"
         ]
       }
+    },
+    "1.24.36.post1": {
+      "sdist": [
+        "O9fgb5reUFnq4hgdep8aQef6gHrT6UwByZAYOOh+Cr4=",
+        "mypy-boto3-s3-1.24.36.post1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_s3-1.24.36.post1-py3-none-any.whl": [
+          "MK5ZszxV+Le2kxcPlRnqW5Gi+/Mac955ze9Xon14Tlo=",
+          "py3"
+        ]
+      }
     }
   },
   "myqlm-contrib": {
@@ -94907,6 +94935,14 @@
       }
     }
   },
+  "pdf-cracker": {
+    "2.0.1": {
+      "sdist": [
+        "HfMAt72ZaNqyqTvSpKW61xxLxee5Mrj1TZcWffGJUEs=",
+        "pdf-cracker-2.0.1.tar.gz"
+      ]
+    }
+  },
   "pdf-generator-advinow": {
     "0.4.1": {
       "sdist": [
@@ -103021,6 +103057,142 @@
         "pygit2-1.1.1-cp38-cp38-win_amd64.whl": [
           "IkHpKAuR9gLKCYnMYfVsyopMU3+qpVXiIESB/hgZAO4=",
           "cp38"
+        ]
+      }
+    },
+    "1.10.0": {
+      "sdist": [
+        "fHUe7ojHMbki5OSH7ih+LkCQayvTLQv9IQWUf2PoZ94=",
+        "pygit2-1.10.0.tar.gz"
+      ],
+      "wheels": {
+        "pygit2-1.10.0-cp310-cp310-macosx_10_9_universal2.whl": [
+          "SToM6cvFgIVZQs3LK/O2dPMpXCYjPpkL+pgFjDITE/E=",
+          "cp310"
+        ],
+        "pygit2-1.10.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "c6X9AwQlLIT1+fG1sOrfo2QaBNEfltifvXf/reUq3Dc=",
+          "cp310"
+        ],
+        "pygit2-1.10.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "5vgS7I6hDoOwWncPT5WAj3KbyCHgVIr2n9CoDheHYAM=",
+          "cp310"
+        ],
+        "pygit2-1.10.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cabghmuwM7Hc/GL+3+RLEt7pL2GcbP7Xyh3mhn+6Mfk=",
+          "cp310"
+        ],
+        "pygit2-1.10.0-cp310-cp310-win32.whl": [
+          "mzsyitU0IKFpCKW7pJI9Oybu8npXCALmjF7Vr7DsoPM=",
+          "cp310"
+        ],
+        "pygit2-1.10.0-cp310-cp310-win_amd64.whl": [
+          "IQIaSKohUeXwUE1WCZoZTP/A/t5ohwP40HZO3xhtgCs=",
+          "cp310"
+        ],
+        "pygit2-1.10.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "VxfNL9Gg0jorvfjOQnGqcuHSg9JYyIs0HZ2cRnNwfnM=",
+          "cp37"
+        ],
+        "pygit2-1.10.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "oMRQZYHoFuI1et9Om2Qt6LOGd4y/Cb2HCphD75yaU3k=",
+          "cp37"
+        ],
+        "pygit2-1.10.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HFFNbZsFHy9fDY4nfM79ozgL+/OAR+Eskvjj8RDScxQ=",
+          "cp37"
+        ],
+        "pygit2-1.10.0-cp37-cp37m-win32.whl": [
+          "KiPhVyUad/LP2USuEZpzDvX6ZhMusVEZsBsBZlCh264=",
+          "cp37"
+        ],
+        "pygit2-1.10.0-cp37-cp37m-win_amd64.whl": [
+          "w4DwqMZprq9x2dc/jeFlAtwFCmAi8Fccd71e/s+ISSw=",
+          "cp37"
+        ],
+        "pygit2-1.10.0-cp38-cp38-macosx_10_9_universal2.whl": [
+          "oPMNkOUqZkqLGmrjAGflA6V2/FPUDGobxTPcZ6cLFBA=",
+          "cp38"
+        ],
+        "pygit2-1.10.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "kwjnj4PkbJXbWRKBYaXf5fahZSNCI4IkFCR01BoNcBE=",
+          "cp38"
+        ],
+        "pygit2-1.10.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "nmTbjsTuCq9ucm+kZV6py956fyzzTxNPJfb6pSon1hg=",
+          "cp38"
+        ],
+        "pygit2-1.10.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ifcCqs6orONCLgKsIBYaTxr88TvQ0g7dGHJv84YWW7s=",
+          "cp38"
+        ],
+        "pygit2-1.10.0-cp38-cp38-win32.whl": [
+          "6GvEx0xA+0YVYVjB3XdMHw5Q7jqGCvQTHOKsHf/0/DQ=",
+          "cp38"
+        ],
+        "pygit2-1.10.0-cp38-cp38-win_amd64.whl": [
+          "8Xhbp4aQsGWBaUsuiYtozRvDREF0dcC5lNV0sNIBAWA=",
+          "cp38"
+        ],
+        "pygit2-1.10.0-cp39-cp39-macosx_10_9_universal2.whl": [
+          "fp19tP5t3496spxqJKipvQr5KiFK0OgStJ63xBHN3z4=",
+          "cp39"
+        ],
+        "pygit2-1.10.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "VtRKNDem1kLJijODDY49JVbmCKu6QS5FH+xRRwL6mnY=",
+          "cp39"
+        ],
+        "pygit2-1.10.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "yOtofkv3tGylRfUOslxenEGoa+Wa5R6DzkL3eTZYtWA=",
+          "cp39"
+        ],
+        "pygit2-1.10.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ceCE3RwHXAyj9LgBXOPMLdc/wcDq1StqeZkOxat/Z9k=",
+          "cp39"
+        ],
+        "pygit2-1.10.0-cp39-cp39-win32.whl": [
+          "4fTX6YHJJAkSzVh+m18dAKA7eSSPzxWt1eOUTRHSGIQ=",
+          "cp39"
+        ],
+        "pygit2-1.10.0-cp39-cp39-win_amd64.whl": [
+          "LuRXry1spHg41d3QxVivgp59uNFAL2HkaVAk085UMB0=",
+          "cp39"
+        ],
+        "pygit2-1.10.0-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "VfBdhrXWNfmIFhg7Hq28A0ncJkUaWLGSAFGy91k7nQo=",
+          "pp37"
+        ],
+        "pygit2-1.10.0-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "vRfru89cfxDi370re2q99WhgaaChqExywca/F8Jsct0=",
+          "pp37"
+        ],
+        "pygit2-1.10.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IJgIa0eba3RNX7KCL9LQHRTQWshMNNkRxGtgm9VDXBg=",
+          "pp37"
+        ],
+        "pygit2-1.10.0-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
+          "AbZqneCnU8zS6DW4WY8Rm8y1h7zen3itwkpz6tRWsIM=",
+          "pp38"
+        ],
+        "pygit2-1.10.0-pp38-pypy38_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "nKAKyz0RfXNtncEUQJL9uJn5Xhsaum0sO231i4CyTfs=",
+          "pp38"
+        ],
+        "pygit2-1.10.0-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "xh25KbS8UnlvIlFhma5pellLvCBelydfYTZcAiWsETA=",
+          "pp38"
+        ],
+        "pygit2-1.10.0-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
+          "M88UxhiOZJQjFUflgXkOc+ZhFLXV5u+GF0h7il4T6Yc=",
+          "pp39"
+        ],
+        "pygit2-1.10.0-pp39-pypy39_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "I94xcOt2vKogf+I8rqk5vf7+q978PwkZGs8NC0Yc6Hs=",
+          "pp39"
+        ],
+        "pygit2-1.10.0-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "inDiGf7udbGM/Hi9LO51V2C+jsS+3UCqENbNJXVnpEo=",
+          "pp39"
         ]
       }
     },
@@ -137319,6 +137491,22 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "wheels": {
+        "snowbear-0.2.0-py3-none-any.whl": [
+          "CpZqZDPQzrqGc4HYDlouyrwxJ/WUmOVctCnaf7UzyPM=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "wheels": {
+        "snowbear-0.2.1-py3-none-any.whl": [
+          "zX65buabzZ1cSko8+D1Luj9ehG9o5NfsKzB5bqtN4Eo=",
+          "py3"
+        ]
+      }
     }
   },
   "socketcan-uds": {
@@ -147756,6 +147944,18 @@
       "wheels": {
         "types_aiobotocore_sagemaker_featurestore_runtime-2.3.4.post1-py3-none-any.whl": [
           "rOdywx+stt91W9DtNQZq9PlrE8W787jSsiOQ2mVAU9c=",
+          "py3"
+        ]
+      }
+    },
+    "2.3.4.post2": {
+      "sdist": [
+        "MZQhBr4D43VyD7ti5D4nrj+ijpisG798wYCWsfIQ5UQ=",
+        "types-aiobotocore-sagemaker-featurestore-runtime-2.3.4.post2.tar.gz"
+      ],
+      "wheels": {
+        "types_aiobotocore_sagemaker_featurestore_runtime-2.3.4.post2-py3-none-any.whl": [
+          "THDx/5xZphdRhrDp6PzXhLwxWrZO9uiO/ivvf9P5DsM=",
           "py3"
         ]
       }
