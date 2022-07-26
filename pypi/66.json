@@ -1587,6 +1587,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.1": {
+      "sdist": [
+        "jjE+AaEO5RR76k21UpvqIYyVWwiOWbqOYrLlSkM9YoA=",
+        "alibabacloud_btripopen20220520_py2-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_btripopen20220520_py2-1.0.1-py3-none-any.whl": [
+          "Itx1tEKaRPtjG8dlRvzQk+hlX8UoNFk0RQ8oE4807BM=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-cloudphoto20170711": {
@@ -20275,6 +20287,44 @@
       ]
     }
   },
+  "cvat-manifest-builder": {
+    "0.0.5": {
+      "sdist": [
+        "fAETEuBGr+aTB7KVR8q9sj5JTeP+f7cqz7hz6ca4Oss=",
+        "cvat-manifest-builder-0.0.5.tar.gz"
+      ],
+      "wheels": {
+        "cvat_manifest_builder-0.0.5-py3-none-any.whl": [
+          "pH8GsxUAUU+QBB5vq/+VA3g7NKciJXCiB8d0xfHVdBQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.6": {
+      "sdist": [
+        "zmq4Iyp3LDMTzURme+lNBHc6V0pekE/AkckMQ3OiiJ8=",
+        "cvat-manifest-builder-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "cvat_manifest_builder-0.0.6-py3-none-any.whl": [
+          "NtT+HL9KGXDt5lfxZxYRFBL3LpJ+lr/Fo6HIWXnCR5E=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.1": {
+      "sdist": [
+        "VzTmbNRGiue99tTayWnfJ+KkxBPOktBvQHpqYGRsC1k=",
+        "cvat-manifest-builder-0.2.1.tar.gz"
+      ],
+      "wheels": {
+        "cvat_manifest_builder-0.2.1-py3-none-any.whl": [
+          "N/xg0mOXW75Bg/BLsNBUp2eypEl8QjAntLNsogxrcSw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "cvelib": {
     "0.1.0": {
       "sdist": [
@@ -33634,13 +33684,81 @@
     },
     "21.4.0a49": {
       "wheels": {
+        "dqrobotics-21.4.0a49-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "J94U+7ONTaB3H1O6LZumK5/E9WtOu1LwrrRCCVE8Kno=",
+          "cp310"
+        ],
         "dqrobotics-21.4.0a49-cp310-cp310-macosx_12_0_arm64.whl": [
           "On/Zyr+CoyxdAISlStDCFFe3WXx4SgLLYa4FvGYosAU=",
+          "cp310"
+        ],
+        "dqrobotics-21.4.0a49-cp310-cp310-manylinux1_x86_64.whl": [
+          "GXL7rM2rF9fYdIa139VSKbXUIRc/4odyuHBq9fUB4Rc=",
           "cp310"
         ],
         "dqrobotics-21.4.0a49-cp310-cp310-manylinux2014_aarch64.whl": [
           "hoJbBC3Q3AsHbuYgNHiiDiKwpeZnCgWyCdAIzQ556zs=",
           "cp310"
+        ],
+        "dqrobotics-21.4.0a49-cp310-cp310-win_amd64.whl": [
+          "pXzdbkpVz6nsZVKWnrmx+t9IlVMpv9niA42JPGMtCB0=",
+          "cp310"
+        ],
+        "dqrobotics-21.4.0a49-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "ZhEhAdxB7VVXB6DoPB4LYuKDpGR/f1pa+mQEPyIewrs=",
+          "cp37"
+        ],
+        "dqrobotics-21.4.0a49-cp37-cp37m-manylinux1_x86_64.whl": [
+          "8WaqgQnxPRYNhBzY5aJH8FtXLsUzOv5KdJ411fKLvwc=",
+          "cp37"
+        ],
+        "dqrobotics-21.4.0a49-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "flbu2YmUWDRQ++JWCcvqsFc147CoDJKqwC2VZ9f2U+Y=",
+          "cp37"
+        ],
+        "dqrobotics-21.4.0a49-cp37-cp37m-win_amd64.whl": [
+          "hk3fqZ820CPWOEhez8CSYC5BcRup0tY/7hnvlauOPHQ=",
+          "cp37"
+        ],
+        "dqrobotics-21.4.0a49-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "EhQwzI2s5BHSUAAYbuyWnlcJwdDtSc9Qaj5ZGQ6K8d8=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a49-cp38-cp38-macosx_12_0_arm64.whl": [
+          "gknrNzSREnHuHiayTgnRSME47vkNNmbafr01yh7D2rI=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a49-cp38-cp38-manylinux1_x86_64.whl": [
+          "Yr/mNCD+UnybnTVlbEgtOX/GXx1Iqv/oqhRVzkSeyAA=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a49-cp38-cp38-manylinux2014_aarch64.whl": [
+          "6WCdbdmed4EPxxwf9OErIlZaH6Gss30yBiBLte7GYEU=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a49-cp38-cp38-win_amd64.whl": [
+          "LJwQge1ZPa60sc49ZZJbEOHbB8wEXq3vv/j8d4MsjLU=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a49-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "xaVnFxEspMwBTWrqcsTiEs65nrSFr4ky5QxyD5Aq0ug=",
+          "cp39"
+        ],
+        "dqrobotics-21.4.0a49-cp39-cp39-macosx_12_0_arm64.whl": [
+          "P/OJkRF/6SyXLAS8T5e2luZ+zbqEwOxR9p/BfFOy8Iw=",
+          "cp39"
+        ],
+        "dqrobotics-21.4.0a49-cp39-cp39-manylinux1_x86_64.whl": [
+          "MJIeSAjzU538RyfRYRvZyzUC/h3VdeMYCj5uT85TfVo=",
+          "cp39"
+        ],
+        "dqrobotics-21.4.0a49-cp39-cp39-manylinux2014_aarch64.whl": [
+          "1Ky8M/XZ7rNsF9xYcYSHpsqbZCzsip7ehAUJTf0264c=",
+          "cp39"
+        ],
+        "dqrobotics-21.4.0a49-cp39-cp39-win_amd64.whl": [
+          "s5k1SpUp8DWh2xN6DRyJxtu+DR/HvtE0osl5P+PNss4=",
+          "cp39"
         ]
       }
     },
@@ -33692,6 +33810,166 @@
         ],
         "dqrobotics-21.4.0a5-cp39-cp39-win_amd64.whl": [
           "U0lK/r+oj3diCUfNbaKKoS0Rh0r8QUM4794qbUwaEqM=",
+          "cp39"
+        ]
+      }
+    },
+    "21.4.0a50": {
+      "wheels": {
+        "dqrobotics-21.4.0a50-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "xTXana4xxASwDkkwwnRy3twgOFeWvwpoabdlF/emRyc=",
+          "cp310"
+        ],
+        "dqrobotics-21.4.0a50-cp310-cp310-macosx_12_0_arm64.whl": [
+          "PDs9g7tZ/yfmZ9VCiWUJ5rUZVoY2tyUQdUpsARvU2Bw=",
+          "cp310"
+        ],
+        "dqrobotics-21.4.0a50-cp310-cp310-manylinux1_x86_64.whl": [
+          "ICQa48BI+ypFF9jgPj2NEoibkO/3912wwAE8AyXefTY=",
+          "cp310"
+        ],
+        "dqrobotics-21.4.0a50-cp310-cp310-manylinux2014_aarch64.whl": [
+          "D8ffDT/cbDOrw/o0+py+UDaadrz9F81jxh43qWbYIT4=",
+          "cp310"
+        ],
+        "dqrobotics-21.4.0a50-cp310-cp310-win_amd64.whl": [
+          "6ErjmXXHAcv3myaR7PhabLmMLpG+j16cmP3Qq1B6hL0=",
+          "cp310"
+        ],
+        "dqrobotics-21.4.0a50-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "39OHzzBLptKehmZgge4hdz8cZ5vC22A3YkZGRCn09Pg=",
+          "cp37"
+        ],
+        "dqrobotics-21.4.0a50-cp37-cp37m-manylinux1_x86_64.whl": [
+          "9kt5+NfAkne/qkKAEz8v5nC3EvgvqHutl4APQSsqU2g=",
+          "cp37"
+        ],
+        "dqrobotics-21.4.0a50-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "N6V24r2XGf70a81Vp25NJ2IjRolmzytYAijyb6kt3F0=",
+          "cp37"
+        ],
+        "dqrobotics-21.4.0a50-cp37-cp37m-win_amd64.whl": [
+          "Mh5WNi01JXXB/z2Gxpf0lgHQSF8zRAEauXle2cYnGwk=",
+          "cp37"
+        ],
+        "dqrobotics-21.4.0a50-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "n3guCYn2Gi++Tsfv2xBivXYRJlQa6I2qG1sPTiFDyQU=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a50-cp38-cp38-macosx_12_0_arm64.whl": [
+          "OH3+9CqVB/75ocuTGO69yKOLiMtVXJcSGVNKdZJV2dQ=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a50-cp38-cp38-manylinux1_x86_64.whl": [
+          "e2C7GQ2xjIQkLj9ORk7GQij9yUg9oWbJz5SyuIT+eSU=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a50-cp38-cp38-manylinux2014_aarch64.whl": [
+          "41zFWTu32Y/cZh5axV7mgq1rU4WX40Pr1TdCYJ4B0oo=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a50-cp38-cp38-win_amd64.whl": [
+          "lqWexByuyTBfvcSykjrp7xyvqb0vLIAeAE8XZabw+eI=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a50-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "2nMHoOG6ZG/3AQ7OSrGxabqgtSXisENYUGjdt6VALD0=",
+          "cp39"
+        ],
+        "dqrobotics-21.4.0a50-cp39-cp39-macosx_12_0_arm64.whl": [
+          "gW8u0NC9doNYa3QmZvUt84C3uK+TVAPPtkZ95+76oPE=",
+          "cp39"
+        ],
+        "dqrobotics-21.4.0a50-cp39-cp39-manylinux1_x86_64.whl": [
+          "Y/N4EOdTxYd5ENAFVkNIfMfGK4/Lgk8Dqu1vb4En6CE=",
+          "cp39"
+        ],
+        "dqrobotics-21.4.0a50-cp39-cp39-manylinux2014_aarch64.whl": [
+          "pTKWdAt2i3PGLAWKQv729bIM/vyS8L5ynl8MQYoWTaQ=",
+          "cp39"
+        ],
+        "dqrobotics-21.4.0a50-cp39-cp39-win_amd64.whl": [
+          "q3mnQxs2cTWJ2/3OD3ANVC5wBMhNIzCaLSjvtE970AQ=",
+          "cp39"
+        ]
+      }
+    },
+    "21.4.0a51": {
+      "wheels": {
+        "dqrobotics-21.4.0a51-cp310-cp310-macosx_10_14_x86_64.whl": [
+          "uxvMrq7d8cZhK7tzldERJkC7ywAQbdRgDXBkpWElC08=",
+          "cp310"
+        ],
+        "dqrobotics-21.4.0a51-cp310-cp310-macosx_12_0_arm64.whl": [
+          "rAhej+b+C+m+BozlVjMd2jHJguS6TlwI1qgmJdj46/o=",
+          "cp310"
+        ],
+        "dqrobotics-21.4.0a51-cp310-cp310-manylinux1_x86_64.whl": [
+          "OXqndNMIZMNH1cABOWNXtR+gN2bbCE7sXQJ2/RrArx8=",
+          "cp310"
+        ],
+        "dqrobotics-21.4.0a51-cp310-cp310-manylinux2014_aarch64.whl": [
+          "Db/wMUJ6Uq7iWMDlImeHoF0E9GVvK/0yR+3SMkwnyTA=",
+          "cp310"
+        ],
+        "dqrobotics-21.4.0a51-cp310-cp310-win_amd64.whl": [
+          "rqYjv6vMXMeox172C2y035g6ueOyju7jn3gifW6z7so=",
+          "cp310"
+        ],
+        "dqrobotics-21.4.0a51-cp37-cp37m-macosx_10_14_x86_64.whl": [
+          "oWOOIcierwvFeYSHlLn6XUDNKjPKP9JXYPFksJEki1Y=",
+          "cp37"
+        ],
+        "dqrobotics-21.4.0a51-cp37-cp37m-manylinux1_x86_64.whl": [
+          "N58Yz5joQ4P9Uw0Q2ku/o8HH4eTMDy7VtLP/swzDxqY=",
+          "cp37"
+        ],
+        "dqrobotics-21.4.0a51-cp37-cp37m-manylinux2014_aarch64.whl": [
+          "YYnLQkl4D3xe4hG7tsH6paGHXQm/9VaO8NK1FjV+Gh0=",
+          "cp37"
+        ],
+        "dqrobotics-21.4.0a51-cp37-cp37m-win_amd64.whl": [
+          "MicRvFWFIxi9l498jalE3a2Jx1+ZcgzlwuPA6qoWgmg=",
+          "cp37"
+        ],
+        "dqrobotics-21.4.0a51-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "XvqOuEtlz+9jAioVvOnjcYpo/xGe4uhyJ3v7Xz6kqKE=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a51-cp38-cp38-macosx_12_0_arm64.whl": [
+          "9S1aCi6KAeqckpV6R50JIgwxLtEECc8apMCF5FN0EQs=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a51-cp38-cp38-manylinux1_x86_64.whl": [
+          "kRoEeTqBPRBcvEbIwhkZWWr4uYL+AsetIaWeIm+Kkfg=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a51-cp38-cp38-manylinux2014_aarch64.whl": [
+          "GW+u+tOGP+Vh3T/qerbr1Dvdy7k9qxwg/o3f/Vjk88Q=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a51-cp38-cp38-win_amd64.whl": [
+          "jPTnxBxb4GIskPaMfsLk9OSWGJl9aAEjtWMz7cJwLBw=",
+          "cp38"
+        ],
+        "dqrobotics-21.4.0a51-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "FZ530b7c9qgyIno6ZJsf+NK2Xk1MBYZinWPpz9LTyMw=",
+          "cp39"
+        ],
+        "dqrobotics-21.4.0a51-cp39-cp39-macosx_12_0_arm64.whl": [
+          "9lS+aOQ38AsCiEwkldz5Gj1giHvetNqfdeyGMozqmGc=",
+          "cp39"
+        ],
+        "dqrobotics-21.4.0a51-cp39-cp39-manylinux1_x86_64.whl": [
+          "HwYgRybxxMa/+P0Rf9fHHtXl6DaxZMgaYFTCxW/e5X8=",
+          "cp39"
+        ],
+        "dqrobotics-21.4.0a51-cp39-cp39-manylinux2014_aarch64.whl": [
+          "OnrmjjUPMZkBAvJCYbXybNoFkn5GOlHGG2PSmZrivmY=",
+          "cp39"
+        ],
+        "dqrobotics-21.4.0a51-cp39-cp39-win_amd64.whl": [
+          "sU4KOizOhUg6tk7LJkf4r4lDa5Mzv0LiOsKoFBoiblo=",
           "cp39"
         ]
       }
@@ -36556,6 +36834,18 @@
       "wheels": {
         "enterprise_utils-0.0.38-py3-none-any.whl": [
           "J9KvRMwndMjkHIW8l/Nz9MK8j1Sr6AtUzFkAd8Ww/+M=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.39": {
+      "sdist": [
+        "sO62Z5t5Zx2UeHHOJKKIVqDVswVObFUV9L0spNas5zM=",
+        "enterprise-utils-0.0.39.tar.gz"
+      ],
+      "wheels": {
+        "enterprise_utils-0.0.39-py3-none-any.whl": [
+          "w96JEb2S+PMCI9zeVH9cYzA6UG1nsnv2CyisiYlpMEU=",
           "py3"
         ]
       }
@@ -40085,6 +40375,22 @@
         "fbgemm_gpu_nightly_cpu-2022.7.24-cp38-cp38-manylinux1_x86_64.whl": [
           "srHrM4mFD9k79Zk6pa2fGVcBxKVim019nFI3UANpa+k=",
           "cp38"
+        ]
+      }
+    },
+    "2022.7.25": {
+      "wheels": {
+        "fbgemm_gpu_nightly_cpu-2022.7.25-cp37-cp37m-manylinux1_x86_64.whl": [
+          "OF/3zYYI2JbyimKxzwcI2R3KtF1nmxHk2CUQM80V/wY=",
+          "cp37"
+        ],
+        "fbgemm_gpu_nightly_cpu-2022.7.25-cp38-cp38-manylinux1_x86_64.whl": [
+          "OXbKp+Fx3fJV+ceRq/ZIYU6bIfu4lrDD1QrtAmbgWWU=",
+          "cp38"
+        ],
+        "fbgemm_gpu_nightly_cpu-2022.7.25-cp39-cp39-manylinux1_x86_64.whl": [
+          "3vyQKwa4o62EeN7RPvPp9JQIAjCqBtcXuHpUZch+V/o=",
+          "cp39"
         ]
       }
     },
@@ -65853,6 +66159,24 @@
         "eU7BB6KRcRz3BOpILwoE/rN4miTXzF5iq3WVG2jc/G4=",
         "jina-3.7.1.dev2.tar.gz"
       ]
+    },
+    "3.7.1.dev6": {
+      "sdist": [
+        "pW1G31jg20WQVrwaedBBi5A1X0BzuTX6Ihu8vQNUTmE=",
+        "jina-3.7.1.dev6.tar.gz"
+      ]
+    },
+    "3.7.1.dev7": {
+      "sdist": [
+        "bCVBNVFzMyj2rIjgYAGJhjYrbm1bLmwVRhpmS/q8eqc=",
+        "jina-3.7.1.dev7.tar.gz"
+      ]
+    },
+    "3.7.1.dev8": {
+      "sdist": [
+        "cPFYtHLX/OG7SyFoH9Qp0tsO/gq3u3yUyST/MyVzPHY=",
+        "jina-3.7.1.dev8.tar.gz"
+      ]
     }
   },
   "jira-term": {
@@ -66941,6 +67265,10 @@
       }
     },
     "3.4.post2": {
+      "sdist": [
+        "EpC9J0eMSeeN/SRwxXD7sA/zNHl/mby4TkxeRR/1s10=",
+        "jupyterlab-language-pack-pl-PL-3.4.post2.tar.gz"
+      ],
       "wheels": {
         "jupyterlab_language_pack_pl_PL-3.4.post2-py2.py3-none-any.whl": [
           "/QYTFQxRKCNgeKpfAcyxuTK4XMM1MU3GETrtjRV8/lY=",
@@ -90820,6 +91148,70 @@
         ]
       }
     },
+    "1.3.268": {
+      "wheels": {
+        "power_grid_model-1.3.268-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "waB1yoV6p7HJvuu5RvkaKwBYJdCKmDHY8Q/mVrb2XZE=",
+          "cp310"
+        ],
+        "power_grid_model-1.3.268-cp310-cp310-macosx_11_0_arm64.whl": [
+          "pZNEJUc2/6r2bseAWgd43aArQ7aSXVuLds2qV4U0bDM=",
+          "cp310"
+        ],
+        "power_grid_model-1.3.268-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "MAp1UIqDP/Cl9NPPevp7E7NAtTVFj8cX6EQKT7RBfns=",
+          "cp310"
+        ],
+        "power_grid_model-1.3.268-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "fvFP839JfVPxSJh9HwinaUapX2KEqiv284GOSr3SlLc=",
+          "cp310"
+        ],
+        "power_grid_model-1.3.268-cp310-cp310-win_amd64.whl": [
+          "JU8q6y/zmoq3Z4mPDok8TOT4EqkxlHyJ8vmElNR8vrQ=",
+          "cp310"
+        ],
+        "power_grid_model-1.3.268-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "6C9KQGG4rI+z32cVQZJch6Str3Ouv8exPKp7CNX9UNQ=",
+          "cp38"
+        ],
+        "power_grid_model-1.3.268-cp38-cp38-macosx_11_0_arm64.whl": [
+          "+HBpqq1LaVok2DiC0/ftwki3vs9GaTFr/VjUnVy7Kd0=",
+          "cp38"
+        ],
+        "power_grid_model-1.3.268-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "z1iwsisOvE8Ed7SKrTpKLJ1E4U/RzGpyV1OTk0++t4k=",
+          "cp38"
+        ],
+        "power_grid_model-1.3.268-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "vweOWbUcBSNBwsdqUf0cOegppeAtBSrEN8I7rPBTD4E=",
+          "cp38"
+        ],
+        "power_grid_model-1.3.268-cp38-cp38-win_amd64.whl": [
+          "eV2byhK0M9KfA1PtPOqDZEc5mG4kP6nMR90GlNwrHZM=",
+          "cp38"
+        ],
+        "power_grid_model-1.3.268-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "U1CForT7CTQ+cM88upCe3mAzmWesYXQsTWeikcrxiRQ=",
+          "cp39"
+        ],
+        "power_grid_model-1.3.268-cp39-cp39-macosx_11_0_arm64.whl": [
+          "VsXE/BLpgu+qeB2tyuk2ywPazCYxzGu2HBIKP7zByOU=",
+          "cp39"
+        ],
+        "power_grid_model-1.3.268-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "PhvraPOmPTC9zWnezhT59ARrOPRSdrQWlinScK6HTBQ=",
+          "cp39"
+        ],
+        "power_grid_model-1.3.268-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "w9uJS1M27nWqFkOM7xUCkCvWZUFY5DCH0Nh7Jt9Mf20=",
+          "cp39"
+        ],
+        "power_grid_model-1.3.268-cp39-cp39-win_amd64.whl": [
+          "zhZkaCS4JOZ4uPJUE0nmaBUHPREvG7GqNa/FCw+XHd4=",
+          "cp39"
+        ]
+      }
+    },
     "1.3.28": {
       "wheels": {
         "power_grid_model-1.3.28-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -105310,6 +105702,14 @@
       "sdist": [
         "F2a2vAn86t2wtRFyo2PgmWV4a5AbZCwO7Q87yE2o8Ck=",
         "qi.xmpp.botfarm-0.1.tar.gz"
+      ]
+    }
+  },
+  "qtpylibvrs": {
+    "1.5.85": {
+      "sdist": [
+        "vZKTnhQkz+QsbuZfJGTQ48+RQ2WSEjUAw8yoB4gh1EE=",
+        "QTPyLibVRS-1.5.85.tar.gz"
       ]
     }
   },
@@ -129527,6 +129927,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.685": {
+      "sdist": [
+        "SfUp19JolMOlHTnG351VDLSEaOlGNx52iUQPowGx8Yc=",
+        "tencentcloud-sdk-python-dcdb-3.0.685.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dcdb-3.0.685-py2.py3-none-any.whl": [
+          "x0E4q++5zUXlw+GIKsEB/FQTW221PvW1z2BaOBMyxHE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tendril-dox-render": {
@@ -135406,6 +135818,54 @@
       "wheels": {
         "uzcloud_billing-0.1.6-py3-none-any.whl": [
           "oOtSL4PxsNWG31HAbYzQ4adBfYNIjrBVRU2BZY+QpwY=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.7": {
+      "sdist": [
+        "5rTiLe0HbYiIuiF5G2i/c5HkY7JmNjPujIVpW7l84QI=",
+        "uzcloud-billing-0.1.7.tar.gz"
+      ],
+      "wheels": {
+        "uzcloud_billing-0.1.7-py3-none-any.whl": [
+          "S68E8n+SbEi2aMGXVZqmmQdybb+o1WGpxdvt2jIvA4M=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.8": {
+      "sdist": [
+        "B5oXX4qPDZi4kQd4a0JD9mwV59cgVUK0qPmqF36WRRA=",
+        "uzcloud-billing-0.1.8.tar.gz"
+      ],
+      "wheels": {
+        "uzcloud_billing-0.1.8-py3-none-any.whl": [
+          "95eTeGLrTYF0fNNeb9UzpMFBKhNaRLDdMYM9f7A8YvM=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.9": {
+      "sdist": [
+        "kf69kAJt9epgctWri7UKAkv6DqxPN1elrBuK0WG14uI=",
+        "uzcloud-billing-0.1.9.tar.gz"
+      ],
+      "wheels": {
+        "uzcloud_billing-0.1.9-py3-none-any.whl": [
+          "T9iSsyTzbqZLOTYqfLiOPcN4UAQBl7H0NQHHD9puwwk=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0": {
+      "sdist": [
+        "etmnNFK65kBDP5nPMNgz0F7oyL0EKt9fN5bFwjc9a34=",
+        "uzcloud-billing-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "uzcloud_billing-0.2.0-py3-none-any.whl": [
+          "LDISusnJ/wxKTVt0yF2cYtAdoAqXbRW7dRMKZE7M0vQ=",
           "py3"
         ]
       }
