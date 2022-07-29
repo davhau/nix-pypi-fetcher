@@ -13643,6 +13643,22 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b20220728": {
+      "sdist": [
+        "CHrC9x2SaHv4Bq0ZLhaWXQzljPYlbwKGn4RIlQk0E7I=",
+        "bigdl-dllib-2.1.0b20220728.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.1.0b20220728-py3-none-macosx_10_11_x86_64.whl": [
+          "xhaVbG6YJBMo/TPp/wrz8k/xhZEzZ5mn01+TgSJQsG8=",
+          "py3"
+        ],
+        "bigdl_dllib-2.1.0b20220728-py3-none-manylinux1_x86_64.whl": [
+          "/E6xiYf7z83WXbPsKF3cnFz1KK4Ue2esDvdrpWGlCCg=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -23109,6 +23125,44 @@
       }
     }
   },
+  "cupy-cuda11x": {
+    "11.0.0": {
+      "wheels": {
+        "cupy_cuda11x-11.0.0-cp310-cp310-manylinux1_x86_64.whl": [
+          "Ce5J5vjstZE2qQbv11rz8boH05P9vY4g62n7gPI/zUo=",
+          "cp310"
+        ],
+        "cupy_cuda11x-11.0.0-cp310-cp310-win_amd64.whl": [
+          "bbI5sx0baY10kHvmT+efqy4z647UwzTwliLNxhiVwqo=",
+          "cp310"
+        ],
+        "cupy_cuda11x-11.0.0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "ODk/oHjIgRcC9CcCXgjmCU6OK3o2/I3RQcb9Yc9qjNw=",
+          "cp37"
+        ],
+        "cupy_cuda11x-11.0.0-cp37-cp37m-win_amd64.whl": [
+          "8Umdee+aO3aK1kHrVOtQJ3c7LfE+W+C0po9CZ578WHs=",
+          "cp37"
+        ],
+        "cupy_cuda11x-11.0.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "WS4Yr+PsYTJuxy5yqL9Pfrn9zMahXaeGXkMYV+Ynvfk=",
+          "cp38"
+        ],
+        "cupy_cuda11x-11.0.0-cp38-cp38-win_amd64.whl": [
+          "hiSpmh2PLwocoJL1G4ywNSbiNgPKc+dGFwhpGU3Z0No=",
+          "cp38"
+        ],
+        "cupy_cuda11x-11.0.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "ly6jewYTkmgXdVLuwmgWAmmfUkeESaqQOroXKtrnRNo=",
+          "cp39"
+        ],
+        "cupy_cuda11x-11.0.0-cp39-cp39-win_amd64.whl": [
+          "PPX5QnMVH+/mP2yaWp36XrFOLVFeYB194Ikx45yGXUY=",
+          "cp39"
+        ]
+      }
+    }
+  },
   "customyolov4": {
     "2": {
       "sdist": [
@@ -23310,6 +23364,18 @@
     }
   },
   "cylc-flow": {
+    "8.0.0": {
+      "sdist": [
+        "WktLtOEB1lxcOX5quBDSG5DId03KOp5wjelrIuQ9DP4=",
+        "cylc-flow-8.0.0.tar.gz"
+      ],
+      "wheels": {
+        "cylc_flow-8.0.0-py3-none-any.whl": [
+          "eGGI1Y9Ji7DtheYDpbAJWlyHCvYzT6D+jDkxNmHrntc=",
+          "py3"
+        ]
+      }
+    },
     "8.0a0": {
       "sdist": [
         "NYi+9gjVu9eRHGJ/iNv618BVOCC+dzF/oLYxIB20O6A=",
@@ -121299,6 +121365,26 @@
           "cp39"
         ]
       }
+    },
+    "2.10.0.dev20220728": {
+      "wheels": {
+        "tf_nightly_intel-2.10.0.dev20220728-cp310-cp310-win_amd64.whl": [
+          "1rK8Z3ALaDci+XUaCo0ZyUaw/hf36E+F/3O2dfudiVo=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.10.0.dev20220728-cp37-cp37m-win_amd64.whl": [
+          "TzNmCz2/CyLwacJ+My4/oAptIrD9Xl/UAVyBhb8+kic=",
+          "cp37"
+        ],
+        "tf_nightly_intel-2.10.0.dev20220728-cp38-cp38-win_amd64.whl": [
+          "12KhzevTz8/mrkLf15mD+bcM1kO/dyxK9n4QpP5mn/w=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.10.0.dev20220728-cp39-cp39-win_amd64.whl": [
+          "S8OqVaKbT9J8Xdq/v4tYzNX+g6z3OZn83Fn4icQYnBM=",
+          "cp39"
+        ]
+      }
     }
   },
   "tfwstartr": {
@@ -132498,6 +132584,38 @@
         ]
       }
     },
+    "0.11.4": {
+      "wheels": {
+        "ws_sdk-0.11.4-py3-none-any.whl": [
+          "q98cfaZavMcyFVwMwYpiZVAd3LCmywb1RKuB04QvZKk=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.6": {
+      "wheels": {
+        "ws_sdk-0.11.6-py3-none-any.whl": [
+          "KwX+dvdi5WpqF5gfFzftA5arRLgeMt7O+5eAO6jlWIM=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.68": {
+      "wheels": {
+        "ws_sdk-0.11.68-py3-none-any.whl": [
+          "ODzx38kd5vmtgwSf0MqNWRP6a9umNoSam/+SoCTXQ1s=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.8": {
+      "wheels": {
+        "ws_sdk-0.11.8-py3-none-any.whl": [
+          "s360qZuyOeErbufTi6PzyC3p41snxjDecd4xpQCS9Nc=",
+          "py3"
+        ]
+      }
+    },
     "0.2": {
       "wheels": {
         "ws_sdk-0.2-py3-none-any.whl": [
@@ -133122,6 +133240,22 @@
       "wheels": {
         "ws_sdk-0.9a3-py3-none-any.whl": [
           "7T+iSqqkKGiCo/Pbr86WDEcmvsKeXlNUNKfq+SP9HNo=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "wheels": {
+        "ws_sdk-1.0.0-py3-none-any.whl": [
+          "vkyjQRMipWdZBqz2891CKwIirbiYuZBebKgEA9cZslY=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "wheels": {
+        "ws_sdk-1.0.2-py3-none-any.whl": [
+          "KxV2okAbdx/whEQij00PJ4YRjLDRSzSv5WSqRmZNwhs=",
           "py3"
         ]
       }
@@ -133949,6 +134083,20 @@
         "A3AJsTQ76CNZxfSq2C4UXgRle0lSTzZAB8McggLUCG0=",
         "xstatic-release-1.2.1.tar.gz"
       ]
+    }
+  },
+  "yaket": {
+    "0.0.1": {
+      "sdist": [
+        "RBlLT/4qfVW3exSMxzGcfpLT81AHnQEuYkxwOFv2RV0=",
+        "yaket-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "yaket-0.0.1-py3-none-any.whl": [
+          "9Tn65qBIzH7eal2K7sxmoU69j86Mjfu+LMZBCF+eKFw=",
+          "py3"
+        ]
+      }
     }
   },
   "yaml-config-wrapper": {

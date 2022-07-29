@@ -40381,6 +40381,16 @@
       ]
     }
   },
+  "fitbyte": {
+    "1.0": {
+      "wheels": {
+        "fitbyte-1.0-py3-none-any.whl": [
+          "KnQ/td1G51UnkkWmL4OmzPSCwJSpN21+n37WXUkWgYY=",
+          "py3"
+        ]
+      }
+    }
+  },
   "fixtures-mongoengine": {
     "1.0.0": {
       "sdist": [
@@ -49436,6 +49446,18 @@
         ]
       }
     },
+    "1.48.0": {
+      "sdist": [
+        "r6yWH8NxOInTxIwRRhq6SYQspipU3+jzRkQgRgNumFY=",
+        "grpcio-status-1.48.0.tar.gz"
+      ],
+      "wheels": {
+        "grpcio_status-1.48.0-py3-none-any.whl": [
+          "NICKqVToKcRgDeMyTsU7X6LJNPWMPVVYaVm51pifDVs=",
+          "py3"
+        ]
+      }
+    },
     "1.48.0rc1": {
       "sdist": [
         "GTEkhBNsUpnr7Wdfi4nEyXmm9AVLMcFN2GPNEGIhdEM=",
@@ -55011,6 +55033,10 @@
         "imagecodecs-2022.7.27-cp39-cp39-win_amd64.whl": [
           "prbxVtpZLeb40jcsWmBUgPNr7AA0ov4Pzv4R8VCUC7s=",
           "cp39"
+        ],
+        "imagecodecs-2022.7.27-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cs2VEpCv8sxgR5ywhxiph5b+1mAhkAoB6Ozk4OGTnZM=",
+          "pp38"
         ],
         "imagecodecs-2022.7.27-pp38-pypy38_pp73-win_amd64.whl": [
           "k37/+HGEzyrZD1mHWqK0PJrNrMZ8aeuO4V4QsOAd9KQ=",
@@ -76941,6 +76967,14 @@
           "py3"
         ]
       }
+    },
+    "15.0.1.5.0": {
+      "wheels": {
+        "odoo_addon_l10n_ro_stock_account-15.0.1.5.0-py3-none-any.whl": [
+          "JU7NoHZwfdPjC1Y06sQDv4TfhXHlE6ERoOD0BDVMg3k=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-addon-mail-show-follower": {
@@ -88216,6 +88250,12 @@
       "sdist": [
         "PVTBK1dmcT3fANVX/ll7JV3+pfmX5w1LhmIaQDBpG94=",
         "proactive-13.1.0.2207280139.dev0.zip"
+      ]
+    },
+    "13.1.0.2207290140.dev0": {
+      "sdist": [
+        "eSPuW2yEd6TB1DNhqYQwZB883tNClxxHObk06UwWP7Q=",
+        "proactive-13.1.0.2207290140.dev0.zip"
       ]
     },
     "8.1.0": {
@@ -102608,6 +102648,18 @@
       "wheels": {
         "pytorch_ie-0.7.0-py3-none-any.whl": [
           "Zn9Sjyxw8eTo8P76l7opxTDsUzs0XRkf2zosQxFrTCc=",
+          "py3"
+        ]
+      }
+    },
+    "0.8.0": {
+      "sdist": [
+        "D75dNI4xUzZefbIkAd092VNwP0sKIpcn1JioJXlI93U=",
+        "pytorch-ie-0.8.0.tar.gz"
+      ],
+      "wheels": {
+        "pytorch_ie-0.8.0-py3-none-any.whl": [
+          "GhBxbo2YqqVS3S8kVuuEcLj9aWcs5MWa1qER3L3+M+M=",
           "py3"
         ]
       }
@@ -128179,6 +128231,50 @@
           "py2"
         ]
       }
+    }
+  },
+  "vipro-python": {
+    "0.1": {
+      "sdist": [
+        "crXMnoctcgL2yqojd8vmFIhxFvCRQ5rwzU8UjXbfwDI=",
+        "vipro_python-0.1.tar.gz"
+      ]
+    },
+    "1.20220728105445": {
+      "sdist": [
+        "O8sWFHDFJ5jy/o26vPuGLSD3qdcSpG0kwdhxSV55/p0=",
+        "vipro_python-1.20220728105445.tar.gz"
+      ]
+    },
+    "1.20220728114526": {
+      "sdist": [
+        "nkammHmognKvfSMlxzcpZDnAnPrFgdvlC5zDr8lw73w=",
+        "vipro_python-1.20220728114526.tar.gz"
+      ]
+    },
+    "1.20220728114938": {
+      "sdist": [
+        "19+GMVN2/fHrFsWuHr8m4zK9RNk2g6C3OYrF0bru7Ts=",
+        "vipro_python-1.20220728114938.tar.gz"
+      ]
+    },
+    "1.20220728115037": {
+      "sdist": [
+        "d+O2jOTRIRoi4hd5sFqr1Dobkcv1ZNyqZ/V9PhWQY98=",
+        "vipro_python-1.20220728115037.tar.gz"
+      ]
+    },
+    "1.20220728115619": {
+      "sdist": [
+        "L22Lb/cCH/gHthS71NnrZ5Nz4ev0g71KOq2dA6u0POE=",
+        "vipro_python-1.20220728115619.tar.gz"
+      ]
+    },
+    "2.20220728125429": {
+      "sdist": [
+        "hmk2jwKAosWyLd/4DCru/tTjftn0GsW/rl/cOMFK6Fk=",
+        "vipro_python-2.20220728125429.tar.gz"
+      ]
     }
   },
   "visitoolkit-eventsystem": {
