@@ -22640,6 +22640,18 @@
         ]
       }
     },
+    "0.2.197": {
+      "sdist": [
+        "vE7x+/kKBabfGKlS1UuiPlLt4hNZf/WTraqG+HdpjEY=",
+        "cdk8s-image-0.2.197.tar.gz"
+      ],
+      "wheels": {
+        "cdk8s_image-0.2.197-py3-none-any.whl": [
+          "OGtwHoP8VATaKsABuNckUk5mR575SHXXZIO7bH6lsZo=",
+          "py3"
+        ]
+      }
+    },
     "0.2.90": {
       "sdist": [
         "nWQZc1pT/62WShYmVxbI6Vw9ZP/s12AUWRftMvCmg4o=",
@@ -53078,50 +53090,6 @@
         ]
       }
     },
-    "0.117": {
-      "wheels": {
-        "fastdup-0.117-cp37-cp37m-manylinux_2_27_x86_64.whl": [
-          "+NE+PFKC3KmUmrDiPJyg214ewyfswFndQgLCS8NYbyE=",
-          "cp37"
-        ],
-        "fastdup-0.117-cp37-cp37m-manylinux_2_31_x86_64.whl": [
-          "MLE/gf6ofXivPP1Z0BdxFC5+Q7ijJNK2THAJFPxFheM=",
-          "cp37"
-        ],
-        "fastdup-0.117-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "W/59S7x8WKmQKnjMMMXLcDEqJ4ErdtqH6hurlHZxzJs=",
-          "cp38"
-        ],
-        "fastdup-0.117-cp38-cp38-macosx_11_0_arm64.whl": [
-          "fK1RBb2D6sNVLBLhr93oWqucTQYNJVFLTlPXXl1SuLM=",
-          "cp38"
-        ],
-        "fastdup-0.117-cp38-cp38-manylinux_2_27_x86_64.whl": [
-          "ZUWZqRW+/nIMoq3BMxktoIheGmPIOB8oTkvSn40nlHk=",
-          "cp38"
-        ],
-        "fastdup-0.117-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "etFwop1C2UjJgYnvqRgP3Y1OIakg23eNglEzXgNOESU=",
-          "cp38"
-        ],
-        "fastdup-0.117-cp39-cp39-macosx_10_14_x86_64.whl": [
-          "DU02j1E45JfcfRMwxLXL930rlkoBx8CUjK1wMpqsni8=",
-          "cp39"
-        ],
-        "fastdup-0.117-cp39-cp39-macosx_11_0_arm64.whl": [
-          "5SkW98edmJkEySuUNEEqf9BZUordmt3JW9JaQsWNf0M=",
-          "cp39"
-        ],
-        "fastdup-0.117-cp39-cp39-manylinux_2_27_x86_64.whl": [
-          "yvjH0cy/7gaDSI8WfyskIGEqW9/czPJza+kel6kcG0o=",
-          "cp39"
-        ],
-        "fastdup-0.117-cp39-cp39-manylinux_2_31_x86_64.whl": [
-          "d7HOwsxTcn2avwt1wZNCLwU9xu1zN453fjG1Cceex2w=",
-          "cp39"
-        ]
-      }
-    },
     "0.118": {
       "wheels": {
         "fastdup-0.118-cp37-cp37m-manylinux_2_27_x86_64.whl": [
@@ -53202,79 +53170,63 @@
         ]
       }
     },
-    "0.121": {
+    "0.122": {
       "wheels": {
-        "fastdup-0.121-cp38-cp38-macosx_11_0_arm64.whl": [
-          "X0meTamtKFYfN8nkOQRO327Xiym0HI2NBIlemugAgGY=",
+        "fastdup-0.122-cp37-cp37m-manylinux_2_27_x86_64.whl": [
+          "DYbH7Zb0Aoh/Lk7wFS79qyR/xceIsHiJ8uJ6hz0Ui6w=",
+          "cp37"
+        ],
+        "fastdup-0.122-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "TioqNiJmJOGL30bRztqeMByWo5xPVMcaovMIlktUc1Q=",
+          "cp37"
+        ],
+        "fastdup-0.122-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "xdgFqIrnrGirwrn/+s29rqS9AXwoPCTRZB6WMKmENYM=",
           "cp38"
         ],
-        "fastdup-0.121-cp39-cp39-macosx_11_0_arm64.whl": [
-          "bANGEn6zRV50e9SkKNJ/uQqEQVLymmzxOPKQZDivdU4=",
+        "fastdup-0.122-cp38-cp38-macosx_11_0_arm64.whl": [
+          "BkqcOS1zXwjkO44UwQ6SmdxiQhOdSeNlz6bVnVhseEw=",
+          "cp38"
+        ],
+        "fastdup-0.122-cp38-cp38-manylinux_2_27_x86_64.whl": [
+          "msuTKTs7tHn0tMOqzpkhxNKKwkdbX5yV/kNxgAlwk7E=",
+          "cp38"
+        ],
+        "fastdup-0.122-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "p1f9G9jubiPT+fUDqC++EP3lGjjTWXPn593FfpAV4y0=",
+          "cp38"
+        ],
+        "fastdup-0.122-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "m3HOhW9rP/lzj/P8wdOdB5EIQ6ZQWsiCFU4bw5hsqKo=",
+          "cp39"
+        ],
+        "fastdup-0.122-cp39-cp39-macosx_11_0_arm64.whl": [
+          "pTEWp+FBFX6Zf54TH40GZn6F/6Ippogz9B2Ld3LN8dE=",
+          "cp39"
+        ],
+        "fastdup-0.122-cp39-cp39-manylinux_2_27_x86_64.whl": [
+          "8/5O8sZGUn7ojeaHQcKyuR/SZ6ZQ5NuW7X+NtRFfIXU=",
+          "cp39"
+        ],
+        "fastdup-0.122-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "LrkVtjyEG2ven0d9BOIu6hCBOPIwwbLq2mMDHR27/QQ=",
           "cp39"
         ]
       }
     },
-    "0.64": {
+    "0.123": {
       "wheels": {
-        "fastdup-0.64-cp37-cp37m-manylinux_2_31_x86_64.whl": [
-          "1V+a4YmL3rsg0ZBDijI+H7afP959uPwSw4Nv8SgSs4k=",
+        "fastdup-0.123-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "MGB1kYfdte4thipxQ9fs0qWHKjZCfZrHRS4C8MuxR9k=",
           "cp37"
         ],
-        "fastdup-0.64-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "vPmWEfVqLg2kUy13oZOC//5+GSRw6020YmR2wCw8WOI=",
-          "cp38"
-        ]
-      }
-    },
-    "0.65": {
-      "wheels": {
-        "fastdup-0.65-cp37-cp37m-manylinux_2_27_x86_64.whl": [
-          "qy0VL/8l6nO+lyuBwnZrgkbpKLJWByPZdZTvkb0M7RI=",
-          "cp37"
-        ],
-        "fastdup-0.65-cp38-cp38-manylinux_2_27_x86_64.whl": [
-          "0MQcYFeHi74I0Wosk0NzZ1MBu85OMfUII3OPQektd68=",
-          "cp38"
-        ]
-      }
-    },
-    "0.66": {
-      "wheels": {
-        "fastdup-0.66-cp37-cp37m-manylinux_2_31_x86_64.whl": [
-          "XvsQN+5ffhe5hamwsP0ETS/kQIg3cM2tAPikLun9B3Q=",
-          "cp37"
-        ],
-        "fastdup-0.66-cp38-cp38-macosx_11_0_arm64.whl": [
-          "3II3uMCkUJpcsgZ2v3fcPxegCP+Pz3o9m+7DGjdhLOk=",
+        "fastdup-0.123-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "kNIeh9jXwkC5ypEoVua5GTel3/HTJXPJmSIdVeDl4CA=",
           "cp38"
         ],
-        "fastdup-0.66-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "VabV2am8Noglz46ihqJblK9kQtDYWLFXdL5Q49FpF1k=",
-          "cp38"
-        ]
-      }
-    },
-    "0.67": {
-      "wheels": {
-        "fastdup-0.67-cp37-cp37m-manylinux_2_31_x86_64.whl": [
-          "ZLAalYXJ1Su5nUOR5dTv4+fhm7AY9cyWZGgG20D+UQw=",
-          "cp37"
-        ],
-        "fastdup-0.67-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "uTm/fNRCSsjK4ZoefyUT2o12fz3huFWsfN8FOzcYqMM=",
-          "cp38"
-        ]
-      }
-    },
-    "0.68": {
-      "wheels": {
-        "fastdup-0.68-cp37-cp37m-manylinux_2_27_x86_64.whl": [
-          "d6P/zxObaRrbIJgEfxtK0prIq0QKFnmA2qaJ7KVnmSM=",
-          "cp37"
-        ],
-        "fastdup-0.68-cp38-cp38-manylinux_2_27_x86_64.whl": [
-          "OwwCiWKrQUa7TDk1YTFQBz0Nzdf6GtvROjFHpS96WhM=",
-          "cp38"
+        "fastdup-0.123-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "/hL8oRjVyID6hl17bWtpWsulNn11RuqWUs1hsHErJaw=",
+          "cp39"
         ]
       }
     },
