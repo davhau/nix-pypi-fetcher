@@ -13727,6 +13727,22 @@
           "py3"
         ]
       }
+    },
+    "2.1.0b20220801": {
+      "sdist": [
+        "JqOlHT2elWKuRX4KeMpym2V6BIOCVOFd0ZYFicZw9xU=",
+        "bigdl-dllib-2.1.0b20220801.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.1.0b20220801-py3-none-macosx_10_11_x86_64.whl": [
+          "YsIwKQ4hVTQh7R5rLiAFfUdlz86aWyrvi5rloJ/JHEc=",
+          "py3"
+        ],
+        "bigdl_dllib-2.1.0b20220801-py3-none-manylinux1_x86_64.whl": [
+          "b3LN7HkdYrZMe7vG2/OXncIrGdpflQk6H8n5KfdM61E=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -41495,6 +41511,18 @@
         "kp7KRgixChrgn+o7l6d+Im7sabvY7kjUS45NxSzlWfY=",
         "grad-cam-1.4.0.tar.gz"
       ]
+    },
+    "1.4.1": {
+      "sdist": [
+        "8yeraWN9eNr1jEABhBgNRSwb4fK9F9EUwZaQcM7r2zw=",
+        "grad-cam-1.4.1.tar.gz"
+      ]
+    },
+    "1.4.2": {
+      "sdist": [
+        "OAiQ5ZYpacFAQMlkpL8h9VQPG0D5vD5tnc6B/NaDIRU=",
+        "grad-cam-1.4.2.tar.gz"
+      ]
     }
   },
   "graia-template": {
@@ -58788,6 +58816,12 @@
       "sdist": [
         "Oo7kchTX0jPv+lsBhlbIcMocEvqJIfJCdGMoao/QL0c=",
         "mwutils-0.1.37.tar.gz"
+      ]
+    },
+    "0.1.38": {
+      "sdist": [
+        "QMSOywbxrTutZqdVylydkvKmRThRZ23vZFTJcfAwYsw=",
+        "mwutils-0.1.38.tar.gz"
       ]
     }
   },
@@ -85897,6 +85931,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.1": {
+      "sdist": [
+        "ak8E3yA24VqvEkoezKYUhWz5sGS3Yw8z8UoF0jwY6v8=",
+        "pyimpspec-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pyimpspec-2.0.1-py3-none-any.whl": [
+          "FvHB4tsDEZFOVRbWL4c8neBZgvkQ6cXavLmD26McWsI=",
+          "py3"
+        ]
+      }
     }
   },
   "pyjexl": {
@@ -96777,6 +96823,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.4": {
+      "sdist": [
+        "wLPQ9JnbBn+irNVY8b1BRensD+nXgJhhRutGFMcsl/c=",
+        "rascal-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "rascal-0.3.4-py3-none-any.whl": [
+          "LBYU4rTgwaOMrzC4ecIqhzECrkc4s3qG/j7pt6F8qPY=",
+          "py3"
+        ]
+      }
     }
   },
   "rashlyoutlaid": {
@@ -100375,6 +100433,26 @@
         "rubato-2.2.1.dev8-py3-none-any.whl": [
           "1ycX2Yk7uxo5nbpx5BCNTvSvwfHdcbOByGdHxsL+qvY=",
           "py3"
+        ]
+      }
+    },
+    "3.0.0": {
+      "sdist": [
+        "wOjP7Cc7RmYBQPbwDwmC5NQAWHS1EoZ00eesAFglIik=",
+        "rubato-3.0.0.tar.gz"
+      ],
+      "wheels": {
+        "rubato-3.0.0-cp310-cp310-macosx_12_0_arm64.whl": [
+          "J3+3abw8bLK5mE2hcT1AoV1juYldITx6wjktBANRH5I=",
+          "cp310"
+        ],
+        "rubato-3.0.0-cp310-cp310-macosx_12_0_x86_64.whl": [
+          "pK0L2/VHT9z9RqduCVJIoVJqiGR29cC78OeY90mZxD4=",
+          "cp310"
+        ],
+        "rubato-3.0.0-cp310-cp310-win_amd64.whl": [
+          "CYyJp7PN4sLN5cLDJHdHM2p6M2Xrn4UwwtVQsLXW1MA=",
+          "cp310"
         ]
       }
     }
@@ -121700,6 +121778,26 @@
         ],
         "tf_nightly_intel-2.11.0.dev20220731-cp39-cp39-win_amd64.whl": [
           "uEZ2fVwv20JpUWMITK6mjjL64w4HjL7AXCjNWUNckLk=",
+          "cp39"
+        ]
+      }
+    },
+    "2.11.0.dev20220801": {
+      "wheels": {
+        "tf_nightly_intel-2.11.0.dev20220801-cp310-cp310-win_amd64.whl": [
+          "vLlPO6jB8AfOF8CRGGHoDWSUVhcJhOd/FNvsGxhV8qg=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.11.0.dev20220801-cp37-cp37m-win_amd64.whl": [
+          "eaFnVjD3MEGDpm3Fz3XLjDZ6W2Xiq+NxJJFBFz15onA=",
+          "cp37"
+        ],
+        "tf_nightly_intel-2.11.0.dev20220801-cp38-cp38-win_amd64.whl": [
+          "uljk4IlpfiU/0T7fr7jMHlu+LxPInP3K+HV/SLOOfJ8=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.11.0.dev20220801-cp39-cp39-win_amd64.whl": [
+          "zbRG2R5YFeauZjeZdrhv/r+BmCsaRh0b7W5rJ1JjHik=",
           "cp39"
         ]
       }
