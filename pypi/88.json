@@ -4399,6 +4399,26 @@
           "py3"
         ]
       }
+    },
+    "0.2.2": {
+      "sdist": [
+        "VYq3L05/2obACtsFi3ApaXNOJkAx5VGuUdY3iWrxbjc=",
+        "arrow-odbc-0.2.2.tar.gz"
+      ],
+      "wheels": {
+        "arrow_odbc-0.2.2-py2.py3-none-macosx_11_0_x86_64.whl": [
+          "cYS9tSW/97bZh2Itwe/hM5kIMBJrZVuD0dmq+1qvmHk=",
+          "py2.py3"
+        ],
+        "arrow_odbc-0.2.2-py2.py3-none-win_amd64.whl": [
+          "ZfGQJQv7vgCus1tfJCiJeVdAq7OboPXBnUVPNs249EA=",
+          "py2.py3"
+        ],
+        "arrow_odbc-0.2.2-py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "3oRWa3pQHyPHoCNZXca/sZrRtwDn7TXdFlLPOQ75h6U=",
+          "py3"
+        ]
+      }
     }
   },
   "arstecnica.sqlalchemy.async": {
@@ -12640,6 +12660,12 @@
       "sdist": [
         "FdsuW0wK3bm12aSska4BvmjiSPtuoNmeC3CbTueldEk=",
         "classixclustering-0.6.5.tar.gz"
+      ]
+    },
+    "0.6.6": {
+      "sdist": [
+        "8R8qSXrHv8DIKrRU0nPTnRS71W5Srd5J6hhSpNSs924=",
+        "classixclustering-0.6.6.tar.gz"
       ]
     }
   },
@@ -27573,6 +27599,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "iRFchxWF+fHraZASkWeFUAo2Wf2tE2eJ9gSMRsiSTOw=",
+        "duqtools-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "duqtools-0.2.0-py3-none-any.whl": [
+          "I1mC5MnJdXj7zQ7hafTrQWizOuZLfu4x+Hw74BFqfxU=",
+          "py3"
+        ]
+      }
     }
   },
   "dxe-airtable": {
@@ -34702,6 +34740,12 @@
       "sdist": [
         "HbFAbbw8ElZtUnE0YMk7+axenRqprlzk61gGuPheWbA=",
         "featurebox-0.0.990.tar.gz"
+      ]
+    },
+    "0.0.991": {
+      "sdist": [
+        "d5fUYwZ4alcy3SAFLoa0/6oneE8zUQ8mC0N4aR5xeR4=",
+        "featurebox-0.0.991.tar.gz"
       ]
     }
   },
@@ -61170,6 +61214,58 @@
         ],
         "maturin-0.13.2_beta.1-py3-none-win_arm64.whl": [
           "8dg/yIJqaYt+kqHZomOm08cb4+3a+jBhUe12Gvo1U/Q=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.2b2": {
+      "sdist": [
+        "tWGwmtIDgmqi5tid6d8PAUitGIDFXVaTV3hmQGRC9CM=",
+        "maturin-0.13.2b2.tar.gz"
+      ],
+      "wheels": {
+        "maturin-0.13.2b2-py3-none-macosx_10_7_x86_64.whl": [
+          "h7UQ4B08Mi0ki2NhaNUviWyyBmvT9hKY7yvaPq01Zmk=",
+          "py3"
+        ],
+        "maturin-0.13.2b2-py3-none-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "b00WsKfy6JHyb0eaZcfus5+wqVGzeZaRQBTzj/CoRzA=",
+          "py3"
+        ],
+        "maturin-0.13.2b2-py3-none-manylinux_2_12_x86_64.manylinux2010_x86_64.musllinux_1_1_x86_64.whl": [
+          "TmmggB8pQKRLRmpSGuhzJeTrBA83mYf1EhG7d8+1Kjs=",
+          "py3"
+        ],
+        "maturin-0.13.2b2-py3-none-win32.whl": [
+          "pvrvDncsvEfARVjORkKmepU53At7ZkM1VJBBW8DtYBo=",
+          "py3"
+        ],
+        "maturin-0.13.2b2-py3-none-win_amd64.whl": [
+          "F0naz7qcCGCqiLado2cZ/gZuFGTMchTajaRvzhNzst4=",
+          "py3"
+        ],
+        "maturin-0.13.2b2-py3-none-win_arm64.whl": [
+          "guk3JrJS3cI+Z+7YnaYFc8Mbr1fVYmKw7xSSj2GHZ4g=",
+          "py3"
+        ],
+        "maturin-0.13.2_beta.2-py3-none-manylinux_2_12_i686.manylinux2010_i686.musllinux_1_1_i686.whl": [
+          "0JzUfLToKDAlm2Aou8S2N0/tv3C+jaknvnjwV2RUX3g=",
+          "py3"
+        ],
+        "maturin-0.13.2_beta.2-py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.musllinux_1_1_aarch64.whl": [
+          "UqR921/A6GTlyJDdtF6zwm/W4xx66/WuuWakhPPuORc=",
+          "py3"
+        ],
+        "maturin-0.13.2_beta.2-py3-none-manylinux_2_17_armv7l.manylinux2014_armv7l.musllinux_1_1_armv7l.whl": [
+          "K/m2ubiEdiDB5Wvc+p6IUY43OWeVFUZxUTk1bZUR8zU=",
+          "py3"
+        ],
+        "maturin-0.13.2_beta.2-py3-none-manylinux_2_17_ppc64le.manylinux2014_ppc64le.musllinux_1_1_ppc64le.whl": [
+          "WBdTk0RL0xtcX9pYQZZDbTUz3WFge2uk/Ejyis06m1g=",
+          "py3"
+        ],
+        "maturin-0.13.2_beta.2-py3-none-manylinux_2_17_s390x.manylinux2014_s390x.whl": [
+          "XOeiDHuVWkevo1PjbRf+2m3hxq42XtwL7YIXN2/kLlg=",
           "py3"
         ]
       }
@@ -93293,6 +93389,18 @@
           "py3"
         ]
       }
+    },
+    "0.2022.8": {
+      "sdist": [
+        "JnBbSMdsmNPmTdsJ7LVM3ISpffR60zEyZs9O5Dh4Zag=",
+        "pynibs-0.2022.8.tar.gz"
+      ],
+      "wheels": {
+        "pynibs-0.2022.8-py3-none-any.whl": [
+          "1Ftngis6mQYO5gT6gqthRCQ/rMevG2U++sylcS62fds=",
+          "py3"
+        ]
+      }
     }
   },
   "pyobjc-framework-corelocation": {
@@ -108672,6 +108780,18 @@
       "wheels": {
         "savitrigen-0.0.94-py3-none-any.whl": [
           "dORTYlFXfk72w+Z6CFeC/WTLQH+Tgd/EetANWh+a+Qg=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.95": {
+      "sdist": [
+        "Xjuizsox74h6fjCFyVyW0KH701J+cgEECFEc7nfs95M=",
+        "savitrigen-0.0.95.tar.gz"
+      ],
+      "wheels": {
+        "savitrigen-0.0.95-py3-none-any.whl": [
+          "62Y/lOnf7pIn3pgLFbatpCV2EqTlWlb0TZt8KNBxPcY=",
           "py3"
         ]
       }
@@ -130456,6 +130576,12 @@
       "sdist": [
         "w2+5qwe1Fp/JW3/2a3GqqI8VCaYLT3j86jQ+Gv2eres=",
         "zipfile39-0.0.5.3.tar.gz"
+      ]
+    },
+    "0.0.6.0": {
+      "sdist": [
+        "i18S7DUoUatXVSHGwqM+inzTpQFfPU5oKcDLcMWAF1o=",
+        "zipfile39-0.0.6.0.tar.gz"
       ]
     }
   },
