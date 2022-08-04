@@ -6802,6 +6802,14 @@
         ]
       }
     },
+    "1.44.0": {
+      "wheels": {
+        "azureml_interpret-1.44.0-py3-none-any.whl": [
+          "WDO7IG3+5tKxULyX9LR8AThzxRs+d6Ogih1Co8CWDxE=",
+          "py3"
+        ]
+      }
+    },
     "1.5.0": {
       "wheels": {
         "azureml_interpret-1.5.0-py3-none-any.whl": [
@@ -13148,6 +13156,18 @@
       "wheels": {
         "cdk_fargate_run_task-2.0.100-py3-none-any.whl": [
           "SFx7m9b+h5T/DNSa51THY8z5Geb8qiRzrROTzHhZWT4=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.101": {
+      "sdist": [
+        "vrAusIYch1Nx8bfFusf8iqcIlFqJ8pPczGNVNoowMAk=",
+        "cdk-fargate-run-task-2.0.101.tar.gz"
+      ],
+      "wheels": {
+        "cdk_fargate_run_task-2.0.101-py3-none-any.whl": [
+          "YJP56lZGt8frHJ25JozF1dgOSwxK4JGhYkdXKU7WWDc=",
           "py3"
         ]
       }
@@ -34802,698 +34822,742 @@
         ]
       }
     },
-    "0.4.1.dev1178": {
+    "0.4.1.dev1216": {
       "sdist": [
-        "QpESp0wt0Vp1ex3Q7cKWWFNmFqMLgHHtsmBez0pxvPU=",
-        "duckdb-0.4.1.dev1178.tar.gz"
+        "l0niusgzvC9WSbA9er3JDWQRAX+47DGEj7BmTZKWpNo=",
+        "duckdb-0.4.1.dev1216.tar.gz"
       ],
       "wheels": {
-        "duckdb-0.4.1.dev1178-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "nOBzZZFQxRZErxriIhoml08KAItEJQHMLXeEax3p3kc=",
+        "duckdb-0.4.1.dev1216-cp310-cp310-macosx_10_9_universal2.whl": [
+          "OcOrSQ04+ycnOgLPPY4n2U/WXFv/dL7bRuFonw49pSY=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1178-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "3YIRT7k3uApGSSjQiVZaHnsMJhrUbZ7glD/WS4q69cg=",
+        "duckdb-0.4.1.dev1216-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "6gtz4Sq4QC/CMUqVq+ctvYd0l/TnxDy26wlPJ4xjwb8=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1178-cp310-cp310-musllinux_1_1_i686.whl": [
-          "30j9wltxM8bjIz7HdPyX4dWifToKeeEBo+xRkOBJ2uY=",
+        "duckdb-0.4.1.dev1216-cp310-cp310-macosx_11_0_arm64.whl": [
+          "WKuRVXG5wyVOR85coWVhjNDjr/gB9o+jpTNhyP/iwBM=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1178-cp310-cp310-musllinux_1_1_x86_64.whl": [
-          "NmHBT7+9ozr+J6gvVkAiLkbC3pWKr8zEGNofGLRnqFU=",
+        "duckdb-0.4.1.dev1216-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "UvGWDmGOIiClt34KGKpvJ6QZvKUUhrDqdu4NDjsvBpI=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1178-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "zUM6jj6MzKe+WQcHL5elXjhvJzJV/G6fSlAT28AIOb8=",
+        "duckdb-0.4.1.dev1216-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sQA9MQdRN2KlYIO6ECdLRnxOYSorgxM4+XQgM6sKWRM=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev1216-cp310-cp310-musllinux_1_1_i686.whl": [
+          "J70GVOgd2UdabTZVa8vllcKRQ+sLnkEqRHj1pX7Slno=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev1216-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "m64+lxry+AvzSiGH8M3t+u+OgoIM/yzP6dtilxH8ujU=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev1216-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "xEy+c96GooT9zUmtg6+yn6M9Xh0f/OhuxA+GwOH/vW4=",
+          "cp36"
+        ],
+        "duckdb-0.4.1.dev1216-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "nN0A7M0xVzFUg//8bh/h899ZoIinFiRweFS27iBhWlk=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1178-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "6JIQZv1AyVDaWt6HubHCNtCloLcRDbmyxs0WXTnjAs0=",
+        "duckdb-0.4.1.dev1216-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "8FmjoIMjtxIAyOa1/XTdTP7xgKJkqZ78ijqTLUYapt8=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1178-cp37-cp37m-musllinux_1_1_i686.whl": [
-          "jLk8wEVNQvG9YuQ5gAc37Pt4iGpPdZ2QzffP0vQuLKI=",
+        "duckdb-0.4.1.dev1216-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/LD06F+Rnz0PeqGc19TEDTOcvUEjIgLvJEoryydlkRg=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1178-cp37-cp37m-musllinux_1_1_x86_64.whl": [
-          "Ds3b5rPtL81cWjaHRFyA9parTGKUoW7/P8fpDGh2jkw=",
+        "duckdb-0.4.1.dev1216-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "eTMwO0M8UlhmbJABaa79nnQ+zuAK9oY8q/R8gVFLsmQ=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1178-cp38-cp38-macosx_10_9_universal2.whl": [
-          "xhO+qxBzuRw3Sgvp3xCi1Ph3uvePYve24h6KZqzlwvY=",
+        "duckdb-0.4.1.dev1216-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "wFk921P63E5j5b8hZSjxwsKxTGdieboSewGWFbW4Ze8=",
+          "cp37"
+        ],
+        "duckdb-0.4.1.dev1216-cp38-cp38-macosx_10_9_universal2.whl": [
+          "Pf1Wt8u53hwXCUVsA1ZI0wqETgJvv0FU8ZvrRolrfUk=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1178-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "HuJ3e1asnNcvUwb40cIASAg0YVtOn6DrTCuNPN4DGnU=",
+        "duckdb-0.4.1.dev1216-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "pw99MbKb+MMsyyjkzTuXJLBWtC+siqwsAH62KSSsO4g=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1178-cp38-cp38-macosx_11_0_arm64.whl": [
-          "Fu+TWzlwJPDiwgBdRJWb1uLY3qNBg7jlvvYUba0oAlc=",
+        "duckdb-0.4.1.dev1216-cp38-cp38-macosx_11_0_arm64.whl": [
+          "dTl5HWNGMZlWxbMMcHuXQk0CI7DjYM6ZHQBCEOB/JkY=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1178-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "ouJAFJZp/Hjq0Yp/IEsNVXmoeUX9tvGJWRh3HOckcWc=",
+        "duckdb-0.4.1.dev1216-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "d9sysDXVsagNsTRBV46SdpHwGihV5tDnJ2OQtGHb1m0=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1178-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "zDcVOMDqFQtojutUrluLX9vgi8c2HMM+KrBvx/+tupc=",
+        "duckdb-0.4.1.dev1216-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "yqjIs4I/4htBmGrpGRb0DfbL0e/3WI7qT+esdEUNRck=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1178-cp38-cp38-musllinux_1_1_i686.whl": [
-          "NPLEi7R7UUkcnTvVO3Exbv1B4AJ3TrhV4HEoiswYfSY=",
+        "duckdb-0.4.1.dev1216-cp38-cp38-musllinux_1_1_i686.whl": [
+          "XiM6xMksdfXb2JsIul3Wha6xx3c9wSHFWdpI/8Gq3Z4=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1178-cp38-cp38-musllinux_1_1_x86_64.whl": [
-          "EiR2zQi5gzPuq6E/4kqKqqcqnZ/pPFZshr8cNQg8h38=",
+        "duckdb-0.4.1.dev1216-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "fPhtJ+lxm0Gh3LqWt83XnZbi1mIrAGTbUm1YYoFprXQ=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1178-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "PK95fiwZyJxGQxcaP8Z/7AflgEDgH2ZTcqB8u5bmFX8=",
+        "duckdb-0.4.1.dev1216-cp39-cp39-macosx_10_9_universal2.whl": [
+          "6LB5C1DTavWymwFxyXjBOoVdPM4WMk17sdJGjMU4xhs=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1178-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "qtWh0EUWRDSx6yZB/O+vxqAMddR2uNq/dtu6XzOzlWU=",
+        "duckdb-0.4.1.dev1216-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "GekSJRc74dFDEY+PBh0L0wxhGhz1vDf/YqNn6IMdtlo=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1178-cp39-cp39-musllinux_1_1_i686.whl": [
-          "bZHSabntrci97QLTCkF/n2yl+G/gPmJGYlNUK3S0I/I=",
+        "duckdb-0.4.1.dev1216-cp39-cp39-macosx_11_0_arm64.whl": [
+          "yCt8Pl0ZZEWwgGwn1t41bD1PCut+5Fwi96wATDdOxGE=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1178-cp39-cp39-musllinux_1_1_x86_64.whl": [
-          "wAHzhCb4FdcoSUnjsHhuoxc6tpID6cM1U5Xjqx/W6a8=",
+        "duckdb-0.4.1.dev1216-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "3TwEkUbrd8XGOMK7WwaAr/oaXmKiBaGETQ0OsNWRlZY=",
+          "cp39"
+        ],
+        "duckdb-0.4.1.dev1216-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zFRetya619F7kN1P3Y4Ge7EhWtF0Ucc9LwWUuYtWCI0=",
+          "cp39"
+        ],
+        "duckdb-0.4.1.dev1216-cp39-cp39-musllinux_1_1_i686.whl": [
+          "mS+ayNi+FYepaasDBuE2FY9kviwfVhQbNx+L79QI24A=",
+          "cp39"
+        ],
+        "duckdb-0.4.1.dev1216-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "h1H4+w3nkSQC/JsJsL/+bZ62vvUxcq3IC/ep2uJzlNI=",
           "cp39"
         ]
       }
     },
-    "0.4.1.dev1180": {
+    "0.4.1.dev1218": {
       "sdist": [
-        "5+bHEhP87nSnDd8CDJjsorPlao65AbRAdxTkXbgftZA=",
-        "duckdb-0.4.1.dev1180.tar.gz"
+        "pNXAduuaUFfFDVe483zALexkTe4Ba/ks2flQO2RRWVA=",
+        "duckdb-0.4.1.dev1218.tar.gz"
       ],
       "wheels": {
-        "duckdb-0.4.1.dev1180-cp310-cp310-macosx_10_9_universal2.whl": [
-          "ofWehtvVkD6OhdmdRDjbgF/dzGMtspVAg3TWwbCdoUs=",
+        "duckdb-0.4.1.dev1218-cp310-cp310-macosx_10_9_universal2.whl": [
+          "ODGBd7GjZUrVr0g/xHI6ugo7O3yeVYnrdBfBa/0zhqg=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1180-cp310-cp310-macosx_10_9_x86_64.whl": [
-          "7+i6F4IROpZ6+XnMio8Mun2M5V90TvEzpMdahhCJvNI=",
+        "duckdb-0.4.1.dev1218-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "9rqS5AJIq/aNKx7/076zeH3w/cgxne9ev1ImzDwNi+I=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1180-cp310-cp310-macosx_11_0_arm64.whl": [
-          "OtlmQIHbTMnX/kcbYs6cbsl72n76VXI5Bvj785zX61Y=",
+        "duckdb-0.4.1.dev1218-cp310-cp310-macosx_11_0_arm64.whl": [
+          "7pq+mfJFKcEf5AvVRx0rUTyfi1QCybbXv8gfka/1JiU=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1180-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "uVvIHkcqh0ZAp+9VTS0DNXfS/WZ+dFFYNNoCK9aw5Yk=",
+        "duckdb-0.4.1.dev1218-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "tf80udwwkiB4jqRjDmSOxB3BegRri76B605RGIghrek=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1180-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Iddl6aS4bBwSIGiRleT1hLhJDjwUrwH8J82UhaM56xE=",
+        "duckdb-0.4.1.dev1218-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sVAMMU0SviBlpInRsEHg9W4sQXUBvINgUm1BGLLaSVI=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1180-cp310-cp310-musllinux_1_1_i686.whl": [
-          "J36fvwNKeewZwY2JOFy2JFcDiWxG6qGx5C+OBVue69k=",
+        "duckdb-0.4.1.dev1218-cp310-cp310-musllinux_1_1_i686.whl": [
+          "6dhOEYR4HMpN053a/QEBJmLK/Ifvt8LBrEUBeBqP2Rw=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1180-cp310-cp310-musllinux_1_1_x86_64.whl": [
-          "rc+qzPVHWQbgj1FKoqxUjZdGmpm71ZR84RggUEcCPuw=",
+        "duckdb-0.4.1.dev1218-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "sG7pAvRKhYLgJFQqTZVz8sZPnhUHgTWlC0mUzIhliZw=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1180-cp310-cp310-win32.whl": [
-          "bpvka9aXpwZ7ejOUhregFw8uwN/CKBcD8drQOeRMx2s=",
+        "duckdb-0.4.1.dev1218-cp310-cp310-win32.whl": [
+          "kdQJ6O6HDQFLiqZ5FV163wsexPWTnvm7+TwCS4Z06Ws=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1180-cp310-cp310-win_amd64.whl": [
-          "McR9/z8wPk+N92/xZUKhg7fS/8VUULLAr/80mZMv6yU=",
+        "duckdb-0.4.1.dev1218-cp310-cp310-win_amd64.whl": [
+          "3T1Ux6S3IoQpDOqbweRyKJpoNb8agMx8JnTIYXjyftM=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1180-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "8lwsPk3NSLJzJhw4LDP0z1SmzzF6HNgn74tF7gAFCPo=",
+        "duckdb-0.4.1.dev1218-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "FGQIxJ2g/BI8KxrKZzIoPklPfPrQomCuvJkr8SQekr8=",
           "cp36"
         ],
-        "duckdb-0.4.1.dev1180-cp36-cp36m-win32.whl": [
-          "hUSknhZxOgvuT3yvNRDIiR/C6wxq7vMOGhk4aXzpQ4I=",
+        "duckdb-0.4.1.dev1218-cp36-cp36m-win32.whl": [
+          "eWibcVk5/lsH1rMwZ8wMnAHIm56ip3ViHEr8lz3U/14=",
           "cp36"
         ],
-        "duckdb-0.4.1.dev1180-cp36-cp36m-win_amd64.whl": [
-          "RSSgFvn6Dctd/+UezaUmGRtF7S9AybSxEbHblPPIwI8=",
+        "duckdb-0.4.1.dev1218-cp36-cp36m-win_amd64.whl": [
+          "iqYPuhcQFQdDd4uJwyhd4Jq8zx6MFnwt83ARzkKENPs=",
           "cp36"
         ],
-        "duckdb-0.4.1.dev1180-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "QPs15Mf51m2h7EGw6UBIowWxOH1L2HryOH7Rq27zXB8=",
+        "duckdb-0.4.1.dev1218-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "M6XWBK7iS5n70b+Mc8S0msPwMC1KF1pcPSid8+xEeNQ=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1180-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "vWasOGOi6/dh6eUE3D3CIWPZ4uxcJQElJoQalU8u1aQ=",
+        "duckdb-0.4.1.dev1218-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "6PuYK3x9q8DSph+jzqgKyAfYGeAOwqgLs1XjVqamvfA=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1180-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "I5Fw/6G5w0EMwHhZIBiUrc9jQwCgFwYroZyU/8VWpbY=",
+        "duckdb-0.4.1.dev1218-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "1QsGrwDwame7CsNDnwNeyZ2jG+ZvmAsClWvu82TmOKY=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1180-cp37-cp37m-musllinux_1_1_i686.whl": [
-          "LOG9YSA3o4Yf8GHKLUxcftKtWexLbHNZecvksPxeQdw=",
+        "duckdb-0.4.1.dev1218-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "kPQ0nIwHIDeaa+UnuDBYd8rjyibQzGfFL+IG1pYZWYs=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1180-cp37-cp37m-musllinux_1_1_x86_64.whl": [
-          "0wkISBZtc78iOcHh15cz7ZfE9uwU3VhQ0QdImeilyDE=",
+        "duckdb-0.4.1.dev1218-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "5O8gy5unifxPlvUCO9rDqf/veFSu6f6RMqKFWvJCc1k=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1180-cp37-cp37m-win32.whl": [
-          "zSJF84w3MFb6QkTbxbkt5CBBT8mJcfwu5i2UA9FGk9M=",
+        "duckdb-0.4.1.dev1218-cp37-cp37m-win32.whl": [
+          "UCMA4NwdMCoG8BAwqg3DOc4HA4QWpAG4/fWhpqGi/IA=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1180-cp37-cp37m-win_amd64.whl": [
-          "24X6aO2XeduUeGiKD2Vwq3/iSc198012R5sRDnYKVsg=",
+        "duckdb-0.4.1.dev1218-cp37-cp37m-win_amd64.whl": [
+          "IB2oI2SnN1MXljRvoa3A+K0hgdtINnq+vjc/b28IcjM=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1180-cp38-cp38-macosx_10_9_universal2.whl": [
-          "KComp+rTzfZbUs19r8fOaRznzuIYudu11lCV+ogLOC0=",
+        "duckdb-0.4.1.dev1218-cp38-cp38-macosx_10_9_universal2.whl": [
+          "yRFggrwgx8y5ARgpmDrjsgagYIQsQ7XstAYIrltQXJw=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1180-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "mw7QiS0z6bF6r7RDvhTfDPU7Gunlvfe8SpphaurV6P8=",
+        "duckdb-0.4.1.dev1218-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "dLCOOg5HiQo/slCRnJPJpD/28c5Bt2e8rr3AqYxEBMg=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1180-cp38-cp38-macosx_11_0_arm64.whl": [
-          "cAElFwK0x/f+Obow4DzF6PB/F1nGPGljK/RYsfhjAc0=",
+        "duckdb-0.4.1.dev1218-cp38-cp38-macosx_11_0_arm64.whl": [
+          "vE9BeerK9/HuhxcCOuTPFxvYw6Gk5RTpTcG42bUjgio=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1180-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "GJ94kUHXipCVq0Y9Q+ScnOf4QZcaGIgEOOA+3obaVMY=",
+        "duckdb-0.4.1.dev1218-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "V+x/9wR1dDmJ0WGnItExsFcJNWDqGkRHN5dlnyUzbzs=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1180-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "0mytPNRU0vnC/VJGaUC8rUlyQzj3spzJ4KL56GTgKRg=",
+        "duckdb-0.4.1.dev1218-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8jwGmEad+0LKZfj5je3QzXE6S+Fo/g2tRoSTV+2vYWM=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1180-cp38-cp38-musllinux_1_1_i686.whl": [
-          "sK5nXk9RfoWqzaA/CsiaEOj4xYMgXyDaXa1HcLcRmfc=",
+        "duckdb-0.4.1.dev1218-cp38-cp38-musllinux_1_1_i686.whl": [
+          "4rU2Iaf287vBHZ5TXtNpQRyM3TltAFf3IYwn1T/V+J4=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1180-cp38-cp38-musllinux_1_1_x86_64.whl": [
-          "69zjfOIUuyzKQXHzrXoiO5lZ/fQg/w859IWXINMD8ng=",
+        "duckdb-0.4.1.dev1218-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "1o+VqGhy5qPGXKzCRlaXrqGlFxmzrwFlFAbSRWkqVuM=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1180-cp38-cp38-win32.whl": [
-          "I4P02ydx0tM5pM0apk7wyNpv6Y/j7ByRHBlgqgYE4ME=",
+        "duckdb-0.4.1.dev1218-cp38-cp38-win32.whl": [
+          "UQ7YPq0QM/Vr7PJJogLUPG6MRJVREAK8Cn2QcZBh2gw=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1180-cp38-cp38-win_amd64.whl": [
-          "cZYleZVEFIwEdNqF0nclFko76jYScEzi2nAY64tAieY=",
+        "duckdb-0.4.1.dev1218-cp38-cp38-win_amd64.whl": [
+          "oPk4xNgoWpOXtHHRkG8eaeL2SNEvKRx347GSebaEhbw=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1180-cp39-cp39-macosx_10_9_universal2.whl": [
-          "8B/XR1yMLff/g/tHXkZiYqYOZlp5zIt41X6oOPsToqo=",
+        "duckdb-0.4.1.dev1218-cp39-cp39-macosx_10_9_universal2.whl": [
+          "Scc97N23tOPEsFPPJ/Y+d8fjxZ5O8ZqKd42Vn0Fmkcg=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1180-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "OXQBjZtCIwzops/ghIYGOUXmJpwh+NGEJvN/rgFo/dA=",
+        "duckdb-0.4.1.dev1218-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "fpmqru6QPtzR2uxOLyskXKtCFqADdv2QR0FpGxG9xiM=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1180-cp39-cp39-macosx_11_0_arm64.whl": [
-          "2OVAp4/XAt+44JwsntxAAQ4Rb5KwlKBCzVqrid8IBMs=",
+        "duckdb-0.4.1.dev1218-cp39-cp39-macosx_11_0_arm64.whl": [
+          "h8aJgevwqsoq7dFN04Xa87nlXvs0+Qi3T/vQ/0i9vFc=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1180-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "fh0Hf6I1I3IVII1WeQ37sRa6C5o4Tgx/M+lrA5PSymU=",
+        "duckdb-0.4.1.dev1218-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "clWt1IBvmFVrjsVh2OHrS6+ZMsfENZPvDf8KeYknK0I=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1180-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "C9Q9+OeVWX+Vut2lBrY+WTKXRlUyqP7jecrKtIdwjAA=",
+        "duckdb-0.4.1.dev1218-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MuQhQvMAgsPgv/875cvY/169Hs40bjRim1EnoaFJXZI=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1180-cp39-cp39-musllinux_1_1_i686.whl": [
-          "IUx4T0pVvizTtLRhOotWgfWPRLhW8Z+MWee0LKG81tY=",
+        "duckdb-0.4.1.dev1218-cp39-cp39-musllinux_1_1_i686.whl": [
+          "5vz4O5bveJ5m5gmEIhpYYMfJIEtSSjCSO5zwrTHBe4I=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1180-cp39-cp39-musllinux_1_1_x86_64.whl": [
-          "qacucLkEClOSTmZq6DJRN5w8uMUTsdKkq/s0JTbHiiI=",
+        "duckdb-0.4.1.dev1218-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "MblGBMHyFnCYbyosNDpIgvtkA+NuHrkd/sCvVZ9G/VA=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1180-cp39-cp39-win32.whl": [
-          "ibsES1FqNJy80AdrKrsL8UmEX/xuC5D/7H4l5Ws3ia8=",
+        "duckdb-0.4.1.dev1218-cp39-cp39-win32.whl": [
+          "4UQBJOG4FMBVH3K641slNTSl0FTKBQjLqp+Oc2k8GBU=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1180-cp39-cp39-win_amd64.whl": [
-          "MVoNravIginURZ7jgOMDn4Nc7yBZsfh4BsJaz4Rb9oA=",
+        "duckdb-0.4.1.dev1218-cp39-cp39-win_amd64.whl": [
+          "lhfOHfW5pKEt3uQhh/Ll8GjrSkZSlzAPhxdpM9tbJ14=",
           "cp39"
         ]
       }
     },
-    "0.4.1.dev1191": {
+    "0.4.1.dev1223": {
       "sdist": [
-        "ctb3xccUgw42v2KrmjhqwJviQR4eCT1qWxly3Oa68Ms=",
-        "duckdb-0.4.1.dev1191.tar.gz"
+        "IC9l5SpZ19cj2EQTA9Zy7UdMvOswKRfmRC6oYTPvbWI=",
+        "duckdb-0.4.1.dev1223.tar.gz"
       ],
       "wheels": {
-        "duckdb-0.4.1.dev1191-cp310-cp310-macosx_10_9_universal2.whl": [
-          "wFekEdlMGyLeBYmU6K3jvThFtB31VCaptLvTbiouBss=",
+        "duckdb-0.4.1.dev1223-cp310-cp310-macosx_10_9_universal2.whl": [
+          "HLu4vNkJwJX8R00upDapfHlHJbjwpmGLztfQ8sutkao=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1191-cp310-cp310-macosx_10_9_x86_64.whl": [
-          "SW5NWJdVBEDY0fgcp2RvPPaJ7SDfLR8GnCyfl2hUtTU=",
+        "duckdb-0.4.1.dev1223-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "rhkoBxDQtZ4FcoCa8RUh6mAUajIOOhYjWWkchpb9kOs=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1191-cp310-cp310-macosx_11_0_arm64.whl": [
-          "rb4Yrqk6rtWKaLyc+oQUgBX6mCk3XWmjzHMq9BX3sIw=",
+        "duckdb-0.4.1.dev1223-cp310-cp310-macosx_11_0_arm64.whl": [
+          "AyVmvshja9x2a8js1adFkbd1uoCsXaotSLSeX2qNDws=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1191-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "N+bkeRg0rGwzQYGlgJ8Oy0eZbRrDHDPd+L24k8FipEw=",
+        "duckdb-0.4.1.dev1223-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Em0eaO0dcjaRiEkrd6mKuiflFxz26oOcquyx2ufrNnw=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1191-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "ZUZQ2/qOvyC+BirPkwWhod2rqUrWPy9E1sOUHK2oCMk=",
+        "duckdb-0.4.1.dev1223-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jowdqLiTeTna8EzT2pAbc9U6KEv2+7Oz/FAou0a85Kc=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1191-cp310-cp310-musllinux_1_1_i686.whl": [
-          "e4kyUOTtEB5XaJBSaGuZWQKZ3VYM0U5TRGWU4DlCOQs=",
+        "duckdb-0.4.1.dev1223-cp310-cp310-musllinux_1_1_i686.whl": [
+          "y4kmkojQFp9nyYG6YJ06eXzOQ9hUHNKS2e1GaxOwo0Q=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1191-cp310-cp310-musllinux_1_1_x86_64.whl": [
-          "grFa5FTCrSzT4WRBDarHUPAWHMau/VLEdV5Y/jGUDU0=",
+        "duckdb-0.4.1.dev1223-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "d61elfWTh3J1SDdOX/NJSUwgjoAr7YcRgnOh8UESq+0=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1191-cp310-cp310-win32.whl": [
-          "B8CkM2hlQ4OmQg6Xh0UbUjODD7UENWnj3V8HyBiCg4I=",
+        "duckdb-0.4.1.dev1223-cp310-cp310-win32.whl": [
+          "IzQNB9HR6suSCOitS+bkR/idnJQ3U41J2Qulk4s7oAg=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1191-cp310-cp310-win_amd64.whl": [
-          "cbPWI6DKznracMVMDukj527vy+eKLk6KINyco3QepiI=",
+        "duckdb-0.4.1.dev1223-cp310-cp310-win_amd64.whl": [
+          "SA0DQrnHcanetJnMEGH57DHRrgozP32v7uHHyzGE4lY=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1191-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "3eNIPJ7dEc2ZUsG7ShbTapx42HXH1inbLeOMiVdsrVQ=",
+        "duckdb-0.4.1.dev1223-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "y4m2pGVIyda5MesIrP77k9qWTPX8aghXFQZmtAZahEM=",
           "cp36"
         ],
-        "duckdb-0.4.1.dev1191-cp36-cp36m-win32.whl": [
-          "UtxWpTCqAfdOiFNLVnS4lbkwoyIxFi3nSNHuHCb2cso=",
+        "duckdb-0.4.1.dev1223-cp36-cp36m-win32.whl": [
+          "6WMWD3yf3xW0fgeuO3UN9cxSpvXmCHdPFzcWA1qHMcU=",
           "cp36"
         ],
-        "duckdb-0.4.1.dev1191-cp36-cp36m-win_amd64.whl": [
-          "X/EDlOlMu8dKNXngpLRAzz7evk2A4sMsDCqkp6cm6LU=",
+        "duckdb-0.4.1.dev1223-cp36-cp36m-win_amd64.whl": [
+          "ssiHwYffNHdy2S3OW+0pzgroM8WIJz40tUBwfEZseEo=",
           "cp36"
         ],
-        "duckdb-0.4.1.dev1191-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "0UGmuS8+v4oo1BH7t1HziGOchQpqh2Cf6h+r3XBV+IU=",
+        "duckdb-0.4.1.dev1223-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "cxOEC90QimJ/uq3jiC112CT4EquSm5IsP6e4z3HPN+g=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1191-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "8TCW3pwmBQOFanwwUWQ770dXC7LkpbtDBAubkhOXJ/4=",
+        "duckdb-0.4.1.dev1223-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "dWEl4NvACkNSGFVOsWVS50sazbvo60LqVV1EtNparVo=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1191-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "JwF7cV6cX8YDShfHJTO3hZ/dKL7KHih87z9LXsty3D0=",
+        "duckdb-0.4.1.dev1223-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8sU2qZXdt4NpXd1aQWl96CQsIhKyFWxFtkKO8KlwIbs=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1191-cp37-cp37m-musllinux_1_1_i686.whl": [
-          "RV+JhwO6IA5EQM8/wyftI27FA6/F9qkqg7zEvsqXNXc=",
+        "duckdb-0.4.1.dev1223-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "7SvH1eQn7GWdNh95d7XunShj7Vt9okmoMOA7Mu9yK5U=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1191-cp37-cp37m-musllinux_1_1_x86_64.whl": [
-          "wHZPPYu3Hpy1rmCfZENN0skp0duR/ZSa5lC3pkuRXrQ=",
+        "duckdb-0.4.1.dev1223-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "Kt4+5hiFhZCNwp2PVOazqAnBHIVRK5bEpdolX0Nk1GQ=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1191-cp37-cp37m-win32.whl": [
-          "WiGEWrcVWkSspxpYghBhgmbtW2ef1PpJEFJ1N1R/Bac=",
+        "duckdb-0.4.1.dev1223-cp37-cp37m-win32.whl": [
+          "CxRxT7avlWAoD112Dj5VD1Yjxw3a1+DUz7YR5WX0dxc=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1191-cp37-cp37m-win_amd64.whl": [
-          "czOQdrbMheM9fyCamg0IQcFXRM2PGnr9qSfjZSDeb9E=",
+        "duckdb-0.4.1.dev1223-cp37-cp37m-win_amd64.whl": [
+          "KjwSOBu8lF3IVQljaWkc1bMMpAgQSQSXK+hQbZUG1a8=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1191-cp38-cp38-macosx_10_9_universal2.whl": [
-          "5vDb5jIjAE3fxTjCAt5Wvf2wxQI5lyxeDkXXiYenB7I=",
+        "duckdb-0.4.1.dev1223-cp38-cp38-macosx_10_9_universal2.whl": [
+          "wnb1c2OQMQPjv7te+RnZauKZNh4hEBEUFgYAH/ktl/A=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1191-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "RsT7JRqL7jesI+fmUG78vilPn0OcraP2nYq0JVBgSDo=",
+        "duckdb-0.4.1.dev1223-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "VKqPwj+MVBAKH6sEvXKCJ2P9kEI1xHd8Ouaj7zcrw2c=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1191-cp38-cp38-macosx_11_0_arm64.whl": [
-          "j6iI060UtWd3sHX5vMrhu5GGlBuwGFKvFee+Hk1tY+s=",
+        "duckdb-0.4.1.dev1223-cp38-cp38-macosx_11_0_arm64.whl": [
+          "X7VQyWXt0NyQAlVAB/R2n+BDEMuT00czR35/4tVmdNg=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1191-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "iu57Jyyp+h5Ywtm9/51N0ml+E4T/Ru4gB+HHEXLT7QQ=",
+        "duckdb-0.4.1.dev1223-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "kF90EmfqYLamZe8klTXEU/ap+e18kCj0BfRUhJ6oSyc=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1191-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "OnMlFcV/6zDAsEOEBAul1NMwnu/vCty/yXtp41p//Hk=",
+        "duckdb-0.4.1.dev1223-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "2IoDfzRL0/jtA3FrzoUQ1U8aW7jRBfZ9wsq1BqGMUFM=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1191-cp38-cp38-musllinux_1_1_i686.whl": [
-          "v1DmLYff7kGm8xqtL8btYRv8IlW9+tACZsIwqayEV9s=",
+        "duckdb-0.4.1.dev1223-cp38-cp38-musllinux_1_1_i686.whl": [
+          "SNxiZ8TvpWYVwgI18R6tsd2iSx/T0ZMU+k1uKaHF1dc=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1191-cp38-cp38-musllinux_1_1_x86_64.whl": [
-          "BPU3jjbx+7uNQt8oI9AZ4l8MUHMDxab+GU+77mQdtfU=",
+        "duckdb-0.4.1.dev1223-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "m1aIjvJzEESYy2xEao/PQMI4ZxegpQpGl77VmuaMSUI=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1191-cp38-cp38-win32.whl": [
-          "oPu5p5WEiuzoNFAt36pRMhbJyB7lU58HweRDcoyPeQU=",
+        "duckdb-0.4.1.dev1223-cp38-cp38-win32.whl": [
+          "Baaj2GpMZ5W/6eyeoJpgUQ/CR3OcmmH2UtRvGH4Ztik=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1191-cp38-cp38-win_amd64.whl": [
-          "bKh/0ZnrmXSOx7md9NsAhZCMBfv/NLGT8MS/SWXWlIc=",
+        "duckdb-0.4.1.dev1223-cp38-cp38-win_amd64.whl": [
+          "9cjjeMWpKD1W1xsk9CrK+EmUq15ed8LwAqQIOkMwwZU=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1191-cp39-cp39-macosx_10_9_universal2.whl": [
-          "du09Ds9KSldp7wpz+dccORmKak4XtBAYX4TuQvimQNk=",
+        "duckdb-0.4.1.dev1223-cp39-cp39-macosx_10_9_universal2.whl": [
+          "AVgojyPJcmRtRdVnq50SQN1WrNtR9/agIg3YLDCI7OI=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1191-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "F0TdwtmzMx9kjMiIfI1OX7WD0KA5vmHqJCjaE3yNNVk=",
+        "duckdb-0.4.1.dev1223-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "8et/pLq3RConqBcCnPWfBveRrP9kz37XoTJVHM2mtQw=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1191-cp39-cp39-macosx_11_0_arm64.whl": [
-          "xXnC3nY+3pFY3yIAH1yLpSWhDFCp620qElTLk8PqNwM=",
+        "duckdb-0.4.1.dev1223-cp39-cp39-macosx_11_0_arm64.whl": [
+          "cPYX+ilcEFyv0d2T7ZDpAD3vzgGQs2cBZg+od1R8pcE=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1191-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "blnQml+DPpSQRbGVUYNLWeEJPbfGcUgJiDkcaBP+nmc=",
+        "duckdb-0.4.1.dev1223-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "lAixh8WFRpSeBLg2AvoQ2dlcKBun4otPX/eYN5zgj6o=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1191-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "y6og8+9JDvy4MQeRW7DOxFZcCyToZBjYRWKWRdWG3Tg=",
+        "duckdb-0.4.1.dev1223-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "tReEGdpP8YclLeiGSAOoPzNyzIKoHiUDyOpyBE8nKOk=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1191-cp39-cp39-musllinux_1_1_i686.whl": [
-          "1xJvZXsDlopvHCUM/LF0radXINdKKH6vStPRoLvdgjU=",
+        "duckdb-0.4.1.dev1223-cp39-cp39-musllinux_1_1_i686.whl": [
+          "QGtBOmCvtzrveNInMvJDtLfNjuTk6WS6dsFoV8ekDaQ=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1191-cp39-cp39-musllinux_1_1_x86_64.whl": [
-          "WQlA8tAfaHoVUw6cO8Jt3CqzhMJGGv/ApSrjOHY12B8=",
+        "duckdb-0.4.1.dev1223-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "0MWFDEjJywlaxnT5VuotBMBZnaA0KTlr+v6NMPCyQCA=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1191-cp39-cp39-win32.whl": [
-          "5YxCTeXtEDvfv0UFF8/GrlruodrgBS1m+N4lFwAz8p4=",
+        "duckdb-0.4.1.dev1223-cp39-cp39-win32.whl": [
+          "21vX8BOWjJXD8zAlyaiKFBHH+zzMDzrtReGWPsNwAAY=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1191-cp39-cp39-win_amd64.whl": [
-          "fSX8tg+5Y6mGcGvANhA++9p7pR/zqRkiO8vQf/O3q/s=",
+        "duckdb-0.4.1.dev1223-cp39-cp39-win_amd64.whl": [
+          "y+fmHB33eIZUjW4I5BZvnsgTdGpfCU2fO6ZFncd2I3s=",
           "cp39"
         ]
       }
     },
-    "0.4.1.dev1201": {
+    "0.4.1.dev1225": {
       "sdist": [
-        "wb2zMPYkPndz+cycZXPHliLE105waXxo+zNpbXZtPjw=",
-        "duckdb-0.4.1.dev1201.tar.gz"
+        "gOj7Vq6MF4ukfS1ebtmZVE2hDEq6oC0CojIsavgivyo=",
+        "duckdb-0.4.1.dev1225.tar.gz"
       ],
       "wheels": {
-        "duckdb-0.4.1.dev1201-cp310-cp310-macosx_10_9_universal2.whl": [
-          "jqvDiHucExtScTDJ49vyZXYfUkoIr29gKIcJF2xgQXw=",
+        "duckdb-0.4.1.dev1225-cp310-cp310-macosx_10_9_universal2.whl": [
+          "iZ1yqsE3bNo8LQMOeXDzbGW8DWCoPFfdC2r6942parw=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1201-cp310-cp310-macosx_10_9_x86_64.whl": [
-          "Sr0fDq9jgkgp8WXX+Mg/TpHTTRJkzBFUTakbhai4fw4=",
+        "duckdb-0.4.1.dev1225-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "zgmYc4cVxEJ73c3SCZwec95iawmyvT3W+7aUWMSiUs4=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1201-cp310-cp310-macosx_11_0_arm64.whl": [
-          "48zFH3f+Gg9IvAMCNdKQ0UFYz6c7woo1yRFTnzDKo6U=",
+        "duckdb-0.4.1.dev1225-cp310-cp310-macosx_11_0_arm64.whl": [
+          "tvvGqJ+GEie9M5NuqVExJrOxaEyQzHEORNZi4u90km0=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1201-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "Ibx6Sd5RZTyiCvXKvMGlUVm5+8tIX11y4I7+ybzrCr4=",
+        "duckdb-0.4.1.dev1225-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Vq9eda23BCOD7SDYO5X9WIvGIgLvMkQzsPu9Mz8KFLk=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1201-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "5HrKwOpjjaGL6E689NLk2LX48NS+WZ02NCgiYeW3xGc=",
+        "duckdb-0.4.1.dev1225-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FElN3NRhibwnEn3GR5cuuw0p9onMYcz+zE7ppdwrqdk=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1201-cp310-cp310-musllinux_1_1_i686.whl": [
-          "oJOLGnP53pAi7wgR7vGkS43jHe7NZaVjmaYMug4UB5c=",
+        "duckdb-0.4.1.dev1225-cp310-cp310-musllinux_1_1_i686.whl": [
+          "qL8J4mEVvseRIRzrjThCT5c1NVWnHlZKY/SwG3q2Hto=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1201-cp310-cp310-musllinux_1_1_x86_64.whl": [
-          "QazmyPEKJgpK0tYA9v8fjoZQNZJoJ6Kn3q9UJ3Ceci4=",
+        "duckdb-0.4.1.dev1225-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "wUo94vu/QXu1S+kHdDaSUzh/3Bu7ZWiBXxpsThMeuLc=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1201-cp310-cp310-win32.whl": [
-          "2WqQOpVOSSRA8nUdXgaakw3Hg7BV6TXmVhwqcZxjgcU=",
+        "duckdb-0.4.1.dev1225-cp310-cp310-win32.whl": [
+          "6mIVFC2Qa+8r7ePysuGrMDP7Czu3eYGDvtQ+cEm+ibw=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1201-cp310-cp310-win_amd64.whl": [
-          "GTYnP4/FXnFO5HJxE9pzvqJWEyq9JEMYLNA0BzV+RQY=",
+        "duckdb-0.4.1.dev1225-cp310-cp310-win_amd64.whl": [
+          "nq6KxA9NFyn4vSeCasYnctFLGHxx04IAZE97VjRSUGo=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1201-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "H9vbd8YedcUqPCU3AK5GZ12SJQ3B6PYJLzwXCy03cbc=",
+        "duckdb-0.4.1.dev1225-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "JwRTaarhJpDATFudA3PzjHlGYJ+5gK9GHIGWmkWUPTA=",
           "cp36"
         ],
-        "duckdb-0.4.1.dev1201-cp36-cp36m-win32.whl": [
-          "fKspTBcCdfX4rdbnejKZCoL7gOmJphv+MbbnTVMT6lY=",
+        "duckdb-0.4.1.dev1225-cp36-cp36m-win32.whl": [
+          "JnnizdEbpukJGZruv/lx+kGad0NXEGDoQcg5HRC5GoY=",
           "cp36"
         ],
-        "duckdb-0.4.1.dev1201-cp36-cp36m-win_amd64.whl": [
-          "3dQ8n279mXfKUoddv1a3tdu0xGS6XMBAqIi50GbTdos=",
+        "duckdb-0.4.1.dev1225-cp36-cp36m-win_amd64.whl": [
+          "hmTH8ZaYIMG+RSe6/d6xQXBMrJsudwSX3/8j0UynA0E=",
           "cp36"
         ],
-        "duckdb-0.4.1.dev1201-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "TcEVcHOnBLulh6Gwn4P0sGmNm4G2G8VjlNXvuCi6Twg=",
+        "duckdb-0.4.1.dev1225-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "X+gwfOhjwNqHZdT8Hq+DiZEW9Uo9ZzSViy6H2gFAfZk=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1201-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "C94rDtOpnMcSXezddlxe6eEsHL47rq7Cw49Vf33LHf8=",
+        "duckdb-0.4.1.dev1225-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "J6FMLWL3cpzs596zSzdnONeNDTZB6HBLR9il/PFoj58=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1201-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "r09IqB6NU/KIh94POZRsTjNJUfv18s21SVYRkV0LSE8=",
+        "duckdb-0.4.1.dev1225-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZZD+crKpTUaxzl9eF7sODf9vGLlcJacpJrArpkNe5Gk=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1201-cp37-cp37m-musllinux_1_1_i686.whl": [
-          "FN+ylQo74JiNL3FG90PymJ1CC6vICAEe11fnWjrx2Og=",
+        "duckdb-0.4.1.dev1225-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "kLUfeo6h+IYnTOBxN95Eds1DVmHVgsXD0/ogrh/8olo=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1201-cp37-cp37m-musllinux_1_1_x86_64.whl": [
-          "LYmuOW8qdymGTw5IxWZnUAk6fVz+B7lbbK2g17Xyd3Q=",
+        "duckdb-0.4.1.dev1225-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "p5JA4g+E6eZDdWzg6+jxUtGBet4yRPXsWbY+BjBH3jk=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1201-cp37-cp37m-win32.whl": [
-          "SQkukP7rK0Mzv2NctIqSKyWp7b2639q8eLXxg29xnJk=",
+        "duckdb-0.4.1.dev1225-cp37-cp37m-win32.whl": [
+          "9NhvvcPYbMM/DlfFOzhZ312m78088Z8CtBOLs5Ztha4=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1201-cp37-cp37m-win_amd64.whl": [
-          "tU94ehn7BW+TVXReddj5fWxpBeQehZV42TxDbp7a0L4=",
+        "duckdb-0.4.1.dev1225-cp37-cp37m-win_amd64.whl": [
+          "KNDzhUmjIHx2colTQ3HzGx0WSEqFEnvNmJhjf/73OPM=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1201-cp38-cp38-macosx_10_9_universal2.whl": [
-          "ZUGM28cWn2TsFD8Dtwx80TXt36/jVfCutiISJ+IQxZ0=",
+        "duckdb-0.4.1.dev1225-cp38-cp38-macosx_10_9_universal2.whl": [
+          "CvOx/UMnOgysD2mT6robN6OXcv+ESz8v+QBqcVrgY8c=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1201-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "pLK8tOtX6wrMlnKlbczbgtWrCNgCtvr10Iv8it1UmOY=",
+        "duckdb-0.4.1.dev1225-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "5UtYtt5IWRGdafJimRkGmOEXtEaFVyXO1tq5J2KOyAQ=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1201-cp38-cp38-macosx_11_0_arm64.whl": [
-          "d2RvpcB7qNN64D6/oK4bOztjyOHuFl/B6lEbC4YFbN4=",
+        "duckdb-0.4.1.dev1225-cp38-cp38-macosx_11_0_arm64.whl": [
+          "ZXlq7srvUF7Pog3+AIIcu4GbFAxYeUGICI1f3A84cek=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1201-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "3o9G4F9R4si6xF1lUQQxilu436pRMfHUDw8KCL/PWhM=",
+        "duckdb-0.4.1.dev1225-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "eB1Eve8JT7tPi/l4GMxHbm+mebhhXZBMXJd2d4UvWjE=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1201-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "tjWpfWMMAG/GQMaajihRXPPRKwnJdd8BiDVgybQONeM=",
+        "duckdb-0.4.1.dev1225-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "L1M9s9beTlOcZ6HPhlefbbFqa5ywLSBXx+IXTSH4xvA=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1201-cp38-cp38-musllinux_1_1_i686.whl": [
-          "GgJ4WmbleQbuoRmY123SLQa9Vxl3fn84rW2h7YAgvtw=",
+        "duckdb-0.4.1.dev1225-cp38-cp38-musllinux_1_1_i686.whl": [
+          "mmjLIVBx2ZGcuPQ2hg/jCnPf7iHIOEMdISn9rFYA9oI=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1201-cp38-cp38-musllinux_1_1_x86_64.whl": [
-          "+wztR6QSQe0XA0nnZgghOZHOl3ATjreg4UNecTTTqVA=",
+        "duckdb-0.4.1.dev1225-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "wLeth4rFTX77VL9QD3JI2THGrHDG1m+tFErgjK3VF5M=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1201-cp38-cp38-win32.whl": [
-          "wQv3XZhMDANWW5d+OW/CtbNyLpa61UOtcCo2/q+R59o=",
+        "duckdb-0.4.1.dev1225-cp38-cp38-win32.whl": [
+          "q6AOCkd+sxxR7I3ICn0I005u/HK9VUVXi+oWy5eYFLU=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1201-cp38-cp38-win_amd64.whl": [
-          "BVfzba4yrQrr6jlCdZwxpkCNoImpl39Zn4oK/JUyCFc=",
+        "duckdb-0.4.1.dev1225-cp38-cp38-win_amd64.whl": [
+          "10wTUYQnGkh6hMFJubU2u+ESok0gP7sJvnWKZYbGiBY=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1201-cp39-cp39-macosx_10_9_universal2.whl": [
-          "Ub6m990V5QFTlSLtCjoShA+qJatUnxvUaS7lNt0tKgQ=",
+        "duckdb-0.4.1.dev1225-cp39-cp39-macosx_10_9_universal2.whl": [
+          "t+x2csA5g54VguqstR0CeIirik3ZzmjEx8ighqxpCMo=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1201-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "/J00uxRNManotje3ex9uJcgbaqnleZQAF/5gzA21Ixk=",
+        "duckdb-0.4.1.dev1225-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "b5ZBDhMMb1Njtz7hYdfOjWcmT7gEqegf1oAj+nW6zYc=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1201-cp39-cp39-macosx_11_0_arm64.whl": [
-          "JSOnhLShlwcWnOTZ05aU0dy+/u/VZzlrrnmmM6gNfdQ=",
+        "duckdb-0.4.1.dev1225-cp39-cp39-macosx_11_0_arm64.whl": [
+          "seLeqMD4O9y/wzvMzmdiQ348TguaX9ZjZf09vSJVTbU=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1201-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "MDURymr5wBBvXBaVOW4Ko69THG9LWxs9qL3eWr7PPtM=",
+        "duckdb-0.4.1.dev1225-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Sns+a2wfYtX31twL3GYIdevJjzsW3jZ8j0s82LMJ6jc=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1201-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Nz8brOiKv6+urmkGIPPv+PU+ZojahgJ2VmgRy81ZHMQ=",
+        "duckdb-0.4.1.dev1225-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QTG7rAE65UhfTJYO4NZZrgQqsBQT4SJCAZwN2WNONJA=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1201-cp39-cp39-musllinux_1_1_i686.whl": [
-          "qUZj/bOa9Z7j6JlYvh0UU6z9Ll/iUpaZ4blhdcYciv4=",
+        "duckdb-0.4.1.dev1225-cp39-cp39-musllinux_1_1_i686.whl": [
+          "L+OKUuq1H/hnHaHeLGHwczBBZw9SLKtTx0P1f1CEchY=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1201-cp39-cp39-musllinux_1_1_x86_64.whl": [
-          "UbEQ/DQHel5odJzXworFb+kYrXSSelTTdB6HgznJV7U=",
+        "duckdb-0.4.1.dev1225-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "FmnJGyCPNYLSKZRrS2dJuVhoEZDmrQZT1aTqBgM6jjY=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1201-cp39-cp39-win32.whl": [
-          "qBfpe2GhRRucuWRk2XOebUsLK76Q7mFwh39qVzeD7XM=",
+        "duckdb-0.4.1.dev1225-cp39-cp39-win32.whl": [
+          "c8CCT5XacYQwjg04eo2svHO1yY38jcLR+8ynpJ84ri4=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1201-cp39-cp39-win_amd64.whl": [
-          "u/EQ3Y2vwhIuMRF82IqXRkV6LOPyJb+aJ8jPC32xzGY=",
+        "duckdb-0.4.1.dev1225-cp39-cp39-win_amd64.whl": [
+          "xVw2au86hxK4YjWlHcpiOecYjTSKaDjuy2SIpDwG+a0=",
           "cp39"
         ]
       }
     },
-    "0.4.1.dev1214": {
+    "0.4.1.dev1254": {
       "sdist": [
-        "9Tgg3p0rxnbE2uA1WTZNhRmH9FGWxeRpCtTW5RgLI0c=",
-        "duckdb-0.4.1.dev1214.tar.gz"
+        "UDAQ3i1mE2qA2zGqlU6AOVnzaFiRrU/dWSc8NYGuR/I=",
+        "duckdb-0.4.1.dev1254.tar.gz"
       ],
       "wheels": {
-        "duckdb-0.4.1.dev1214-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "B31LsMhbqelQ0xQTl9cwSGGDDVFJDm5EBpdvtiW4EEM=",
+        "duckdb-0.4.1.dev1254-cp310-cp310-macosx_10_9_universal2.whl": [
+          "w8GadIi8z3/Hv9w3EzhkVQ7CWWdZOyVHlq7+BPGl900=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1214-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "H3eKWP1afBhQUculzMNPAw+QVnjhjPHue7Tlj8FL7YQ=",
+        "duckdb-0.4.1.dev1254-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "cdgUAQMwYh3KjpayDCGOnzx0ONTF/qwPvxY/C8Lk0p0=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1214-cp310-cp310-musllinux_1_1_i686.whl": [
-          "dMaBaRoZEncR4+1IC7fkX3zSJFDZRuI4veS2OG5OBoo=",
+        "duckdb-0.4.1.dev1254-cp310-cp310-macosx_11_0_arm64.whl": [
+          "TzpkpCkhzOkznRHt9SjMrA4d8GApMep4lKzpUuCQqcY=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1214-cp310-cp310-musllinux_1_1_x86_64.whl": [
-          "nH6f5nYl0YDsn2/OpBs8fTFb8r1HHGq1QOAdwVoClBA=",
+        "duckdb-0.4.1.dev1254-cp310-cp310-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "N66TXXF/eJzIodKfLcwabXa4MYA/OQRcYIFytpWomxc=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1214-cp310-cp310-win32.whl": [
-          "M05aXHlks1ii+QUZLfN33vGB34JlpzGVAIOPTODVYbo=",
+        "duckdb-0.4.1.dev1254-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wAtDmSWu1/Z+3nBbDj+nyadb8FEHdUnjq6vaQ3qAtUc=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1214-cp310-cp310-win_amd64.whl": [
-          "b+MgUY+3kSWV/2TJFR9A15MD52hlbyINMt0ij/gttWg=",
+        "duckdb-0.4.1.dev1254-cp310-cp310-musllinux_1_1_i686.whl": [
+          "7qJ2LcpSdyXTdg0CUFrfFEwXbhsrufrHZr410flPWYQ=",
           "cp310"
         ],
-        "duckdb-0.4.1.dev1214-cp36-cp36m-macosx_10_9_x86_64.whl": [
-          "rloDlqlG3GCsRDpqpTCjvTmJ7ffTGG4PMH4szpPcoeM=",
+        "duckdb-0.4.1.dev1254-cp310-cp310-musllinux_1_1_x86_64.whl": [
+          "75MzeHnXRhzSO9bQT6WNrO0RBV9KY/EyllAjChYBl/8=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev1254-cp310-cp310-win32.whl": [
+          "Q0ZOjXyAryEaQkvBn4JQ+tGnEvUIkZoVyRnAEOkiVSs=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev1254-cp310-cp310-win_amd64.whl": [
+          "rhQ0FhWfohz/yClVGsXlPJxbV8I8RAxfyFiQWwg1VGo=",
+          "cp310"
+        ],
+        "duckdb-0.4.1.dev1254-cp36-cp36m-macosx_10_9_x86_64.whl": [
+          "BGgfuj3MsYQICSMahVRekhFzrMJXqukKY36/ySNhCII=",
           "cp36"
         ],
-        "duckdb-0.4.1.dev1214-cp36-cp36m-win32.whl": [
-          "OTTjR1BoG0uP+MFLzcDyyoutzPAO+8nmVo+UMHfZjwc=",
+        "duckdb-0.4.1.dev1254-cp36-cp36m-win32.whl": [
+          "lmgSY1MfznWF0R6AgJRSmQ2gKUYfl46X4nMhUccE+ZY=",
           "cp36"
         ],
-        "duckdb-0.4.1.dev1214-cp36-cp36m-win_amd64.whl": [
-          "V8/Yi0y8TbQ559UvO+WktuwJdaEIp422bRyrbXBYE9M=",
+        "duckdb-0.4.1.dev1254-cp36-cp36m-win_amd64.whl": [
+          "xc/Esv9s4iXXy34V32h9mhdL9Aq/aJJQhDe9vugy3M8=",
           "cp36"
         ],
-        "duckdb-0.4.1.dev1214-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "qoV+j9MxqMeIH/axqJs0fyi1nfFxQNGmeI79ggfbfDM=",
+        "duckdb-0.4.1.dev1254-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "kA+WKXjiI3G3+abbLZMtH2Y8/H0BJdZaPqGDeQnXqTQ=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1214-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "IjkVqKJweATqRa2TbbXB2+JrJsOrZddk8BTKdcskqu4=",
+        "duckdb-0.4.1.dev1254-cp37-cp37m-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "Tbmg5iyV7CIVBdG63PCBIDMSXgB5rIyv2nrSWYQAG40=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1214-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "R4S5oxxlqY4WlWP8cU/IXYEcl2H4Taaojuuge4cyObg=",
+        "duckdb-0.4.1.dev1254-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "nMVg7fX+3JTVu1QP74X1atPOmVQy77/RnGo62s5JGnE=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1214-cp37-cp37m-musllinux_1_1_i686.whl": [
-          "MW6HoUS5l9kirgpceRvXDXguMMpMtNu0XbkmQl4Rce4=",
+        "duckdb-0.4.1.dev1254-cp37-cp37m-musllinux_1_1_i686.whl": [
+          "WO3PwN6Wj5ZFeItb7qFtHxHekyK52MEPGmXJD5JPla0=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1214-cp37-cp37m-musllinux_1_1_x86_64.whl": [
-          "D6Hfjv40Q5dqqkd/C2rVgKmcy+1Jp6rEKjO9A43oIkM=",
+        "duckdb-0.4.1.dev1254-cp37-cp37m-musllinux_1_1_x86_64.whl": [
+          "WS3+MXJF4LWw3io1VYvSnV6gf+82yMuw6HE5bXLFtjA=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1214-cp37-cp37m-win32.whl": [
-          "5GmJk1wxurl1Lmpo19yCbWPeNZBVcKhVA/N2367wZ9A=",
+        "duckdb-0.4.1.dev1254-cp37-cp37m-win32.whl": [
+          "m9BjspIvCkDHt4vGC6+wgazPnW4139+j8wry9f1rU14=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1214-cp37-cp37m-win_amd64.whl": [
-          "nnKwIM137bAtwCa/Fdfb4AAYKJKnWocguAb55bVHkqY=",
+        "duckdb-0.4.1.dev1254-cp37-cp37m-win_amd64.whl": [
+          "D08sfb36C2iag1ScaIw6Tlsd/JV8/LIkH5JvbKFh2cM=",
           "cp37"
         ],
-        "duckdb-0.4.1.dev1214-cp38-cp38-macosx_10_9_universal2.whl": [
-          "zf11CPVcc2hc6wdw+6rwh30k5ISnavvyIqCglca4+zc=",
+        "duckdb-0.4.1.dev1254-cp38-cp38-macosx_10_9_universal2.whl": [
+          "uR91tR3XNzozAhokvSjn9znG43r9iUmQm11wLLZiY+4=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1214-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "eHZiV+4dpzzlVZ6bBYa7spahgfgdE+S7CdAcokZ9NMc=",
+        "duckdb-0.4.1.dev1254-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "1MkIJNM6OmXQ+2CRrrhhreMr6Sou8/QF4/4mE8KD/P8=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1214-cp38-cp38-macosx_11_0_arm64.whl": [
-          "0nMhPYRH2pOmSq5pdd9u26rI55BXA1U/jyTG90OZzkM=",
+        "duckdb-0.4.1.dev1254-cp38-cp38-macosx_11_0_arm64.whl": [
+          "ZdL5SUIJtsAXPQ0bOwse8XvGGhqp2u+5g4O6AArLO/s=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1214-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "aTX8GbdDAlCHq+KzRJnuhezoAhi+tUvAW+bZRu4H2t4=",
+        "duckdb-0.4.1.dev1254-cp38-cp38-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "hiaCT9wi5zNOna802kztYzTueIlqCABJtgJnHJ3f9t8=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1214-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "NbcTthiiJdId6iG1roSXsveIAW7UTkxitG78bqeDrNY=",
+        "duckdb-0.4.1.dev1254-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "oSqRBdqozeUdMI97/JhKSFCKYF5cxCdwsdpM6Mkl/tQ=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1214-cp38-cp38-musllinux_1_1_i686.whl": [
-          "TMv3F8KhBzBjatjzA5gLCFmSYomNqYdhrTWJxwrQwb4=",
+        "duckdb-0.4.1.dev1254-cp38-cp38-musllinux_1_1_i686.whl": [
+          "DTnBpKn7p0hVdP0b3PYu4eBnzXts3oCWZ3Wx3K5VAY0=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1214-cp38-cp38-musllinux_1_1_x86_64.whl": [
-          "GhS0WXgOW257GNVb6xVI0SYWudtd1I1Y2EcKB4Xzyj4=",
+        "duckdb-0.4.1.dev1254-cp38-cp38-musllinux_1_1_x86_64.whl": [
+          "T5k6YjsXVPzVWFDDIdvRb8aLl2HTb4wsLStMezIZfGM=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1214-cp38-cp38-win32.whl": [
-          "Z1fbbD5Tbl//5ic5FnYYj9QbbUTZxCZr9IXaBx1S8JA=",
+        "duckdb-0.4.1.dev1254-cp38-cp38-win32.whl": [
+          "vAj3vy7I0zGO0sMdRhrb8q7lGL+fDTg6uoDmYIEvynA=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1214-cp38-cp38-win_amd64.whl": [
-          "hrdxg6HDvabmUPQfvOGPK/ms4dPSZmffpuv/o0fXqUU=",
+        "duckdb-0.4.1.dev1254-cp38-cp38-win_amd64.whl": [
+          "R7kLt3tkWmnQQQAz7Y7EQ4d7TlwwmtpFvYQ4jJSW5Qk=",
           "cp38"
         ],
-        "duckdb-0.4.1.dev1214-cp39-cp39-macosx_10_9_universal2.whl": [
-          "vqtHf6wCMLJy93K76crSlgnHCvDIV6BDfirNwjrUvCE=",
+        "duckdb-0.4.1.dev1254-cp39-cp39-macosx_10_9_universal2.whl": [
+          "KYz/d2zOppRwnytB/eN4SpH08ZKpUDKlnW23oL2P7p4=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1214-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "EQl8mntN8w3MbIHjDm4lymTBdy6g7L1NHwDlRezvxFs=",
+        "duckdb-0.4.1.dev1254-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "h/xwfuZ+DIN83c7564RVlxXRx4d7HDlmRLQYnYk5P7I=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1214-cp39-cp39-macosx_11_0_arm64.whl": [
-          "s4lGXyDm2EfsRDmXR0BCd4tRkjDCaQquB4JsVOE4AjA=",
+        "duckdb-0.4.1.dev1254-cp39-cp39-macosx_11_0_arm64.whl": [
+          "OrHThufK9giu79ZwnW2/DibzaskKKYOaYrkXNZ/6lB0=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1214-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
-          "vkGbMBYupJ0BumW04aiybx8gJLwFsJUVmy5OUrKS9qo=",
+        "duckdb-0.4.1.dev1254-cp39-cp39-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "QQju+755cnpHuoAsbFew1LqBCDTHc/rHQ90OXIWyA7A=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1214-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "n+51pCOENmKt1+dHHbRmUITSj8eIhXUGt2/8TQ6Muog=",
+        "duckdb-0.4.1.dev1254-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mY4BB6Yi9Ifv4WjXqQA4YCvRb6tfXcSLE88SO1J4yC8=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1214-cp39-cp39-musllinux_1_1_i686.whl": [
-          "9BxDcnqY5GgeF+sL2j2tIbJV6EbZ0VaG9nGYdsvpwpo=",
+        "duckdb-0.4.1.dev1254-cp39-cp39-musllinux_1_1_i686.whl": [
+          "UO1oepC6Zfme7P27m+P56RDfuPy2jtt9IM9O8ZRu3U0=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1214-cp39-cp39-musllinux_1_1_x86_64.whl": [
-          "JyaDlT+xjQFrT+3ArPSI0MNNWDTciqJuRD+D8OxSH1w=",
+        "duckdb-0.4.1.dev1254-cp39-cp39-musllinux_1_1_x86_64.whl": [
+          "GLtf/Ou6yd7U1G+VxSM3Qpnas1zBT+qgIQFdZg1l5do=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1214-cp39-cp39-win32.whl": [
-          "9/rQxsuBEeq/x6wonoPjMf8iNYBPJQ+8PWEioks9Vz4=",
+        "duckdb-0.4.1.dev1254-cp39-cp39-win32.whl": [
+          "zAeTPCqILgAXsVOUxvKxryQjUwEZcBJOpLTT5wgkeOg=",
           "cp39"
         ],
-        "duckdb-0.4.1.dev1214-cp39-cp39-win_amd64.whl": [
-          "9moUwRfUcz5KIlAg99AIPpOQusewiZ0Mcsm1n9nLMPk=",
+        "duckdb-0.4.1.dev1254-cp39-cp39-win_amd64.whl": [
+          "hU1ipyvMDRpc98uTferwYygIPUbqz11H55sbJkTpbdk=",
           "cp39"
         ]
       }
@@ -74208,6 +74272,18 @@
       "wheels": {
         "nbdev_pandas-0.0.211-py3-none-any.whl": [
           "j5ISKKmZ47UlBh8JPyDLlUE/MSFFlXtpS6zA+00Um2M=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.212": {
+      "sdist": [
+        "xIiILz+vqZEc/s5xLJ1bPN7yZKat44MAk3rvE+BhpJA=",
+        "nbdev-pandas-0.0.212.tar.gz"
+      ],
+      "wheels": {
+        "nbdev_pandas-0.0.212-py3-none-any.whl": [
+          "Gwn6DT2vLeqBf/xpxCdK+BY5Fwy0EFr4Jnxzg2424hs=",
           "py3"
         ]
       }
@@ -134185,6 +134261,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.708": {
+      "sdist": [
+        "LNDedBhFPWTeLRKH+hDsHAc51TVIh9nUMeMrkV1iZU0=",
+        "tencentcloud-sdk-python-dbdc-3.0.708.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_dbdc-3.0.708-py2.py3-none-any.whl": [
+          "AM/HJbt5P/7xpYYEN9EtcWUhJzsQbob63f9BLKOOklM=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-tem": {
@@ -137904,6 +137992,18 @@
       "wheels": {
         "tencentcloud_sdk_python_tem-3.0.707-py2.py3-none-any.whl": [
           "T9iOVjzQ224Xh/HoNMVB+ANa/eoTLMPabIXBL/8dcY0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.708": {
+      "sdist": [
+        "TsWNPqFHEgwu6ljaSoKBgUIA1oOvQpao7UfWXAvbZC0=",
+        "tencentcloud-sdk-python-tem-3.0.708.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tem-3.0.708-py2.py3-none-any.whl": [
+          "6wIaeaI8aSwt/sdJfz0xVNP47ugF3vxHL+inKNt/kh8=",
           "py2.py3"
         ]
       }
