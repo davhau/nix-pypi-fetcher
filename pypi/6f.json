@@ -26485,6 +26485,18 @@
           "py3"
         ]
       }
+    },
+    "22.7.1": {
+      "wheels": {
+        "cuquantum-22.7.1-py3-none-manylinux2014_aarch64.whl": [
+          "/SGfjo1D5cb0taBSJWHsas2sBN9iMO+8ro8yrT9baD0=",
+          "py3"
+        ],
+        "cuquantum-22.7.1-py3-none-manylinux2014_x86_64.whl": [
+          "y4X+/4ksXnmyLogYEO5v3IyHjBjITRd87MBi2I5x69k=",
+          "py3"
+        ]
+      }
     }
   },
   "curequests": {
@@ -77852,6 +77864,12 @@
         "modelaapi-0.5.33.tar.gz"
       ]
     },
+    "0.5.34": {
+      "sdist": [
+        "uu2U2K9ATnHm3mb49IXOXB6hNZsF5ucPrhv2jHBJqtk=",
+        "modelaapi-0.5.34.tar.gz"
+      ]
+    },
     "0.5.4": {
       "sdist": [
         "0B9747yd5z9mGvg50EP9NntGAIrM8fpeZAsFDEr5ILI=",
@@ -91738,14 +91756,14 @@
     }
   },
   "open-metric-learning": {
-    "0.1.10": {
+    "0.1.11": {
       "sdist": [
-        "jiy0v8lQqjLkqc7E4h0l0dK8tTyAzd0J5v71LNXSg3g=",
-        "open-metric-learning-0.1.10.tar.gz"
+        "wKEuxEZ/vgHkGfey9kQcMnFLzBOxMuWli21U0BCkzJA=",
+        "open-metric-learning-0.1.11.tar.gz"
       ],
       "wheels": {
-        "open_metric_learning-0.1.10-py3-none-any.whl": [
-          "0JqazsvyYAvzcV0rKypncSwmhSAnLKZyZVHPYEoRXzE=",
+        "open_metric_learning-0.1.11-py3-none-any.whl": [
+          "daRJLlKBVXyZesI+FtrKpEO1W5TRDr2bJxWKxzagHiQ=",
           "py3"
         ]
       }
@@ -93410,6 +93428,62 @@
         ],
         "PARAMETEREDITOR-2.1.1-cp39-cp39-win_amd64.whl": [
           "u7Sopv+9HLfih3qK/AjA5eRV3NyNGN/o8OTvy5H4vEw=",
+          "cp39"
+        ]
+      }
+    },
+    "2.1.2": {
+      "sdist": [
+        "VLdJvKgcjQtjZD+OtsxhExA5al+/pX1qK8AoBQ5R/OA=",
+        "PARAMETEREDITOR-2.1.2.tar.gz"
+      ],
+      "wheels": {
+        "PARAMETEREDITOR-2.1.2-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "TYFUfTbQTBRq1aXvqCg4kkl8M8pv3q/dpEcOgGRqz8k=",
+          "cp310"
+        ],
+        "PARAMETEREDITOR-2.1.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "UUaKzry/j54fAZ1bZ330F2nQu6bito35XtQe1t4sKOE=",
+          "cp310"
+        ],
+        "PARAMETEREDITOR-2.1.2-cp310-cp310-win_amd64.whl": [
+          "eLgJOlo8/kT0wEPP2MX9rKQuLsOLUX6juue8k2zht4Y=",
+          "cp310"
+        ],
+        "PARAMETEREDITOR-2.1.2-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "OumTd88WaF73d1nqTQ1d3O7VCrXDrAvJDuJcOW8DdV8=",
+          "cp37"
+        ],
+        "PARAMETEREDITOR-2.1.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "clSOIoIky3h7p1Hs1bywy9fOUroC571PQuCl82fO3Fs=",
+          "cp37"
+        ],
+        "PARAMETEREDITOR-2.1.2-cp37-cp37m-win_amd64.whl": [
+          "AC+Szc6kKgVEcvSi2xjn5AP3DGYa6e2j4APV7ukRePo=",
+          "cp37"
+        ],
+        "PARAMETEREDITOR-2.1.2-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "5l2HsgPBx+Wa/xfZNqAZyO1lkS4xDe/rOI8h7m5zCgU=",
+          "cp38"
+        ],
+        "PARAMETEREDITOR-2.1.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Lhdli/K6p9kGIGV1owzAGvTrOMdWRumx+l7MAtS/R/Q=",
+          "cp38"
+        ],
+        "PARAMETEREDITOR-2.1.2-cp38-cp38-win_amd64.whl": [
+          "/a1E6vVQL6/uIW1g5/mdZruI9p0vCZX/YWHQ2wB+Goo=",
+          "cp38"
+        ],
+        "PARAMETEREDITOR-2.1.2-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "taYk3JRoVEVRSijBfmIMCpnyWKacVw2OiN2QwIkIj5U=",
+          "cp39"
+        ],
+        "PARAMETEREDITOR-2.1.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "hjA84thVJYbpyRhnNT8zSTNNb3YDMC7wvqAjU1vEGYY=",
+          "cp39"
+        ],
+        "PARAMETEREDITOR-2.1.2-cp39-cp39-win_amd64.whl": [
+          "B3oolSDAYqNBoa9BjPhIDVAid/oo2LHo2u7w/uOpMhc=",
           "cp39"
         ]
       }
