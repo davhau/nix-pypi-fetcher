@@ -18552,24 +18552,64 @@
     },
     "0.4.1": {
       "wheels": {
+        "blindai-0.4.1-cp310-cp310-macosx_12_0_x86_64.whl": [
+          "K3wcqfF450ZBfoGbjpNwqM5dZnsJh7TfSNo8aUGk6co=",
+          "cp310"
+        ],
         "blindai-0.4.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "TZtsf9a3e1/LKTzNnYHjHLqV9IETK+Gz1s06VT8bwhg=",
           "cp310"
+        ],
+        "blindai-0.4.1-cp310-cp310-win_amd64.whl": [
+          "2ZlYEGbbL6va+IH68bBwm/0ptN4GxZQ9MeJfYx/nZK0=",
+          "cp310"
+        ],
+        "blindai-0.4.1-cp36-cp36m-macosx_12_0_x86_64.whl": [
+          "LBsSuM7Pq/cZDLuXYCUV4e0QMp66vaOHL4ogBe6RlZM=",
+          "cp36"
         ],
         "blindai-0.4.1-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "T/c9rf43giltpzOuLgV/b5NoOENskZRnlW7KupP++4Q=",
           "cp36"
         ],
+        "blindai-0.4.1-cp36-cp36m-win_amd64.whl": [
+          "srOA/VH6K3MTNARVzSGA6VIdZ+kx/JRGDChv4bMRi2o=",
+          "cp36"
+        ],
+        "blindai-0.4.1-cp37-cp37m-macosx_12_0_x86_64.whl": [
+          "Bmbgyi0Qz3+aOA0P5SEpvxbf+fCtv5jzdhaafD656dI=",
+          "cp37"
+        ],
         "blindai-0.4.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "KSSHvaZnogn+vQsNddmthxGK0VlgkLlVbLxaWthgU9I=",
           "cp37"
+        ],
+        "blindai-0.4.1-cp37-cp37m-win_amd64.whl": [
+          "d4+MyvN29iW/19qyGhTl/XrjesdqiVq+ZZ4hV+stRlk=",
+          "cp37"
+        ],
+        "blindai-0.4.1-cp38-cp38-macosx_12_0_x86_64.whl": [
+          "bx0vT8omgttSiX/Dua60Z6XHsHxp7tA9RoL3LEma+AM=",
+          "cp38"
         ],
         "blindai-0.4.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "ljrNGe4u1LavsEEIcp0kxY/29AhB9vUwJRrn94eS/Gg=",
           "cp38"
         ],
+        "blindai-0.4.1-cp38-cp38-win_amd64.whl": [
+          "TG33sovOIrKpklx48Pnm61jpg1aQ5TlntjBiblsK9K0=",
+          "cp38"
+        ],
+        "blindai-0.4.1-cp39-cp39-macosx_12_0_x86_64.whl": [
+          "VakHb+qJe5dILRZPs1f/KDpCGt6A/s5rnRBCDcTltZ0=",
+          "cp39"
+        ],
         "blindai-0.4.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "Yyx20vjcGQYkuV4S5Bl9YlopmPSH1sqdjcHcoWwzsCE=",
+          "cp39"
+        ],
+        "blindai-0.4.1-cp39-cp39-win_amd64.whl": [
+          "kEIYIO5gpQ5bWTTuAz03zaMwACA14mdIhtNsqLR+Lpo=",
           "cp39"
         ]
       }
@@ -105078,6 +105118,12 @@
         "rucio-clients-1.29.1.tar.gz"
       ]
     },
+    "1.29.2": {
+      "sdist": [
+        "PBYMCqkKut6+u/lF5dw8cDY0FKYeZf5aGqtc8o2/zYA=",
+        "rucio-clients-1.29.2.tar.gz"
+      ]
+    },
     "1.5.11": {
       "sdist": [
         "6GnxhGYYEmbCju+x6Pq2xQj/kGjyRRaOjenugpbNjF4=",
@@ -120173,6 +120219,18 @@
           "py3"
         ]
       }
+    },
+    "1.3.3": {
+      "sdist": [
+        "nLLtLlB6mDCuMkIN1tN374F1wbarj/6e5Q2i5HnWNK8=",
+        "tardis-client-1.3.3.tar.gz"
+      ],
+      "wheels": {
+        "tardis_client-1.3.3-py3-none-any.whl": [
+          "ZX15/y2FdKLsiUuzL0PemQlMklVBw8WCZlBSHzG2E8Q=",
+          "py3"
+        ]
+      }
     }
   },
   "tarkov-changes.py": {
@@ -129940,6 +129998,18 @@
       "wheels": {
         "ThinkingDataSdk-1.8.0-py3-none-any.whl": [
           "4tEcm1AwvkZ6/3XmeoIaO1ciXgGubABm3sgLuuRRyRQ=",
+          "py3"
+        ]
+      }
+    },
+    "2.0.0": {
+      "sdist": [
+        "CI9vMecEcxtPwVFbVWBZwQ/tmgLuwRVcOK992z6E8tk=",
+        "ThinkingDataSdk-2.0.0.tar.gz"
+      ],
+      "wheels": {
+        "ThinkingDataSdk-2.0.0-py3-none-any.whl": [
+          "Myj10wGwtpu4oS2JmmuMlTDVy8HWjzsoPbLI3m0hSHI=",
           "py3"
         ]
       }
