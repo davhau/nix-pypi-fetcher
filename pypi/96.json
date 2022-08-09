@@ -1046,6 +1046,18 @@
         "adafruit-circuitpython-seesaw-1.11.2.tar.gz"
       ]
     },
+    "1.11.3": {
+      "sdist": [
+        "kArJJRBzGvuybbw692iIG4E8XgjbwHMETFDd3b+4ccg=",
+        "adafruit-circuitpython-seesaw-1.11.3.tar.gz"
+      ],
+      "wheels": {
+        "adafruit_circuitpython_seesaw-1.11.3-py3-none-any.whl": [
+          "PtuWChIfwTyw3KnClD1TqzKEKBCb3YkwcLjRp/xslQM=",
+          "py3"
+        ]
+      }
+    },
     "1.2.1": {
       "sdist": [
         "Kp+xXpJ1sFzg5MPAqerwAdDXGO4WRzw3/V5wGLLCn3U=",
@@ -3692,18 +3704,6 @@
         ]
       }
     },
-    "2.0.3rc1": {
-      "sdist": [
-        "kUeZauhk2vSuPlJ1fYZ90lPigA4SNaEUD+f9xA2U2k0=",
-        "altocumulus-2.0.3rc1.tar.gz"
-      ],
-      "wheels": {
-        "altocumulus-2.0.3rc1-py3-none-any.whl": [
-          "ULCaQngzEWS2xIhjK1n0nPjdbSir8vxAAjMldYnjaw0=",
-          "py3"
-        ]
-      }
-    },
     "2.0.3rc2": {
       "sdist": [
         "0XxGgKIgb2f6uZiBZxsNtOPKmiTHoQqUae/FF5lAxog=",
@@ -3724,18 +3724,6 @@
       "wheels": {
         "altocumulus-2.1.0-py3-none-any.whl": [
           "d/ipD2iO1lKZ6ZWpGn6teh275ipZsXjaHEjmx2kkS1Q=",
-          "py3"
-        ]
-      }
-    },
-    "2.1.0rc1": {
-      "sdist": [
-        "1bn51YX6bL8ATWP7GnNEfvVaHqa/ES0B1fMcd/iCljQ=",
-        "altocumulus-2.1.0rc1.tar.gz"
-      ],
-      "wheels": {
-        "altocumulus-2.1.0rc1-py3-none-any.whl": [
-          "4agKK4XShnAkPaoS1Bz+lw+7N/eg++3v/N2dlI0rElo=",
           "py3"
         ]
       }
@@ -12714,6 +12702,18 @@
         ],
         "bigdl_core-2.1.0b20220807-py3-none-manylinux2010_x86_64.whl": [
           "mE+shSFkhMExEzmsrWOwhE1gSWTPGvZ5RPZN3MT//bI=",
+          "py3"
+        ]
+      }
+    },
+    "2.1.0b20220808": {
+      "wheels": {
+        "bigdl_core-2.1.0b20220808-py3-none-macosx_10_11_x86_64.whl": [
+          "S/EjZ9TkS2ByhuElfM7EzETQCZNm9/YAV74xIr7BQSU=",
+          "py3"
+        ],
+        "bigdl_core-2.1.0b20220808-py3-none-manylinux2010_x86_64.whl": [
+          "4VGVNpWHCscYjhUkUdZo1DBPZK3a+KM+gTg18bQYXsE=",
           "py3"
         ]
       }
@@ -51670,6 +51670,12 @@
         "fps_retrolab-0.0.34.tar.gz"
       ]
     },
+    "0.0.35": {
+      "sdist": [
+        "IECaWq0ZpdGNfAzjG+QjTvRguNenuU+57OJFJxldeyE=",
+        "fps_retrolab-0.0.35.tar.gz"
+      ]
+    },
     "0.0.4": {
       "sdist": [
         "B5PezbVb23tFMrtVGi7S8TuEfoR5aX5l+WV2qR7KYDI=",
@@ -69080,6 +69086,18 @@
       "wheels": {
         "l2hmc-0.1.1-py3-none-any.whl": [
           "ZGE3JSW7eK6GAsfR8MrsqKto5Vdlkx6ci50WiirLEF0=",
+          "py3"
+        ]
+      }
+    },
+    "0.11.0": {
+      "sdist": [
+        "W/8d1aVRFc/uXXs8u/hDjWOmLCP73kk0d7l23925pbw=",
+        "l2hmc-0.11.0.tar.gz"
+      ],
+      "wheels": {
+        "l2hmc-0.11.0-py3-none-any.whl": [
+          "766TsWRHIVHxpgoHNy13SL5pk252glnP90HEyM4pdpI=",
           "py3"
         ]
       }
@@ -139349,6 +139367,32 @@
       }
     }
   },
+  "uberpato": {
+    "0.0.1": {
+      "sdist": [
+        "7VkxZ2p3qcZ4paSbmrFiSW+WbTiqaqrccKXbLa0icRA=",
+        "uberpato-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "uberpato-0.0.1-py3-none-any.whl": [
+          "QdpY+oVy6PZU1pHT7DCPpgVTjt7Wzi74n/t8YRY2HK0=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "WLpBMzu02tSN35aGSQu2/lZZs8uzY99ItLg4uXvo4oI=",
+        "uberpato-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "uberpato-0.0.2-py3-none-any.whl": [
+          "ylWKCQCESUS5brgJW1525ne+p3o+UdV78gOTEA218Dw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "uenginecli": {
     "1.0.1": {
       "sdist": [
@@ -141250,6 +141294,18 @@
       "wheels": {
         "vsscale-0.1.0-py3-none-any.whl": [
           "qZvgUxYchB1wW2lAE5GNdogbQwPv2l0X3oDkQqjY1hM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "qj+wa0ky5gM68XGlY9IFCwWx78sNqOpTlOqCfa2WgeA=",
+        "vsscale-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "vsscale-1.0.0-py3-none-any.whl": [
+          "MLHlp+kTdCN/+MKHNLouN8UjUXgPGqdunQAR/8QOMio=",
           "py3"
         ]
       }
