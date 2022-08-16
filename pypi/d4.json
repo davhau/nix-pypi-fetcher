@@ -39493,6 +39493,30 @@
           "py3"
         ]
       }
+    },
+    "3.0": {
+      "sdist": [
+        "aZ37v4CbuV6Evt0UtYrJwmRz0JVcguFJ5DdMb1d9fLw=",
+        "django-qr-toolkit-core-3.0.tar.gz"
+      ],
+      "wheels": {
+        "django_qr_toolkit_core-3.0-py3-none-any.whl": [
+          "iYyCtapJ0xFVD7YXb98xpfcJJx2J8IQR920a9vp1j6A=",
+          "py3"
+        ]
+      }
+    },
+    "3.1": {
+      "sdist": [
+        "um0V/RPKSvnX70qqbUrlxO0GmBHtf6a5xCJv80dxae0=",
+        "django-qr-toolkit-core-3.1.tar.gz"
+      ],
+      "wheels": {
+        "django_qr_toolkit_core-3.1-py3-none-any.whl": [
+          "C12KHff2hL+TI3/2w2A2WLE1MnDiJRnNOuMCK1AJ3mw=",
+          "py3"
+        ]
+      }
     }
   },
   "django-queryset-exts": {
@@ -54410,135 +54434,39 @@
         ]
       }
     },
-    "0.87": {
+    "0.132": {
       "wheels": {
-        "fastdup-0.87-cp37-cp37m-manylinux_2_27_x86_64.whl": [
-          "ofNqS7Ge5ovMLW1azu7NDrBg+skiZ7lbAdjncKy4/Q0=",
+        "fastdup-0.132-cp37-cp37m-manylinux_2_27_x86_64.whl": [
+          "J4tU2jc92eIyxD3/UTrmPcHyf24+cN/ygqdWvKYaVoA=",
           "cp37"
         ],
-        "fastdup-0.87-cp37-cp37m-manylinux_2_31_x86_64.whl": [
-          "5eZtZUS23QZSPXsS+3B/nK9+JC9zDpL8Q/x2SHAIq7E=",
+        "fastdup-0.132-cp37-cp37m-manylinux_2_31_x86_64.whl": [
+          "+OkWWgznLK/2WbBYHiVO09S0HrPxzELTEXasA569Q+s=",
           "cp37"
         ],
-        "fastdup-0.87-cp38-cp38-manylinux_2_27_x86_64.whl": [
-          "MjyOUyiPOT9TKlNpUE8+T9BQZsHD4XbWCkSxqhAoG4g=",
+        "fastdup-0.132-cp38-cp38-macosx_10_14_x86_64.whl": [
+          "GKrEW38ZUD/yfnfujhi6YuzdSiGpyPzlnd4U0wk823I=",
           "cp38"
         ],
-        "fastdup-0.87-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "U/zqfIxcu4T1NTYy4Cyx7TQwd3IQWjUB7z0VDWk8u2Q=",
-          "cp38"
-        ]
-      }
-    },
-    "0.88": {
-      "wheels": {
-        "fastdup-0.88-cp37-cp37m-manylinux_2_27_x86_64.whl": [
-          "sDdvdc290JZKWxdKeGZp75FBIU2N2c2oo+sr34Fx9xk=",
-          "cp37"
-        ],
-        "fastdup-0.88-cp37-cp37m-manylinux_2_31_x86_64.whl": [
-          "OoLdLtJ9SMudHkKvbBJTDebsWVMRBT/ylV2HGwu+CLA=",
-          "cp37"
-        ],
-        "fastdup-0.88-cp38-cp38-macosx_10_14_x86_64.whl": [
-          "xxqUJtl645xjp+6EdaASQ9tRLyIrWsJs+AdRKQ4GH7s=",
+        "fastdup-0.132-cp38-cp38-manylinux_2_27_x86_64.whl": [
+          "d1XnCFYfTcsJfnXfxzSvbsfzjzhscN88neMVlB8Sp94=",
           "cp38"
         ],
-        "fastdup-0.88-cp38-cp38-macosx_11_0_arm64.whl": [
-          "q2l3lu6IpWB3iZ/QSbyKOYwaKp7L0eOvAMPuMUYYTWk=",
+        "fastdup-0.132-cp38-cp38-manylinux_2_31_x86_64.whl": [
+          "gmWru/8RyxNJp3wAjHRlKv9UwxojI42Mw5axiftVV+8=",
           "cp38"
         ],
-        "fastdup-0.88-cp38-cp38-manylinux_2_27_x86_64.whl": [
-          "Xbs5iWW2ZMl/2NoQFEyl3OWXMUCga00M/4sHMa9pRYg=",
-          "cp38"
+        "fastdup-0.132-cp39-cp39-macosx_10_14_x86_64.whl": [
+          "NHW8Tbr0nmSHPZDwVBkbqJ+w7rLN6cAWGutsN6tawbM=",
+          "cp39"
         ],
-        "fastdup-0.88-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "Mxgi9+2W7MEXrWPgpx5/onaHKMQ3Ro/rxCsSECbnxRU=",
-          "cp38"
-        ]
-      }
-    },
-    "0.89": {
-      "wheels": {
-        "fastdup-0.89-cp37-cp37m-manylinux_2_27_x86_64.whl": [
-          "3uqEi98soHFo0NBkAzb86RbsCXNuDEUkafEAY7VTz1w=",
-          "cp37"
+        "fastdup-0.132-cp39-cp39-manylinux_2_27_x86_64.whl": [
+          "NMIVJh7VYL3EhFgIn1LTlMwLEYn7TQ3mZdaIAU3NoR4=",
+          "cp39"
         ],
-        "fastdup-0.89-cp37-cp37m-manylinux_2_31_x86_64.whl": [
-          "RE3+jtqUsy8AjZ6AfGvc9exjMtpkyt9DDrvSVUNlwPc=",
-          "cp37"
-        ],
-        "fastdup-0.89-cp38-cp38-manylinux_2_27_x86_64.whl": [
-          "HOkBjCeQ4v5QTNx3AkMmzw+hCEfLQLUAOJyWDoWFqpo=",
-          "cp38"
-        ],
-        "fastdup-0.89-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "KWWUHWJgZEeanRcGRmY1O8+SEU2Ob/fTLsXOAInzHNQ=",
-          "cp38"
-        ]
-      }
-    },
-    "0.90": {
-      "wheels": {
-        "fastdup-0.90-cp37-cp37m-manylinux_2_27_x86_64.whl": [
-          "IHvLsdwwUu13yea7wt2+YF3pMMDuffwipZoQsFHH9e4=",
-          "cp37"
-        ],
-        "fastdup-0.90-cp37-cp37m-manylinux_2_31_x86_64.whl": [
-          "1PWzmPyJxkicRzmd3BglulyAymsSWCnZTdYqQ4niHQQ=",
-          "cp37"
-        ],
-        "fastdup-0.90-cp38-cp38-manylinux_2_27_x86_64.whl": [
-          "eQ5mLtCg+r920+kH3W7OD/FNTIsrqqBsrySE4gJ5BWE=",
-          "cp38"
-        ],
-        "fastdup-0.90-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "n4QNk8iX+kHSsM0zy/bomzS8A8C1+vrClABk4WQNfW8=",
-          "cp38"
-        ]
-      }
-    },
-    "0.91": {
-      "wheels": {
-        "fastdup-0.91-cp37-cp37m-manylinux_2_27_x86_64.whl": [
-          "PQ/hoIvwkO51qkcoXDLfKvklwh41xBw2ThpNETm46lA=",
-          "cp37"
-        ],
-        "fastdup-0.91-cp37-cp37m-manylinux_2_31_x86_64.whl": [
-          "xkgR/cuwY1gGUpqSTh9yDb0qpY+hVppFWQrplBmlowM=",
-          "cp37"
-        ],
-        "fastdup-0.91-cp38-cp38-manylinux_2_27_x86_64.whl": [
-          "wqtj25BqrP/tze/Ssr63jSlQ/k2lyK7Getc5OYBzp9E=",
-          "cp38"
-        ],
-        "fastdup-0.91-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "+edfGfMls20M4qvXawwrNZO5pKSTyUcLqnuhsZLW35g=",
-          "cp38"
-        ]
-      }
-    },
-    "0.92": {
-      "wheels": {
-        "fastdup-0.92-cp37-cp37m-manylinux_2_27_x86_64.whl": [
-          "iTM5Zc1BzRBruts/onoxJxgCGSIhUb2VCp4fWn1bzx8=",
-          "cp37"
-        ],
-        "fastdup-0.92-cp37-cp37m-manylinux_2_31_x86_64.whl": [
-          "/BAJR2oz8q337UCuAA0wBhmK070VWfG4cTUBqzOL/OM=",
-          "cp37"
-        ],
-        "fastdup-0.92-cp38-cp38-macosx_11_0_arm64.whl": [
-          "4fOLp4qkfP+Lu5ojUXW1mWqzjFQm4iurGNhbi9hspRM=",
-          "cp38"
-        ],
-        "fastdup-0.92-cp38-cp38-manylinux_2_27_x86_64.whl": [
-          "qhPvVJ/SyB902Ytcd/CfRfznd4BhENnNEJxwSESRLXY=",
-          "cp38"
-        ],
-        "fastdup-0.92-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "doCDDytS0Kei3DcZRaFDwv5AreiFrXMwwB7OZyRAdSA=",
-          "cp38"
+        "fastdup-0.132-cp39-cp39-manylinux_2_31_x86_64.whl": [
+          "EUcnD5dJPAdiuZOgeNLnw7aOr9w50w8t1lUzgaXNCUM=",
+          "cp39"
         ]
       }
     },
