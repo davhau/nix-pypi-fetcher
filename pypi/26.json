@@ -11256,6 +11256,18 @@
         ]
       }
     },
+    "2.16.0": {
+      "sdist": [
+        "YwpasqsKSPVHDVhuAA3iuG759ksmpvYSggoMWh0SFzg=",
+        "aws-solutions-constructs.aws-kinesis-streams-kinesis-firehose-s3-2.16.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_kinesis_streams_kinesis_firehose_s3-2.16.0-py3-none-any.whl": [
+          "CyYUPB5PoFftC+/vUBBJor6FfVXiutv62p+Vg/eUweA=",
+          "py3"
+        ]
+      }
+    },
     "2.2.0": {
       "sdist": [
         "yXlRDFkPd3ecSps7pXplMEwjMfkm0zpvHfP+oZNT4JM=",
@@ -21946,6 +21958,18 @@
       "wheels": {
         "cdk_hugo_deploy-0.0.9-py3-none-any.whl": [
           "HlS98z9as5jIaZcae8QsplQYeSNe5cS5jwXUe1SGK4o=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.90": {
+      "sdist": [
+        "98ZpDScJlhLFvnWGT8zLZ2tIUscKG+wUK48rZjqMkaw=",
+        "cdk-hugo-deploy-0.0.90.tar.gz"
+      ],
+      "wheels": {
+        "cdk_hugo_deploy-0.0.90-py3-none-any.whl": [
+          "55T8pST7IQFHcl0hxWXzUL9zcM856Hn/6jkM27sbiE8=",
           "py3"
         ]
       }
@@ -83829,6 +83853,12 @@
         "b+auQ7efIUxniN1/n2GfUP9DSgG6jF6pZfbKh4RjAwo=",
         "oceantide-0.4.0.tar.gz"
       ]
+    },
+    "0.4.1": {
+      "sdist": [
+        "7KMlr3U+ypQ/30rYH7imG0V7rvmx5KXCCQVmVu4ERao=",
+        "oceantide-0.4.1.tar.gz"
+      ]
     }
   },
   "octomachinery": {
@@ -110451,6 +110481,14 @@
       ]
     }
   },
+  "rti-lab58-face": {
+    "0.0.2": {
+      "sdist": [
+        "2GosNuMkY3cXa0b/L+p1+fk82l4MaCYEc0tZ9XKk6Ec=",
+        "RTI_lab58_face-0.0.2.tar.gz"
+      ]
+    }
+  },
   "rtspscanner": {
     "0.1.3": {
       "sdist": [
@@ -118134,6 +118172,70 @@
         ],
         "substrait_validator-0.0.7-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
           "Xr1OiClRaz8d9Dt8i5UFSP5h87LKXJGLyvVhmkS4DK8=",
+          "pp37"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "oVm+ZDqdCscqobvC9kJs+MfbN9QbrZ41KnAp2CKFCkE=",
+        "substrait_validator-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "substrait_validator-0.0.8-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "4DODOzO+pBKfqf36ZvI5S3jcFvWi3JcUZpZjZXW84k0=",
+          "cp310"
+        ],
+        "substrait_validator-0.0.8-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "q9eMg9b4Yoc7UFyxHdpd/lmHbdiH9eKlQes83tQkT0s=",
+          "cp310"
+        ],
+        "substrait_validator-0.0.8-cp310-none-win_amd64.whl": [
+          "1O5B3XQWM42Y7qWsUPYNj9EGZesX3Z04qQ2MMCM+8xs=",
+          "cp310"
+        ],
+        "substrait_validator-0.0.8-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "u7xt4Tj4kN6DMUqUmooxr9sjfWqFvmF2ecAY5hzPNg0=",
+          "cp36"
+        ],
+        "substrait_validator-0.0.8-cp37-cp37m-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "Encm2FDP5wEirRaTpSI+xKKe9hpBF+iV4c2d8+kcRS8=",
+          "cp37"
+        ],
+        "substrait_validator-0.0.8-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "AK+L2pG9woez5z4wY7PFogBcddwl/hr5A6lm2T8vCmM=",
+          "cp37"
+        ],
+        "substrait_validator-0.0.8-cp37-none-win_amd64.whl": [
+          "DtCbiALIrFyRtzCxoOS2Pv2lif8N4vDGsD3GMY5jw8U=",
+          "cp37"
+        ],
+        "substrait_validator-0.0.8-cp38-cp38-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "pcvSrVUoXreBSZYmG1jqf3J3hEY2CYXtMAeZLuARhZI=",
+          "cp38"
+        ],
+        "substrait_validator-0.0.8-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "g14JvDWGYLoDLatHa/VVSrNoRytJhvJ7cZpgVka7RG4=",
+          "cp38"
+        ],
+        "substrait_validator-0.0.8-cp38-none-win_amd64.whl": [
+          "XJFcMSPcCjiKHH22hfKr0Qi2ScefS6pEDlr8foxYDho=",
+          "cp38"
+        ],
+        "substrait_validator-0.0.8-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "hdxnFGb1E2KNNKzBOuwGhrYkjo/shymNX/ia48eTBQ8=",
+          "cp39"
+        ],
+        "substrait_validator-0.0.8-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "UB58clFSM8RG3eUtzL0lyefO9QhMR/W8o1j8842mAao=",
+          "cp39"
+        ],
+        "substrait_validator-0.0.8-cp39-none-win_amd64.whl": [
+          "evpB/3CTvB7L4anNDWi7lcqggVzft1NcPTZWnBMLt5o=",
+          "cp39"
+        ],
+        "substrait_validator-0.0.8-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "N9zGo79tOLUvvQ6WVL2reT7aTo7+tn3/jzYONncN5/M=",
           "pp37"
         ]
       }
