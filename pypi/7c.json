@@ -8130,6 +8130,18 @@
         ]
       }
     },
+    "2.38.1a0": {
+      "sdist": [
+        "rCkc3wHsEIbiQaayNcTrpXEQNquHW0fyvJnAPw/D/eg=",
+        "aws-cdk.aws-codestar-alpha-2.38.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_codestar_alpha-2.38.1a0-py3-none-any.whl": [
+          "8b++FbyBV9UZtk8xssxn3DGEgAK5vwBzOHtCtY58ZN4=",
+          "py3"
+        ]
+      }
+    },
     "2.4.0a0": {
       "sdist": [
         "gW6XaVj+gCe3cMxI5urQYenDL+IO36sk0l/TAn/W2RM=",
@@ -53634,6 +53646,14 @@
       "wheels": {
         "imageObjects-0.13.4-py3-none-any.whl": [
           "DOISKbaee3HOuTM4eZtTJ7gewBbSICMts00r2OkH5As=",
+          "py3"
+        ]
+      }
+    },
+    "0.13.5": {
+      "wheels": {
+        "imageObjects-0.13.5-py3-none-any.whl": [
+          "wkrIvjhtuHirecmr+vDWm/fZvHE+tCrbjcP4dRwBmsg=",
           "py3"
         ]
       }
@@ -111075,6 +111095,14 @@
           "py2.py3"
         ]
       }
+    },
+    "0.7.7.2884171784": {
+      "wheels": {
+        "pyvsc-0.7.7.2884171784-py2.py3-none-any.whl": [
+          "NGCtAZs6FRzcw7z2TLemaUmtpK89ynGHOCErSLRmiYk=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyvttbl": {
@@ -120850,6 +120878,18 @@
       "wheels": {
         "SnappyKO-0.5.0-py3-none-any.whl": [
           "otACVAYlWQdZD4ORg3S2hPzmQ1HmstuTuTE/osdB7pI=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.1": {
+      "sdist": [
+        "zkxyltNcVD5EqXWeZyPwDM+FI4WyjxZv8mpNyIfbuYA=",
+        "SnappyKO-0.5.1.linux-x86_64.tar.gz"
+      ],
+      "wheels": {
+        "SnappyKO-0.5.1-py3-none-any.whl": [
+          "3whp5LnCbw50jYEp63TaRVl8x2SAjJEEfZ4QTlLkG/0=",
           "py3"
         ]
       }
@@ -137748,6 +137788,90 @@
         ],
         "uamqp-1.5.3-cp39-cp39-win_amd64.whl": [
           "VG+dzddhDA7kpZqvkSQkWYjbRPvqQXy8SVoY4VKPhDc=",
+          "cp39"
+        ]
+      }
+    },
+    "1.6.0": {
+      "sdist": [
+        "LDG3ShCFbszyWNc8TQjlysTWBgo0uYNIkL/UK8sTg1A=",
+        "uamqp-1.6.0.tar.gz"
+      ],
+      "wheels": {
+        "uamqp-1.6.0-cp310-cp310-macosx_10_9_universal2.whl": [
+          "y0u6XDLV8FNfewwQp1pFT7LSUSd6fYgP1FQjZdn4dKc=",
+          "cp310"
+        ],
+        "uamqp-1.6.0-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "Fwwp+t7SlGDcDaPZZaeKGtRS3bnYPEl8qVPmi00vRYE=",
+          "cp310"
+        ],
+        "uamqp-1.6.0-cp310-cp310-win32.whl": [
+          "bSRH7jbbcMCLJeZi123/Q3BLHeEaO5mZLUrnYzo6lik=",
+          "cp310"
+        ],
+        "uamqp-1.6.0-cp310-cp310-win_amd64.whl": [
+          "nBwoploTsBDSFUwXcXPBLKK216fJHw1E1ZaU4RmhL18=",
+          "cp310"
+        ],
+        "uamqp-1.6.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "xk3djb3Y70nsTvYGj+HSKnzvcykZKAfWWETjpiO4xCs=",
+          "cp37"
+        ],
+        "uamqp-1.6.0-cp37-cp37m-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "2p2erfSi6xgYEhnhuBm3MCytkwufEY1q1f/S29wrnYw=",
+          "cp37"
+        ],
+        "uamqp-1.6.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "UU4aZ6OrQYlyxqu3pvRn6n09yxszObTRhPhumYUK4KY=",
+          "cp37"
+        ],
+        "uamqp-1.6.0-cp37-cp37m-win32.whl": [
+          "TQLarfDjovuVN9kNj1yyQz/9cLWTiO68BRT1ZrdxKn4=",
+          "cp37"
+        ],
+        "uamqp-1.6.0-cp37-cp37m-win_amd64.whl": [
+          "CVXkLwHJ0EaqwANbJy7t2hT2UO+UCqY5alXSNc6c4zE=",
+          "cp37"
+        ],
+        "uamqp-1.6.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "5/J/Y5WmMI2EHOSIz+6pIk6EBigua7OrC05UCJ1rc5E=",
+          "cp38"
+        ],
+        "uamqp-1.6.0-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "hrwLusb9m488x1BCn3u637etA/QhgOJkNTx9u6ngL/U=",
+          "cp38"
+        ],
+        "uamqp-1.6.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "eMzYMBo1uercc32QckKJ0e17Eh8/CRRjyS+BeUKl3uo=",
+          "cp38"
+        ],
+        "uamqp-1.6.0-cp38-cp38-win32.whl": [
+          "LmiMJZuSPNKkMcHkFG0c6sXPWw6iED2uRnDd9W5d1dw=",
+          "cp38"
+        ],
+        "uamqp-1.6.0-cp38-cp38-win_amd64.whl": [
+          "2soRTyLJXhjX77l247BPXoGDYr8TIOPdbrj0UBRaxTg=",
+          "cp38"
+        ],
+        "uamqp-1.6.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "bzMaNurjNfUmpjYq1dG9EhF0jt3u8g+S46MjZBFKjg0=",
+          "cp39"
+        ],
+        "uamqp-1.6.0-cp39-cp39-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "RmM2UTz7YSAVMzAAB+XBUj3f47STi6P1vwkE8BapaYc=",
+          "cp39"
+        ],
+        "uamqp-1.6.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "byWIR+BaFpr9sshNVTcw05NhDUluHVlM+aiVgRYDcbE=",
+          "cp39"
+        ],
+        "uamqp-1.6.0-cp39-cp39-win32.whl": [
+          "0V5G4Ez7HC18tU41tine6PREvbHcUmkuC8HnNS5hTgk=",
+          "cp39"
+        ],
+        "uamqp-1.6.0-cp39-cp39-win_amd64.whl": [
+          "Rxf/0zYRAC4uiz+Sr2xJZtED5ebfhvsVQfSVLcB/VSs=",
           "cp39"
         ]
       }
