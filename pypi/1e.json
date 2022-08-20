@@ -3258,6 +3258,18 @@
         ]
       }
     },
+    "3.11.0rc0": {
+      "sdist": [
+        "Aws+fkIOhK7KNtNuyk7/JRJnXyWuP9AIBKGTbwBB4Nk=",
+        "airflow-notebook-3.11.0rc0.tar.gz"
+      ],
+      "wheels": {
+        "airflow_notebook-3.11.0rc0-py3-none-any.whl": [
+          "9b6GN0FvczcI+aea8EruwzNbXwutGF9iVl/su24wkQM=",
+          "py3"
+        ]
+      }
+    },
     "3.2.0": {
       "sdist": [
         "zT5dNxFL5HeGIx7Iy9EFEaJRRe4DeF+8jMLMegZ24Sc=",
@@ -13325,6 +13337,30 @@
           "py3"
         ]
       }
+    },
+    "0.3.1": {
+      "sdist": [
+        "apetr2kuuGeOINGgFFtV1XK8/fjUHWeo+TPk2dF3Z0w=",
+        "Bigsansar-0.3.1.tar.gz"
+      ],
+      "wheels": {
+        "Bigsansar-0.3.1-py3-none-any.whl": [
+          "/vsPb5tHPeZvccneaGnLmA+TvDeS9Ow1l287HH+8dhA=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.3": {
+      "sdist": [
+        "fN1qZ3Y+dkxHOe2QPgF3oebbynB2Nv5EuYtnUfXhlII=",
+        "Bigsansar-0.3.3.tar.gz"
+      ],
+      "wheels": {
+        "Bigsansar-0.3.3-py3-none-any.whl": [
+          "l4UC5YvbNz+wZYJivfLHtJC1Rjx1Rha04mFTbWF3STQ=",
+          "py3"
+        ]
+      }
     }
   },
   "billing-package": {
@@ -22498,6 +22534,18 @@
       "wheels": {
         "configparser-5.2.0-py3-none-any.whl": [
           "6LOSOPtvAVOgaaolPTSUZ8PEc3k08lPvarrF/g7KHl0=",
+          "py3"
+        ]
+      }
+    },
+    "5.3.0": {
+      "sdist": [
+        "i+JngktUHAmwjbEkkX9Iq1JabD6DcBHzEweBoiTFcJA=",
+        "configparser-5.3.0.tar.gz"
+      ],
+      "wheels": {
+        "configparser-5.3.0-py3-none-any.whl": [
+          "sGV3n9k8a/TO5CIC+kNRtLuELpaj+0aUQOSEUXpJufo=",
           "py3"
         ]
       }
@@ -42910,6 +42958,18 @@
       "wheels": {
         "google_auth-2.10.0-py2.py3-none-any.whl": [
           "HeukpU+V72e0E56vXCDqpwRyFe7J9qI0RZm4WW24hjs=",
+          "py2.py3"
+        ]
+      }
+    },
+    "2.11.0": {
+      "sdist": [
+        "7WXs+faBgyKY4pMo4e8KNnbjcysuVvQVMtRfcKIt4Ps=",
+        "google-auth-2.11.0.tar.gz"
+      ],
+      "wheels": {
+        "google_auth-2.11.0-py2.py3-none-any.whl": [
+          "vmKsquONAEnCHKkPJ6I4RyRcnxYf9U7eE68stq/susk=",
           "py2.py3"
         ]
       }
@@ -112439,6 +112499,74 @@
         "dBMZVyeBd1htJpXMlQ/XCKusBqySHPEc3QyOBADPVv0=",
         "shimoudle-1.0.0.tar.gz"
       ]
+    }
+  },
+  "shotgun-api3": {
+    "3.0.14": {
+      "sdist": [
+        "lqLtq4ScyOpLIc9ZC1jLtt4RgWxpuyOE6/iY1OlHEcM=",
+        "shotgun_api3-3.0.14.tar.gz"
+      ]
+    },
+    "3.0.15": {
+      "sdist": [
+        "Ehe+EFw3L4xGhoFHiZ0hMmOJIq9zULW9gwBAd+dmXw0=",
+        "shotgun_api3-3.0.15.tar.gz"
+      ]
+    },
+    "3.0.34": {
+      "sdist": [
+        "YB885YIOho3yywOh+Gn+pxMaaMuB3yfFKCslzFf1naw=",
+        "shotgun_api3-3.0.34.tar.gz"
+      ]
+    },
+    "3.2.2": {
+      "sdist": [
+        "t9CMp7Jefs+jsnYz5Aq8J4AkNJ00yjN279Sunif7XCU=",
+        "shotgun_api3-3.2.2.tar.gz"
+      ],
+      "wheels": {
+        "shotgun_api3-3.2.2-py2.py3-none-any.whl": [
+          "l0AwqyGZqwBRPpB4SmuKadLcWnTL1aQmkQX0ZgSwNVk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.2.4": {
+      "sdist": [
+        "JDacFKm55lt8dezkUTOpBsP2s/5RVIytRxil3mSE4MI=",
+        "shotgun_api3-3.2.4.tar.gz"
+      ],
+      "wheels": {
+        "shotgun_api3-3.2.4-py2.py3-none-any.whl": [
+          "o9jmI5eNmilb45lG4XocUii94DlZAoOCumcflRkp9rY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.3.3": {
+      "sdist": [
+        "jueNjZJHIDDTCra//nvHUJ4UP7vshUUkCxoGcyzD2r8=",
+        "shotgun_api3-3.3.3.tar.gz"
+      ],
+      "wheels": {
+        "shotgun_api3-3.3.3-py2.py3-none-any.whl": [
+          "gxiC8HPUE+tAfSBRfDYyh4AUJVMNksBgswPN16V1odc=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.3.4": {
+      "sdist": [
+        "7OvieeqAG8eCNIOC8MM3Tb+4dwGvNfII445SeH/aE0s=",
+        "shotgun_api3-3.3.4.tar.gz"
+      ],
+      "wheels": {
+        "shotgun_api3-3.3.4-py2.py3-none-any.whl": [
+          "kDywu0yo2EZeIljcUvrZ28jTFxBSB0EEUsrTyAC5SfI=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "show-upper-by-non": {
