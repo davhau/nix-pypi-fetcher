@@ -3719,6 +3719,12 @@
         "sqVyaGK2zbWVaPm95n7ftdkSYe/avn7g9JEEoSA6ris=",
         "analysis-runner-2.32.3.tar.gz"
       ]
+    },
+    "2.32.4": {
+      "sdist": [
+        "QJFlKEsjltW3jeqzOIwIP9vw/Rts4EYUbo2d0q/OoZk=",
+        "analysis-runner-2.32.4.tar.gz"
+      ]
     }
   },
   "analyticstestnn1": {
@@ -8444,6 +8450,18 @@
       "wheels": {
         "aws_solutions_constructs.aws_alb_fargate-1.168.0-py3-none-any.whl": [
           "wGFfmfoZp4rRUbWYQZo8bD2/u9D8kcizQUkqb+nj0xg=",
+          "py3"
+        ]
+      }
+    },
+    "1.169.0": {
+      "sdist": [
+        "Z1jD/MKgJZYI23GnzR+D9C2vo8ZyGRdbXa6Aie0Knww=",
+        "aws-solutions-constructs.aws-alb-fargate-1.169.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_solutions_constructs.aws_alb_fargate-1.169.0-py3-none-any.whl": [
+          "bMiUBkudbIYwlkO4PXgR1YYNiN4ODrxxP0gH1CaGbPY=",
           "py3"
         ]
       }
@@ -32409,6 +32427,18 @@
           "py3"
         ]
       }
+    },
+    "2.19.0": {
+      "sdist": [
+        "UaOOCDlOnhUJpmTB5/RhaydIkS9TTmMQievmWTpEd2s=",
+        "dvc-azure-2.19.0.tar.gz"
+      ],
+      "wheels": {
+        "dvc_azure-2.19.0-py3-none-any.whl": [
+          "f9ab+nA+75vkPCMMP7kc75Geo/CYlEu2tzYKGo7Do0w=",
+          "py3"
+        ]
+      }
     }
   },
   "dw8000-wav2syx-christofmuc": {
@@ -54605,6 +54635,30 @@
           "py3"
         ]
       }
+    },
+    "0.3.6": {
+      "sdist": [
+        "aripnaOBOEnoIegoC02Tw/eVhrG5qyRi68++1gKg8EQ=",
+        "kraken-std-0.3.6.tar.gz"
+      ],
+      "wheels": {
+        "kraken_std-0.3.6-py3-none-any.whl": [
+          "q9EW4tpZdZAR2iCryBXMfqFl4TcSVLNbGJ+rv5LLdXI=",
+          "py3"
+        ]
+      }
+    },
+    "0.3.7": {
+      "sdist": [
+        "hfo+E1pzdadNRM1pheafv7EqrL8tWZq+bIXkNDyFplc=",
+        "kraken-std-0.3.7.tar.gz"
+      ],
+      "wheels": {
+        "kraken_std-0.3.7-py3-none-any.whl": [
+          "0ZKZzf0H+lMwwosoGrNo0ioHTp+1+sm5EibFMwb3fuA=",
+          "py3"
+        ]
+      }
     }
   },
   "kratky-rg-izero": {
@@ -71310,6 +71364,18 @@
       "wheels": {
         "nodezator-1.2.6-py3-none-any.whl": [
           "cPyBjfpdBTT3kYeFVjMJxYwFy3JQlMkc+RudUfNpQHs=",
+          "py3"
+        ]
+      }
+    },
+    "1.2.7": {
+      "sdist": [
+        "L1vOYBPxaSFfjJLjXDUBaSzkvHlEpmfKMMy7qoxdOeg=",
+        "nodezator-1.2.7.tar.gz"
+      ],
+      "wheels": {
+        "nodezator-1.2.7-py3-none-any.whl": [
+          "givPpQsEA83HfXp7bSLN+CDN3RFTfb7SCpQS8D2REFU=",
           "py3"
         ]
       }
@@ -117057,6 +117123,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.719": {
+      "sdist": [
+        "Jb/NlVSEYQ5G7m8QvrlXiemB1ldqX+PMUg2/U1J2hxE=",
+        "tencentcloud-sdk-python-tia-3.0.719.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_tia-3.0.719-py2.py3-none-any.whl": [
+          "dhdNQTipMW+ylz8h5Q9Y/AzmVHCjzDXA5KaBnom9e8w=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tentaclio-databricks-pyodbc": {
@@ -118232,6 +118310,26 @@
         ],
         "tf_nightly_cpu_aws-2.11.0.dev20220824-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
           "MeN88w97BYPAofIvrI0iB6YBphHrggBUSuCMzDwzwE8=",
+          "cp39"
+        ]
+      }
+    },
+    "2.11.0.dev20220825": {
+      "wheels": {
+        "tf_nightly_cpu_aws-2.11.0.dev20220825-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "cnDGmdHo5+J3KXdHiscADPz5HROhcvhnT98+IzT5jGs=",
+          "cp310"
+        ],
+        "tf_nightly_cpu_aws-2.11.0.dev20220825-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "2yVzqKhcyKwmNVOMu87tkpp9ud9y0F0OeI46FHze2eo=",
+          "cp37"
+        ],
+        "tf_nightly_cpu_aws-2.11.0.dev20220825-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "XLmz1JYTuMM0KAE8eeDHh0Kv3Bk/+twVJ3zagmAScpg=",
+          "cp38"
+        ],
+        "tf_nightly_cpu_aws-2.11.0.dev20220825-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xA4PdK8fl9RfuAYp2NrP3j3mMKBR1Yr7+gXP2j3verM=",
           "cp39"
         ]
       }

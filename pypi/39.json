@@ -42339,6 +42339,12 @@
         "zwQv29xn6WL6xe+D6cy5LzwJDkRsH6fOzlLTv6R21Jo=",
         "grad-cam-1.4.4.tar.gz"
       ]
+    },
+    "1.4.5": {
+      "sdist": [
+        "dcFtE/4igjDuh2T3PzJiZO2BAo814pnqfk9VpBH1mxY=",
+        "grad-cam-1.4.5.tar.gz"
+      ]
     }
   },
   "graia-template": {
@@ -44134,42 +44140,6 @@
         ]
       }
     },
-    "8.8.4": {
-      "wheels": {
-        "htcondor-8.8.4-cp26-cp26m-manylinux1_x86_64.whl": [
-          "n0PSmN+jDAgznlRubdTZLDtzoIad1omeIho8vsXCsYE=",
-          "cp26"
-        ],
-        "htcondor-8.8.4-cp26-cp26mu-manylinux1_x86_64.whl": [
-          "8SnaxWN1HDs5hK7AipmevzoTckdX6dfF/Smk10QE1UI=",
-          "cp26"
-        ],
-        "htcondor-8.8.4-cp27-cp27m-manylinux1_x86_64.whl": [
-          "ByqqXwzekaJ2j25sXj8Yri5S+mV+ypuvP/tMF72hSqs=",
-          "cp27"
-        ],
-        "htcondor-8.8.4-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "8rFcs5hoJG3bhNJ+ESTjJ0e6csB3UHqQikvaskezKiE=",
-          "cp27"
-        ],
-        "htcondor-8.8.4-cp34-cp34m-manylinux1_x86_64.whl": [
-          "YYQ/wfaRFH/rbNqrOAvv62sDMZ1inmih/qEc2ZInfBo=",
-          "cp34"
-        ],
-        "htcondor-8.8.4-cp35-cp35m-manylinux1_x86_64.whl": [
-          "n93VdWO4U3NQ4d0v/5vwHd/zyevCOW5OVO9JflyzAbk=",
-          "cp35"
-        ],
-        "htcondor-8.8.4-cp36-cp36m-manylinux1_x86_64.whl": [
-          "yPEOggsuakp9s4Deg9HR0/fBsVUkGJ1GYPwLAaJPo40=",
-          "cp36"
-        ],
-        "htcondor-8.8.4-cp37-cp37m-manylinux1_x86_64.whl": [
-          "gszCuTvOoQ8LZ0nF9mYfDFjrQM+zkS7Bbcw20ltRO40=",
-          "cp37"
-        ]
-      }
-    },
     "8.8.5": {
       "wheels": {
         "htcondor-8.8.5-cp26-cp26m-manylinux1_x86_64.whl": [
@@ -45202,6 +45172,30 @@
         ],
         "htcondor-9.10.0.post1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "QtmB0Tba7pph2IWrtdD0VMDWgyidYHrM7UpHrfpAsw4=",
+          "cp39"
+        ]
+      }
+    },
+    "9.11.0": {
+      "wheels": {
+        "htcondor-9.11.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8w78cZl883htC9EDSJ8qROUxf1KvJUmAaH9XrWtYDeg=",
+          "cp310"
+        ],
+        "htcondor-9.11.0-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MJPDdmaBOmDQSbW+7TkevEl/KGui1dd/Z0DePMCRqaE=",
+          "cp36"
+        ],
+        "htcondor-9.11.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Bum+Fj5YDQeLbC3Fxo9OXcr6L/zFiTCSuZ/uO/n8nQ4=",
+          "cp37"
+        ],
+        "htcondor-9.11.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "WESJ6iUke+sDMn7aYk77OCt7AG7B1cxg1cFsCzLnW/0=",
+          "cp38"
+        ],
+        "htcondor-9.11.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mj9d0x3SzUzFbX1pFyMwA38e5cWV72yJrPXWW+MNDMc=",
           "cp39"
         ]
       }
@@ -109665,6 +109659,20 @@
       }
     }
   },
+  "smpai": {
+    "0.1.1a1": {
+      "sdist": [
+        "u4FxbZ715wV+xP1/CyWoVDpHm2UdaTMnOW4Wcpcs4ag=",
+        "smpai-0.1.1a1.tar.gz"
+      ],
+      "wheels": {
+        "smpai-0.1.1a1-py2.py3-none-any.whl": [
+          "FABrSa6TaO92uC/ChkRnnpBx4SdjoOqVakRBcKJEkSM=",
+          "py2.py3"
+        ]
+      }
+    }
+  },
   "smsactivate": {
     "1.0": {
       "sdist": [
@@ -124544,6 +124552,26 @@
         ],
         "tf_nightly_intel-2.11.0.dev20220824-cp39-cp39-win_amd64.whl": [
           "ThLWIxxNihjFTbpQb+/kzTvmnDtDd7CUI4wvPzFVsyI=",
+          "cp39"
+        ]
+      }
+    },
+    "2.11.0.dev20220825": {
+      "wheels": {
+        "tf_nightly_intel-2.11.0.dev20220825-cp310-cp310-win_amd64.whl": [
+          "uer88jTxw8hpfofjj/MtJexVI84X3SIK939qGD5ZkYk=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.11.0.dev20220825-cp37-cp37m-win_amd64.whl": [
+          "ygqsb5OYChml+YX1YzVgk9PKs15/Mfx4kdPBzX0YWUg=",
+          "cp37"
+        ],
+        "tf_nightly_intel-2.11.0.dev20220825-cp38-cp38-win_amd64.whl": [
+          "+Rk/BNo6x8ysjAp75iXSv2i9H2CNVX5lpsrpgJZzwuY=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.11.0.dev20220825-cp39-cp39-win_amd64.whl": [
+          "PaXZzpsidtr3RgXzvmXuA4V6oC8mCSexA2+AFlCK27U=",
           "cp39"
         ]
       }
