@@ -1263,6 +1263,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.4": {
+      "sdist": [
+        "NgRLAFcNmZHiN89Ww2/cDl3whr6DmN5TBoR1QSt6B9U=",
+        "aiopay-1.0.4.tar.gz"
+      ],
+      "wheels": {
+        "aiopay-1.0.4-py3-none-any.whl": [
+          "9D5ZKfSmXCyj9ck1qOoHvOF7MpxzXlunhXIjHCU2KwM=",
+          "py3"
+        ]
+      }
     }
   },
   "aioradios": {
@@ -22110,11 +22122,35 @@
         ]
       }
     },
+    "0.1.29": {
+      "sdist": [
+        "gX4jkPoic9Z2M220vl+y260p18CWw46B1FBh6uUcZEc=",
+        "dbcontroller-0.1.29.tar.gz"
+      ],
+      "wheels": {
+        "dbcontroller-0.1.29-py3-none-any.whl": [
+          "lp4xHviSlVagvAE4+gdHx+yeQJH5L9XJol64TkZEW4Q=",
+          "py3"
+        ]
+      }
+    },
     "0.1.3": {
       "sdist": [
         "5JXdAEqpQzRCd3xHSETMKIAkt+vgXe3Bzm4uangAi7k=",
         "dbcontroller-0.1.3.tar.gz"
       ]
+    },
+    "0.1.30": {
+      "sdist": [
+        "OUnb0q8qxiW8+Ps6HSANDHkPhbjiRk0OUJUz/FBbqjQ=",
+        "dbcontroller-0.1.30.tar.gz"
+      ],
+      "wheels": {
+        "dbcontroller-0.1.30-py3-none-any.whl": [
+          "ZXj/HaMU8CWQ3UWYH0O3KYfrkCL/2gKmDnADDi13rLg=",
+          "py3"
+        ]
+      }
     },
     "0.1.4": {
       "sdist": [
@@ -42402,6 +42438,22 @@
         ],
         "fbgemm_gpu_nightly_cpu-2022.8.27-cp39-cp39-manylinux1_x86_64.whl": [
           "sTL9TSDcKGTkErwZOO5yl3zDLIOJEyvCJrPYRp1UHKc=",
+          "cp39"
+        ]
+      }
+    },
+    "2022.8.28": {
+      "wheels": {
+        "fbgemm_gpu_nightly_cpu-2022.8.28-cp37-cp37m-manylinux1_x86_64.whl": [
+          "9zF702tHYijfoeG/nguE4unvnRlRSuyfhPHaFOeC9gU=",
+          "cp37"
+        ],
+        "fbgemm_gpu_nightly_cpu-2022.8.28-cp38-cp38-manylinux1_x86_64.whl": [
+          "L5XD+DxG/KNrcL7gZ4M8+L56gHDrg0K0s0j8j6WGFqs=",
+          "cp38"
+        ],
+        "fbgemm_gpu_nightly_cpu-2022.8.28-cp39-cp39-manylinux1_x86_64.whl": [
+          "yX0ZNnhKjVnoUYVCpP1d6UkrbLH3MXJNbszBsI7KnwE=",
           "cp39"
         ]
       }
@@ -110052,62 +110104,14 @@
     }
   },
   "qt-messenger-server": {
-    "0.0.1": {
+    "0.0.6": {
       "sdist": [
-        "j4BTj7JAmSKbAAVTlKqYw9FK8c5516Rxfc7GpVRS4hg=",
-        "qt_messenger_server-0.0.1.tar.gz"
+        "YzQMaN8E9UgIFO0UM+QN1ptRPnBYSlVTccjKVKHKc9U=",
+        "qt_messenger_server-0.0.6.tar.gz"
       ],
       "wheels": {
-        "qt_messenger_server-0.0.1-py3-none-any.whl": [
-          "XwweYtyflluhOQII3uFG8b7mkvYQdlk0R8odl86xaV4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.2": {
-      "sdist": [
-        "k5x/7wUewwj629WhRQ15F6dKa1ibeVsSIFvg9KXq9GI=",
-        "qt_messenger_server-0.0.2.tar.gz"
-      ],
-      "wheels": {
-        "qt_messenger_server-0.0.2-py3-none-any.whl": [
-          "jizQm8OOI3Z16eLOHIzmm5cA+QBhHMNNIdmjbuEjJEk=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "Ol5NPJ63xC0N2rSONrPxVpZT44qHyf7u6Dec9r2A6Mg=",
-        "qt_messenger_server-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "qt_messenger_server-0.0.3-py3-none-any.whl": [
-          "ZDY4MYNsEQ1IlyKsa4ssvsPZCoc7I93Gd0P1vEjr+jk=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.4": {
-      "sdist": [
-        "BDBllOKZgPirWDja81BrAT/Kb2oKg4fPDce18c52+yg=",
-        "qt_messenger_server-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "qt_messenger_server-0.0.4-py3-none-any.whl": [
-          "iFkZsI30PTvpYClMxXy88UrYXBKsz3Ob2a2yiY3khyU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "XCPeFY1dyoM6v05JT3x7dXCobqXf+SMv5f61p0oreZc=",
-        "qt_messenger_server-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "qt_messenger_server-0.0.5-py3-none-any.whl": [
-          "yxgbgh9INlWKQurL6dwozTiuCtdfBhRmzcBsrGbAyxI=",
+        "qt_messenger_server-0.0.6-py3-none-any.whl": [
+          "CpFXDC4sij+TbxtX+D2RjsnnzT4GEdDR5KjIz7GXwa8=",
           "py3"
         ]
       }
