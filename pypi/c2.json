@@ -21197,6 +21197,24 @@
       ]
     }
   },
+  "dbz-lib": {
+    "0.1.0": {
+      "wheels": {
+        "dbz_lib-0.1.0-py3-none-manylinux_2_5_x86_64.manylinux1_x86_64.whl": [
+          "8so5aoF4J8+uZG5h3QC+GkyqYIa0CBpL/LGJotZ6MC4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "wheels": {
+        "dbz_lib-0.1.1-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "0zvXYuwxKqc7HPErVf9mvGue20uQRL7cMbYuJxCVLbM=",
+          "cp39"
+        ]
+      }
+    }
+  },
   "dcase-util": {
     "0.1.0": {
       "sdist": [
@@ -93158,6 +93176,12 @@
         "peek-plugin-branch-3.1.6.tar.gz"
       ]
     },
+    "3.1.7": {
+      "sdist": [
+        "mBVosXnvduqpTuLDfDfNcWpEMkZEQV5vFEoLr9CEjzQ=",
+        "peek-plugin-branch-3.1.7.tar.gz"
+      ]
+    },
     "3.2.0": {
       "sdist": [
         "VR6F5bb+RiD0xIrwZpq1jiXUJtEaERMyHQRX90iNiwI=",
@@ -108576,6 +108600,18 @@
         ]
       }
     },
+    "0.61.32": {
+      "sdist": [
+        "RdJ26gZEVDWDSTyPwiiZZefcenZHGFdwNadSLoVzxc8=",
+        "projen-0.61.32.tar.gz"
+      ],
+      "wheels": {
+        "projen-0.61.32-py3-none-any.whl": [
+          "yWnoMVmVoyZFrmGskxG1FZlLeUoIki3ytzttxizcrBw=",
+          "py3"
+        ]
+      }
+    },
     "0.61.4": {
       "sdist": [
         "9Msgda0Ccsh5J+LkKhmCwuTyq1uwGOVCVtrRxqL7xM4=",
@@ -115600,6 +115636,70 @@
         ],
         "pyAgrum-1.3.0-cp39-cp39-win_amd64.whl": [
           "MBx24cFMDoh4ehazB/HqAVM2KJ4ayNc6hLRaj8M2hpY=",
+          "cp39"
+        ]
+      }
+    },
+    "1.3.1": {
+      "wheels": {
+        "pyAgrum-1.3.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "TnYZNrWl4IFrNS/4uAKUGcm4wi8bDmgSAgbSTTtUc4M=",
+          "cp310"
+        ],
+        "pyAgrum-1.3.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "3bjYBSaMkJ9FnqYXXbJr0Q3t05qmeN2LJ3gLkeZSyyE=",
+          "cp310"
+        ],
+        "pyAgrum-1.3.1-cp310-cp310-manylinux2014_aarch64.whl": [
+          "QTrzIg3+RDKWqEtEALhwxleHMkvPJL6GDhTXe6lUW0Y=",
+          "cp310"
+        ],
+        "pyAgrum-1.3.1-cp310-cp310-manylinux2014_x86_64.whl": [
+          "/V1k82hvv+PjZelVCY5iwdW4IuqlyFbjbvJllRHy/N0=",
+          "cp310"
+        ],
+        "pyAgrum-1.3.1-cp310-cp310-win_amd64.whl": [
+          "pZzc5UGeLeAc1ZaWnGe92Zk36ULW4KYXT5Uc8O78ybA=",
+          "cp310"
+        ],
+        "pyAgrum-1.3.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "wnS5MAbp+Gbo5TW/VLvQ+tS9Wu+hDyRgl/MCRsdkl4Y=",
+          "cp38"
+        ],
+        "pyAgrum-1.3.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "cYsQ+c3W7H87/fTrh1fFONjnjbqAFCodSHJg5XvWlvI=",
+          "cp38"
+        ],
+        "pyAgrum-1.3.1-cp38-cp38-manylinux2014_aarch64.whl": [
+          "x9tBfXngbOAih3V6Ee5NXFll34oRnmhkLxhaUk6lDfM=",
+          "cp38"
+        ],
+        "pyAgrum-1.3.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "3md/PbaLrX9r5qatYKL9YFaIBKg3+6HKTx16utnnQY0=",
+          "cp38"
+        ],
+        "pyAgrum-1.3.1-cp38-cp38-win_amd64.whl": [
+          "80UuNzzFCrU+iM+xUpLsL2crcDE2aR+SorZpET1P9nI=",
+          "cp38"
+        ],
+        "pyAgrum-1.3.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "ETcYCQUugKdyqIsBc6TQ8q5tltZlbyhDzw5rjxPEXDA=",
+          "cp39"
+        ],
+        "pyAgrum-1.3.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "9X68W5HaTr2pfY7XuhMeeACeso3c3t6g5BXcJUuhPEU=",
+          "cp39"
+        ],
+        "pyAgrum-1.3.1-cp39-cp39-manylinux2014_aarch64.whl": [
+          "5/z8PUdITbBEiTQXP+JEV4XXuDugUsW79H5MnpWLNO0=",
+          "cp39"
+        ],
+        "pyAgrum-1.3.1-cp39-cp39-manylinux2014_x86_64.whl": [
+          "CiXafNT4d9g6o72m9LHayKpnea7Iu9vEv/0x6MoxP5c=",
+          "cp39"
+        ],
+        "pyAgrum-1.3.1-cp39-cp39-win_amd64.whl": [
+          "09niYGmooUGpjEbHxDK7+osbi3JVIYhW90c2XgWQXoc=",
           "cp39"
         ]
       }
@@ -142067,6 +142167,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.721": {
+      "sdist": [
+        "Wq3ch3auaCumN1HFamoGVJz0QLIQxvGW+DpB3WSTkb8=",
+        "tencentcloud-sdk-python-ivld-3.0.721.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ivld-3.0.721-py2.py3-none-any.whl": [
+          "vQ2+qcZqxyv0y/G16tpQH/uZIHJNQTDOzVrwzouImkA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "termfunk": {
@@ -144880,6 +144992,18 @@
       "wheels": {
         "TopasOpt-0.4.1-py3-none-any.whl": [
           "QUpM3EPQdDAMWSxb+T+Ed6tdiGE2Foh0yS4kGwbhnHM=",
+          "py3"
+        ]
+      }
+    },
+    "0.4.2": {
+      "sdist": [
+        "lnlkFQATjH7sVzIq40WMGoxCRBsBmxB5N+rcSvk6gSk=",
+        "TopasOpt-0.4.2.tar.gz"
+      ],
+      "wheels": {
+        "TopasOpt-0.4.2-py3-none-any.whl": [
+          "3AZtzY1D9bLjfdmGstimDYaQcmCBcrZyiy0S6VEh/VE=",
           "py3"
         ]
       }

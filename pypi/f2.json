@@ -4316,6 +4316,18 @@
         ]
       }
     },
+    "1.12.14": {
+      "sdist": [
+        "AIWMAKb+YWMBdEbj5zwdiovxBTjjl5LqXjzFELzuQgs=",
+        "antchain_riskplus-1.12.14.tar.gz"
+      ],
+      "wheels": {
+        "antchain_riskplus-1.12.14-py3-none-any.whl": [
+          "Ef0USjLpmY7iWpPbDPTM1UCECmqXTzcd5fDh2hsIayo=",
+          "py3"
+        ]
+      }
+    },
     "1.12.4": {
       "sdist": [
         "PrayuMS5fZWjJ3vSdd9zJASS7EJlhZ5lX+y1JbTbRew=",
@@ -91461,6 +91473,18 @@
           "py3"
         ]
       }
+    },
+    "0.1.0a5.dev1661750112": {
+      "sdist": [
+        "SvU9ap5/bGpnwrBTHKIhATDzfZZUBdSo+Kwtcm47lyw=",
+        "pulp_npm-client-0.1.0a5.dev1661750112.tar.gz"
+      ],
+      "wheels": {
+        "pulp_npm_client-0.1.0a5.dev1661750112-py3-none-any.whl": [
+          "VlLm/WGKHo/3luWyXsdIRUVddVrO0nIQZptmDT/kjWM=",
+          "py3"
+        ]
+      }
     }
   },
   "pulumi-azuread": {
@@ -130613,6 +130637,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.721": {
+      "sdist": [
+        "vFy02nKhk12dIlGZ9P2hlj4CKOiweXuRvm0rLUmZNT4=",
+        "tencentcloud-sdk-python-ecm-3.0.721.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ecm-3.0.721-py2.py3-none-any.whl": [
+          "No6dwIk16QC2l2Nw5Mu43H/dBClpkd4+A53Y9D09SDU=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tensorflow-federated": {
@@ -132738,6 +132774,18 @@
       "wheels": {
         "terramare-0.4.3-py3-none-any.whl": [
           "fp4gSKhWn98+EYukrWIa8ANzmeB3ZkCM1pHsa2kZegE=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0": {
+      "sdist": [
+        "85F9w6g5bPkHOXhJjTTCgjV1AfDnqm+bpYI2xColNxM=",
+        "terramare-0.5.0.tar.gz"
+      ],
+      "wheels": {
+        "terramare-0.5.0-py3-none-any.whl": [
+          "CwbHusqIn9yxaUEFTBGZYL8m0M9+PBbZpZCNALlklQI=",
           "py3"
         ]
       }
@@ -147388,22 +147436,54 @@
     }
   },
   "wenetruntime": {
-    "1.0.6": {
+    "1.0.7": {
       "wheels": {
-        "wenetruntime-1.0.6-cp36-cp36m-win_amd64.whl": [
-          "+fIjNegAQBYtqYtNrr+hErAPiiLFep5DQHrSmE5fuJ4=",
+        "wenetruntime-1.0.7-cp36-cp36m-macosx_10_11_x86_64.whl": [
+          "22wQtrNReteVTVkO6xMLhHiU1ZFAlX7iqFzl8rS34p8=",
           "cp36"
         ],
-        "wenetruntime-1.0.6-cp37-cp37m-win_amd64.whl": [
-          "zW9vzfIFamDsUltu8yvQoHQN4d1gERLTgSLq/jseL5M=",
+        "wenetruntime-1.0.7-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "jSooAakjKi+Mq7UWtSmsk4pDj8wYi5Y9w7xVkma+pEI=",
+          "cp36"
+        ],
+        "wenetruntime-1.0.7-cp36-cp36m-win_amd64.whl": [
+          "6ut8SdhcY3hsNtBjsbPSrM0spvvass3SRbpKnsXPNXI=",
+          "cp36"
+        ],
+        "wenetruntime-1.0.7-cp37-cp37m-macosx_10_11_x86_64.whl": [
+          "ZqsUvfTXqQ5sTeD7vM1MitvdLib8uZ2+acGsgXyYj18=",
           "cp37"
         ],
-        "wenetruntime-1.0.6-cp38-cp38-win_amd64.whl": [
-          "kbnXg0yyMagKsckYz+2++f1ebWA9sVslCdJ9JF2PolQ=",
+        "wenetruntime-1.0.7-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ECCNJj1QsgFDUWEYjRrkpLETzLgUO43TP+5iojj7fG4=",
+          "cp37"
+        ],
+        "wenetruntime-1.0.7-cp37-cp37m-win_amd64.whl": [
+          "EBARpNRpcn3XZOM5yWCc5Ph3SigQS5sb6ocVLKmMrH4=",
+          "cp37"
+        ],
+        "wenetruntime-1.0.7-cp38-cp38-macosx_10_11_x86_64.whl": [
+          "SRhlF+5tXHgoZ1uJrv1SY8nOgWqzS3G4QzGfaYGTbf0=",
           "cp38"
         ],
-        "wenetruntime-1.0.6-cp39-cp39-win_amd64.whl": [
-          "27NHTWN+joaMg20MmTrWp+ATdfRNq8wNRP3oN/Tj/Ak=",
+        "wenetruntime-1.0.7-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rDoQY9diwFTGJ7+rrCdtEjaRlG0XIdhVitFN1K0Twfc=",
+          "cp38"
+        ],
+        "wenetruntime-1.0.7-cp38-cp38-win_amd64.whl": [
+          "6LfWeXGBJkTZiypg+ePbh9EhXMQ6CGLWHaPnF3iWMEY=",
+          "cp38"
+        ],
+        "wenetruntime-1.0.7-cp39-cp39-macosx_10_11_x86_64.whl": [
+          "2a9xweDu3oZz14Jm2X+386R+7GIXD/kaBw8dT/yGgaw=",
+          "cp39"
+        ],
+        "wenetruntime-1.0.7-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "IAFpPujqP6o2U326itPY9cpIri2srNvr+I67w9O942M=",
+          "cp39"
+        ],
+        "wenetruntime-1.0.7-cp39-cp39-win_amd64.whl": [
+          "lYN1gMhprdE78DdhMkzqQCTURLTFFC6uvYPzx5NskhI=",
           "cp39"
         ]
       }
