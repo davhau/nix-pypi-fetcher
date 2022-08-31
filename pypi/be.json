@@ -2505,6 +2505,12 @@
         "NoGFQKUNrG9QEDDHRm2unyJ7VjeFWO82eesv6ZJDso8=",
         "aesara-nightly-2.8.2.dev20220830.tar.gz"
       ]
+    },
+    "2.8.2.dev20220831": {
+      "sdist": [
+        "4dl72bSlZge1YmX/60ygAMzmAIULAf9Mk71mDWD1ToM=",
+        "aesara-nightly-2.8.2.dev20220831.tar.gz"
+      ]
     }
   },
   "agalma": {
@@ -5038,6 +5044,18 @@
       "wheels": {
         "appopener-1.0-py3-none-any.whl": [
           "LVmWvYlZTeC4MVTSs7gxlBuinDh2cGo7NH0EoOEZc9c=",
+          "py3"
+        ]
+      }
+    },
+    "1.1": {
+      "sdist": [
+        "IrvNfc8XKmBIjjo5quREqXB98HwHOOmh4fR4p8FefuM=",
+        "appopener-1.1.tar.gz"
+      ],
+      "wheels": {
+        "appopener-1.1-py3-none-any.whl": [
+          "eM5JWxrXmdmML3s1uD+amt+ng47rasVgTmTGc28zjAo=",
           "py3"
         ]
       }
@@ -9641,6 +9659,18 @@
           "py3"
         ]
       }
+    },
+    "1.170.1": {
+      "sdist": [
+        "Qd1/Av6tfhXetQ6Hee4XHojB5reoUJ4tlrZ/+TAn0EI=",
+        "aws-cdk.aws-customerprofiles-1.170.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_customerprofiles-1.170.1-py3-none-any.whl": [
+          "G9l27n9T057neMIo7zgaCj1Ap/4N5eIqVy/P0dzdMLA=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-cdk.aws-eks": {
@@ -10984,6 +11014,18 @@
       "wheels": {
         "aws_cdk.aws_eks-1.170.0-py3-none-any.whl": [
           "4Bw9oaqwkabAkiLKWM8ixG5oa8JcWkcKQDrLLbEAX90=",
+          "py3"
+        ]
+      }
+    },
+    "1.170.1": {
+      "sdist": [
+        "EQXgcQh4yRoBKuzCJSynrrL7E7FWS9zbGgfQqCwXBzs=",
+        "aws-cdk.aws-eks-1.170.1.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_eks-1.170.1-py3-none-any.whl": [
+          "dtwmcAqlSAlfBb0NtfXomSQ6xZrzcAcBE/t++SJnJNc=",
           "py3"
         ]
       }
@@ -60725,6 +60767,18 @@
           "py3"
         ]
       }
+    },
+    "0.2.0": {
+      "sdist": [
+        "LmhCL3vm0sfjc054050VCS/aYJmQ2b/Qz+zQeLRC6uM=",
+        "guipylib-0.2.0.tar.gz"
+      ],
+      "wheels": {
+        "guipylib-0.2.0-py3-none-any.whl": [
+          "FIoi24kF/M/C/HdHdemLCa9no+LFHzGoSY34eLuSLGA=",
+          "py3"
+        ]
+      }
     }
   },
   "gw-unify": {
@@ -62086,6 +62140,18 @@
       "wheels": {
         "HATasmota-0.5.1-py2.py3-none-any.whl": [
           "JDPHbSb6q7K+UlpBTl2UpdsxKvwHEQ64jc+sQ/emp3E=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "ckYX9m6Un+AKt+Wev7uQSRKaO7tNAm1cc1fnAJwfzoU=",
+        "HATasmota-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "HATasmota-0.6.0-py2.py3-none-any.whl": [
+          "d0Ix1Km33UeBaoNEylS0A7M/bC4FnEw+ygPmFEk5jl4=",
           "py2.py3"
         ]
       }
@@ -97335,6 +97401,24 @@
       }
     }
   },
+  "odoo-addon-base-import-security-group": {
+    "15.0.1.0.0.2": {
+      "wheels": {
+        "odoo_addon_base_import_security_group-15.0.1.0.0.2-py3-none-any.whl": [
+          "iJUzoHmJZ2Ramfk2E7Rv8K0uAeHFwPMBQojzEiijKik=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_base_import_security_group-15.0.1.0.0.3-py3-none-any.whl": [
+          "0JKMZMMhB7I3hmLnSevxrUdv48+WlQwONLkdPoIiQT0=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo-addon-datetime-formatter": {
     "15.0.1.0.0.3": {
       "wheels": {
@@ -99269,6 +99353,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.20220830.0": {
+      "wheels": {
+        "odoo14_addons_oca_web-14.0.20220830.0-py3-none-any.whl": [
+          "3vaIJFmJ+znBTA/EycEvRJunE2neZGzzMvKyDEPgrBc=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo8-addon-attachment-action": {
@@ -100703,6 +100795,20 @@
         "ohnoyoudidnt-0.1-py3-none-any.whl": [
           "lR0yLUeyn+NjQAOwVgWRcs3PxjWriOsfGn6hOCLHinQ=",
           "py3"
+        ]
+      }
+    }
+  },
+  "okpt": {
+    "0.0.1": {
+      "sdist": [
+        "q8HB8a0vm+rE0L+CXOjNGqi1thYzRb7yUm7INvfyJVE=",
+        "okpt-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "okpt-0.0.1-py2.py3-none-any.whl": [
+          "me4hMvX+YpsRa1SYXwRbK5X1kfp1czg3lMI9/KhMok8=",
+          "py2.py3"
         ]
       }
     }
