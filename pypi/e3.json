@@ -30043,6 +30043,14 @@
           "py3"
         ]
       }
+    },
+    "1.0.0": {
+      "wheels": {
+        "fds.sdk.CapitalStructureReportBuilder-1.0.0-py3-none-any.whl": [
+          "oxRyU1I63+h6rvQBrX/77wuH8x8ALBhnx4wrSWRxdL8=",
+          "py3"
+        ]
+      }
     }
   },
   "fds.sdk.formula": {
@@ -30058,6 +30066,14 @@
       "wheels": {
         "fds.sdk.Formula-0.21.0-py3-none-any.whl": [
           "ohoIFgpfPn5N71I+mTH08ZI5J8se+mGmG/RvyaLtK2U=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "wheels": {
+        "fds.sdk.Formula-1.0.0-py3-none-any.whl": [
+          "NpflHQVz8IcjiihIMY5zkKWpuzeuyMvXlEsisl9Lh0E=",
           "py3"
         ]
       }
@@ -52414,6 +52430,18 @@
         ]
       }
     },
+    "1.16.3.dev2": {
+      "sdist": [
+        "TdsJBJ2AOZoBd+p8OQt9vYCV1a3xQI1uZDoi15SVS+U=",
+        "large-image-source-bioformats-1.16.3.dev2.tar.gz"
+      ],
+      "wheels": {
+        "large_image_source_bioformats-1.16.3.dev2-py3-none-any.whl": [
+          "8i6MJ4UH0EurNydIqqtDwyCHBr/8xhripNT/FjdlXsQ=",
+          "py3"
+        ]
+      }
+    },
     "1.2.1.dev31": {
       "sdist": [
         "b7FWtLTa6D864mT/Wlc3eRpDaAiotui+akib4TQzjDE=",
@@ -58834,14 +58862,14 @@
     }
   },
   "libnxctrl": {
-    "0.1.1": {
+    "0.1.3": {
       "sdist": [
-        "zFzhBZ1W2D1RayFDhNW3BP21wf7jhgaajBqx3xWOUIE=",
-        "libnxctrl-0.1.1.tar.gz"
+        "vCMW53rVnlJA6ZO80F7qu4dTBES3MzSl2QdVkgLag/k=",
+        "libnxctrl-0.1.3.tar.gz"
       ],
       "wheels": {
-        "libnxctrl-0.1.1-py3-none-any.whl": [
-          "IR281gFpXz6XWyisYTJXDkJHDoQhdnnnUZ6cRERNnFc=",
+        "libnxctrl-0.1.3-py3-none-any.whl": [
+          "/0RhTSu7bdrQ3Ag1zXtj3YAlBSEYeuMZbRHsR8lg/zs=",
           "py3"
         ]
       }
@@ -81487,6 +81515,14 @@
           "py3"
         ]
       }
+    },
+    "14.0.20220831.0": {
+      "wheels": {
+        "odoo14_addons_oca_stock_logistics_warehouse-14.0.20220831.0-py3-none-any.whl": [
+          "02VDMULRAjf2vWAL3aaYg/GFHc3KW7jKSBPp16vbvo4=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo8-addon-analytic-base-department": {
@@ -90826,30 +90862,6 @@
         ]
       }
     },
-    "0.13.30": {
-      "sdist": [
-        "ExtQIdzU8j2d17hCbYYjTF2IPuYBYKGh+ydWNt9Vr/w=",
-        "polars-0.13.30.tar.gz"
-      ],
-      "wheels": {
-        "polars-0.13.30-cp37-abi3-macosx_10_7_x86_64.whl": [
-          "dqo4OoHh1u1fQkeb+l3H6BhtLqtZlTc/rvLxqXtwbX8=",
-          "cp37"
-        ],
-        "polars-0.13.30-cp37-abi3-macosx_11_0_arm64.whl": [
-          "WuWtEoslHM2M4SlCzf1pMFXSp0B+KEM40cLlf1IeFtM=",
-          "cp37"
-        ],
-        "polars-0.13.30-cp37-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
-          "vlBs6njychfQ/cds/BARDqWOgL+Tun2LiPys8qQ3WBI=",
-          "cp37"
-        ],
-        "polars-0.13.30-cp37-abi3-win_amd64.whl": [
-          "K8OQP7ZQGao6bF1Z108qdJC6VrI41lDtkbIqBFqGX3k=",
-          "cp37"
-        ]
-      }
-    },
     "0.13.31": {
       "sdist": [
         "jK5Gi5NhV28QNW4tUKdhrEdsBFAb0y2l9LgnhQtRcEM=",
@@ -92014,6 +92026,34 @@
         ],
         "polars-0.14.6-cp37-abi3-win_amd64.whl": [
           "iwe9zEXtJYnDmXq+uc2vV7Eek1c0XYopNzhsfG/+VX8=",
+          "cp37"
+        ]
+      }
+    },
+    "0.14.7": {
+      "sdist": [
+        "jYlKn0VckxKOt5GmChcLlB59LM41EVvmtxvt5q7e5ik=",
+        "polars-0.14.7.tar.gz"
+      ],
+      "wheels": {
+        "polars-0.14.7-cp37-abi3-macosx_10_7_x86_64.whl": [
+          "GlVfe36tNNGJANNf7RHU+CwRnH+s+sQP1jahOqGMHao=",
+          "cp37"
+        ],
+        "polars-0.14.7-cp37-abi3-macosx_11_0_arm64.whl": [
+          "wRqsupq2knLzsiVgty6H50s4rzgp2WP3+JeOkV1qJKc=",
+          "cp37"
+        ],
+        "polars-0.14.7-cp37-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "oly4wLCNxaKStpXrJS3C+e7bQ1eSG+hzzxcAl0ag2bA=",
+          "cp37"
+        ],
+        "polars-0.14.7-cp37-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "XQKURE+kSozzt9hs3aPuHOchB4sF4OcFgf+nnAAaNAs=",
+          "cp37"
+        ],
+        "polars-0.14.7-cp37-abi3-win_amd64.whl": [
+          "eDMQV513m9zBt9RvoDzr3H6i3uuR1piClGqjHOK+Czg=",
           "cp37"
         ]
       }
@@ -120800,6 +120840,18 @@
       "wheels": {
         "pytorch_ignite-0.5.0.dev20220831-py3-none-any.whl": [
           "6rnhtJk3DzsY6FM5x1T6+eNghIaqjIp98miAd8C0PGs=",
+          "py3"
+        ]
+      }
+    },
+    "0.5.0.dev20220901": {
+      "sdist": [
+        "6VSDUCm4n/kBUmizEiXdY53pymR04+qWqgr4xNxcNaY=",
+        "pytorch-ignite-0.5.0.dev20220901.tar.gz"
+      ],
+      "wheels": {
+        "pytorch_ignite-0.5.0.dev20220901-py3-none-any.whl": [
+          "Ov0u7wFQlCQJyGqUJ5vZ7Gsdblwyom5wLvjmR2Xwx78=",
           "py3"
         ]
       }
