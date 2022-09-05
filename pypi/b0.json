@@ -3271,6 +3271,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.7.3": {
+      "sdist": [
+        "6iJtwcvNQCrFUvePXyUwfi69D6U39F4TJD8ZydiHdOY=",
+        "aliyun-python-sdk-cdn-3.7.3.tar.gz"
+      ],
+      "wheels": {
+        "aliyun_python_sdk_cdn-3.7.3-py2.py3-none-any.whl": [
+          "3+S1dMBJL99BPwKtRa4F+JhUBxwNUnUp11qFBe/PHHs=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "aliyun-python-sdk-tdsr": {
@@ -8939,6 +8951,60 @@
         "ask_sdk_model_runtime-1.0.1-py2.py3-none-any.whl": [
           "azcKClBX1bzjz+h02Js0rPSdKBNGirZyLHYRlJFE/Iw=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "asktanya": {
+    "1.0": {
+      "sdist": [
+        "s2JPigzThJofxK8w5ZFMbtwGv8YeZLfnJW6jNyq4cnY=",
+        "asktanya-1.0.tar.gz"
+      ],
+      "wheels": {
+        "asktanya-1.0.0-py3-none-any.whl": [
+          "sA7Q6VJXjpwgqb8mUo1HVvEqik+iDpzpr9MEEOrjuZk=",
+          "py3"
+        ],
+        "asktanya-1.0-py3-none-any.whl": [
+          "K96As+YEyjr6JzMLrf8JenX+BToPhI6wSdW58xHFlQ4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "iX93DKtVSVZr3FKtwRXdxr54tkMmjCgTYI16QXITNaw=",
+        "asktanya-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "asktanya-1.0.1-py3-none-any.whl": [
+          "ekNEvgXkjcY6qqiMqrymJuzRbWaEpSVZ9KQKrRdHWIE=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "ZlwaeNv04nJQqSbvUVNUicn6p+YmSKVO73vkAq06v88=",
+        "asktanya-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "asktanya-1.0.2-py3-none-any.whl": [
+          "zHfjPY36w7/w8FA7masJNpmcRl5R8n/LIOAKaKwLk1I=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.3": {
+      "sdist": [
+        "Xl5YK/0GUUcEg+/ODRoUUmuXVW7rIr97WILwut9YKsU=",
+        "asktanya-1.0.3.tar.gz"
+      ],
+      "wheels": {
+        "asktanya-1.0.3-py3-none-any.whl": [
+          "ASS5YoYL+IspeH29C0s1dVZnz0Hl2p5x6qJEAkQkMS4=",
+          "py3"
         ]
       }
     }
@@ -49328,146 +49394,14 @@
     }
   },
   "dmbiolib": {
-    "0.2.43": {
+    "0.2.59": {
       "sdist": [
-        "r3tvSx7EJgGZLr+f0XeMGolrc5tqdRNkZjzHw704sJQ=",
-        "dmbiolib-0.2.43.tar.gz"
+        "0abGYNjEtm19LCEnpPC1Lwlx9z0hNXjwTyQFTRBYyuY=",
+        "dmbiolib-0.2.59.tar.gz"
       ],
       "wheels": {
-        "dmbiolib-0.2.43-py3-none-any.whl": [
-          "zk0pIUvG6KgmV0m/xkvTUltvmDXk/DBzYMu3dnoWEQ8=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.44": {
-      "sdist": [
-        "EQGf+oTpusl9ORvGtXh3pqdjoiS0S1PNz852GVpa6Pk=",
-        "dmbiolib-0.2.44.tar.gz"
-      ],
-      "wheels": {
-        "dmbiolib-0.2.44-py3-none-any.whl": [
-          "PNUqGfSLjA/j3qBWRJlr8a4f0diOJt7g0dzUCUDr74A=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.45": {
-      "sdist": [
-        "zWu32bdZt0aYL1FdI5I9up7JvIjYj0XmzIietASd1xg=",
-        "dmbiolib-0.2.45.tar.gz"
-      ],
-      "wheels": {
-        "dmbiolib-0.2.45-py3-none-any.whl": [
-          "HrecLGbiDTXjxOor11XPG6l0U2hoX3VpUWQIvoz+c14=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.46": {
-      "sdist": [
-        "dsyjGrAoTfZaV7bhWMRdhyD+eH0HN/cVpeDIqR/BRZg=",
-        "dmbiolib-0.2.46.tar.gz"
-      ],
-      "wheels": {
-        "dmbiolib-0.2.46-py3-none-any.whl": [
-          "PTDp3d9W/hV3cQ9lYvMsVK2EiEkTE7Nr+ust2l1982I=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.47": {
-      "sdist": [
-        "dzM/fsCgdntmY/d1/uiXCC9B0pFfhuVh0b6MuizL9y0=",
-        "dmbiolib-0.2.47.tar.gz"
-      ],
-      "wheels": {
-        "dmbiolib-0.2.47-py3-none-any.whl": [
-          "waRDgAwBcr28nvAV8Z/k0BfZMkFYB0icrL/H289kss0=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.48": {
-      "sdist": [
-        "m98AE0J3dgor65uS3xFk0wCoD0t8txap7J4ALtKXLTU=",
-        "dmbiolib-0.2.48.tar.gz"
-      ],
-      "wheels": {
-        "dmbiolib-0.2.48-py3-none-any.whl": [
-          "GQjNRUVErawy92lOGGcKK43LKcsfulBUk4Qm00v51m8=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.49": {
-      "sdist": [
-        "/L4ZDFG/bKlpiRHga47a9UNohnXwWTQ+jzj9iqgqqTk=",
-        "dmbiolib-0.2.49.tar.gz"
-      ],
-      "wheels": {
-        "dmbiolib-0.2.49-py3-none-any.whl": [
-          "f94iSFe5t++f3SoSAV3R4/iXB5cFxtnEJCNxeJ+fnOU=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.50": {
-      "sdist": [
-        "Mq7yYpP/2z/x31RTq8NE0nEqLjxzhnPx8MXqt/nUy1k=",
-        "dmbiolib-0.2.50.tar.gz"
-      ],
-      "wheels": {
-        "dmbiolib-0.2.50-py3-none-any.whl": [
-          "DQa0wsWDZOp4f4FEUCd/R2SjjbjP5i2Y2UI1xUoBgl8=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.51": {
-      "sdist": [
-        "R8KOCDo4gXRfRid6srTeouG+TygZ/31RZ17NrSDfwj0=",
-        "dmbiolib-0.2.51.tar.gz"
-      ],
-      "wheels": {
-        "dmbiolib-0.2.51-py3-none-any.whl": [
-          "Z32OWNCpTEeMC0WLPRNpdqf4PZeSSvK1cHBhCPwItgs=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.52": {
-      "sdist": [
-        "Et8XBvBKYJsTuZdr+fMMN+nteUXCw6e+P6r6MlZObYs=",
-        "dmbiolib-0.2.52.tar.gz"
-      ],
-      "wheels": {
-        "dmbiolib-0.2.52-py3-none-any.whl": [
-          "DXmt/i2iNS9a7govod1Pz2P9hzJ972tRA6gAwljlvNs=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.53": {
-      "sdist": [
-        "amI8Y7eNOQIIB9yPGSrCG8DxOlxfZoDjmQ1IadU4CE0=",
-        "dmbiolib-0.2.53.tar.gz"
-      ],
-      "wheels": {
-        "dmbiolib-0.2.53-py3-none-any.whl": [
-          "NyWfL7UnzSoAScnbhOO5kp4mFWu+/v0IaKKQcRnS2NY=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.54": {
-      "sdist": [
-        "5Eu5vkXTHUE+CrRYt5D3SLuVWrjnCyHU5CguK3x6ztc=",
-        "dmbiolib-0.2.54.tar.gz"
-      ],
-      "wheels": {
-        "dmbiolib-0.2.54-py3-none-any.whl": [
-          "XCf5K5gMp6ElbxB+zCXTe7n/USsczSuv1MHgBKJJOGU=",
+        "dmbiolib-0.2.59-py3-none-any.whl": [
+          "vPqp/Tx1bKKs6PetC5zzQY7U3T/dqXRLbvi4dMBOUiY=",
           "py3"
         ]
       }
@@ -74162,6 +74096,18 @@
       "wheels": {
         "led_ble-0.6.0-py3-none-any.whl": [
           "xvHdlnx5BsSCTS4MTgv8SA0nF3VgUdCe4tlt38a7GlY=",
+          "py3"
+        ]
+      }
+    },
+    "0.7.0": {
+      "sdist": [
+        "e8IITIdV3KLrqa6OHtiJVRTHqJSV3HFqjTLtXmDFDgM=",
+        "led-ble-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "led_ble-0.7.0-py3-none-any.whl": [
+          "+UGQhqeR+rrNLABTUfDmpyygb6zYcfY3sONGRyi13RQ=",
           "py3"
         ]
       }
@@ -139214,6 +139160,18 @@
       "wheels": {
         "tencentcloud_sdk_python_ape-3.0.725-py2.py3-none-any.whl": [
           "NXpO3W5gKeUg4bDpbRLzRCZ1wFdd4V+O2EBBeZYaZ/M=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.726": {
+      "sdist": [
+        "5i1LE89HBkC8Cej4D0PSAEpBmvTin2XMx3OePLofNXc=",
+        "tencentcloud-sdk-python-ape-3.0.726.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_ape-3.0.726-py2.py3-none-any.whl": [
+          "wK7RiyzX6S2OBVOYHxgcVtmIn/Bmk5W+CtxADlqiM3g=",
           "py2.py3"
         ]
       }
