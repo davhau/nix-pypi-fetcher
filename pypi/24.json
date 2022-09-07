@@ -27335,6 +27335,30 @@
           "py3"
         ]
       }
+    },
+    "1.1.0.dev20220906173740": {
+      "wheels": {
+        "cirq_core-1.1.0.dev20220906173740-py3-none-any.whl": [
+          "y0h+rqbZFVHr/uzC/1Tl6XWtmz/0AY1Ca8ZWoYt+hyI=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0.dev20220906205709": {
+      "wheels": {
+        "cirq_core-1.1.0.dev20220906205709-py3-none-any.whl": [
+          "s2Cez/BFHZmOkVWGO25IXaNX7pp4xyj94WPJlh6lbUM=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.0.dev20220907010724": {
+      "wheels": {
+        "cirq_core-1.1.0.dev20220907010724-py3-none-any.whl": [
+          "9O0lWLalUVOzT7zW/hhfHvztMwoYeCyZMGamwRqP6zI=",
+          "py3"
+        ]
+      }
     }
   },
   "ciso": {
@@ -43420,6 +43444,30 @@
       "wheels": {
         "dbnd_docker-0.90.6-py2.py3-none-any.whl": [
           "lwWbXzUhCbbnb9MgD1/hy2SnKXHFoiL9RfbgsiBHUtA=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.90.7": {
+      "sdist": [
+        "pq6XqvQyun+Lu4MX1LiA4RGj2HIGSpXI41GOqznJbKk=",
+        "dbnd-docker-0.90.7.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_docker-0.90.7-py2.py3-none-any.whl": [
+          "uS22ShLU1lEcvOlQBXDQmEn9TSGMB3nopa/BLlg0OQw=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.90.8": {
+      "sdist": [
+        "WuamfEMcsmz5bQixkOAwc9Z+2p36s1uSY2PKWx2Uvuc=",
+        "dbnd-docker-0.90.8.tar.gz"
+      ],
+      "wheels": {
+        "dbnd_docker-0.90.8-py2.py3-none-any.whl": [
+          "fx60grZRW5s2k/qKCYN+EoymK60synh5tr0k81mjjlM=",
           "py2.py3"
         ]
       }
@@ -64487,6 +64535,26 @@
           "py3"
         ]
       }
+    },
+    "0.1.5": {
+      "wheels": {
+        "ghcTestPkg-0.1.5-py3-none-any.whl": [
+          "yaU1HIHL6Mxg6TOX2jMomC1SpNkf+PJi2kdfdhQO7R4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.6": {
+      "sdist": [
+        "XrRlUCzDAxjDt0B8fuOkCwkuxy0RENUiib8MxbAqaNA=",
+        "ghcTestPkg-0.1.6.tar.gz"
+      ]
+    },
+    "0.1.7": {
+      "sdist": [
+        "/Pc7jZycHeDWNo95PD6BTS68kt7TRtr347Fea/s3oJk=",
+        "ghcTestPkg-0.1.7.tar.gz"
+      ]
     }
   },
   "ghostdev.pyform": {
@@ -65644,6 +65712,12 @@
       "sdist": [
         "z763Yip0K06fQYUb//ODBgq4nJtRY99eUSMXEYcQ+hs=",
         "gns3-gui-3.0.0a1.tar.gz"
+      ]
+    },
+    "3.0.0a2": {
+      "sdist": [
+        "fzol3rsmUY5kBx1PkOIDCdpZ1ZcfIIiOB2DCJgW7mAA=",
+        "gns3-gui-3.0.0a2.tar.gz"
       ]
     }
   },
@@ -93106,6 +93180,18 @@
         ]
       }
     },
+    "0.0.291": {
+      "sdist": [
+        "scnpM8/7k3VB3PgcwEZHbLWrk1BaGGSyiccDqH5/leA=",
+        "nbdev-django-0.0.291.tar.gz"
+      ],
+      "wheels": {
+        "nbdev_django-0.0.291-py3-none-any.whl": [
+          "rvRDq/wUZreY22ZsQC9it2X4XeW7LWNqpQ57s7DfEVM=",
+          "py3"
+        ]
+      }
+    },
     "0.0.30": {
       "sdist": [
         "6c3mZeFUa6nU9vHK09IqKOahf60JF6XQduI4yfe/+A8=",
@@ -113628,6 +113714,64 @@
         ],
         "pyarts-2.5.4.dev0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "sD1u/iOQCwZjg+Qhnoh8+kiV+eg4LvI0p9FqcOiHZz4=",
+          "cp39"
+        ]
+      }
+    }
+  },
+  "pyaudiowpatch": {
+    "0.2.12.1": {
+      "wheels": {
+        "PyAudioWPatch-0.2.12.3-cp310-cp310-win_amd64.whl": [
+          "1uDDenAdVYv5Bh2mfYrOFNTQicNo2lcBAZyDwvz9zpY=",
+          "cp310"
+        ],
+        "PyAudioWPatch-0.2.12.3-cp311-cp311-win_amd64.whl": [
+          "MO7el9AM1hryoMcIE4e98Kvf+D3yKtyvgW0gWeIoDzM=",
+          "cp311"
+        ],
+        "PyAudioWPatch-0.2.12.3-cp36-cp36m-win_amd64.whl": [
+          "lxvKHiP7m/hUvGg436n1QPWqPl3khI88KJSd8AYhSqc=",
+          "cp36"
+        ],
+        "PyAudioWPatch-0.2.12.3-cp37-cp37m-win_amd64.whl": [
+          "A5DGOKJxA+dZz7dUWG59kCn1EkrhU5mrw47p94KOch8=",
+          "cp37"
+        ],
+        "PyAudioWPatch-0.2.12.3-cp38-cp38-win_amd64.whl": [
+          "KbhcKTWiwuh90/5TLfVBkXUrewi9x29OiH1e0KNku7s=",
+          "cp38"
+        ],
+        "PyAudioWPatch-0.2.12.3-cp39-cp39-win_amd64.whl": [
+          "YSdUmWip8X/79XSGWaTdFTUEzcqje6xpP/vnsEl05io=",
+          "cp39"
+        ]
+      }
+    },
+    "0.2.12.4": {
+      "wheels": {
+        "PyAudioWPatch-0.2.12.4-cp310-cp310-win_amd64.whl": [
+          "ec3BDqZPIDGFDpvpLusEiyCengyiNqhNJ7N/v/EOpTc=",
+          "cp310"
+        ],
+        "PyAudioWPatch-0.2.12.4-cp311-cp311-win_amd64.whl": [
+          "x/J1Djnbk1l+YAalmWgUoXn1jSuoEaUSEhlMeqZLrUI=",
+          "cp311"
+        ],
+        "PyAudioWPatch-0.2.12.4-cp36-cp36m-win_amd64.whl": [
+          "BDkIN3AO5qsCqr7slbwsEVckwngeFmFCmN1TqOYEDOM=",
+          "cp36"
+        ],
+        "PyAudioWPatch-0.2.12.4-cp37-cp37m-win_amd64.whl": [
+          "gtzz6pl0uydeeyMwDFMlbjhlqU4LdEBhg6vT7LWpwKE=",
+          "cp37"
+        ],
+        "PyAudioWPatch-0.2.12.4-cp38-cp38-win_amd64.whl": [
+          "e8tcVzZNgB1pWqe5mTg/mz2eNKClQ09uGIgVLcdNabk=",
+          "cp38"
+        ],
+        "PyAudioWPatch-0.2.12.4-cp39-cp39-win_amd64.whl": [
+          "6UIQcT/e2PsJeLIKZ8IgDp1kLiiSYgjalYArCUTFxNE=",
           "cp39"
         ]
       }
@@ -147028,150 +147172,6 @@
     }
   },
   "vinplots": {
-    "0.0.1": {
-      "sdist": [
-        "E41/i6wmlfzgOoVJHHW4JcfBvfMSEQe15gJSuafRFa0=",
-        "vinplots-0.0.1.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.1-py3-none-any.whl": [
-          "2D1VbrL4lIqomT7bMGmhHTwa8/uduxLZmreFUD9249I=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.21": {
-      "sdist": [
-        "GFxrYaVyjLUL4EiM2eDnLg75JwEeh1UWc6HqevoVQA0=",
-        "vinplots-0.0.21.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.21-py3-none-any.whl": [
-          "CH5VFho5ixukmHCXGCPgyQ5DAEJasJySsuq+BhWaRhA=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.22": {
-      "sdist": [
-        "Ja5h8VZcUBnlw5CUkZkFnwOo5YkV+dDKLex8YtNDtgY=",
-        "vinplots-0.0.22.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.22-py3-none-any.whl": [
-          "uMuUV/YZ1nlzD++Y9XuLjaM2ZTp+xx5GhzVPwQMYsx8=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.3": {
-      "sdist": [
-        "EMXxsTM4G3NzMwiA76b0dqc34S3YOd7wOXS1UUOaBcs=",
-        "vinplots-0.0.3.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.3-py3-none-any.whl": [
-          "HJKreMXnH/gblyI8YnNS64OlAZR1rcUWODRcKq316To=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.31": {
-      "sdist": [
-        "nX77MBKPcrnxzaEdl3RiC2CkcUDfXUA+3HqxhPp2phs=",
-        "vinplots-0.0.31.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.31-py3-none-any.whl": [
-          "V+Qnz5+M2hlOJ+UxwnG5MRUC++gz1KcEJ4PrBY/2ZRg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.32": {
-      "sdist": [
-        "2H55F+2ViX+jn4ylk3TgsJLjIC2mNQESqAo87zJOZ3c=",
-        "vinplots-0.0.32.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.32-py3-none-any.whl": [
-          "zikU0PRb50qYqKu33aqdawHLvKGkXC1qosuOEp1wC5c=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.33": {
-      "sdist": [
-        "2OUbKjVyOxJb9w1goOpBEUO7VGipbJ+0G4lOZYjsF8U=",
-        "vinplots-0.0.33.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.33-py3-none-any.whl": [
-          "zp9nUHQsLyPZcJ5TuVC9kBbrw2lniAT2Mqs9PLZ+2Gw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.35": {
-      "sdist": [
-        "r9LiyUnHF5UOSnWjaZJGYBqPtPLDFQxDYZV4d1GKKmA=",
-        "vinplots-0.0.35.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.35-py3-none-any.whl": [
-          "m+Nh67fZSbi0G7gpId1Hi7kLaQv/2I7Pyadwj05Irvc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.36": {
-      "sdist": [
-        "4MUz3qrnQGci46wLtyjSbP/tsWAvxdK0t9tUA+4l4Z4=",
-        "vinplots-0.0.36.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.36-py3-none-any.whl": [
-          "BsAhiJv8Cdo07h05Ja3AVodCQKa7oQ0C0bS38R99qJE=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.40": {
-      "sdist": [
-        "iSNz20WDzXnF8muQZ6P8ykASJc1450O/BUU5hxmX/bo=",
-        "vinplots-0.0.40.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.40-py3-none-any.whl": [
-          "4oB1uescm0OpohZVsAwB1e7jcyvcZ+pDkPbAO0nuoMs=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.41": {
-      "sdist": [
-        "YWEW371LRmdvwzxgE9aD0kgPW82WQrr4goWpiC9QSM8=",
-        "vinplots-0.0.41.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.41-py3-none-any.whl": [
-          "9jUxyhm7I7CN7NMCLuATU7bUYFigHowtZVkAhrjuaBs=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.42": {
-      "sdist": [
-        "VfYDvndUmSOax3xt2G2MSaHXEZz3HUQPnIv6KgkH2Fg=",
-        "vinplots-0.0.42.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.42-py3-none-any.whl": [
-          "i62l1q6OUfICSEogDs+hA+dNPtR0UzHB1HIo31yrUjM=",
-          "py3"
-        ]
-      }
-    },
     "0.0.43": {
       "sdist": [
         "qdQABmEx83FMi7+5ePubqrf9xHSDf6Zf5bxLuY8/xqY=",
@@ -147184,182 +147184,14 @@
         ]
       }
     },
-    "0.0.51": {
+    "0.0.72": {
       "sdist": [
-        "8Xbs09GPDPQ8NOdffCGrCEUHRukbUCtraADJdPPIgyQ=",
-        "vinplots-0.0.51.tar.gz"
+        "CulJx7gRZN/B9BuG9WzQNBpYS1o2s+v5r2X8uujMnag=",
+        "vinplots-0.0.72.tar.gz"
       ],
       "wheels": {
-        "vinplots-0.0.51-py3-none-any.whl": [
-          "yrE3k/3KCbFyMbDycVRXsiXbDzIXKWCbf05yIVivYe4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.54": {
-      "sdist": [
-        "rKD99JeMZhX/iIZfXtKu+ZQCi0iZvzucvcbgl+it1Tw=",
-        "vinplots-0.0.54.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.54-py3-none-any.whl": [
-          "7nbif2gG16iIrMEe7p12mdl4EZYa5cl/8pVWmlekI0A=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.55": {
-      "sdist": [
-        "XXDAdi4SKM8U6nKgpaoPZ4eV69fItTGHjCPw+MBNhYg=",
-        "vinplots-0.0.55.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.55-py3-none-any.whl": [
-          "Fo+CN0q4DmQaMJ/ba/S0yNK3rvxOPEI7f/CKwLl4ZzE=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.56": {
-      "sdist": [
-        "izcePnt1Bw5b+MyFzwWa4yWydC8zKha593xaqyOHin0=",
-        "vinplots-0.0.56.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.56-py3-none-any.whl": [
-          "1wWFgG2LIv8Sv9AcQ87fvujAAdb697hPCyYQ0mmaIsE=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.57": {
-      "sdist": [
-        "KDuMphIl5qMkva9TPTLw8SANpcKR2sq5L4AswQ4Wtb8=",
-        "vinplots-0.0.57.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.57-py3-none-any.whl": [
-          "mUzwh9Fk/fFjppzZySQkzmo4ubPlqDquh4iSDfRtTIU=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.58": {
-      "sdist": [
-        "gzU1VCiuwPxmQdUp8SR+DX8B512y3D8tiG9xQU83uuM=",
-        "vinplots-0.0.58.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.58-py3-none-any.whl": [
-          "j0Vq9izgLtM2mNZefv8o3g4aVOdZ6XFu3zShUkmXK/4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.59": {
-      "sdist": [
-        "dOSSgwG7QG1XWL/mWaaRiKnQBE9dgIVBLdk47zECDpI=",
-        "vinplots-0.0.59.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.59-py3-none-any.whl": [
-          "Zp2OLhbcZupj/Ug+ZWhZWQzCjnEzwHIZwqy8YZAnwYE=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.60": {
-      "sdist": [
-        "TahmQiQn73zBTZiI8LT2VDtWA3o3gouK2jzxDz3M6tI=",
-        "vinplots-0.0.60.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.60-py3-none-any.whl": [
-          "Rk2O3m7nylCbaXVLmL7OT+j3mS7wswjwb3p2OkDOTZ8=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.61": {
-      "sdist": [
-        "KGVKKoq7KIPhOdmKCfsld/+Hj7Bn6E4SO9PIlcAwe24=",
-        "vinplots-0.0.61.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.61-py3-none-any.whl": [
-          "0U6Anpl3L1cJDqmvykL80yikeNs02hsaf0gRezj11Sg=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.62": {
-      "sdist": [
-        "EfIGhr5E56J48GE4zPd3thPfWgrnlrDJtkKtaDXRn+w=",
-        "vinplots-0.0.62.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.62-py3-none-any.whl": [
-          "dl5vMB6nHa0z8Dwv0XcxB5H1MKlZvg8QjuHUFcBIrog=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.63": {
-      "sdist": [
-        "nuxnRd5oA4XK5hx5Mptni3c/7+GjSORtgR89FniNTPU=",
-        "vinplots-0.0.63.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.63-py3-none-any.whl": [
-          "pbIxcVRmZnlKYAyU+wI8NwykZ0lDz3QlYkEYvs6VEc4=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.64": {
-      "sdist": [
-        "pazGKLYBulxi7aTkq2b3l30fjEhVc2vXF3fQbpZaIdw=",
-        "vinplots-0.0.64.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.64-py3-none-any.whl": [
-          "otyu1A6AJgbI2Id8vnVUGQukLl7FoPbxrKQadWHOgLk=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.65": {
-      "sdist": [
-        "jYbVftxyDqvZF+oda7pzk94qFfFoLCyLUfHrj1dnPoI=",
-        "vinplots-0.0.65.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.65-py3-none-any.whl": [
-          "2wr9iFA116pNVHbDL8xCPEZFPWZ5ah3wS5ekeNKKyRo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.66": {
-      "sdist": [
-        "XowgGUEK3SeU4DoSWNIwwIKz2+5I3332tDNbVTUf7Dg=",
-        "vinplots-0.0.66.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.66-py3-none-any.whl": [
-          "JDQOIH92H02rexzwwNwC382OQY0vu1ZIKloXLGya8cc=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.67": {
-      "sdist": [
-        "RMKEgFI2V31j5EN2aaE17DRxt5Li+vwi86HorDISs2s=",
-        "vinplots-0.0.67.tar.gz"
-      ],
-      "wheels": {
-        "vinplots-0.0.67-py3-none-any.whl": [
-          "x/pIgwDBZAEXz+hV4KAGFlDnuVWMja3/6/lfCTHiIv4=",
+        "vinplots-0.0.72-py3-none-any.whl": [
+          "HtEGaCPJ1Dx0g6y1KK0EoMI3FVE1Z9OPWejFw3kZRic=",
           "py3"
         ]
       }
