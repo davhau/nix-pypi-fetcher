@@ -13764,6 +13764,18 @@
         "canvassyncer-2.0.0.tar.gz"
       ]
     },
+    "2.0.10": {
+      "sdist": [
+        "c+ZB1vjyvayqZqvzCX7oSnXmXmk9eujrqsBNRu/Q0zI=",
+        "canvassyncer-2.0.10.tar.gz"
+      ],
+      "wheels": {
+        "canvassyncer-2.0.10-py3-none-any.whl": [
+          "GM8PNkSQOd0FzXm0p6UazJeTvouFo8OiUJMZUU7yBOM=",
+          "py3"
+        ]
+      }
+    },
     "2.0.2": {
       "sdist": [
         "KoCmwyrYGmo/JOCtN2F6gD4tAie/c/1Xe0IQ2SKz2o8=",
@@ -70639,6 +70651,18 @@
           "py3"
         ]
       }
+    },
+    "0.7.0": {
+      "sdist": [
+        "hBYh4wg1Z/Wd9qkMnqRr5Owhs4CvOFmaVFrJIxN2Stw=",
+        "litebird_sim-0.7.0.tar.gz"
+      ],
+      "wheels": {
+        "litebird_sim-0.7.0-py3-none-any.whl": [
+          "+TYbb3PuaWR+D9nLxLUUW4t+jF9rMVVYoyHQYoB4Cwg=",
+          "py3"
+        ]
+      }
     }
   },
   "lithopscloud": {
@@ -93617,6 +93641,20 @@
         "openalea.container-0.1.0-py2.py3-none-any.whl": [
           "l5WQCHhQs3UPiWPuIq3F50tx4jN75DNLTn/vLADRXWc=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "openbudgetapi": {
+    "1.0.0": {
+      "sdist": [
+        "VncYaOIebq1kKJMmrpJweNeOm30PYBYOi08LpToKkr4=",
+        "OpenBudgetAPI-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "OpenBudgetAPI-1.0.0-py3-none-any.whl": [
+          "3/TFtGMpymXzf0NA8qeQj4+GP/Ufs7ec0iTzr7TcEHU=",
+          "py3"
         ]
       }
     }
@@ -119851,6 +119889,26 @@
           "py3"
         ]
       }
+    },
+    "0.4.4": {
+      "sdist": [
+        "pCG3980iNTjPDcoZirN6AdNY8gSWOUmMjJ7TH7s2bew=",
+        "seamsh-0.4.4.tar.gz"
+      ],
+      "wheels": {
+        "seamsh-0.4.4-py3-none-macosx_10_9_x86_64.whl": [
+          "/5BT+HQtqw3phuFN1+/OIjlBa1ALjeBP0YC2p+DkVoQ=",
+          "py3"
+        ],
+        "seamsh-0.4.4-py3-none-manylinux1_x86_64.whl": [
+          "uasKjwUoBbz4CqF7k9B3f7JgcFSn3fo5VQn6yX2nX9E=",
+          "py3"
+        ],
+        "seamsh-0.4.4-py3-none-win_amd64.whl": [
+          "ig3gSFViK/iDQU40vaEHA6BcB8R/MxeuUMjELelTomM=",
+          "py3"
+        ]
+      }
     }
   },
   "sec-python": {
@@ -134128,6 +134186,42 @@
         ]
       }
     },
+    "2.11.0.dev20220908": {
+      "wheels": {
+        "tensorflow_text_nightly-2.11.0.dev20220908-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "qY+/ZijwfNrcAEBPBY/UZbIgHtvE0JbAOG/kmzmA7oE=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.11.0.dev20220908-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6E7PZvxbR8xk44ciCCeTXCOHS92YrPYACnG3zKNlwoA=",
+          "cp310"
+        ],
+        "tensorflow_text_nightly-2.11.0.dev20220908-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "DU3AcZqBoOdljcC4wOObpjgBGCQMtRi/c9x2TgN50S4=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.11.0.dev20220908-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "QYEY+DQKTOF1P5TtJaQZ2jQfp9ny9bQPrYFBaGHgZd0=",
+          "cp37"
+        ],
+        "tensorflow_text_nightly-2.11.0.dev20220908-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "0nVJQeosFPO/VsksPrnTaVNSxvmtbwr2sIe8NlscFbY=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.11.0.dev20220908-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "DYLGrBHwSl++N1H+H6/95J6Yl2BQCGlKriPpBg8XME8=",
+          "cp38"
+        ],
+        "tensorflow_text_nightly-2.11.0.dev20220908-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "xzJZaOafV3RaWyilLSpUgUykiosv5JPHIH7mq+jgluw=",
+          "cp39"
+        ],
+        "tensorflow_text_nightly-2.11.0.dev20220908-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OHPOD05YtSGND5DxWEdtBVDwvM4ip+QajQ2QtgGoR6g=",
+          "cp39"
+        ]
+      }
+    },
     "2.9.0.dev20220311": {
       "wheels": {
         "tensorflow_text_nightly-2.9.0.dev20220311-cp310-cp310-manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
@@ -145380,6 +145474,18 @@
       "wheels": {
         "xklb-1.16.8-py3-none-any.whl": [
           "JLwJK88UBB+aNsrgD95kZ897C+NnwhSgYLgKpKlzTqE=",
+          "py3"
+        ]
+      }
+    },
+    "1.16.9": {
+      "sdist": [
+        "o+O0SbZhMX5ZYp6l3d9IYor6XToCzkjuHjJdxckL+ng=",
+        "xklb-1.16.9.tar.gz"
+      ],
+      "wheels": {
+        "xklb-1.16.9-py3-none-any.whl": [
+          "tcyxefwlcqMZTgWp7mnGfz2avak+OVZLgY12zjP0o1w=",
           "py3"
         ]
       }
