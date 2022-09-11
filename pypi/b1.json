@@ -18045,6 +18045,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.4": {
+      "sdist": [
+        "+O7jhHPqoi3c7eQCP4JpowOuRDWdy6qbnDizFjI8jwg=",
+        "cdktf-cdk8s-0.3.4.tar.gz"
+      ],
+      "wheels": {
+        "cdktf_cdk8s-0.3.4-py3-none-any.whl": [
+          "lqXu2SLrnlr3bXdlFYW3IYvs/4EC+JYCCaGByGv6WwA=",
+          "py3"
+        ]
+      }
     }
   },
   "cdumay-http-client": {
@@ -70276,6 +70288,14 @@
       "wheels": {
         "jaynes-0.9.0-py3-none-any.whl": [
           "g82js26eR+155qmU3qBY+nF3oe0FtZb+pzJ1PxrihKY=",
+          "py3"
+        ]
+      }
+    },
+    "0.9.1": {
+      "wheels": {
+        "jaynes-0.9.1-py3-none-any.whl": [
+          "HQfvRyfomIf6XoSq0n+rULLbSL9T8ZPgsW16Xxjqv/Y=",
           "py3"
         ]
       }
@@ -128919,6 +128939,256 @@
         "singstat-1.0.2-py3-none-any.whl": [
           "1Gf66cFTm62FGZdbeDBsbHtvj84sNV19wPrq1v/ddiE=",
           "py3"
+        ]
+      }
+    }
+  },
+  "siphash24": {
+    "1.0": {
+      "sdist": [
+        "0wtr4DCUM2cIZBE4S/H+KMvWNWalqI/UI77eSjtBbUc=",
+        "siphash24-1.0.tar.gz"
+      ],
+      "wheels": {
+        "siphash24-1.0-cp310-cp310-macosx_10_9_universal2.whl": [
+          "svTptsoww7lbEAMroVfFHmEaVYhQRZGXarwC+z/1JLY=",
+          "cp310"
+        ],
+        "siphash24-1.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "oNgJgAzxouLrsvJevdKpCkGFK0vDctpaUag28Sens5I=",
+          "cp310"
+        ],
+        "siphash24-1.0-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "xFmjofty1+NMJXifQJ6amkzDCoXOd42aBEivbmklS3g=",
+          "cp310"
+        ],
+        "siphash24-1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/vtzg+qvD5Y6XpYmhcbZmjr+yCboa+zbm1F1P6fFacA=",
+          "cp310"
+        ],
+        "siphash24-1.0-cp310-cp310-win32.whl": [
+          "GVEzaMeazN/XxUJGp0DGjk1ZWwEWKivEwVXkPFVPTIs=",
+          "cp310"
+        ],
+        "siphash24-1.0-cp310-cp310-win_amd64.whl": [
+          "1UjhHEjjsLQEESaxwvVzgwhRniS5i7qsvEjtOi3Owaw=",
+          "cp310"
+        ],
+        "siphash24-1.0-cp311-cp311-macosx_10_9_universal2.whl": [
+          "xh3suxY1NHXRaY3D6NTkPuhWG6MLHHDeuH3NjaXCRkc=",
+          "cp311"
+        ],
+        "siphash24-1.0-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "q5tpbrdUCYnkGP7/GZ980/xJRsAC1lM3HaspdxKKXJM=",
+          "cp311"
+        ],
+        "siphash24-1.0-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "nxqVl3av1HMMtrKi7/iD298h0Trs9rZfyxc8vxW6fqQ=",
+          "cp311"
+        ],
+        "siphash24-1.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "MALLx9qIeYcRRiVa7aMxZ4of5hja1KBUAsWR/TNIgYE=",
+          "cp311"
+        ],
+        "siphash24-1.0-cp311-cp311-win32.whl": [
+          "NUnATC9FIHRxsVFq/Xm6wvAweCjWI2T8WlSvo8XcSDw=",
+          "cp311"
+        ],
+        "siphash24-1.0-cp311-cp311-win_amd64.whl": [
+          "xPA8oVxPkTeNErXnwlsktSCahuYFiXLeBSiflpnjkq0=",
+          "cp311"
+        ],
+        "siphash24-1.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "dQalKLalgZiJekAXLxGAIIs99HhGfYMb/cLIydi0ZGg=",
+          "cp37"
+        ],
+        "siphash24-1.0-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "wGYe9pQZzl+9ZzSxy/K1hol7cKcyTEXzQ6vBAxRarik=",
+          "cp37"
+        ],
+        "siphash24-1.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7lsny8ohVqp0xvsZpuGHx27TBy0+HauSiGbFjIOTdUE=",
+          "cp37"
+        ],
+        "siphash24-1.0-cp37-cp37m-win32.whl": [
+          "2KIsEHED86z6jJzaUo2nc9IHvDd0Ef4vDdLSyolr5UE=",
+          "cp37"
+        ],
+        "siphash24-1.0-cp37-cp37m-win_amd64.whl": [
+          "T+BQpSipciBC7i3IwLUS45fKJGQaUCsxf9RX2CgHU58=",
+          "cp37"
+        ],
+        "siphash24-1.0-cp38-cp38-macosx_10_9_universal2.whl": [
+          "qE0VdFJEHAXw/sU17cc5Cfj27z2o192vbo/KkhfihR4=",
+          "cp38"
+        ],
+        "siphash24-1.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "O3afY8K6ctdB6d9N5OGsoMF4gKv12v8FKzPkogZs4K8=",
+          "cp38"
+        ],
+        "siphash24-1.0-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "XD5R/QKbLoyq7sqzlHMnmo4S1lLOdoqhVZFy82pWPQI=",
+          "cp38"
+        ],
+        "siphash24-1.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HbewO8ks5jKboH7apvqz2OuWaSsEg5wCd/sAu2w/J7c=",
+          "cp38"
+        ],
+        "siphash24-1.0-cp38-cp38-win32.whl": [
+          "JVoefWzn6lmiPUbJX/Ri1A5E+VWIAnnVdmGk2oejW3s=",
+          "cp38"
+        ],
+        "siphash24-1.0-cp38-cp38-win_amd64.whl": [
+          "fZ5hQsL7e1pDapXrJhoQ9FDOJK2zS8s7W+sLf8Vfsbo=",
+          "cp38"
+        ],
+        "siphash24-1.0-cp39-cp39-macosx_10_9_universal2.whl": [
+          "JDDKRGPJjMgojscddXLCZ/puVnHbS3JZOKKXLSaCLS4=",
+          "cp39"
+        ],
+        "siphash24-1.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "xdGjOE3A9rUhUZzX/SxQcoKVNrGxNEJs2IpOLWnBDic=",
+          "cp39"
+        ],
+        "siphash24-1.0-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "ctWPQoXVrrGyzNOEfardFv+CKLSqQ4GuxglNJAfQzPE=",
+          "cp39"
+        ],
+        "siphash24-1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZEO5gfhONOVsmtELY60m2b9ATzecfA8jsHZC7++UROg=",
+          "cp39"
+        ],
+        "siphash24-1.0-cp39-cp39-win32.whl": [
+          "DH9zD3WPlloIFCQrcywyuEBDBDOoj/XoaKxq76mKUrE=",
+          "cp39"
+        ],
+        "siphash24-1.0-cp39-cp39-win_amd64.whl": [
+          "cAgdkRmyZ66STBGTYPC1Rp6+c2y/U7lBfDYbildLENU=",
+          "cp39"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "PeTPVlDxMh7DYXFJF6Nb2zVDw4YLqPKs1rQ3APqOIeE=",
+        "siphash24-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "siphash24-1.0.1-cp310-cp310-macosx_10_9_universal2.whl": [
+          "Ei49dJAgEWa6ZyyojirK0qBIi7HWOWsKkJZcfNOAD2U=",
+          "cp310"
+        ],
+        "siphash24-1.0.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "0Xr4uPP+9AyR8vHCVbnq35Hq3OILpCK1mQfyAaGc1gk=",
+          "cp310"
+        ],
+        "siphash24-1.0.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "TxMaUKNSq029lWTH2Q0/5kQw873s6huEn/pgt8ltu5A=",
+          "cp310"
+        ],
+        "siphash24-1.0.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7aiT8d4oayOMA8mKfXQXeoMBtRuw5kVfgEFkdbr9ves=",
+          "cp310"
+        ],
+        "siphash24-1.0.1-cp310-cp310-win32.whl": [
+          "2XNh7ljBT0dxmQMUImZVizMnj5qQoVTXFc1T8qh0P3Q=",
+          "cp310"
+        ],
+        "siphash24-1.0.1-cp310-cp310-win_amd64.whl": [
+          "ev6WbB4SfqKjVx4p59cBXDHpQOrdQ0KaScAkSIRpLvI=",
+          "cp310"
+        ],
+        "siphash24-1.0.1-cp311-cp311-macosx_10_9_universal2.whl": [
+          "mUeso2H91bl3uuz9CtVNoSOOjV19ZESBSYunam4IWwI=",
+          "cp311"
+        ],
+        "siphash24-1.0.1-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "ThBprrE21MADulNMHZ5ABe4IcS/gAQ/ZIX85fxM7n+Q=",
+          "cp311"
+        ],
+        "siphash24-1.0.1-cp311-cp311-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "FgRVPZApNU+34z1HZ8G/C4gt17opJOPbPH/vMbHYp28=",
+          "cp311"
+        ],
+        "siphash24-1.0.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cTq16qR8VKuSaHsIewrula1lvw861hAv602ZrMzfT3I=",
+          "cp311"
+        ],
+        "siphash24-1.0.1-cp311-cp311-win32.whl": [
+          "FM6pndXrMtP56uHw/QsiHuFkNkjKw6BgxdxerJb9OnM=",
+          "cp311"
+        ],
+        "siphash24-1.0.1-cp311-cp311-win_amd64.whl": [
+          "BvwVnUylL9i+2I4iyVW0tI/PaONJWP8qv16C/+7SlgI=",
+          "cp311"
+        ],
+        "siphash24-1.0.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "FOF6f5Lvjm11hUuJ5VC2KR1dV83fSHqFh/uGB++bAR0=",
+          "cp37"
+        ],
+        "siphash24-1.0.1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "SSPMZtqjxK59nqLbLeQbMBiTEGAobFaELaqyy99DAzs=",
+          "cp37"
+        ],
+        "siphash24-1.0.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "7n258qa8F3VS6tIbVc5JJ+3eu2BVcdsQPlYSLPQ39f4=",
+          "cp37"
+        ],
+        "siphash24-1.0.1-cp37-cp37m-win32.whl": [
+          "leDsBjEzX68spvOOqPwR2QHbAV2VdE1MChAFpXejBgg=",
+          "cp37"
+        ],
+        "siphash24-1.0.1-cp37-cp37m-win_amd64.whl": [
+          "RZJjpIDmKbH007N3L/F2GDDdR7SNxozuntepYDndlFo=",
+          "cp37"
+        ],
+        "siphash24-1.0.1-cp38-cp38-macosx_10_9_universal2.whl": [
+          "CD4LFI6wM+nn/ZoRF/nzeXicNfxr82HsKO+tFGsDyuU=",
+          "cp38"
+        ],
+        "siphash24-1.0.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "Dum9Zre5zifz8nxt3NyUx0YAoio41LPDGSnjDqMsWmw=",
+          "cp38"
+        ],
+        "siphash24-1.0.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "/LIqnOZZxT+OzH37eKAVYW2az99eHohG6h9P/UbTzGo=",
+          "cp38"
+        ],
+        "siphash24-1.0.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "FWBrPRzCLo1NoNQQ8QJ5YnaUW6XtSLRuS0GPdDtiUNA=",
+          "cp38"
+        ],
+        "siphash24-1.0.1-cp38-cp38-win32.whl": [
+          "qXuS5EQGkAa2CC4yxni3zJSxQDAe6IaLi0/1SecCD9Y=",
+          "cp38"
+        ],
+        "siphash24-1.0.1-cp38-cp38-win_amd64.whl": [
+          "bx7i5FiA8oE823kZG7aLIUP3xt9lBMqTUpn+omRFJIc=",
+          "cp38"
+        ],
+        "siphash24-1.0.1-cp39-cp39-macosx_10_9_universal2.whl": [
+          "xjR86x8cUv8BhgWjwyNr2Qcv4VM85Z+IkzmZ0Z6PFWE=",
+          "cp39"
+        ],
+        "siphash24-1.0.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "9nKF9KO2/UODZvY9Uw6k7eiJLQ79CBKJw5Av14BbJv4=",
+          "cp39"
+        ],
+        "siphash24-1.0.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "vD6CtHUQOAILSfNzga2y8lTvDo7t2RYHC/R57E8GrEs=",
+          "cp39"
+        ],
+        "siphash24-1.0.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "axpmOx2ScKASxuAm6wg8uvOOH8iRIFK+zLbuDd1na3E=",
+          "cp39"
+        ],
+        "siphash24-1.0.1-cp39-cp39-win32.whl": [
+          "JxHSy7yvoaPksolaR+NQF+IaHDUwrI9Sd701vo4rIME=",
+          "cp39"
+        ],
+        "siphash24-1.0.1-cp39-cp39-win_amd64.whl": [
+          "kCZWhtCtdSc92nXIhgRwSlA6Z0b/ww3+Qd5FKa9bhes=",
+          "cp39"
         ]
       }
     }
