@@ -20618,6 +20618,18 @@
         ]
       }
     },
+    "0.102.0": {
+      "sdist": [
+        "IkMKm4wp8ELe8UOFFQkPo+wqpBE3+8ycIZUCjMd5C5E=",
+        "cognite-sdk-experimental-0.102.0.tar.gz"
+      ],
+      "wheels": {
+        "cognite_sdk_experimental-0.102.0-py3-none-any.whl": [
+          "a3J5gI1ja4f6NSUZj1p3ofcajUw0UFJvONki4oMSTCk=",
+          "py3"
+        ]
+      }
+    },
     "0.11.0": {
       "sdist": [
         "sI0NtoehaRWaZucQh9+gKN89c/u7ka3Nyb9hGXxK8uY=",
@@ -51574,6 +51586,12 @@
         "inmanta-dev-dependencies-2.35.0.tar.gz"
       ]
     },
+    "2.36.0": {
+      "sdist": [
+        "H24rVGAr2z/DVmSh1fZWYw+IvlO5908c6S966NBfReg=",
+        "inmanta-dev-dependencies-2.36.0.tar.gz"
+      ]
+    },
     "2.4.0": {
       "sdist": [
         "XKuKFns6zFWH+SsiyJHz6ZUObC7mpXjrL5zqwa3rMj8=",
@@ -75345,6 +75363,12 @@
         "MMuNGdpC2Dn1uijEjaxuMJ6IUMnGATHCReAghtBAmLc=",
         "nbtester-0.4.8.tar.gz"
       ]
+    },
+    "0.5.0": {
+      "sdist": [
+        "1nJ28YFMdEJrpsqXAHGvG8HJ5OVIWjkMRHDjzKaCi6E=",
+        "nbtester-0.5.0.tar.gz"
+      ]
     }
   },
   "nctools": {
@@ -79275,6 +79299,16 @@
         "octothorpe-0.5-py2-none-any.whl": [
           "saHmxcuF3JQgjuzJRirNDnzZz2ZLwBYEaxN7MkHH9nY=",
           "2.7"
+        ]
+      }
+    }
+  },
+  "odoo-addon-l10n-th-account-tax": {
+    "15.0.1.0.0.4": {
+      "wheels": {
+        "odoo_addon_l10n_th_account_tax-15.0.1.0.0.4-py3-none-any.whl": [
+          "GQwVxm+wzZtI6udJyMSWoLEpqVqo1Hw2w8ytWCs2Gzg=",
+          "py3"
         ]
       }
     }
@@ -104140,6 +104174,18 @@
       "wheels": {
         "pytest_splunk_addon-4.0.0b5-py3-none-any.whl": [
           "qGoGh5sseRfVMTOCYsZ3o0DaLqEc6PeIOg8traoRgfQ=",
+          "py3"
+        ]
+      }
+    },
+    "4.0.1": {
+      "sdist": [
+        "a/Ja9L2Gnhkv5AGCCSRsa4mpMMSViQfhqaGm8H2b6u4=",
+        "pytest-splunk-addon-4.0.1.tar.gz"
+      ],
+      "wheels": {
+        "pytest_splunk_addon-4.0.1-py3-none-any.whl": [
+          "1jpIInKFzZFZQV9G9ZUGtvBcnlEQfRqujYbjlXJ2AfM=",
           "py3"
         ]
       }
@@ -134936,6 +134982,50 @@
         ],
         "tfrecords-0.0.2-cp39-cp39-win_amd64.whl": [
           "s6c5AOzZ/glnWkyHq2swTCiN44nwlTzLBGRN5EuMBIU=",
+          "cp39"
+        ]
+      }
+    },
+    "0.0.3": {
+      "wheels": {
+        "tfrecords-0.0.3-cp310-cp310-manylinux2014_x86_64.whl": [
+          "Ym0QOdNN/k1qIAclqfUm/CXyKs2tH5MfEFdqUwYfxX8=",
+          "cp310"
+        ],
+        "tfrecords-0.0.3-cp310-cp310-win_amd64.whl": [
+          "4nDncY6wch6f/ef2/8ce0LeLcE7eZMC09p/M0vEt5Zo=",
+          "cp310"
+        ],
+        "tfrecords-0.0.3-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "0Ri9hW2/g+BUX41xtIjVZK0ymaJxnwYF2u601wTL+Tc=",
+          "cp36"
+        ],
+        "tfrecords-0.0.3-cp36-cp36m-win_amd64.whl": [
+          "zZi/Pw6gQVe/k+M5/SIrn7sZnDWWgRsaNIjz5XkxaCg=",
+          "cp36"
+        ],
+        "tfrecords-0.0.3-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "+ZkeQItZ9gONyO+eG65kNWj/fOyr+qh/Dc7HK/TNWl8=",
+          "cp37"
+        ],
+        "tfrecords-0.0.3-cp37-cp37m-win_amd64.whl": [
+          "jxfQ4jwFLf9UbKA/ric8VtORfizVNwkRYULfH2k4MSc=",
+          "cp37"
+        ],
+        "tfrecords-0.0.3-cp38-cp38-manylinux2014_x86_64.whl": [
+          "Lo1U0aE81codOWGEN+rdstn4bHiw5soqu1u60cjqIZA=",
+          "cp38"
+        ],
+        "tfrecords-0.0.3-cp38-cp38-win_amd64.whl": [
+          "kVrU5biYTvcOywVXj9Ozy/VcK5BygptP72QIHPVSCHM=",
+          "cp38"
+        ],
+        "tfrecords-0.0.3-cp39-cp39-manylinux2014_x86_64.whl": [
+          "Z5k3x7DI59ECZAJQnXchYpaPIMkY2kJHZHEbDXhYrpY=",
+          "cp39"
+        ],
+        "tfrecords-0.0.3-cp39-cp39-win_amd64.whl": [
+          "LqpUx2BvXD2KSEMNuZgmORLfvlgGYzUGL2eajS1UCqs=",
           "cp39"
         ]
       }
