@@ -39450,38 +39450,6 @@
     }
   },
   "fiftyone-desktop": {
-    "0.10.0": {
-      "wheels": {
-        "fiftyone_desktop-0.10.0-py3-none-macosx_10_10_x86_64.whl": [
-          "lqFI7NS+/tv3uOyUMgHNYiJ7aCmSASzPUF09XdrCr6E=",
-          "py3"
-        ],
-        "fiftyone_desktop-0.10.0-py3-none-manylinux1_x86_64.whl": [
-          "JaUkzzCC4omCKBHYwuhoIJKRo7mZzJ1hLBCHqQwyvck=",
-          "py3"
-        ],
-        "fiftyone_desktop-0.10.0-py3-none-win_amd64.whl": [
-          "Gm49tQBH6meRabbz8uqdv2blR6Ays7Yg+wp4DyiX6nI=",
-          "py3"
-        ]
-      }
-    },
-    "0.10.1": {
-      "wheels": {
-        "fiftyone_desktop-0.10.1-py3-none-macosx_10_10_x86_64.whl": [
-          "ybM9x9haLaKvChL0m05wFMk77GY9L3Eyz6vzomexg8k=",
-          "py3"
-        ],
-        "fiftyone_desktop-0.10.1-py3-none-manylinux1_x86_64.whl": [
-          "TjCeeokIzgJ8fmmZtwu0a2DMX4JjRbmYMWlWQJw8JPY=",
-          "py3"
-        ],
-        "fiftyone_desktop-0.10.1-py3-none-win_amd64.whl": [
-          "VFEWd3Yrp7N8CEqykdJj6Xk9tbkKUua6Pt/agWAbTno=",
-          "py3"
-        ]
-      }
-    },
     "0.10.2": {
       "wheels": {
         "fiftyone_desktop-0.10.2-py3-none-macosx_10_10_x86_64.whl": [
@@ -40126,6 +40094,30 @@
         ],
         "fiftyone_desktop-0.23.1-py3-none-win_amd64.whl": [
           "6mVD8VegVcKamEnqxQhzGF0i3W1LGjERu9P4Ux7S57c=",
+          "py3"
+        ]
+      }
+    },
+    "0.23.2": {
+      "wheels": {
+        "fiftyone_desktop-0.23.2-py3-none-macosx_10_10_x86_64.whl": [
+          "4hylCNI5FluMNv1ZLl89lGxatfCbLc6mGcV8G6T+sv0=",
+          "py3"
+        ],
+        "fiftyone_desktop-0.23.2-py3-none-macosx_11_10_arm64.whl": [
+          "LW+Ia1/RV5F0ZGk1yQeTgq8M2l1yMK0YMymTbTnnFU8=",
+          "py3"
+        ],
+        "fiftyone_desktop-0.23.2-py3-none-manylinux1_x86_64.whl": [
+          "E+CL3PC4bTMWgf/fqNd+ZIfFn7VbLv55FavaPFjdmDE=",
+          "py3"
+        ],
+        "fiftyone_desktop-0.23.2-py3-none-manylinux2014_aarch64.whl": [
+          "y9A12mpE2Y/UwcIP4s3QDkLxD0FpWQQXeNDzqSOEPSA=",
+          "py3"
+        ],
+        "fiftyone_desktop-0.23.2-py3-none-win_amd64.whl": [
+          "PgcSkTGndOzHebj9cXM2nMXuchO2eOoQOFlDEEnRmSA=",
           "py3"
         ]
       }
@@ -72254,6 +72246,14 @@
       "wheels": {
         "mosaik.Scenario_Tools-0.1.0rc20220920000332-py3-none-any.whl": [
           "oqWwDTp/nN00+lA0Xojfwqo06BCChB+1qZUGYWkOtQ8=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.0rc20220921000337": {
+      "wheels": {
+        "mosaik.Scenario_Tools-0.1.0rc20220921000337-py3-none-any.whl": [
+          "IiNfiwK1kbl6fBxa+DvosQ2HmxnG2mGu8Aphsl4gCE0=",
           "py3"
         ]
       }
@@ -121085,6 +121085,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.737": {
+      "sdist": [
+        "5YkSabtfygxMdaahEnRW4A2jul+G4zfUS5ayRY0gc7g=",
+        "tencentcloud-sdk-python-sts-3.0.737.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_sts-3.0.737-py2.py3-none-any.whl": [
+          "2cZGu8+7J6XDKqX1EMTc2adw+fOX2Yfw4nk2v9D1Xjw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentyun": {
@@ -121602,26 +121614,6 @@
         ],
         "tensorflow_rocm-2.2.0-cp38-cp38-manylinux1_x86_64.whl": [
           "DIPSKTfchmvW6AqNTwseUej7dfmVyPyClS54FVqLHOw=",
-          "cp38"
-        ]
-      }
-    },
-    "2.2.0rc4": {
-      "wheels": {
-        "tensorflow_rocm-2.2.0rc4-cp35-cp35m-manylinux1_x86_64.whl": [
-          "OmzGeMPo3Ve4+P6Uw/fauIn+Kl9CmAFgPsmLG9XgTds=",
-          "cp35"
-        ],
-        "tensorflow_rocm-2.2.0rc4-cp36-cp36m-manylinux1_x86_64.whl": [
-          "mjhdP0rdrVjA3NUEQA7oFUTeG4/fIMZsVE9SBXwBIVg=",
-          "cp36"
-        ],
-        "tensorflow_rocm-2.2.0rc4-cp37-cp37m-manylinux1_x86_64.whl": [
-          "wPhy5leI7nyc4OhbZgyO51xcZhZrh1suWpUUn70Ii5I=",
-          "cp37"
-        ],
-        "tensorflow_rocm-2.2.0rc4-cp38-cp38-manylinux1_x86_64.whl": [
-          "8mQ7XjFkvQVVVZyqF1gHfHMv0vxdvxzRb1L66RHRn/g=",
           "cp38"
         ]
       }
