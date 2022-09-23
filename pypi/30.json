@@ -5842,6 +5842,18 @@
         ]
       }
     },
+    "2.43.1a0": {
+      "sdist": [
+        "K4aDg1B4J+9kpO+pn1z10JyS5TL5PXlZy6s9ffH0jx0=",
+        "aws-cdk.aws-apigatewayv2-integrations-alpha-2.43.1a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2_integrations_alpha-2.43.1a0-py3-none-any.whl": [
+          "hAPt3IxQJH6Zq+NuHwqPiXIziWw83ZfZQONpblL+p3A=",
+          "py3"
+        ]
+      }
+    },
     "2.5.0a0": {
       "sdist": [
         "pLcMjCAjcPNnbZBPBILCSJSbfNPcZLooFk5c6hE6Muo=",
@@ -38404,18 +38416,10 @@
     }
   },
   "fastdatasets": {
-    "0.2.0": {
+    "0.2.2": {
       "wheels": {
-        "fastdatasets-0.2.0-py3-none-any.whl": [
-          "n9R0renf5TRNIu3dhCph168JucqC123ywm2o6mbDFFI=",
-          "py3"
-        ]
-      }
-    },
-    "0.2.1": {
-      "wheels": {
-        "fastdatasets-0.2.1-py3-none-any.whl": [
-          "fBD766ZpiYLF0IPlEzyIbLk6/ia4DxvQuEx4xYyiGfw=",
+        "fastdatasets-0.2.2-py3-none-any.whl": [
+          "UNQWmAyfFEFcLtUBTxF8jwTwHz6F67jgO6LSnNc6k2k=",
           "py3"
         ]
       }
@@ -81963,6 +81967,32 @@
         "2OzyXsCws9oSsT7yi0SpCrJFA21wGIrMd1wnkXWlVtw=",
         "omega-0.3.1.tar.gz"
       ]
+    }
+  },
+  "omniquestor": {
+    "0.0.1": {
+      "sdist": [
+        "9aQ/44Nf25DToEODtycPpCBOhbbVryxr2NvrQsp+TeY=",
+        "Omniquestor-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "Omniquestor-0.0.1-py3-none-any.whl": [
+          "QHSITuo5YVtfXJw0e6BiEWrpeH3r8swUyQ9duiJSAtY=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "Ce/tX5J35qt8OGOEzy9BUpFZJ1o0e+PgHUxIwJ+h8iQ=",
+        "Omniquestor-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "Omniquestor-0.0.2-py3-none-any.whl": [
+          "+UN1yHspaRESrV/r1RGo3AZkYEyVkqbGwWeUQAY9Bbk=",
+          "py3"
+        ]
+      }
     }
   },
   "omuse-iemic": {
@@ -128880,6 +128910,58 @@
         ],
         "tcod-13.7.0-pp37-pypy37_pp73-win_amd64.whl": [
           "Efo0v3x/CAT9KUSH6vtdtK0np7/d4h0D+BEJySkqNek=",
+          "pp37"
+        ]
+      }
+    },
+    "13.8.0": {
+      "sdist": [
+        "wDL0jtRvSQYbJP79QPLBc5gJmTtv/FORhHrIiWhT/iU=",
+        "tcod-13.8.0.tar.gz"
+      ],
+      "wheels": {
+        "tcod-13.8.0-cp36-abi3-macosx_10_9_universal2.whl": [
+          "YXmZPWMsP9iZg8Pb6EVDOmfhrI26Uaagjsqr8w4t7uM=",
+          "cp36"
+        ],
+        "tcod-13.8.0-cp36-abi3-macosx_10_9_x86_64.whl": [
+          "z5j4ZMqgKOAQvFdi56hYIqPVAgW4kFl8xIILUfk0mVc=",
+          "cp36"
+        ],
+        "tcod-13.8.0-cp36-abi3-macosx_11_0_arm64.whl": [
+          "BryCmQRo0QguEbbpdY5WBA+z6d8198GUeWYNyvGpR0g=",
+          "cp36"
+        ],
+        "tcod-13.8.0-cp36-abi3-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "z7ST4tB0dIrJCPf1opbMF0CtJ1eyUk5SAIMD0objh30=",
+          "cp36"
+        ],
+        "tcod-13.8.0-cp36-abi3-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TwTd1u3mypYZR2+sN8b3VCw5D6c0PvFUgLvN3nd6pbo=",
+          "cp36"
+        ],
+        "tcod-13.8.0-cp36-abi3-win32.whl": [
+          "j8e9t0b5Tc/PpUWxQt6BqH+kSCkqddwALD6tX0WI+zA=",
+          "cp36"
+        ],
+        "tcod-13.8.0-cp36-abi3-win_amd64.whl": [
+          "vsF+N6AtMV7HBoFl8WpuWiAmh6ryhU10SgHMZl8yY+w=",
+          "cp36"
+        ],
+        "tcod-13.8.0-pp37-pypy37_pp73-macosx_10_9_x86_64.whl": [
+          "OKSSpZCBE3b7rsjHQ9qNsvRiI8DNijWeYwkWIo4sydU=",
+          "pp37"
+        ],
+        "tcod-13.8.0-pp37-pypy37_pp73-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "qXuUatMSAifkDiLoYtiuu4h2SFXqgzZvJqDaSmbqQs4=",
+          "pp37"
+        ],
+        "tcod-13.8.0-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "Seo+NLF+A48QdmvVjjWFjIWo6l0nR/D46VQeWp8GzGg=",
+          "pp37"
+        ],
+        "tcod-13.8.0-pp37-pypy37_pp73-win_amd64.whl": [
+          "BaR7NIYaI4RS+ZvzWOv0jgLyD8i+ShmM6nO923hntFA=",
           "pp37"
         ]
       }
