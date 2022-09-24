@@ -14619,6 +14619,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20220924": {
+      "sdist": [
+        "6afzrl9T7PkevSIgvm5sdddNZpRAGm/HYJ37txAOuA8=",
+        "bigdl-dllib-2.2.0b20220924.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20220924-py3-none-macosx_10_11_x86_64.whl": [
+          "NTgDRFQloTomQhXg5WihXHLGK+M+yhtkNjtL+zJj3zE=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20220924-py3-none-manylinux1_x86_64.whl": [
+          "Z4oGwSLXEpNvQy6D1QFhMlj8DplLL0SPmHQl/WCvZz0=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -97293,6 +97309,18 @@
           "py3"
         ]
       }
+    },
+    "4.4.3": {
+      "sdist": [
+        "hEwiLozksmozEZp0Lso7kcwohGT6sfCM/aC7X6w/FuA=",
+        "pytest-sbase-4.4.3.tar.gz"
+      ],
+      "wheels": {
+        "pytest_sbase-4.4.3-py3-none-any.whl": [
+          "9udQnzdV6B7ROFX9yGNt6tVoLcU9wiuWQgPxJfGC5SI=",
+          "py3"
+        ]
+      }
     }
   },
   "pytest-server-fixtures": {
@@ -100790,170 +100818,86 @@
     }
   },
   "raptor-labsdk": {
-    "1.0.0a3": {
+    "0.1.0": {
       "sdist": [
-        "8AZZ5pMlWDpSC43v00atfh7Li/qw6nVyTDIoVRF3BZk=",
-        "raptor-labsdk-1.0.0a3.tar.gz"
+        "AaLC3hZinKAgSqmU0MiZy1wnT1ZNEU/q+i2Gbh9FYgw=",
+        "raptor-labsdk-0.1.0.tar.gz"
       ],
       "wheels": {
-        "raptor_labsdk-1.0.0a3-cp310-cp310-macosx_10_9_x86_64.whl": [
-          "KHswBYfa+E4AHuf7W+1jUsaRMqpneOz+yMacAxfW9wQ=",
+        "raptor_labsdk-0.1.0-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "Ai0UgVQ5q0nm36jxtskwtU2HAbiYYaQrrq5g9dOWs34=",
           "cp310"
         ],
-        "raptor_labsdk-1.0.0a3-cp310-cp310-macosx_11_0_arm64.whl": [
-          "I1hkBtsdGWs7E+Ihet0YjBqRpemEZ36OO4ZrsrOBlGs=",
+        "raptor_labsdk-0.1.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "4brqdtLdLKj3yL3gY1La3v1H+1or5mHZmnzOp2/CEqE=",
           "cp310"
         ],
-        "raptor_labsdk-1.0.0a3-cp310-cp310-manylinux_2_24_aarch64.whl": [
-          "8auiH4+JaNRklUtpZvTFP6aKOOiOOZ4TDac54eT92jw=",
+        "raptor_labsdk-0.1.0-cp310-cp310-manylinux_2_24_aarch64.whl": [
+          "aHCgejy7EzfN83YyCocyitD/NOWdteImre4RZKmFExg=",
           "cp310"
         ],
-        "raptor_labsdk-1.0.0a3-cp310-cp310-manylinux_2_24_x86_64.whl": [
-          "oFbmHqUKeZKJMQ1nz9pKs7kaTKMkWpaPDtRBhZG99c8=",
+        "raptor_labsdk-0.1.0-cp310-cp310-manylinux_2_24_x86_64.whl": [
+          "ZGRkeJAEEl7uYGESqr0fzAXFEw33mZID2uxsOFuFTME=",
           "cp310"
         ],
-        "raptor_labsdk-1.0.0a3-cp310-cp310-win_amd64.whl": [
-          "L0JrZofX6obNehjYe0AQb0VQmOURMvK0QzPq50XRKQY=",
+        "raptor_labsdk-0.1.0-cp310-cp310-win_amd64.whl": [
+          "iO61OfW74OL2SXHgEUK0oVwAzXOAsKZmPNPdmwWi/Sc=",
           "cp310"
         ],
-        "raptor_labsdk-1.0.0a3-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "4kw4XJxRUvIQtOcMz/vf9BSQhLiAvf1mMvBzOMZ6HeA=",
+        "raptor_labsdk-0.1.0-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "jo4lqOGcjcKNQzRAHq7rNyvG6rkluXR4DjAp62N8wQc=",
           "cp37"
         ],
-        "raptor_labsdk-1.0.0a3-cp37-cp37m-manylinux_2_24_aarch64.whl": [
-          "W9riRNXBJ+gtplOEHhUdTRd3AOAZG0VcWy2TsfVY5zM=",
+        "raptor_labsdk-0.1.0-cp37-cp37m-manylinux_2_24_aarch64.whl": [
+          "+hWXRHlUXCitIA6SbV7DsNclV+ugihfVZdu/GnS4KME=",
           "cp37"
         ],
-        "raptor_labsdk-1.0.0a3-cp37-cp37m-manylinux_2_24_x86_64.whl": [
-          "H2sm3DHiZ0NDyUeW2OQUusEA9GqbnHKqGcCp0PHQaWc=",
+        "raptor_labsdk-0.1.0-cp37-cp37m-manylinux_2_24_x86_64.whl": [
+          "EDAqMTJayeQd4VpQXG3ILi8eW3EhrDSbyP9GiRIyW2M=",
           "cp37"
         ],
-        "raptor_labsdk-1.0.0a3-cp37-cp37m-win_amd64.whl": [
-          "JRCc+bBmHOyxMd5xErru8h7Qhj2NuCSOpfmFY+zQpgU=",
+        "raptor_labsdk-0.1.0-cp37-cp37m-win_amd64.whl": [
+          "Tid9rt3ertHpw9au4AmrobHWBwhJ/R9ProzEzQmeZsM=",
           "cp37"
         ],
-        "raptor_labsdk-1.0.0a3-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "yLlf2gXrffHxomGmcutSalDZqBgUcj6LxMuKhJpW8j8=",
+        "raptor_labsdk-0.1.0-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "HIlR2FxnsgcDcYL4gUgaSddDIsb1n3u3ZuYFahZZQO0=",
           "cp38"
         ],
-        "raptor_labsdk-1.0.0a3-cp38-cp38-macosx_11_0_arm64.whl": [
-          "7cDa8WM9kvk4iysKiHTSPkQ/AH3NWDGz1hYkrwIauzE=",
+        "raptor_labsdk-0.1.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "EnOSUN+A7YAkYWxiCg+zX7Fi0sgqWHdn2eYKmfBAsZw=",
           "cp38"
         ],
-        "raptor_labsdk-1.0.0a3-cp38-cp38-manylinux_2_24_aarch64.whl": [
-          "rhFGbghEmI/Zn7Gvqjt2BG9qVDm6ftckd0V/j4Ci6Jo=",
+        "raptor_labsdk-0.1.0-cp38-cp38-manylinux_2_24_aarch64.whl": [
+          "TTjY0PQOcLHwTzc/eNlrkwUaE/2wPfnSDfdyLeQQ9Yo=",
           "cp38"
         ],
-        "raptor_labsdk-1.0.0a3-cp38-cp38-manylinux_2_24_x86_64.whl": [
-          "QnU+q53j/TebD07qrRHJqWdMzNUbyMf1Z0ktZm51DwI=",
+        "raptor_labsdk-0.1.0-cp38-cp38-manylinux_2_24_x86_64.whl": [
+          "bSZF4R2n67yS/9yRxYWSAnQdnQvzSZDwPrk0vwqXFz8=",
           "cp38"
         ],
-        "raptor_labsdk-1.0.0a3-cp38-cp38-win_amd64.whl": [
-          "z9EBZ2D7EWtWGn2C1QpImfUaYnhlZ7toLDY5RuEDe00=",
+        "raptor_labsdk-0.1.0-cp38-cp38-win_amd64.whl": [
+          "MS6T3+JFoBHkLW6ybF+VVENbbb6GmiIvSnH1l25+T6k=",
           "cp38"
         ],
-        "raptor_labsdk-1.0.0a3-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "lw3LhkXdTc+m1QwdJ6wbo4vBqXNtB1nfquID/b0Tq6k=",
+        "raptor_labsdk-0.1.0-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "djy45WZZl6/w7Z0tIn75ivVMT9p5oDsDxfWmNgkWj6A=",
           "cp39"
         ],
-        "raptor_labsdk-1.0.0a3-cp39-cp39-macosx_11_0_arm64.whl": [
-          "RGVIEINIl/z1S123DFeJnVUBsIzAc2FpjyP+o+Kmb1o=",
+        "raptor_labsdk-0.1.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "uPgfjPyFiLyrxivX3suY/RR6Td3hQTnlj7amQ/vznSY=",
           "cp39"
         ],
-        "raptor_labsdk-1.0.0a3-cp39-cp39-manylinux_2_24_aarch64.whl": [
-          "zz4tFGbzsitFpJgd8MXJRhENeobYsmhN9lyhwKOLjZg=",
+        "raptor_labsdk-0.1.0-cp39-cp39-manylinux_2_24_aarch64.whl": [
+          "Fjk3uVVVwmnPU+rBIZ+MEdESUgGiExbCT9038ighX9A=",
           "cp39"
         ],
-        "raptor_labsdk-1.0.0a3-cp39-cp39-manylinux_2_24_x86_64.whl": [
-          "FWvNIu6RCCI4zp1LVBv0uUStJ7n0t3nB+BdUb1M7774=",
+        "raptor_labsdk-0.1.0-cp39-cp39-manylinux_2_24_x86_64.whl": [
+          "wR2mrEWqWYeti9rbbRv8Fz5i2v3KBjNjJN8SgjuI3CY=",
           "cp39"
         ],
-        "raptor_labsdk-1.0.0a3-cp39-cp39-win_amd64.whl": [
-          "GeLnksCe27nw9kJjsKbMKKJUgqvJSQza/2mHgNFqLOA=",
-          "cp39"
-        ]
-      }
-    },
-    "1.0.0a35": {
-      "sdist": [
-        "gOU4hV1whTsJLkk8/4Fq32UP80lsB3M2uwrSE7TiUhM=",
-        "raptor-labsdk-1.0.0a35.tar.gz"
-      ],
-      "wheels": {
-        "raptor_labsdk-1.0.0a35-cp310-cp310-macosx_10_9_x86_64.whl": [
-          "h4cb2Z8hTMHazazOMWGwapeHm2FIh1XjnH6JnrzNuJ4=",
-          "cp310"
-        ],
-        "raptor_labsdk-1.0.0a35-cp310-cp310-macosx_11_0_arm64.whl": [
-          "tMllLE1xfnBVc6Nusahx2X8h9Mwy2I9BrNJSXgriI0g=",
-          "cp310"
-        ],
-        "raptor_labsdk-1.0.0a35-cp310-cp310-manylinux_2_24_aarch64.whl": [
-          "2Y+g23daZlaQSaT4FotzRMkHSkeASfddAnpW8Xguwwo=",
-          "cp310"
-        ],
-        "raptor_labsdk-1.0.0a35-cp310-cp310-manylinux_2_24_x86_64.whl": [
-          "0+2oeWqZjIqvk6GC9kP/QXDrVqWLQ39+9yOZcQDS7Kg=",
-          "cp310"
-        ],
-        "raptor_labsdk-1.0.0a35-cp310-cp310-win_amd64.whl": [
-          "0IFPWKH6wzuzlOSiwjfn3PEhE8nkWZx+YNKXwqLuqys=",
-          "cp310"
-        ],
-        "raptor_labsdk-1.0.0a35-cp37-cp37m-macosx_10_9_x86_64.whl": [
-          "C4wAUNzXucGqnM1GAj0PJ3swmfq5yhXhXCqmc8JX7qs=",
-          "cp37"
-        ],
-        "raptor_labsdk-1.0.0a35-cp37-cp37m-manylinux_2_24_aarch64.whl": [
-          "8DGmfBZXKr2kS5Hn+tBdL8Vz9YJvbsZ4F3+uzozLe5o=",
-          "cp37"
-        ],
-        "raptor_labsdk-1.0.0a35-cp37-cp37m-manylinux_2_24_x86_64.whl": [
-          "sBzP/otybldhknZg1i//p21OhxZKMA8vKNqyQH4AnQY=",
-          "cp37"
-        ],
-        "raptor_labsdk-1.0.0a35-cp37-cp37m-win_amd64.whl": [
-          "yjFaw3VJUIOGnZVLB3g3XGp0aEeW50Fnz52bqqUzmUg=",
-          "cp37"
-        ],
-        "raptor_labsdk-1.0.0a35-cp38-cp38-macosx_10_9_x86_64.whl": [
-          "hqkgOnCCVYCJ0LSemDTspJallMMc2QSo9ES1JsMSq5c=",
-          "cp38"
-        ],
-        "raptor_labsdk-1.0.0a35-cp38-cp38-macosx_11_0_arm64.whl": [
-          "BUc2V221b1TT5pN3EkvADAmKRb0aO14sHc7xUmPmtPE=",
-          "cp38"
-        ],
-        "raptor_labsdk-1.0.0a35-cp38-cp38-manylinux_2_24_aarch64.whl": [
-          "kEn5JibBM2kbjZEjs12hdOcnL2vD2aX+QUcU3oooZ2w=",
-          "cp38"
-        ],
-        "raptor_labsdk-1.0.0a35-cp38-cp38-manylinux_2_24_x86_64.whl": [
-          "/D7pytSYx8GQZBJzkchgDRQRpN+M/UCMP3/LALqPBMc=",
-          "cp38"
-        ],
-        "raptor_labsdk-1.0.0a35-cp38-cp38-win_amd64.whl": [
-          "2ZEw19NINKzYH4EQV0iMJKrjZghCDwXkinLvQs8HOEE=",
-          "cp38"
-        ],
-        "raptor_labsdk-1.0.0a35-cp39-cp39-macosx_10_9_x86_64.whl": [
-          "WOBCFuNGVrI9oQ/8/187YWFVgvsr/nMcR2Vbn381mDE=",
-          "cp39"
-        ],
-        "raptor_labsdk-1.0.0a35-cp39-cp39-macosx_11_0_arm64.whl": [
-          "pU5Bm/25+R+dcJ1xr0zd6LgO36IWc3G1Mq60DmQitOU=",
-          "cp39"
-        ],
-        "raptor_labsdk-1.0.0a35-cp39-cp39-manylinux_2_24_aarch64.whl": [
-          "+HaxFyC7KwHlogsTz1BM91PufCafoho2S4FHFPwCxJw=",
-          "cp39"
-        ],
-        "raptor_labsdk-1.0.0a35-cp39-cp39-manylinux_2_24_x86_64.whl": [
-          "BDkO8GKicYV8N3bDqd9GtPA/AMlWoSDpb8BhrNdBbzo=",
-          "cp39"
-        ],
-        "raptor_labsdk-1.0.0a35-cp39-cp39-win_amd64.whl": [
-          "67SoMEF+08vizXnUBlv/XprLpyV2lrA5D1UpK1Sftu8=",
+        "raptor_labsdk-0.1.0-cp39-cp39-win_amd64.whl": [
+          "hjW4RAQWg3V3/xYqfmCD1sl+BTOWo1FvmrLt9yYh0HU=",
           "cp39"
         ]
       }
@@ -114540,6 +114484,18 @@
         ]
       }
     },
+    "1.21.1": {
+      "sdist": [
+        "rgkexqhAAn4A8GHfdKfdB3l4odPiXrtw/MDxPeSD9sg=",
+        "starlite-1.21.1.tar.gz"
+      ],
+      "wheels": {
+        "starlite-1.21.1-py3-none-any.whl": [
+          "oiCXBmfQvmfTCNkzf98w1P70IF+unTTZZ/UyMh94HLg=",
+          "py3"
+        ]
+      }
+    },
     "1.3.0": {
       "sdist": [
         "eVUkJzVD4lc50JXyliaJWgxCbWvLCS6che01xmQq/Rk=",
@@ -127952,6 +127908,26 @@
         ],
         "tf_nightly_intel-2.11.0.dev20220923-cp39-cp39-win_amd64.whl": [
           "LScRlwoqOa7N2v//bIVrXyT7s/f8xh9SsLE20OMnNf4=",
+          "cp39"
+        ]
+      }
+    },
+    "2.11.0.dev20220924": {
+      "wheels": {
+        "tf_nightly_intel-2.11.0.dev20220924-cp310-cp310-win_amd64.whl": [
+          "p+tpzpUhwq7EdDe7CY+C9K7hQIJraOoobZ+tozaARpI=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.11.0.dev20220924-cp37-cp37m-win_amd64.whl": [
+          "cCW2ngGRzIOiWUxmY6ct/bv38Oy8HbDAHFCSvkoMriA=",
+          "cp37"
+        ],
+        "tf_nightly_intel-2.11.0.dev20220924-cp38-cp38-win_amd64.whl": [
+          "EY0Da+FlHIVuN/sW08qUwcX4eXHpTV4cQBd4P+P+KcU=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.11.0.dev20220924-cp39-cp39-win_amd64.whl": [
+          "A5gvsB+YOKWpJbNgTxIIKUZj+fDtU99jVtyq+rxuNIY=",
           "cp39"
         ]
       }
