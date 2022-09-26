@@ -4491,6 +4491,18 @@
           "py3"
         ]
       }
+    },
+    "0.3.1rc1": {
+      "sdist": [
+        "IaqjYnIBHgk3ArjCISV16n6iNIen6pj6SOrY/P+hjSI=",
+        "arkindex-base-worker-0.3.1rc1.tar.gz"
+      ],
+      "wheels": {
+        "arkindex_base_worker-0.3.1rc1-py3-none-any.whl": [
+          "1IRbupLaRq2aj0wCPYNP3oEe3cmQfvB8TGz8YNMVO5o=",
+          "py3"
+        ]
+      }
     }
   },
   "arkprice": {
@@ -5240,6 +5252,14 @@
       "sdist": [
         "2yzgaXozl3hhkfR2tvAeon9GEjjavO63M9ppxb40yMw=",
         "Authlog-1.0.0.tar.gz"
+      ]
+    }
+  },
+  "authmodel": {
+    "0.0.0": {
+      "sdist": [
+        "3bZ+PrvSj72Wzu/XGlEwiyY9YQWU0LmvY69YImCwXcI=",
+        "authmodel-0.0.0.tar.gz"
       ]
     }
   },
@@ -44859,6 +44879,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.4": {
+      "wheels": {
+        "huaweicloudsdkcc-3.1.4-py2.py3-none-any.whl": [
+          "3BW6EjwZkGGE6nvDFjUJKwRlnVQB/8ISI+y+3nsOhoA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "huaweicloudsdkcloudrtc": {
@@ -45274,6 +45302,14 @@
       "wheels": {
         "huaweicloudsdkcloudrtc-3.1.3-py2.py3-none-any.whl": [
           "NjfidX5DNSlHj2RqI3EiirNNde2V+RldNccgM1xqNnU=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.4": {
+      "wheels": {
+        "huaweicloudsdkcloudrtc-3.1.4-py2.py3-none-any.whl": [
+          "c9UhXWgNhgRTpIKfoRNEWU+snReHYDDNnqJX7XtEkvs=",
           "py2.py3"
         ]
       }
@@ -46071,6 +46107,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.4": {
+      "wheels": {
+        "huaweicloudsdkcloudtest-3.1.4-py2.py3-none-any.whl": [
+          "xBDaoE0YdBdR9FAKtupXkGQKbPjcIwzxHsJvfzNFLzE=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "huaweicloudsdkdws": {
@@ -46398,6 +46442,14 @@
       "wheels": {
         "huaweicloudsdkdws-3.1.3-py2.py3-none-any.whl": [
           "ZJXa0bG+CbBV3KXskq+sgSnhTBM+vBbaMArbcIEK958=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.4": {
+      "wheels": {
+        "huaweicloudsdkdws-3.1.4-py2.py3-none-any.whl": [
+          "OecH24qJuSab5Ekt6COI1umOpEXJl8FFbxwFeWOpaVI=",
           "py2.py3"
         ]
       }
@@ -84338,434 +84390,6 @@
     }
   },
   "paddlepaddle-gpu": {
-    "1.0.0.post85": {
-      "wheels": {
-        "paddlepaddle_gpu-1.0.0.post85-cp27-cp27m-manylinux1_x86_64.whl": [
-          "IDQmIikxXGMYcbiBZiMu0Lr5dKRxBKS23gpdw9gKp9I=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.0.post85-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "0TlazU7DPRrXaNriy5g1hjbr5StrqPKstdhDLPJnEs8=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.0.post85-cp35-cp35m-manylinux1_x86_64.whl": [
-          "bENHJQuryppJqsyShxmvwhgSqMWWb4o1eHYuSMRhmaE=",
-          "cp35"
-        ]
-      }
-    },
-    "1.0.0.post87": {
-      "wheels": {
-        "paddlepaddle_gpu-1.0.0.post87-cp27-cp27m-manylinux1_x86_64.whl": [
-          "qmyVGIVNj3M9nl72iBZtyxpykfp6ik57ZdHeOoKL1qk=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.0.post87-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "9T2ZtMUrpzgix2p2R60QqtrqC7f2Kiv2jGxsn9/3HMU=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.0.post87-cp35-cp35m-manylinux1_x86_64.whl": [
-          "oQD7s5CZ175sLpnBrTHbL7zA6j0dMIcnNZcsRSl5USE=",
-          "cp35"
-        ]
-      }
-    },
-    "1.0.0.post97": {
-      "wheels": {
-        "paddlepaddle_gpu-1.0.0.post97-cp27-cp27m-manylinux1_x86_64.whl": [
-          "hWe8ydNaaTcJ/2qN1uflzDrwqY/il3w9o46F9q1/mjc=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.0.post97-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "HLdG4Cxdvxadb7lkO7uifoeuoNcnPHGPlXW5f/tz8o0=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.0.post97-cp35-cp35m-manylinux1_x86_64.whl": [
-          "cldWnWDZaS9knfh7Fcg9y6HXKB5rHNA9trEowQxIZ5o=",
-          "cp35"
-        ]
-      }
-    },
-    "1.0.1.post85": {
-      "wheels": {
-        "paddlepaddle_gpu-1.0.1.post85-cp27-cp27m-manylinux1_x86_64.whl": [
-          "yFZr8d3VzdKhq6kufdewihbshy5xxVJjbdtqSqF/VLo=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.1.post85-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "r1qO912CXmjB7d5U5kqK+LqklCaiN7FVQ1fPv9VcZeo=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.1.post85-cp35-cp35m-manylinux1_x86_64.whl": [
-          "KpzOaX6QUfdaHJsRx/HfRVubzqawu4Tn01Tj0oho/Os=",
-          "cp35"
-        ]
-      }
-    },
-    "1.0.1.post87": {
-      "wheels": {
-        "paddlepaddle_gpu-1.0.1.post87-cp27-cp27m-manylinux1_x86_64.whl": [
-          "vb/7FA/w/BvZti/dbgdjGl1MkUg6w7AzkxmOmrtc+tU=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.1.post87-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "pAg/2Ewyr3rMABO3TrlcarrCz0aMey7kbZ5QN4yNaFo=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.1.post87-cp35-cp35m-manylinux1_x86_64.whl": [
-          "iZFswOfS6MimIIrZ1bXLqpmkVZ4GhrNVCSanpP68gYQ=",
-          "cp35"
-        ]
-      }
-    },
-    "1.0.1.post97": {
-      "wheels": {
-        "paddlepaddle_gpu-1.0.1.post97-cp27-cp27m-manylinux1_x86_64.whl": [
-          "CgXJBW0HvbmQ0jbosSoHZLZXD09EmTZoW04UlA6ytuw=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.1.post97-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "efzsea2s2b0lx345lYN0fpr5bN++xTIRtrDq96OkPUY=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.1.post97-cp35-cp35m-manylinux1_x86_64.whl": [
-          "n5n4GkelI/gbstvhDJHKOUdGGMOSbkmetxRsYJLV6k0=",
-          "cp35"
-        ]
-      }
-    },
-    "1.0.2.post85": {
-      "wheels": {
-        "paddlepaddle_gpu-1.0.2.post85-cp27-cp27m-manylinux1_x86_64.whl": [
-          "V8vgy7niMAoYSKm+HDKCgJW/pT6yLGaiONeYbSO47wA=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.2.post85-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "wor2Aw9XKIgICaxkt9R8tO0QvPq8IZKKq45nhpLRmQk=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.2.post85-cp35-cp35m-manylinux1_x86_64.whl": [
-          "c+QDjsfNf+4dsiBztWOv2J+C9TETro8k1qolYt37jrs=",
-          "cp35"
-        ]
-      }
-    },
-    "1.0.2.post87": {
-      "wheels": {
-        "paddlepaddle_gpu-1.0.2.post87-cp27-cp27m-manylinux1_x86_64.whl": [
-          "DX9S6c8/UK6f6yIOHATDjBOW8w7H/DRRg58QFq/MOsY=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.2.post87-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "m1K35BqS6f2in1mANbJorUM1Xr9q1aHlpdZP7yQ4JT8=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.2.post87-cp35-cp35m-manylinux1_x86_64.whl": [
-          "9RqlvYZ7WAXgn6mcdX4ItYMg/k12mU06KSWgMEJuJUQ=",
-          "cp35"
-        ]
-      }
-    },
-    "1.0.2.post97": {
-      "wheels": {
-        "paddlepaddle_gpu-1.0.2.post97-cp27-cp27m-manylinux1_x86_64.whl": [
-          "vZ8G7aIrvZMe2YqYOKp/bW5+rShbs2zjJF2P3SvKBeo=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.2.post97-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "MLR0OgbdlcHzx9skYaPQxx/fl7mY6O6wc3fy+WLyQxM=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.0.2.post97-cp35-cp35m-manylinux1_x86_64.whl": [
-          "eQ64WBSh13Xyn16bhQCTBc8QTscKelbh1QWaUYbhobs=",
-          "cp35"
-        ]
-      }
-    },
-    "1.1.0.post85": {
-      "wheels": {
-        "paddlepaddle_gpu-1.1.0.post85-cp27-cp27m-manylinux1_x86_64.whl": [
-          "zFO2S4nSGg3X9qax/xi3x0dxAiisZQwjaXy5xzepTzA=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.1.0.post85-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "jNsi07/WyObm4dM58MFc1cK6AgQdFbab9XMkez4Bsww=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.1.0.post85-cp35-cp35m-manylinux1_x86_64.whl": [
-          "Bd1ud+r/XEeJcFmnLXmqN2t0xePIcvp55jrWvJmZD5E=",
-          "cp35"
-        ]
-      }
-    },
-    "1.1.0.post87": {
-      "wheels": {
-        "paddlepaddle_gpu-1.1.0.post87-cp27-cp27m-manylinux1_x86_64.whl": [
-          "qX1nolrX2k2iCZlFiyPVTcaJcT+v391uRDor34EziwE=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.1.0.post87-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "Tk6OBO90hsZMdSmK3uF9oLXCxpxV0PyLGveX6GdSCqs=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.1.0.post87-cp35-cp35m-manylinux1_x86_64.whl": [
-          "8xOB6M43fnG/+DhuAp8BQPk+OZC4DFnfYXJ+xTqbO/U=",
-          "cp35"
-        ]
-      }
-    },
-    "1.1.0.post97": {
-      "wheels": {
-        "paddlepaddle_gpu-1.1.0.post97-cp27-cp27m-manylinux1_x86_64.whl": [
-          "tPVnJptqwc+RGPx6ewWexN3IHP6WZu0V7cR7yB7ztSQ=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.1.0.post97-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "+CCW0DCpzEglEGmZZGpDBmYQVlOK382+uCUK2SpfSek=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.1.0.post97-cp35-cp35m-manylinux1_x86_64.whl": [
-          "CzdR8ZtKBJZdci+k7p4hEypuyc36+HwoKfs9H5ZVmNk=",
-          "cp35"
-        ]
-      }
-    },
-    "1.2.0.post85": {
-      "wheels": {
-        "paddlepaddle_gpu-1.2.0.post85-cp27-cp27m-manylinux1_x86_64.whl": [
-          "BPL2BmAHDSvdyPQbvHdnReBSI0OXeoqbsf0HV6uLzmI=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.2.0.post85-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "k5Rrr6q7nMkGn3lsPlIrXclSaQdDMaz480c2unzrGmQ=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.2.0.post85-cp35-cp35m-manylinux1_x86_64.whl": [
-          "jk30cSRwcE1oSjdKQDUDXG+fRspQMP6RUgT5vvK6zvc=",
-          "cp35"
-        ],
-        "paddlepaddle_gpu-1.2.0.post85-cp36-cp36m-manylinux1_x86_64.whl": [
-          "63lT74KJsjXM4biSViQBf3ddXn+bHfMMrYkL3EGKL7o=",
-          "cp36"
-        ],
-        "paddlepaddle_gpu-1.2.0.post85-cp37-cp37m-manylinux1_x86_64.whl": [
-          "ZlFkBQFS5Wsj0XokRwj87KXJNcKbb/oLdQqAom8Fy30=",
-          "cp37"
-        ]
-      }
-    },
-    "1.2.0.post87": {
-      "wheels": {
-        "paddlepaddle_gpu-1.2.0.post87-cp27-cp27m-manylinux1_x86_64.whl": [
-          "LiMcE0/3HRvI+QOISu44Pz4giN+Fm0aYPd/f9txGo0E=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.2.0.post87-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "nyE58s87CKUNrUODd/fUnp5iSosNQmFTYZKXrA0+1dc=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.2.0.post87-cp35-cp35m-manylinux1_x86_64.whl": [
-          "Z3/non4j/Ukd6S5+DHDP5H9w2vfq8ELc1OktBBQoKBk=",
-          "cp35"
-        ],
-        "paddlepaddle_gpu-1.2.0.post87-cp36-cp36m-manylinux1_x86_64.whl": [
-          "fpcpmLAO4/33g3Sb3ZncmCUj0Hbkb+syUGqCyOZQu0c=",
-          "cp36"
-        ],
-        "paddlepaddle_gpu-1.2.0.post87-cp37-cp37m-manylinux1_x86_64.whl": [
-          "GH0j0B16qQctDONpfIRbq+X6bDg7XFZ6dgrvUMhQ4yI=",
-          "cp37"
-        ]
-      }
-    },
-    "1.2.0.post97": {
-      "wheels": {
-        "paddlepaddle_gpu-1.2.0.post97-cp27-cp27m-manylinux1_x86_64.whl": [
-          "IZUWN1JGVUTOCOEj3NP28VEcMmOnwbwQ69ZNeCiBJSc=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.2.0.post97-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "dYlpkwmPBMqa/T8OQ8YvOhRwvADxyDbN1824aMwZis8=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.2.0.post97-cp35-cp35m-manylinux1_x86_64.whl": [
-          "I8MPyqaN1ryyrpHcADPMNsnG+kVuZfl1bHs9zIVkX/g=",
-          "cp35"
-        ],
-        "paddlepaddle_gpu-1.2.0.post97-cp36-cp36m-manylinux1_x86_64.whl": [
-          "0hgaTp8/32R4aX0uVusZJmZX2of7FvYdKYF2JiZemDA=",
-          "cp36"
-        ],
-        "paddlepaddle_gpu-1.2.0.post97-cp37-cp37m-manylinux1_x86_64.whl": [
-          "MwuXQ1A8gkko+JMjfXUZW2kLLZrLBNGQL6o48cL0Y/c=",
-          "cp37"
-        ]
-      }
-    },
-    "1.2.1.post85": {
-      "wheels": {
-        "paddlepaddle_gpu-1.2.1.post85-cp27-cp27m-manylinux1_x86_64.whl": [
-          "mKAVyLfCfx8Teg1kiDPktahELHQTSQpaK6MHAI4USOM=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.2.1.post85-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "0GOXfeV/v7NRQcFLliOa82qU0Nn5ZS8RhICq4e6oMTA=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.2.1.post85-cp35-cp35m-manylinux1_x86_64.whl": [
-          "8z/z9L9t7pkM81JzmG+eJoZXZ+0DrwI3KOIE6BKPFms=",
-          "cp35"
-        ],
-        "paddlepaddle_gpu-1.2.1.post85-cp36-cp36m-manylinux1_x86_64.whl": [
-          "qWq4bnkSVkaDHPlqDkS+WY3OITEwtPzWfYyBhhfRRMs=",
-          "cp36"
-        ],
-        "paddlepaddle_gpu-1.2.1.post85-cp37-cp37m-manylinux1_x86_64.whl": [
-          "C8qkkMQJGkNkWx9xXW991vLaNKjEsXIFmRotM+/OD/g=",
-          "cp37"
-        ]
-      }
-    },
-    "1.2.1.post87": {
-      "wheels": {
-        "paddlepaddle_gpu-1.2.1.post87-cp27-cp27m-manylinux1_x86_64.whl": [
-          "3SroYYqDHgMclIRk7Rgvq3/7XcivnHFf7/ViBpz1GB8=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.2.1.post87-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "Nv6qVnDEpzHCBJznL2qoYKVohulrTW8IcSOsncl4lGY=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.2.1.post87-cp35-cp35m-manylinux1_x86_64.whl": [
-          "XDRE5ciwPEbhOKFUxtgLiZWRLKTWQL+Q0FUZKcjaFmk=",
-          "cp35"
-        ],
-        "paddlepaddle_gpu-1.2.1.post87-cp36-cp36m-manylinux1_x86_64.whl": [
-          "XVI5/koZ0wAYkvUZ5IzFln8uzLvaIhBdo8LOeEppmSQ=",
-          "cp36"
-        ],
-        "paddlepaddle_gpu-1.2.1.post87-cp37-cp37m-manylinux1_x86_64.whl": [
-          "1HJEAGz2hNP9jnk8dM4xOrpNaYm2/VtgpA8VTwKDomQ=",
-          "cp37"
-        ]
-      }
-    },
-    "1.2.1.post97": {
-      "wheels": {
-        "paddlepaddle_gpu-1.2.1.post97-cp27-cp27m-manylinux1_x86_64.whl": [
-          "3kkf0wt2FzBuxqSSb4PmIM1fVQRMQl0HIHoSJfvK4Lg=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.2.1.post97-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "vZJM3gQYJBSSYiqxtxodBfj6UgJspVzg8fIt95B+Llo=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.2.1.post97-cp35-cp35m-manylinux1_x86_64.whl": [
-          "OMH8MhTvqnr/+6+6TlJXaZZmwA2gu8sb50fG30OlFxM=",
-          "cp35"
-        ],
-        "paddlepaddle_gpu-1.2.1.post97-cp36-cp36m-manylinux1_x86_64.whl": [
-          "iTjYGNGRRqNnl+3LbHwgcELZxMP+yiq0xfzWzWk5P5s=",
-          "cp36"
-        ],
-        "paddlepaddle_gpu-1.2.1.post97-cp37-cp37m-manylinux1_x86_64.whl": [
-          "XyGb2WHHaZdSerPZyXYHlXxtboNbKqdoHdQ33D8btYU=",
-          "cp37"
-        ]
-      }
-    },
-    "1.3.0": {
-      "wheels": {
-        "paddlepaddle_gpu-1.3.0-cp27-cp27m-win_amd64.whl": [
-          "TNbtecH33bDjXqPab1WR2CFNaYs9wiesurKEz7lx/VM=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.3.0-cp35-cp35m-win_amd64.whl": [
-          "dAWHZjoQCWzaZ+lghwY4mOsri1I/7rFCqwXEEHPHcqo=",
-          "cp35"
-        ],
-        "paddlepaddle_gpu-1.3.0-cp36-cp36m-win_amd64.whl": [
-          "LmfvjfTznO4/EtIGwyE08ASpgVwZHXwUTyr0AUc/CmM=",
-          "cp36"
-        ],
-        "paddlepaddle_gpu-1.3.0-cp37-cp37m-win_amd64.whl": [
-          "wB2QAjkRVPm/2TDgxQFNSsRFgyV8/UeI63arBHzrunU=",
-          "cp37"
-        ]
-      }
-    },
-    "1.3.0.post85": {
-      "wheels": {
-        "paddlepaddle_gpu-1.3.0.post85-cp27-cp27m-manylinux1_x86_64.whl": [
-          "CxJHlo2pXmW7TBBNb/ycRPAvphpnuPkldT5IJ4cZr34=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.3.0.post85-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "r9AsRD5pkEDR8oZwvyOLNlvPZXxPI8dW/mrRF+6dO1I=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.3.0.post85-cp35-cp35m-manylinux1_x86_64.whl": [
-          "fGTc0h9vWKqR+i9hmvb5kFXQHVbL/ZmwkTbFx9+Lakw=",
-          "cp35"
-        ],
-        "paddlepaddle_gpu-1.3.0.post85-cp36-cp36m-manylinux1_x86_64.whl": [
-          "DT7d6UzQypxVMHQIozoHQz2C9k3fUwStzqihj0HNZD0=",
-          "cp36"
-        ],
-        "paddlepaddle_gpu-1.3.0.post85-cp37-cp37m-manylinux1_x86_64.whl": [
-          "rRvsJCbNnbAE+SqdKRllLS27CUXl8iIPIbp691Da4bA=",
-          "cp37"
-        ]
-      }
-    },
-    "1.3.0.post87": {
-      "wheels": {
-        "paddlepaddle_gpu-1.3.0.post87-cp27-cp27m-manylinux1_x86_64.whl": [
-          "e+W5wtONdzYVQuLNsm8eQqgNSh8Dc8wNThgtGtappEE=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.3.0.post87-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "kAG5NsNQjWgj0FBILY1Jw8bZc86IugtSSSRP2lh6T9M=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.3.0.post87-cp35-cp35m-manylinux1_x86_64.whl": [
-          "lGck99RAgdDYEcLK8MvgOxFHcYZvS1mbnE3ATceJdzI=",
-          "cp35"
-        ],
-        "paddlepaddle_gpu-1.3.0.post87-cp36-cp36m-manylinux1_x86_64.whl": [
-          "aBn6268yA5p5ra7TEzswfEpJ2UPO799U1HPvm7Sc2AE=",
-          "cp36"
-        ],
-        "paddlepaddle_gpu-1.3.0.post87-cp37-cp37m-manylinux1_x86_64.whl": [
-          "3fnS6zpE7exzAgCUHh3Fj9xkwfqRY5ncz1XyJR+hNlA=",
-          "cp37"
-        ]
-      }
-    },
-    "1.3.0.post97": {
-      "wheels": {
-        "paddlepaddle_gpu-1.3.0.post97-cp27-cp27m-manylinux1_x86_64.whl": [
-          "Pye5g/t7fvYnnBuRIzQJVkiGgtEWhsRFNUI3EZDzhJg=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.3.0.post97-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "npbZI1g3snqBnVJuYWmS/LjCMREv/V2mUR432TCU3zw=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.3.0.post97-cp35-cp35m-manylinux1_x86_64.whl": [
-          "9kq6aev/MyvHsJq6axg9mi/xQ3Wd2TF4IWXoxcrySgM=",
-          "cp35"
-        ],
-        "paddlepaddle_gpu-1.3.0.post97-cp36-cp36m-manylinux1_x86_64.whl": [
-          "zgI7jGVl33S9dIaB2vQdos8dzciEZEb5+aHqVpiYV4U=",
-          "cp36"
-        ],
-        "paddlepaddle_gpu-1.3.0.post97-cp37-cp37m-manylinux1_x86_64.whl": [
-          "nP6NhwFEp6UOv2infCXgGvN9FB/gjUYmtwk76F5y7AE=",
-          "cp37"
-        ]
-      }
-    },
     "1.3.1": {
       "wheels": {
         "paddlepaddle_gpu-1.3.1-cp27-cp27m-win_amd64.whl": [
@@ -85738,46 +85362,6 @@
         ],
         "paddlepaddle_gpu-1.6.2.post97-cp37-cp37m-win_amd64.whl": [
           "Xgz/tOSwtV2Au5uOF2i+jBaB5fj6oNIPPz8b0hwGHSk=",
-          "cp37"
-        ]
-      }
-    },
-    "1.6.3.post107": {
-      "wheels": {
-        "paddlepaddle_gpu-1.6.3.post107-cp27-cp27m-manylinux1_x86_64.whl": [
-          "3WuLoYlxJ2ZFXMOCjh1BMOx8QRVNGwfQ1msikTDqO7s=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.6.3.post107-cp27-cp27mu-manylinux1_x86_64.whl": [
-          "wIznFL1QQVgCkXxpQcOwdky/ZQOiPVf79lJ0wm6XKjE=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.6.3.post107-cp27-cp27m-win_amd64.whl": [
-          "qChmVV/Y+pO8POgyAuuSoR8/WhNkgxjZF5oeoCQfXz4=",
-          "cp27"
-        ],
-        "paddlepaddle_gpu-1.6.3.post107-cp35-cp35m-manylinux1_x86_64.whl": [
-          "XglamYefRASI6lGTmj1mtrRVwvbH5+6Q3i6JWBnebB0=",
-          "cp35"
-        ],
-        "paddlepaddle_gpu-1.6.3.post107-cp35-cp35m-win_amd64.whl": [
-          "oDPvW26t47vq+6zE1Pos90U6tAqLU/j8w1tkc/8b7H4=",
-          "cp35"
-        ],
-        "paddlepaddle_gpu-1.6.3.post107-cp36-cp36m-manylinux1_x86_64.whl": [
-          "BzwwljO9si3ZrxZmTCZTAvAXKb+xLOg8Vl062Md4AOw=",
-          "cp36"
-        ],
-        "paddlepaddle_gpu-1.6.3.post107-cp36-cp36m-win_amd64.whl": [
-          "BkHOkROEVFI0lfbU80VmsXszKrGeBu5nj72Er/yo2ho=",
-          "cp36"
-        ],
-        "paddlepaddle_gpu-1.6.3.post107-cp37-cp37m-manylinux1_x86_64.whl": [
-          "1p+WaXKjUyF2n0Uo4bbAjQIt5+O/irSZQgLTH7Yf/Wo=",
-          "cp37"
-        ],
-        "paddlepaddle_gpu-1.6.3.post107-cp37-cp37m-win_amd64.whl": [
-          "1d5qc+G1rcDfu1X8Sne0FP39eMgn9Ne0rhwsLLdQDUQ=",
           "cp37"
         ]
       }
@@ -87274,6 +86858,50 @@
         ],
         "paddlepaddle_gpu-2.3.2-cp39-cp39-win_amd64.whl": [
           "MPph+bZh1OTaICFjjwr+cW/CDGYQJt3HnbOTaQRZw9k=",
+          "cp39"
+        ]
+      }
+    },
+    "2.4.0rc0": {
+      "wheels": {
+        "paddlepaddle_gpu-2.4.0rc0-cp310-cp310-manylinux1_x86_64.whl": [
+          "jYGAk60qVqF2QDQMOauuKzFWFGYct45g1c3cQhjGaZo=",
+          "cp310"
+        ],
+        "paddlepaddle_gpu-2.4.0rc0-cp310-cp310-win_amd64.whl": [
+          "8LXrQnc1p56Igw3cBCVXfjV+ZMLhD+C1TgRALc+VHH8=",
+          "cp310"
+        ],
+        "paddlepaddle_gpu-2.4.0rc0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "7H57IXrWwt0pES19eGFhjLMTTg2oePqLi7oQ+G1JJxU=",
+          "cp36"
+        ],
+        "paddlepaddle_gpu-2.4.0rc0-cp36-cp36m-win_amd64.whl": [
+          "p8zkhXsbsltjyEF2NuxrUo3Z80JWP/U3wbPRvgGaX0E=",
+          "cp36"
+        ],
+        "paddlepaddle_gpu-2.4.0rc0-cp37-cp37m-manylinux1_x86_64.whl": [
+          "9K+oZG5otql2FvUpvlF6H51W3Dl/s9sb4n/31U6dCsQ=",
+          "cp37"
+        ],
+        "paddlepaddle_gpu-2.4.0rc0-cp37-cp37m-win_amd64.whl": [
+          "SoY6UDtjkvO7ZiENLJbPeifp0RAbY7omdHKvSHaM0R8=",
+          "cp37"
+        ],
+        "paddlepaddle_gpu-2.4.0rc0-cp38-cp38-manylinux1_x86_64.whl": [
+          "M5uwGU4sNweNFD0egwInbkjdCCvP7QTuJ3ipTG6BlX0=",
+          "cp38"
+        ],
+        "paddlepaddle_gpu-2.4.0rc0-cp38-cp38-win_amd64.whl": [
+          "OIwutMmsPPLOYpuo30J4Hy7ql75chIopr967IQ3xoqo=",
+          "cp38"
+        ],
+        "paddlepaddle_gpu-2.4.0rc0-cp39-cp39-manylinux1_x86_64.whl": [
+          "wDCZ/frEDAVIbthWy2ppUJIwUad8OMQ/AGFAj6ltYLU=",
+          "cp39"
+        ],
+        "paddlepaddle_gpu-2.4.0rc0-cp39-cp39-win_amd64.whl": [
+          "SGYidssG5qPNAec/HlDcraB2LiCmah7+xvim+31cyDI=",
           "cp39"
         ]
       }
@@ -122829,6 +122457,14 @@
           "py2.py3"
         ]
       }
+    },
+    "4.3.1.dev708": {
+      "wheels": {
+        "stix_shifter_utils-4.3.1.dev708-py2.py3-none-any.whl": [
+          "/Oxbqc5ecnj54QlIMWGo3gCFmfTVACDXm81RtcwU/Ao=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "stl-stretch": {
@@ -139302,6 +138938,18 @@
       "wheels": {
         "watchmen_meta-16.3.13-py3-none-any.whl": [
           "a45/vtxHo2xBMpOEVD2gItt6iwFv5SX9wI5LNt5HDvc=",
+          "py3"
+        ]
+      }
+    },
+    "16.3.14": {
+      "sdist": [
+        "I9lJhCzINTZuyE78R9ClQgybeIF7C01r8LhMJQ7DeF8=",
+        "watchmen-meta-16.3.14.tar.gz"
+      ],
+      "wheels": {
+        "watchmen_meta-16.3.14-py3-none-any.whl": [
+          "LUhSF/uJy/qEPG8Eb5yqBEDkxH8Ye2ke1muZIy5o80o=",
           "py3"
         ]
       }
