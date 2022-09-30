@@ -19358,6 +19358,30 @@
         ]
       }
     },
+    "20220929.20.36": {
+      "sdist": [
+        "v4+bDAkxt4VR13DNzedZ8tqMTgqUxbrTCsJyTi9ypuE=",
+        "certora-cli-alpha-master-20220929.20.36.tar.gz"
+      ],
+      "wheels": {
+        "certora_cli_alpha_master-20220929.20.36-py3-none-any.whl": [
+          "zmXsKSyWrOhy242IAI9LMsko53pdHVDQLoDFnCIWk64=",
+          "py3"
+        ]
+      }
+    },
+    "20220929.22.1": {
+      "sdist": [
+        "EFupc2jgh7I/hMnGCYbqoNYy6oT+hWck4hfuE7vXP44=",
+        "certora-cli-alpha-master-20220929.22.1.tar.gz"
+      ],
+      "wheels": {
+        "certora_cli_alpha_master-20220929.22.1-py3-none-any.whl": [
+          "n1yYZ3I4HeELmbnt/iJ2BkCUgYsxst+Jq/w/+SALKGs=",
+          "py3"
+        ]
+      }
+    },
     "20220929.6.53": {
       "sdist": [
         "C0ZeuRScPOoT2iX+gERzI0nPJGD6jBWBLQzlX8LzkiU=",
@@ -19366,6 +19390,18 @@
       "wheels": {
         "certora_cli_alpha_master-20220929.6.53-py3-none-any.whl": [
           "V/lUF09QjKDM7/3B9GpSK1PEiyOs90Pa1NEi1xGbyvY=",
+          "py3"
+        ]
+      }
+    },
+    "20220930.0.23": {
+      "sdist": [
+        "FQc8metV1YwcYFM2ipXbmptG0qhme71kOUaG1Upzlmg=",
+        "certora-cli-alpha-master-20220930.0.23.tar.gz"
+      ],
+      "wheels": {
+        "certora_cli_alpha_master-20220930.0.23-py3-none-any.whl": [
+          "eVs4RLZ8ONUHJnAb7m3pwABwg4h6m0J5hmspSZ0tyVo=",
           "py3"
         ]
       }
@@ -23870,6 +23906,12 @@
       "sdist": [
         "1xs2Olo4KlUblgUcaBkHd47eLBN909LBQveb2jkEdt8=",
         "cpg-utils-4.8.1.tar.gz"
+      ]
+    },
+    "4.8.2": {
+      "sdist": [
+        "w9OUNXYIhNH/AuLkpI057PY8TTpY1xqCmURoUYNAMjQ=",
+        "cpg-utils-4.8.2.tar.gz"
       ]
     }
   },
@@ -146882,76 +146924,10 @@
     }
   },
   "zawn-orm": {
-    "0.0.10": {
+    "0.0.14": {
       "sdist": [
-        "4bxmEAMBhM91SqwUQ0lQbNhKAofEGMb0cxakDEkqd6E=",
-        "zawn_orm-0.0.10.tar.gz"
-      ]
-    },
-    "0.0.11": {
-      "sdist": [
-        "AHIL9KZng69C55nFRpmmzEUgz72931S9og8uJvibydE=",
-        "zawn_orm-0.0.11.tar.gz"
-      ]
-    },
-    "0.0.12": {
-      "sdist": [
-        "EU4ZrVzgvObiROXbCFrQP5Zy4qP2xIXnrimQAMyQhWA=",
-        "zawn_orm-0.0.12.tar.gz"
-      ]
-    },
-    "0.0.13": {
-      "sdist": [
-        "NUS2wCzjy5I6nLGKVdzezZ8ArQHgE9mDj4fjfOkMHYY=",
-        "zawn_orm-0.0.13.tar.gz"
-      ]
-    },
-    "0.0.2": {
-      "sdist": [
-        "sQUJUlZrxxTJjQgOj1x8McyRulVFxR2yUMkaDBybS/I=",
-        "zawn_orm-0.0.2.tar.gz"
-      ]
-    },
-    "0.0.3": {
-      "sdist": [
-        "SxC0hYL6xgZiHQdy8wgaB4fTYQpDONg9ZmWFyhondww=",
-        "zawn_orm-0.0.3.tar.gz"
-      ]
-    },
-    "0.0.4": {
-      "sdist": [
-        "ELd1Q8LJBHtrSG5HKluzvRKKAc8dYV0iaiQ12scRzs4=",
-        "zawn_orm-0.0.4.tar.gz"
-      ]
-    },
-    "0.0.5": {
-      "sdist": [
-        "SVyYasCJCNCNLwWCveXuxwCgTY1Y778f6Efpbpp+gvg=",
-        "zawn_orm-0.0.5.tar.gz"
-      ]
-    },
-    "0.0.6": {
-      "sdist": [
-        "bhhYbU8pebJ1py/91u7cSCEQRbQ9ZGzpsRGst/tfHL4=",
-        "zawn_orm-0.0.6.tar.gz"
-      ]
-    },
-    "0.0.7": {
-      "sdist": [
-        "9NQGGDZVv4yKj925UdMALbUm4nyp9CuE1XvxzxIheqM=",
-        "zawn_orm-0.0.7.tar.gz"
-      ]
-    },
-    "0.0.8": {
-      "sdist": [
-        "mVlfFSFWPMrZ6VsZ4Ox80rbLmpQRndlm+aJYHV2N+E0=",
-        "zawn_orm-0.0.8.tar.gz"
-      ]
-    },
-    "0.0.9": {
-      "sdist": [
-        "CqKiZ6SM9x8UrLbgxXWefpOeRdlxJJxqC8fLW7vLYGI=",
-        "zawn_orm-0.0.9.tar.gz"
+        "zVK/8ZAdWDFzKHi8dy7aOpROrNhAAJ3a93U28b7cq7g=",
+        "zawn_orm-0.0.14.tar.gz"
       ]
     }
   },
