@@ -81753,6 +81753,16 @@
       }
     }
   },
+  "odoo-addon-sale-invoice-no-mail": {
+    "15.0.1.0.1": {
+      "wheels": {
+        "odoo_addon_sale_invoice_no_mail-15.0.1.0.1-py3-none-any.whl": [
+          "f1bO2wEjx2qo9EGN0xayZFFnAx4lKTHEU7DSxEKw71E=",
+          "py3"
+        ]
+      }
+    }
+  },
   "odoo10-addon-auth-oauth-multi-token": {
     "10.0.1.0.0.99.dev1": {
       "wheels": {
@@ -86858,6 +86868,18 @@
       "wheels": {
         "Paperl-0.0.1-py3-none-any.whl": [
           "7/C0H3pHsim4Bc80Pb7poVc0uhEKsxYJsGZY+ZyPVdo=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.1.dev1": {
+      "sdist": [
+        "fG16BseXo21a9l4mZe0UN7UV4p7EpJkHiVKAXqHWQs0=",
+        "Paperl-0.0.1.dev1.tar.gz"
+      ],
+      "wheels": {
+        "Paperl-0.0.1.dev1-py3-none-any.whl": [
+          "PM7wLxuC11TaQ3MA0Q/nl8AUbBq3t+xEMSgmTplPlXE=",
           "py3"
         ]
       }
@@ -110504,6 +110526,12 @@
         "sinter-1.10.dev1664495901.tar.gz"
       ]
     },
+    "1.10.dev1664552715": {
+      "sdist": [
+        "mrZnw30ReBWIBmffl50Ntbe6yilb/6uWDPdwkObSVZs=",
+        "sinter-1.10.dev1664552715.tar.gz"
+      ]
+    },
     "1.9.0": {
       "sdist": [
         "7+663R+LW6pq+nb8SMSMeOhjSk/pIAGf/PnihIfjvSA=",
@@ -127011,6 +127039,34 @@
           "py2.py3"
         ]
       }
+    },
+    "9.2.1": {
+      "sdist": [
+        "vqo5sd/Naf8fmv8XqI+Tub331rwF173NbjIpX/5bFWM=",
+        "symbolic-9.2.1.zip"
+      ],
+      "wheels": {
+        "symbolic-9.2.1-py2.py3-none-macosx_10_15_x86_64.whl": [
+          "Xl2VtZXwlUWae/mT/4YyKhXoIz8W7ppNRX6DaIeONdE=",
+          "py2.py3"
+        ],
+        "symbolic-9.2.1-py2.py3-none-macosx_11_0_arm64.whl": [
+          "9wJ9lSqLdK6kvEfZaHQjWbGUzJLb8VrgRquIHCsDWWo=",
+          "py2.py3"
+        ],
+        "symbolic-9.2.1-py2.py3-none-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "gTrfNtv8JTePDovIMTgqCxEwv4DhZIKLMDovqMgWtv8=",
+          "py2.py3"
+        ],
+        "symbolic-9.2.1-py2.py3-none-manylinux_2_17_i686.manylinux2014_i686.whl": [
+          "MLSaqHzOganOYCZUczrQSCEuZK/cK7pBO+4VenVRZA8=",
+          "py2.py3"
+        ],
+        "symbolic-9.2.1-py2.py3-none-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "/236T3SgHwonJ/9cGBfWDXydwMuyo0UhezRwEoNFf3w=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "syvlib": {
@@ -127070,6 +127126,56 @@
       "wheels": {
         "syvlib-0.2.55-py3-none-any.whl": [
           "dnL+xdqN00/TdW7451V60kjoSJ7qijnMAZ6SUXy68kA=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "szifi": {
+    "0.0.1": {
+      "sdist": [
+        "lRrkW3CxkBPUnjIT9XMGCNDoMoBOp1NTXefmel5zArM=",
+        "szifi-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "szifi-0.0.1-py3-none-any.whl": [
+          "Xn7zI2workGv4yzN2g1P0ozWR1gZK309nMqwWcRZuAU=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "slImroX10OlAXn9CcUFfd4iSVvDeU1siZTIY/Dzx8G4=",
+        "szifi-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "szifi-0.1.1-py3-none-any.whl": [
+          "WpSykQ7lWmkMpp5lm7z4MqswzDJvR+g2QTbu641Tk5M=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.2": {
+      "sdist": [
+        "tVOczzeDsOUnvkdT06QRHdvZ8S+wjJ2LIXphPa9/fZU=",
+        "szifi-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "szifi-0.1.2-py3-none-any.whl": [
+          "uWrGP1mylZaZPY5QV5VVMo675hmvr2fG6UDLy/I9mxs=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "vCHMqozRhLb7McZDXGE72gH7Wq341jS3VM7tAVZcJOI=",
+        "szifi-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "szifi-0.1.3-py3-none-any.whl": [
+          "IAGgJoxh9fzHcSXzLbs3FaXqJAfAKZpCHbmIoiezTFU=",
           "py3"
         ]
       }
