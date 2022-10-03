@@ -11967,6 +11967,18 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221003": {
+      "wheels": {
+        "bigdl_orca_spark3-2.2.0b20221003-py3-none-macosx_10_11_x86_64.whl": [
+          "2X4kW0QHlwTW223T64AMlYKsLUzRClihYDDLIUU6xSM=",
+          "py3"
+        ],
+        "bigdl_orca_spark3-2.2.0b20221003-py3-none-manylinux1_x86_64.whl": [
+          "xY9KsrlI6kL7Gmf5KY1jmd6b8lC3Lbp8hZM6XoMHFmA=",
+          "py3"
+        ]
+      }
     }
   },
   "bigsec-mod1": {
@@ -38238,6 +38250,30 @@
       "wheels": {
         "ddr_lm-1.0.21-py3-none-any.whl": [
           "beiV3VKlIGON/YyiDz19/imra+UeLdvaQv6hwrvbUz8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.22": {
+      "sdist": [
+        "RltIvkxzK0K627o29Owpd0o9JD4ky35JjJ2heLH9buk=",
+        "ddr-lm-1.0.22.tar.gz"
+      ],
+      "wheels": {
+        "ddr_lm-1.0.22-py3-none-any.whl": [
+          "12sHBYcs8pU7xYWxQL871aQKLH1V4H5CvlAH5uB2yu8=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.23": {
+      "sdist": [
+        "gfx0Ea2t6wD92cV6QkfN+Qwt6AxIvvO+CLPQ2TxNiws=",
+        "ddr-lm-1.0.23.tar.gz"
+      ],
+      "wheels": {
+        "ddr_lm-1.0.23-py3-none-any.whl": [
+          "DryRCBPlZN4xthYjbj+BP0iIfqMdr8BMpiCsRkkWTFo=",
           "py3"
         ]
       }
@@ -129560,6 +129596,62 @@
         ],
         "spead2-3.10.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
           "zxrI1v+CQIhZuN1uD0zrF/nQ4dofJyuNwWoqdJiLxps=",
+          "cp39"
+        ]
+      }
+    },
+    "3.11.0": {
+      "sdist": [
+        "cwZbPs9ytQ7oimJ4qFkWhGtqSCX9doqAIlpYf0gMrHg=",
+        "spead2-3.11.0.tar.gz"
+      ],
+      "wheels": {
+        "spead2-3.11.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "X+aam4RUN36FN9dkVD+kqnJq3B4b8Honnz2pUJZ1BDE=",
+          "cp310"
+        ],
+        "spead2-3.11.0-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mTNUUZsOPhzBxaJyh/dCXLRFhv8nLcp3Pk6bjMFD6vY=",
+          "cp311"
+        ],
+        "spead2-3.11.0-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "TsSEy8UjJd0iMa2eqZr/hTbT+/fjxPx+RiZfZ69h9xQ=",
+          "cp37"
+        ],
+        "spead2-3.11.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "95jhGZ+FgJGtS3KSDCmNi7DuYJmbxe98q5GFKM5nKuQ=",
+          "cp38"
+        ],
+        "spead2-3.11.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "wGE3YOIFt/xWSgS7sAEryXsUjydzeWPMI42Fkj3S/dQ=",
+          "cp39"
+        ]
+      }
+    },
+    "3.11.1": {
+      "sdist": [
+        "p2oPoEnFjs6wlRmEwEHCvWwmkWSBUeMtc8Il6twqVUg=",
+        "spead2-3.11.1.tar.gz"
+      ],
+      "wheels": {
+        "spead2-3.11.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "usOZyJbrc94Yj19adr2wGu0szSix9PpsRyCYj3I/yG4=",
+          "cp310"
+        ],
+        "spead2-3.11.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "M3GE3byg2gbmdxP/SaDrrqf/XZ7ZfcrbA2WPUlajL98=",
+          "cp311"
+        ],
+        "spead2-3.11.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "kSeizxrs/79goQMi+tGTUmo3zPK9IRK35K5CvBaJPtU=",
+          "cp37"
+        ],
+        "spead2-3.11.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "zmzPSMtpH7jFFVczmGJl1AuHdiBCSWXE0TjKlY37gmw=",
+          "cp38"
+        ],
+        "spead2-3.11.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rEAZpwB7S7PdKEMnSWnyfJ+cIqzBTWAh/utRPrBct/E=",
           "cp39"
         ]
       }
