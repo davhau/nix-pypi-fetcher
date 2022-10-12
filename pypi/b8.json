@@ -1301,6 +1301,18 @@
           "py3"
         ]
       }
+    },
+    "2022rc2": {
+      "sdist": [
+        "02OKz1z1Bmf0eNaBg8kROMptHrLbAXtD2POV1jPmjAw=",
+        "abotserver-2022rc2.tar.gz"
+      ],
+      "wheels": {
+        "abotserver-2022rc2-py3-none-any.whl": [
+          "DrlZM3narCQhp2E+2fAsrBNJXCXuoieUD3J9onySR0U=",
+          "py3"
+        ]
+      }
     }
   },
   "academic": {
@@ -14321,6 +14333,20 @@
       ]
     }
   },
+  "bluetarget": {
+    "0.1.2": {
+      "sdist": [
+        "AxiWSQihbw1WB/Q1fXaO3AoDfaqCU+fFlJbTS/A0ueE=",
+        "bluetarget-0.1.2.tar.gz"
+      ],
+      "wheels": {
+        "bluetarget-0.1.2-py3-none-any.whl": [
+          "MF7CcP3SqKcH+PPlj/D3kpbc1uyBz5WMSGsKFxMTFRw=",
+          "py3"
+        ]
+      }
+    }
+  },
   "blunix-toolkit": {
     "0.1.10": {
       "sdist": [
@@ -18818,6 +18844,12 @@
       "sdist": [
         "Qoe6tsX/C7YL95qyC7jzQglGTS/2v02+q/Mx94xtWSI=",
         "clip-server-0.7.1.dev7.tar.gz"
+      ]
+    },
+    "0.8.0": {
+      "sdist": [
+        "U6xXy0Ih1Ks4Q+FZNP5xygTzo4rchT2JamNmvRhtN2o=",
+        "clip-server-0.8.0.tar.gz"
       ]
     }
   },
@@ -26011,6 +26043,18 @@
         "dicomgenerator-0.4.0-py2.py3-none-any.whl": [
           "p56O5J9hnQjMfHFLR6OhDQqaS0D2SS+KGhWwRArGA9c=",
           "py2.py3"
+        ]
+      }
+    },
+    "0.6.0": {
+      "sdist": [
+        "rp2S2RnM+WDusyMWRM+sJXsoKb+Uo5wG2Dl1y5by7xk=",
+        "dicomgenerator-0.6.0.tar.gz"
+      ],
+      "wheels": {
+        "dicomgenerator-0.6.0-py3-none-any.whl": [
+          "H5jOx7/r0fRV7l4a4IbG3NLuH68Y7TYGJX85/tV9PKA=",
+          "py3"
         ]
       }
     }
@@ -63777,6 +63821,20 @@
       ]
     }
   },
+  "molano": {
+    "0.0.1": {
+      "sdist": [
+        "X+hQUVj6hwOKZSL4FKnloADM67eqzm4S7iA8InhjAX4=",
+        "molano-0.0.1.tar.gz"
+      ]
+    },
+    "0.1.0": {
+      "sdist": [
+        "0JhMlLj0Eil9UZ0iicgvbND4mkxFWouxyl6tVSGpZhA=",
+        "molano-0.1.0.tar.gz"
+      ]
+    }
+  },
   "monk-de": {
     "0.1": {
       "sdist": [
@@ -81876,6 +81934,62 @@
         ],
         "otfftw-0.12.post2-cp39-cp39-manylinux1_x86_64.whl": [
           "vnsH9p41Ra4e+wzjeO8W3UNRLyiLsVQs94zP63feTh8=",
+          "cp39"
+        ]
+      }
+    },
+    "0.12.post3": {
+      "wheels": {
+        "otfftw-0.12.post3-cp310-cp310-manylinux2014_x86_64.whl": [
+          "dTqu8mkUAXVbzFeP58k/BksxORbC6FiN3riXhQgIVU0=",
+          "cp310"
+        ],
+        "otfftw-0.12.post3-cp310-cp310-win_amd64.whl": [
+          "0c3t5uAf8yCRbTNxMrXo7wiPVhS6QoJzhg17omcyAAc=",
+          "cp310"
+        ],
+        "otfftw-0.12.post3-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "NsI+jBHWSdWgtRM2hpRIa/N76zP60kvCIJ2Rkkaj+dg=",
+          "cp37"
+        ],
+        "otfftw-0.12.post3-cp37-cp37m-win_amd64.whl": [
+          "BgDKW0rvugQjFzOjTaaJ3dEaIgwuaR/GX5TD5G8URUo=",
+          "cp37"
+        ],
+        "otfftw-0.12.post3-cp38-cp38-manylinux2014_x86_64.whl": [
+          "cfRpp1QcpnC/D3M1dqmkF+CiON/9wSxcsGZhAjHQoJ8=",
+          "cp38"
+        ],
+        "otfftw-0.12.post3-cp38-cp38-win_amd64.whl": [
+          "l/egK4SEhz5Gb361qQzA/8YKTSCJyU/gIoqQ9ayFRRQ=",
+          "cp38"
+        ],
+        "otfftw-0.12.post3-cp39-cp39-manylinux2014_x86_64.whl": [
+          "WgY3taqqa2WCpaUu2quqguPNl29ZzMMhvsO6h7iPGbk=",
+          "cp39"
+        ],
+        "otfftw-0.12.post3-cp39-cp39-win_amd64.whl": [
+          "ubr46qPiL8bXxyifUeuLu7jrMFYw4tW5K7d+hM6ggJs=",
+          "cp39"
+        ]
+      }
+    },
+    "0.12.post4": {
+      "wheels": {
+        "otfftw-0.12.post4-cp310-cp310-manylinux2014_x86_64.whl": [
+          "j+V0M/dAFAOUyjhBSAzqdaBn1VIuHCkZRRD1sbPFzMQ=",
+          "cp310"
+        ],
+        "otfftw-0.12.post4-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "I9I4HVS6jPdHARXVt46AiVeXuzX+V7Q8almZt4bU3JY=",
+          "cp37"
+        ],
+        "otfftw-0.12.post4-cp38-cp38-manylinux2014_x86_64.whl": [
+          "+ZQl6xeBLVJ+ZF209LZ83q0XoOiJTOdagQGfJ4vUSUY=",
+          "cp38"
+        ],
+        "otfftw-0.12.post4-cp39-cp39-manylinux2014_x86_64.whl": [
+          "1kzRkM9g2+1Y+WG6kpB6f/2njRt2FgFUhREAlnpbML8=",
           "cp39"
         ]
       }
@@ -126948,6 +127062,42 @@
       "wheels": {
         "wf_camera_capture-0.62.4-py3-none-any.whl": [
           "D/inCIabuXvHrnl6lHeac5YFtjrHXefUZPtusjUTTPM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "Ujacx8m31UfpL3osi3ky167KeBi87Z8kpES/mqM5YRk=",
+        "wf-camera-capture-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "wf_camera_capture-1.0.0-py3-none-any.whl": [
+          "vOjrE14EOFQ8++SeEFhgE7iGYMeTyVQlrzbqsp7zz4k=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.1": {
+      "sdist": [
+        "T3Smx1JScPIi2EAImER2a1Z9z+79kbwExN0UorCYyyU=",
+        "wf-camera-capture-1.0.1.tar.gz"
+      ],
+      "wheels": {
+        "wf_camera_capture-1.0.1-py3-none-any.whl": [
+          "aKiROcJZZeM9N9XZ9O2T6cs4g2gcj7Yg0zi1x8vrJJ4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "1G/1EgfeUlhv3W56UwEGn+eOEL5qnMfrnpv06V3oQJI=",
+        "wf-camera-capture-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "wf_camera_capture-1.0.2-py3-none-any.whl": [
+          "MGNUdu1QEbWDOtivqGDhi+coCITH0/JreHvzQdW7yts=",
           "py3"
         ]
       }

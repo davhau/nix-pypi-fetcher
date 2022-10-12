@@ -6177,6 +6177,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.2": {
+      "sdist": [
+        "MzK7fF9pOFh9LcVVaP+4tyee0uUyqfVW7tDH9QcK9Ok=",
+        "arxiv_update_cli-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "arxiv_update_cli-1.0.2-py3-none-any.whl": [
+          "LQJB6oFnjQAjzc11RgwoLlFye6ohMyRPMgmYqj8Qqos=",
+          "py3"
+        ]
+      }
     }
   },
   "asgard-manager": {
@@ -34202,6 +34214,12 @@
       "sdist": [
         "eo6J/yHVwKdS/69j18JYipqhbaJ4KGnS3n4HBvR4J/c=",
         "diffpy.structure-3.0.1.tar.gz"
+      ]
+    },
+    "3.0.2": {
+      "sdist": [
+        "ebBZLoGfJ1caXZziXPPZGiag9lwTQ+b5HQVluK7YIxI=",
+        "diffpy.structure-3.0.2.tar.gz"
       ]
     }
   },
@@ -96922,6 +96940,10 @@
           "+W/rz606SIjTvqKl+fOW87T5J48mqsfMIJqmJuBfMIE=",
           "cp310"
         ],
+        "openturns-1.19-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "H4d+nCQFGKo+j01ikxipy5f5KnXVaoeRoUthfkI6raA=",
+          "cp310"
+        ],
         "openturns-1.19-cp310-cp310-win_amd64.whl": [
           "vRHFXdDxnqemFWHoSr1yzFHcoLq9QpR8R1+IvhqM1RI=",
           "cp310"
@@ -96934,12 +96956,20 @@
           "UZEJHKyDiauAHWwVGkXj/oXj7CX/tGrWX+Cq8iiL75M=",
           "cp37"
         ],
+        "openturns-1.19-cp37-cp37m-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "yreTE5Cz296hISvkDss0kzQB/6Ify+YH/CGgknLNAyo=",
+          "cp37"
+        ],
         "openturns-1.19-cp37-cp37m-win_amd64.whl": [
           "XMUYjuqYIFW8h9q8T/EwUfH15xqy9PkVU+blwA8nnrE=",
           "cp37"
         ],
         "openturns-1.19-cp38-cp38-macosx_10_9_x86_64.whl": [
           "AWsQejgSiQXRtSzuKS0+w8lHz6KsrKgzIM3yRpIh5Us=",
+          "cp38"
+        ],
+        "openturns-1.19-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "Qk3LWkSNb9efK7oXvfgGtYTVjinlTDI7J1pgABSBqYM=",
           "cp38"
         ],
         "openturns-1.19-cp38-cp38-win_amd64.whl": [
@@ -96952,6 +96982,10 @@
         ],
         "openturns-1.19-cp39-cp39-manylinux1_x86_64.manylinux_2_5_x86_64.whl": [
           "569tYhp+dOZEc04wRcmabGKDU1V6j1x8sLqYWLWhQCY=",
+          "cp39"
+        ],
+        "openturns-1.19-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "YUU3WV0T43uwz+i+QfVfTeNz/uhi1rJpfSVmAI2ciNs=",
           "cp39"
         ],
         "openturns-1.19-cp39-cp39-win_amd64.whl": [
@@ -97040,6 +97074,66 @@
         ],
         "openturns-1.19rc1-cp39-cp39-win_amd64.whl": [
           "cSC96610Xok/YDIVM8is7AFjxiIa8jj4fkdLl03zXK4=",
+          "cp39"
+        ]
+      }
+    },
+    "1.20rc1": {
+      "wheels": {
+        "openturns-1.20rc1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "DFy6EXWVOofpr3DdvAordIK81J1KTAbR4c3rwyRa1VQ=",
+          "cp310"
+        ],
+        "openturns-1.20rc1-cp310-cp310-win_amd64.whl": [
+          "ZW363CbX3cQuFZnzJkgrztdWxWITyuRjz0m45xa+zIo=",
+          "cp310"
+        ],
+        "openturns-1.20rc1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "+hwb14JvuxPQO2iaBDuNNmpmF2ltPvsQkdeetEQIScw=",
+          "cp37"
+        ],
+        "openturns-1.20rc1-cp37-cp37m-win_amd64.whl": [
+          "/Jv8ttm2uLKRhU1RMVs28j3AyQ0oFYtDbe7aesGQIOQ=",
+          "cp37"
+        ],
+        "openturns-1.20rc1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "98tHNR4r8VjEdkcyz0r3xhaoNMPFaSfZEEDlHaf2Tbw=",
+          "cp38"
+        ],
+        "openturns-1.20rc1-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "Lu55GiUjflZezSDGy57FPZvAso+RMyYhG8UgXTPsw4A=",
+          "cp38"
+        ],
+        "openturns-1.20rc1-cp38-cp38-win_amd64.whl": [
+          "VQM4MmuRwtZzI+E+XweTSCMpHgWm96E0RzmakseWgYw=",
+          "cp38"
+        ],
+        "openturns-1.20rc1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "QLiaiIlTay14gFQWwoCuqxCUx+drMpFzYPpWJEhuxBU=",
+          "cp39"
+        ],
+        "openturns-1.20rc1-cp39-cp39-win_amd64.whl": [
+          "mHRqfQmMZOQFR7WE9mRURNkZgmbIyP/CpgYhmiZOPAI=",
+          "cp39"
+        ]
+      }
+    },
+    "1.20rc1.post1": {
+      "wheels": {
+        "openturns-1.20rc1.post1-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "TYUfjw3SaXi4D0bfD0YcuGUiELnINfbDCT9kAQpBdrk=",
+          "cp310"
+        ],
+        "openturns-1.20rc1.post1-cp37-cp37m-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "u9tJ3M6DyEjAeoVPqrHrYsf48T1sAs1veDZ1VVGDihw=",
+          "cp37"
+        ],
+        "openturns-1.20rc1.post1-cp38-cp38-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "KTefwxTkCCX5BLVpIXJtooYuKUo+4wjSrlUo9o/72nU=",
+          "cp38"
+        ],
+        "openturns-1.20rc1.post1-cp39-cp39-manylinux2014_x86_64.manylinux_2_17_x86_64.whl": [
+          "3QeZZdsiyGY3spbCPpxnp+0JZDUXz5WBCLUnHcFHYVs=",
           "cp39"
         ]
       }
@@ -128695,6 +128789,32 @@
       }
     }
   },
+  "spyglass-py": {
+    "0.0.1": {
+      "sdist": [
+        "07VTxEGbBtmeW9RbcjiCfxZibnFDbUb60dRSdV5llL8=",
+        "spyglass_py-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "spyglass_py-0.0.1-py3-none-any.whl": [
+          "U5nNJ+vF81JVJkqA5qN3CUIpPa4ra3MEWUB1UUHjc1w=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.2": {
+      "sdist": [
+        "eOGWkU52YXREb9QBGM5ARlUyqm/NhxTE/EYh8+aOG70=",
+        "spyglass_py-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "spyglass_py-0.0.2-py3-none-any.whl": [
+          "o1OH6lzWbw24NbD4mC8sYgBq10ogh6a4TdlSuzyxSpU=",
+          "py3"
+        ]
+      }
+    }
+  },
   "sqla-raw": {
     "0.0.1": {
       "sdist": [
@@ -139188,6 +139308,12 @@
       "sdist": [
         "nqqKDpF8cAimYKQO9Yso+gjnEGlplVVeJF2Q+xhJiI4=",
         "vdk-kerberos-auth-0.3.660263526.tar.gz"
+      ]
+    },
+    "0.3.664990419": {
+      "sdist": [
+        "GtWQepoBXOw0UfobuCUT4U8s7CoDtPBsbaPuBhRSlCs=",
+        "vdk-kerberos-auth-0.3.664990419.tar.gz"
       ]
     }
   },
