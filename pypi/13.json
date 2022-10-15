@@ -26054,6 +26054,18 @@
         ]
       }
     },
+    "0.16.13": {
+      "sdist": [
+        "SWC5Ij+E4FVM11K5RifcOuoY6N3KngfxJsP/p8qNtQ0=",
+        "dagster-pandas-0.16.13.tar.gz"
+      ],
+      "wheels": {
+        "dagster_pandas-0.16.13-py3-none-any.whl": [
+          "F9tCynzUQpj5BSOIhVtTBl7/41/ewCE/aNrwR+bkVbo=",
+          "py3"
+        ]
+      }
+    },
     "0.16.2": {
       "sdist": [
         "k0rWliJ0jpuNmTcK76JGPi6xBrAfzYOadwWotKVI8/U=",
@@ -28896,6 +28908,18 @@
       "wheels": {
         "datamorph_airflow-0.0.27-py2.py3-none-any.whl": [
           "LLjSWGanvtX8JaZRDxitu1Vrba255p86oC5j7lDPpEY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.0.28": {
+      "sdist": [
+        "+Hb3psPeRhzbbOOGm1PgD1U23FFM+L4SAsbQAZDmy3o=",
+        "datamorph-airflow-0.0.28.tar.gz"
+      ],
+      "wheels": {
+        "datamorph_airflow-0.0.28-py2.py3-none-any.whl": [
+          "1QlX6ZM6vKM+uVRnTy+k84Xnbb29VFOkzhnt/sT9GbU=",
           "py2.py3"
         ]
       }
@@ -80678,7 +80702,13 @@
       "sdist": [
         "58yD/LUcOZcVv9bqe+aa7EZXf3xkrru0BVdd0gGjtgc=",
         "mercury-py-1.0.4.tar.gz"
-      ]
+      ],
+      "wheels": {
+        "mercury_py-1.0.4-py3-none-any.whl": [
+          "V1WiOg8AE3koQ/4pbMBApCta5iDGjc2prgXHBOjcqa8=",
+          "py3"
+        ]
+      }
     }
   },
   "merengue": {
@@ -123919,6 +123949,48 @@
         "dPJk2jOHo6P05X8A6z00dp5WjCJZHnW4fB2cGx9c+z8=",
         "sequery-0.1.tar.gz"
       ]
+    }
+  },
+  "serpyco-rs": {
+    "0.1.1": {
+      "sdist": [
+        "VeXvqDYZTKrNspHk3XgRNPXGvdIfC0FpQbJ/fGnGOOw=",
+        "serpyco_rs-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "serpyco_rs-0.1.1-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "1gXf2Q3IWM3tsGe8SbZ6DeFjJX/nia4w3KB/hmz2aQ0=",
+          "cp310"
+        ],
+        "serpyco_rs-0.1.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8hGDOiEjXkzaYjqp4fOPoYcr4AD2aYDvsDCSG9VXAbA=",
+          "cp310"
+        ],
+        "serpyco_rs-0.1.1-cp310-none-win_amd64.whl": [
+          "qLaWj4ISGqFwt6QQmTo/ny1Jf7d5Hxtoo7tqGni/Qb0=",
+          "cp310"
+        ],
+        "serpyco_rs-0.1.1-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "6yGlpqNVNR0PcdczUJYJ3IRCwtTf5drmT7jL41wZmVA=",
+          "cp311"
+        ],
+        "serpyco_rs-0.1.1-cp39-cp39-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "PCga6SB05e7nh82aqsOqg0CohQhYoqWfodqcJoqY3oU=",
+          "cp39"
+        ],
+        "serpyco_rs-0.1.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "s33AhsoGulO5yOnsmHGy8rsGORidHhwyiy2TYF6RbLw=",
+          "cp39"
+        ],
+        "serpyco_rs-0.1.1-cp39-none-win_amd64.whl": [
+          "6HZ5vvvN0ldn/+vXanZ+q/NXsLLy8YFfAHqoAAXB90E=",
+          "cp39"
+        ],
+        "serpyco_rs-0.1.1-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "+FBxPYzyq5UJQ5i+HZl9qWvfTf2w6Kgu7ZNJY5TzJW4=",
+          "pp39"
+        ]
+      }
     }
   },
   "servicesframework": {
