@@ -5932,6 +5932,18 @@
         ]
       }
     },
+    "2.47.0a0": {
+      "sdist": [
+        "yG8CkcjKwrjbA5G/UvYm5UGoKjx8u0oDzY1QFIgoYsw=",
+        "aws-cdk.aws-apigatewayv2-integrations-alpha-2.47.0a0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2_integrations_alpha-2.47.0a0-py3-none-any.whl": [
+          "RjPE4CBADH7leQZS8JnwLU+EurJP/wEyUOK0Gk/8obA=",
+          "py3"
+        ]
+      }
+    },
     "2.5.0a0": {
       "sdist": [
         "pLcMjCAjcPNnbZBPBILCSJSbfNPcZLooFk5c6hE6Muo=",
@@ -29866,6 +29878,18 @@
       "wheels": {
         "django_clickhouse-1.2.0-py2.py3-none-any.whl": [
           "X0NNqXrsMzTaE/BZt9JVb0n8/ZnRM6XNjzGmrYYoVpI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "1.2.1": {
+      "sdist": [
+        "AiKkg+klOL4alY7DBTKAyqbmL64aMggMDxPhCXNgmX0=",
+        "django-clickhouse-1.2.1.tar.gz"
+      ],
+      "wheels": {
+        "django_clickhouse-1.2.1-py2.py3-none-any.whl": [
+          "OSXMpVv/4PhXQGnqZQPkUiHVmY2XQPwSt659WNnqLXo=",
           "py2.py3"
         ]
       }
@@ -67739,6 +67763,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.2.5": {
+      "sdist": [
+        "woCo+JaGsUtfzZ4IzlSWmzzfs1VIGGeGVFIBU9u7Hfk=",
+        "mps_motion-0.2.5.tar.gz"
+      ],
+      "wheels": {
+        "mps_motion-0.2.5-py2.py3-none-any.whl": [
+          "EVYkGth3xVYi9Lq+wAALPDw3wAEV64U75KSFhHauueA=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "mpvue-tool": {
@@ -75834,50 +75870,6 @@
     }
   },
   "nautilus-trader": {
-    "1.137.0": {
-      "sdist": [
-        "ylK4+JyDw1oPu3yWYUPZiUvLciz+hRHN/cs+rQpJopk=",
-        "nautilus_trader-1.137.0.tar.gz"
-      ],
-      "wheels": {
-        "nautilus_trader-1.137.0-cp310-cp310-macosx_10_16_x86_64.whl": [
-          "vKXOMhqLSQcyvNI7BvmExDJv73PUPxUzpLYNCrX5UZg=",
-          "cp310"
-        ],
-        "nautilus_trader-1.137.0-cp310-cp310-manylinux_2_31_x86_64.whl": [
-          "pywbTIgDyXX0KRE+8GHtzsoOsxTOzV60pWEi3sPfWnM=",
-          "cp310"
-        ],
-        "nautilus_trader-1.137.0-cp310-cp310-win_amd64.whl": [
-          "pNSqxUG1t4x3jo/H6wwPyUYAlDn0BpNhBaucGIm6QBQ=",
-          "cp310"
-        ],
-        "nautilus_trader-1.137.0-cp38-cp38-macosx_10_16_x86_64.whl": [
-          "RJGOkv+ylXYJ/faKyiGxxwq0pYe0dTatXUXjpRg+co4=",
-          "cp38"
-        ],
-        "nautilus_trader-1.137.0-cp38-cp38-manylinux_2_31_x86_64.whl": [
-          "SShIw+WhFgcIlFhwFmyRWpX59BdAmWyIl3nNPNcK6Lg=",
-          "cp38"
-        ],
-        "nautilus_trader-1.137.0-cp38-cp38-win_amd64.whl": [
-          "4VYN3rvS4UXD7Oi4DQviPE2rT7YE/o4VQyPnm1kkPAs=",
-          "cp38"
-        ],
-        "nautilus_trader-1.137.0-cp39-cp39-macosx_10_16_x86_64.whl": [
-          "pgFGzQwym07bo3xhbofJ21VPFlrfJmNT+m1uccb7q4E=",
-          "cp39"
-        ],
-        "nautilus_trader-1.137.0-cp39-cp39-manylinux_2_31_x86_64.whl": [
-          "2Ztav1yuAs5D6dq9cg9P0MadS1L/vhAkj+vbeesPd/s=",
-          "cp39"
-        ],
-        "nautilus_trader-1.137.0-cp39-cp39-win_amd64.whl": [
-          "0uovDDkfc58TRRy5zauGDkivu5W+mK45bTMFAsXhIX4=",
-          "cp39"
-        ]
-      }
-    },
     "1.137.1": {
       "sdist": [
         "UPNQ8NfE4oriNAu5Tncagr9VBN/e7HBjAQmDqARpE7c=",
@@ -76764,6 +76756,10 @@
           "SFVmADwgcdA0TnyCDiWhE1fg2vzeHpyZ3TvDvT+S5js=",
           "cp310"
         ],
+        "nautilus_trader-1.156.0-cp310-cp310-manylinux_2_27_x86_64.whl": [
+          "zQwDER29AXtUV+jDOZyZn0LFSz8UtK44u6/daM7NIrA=",
+          "cp310"
+        ],
         "nautilus_trader-1.156.0-cp310-cp310-win_amd64.whl": [
           "C2kvOoM9sr+R2fS3+06aH1szuRxHlCCKHfQD2z7LxqA=",
           "cp310"
@@ -76772,12 +76768,20 @@
           "3mTUFFEmgpTJAJpnZT8b8E4yOOYhIz6sFJ2duLzmZ3A=",
           "cp38"
         ],
+        "nautilus_trader-1.156.0-cp38-cp38-manylinux_2_27_x86_64.whl": [
+          "IqDRnr+sA65Z8mYC8MZPf1bLmfxUyHV50IUhZlMb4ao=",
+          "cp38"
+        ],
         "nautilus_trader-1.156.0-cp38-cp38-win_amd64.whl": [
           "EOFpaVCBTeKgbYCAGnCaEjxv2j4EIfaB6j83Ye3He6A=",
           "cp38"
         ],
         "nautilus_trader-1.156.0-cp39-cp39-macosx_10_16_x86_64.whl": [
           "hefHl550KDmn7cqEAXIwjSlfAxs5YeTupvbV1ObRBWw=",
+          "cp39"
+        ],
+        "nautilus_trader-1.156.0-cp39-cp39-manylinux_2_27_x86_64.whl": [
+          "QlPe0fNr6+21nxWyRZ7W4yZS7PPHUS2Xsw5X4O6KBkg=",
           "cp39"
         ],
         "nautilus_trader-1.156.0-cp39-cp39-win_amd64.whl": [
@@ -80840,6 +80844,14 @@
       "wheels": {
         "odoo_addon_maintenance_plan-15.0.1.1.1-py3-none-any.whl": [
           "0eyBP1oD8+ZZP9z8wRfiwJX/QwNwfV2G27Q6u8jH/s4=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.1.1.2": {
+      "wheels": {
+        "odoo_addon_maintenance_plan-15.0.1.1.2-py3-none-any.whl": [
+          "d8Dk3Vl1OGgl84BDOSckDnzqXkuEmzG8rkZTDymz5NQ=",
           "py3"
         ]
       }
@@ -92952,6 +92964,12 @@
       "sdist": [
         "JpiGcNeR/DAvob1jkoor/KB4ogMD2GOeT58IFIs4KHA=",
         "pulumi_google_native-0.26.2a1666221206.tar.gz"
+      ]
+    },
+    "0.26.2a1666282670": {
+      "sdist": [
+        "yM1Rdfl7IJY2urnYiqJcVL9z9LcfU5bI5IHljXcg2xM=",
+        "pulumi_google_native-0.26.2a1666282670.tar.gz"
       ]
     },
     "0.3.0": {
@@ -110958,6 +110976,30 @@
       "wheels": {
         "riscv_ctg-0.10.0-py2.py3-none-any.whl": [
           "RWXfBZHhMPID5fgzIONGTTlrEjCwoErd8e/mgy3HlJE=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.10.1": {
+      "sdist": [
+        "raNjdhz2jaXchKzFva1POzh5Vcj4cQaRPYroUYF6dTc=",
+        "riscv_ctg-0.10.1.tar.gz"
+      ],
+      "wheels": {
+        "riscv_ctg-0.10.1-py2.py3-none-any.whl": [
+          "Bjnclf4fBHe4/D/NmqfOJFKh/JUbKxmNKkeIKo5nTHM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.10.2": {
+      "sdist": [
+        "O8Hir9O0E9g3mrxZmmY6a36yLSZpuX9ie1QWSDeZn80=",
+        "riscv_ctg-0.10.2.tar.gz"
+      ],
+      "wheels": {
+        "riscv_ctg-0.10.2-py2.py3-none-any.whl": [
+          "TiGY+vqdVhyjDvKIB/sZtz/X77jdx+KCfVqRzcDezgY=",
           "py2.py3"
         ]
       }
