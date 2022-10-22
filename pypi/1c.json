@@ -25515,6 +25515,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.90": {
+      "sdist": [
+        "5PYJalTuOENQ8Y8yK6JNCOcE/Bx0YqROaLB4JVyxycg=",
+        "cdk8s-jenkins-0.0.90.tar.gz"
+      ],
+      "wheels": {
+        "cdk8s_jenkins-0.0.90-py3-none-any.whl": [
+          "U3/95FdUlIIa5mmdXWggLk9RboXKVDhQjiFZqC2MeeE=",
+          "py3"
+        ]
+      }
     }
   },
   "cdsapi": {
@@ -85935,6 +85947,12 @@
         "a4PlVNxLBa0gTHXycUAhNG14njkLW81artGznAy2ol0=",
         "nomhsms-0.3.1.tar.gz"
       ]
+    },
+    "0.3.2": {
+      "sdist": [
+        "kCxFdUqHX6ZRVAD+a5TR9aMH/qMZ9bi2C0MnIUN7aUE=",
+        "nomhsms-0.3.2.tar.gz"
+      ]
     }
   },
   "nonebot-plugin-youthstudy": {
@@ -87776,6 +87794,16 @@
       "wheels": {
         "ocsp_checker-1.9.9-py3-none-any.whl": [
           "m82jZJcIZgIFUnM3M6AqoeKA6SoJ1vOusLyEIFoVugk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo-addon-fieldservice-stage-server-action": {
+    "15.0.1.0.0.3": {
+      "wheels": {
+        "odoo_addon_fieldservice_stage_server_action-15.0.1.0.0.3-py3-none-any.whl": [
+          "g8NQUvEhxa9VdFfLy+0l1WDNn3bspfVFrhyUxPhzOHQ=",
           "py3"
         ]
       }
@@ -117087,6 +117115,78 @@
           "cp39"
         ]
       }
+    },
+    "2.0.1": {
+      "wheels": {
+        "ray_cpp-2.0.1-cp310-cp310-macosx_10_15_universal2.whl": [
+          "0pFWvFMmmAtTumXcESDxoBFr9pR9dUjmEDnmugLPsYo=",
+          "cp310"
+        ],
+        "ray_cpp-2.0.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "b87Qsj/CbHaLahc4IpBer2H5JcCMPAZMxN3Lsr41c0o=",
+          "cp310"
+        ],
+        "ray_cpp-2.0.1-cp310-cp310-manylinux2014_x86_64.whl": [
+          "Pcrw7VRZZXUmpfhrHPoDUkZqY6SzpWijBCIyH0TfwVI=",
+          "cp310"
+        ],
+        "ray_cpp-2.0.1-cp310-cp310-win_amd64.whl": [
+          "J2XwQPqowgil6urGLASty8kQgp9Ve0RM/2DjSkZvsfg=",
+          "cp310"
+        ],
+        "ray_cpp-2.0.1-cp36-cp36m-macosx_10_15_intel.whl": [
+          "WQMxYAqKZYVuYc1dtss8Q2WDrFsd3VeqeQBPY1UMBi8=",
+          "cp36"
+        ],
+        "ray_cpp-2.0.1-cp36-cp36m-manylinux2014_x86_64.whl": [
+          "utK+zWSnzQZ0nLmqqZj/O3x3FBr3O27VgUJj9GkrJfk=",
+          "cp36"
+        ],
+        "ray_cpp-2.0.1-cp37-cp37m-macosx_10_15_intel.whl": [
+          "UcmUmC3bEMFTr5ZkNASjyqnI6c7Zgvuxjw+DR622MGA=",
+          "cp37"
+        ],
+        "ray_cpp-2.0.1-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "/009sdr56I2BrXjaibtfSTweMLqtjnyFeOiTO75tRsE=",
+          "cp37"
+        ],
+        "ray_cpp-2.0.1-cp37-cp37m-win_amd64.whl": [
+          "S6VNsl9/k/DuLwomVoUL4uaChj1o3pHKrqIW+WqzKAM=",
+          "cp37"
+        ],
+        "ray_cpp-2.0.1-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "TweQHSn8NGYxTrto1DqVu8IxCsc/ql+dtBuUD1NMt6w=",
+          "cp38"
+        ],
+        "ray_cpp-2.0.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "41JL6bGpHMk1nTzl2LIteh3cJTQcjcWCG28cLt7rE0I=",
+          "cp38"
+        ],
+        "ray_cpp-2.0.1-cp38-cp38-manylinux2014_x86_64.whl": [
+          "t7NX23yBFJjTVPAmpmAo/0s1cQ4GjUw48hG29nSf99I=",
+          "cp38"
+        ],
+        "ray_cpp-2.0.1-cp38-cp38-win_amd64.whl": [
+          "uINO+OzSB6NxNIJWWFqlhctYmhnUJVgYxBmfl6FmBkg=",
+          "cp38"
+        ],
+        "ray_cpp-2.0.1-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "7BFty60jJfwSFrbh7Zj5sB3p9tr4YkwT0Io+WwLm8Vw=",
+          "cp39"
+        ],
+        "ray_cpp-2.0.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "pZgys5Q736T8fkOvaPy4FKn3L2ZxeZcQF/9cfIdXLFQ=",
+          "cp39"
+        ],
+        "ray_cpp-2.0.1-cp39-cp39-manylinux2014_x86_64.whl": [
+          "IahT6M4lwpGu/KKaJ4fOmT4jkiKYRkUvF8/qbe+v0uI=",
+          "cp39"
+        ],
+        "ray_cpp-2.0.1-cp39-cp39-win_amd64.whl": [
+          "oHP7e1p0ZWD8OG0zqnye0msVdzgKSeMeq8qn+anRBhc=",
+          "cp39"
+        ]
+      }
     }
   },
   "raylib-py": {
@@ -140522,6 +140622,18 @@
       "wheels": {
         "translators-5.4.3-py3-none-any.whl": [
           "tikwvNGRUJksdXuIqGigllHgqk1d7KiySZUQ5j5q3fU=",
+          "py3"
+        ]
+      }
+    },
+    "5.4.4": {
+      "sdist": [
+        "A67+ugxV1g1drS+i7O3XLADos0f3xMGDmquhUr/4MG8=",
+        "translators-5.4.4.tar.gz"
+      ],
+      "wheels": {
+        "translators-5.4.4-py3-none-any.whl": [
+          "fnqLc5zXnHQvllA6E2mzGk6mFYy02Ovw/NBzSGlMx5Q=",
           "py3"
         ]
       }
