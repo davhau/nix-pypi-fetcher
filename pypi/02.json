@@ -23727,6 +23727,18 @@
           "py3"
         ]
       }
+    },
+    "0.5.3b20221024": {
+      "sdist": [
+        "g6I8A8yR+W4Trr+nnJdCg95r8MIZ0qmQ6Fc0ClTIzKo=",
+        "autogluon.text-0.5.3b20221024.tar.gz"
+      ],
+      "wheels": {
+        "autogluon.text-0.5.3b20221024-py3-none-any.whl": [
+          "4eQhT9YKP7hPO72fUw64yiamFYH0TVtoGtsQc9b6wZE=",
+          "py3"
+        ]
+      }
     }
   },
   "autograpefruit": {
@@ -67330,6 +67342,12 @@
         "kpler.sdk-1.0.24.tar.gz"
       ]
     },
+    "1.0.25": {
+      "sdist": [
+        "u1ASLfemPJ4Dt/+XfBzGhRMaZXcaSsjyPS3m9ykpoL4=",
+        "kpler.sdk-1.0.25.tar.gz"
+      ]
+    },
     "1.0.3": {
       "sdist": [
         "TinYiOOygg8ufzzrrFHX8l07dgaTrE3/haNR+Li/A+0=",
@@ -68448,6 +68466,18 @@
       "wheels": {
         "lakefs_client-0.83.3-py3-none-any.whl": [
           "GEuLYCk35VS7XjRxwgCxC4LMrQdkOOlH9oYpkbIY5mw=",
+          "py3"
+        ]
+      }
+    },
+    "0.83.4": {
+      "sdist": [
+        "2Jg6T5TLx1koE09bfytBsdVORwA5d8c/vV012gI5qgM=",
+        "lakefs-client-0.83.4.tar.gz"
+      ],
+      "wheels": {
+        "lakefs_client-0.83.4-py3-none-any.whl": [
+          "iTLqo218/hKZANNOKH+/PeVYoE4LRisl/xadum5o7gc=",
           "py3"
         ]
       }
@@ -103819,6 +103849,12 @@
         "mb0Q20JupeCGPFkr6mPyUpOK5PD3sDdbktM3gtfGpNM=",
         "proxtop-0.3.2.tar.gz"
       ]
+    },
+    "0.4.0": {
+      "sdist": [
+        "rc5SlQTIuMxOsPQhu9AXmJfiZaWyix4jf158T+UmYV4=",
+        "proxtop-0.4.0.tar.gz"
+      ]
     }
   },
   "proxyfinder": {
@@ -110142,6 +110178,12 @@
       "sdist": [
         "v+t0Qe7ESDq04KLU8i1qdo1fAAYzrGHv5eDLfqeyOoI=",
         "pyg-nightly-2.1.0.dev20221023.tar.gz"
+      ]
+    },
+    "2.1.0.dev20221024": {
+      "sdist": [
+        "/A5HOFVvPMPzkw4mPSlxp+hOY5OFdnCr/txubZ8n70Y=",
+        "pyg-nightly-2.1.0.dev20221024.tar.gz"
       ]
     }
   },
@@ -121152,6 +121194,86 @@
         ],
         "rdkit_pypi-2022.3.5-cp39-cp39-win_amd64.whl": [
           "8GvIW4Yjegm88PcCuNdO0BO03U6SJKvv+rVQwWzrb7o=",
+          "cp39"
+        ]
+      }
+    },
+    "2022.9.1": {
+      "wheels": {
+        "rdkit_pypi-2022.9.1-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "/8YuqpKCz3OHmlSr26V8/0aR5M5IfXUWkqDlHgmc2gA=",
+          "cp310"
+        ],
+        "rdkit_pypi-2022.9.1-cp310-cp310-macosx_11_0_arm64.whl": [
+          "1AD5x0O2TESWAlanq+dKt56EbqMNcrP4D7tz8tXYFHE=",
+          "cp310"
+        ],
+        "rdkit_pypi-2022.9.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "c7Du2P6Gt336zHoD5qAyg782U/+2Dxpg2rffBPFdvNQ=",
+          "cp310"
+        ],
+        "rdkit_pypi-2022.9.1-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "mrj+7GifREXcW7tDz7Swz9YSXz2H0vNUfyv9ElaMjEw=",
+          "cp310"
+        ],
+        "rdkit_pypi-2022.9.1-cp310-cp310-win_amd64.whl": [
+          "PdGn6VaFsi12yNU+BgZqblYiZNA6QGZmVGE4nF7tr1E=",
+          "cp310"
+        ],
+        "rdkit_pypi-2022.9.1-cp37-cp37m-macosx_10_9_x86_64.whl": [
+          "s69WYTB3E4vi8PIUoZr1I7lgy9+B9GE7wVI9+Cjssyo=",
+          "cp37"
+        ],
+        "rdkit_pypi-2022.9.1-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "K1inMlYjzh5GhtBR34dBJy04b9Ov9mO1i1rNBanBmsM=",
+          "cp37"
+        ],
+        "rdkit_pypi-2022.9.1-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "BTElU8djc/8cqoYpBp3vQnxXWr0fglZfIlK4nJHc2EA=",
+          "cp37"
+        ],
+        "rdkit_pypi-2022.9.1-cp37-cp37m-win_amd64.whl": [
+          "GQoNWPkvhZy2Hrf3J9/oKTimV6IuKsCDYO4XqQ747Nw=",
+          "cp37"
+        ],
+        "rdkit_pypi-2022.9.1-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "zhROWY26Y8XCrz12aq4b6r1vlj5xI23w8UrA5RH0dIA=",
+          "cp38"
+        ],
+        "rdkit_pypi-2022.9.1-cp38-cp38-macosx_11_0_arm64.whl": [
+          "Stu59FQ7w+sdGe5vPQWffV+P2fWUBKzteDLdZwrBlQU=",
+          "cp38"
+        ],
+        "rdkit_pypi-2022.9.1-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "yzvhBa05jH2MrcNmIa6+TT4595qYI0jdb9n2hG0pl40=",
+          "cp38"
+        ],
+        "rdkit_pypi-2022.9.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GmmLDzlDLqxUYlVg3o+tP48PgGvVyfmrSjGjA5bP/Rw=",
+          "cp38"
+        ],
+        "rdkit_pypi-2022.9.1-cp38-cp38-win_amd64.whl": [
+          "I7PffAm0r+psKjHS9Eplk1q8TISxpbSvzrOemfaN5JY=",
+          "cp38"
+        ],
+        "rdkit_pypi-2022.9.1-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "Hst2aDcf4Wcgwj/pV4OCaqNxm9Nw0CRZ1gQDkAT291Y=",
+          "cp39"
+        ],
+        "rdkit_pypi-2022.9.1-cp39-cp39-macosx_11_0_arm64.whl": [
+          "AGOHQfF1xg70SdZ88v2aZvABcu1H+JR2uJpxPCFP8S0=",
+          "cp39"
+        ],
+        "rdkit_pypi-2022.9.1-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "073lfrSdCd5yMtdKI5yxodTbqk/VR5Py3C6njhZiCCk=",
+          "cp39"
+        ],
+        "rdkit_pypi-2022.9.1-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "ZwxtSwCPe3oNrRK3TcW5krMNCr/kou3RieX5BPXdIEA=",
+          "cp39"
+        ],
+        "rdkit_pypi-2022.9.1-cp39-cp39-win_amd64.whl": [
+          "VaYVL8S4VPYr6nnjtAc0SrqW7a/EaRWoqTdCNnuUZbc=",
           "cp39"
         ]
       }
