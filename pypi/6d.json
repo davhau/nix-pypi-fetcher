@@ -615,6 +615,20 @@
       ]
     }
   },
+  "adaptivepatch": {
+    "0.0.1": {
+      "sdist": [
+        "+rrIygL2akRzofSZN3ldhHfYxtC1tiWkv1SY+vDjyMM=",
+        "adaptivepatch-0.0.1.tar.gz"
+      ],
+      "wheels": {
+        "adaptivepatch-0.0.1-py3-none-any.whl": [
+          "74cQB1yt2wHpbeSvSQ/lfnh6DVrARtgE6hJ2QmlV5II=",
+          "py3"
+        ]
+      }
+    }
+  },
   "adux": {
     "0.0.1": {
       "sdist": [
@@ -15358,6 +15372,14 @@
       "wheels": {
         "azureml_tensorboard-1.46.0-py3-none-any.whl": [
           "mEbPzSySueUxHtmEGAPqf074UJ0b1W5XugsrDDruJRE=",
+          "py3"
+        ]
+      }
+    },
+    "1.47.0": {
+      "wheels": {
+        "azureml_tensorboard-1.47.0-py3-none-any.whl": [
+          "tDF9yV0hrzSMUqxrHZWC0cRZg15IOnrWo72p4G+/17g=",
           "py3"
         ]
       }
@@ -91345,6 +91367,18 @@
           "py3"
         ]
       }
+    },
+    "1.25.1": {
+      "sdist": [
+        "P9ZG1Cm3QkswdGcRRiJnprBVubcNmDzL0vsU4E5kwWk=",
+        "mypy-boto3-rds-1.25.1.tar.gz"
+      ],
+      "wheels": {
+        "mypy_boto3_rds-1.25.1-py3-none-any.whl": [
+          "QYbRlxf5Xrgq7/1k86gCR59r4axH/mSz0wI7G03h6rI=",
+          "py3"
+        ]
+      }
     }
   },
   "mysocketuntils": {
@@ -135250,6 +135284,66 @@
         ],
         "sqloxide-0.1.22-cp39-cp39-win_amd64.whl": [
           "548lkygbEfkhP9r/4JfR94b6YFpG5EtWQ0JgscxNnCA=",
+          "cp39"
+        ]
+      }
+    },
+    "0.1.26": {
+      "wheels": {
+        "sqloxide-0.1.26-cp310-cp310-macosx_10_9_universal2.whl": [
+          "sjJB+aylJm4tftkvMsrgb1EToodkdMT6X9kG3R84wNg=",
+          "cp310"
+        ],
+        "sqloxide-0.1.26-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "OglCqPVCct08kozGEXpwp66FrAoBEt2guI8aE/O8WVs=",
+          "cp310"
+        ],
+        "sqloxide-0.1.26-cp310-cp310-win_amd64.whl": [
+          "wYJlBHi0Uxn6o9PfQrRp3+bThOwGPfmG4HxcnDKZ8/I=",
+          "cp310"
+        ],
+        "sqloxide-0.1.26-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "8ESylM0C+rEVf1xrZscpPuC9r2zR8DwGc409VT5WbcQ=",
+          "cp311"
+        ],
+        "sqloxide-0.1.26-cp311-cp311-win_amd64.whl": [
+          "5NM31arpmAOUKVfPaGU864JI9+RjIKyJq9VIx0qYy0s=",
+          "cp311"
+        ],
+        "sqloxide-0.1.26-cp37-cp37m-macosx_10_9_universal2.whl": [
+          "k6f0LRuBLI25sVIjaUYJv4XVB2/b/eWpJ7T3MKS1V3o=",
+          "cp37"
+        ],
+        "sqloxide-0.1.26-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "B3t4+9rYwormql3ou2qH1tM0yIiAsMNxaekmDp3jlLA=",
+          "cp37"
+        ],
+        "sqloxide-0.1.26-cp37-cp37m-win_amd64.whl": [
+          "iS0BGtX2uGZ8FtxEISrxQPppAGUzZMMpJM/3mkszF3A=",
+          "cp37"
+        ],
+        "sqloxide-0.1.26-cp38-cp38-macosx_10_9_universal2.whl": [
+          "8HdWKVOqCKrCHqWZXQTvB+HSMrK1MmiUitI30rvjJig=",
+          "cp38"
+        ],
+        "sqloxide-0.1.26-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "t8GkOSs+SZpSuMxWyYfVi79fDVpUVQJz0/pdcUu+ep8=",
+          "cp38"
+        ],
+        "sqloxide-0.1.26-cp38-cp38-win_amd64.whl": [
+          "vxudTPSIr+KMo1QdHIZiTvtblKseyki7Ix9YJxuexFU=",
+          "cp38"
+        ],
+        "sqloxide-0.1.26-cp39-cp39-macosx_10_9_universal2.whl": [
+          "vLXlphU2ZUS8fznKu8fweAp50t4S+XkMTiuTwlrMDC8=",
+          "cp39"
+        ],
+        "sqloxide-0.1.26-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "W2NUciPuM7Q9dT3RieeIRXG1Zc7M6QBKZf0z+mCtbMs=",
+          "cp39"
+        ],
+        "sqloxide-0.1.26-cp39-cp39-win_amd64.whl": [
+          "zSefZIRpAt2wAUldDF6ZWaGjyom5KuWiAKT00EXBzwY=",
           "cp39"
         ]
       }
