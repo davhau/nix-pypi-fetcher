@@ -2347,6 +2347,18 @@
           "py3"
         ]
       }
+    },
+    "3.3.9": {
+      "sdist": [
+        "i5TUJOPfmEI85cWlpAheQwJOb0OqvPqA6PF1DXYnwS4=",
+        "alibabacloud_mts20210728_py2-3.3.9.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_mts20210728_py2-3.3.9-py3-none-any.whl": [
+          "30q3pbA6PM21P7qeNWpJPwMpzM1ilZMWEVV2hL5IpCs=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-pai-dlc20201203-py2": {
@@ -9662,6 +9674,18 @@
         ]
       }
     },
+    "1.179.0": {
+      "sdist": [
+        "1jIAlYZ+UE92ODfmQLpJ47VZ2LGNzXTZ5sfkaksYuhE=",
+        "aws-cdk.aws-apigatewayv2-1.179.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_apigatewayv2-1.179.0-py3-none-any.whl": [
+          "IQvMOg84ueEnz7yugnRZgEyMM2HuNIQ05HW5u2nFFA8=",
+          "py3"
+        ]
+      }
+    },
     "1.22.0": {
       "sdist": [
         "dQnzi+IifEey3cxIAkTlGSZvUF4Yy8E02PQcjmrzMAQ=",
@@ -11844,6 +11868,18 @@
       "wheels": {
         "aws_cdk.lambda_layer_awscli-1.178.0-py3-none-any.whl": [
           "bFD2EqXm83Dc3ot+TMpl+4F05doYFekYDr2R0aUnIJk=",
+          "py3"
+        ]
+      }
+    },
+    "1.179.0": {
+      "sdist": [
+        "g0XxxxsKNmN47Vob/Ffjt/Ce2TOFC7PrGLzYUnxdmLw=",
+        "aws-cdk.lambda-layer-awscli-1.179.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.lambda_layer_awscli-1.179.0-py3-none-any.whl": [
+          "JcZuo+tIMhGbd3S0tk6q3AuA4oDQPkLuS7/aY0k/IN0=",
           "py3"
         ]
       }
@@ -40704,6 +40740,12 @@
         "docker-squash-1.0.1.tar.gz"
       ]
     },
+    "1.0.10": {
+      "sdist": [
+        "z4ji8j4N4QnGY2rL3VxwX6Smozp4O9sIf3ALzQnPhoM=",
+        "docker-squash-1.0.10.tar.gz"
+      ]
+    },
     "1.0.1rc1": {
       "sdist": [
         "wltldOxH33P5vthIuqWkO0O2CCImMqTIiosOMKarMFc=",
@@ -62726,6 +62768,14 @@
       "wheels": {
         "huaweicloudsdkimagesearch-3.1.5-py2.py3-none-any.whl": [
           "Eo515otc4RarwfqZ8rTmzumqazc+GI10HlIUt+zLzDY=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.6": {
+      "wheels": {
+        "huaweicloudsdkimagesearch-3.1.6-py2.py3-none-any.whl": [
+          "PmglOrE0QQv4xvT2bPadbm+7DS+FHA6VNPpGvgnU/iY=",
           "py2.py3"
         ]
       }
@@ -90157,6 +90207,12 @@
         "RlPaVeIckESYRHb62IJdtaMvM76RIGHF/m3Mq0M6nTM=",
         "Nuitka-1.1.6.tar.gz"
       ]
+    },
+    "1.1.7": {
+      "sdist": [
+        "An+eaqXjCmBqcN4OtqT8hfwCo7zwPD5EKvxomx1Agbg=",
+        "Nuitka-1.1.7.tar.gz"
+      ]
     }
   },
   "nvidia-cudnn-cu116": {
@@ -90966,6 +91022,14 @@
       "wheels": {
         "odoo_addon_account_financial_report-15.0.2.0.0.2-py3-none-any.whl": [
           "U/JQVycZnlSsXfMNlAqvP16umyPx31o8y1gSniP/oNg=",
+          "py3"
+        ]
+      }
+    },
+    "15.0.2.0.1": {
+      "wheels": {
+        "odoo_addon_account_financial_report-15.0.2.0.1-py3-none-any.whl": [
+          "9A5xLZFGkSrNSEVBH2HL/vufmk0RpmGkenrjx40ahFs=",
           "py3"
         ]
       }
@@ -100102,6 +100166,42 @@
         ],
         "OpenGeode_core-12.2.7-cp39-cp39-win_amd64.whl": [
           "KHh+x1qn899IOj3jqOFUOCKGXQPxLlStiK2Qj5p96Cs=",
+          "cp39"
+        ]
+      }
+    },
+    "12.3.0": {
+      "wheels": {
+        "OpenGeode_core-12.3.0-cp310-cp310-manylinux2014_x86_64.whl": [
+          "ZPrk6VOyS031RQZxrQ/iKtpBh3PCAIYp7WIi64GPM4U=",
+          "cp310"
+        ],
+        "OpenGeode_core-12.3.0-cp310-cp310-win_amd64.whl": [
+          "GrttuATT9s3idiDzju9ETGafrCC2KMy/iPcDZ+2g3WY=",
+          "cp310"
+        ],
+        "OpenGeode_core-12.3.0-cp37-cp37m-manylinux2014_x86_64.whl": [
+          "cK8lRiFagVTptxtrE0WDdm+yoIswZzZurD8Ttembiwk=",
+          "cp37"
+        ],
+        "OpenGeode_core-12.3.0-cp37-cp37m-win_amd64.whl": [
+          "QdDTMDWmXhZyAjp2cO48DN+NsXNJj/r4zqvY15jMjrM=",
+          "cp37"
+        ],
+        "OpenGeode_core-12.3.0-cp38-cp38-manylinux2014_x86_64.whl": [
+          "iqH1pVtY2PS1AFd3BnvWsvzq/6Wkx5xTMD21c7pBZ0Q=",
+          "cp38"
+        ],
+        "OpenGeode_core-12.3.0-cp38-cp38-win_amd64.whl": [
+          "B6jFzOjGnUY3vP+oaKm8qcPdBaXLAw2vAWgEi9sRCTw=",
+          "cp38"
+        ],
+        "OpenGeode_core-12.3.0-cp39-cp39-manylinux2014_x86_64.whl": [
+          "OWar2hPwFfC60in9VuiQ1/vP69tZXuKap3XaTNzFvsY=",
+          "cp39"
+        ],
+        "OpenGeode_core-12.3.0-cp39-cp39-win_amd64.whl": [
+          "oM0grnGBniBi0+U3SkPjDyVN9KquBUfyalpI/SMwjAI=",
           "cp39"
         ]
       }
@@ -111900,6 +112000,12 @@
     }
   },
   "pulumi-flux": {
+    "0.20.0": {
+      "sdist": [
+        "a5ezGD234FcePfvKtGZzLr2CMb8wfAVN5nJDaCTnFP4=",
+        "pulumi_flux-0.20.0.tar.gz"
+      ]
+    },
     "1.0.0": {
       "sdist": [
         "X/R7cedla4QNf3HF6Oln3qica/mBsVq/VJIEkRPyrJg=",
@@ -146857,6 +146963,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.3": {
+      "sdist": [
+        "bAV4s4DaBdYw8ut2oB5w9SS1G3iUU6e/6has2/1UVc4=",
+        "urbansim_wfrc-0.4.3.tar.gz"
+      ],
+      "wheels": {
+        "urbansim_wfrc-0.4.3-py2-none-any.whl": [
+          "X5QrW5eulQU4qmPjWzRcMB1WYfl4E/u0r70LfcURymE=",
+          "py2"
+        ]
+      }
     }
   },
   "urlauth": {
@@ -152439,6 +152557,20 @@
         "yesaide-1.6.1-py2.py3-none-any.whl": [
           "5vmGuK0351QwzVKINGDHPZ0EH78DyXyM1LeQ9Y6g5mY=",
           "py2.py3"
+        ]
+      }
+    }
+  },
+  "yingyu-shijie-201908-201911": {
+    "2022.10.27.0": {
+      "sdist": [
+        "WXOzNh+YLC9y1rjTJTMHFm8PC5UyewZ7+hI+ZCR8p00=",
+        "yingyu-shijie-201908-201911-2022.10.27.0.tar.gz"
+      ],
+      "wheels": {
+        "yingyu_shijie_201908_201911-2022.10.27.0-py3-none-any.whl": [
+          "S4UYpqe2GYnnSMwlmJox3lHa3O7pf1So/Blm18VPPDQ=",
+          "py3"
         ]
       }
     }
