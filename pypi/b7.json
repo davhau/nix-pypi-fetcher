@@ -7227,6 +7227,18 @@
           "py3"
         ]
       }
+    },
+    "1.179.0": {
+      "sdist": [
+        "MzeXfv55RDPlDv/0CfJmXIFJXg41K1BKLGE+lmhx68Q=",
+        "aws-cdk.integ-tests-1.179.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.integ_tests-1.179.0-py3-none-any.whl": [
+          "1zeWvd8LiSSPRyuwgy3oQUupU+YpvOW14U1cyPgJI0E=",
+          "py3"
+        ]
+      }
     }
   },
   "aws-solutions-constructs.aws-cloudfront-mediastore": {
@@ -13474,6 +13486,18 @@
       "wheels": {
         "cars_forge-1.0.1-py3-none-any.whl": [
           "Cw7A/dQiuVwt++TXkJM93guJg52tjDesKcyf+kRMQn4=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.2": {
+      "sdist": [
+        "MnIvY65nmBTACI2cbAZbTANR9sFgmMgkxjiu9SIAe6Q=",
+        "cars_forge-1.0.2.tar.gz"
+      ],
+      "wheels": {
+        "cars_forge-1.0.2-py3-none-any.whl": [
+          "Djd3fZiRd+3ilPUZyo7ZKPc4buxbemvMcU8HHSqPLJA=",
           "py3"
         ]
       }
@@ -24648,6 +24672,18 @@
       "wheels": {
         "dagstermill-0.16.14-py3-none-any.whl": [
           "AMrlJaDFss2V4taOA1+qYOfmKpU23HoP2NWmj4WXEX8=",
+          "py3"
+        ]
+      }
+    },
+    "0.16.15": {
+      "sdist": [
+        "VDOL8VOS2Mc2x2BywK1SOE8JFy1XogmhFGTUkyYSQ54=",
+        "dagstermill-0.16.15.tar.gz"
+      ],
+      "wheels": {
+        "dagstermill-0.16.15-py3-none-any.whl": [
+          "ICzmbVRBGXrkiJKXxsdMSjApbOBV2Iy4G5hVGXDjZSA=",
           "py3"
         ]
       }
@@ -93403,6 +93439,22 @@
           "py3"
         ]
       }
+    },
+    "3.0.0": {
+      "wheels": {
+        "pds_epitome-3.0.0-py3-none-any.whl": [
+          "roNG3yoabVLlw7h7eaN4o/XqzuBOFJWCjJ8r35yxzAk=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.1": {
+      "wheels": {
+        "pds_epitome-3.0.1-py3-none-any.whl": [
+          "L9YZYCyZpPQu1xlgd+4FycFDL28XC69AqW9XaBuFdvE=",
+          "py3"
+        ]
+      }
     }
   },
   "pelican-alias": {
@@ -103169,6 +103221,18 @@
           "py3"
         ]
       }
+    },
+    "0.0.6": {
+      "sdist": [
+        "Fc4JGu0XfbFYdp9z5T32Y6SzDeC3sYqn90demV87gvE=",
+        "PyQuantimClient-0.0.6.tar.gz"
+      ],
+      "wheels": {
+        "PyQuantimClient-0.0.6-py3-none-any.whl": [
+          "MGfd1bP+kBDPOxMtPx4g6F411a6Wta5O2fHZOXtyfMA=",
+          "py3"
+        ]
+      }
     }
   },
   "pyradios": {
@@ -107611,6 +107675,48 @@
         "quikey-0.1.5-py3-none-any.whl": [
           "YSfStYN8VPUIIzdSl42JrlQOFCsHfVB1vZFyexU9Qi0=",
           "py3"
+        ]
+      }
+    }
+  },
+  "quil": {
+    "0.1.0": {
+      "wheels": {
+        "quil-0.1.0-cp310-cp310-macosx_10_9_x86_64.macosx_11_0_arm64.macosx_10_9_universal2.whl": [
+          "75gIe8AK2JogWwx9M4h4lLoBlLp+UD0Q+dPBjzgA+no=",
+          "cp310"
+        ],
+        "quil-0.1.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "sqgaL94tBiblF/555sONmWpeMix9FGriR9AdyNjDPvg=",
+          "cp310"
+        ],
+        "quil-0.1.0-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "G5oI41Zt4yyl8PvjqR7ifsdSgMlAdKZf0uKSO5anFo4=",
+          "cp310"
+        ],
+        "quil-0.1.0-cp310-none-win32.whl": [
+          "N5lT/j/8XrOTeFdWB956fyyVK/IaNELNOHyGMRiPcjs=",
+          "cp310"
+        ],
+        "quil-0.1.0-cp310-none-win_amd64.whl": [
+          "S300KkLh5vxP5jYMaehGk/Y2GbJt0u+sEuTEWKaxJFI=",
+          "cp310"
+        ],
+        "quil-0.1.0-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "k8WFvBGLwA9aoTJnGrZs0KRlzwdSbyCMF3LVdLi8uHY=",
+          "cp39"
+        ],
+        "quil-0.1.0-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.whl": [
+          "KrWcJl4eAQjw00JVUEDbGHV823h7/QV/8SqwQWjGE1Q=",
+          "cp39"
+        ],
+        "quil-0.1.0-cp39-none-win32.whl": [
+          "JTIUHbwitzgJE6Md+naMJJFihkV2brBtLir8vM4Xs9k=",
+          "cp39"
+        ],
+        "quil-0.1.0-cp39-none-win_amd64.whl": [
+          "eVVwJC94bO7jXXYKEKI8Zq3lNkuVgkz81Tn/ltD0rfs=",
+          "cp39"
         ]
       }
     }
@@ -123151,6 +123257,18 @@
           "py3"
         ]
       }
+    },
+    "0.4.0": {
+      "sdist": [
+        "P6Xo9RGuZQFA5TyqYbX99CAbkVRMq2xAPNFzRqvrshk=",
+        "tap-gladly-0.4.0.tar.gz"
+      ],
+      "wheels": {
+        "tap_gladly-0.4.0-py3-none-any.whl": [
+          "MUEvG2DCCDkTIHfWK/5/r3OUQI9CafD6Fjd+AEAoxZw=",
+          "py3"
+        ]
+      }
     }
   },
   "tchatbot": {
@@ -137451,6 +137569,20 @@
         "GR6bhQvq/4IC0a+QIyg+278Z9+fcSU1jdXZ25/XVb/s=",
         "youtubetofacebook-0.0.2.tar.gz"
       ]
+    }
+  },
+  "yugong-juejin-201911": {
+    "2022.10.28.0": {
+      "sdist": [
+        "yDfNWoQaJybIUg41JWPPBSQRYSkVc5sSuGnGRHaJs4U=",
+        "yugong-juejin-201911-2022.10.28.0.tar.gz"
+      ],
+      "wheels": {
+        "yugong_juejin_201911-2022.10.28.0-py3-none-any.whl": [
+          "X0NTfaI7f++3AILQoKUnAwB8JWFSoZ5n6EUCM2WcMr4=",
+          "py3"
+        ]
+      }
     }
   },
   "yundaaddr": {
