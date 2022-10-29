@@ -48151,6 +48151,34 @@
           "cp38"
         ]
       }
+    },
+    "1.2.3": {
+      "wheels": {
+        "Hecuba-1.2.3-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "PtNA3ihwZ4+9JtV4/eIqMrmCILFW6SRRja7w+tkqOM8=",
+          "cp310"
+        ],
+        "Hecuba-1.2.3-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "4smLZ7c1obVAHd0SsB7zX70Ezlb7H4Eo+/uuGLm8dlQ=",
+          "cp311"
+        ],
+        "Hecuba-1.2.3-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "11k5mpJPMKVS5tcaF+ZX3U6OTjuLIjUgpI0FHVMTuGg=",
+          "cp36"
+        ],
+        "Hecuba-1.2.3-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "AdcV9+Qty723qJoY8IDd6IcxIGFb2ox2VIDbEczXC/A=",
+          "cp37"
+        ],
+        "Hecuba-1.2.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "lqE6oAbfvsQ0yom6e6Y0D8v3H5GUO3r5W/Qcc9rwTvI=",
+          "cp38"
+        ],
+        "Hecuba-1.2.3-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "doFveVxEUsGIYUBFwoVZJwuwbSP0CKskvB/nHEsnSvE=",
+          "cp39"
+        ]
+      }
     }
   },
   "helen-db": {
@@ -61677,6 +61705,12 @@
           "py3"
         ]
       }
+    },
+    "0.0.5": {
+      "sdist": [
+        "yp4hr+LE1VgIuSRu/r9xRv7q8W+XSsbXzMUpFsHK8RE=",
+        "licorice-0.0.5.tar.gz"
+      ]
     }
   },
   "liftpose": {
@@ -79928,6 +79962,10 @@
       "wheels": {
         "OctoBot_Trading-2.2.24-cp38-cp38-macosx_10_15_x86_64.whl": [
           "kesGTUERnUvf70XvFDiRXDFJJbRr3bzV6OYG2RORsa0=",
+          "cp38"
+        ],
+        "OctoBot_Trading-2.2.24-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
+          "4ZmMwb66CbOGw+G4JPUuUr4rrX2XDEO1J78HALnwMmM=",
           "cp38"
         ],
         "OctoBot_Trading-2.2.24-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -119201,6 +119239,20 @@
       ]
     }
   },
+  "skywinder-analysis": {
+    "0.0.2": {
+      "sdist": [
+        "z0QEjvW3k13vmhaCj10eLtVSLQZrPmTRmaMlx9ONFLs=",
+        "SkyWinder-Analysis-0.0.2.tar.gz"
+      ],
+      "wheels": {
+        "SkyWinder_Analysis-0.0.2-py3-none-any.whl": [
+          "2lNP9KXbMyXS/jM+2SWGj002hGnjCLfT438RVhA1fco=",
+          "py3"
+        ]
+      }
+    }
+  },
   "sleep360": {
     "0.1.0": {
       "sdist": [
@@ -120864,6 +120916,48 @@
       "wheels": {
         "soundscapy-0.3.6-py3-none-any.whl": [
           "8GSOP+8uXUgy3q10vxrhMCAdkOAuWbANMzdoOT/vQ5Y=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "source-azure-table": {
+    "1.0.0": {
+      "sdist": [
+        "fJFoUq0SfS8F6GrgBTOsZ11OljhJYvn+O6/7wsx91hk=",
+        "source-azure-table-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "source_azure_table-1.0.0-py3-none-any.whl": [
+          "4QS8qrQwRQ4bT7NHdBpKZVYfFNXS08MYD+kVYqSrBgA=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "source-confluence": {
+    "1.0.0": {
+      "sdist": [
+        "pkww+v+kBKrafHQkpEG0KOKo9YPjziVkAebGHggRfdM=",
+        "source-confluence-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "source_confluence-1.0.0-py3-none-any.whl": [
+          "mJeU1zZpMDTGON8QwA5U7T+kmhX3vbiDTiD8hoFeaXc=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "source-lemlist": {
+    "1.0.0": {
+      "sdist": [
+        "8iw0CMEw13UUpu8F7CfKKlROQhS+GOBTflICHhLHorY=",
+        "source-lemlist-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "source_lemlist-1.0.0-py3-none-any.whl": [
+          "6wlXL2hwgWRLHfQBCsdLn4lA9v+xuNWSYw+wOpzy5z8=",
           "py3"
         ]
       }
@@ -129876,6 +129970,32 @@
       "wheels": {
         "texlite-1.2.1-py3-none-any.whl": [
           "+ibQ5ZUhKZIAfXqmUQBjlscn0Xy4W7KT9AaFdDcrOQs=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "textnicer": {
+    "0.0.3": {
+      "sdist": [
+        "ak5rRXPWortU/ql5EdLLGBBGfw23MEXV6JwCGc2EiJo=",
+        "textnicer-0.0.3.tar.gz"
+      ],
+      "wheels": {
+        "textnicer-0.0.3-py3-none-any.whl": [
+          "+v1wKSL0m+cX7AHdTUqTcv7Pb0tSvMY4DPtmjc4asTE=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.4": {
+      "sdist": [
+        "BUp4o8kVr+7ADzry/Y2og/L0HAcRVi8S4Af9GoEH8KY=",
+        "textnicer-0.0.4.tar.gz"
+      ],
+      "wheels": {
+        "textnicer-0.0.4-py3-none-any.whl": [
+          "IEXw4hJkOJOSCEavou7w647pKY0DBkWH4F6CBF82U+g=",
           "py3"
         ]
       }
@@ -139868,6 +139988,20 @@
       "wheels": {
         "zhongji_taluo_aoyi-2022.8.10.0-py3-none-any.whl": [
           "NxJlFtgiWv71vJn0tsF3+TiE28K3J6d688cy85K0fig=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "zhuoke-kexue-siwei-bixiuke-201712-201802": {
+    "2022.10.29.0": {
+      "sdist": [
+        "6rK2UDOayA+WQdORPttONB0XiahkuaNczQypY4/dNtE=",
+        "zhuoke-kexue-siwei-bixiuke-201712-201802-2022.10.29.0.tar.gz"
+      ],
+      "wheels": {
+        "zhuoke_kexue_siwei_bixiuke_201712_201802-2022.10.29.0-py3-none-any.whl": [
+          "7gA87ScZHj+bqDxOu/gejP4ABNXUGBpWvvyMU/5wMl4=",
           "py3"
         ]
       }
