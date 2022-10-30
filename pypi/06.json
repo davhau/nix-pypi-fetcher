@@ -95762,34 +95762,6 @@
         ]
       }
     },
-    "3.7.11.dev12": {
-      "wheels": {
-        "ovito-3.7.11.dev12-cp310-cp310-macosx_12_0_arm64.whl": [
-          "K8itg+6iHRErNv0TwSvVfkSsif24hiinISTBvoQpLFw=",
-          "cp310"
-        ],
-        "ovito-3.7.11.dev12-cp310-cp310-manylinux1_x86_64.whl": [
-          "OxSvdAfMtDiC82fUy4X3sbVd7AycoN6L+D87n6uadTQ=",
-          "cp310"
-        ],
-        "ovito-3.7.11.dev12-cp311-cp311-macosx_12_0_arm64.whl": [
-          "5LTotzkujtF9zp4jgkVTve8ppIIJweVgS23f27hHZHk=",
-          "cp311"
-        ],
-        "ovito-3.7.11.dev12-cp311-cp311-manylinux1_x86_64.whl": [
-          "VGqzZB31BcCUnn8nVFOvepOlSwA6w7IHQeXZjvnWi3s=",
-          "cp311"
-        ],
-        "ovito-3.7.11.dev12-cp39-cp39-macosx_12_0_arm64.whl": [
-          "RmHqWbyU1oKlP7p8ZgMq6aMTj5nX5SOvBlHkR9SMjBE=",
-          "cp39"
-        ],
-        "ovito-3.7.11.dev12-cp39-cp39-manylinux1_x86_64.whl": [
-          "R12BtnPpNyQB5D7BaHdGM82Qwha+sHtyexd4hEFTob8=",
-          "cp39"
-        ]
-      }
-    },
     "3.7.11.post1": {
       "wheels": {
         "ovito-3.7.11.post1-cp310-cp310-macosx_10_14_universal2.whl": [
@@ -96366,42 +96338,6 @@
         ],
         "ovito-3.7.9.post9-cp39-cp39-win_amd64.whl": [
           "145WmsKzIJktJwLx02gEUOmbgHsN11C7dnkSzOvD1ZY=",
-          "cp39"
-        ]
-      }
-    },
-    "3.8.0.dev16": {
-      "wheels": {
-        "ovito-3.8.0.dev16-cp310-cp310-macosx_10_14_universal2.whl": [
-          "oX9AGJtGNpvkiuGmY7sP+kUcTviyLiDk6xiJdO6k/yw=",
-          "cp310"
-        ],
-        "ovito-3.8.0.dev16-cp310-cp310-macosx_12_0_arm64.whl": [
-          "wyBXmx4HSS+kZPlNGH6YLDbBiaaThQuziIwVkizMeZg=",
-          "cp310"
-        ],
-        "ovito-3.8.0.dev16-cp310-cp310-manylinux1_x86_64.whl": [
-          "Wf+/lYPBxQhfyVm3qeOtx7LHhoGzM9aF27W83lQiuCo=",
-          "cp310"
-        ],
-        "ovito-3.8.0.dev16-cp310-cp310-win_amd64.whl": [
-          "fwQ7lUe8E2ohVx90WPKrrzQ31rGfS/Nwgc9lEVFo+YY=",
-          "cp310"
-        ],
-        "ovito-3.8.0.dev16-cp39-cp39-macosx_10_14_x86_64.whl": [
-          "fNGtR1kAYPpj5t8bdF3L3aQW2kIr1wkw6nGy7fucBmo=",
-          "cp39"
-        ],
-        "ovito-3.8.0.dev16-cp39-cp39-macosx_12_0_arm64.whl": [
-          "SoWzmw0m6rmUgxFRcQDczSjz6SmH0Nmi49agonCyHHw=",
-          "cp39"
-        ],
-        "ovito-3.8.0.dev16-cp39-cp39-manylinux1_x86_64.whl": [
-          "Bz0OxAP4CG9QVKxXRcyFO4Rq4kPlyA3xKcqn4yheaB4=",
-          "cp39"
-        ],
-        "ovito-3.8.0.dev16-cp39-cp39-win_amd64.whl": [
-          "26XGMn7hd3hQIYXosaTkvKYDk4iBK2ufReGOT48QPWA=",
           "cp39"
         ]
       }
@@ -130279,6 +130215,22 @@
           "py3"
         ]
       }
+    },
+    "2.1": {
+      "wheels": {
+        "rmg_numerical_integration-2.1-py3-none-any.whl": [
+          "7QU1mxdPHk+mVz1fdLsjLe95O7Tb+rA3GUSKFXiU8q0=",
+          "py3"
+        ]
+      }
+    },
+    "2.2": {
+      "wheels": {
+        "rmg_numerical_integration-2.2-py3-none-any.whl": [
+          "stEgWllx+Tno1rt0Py6SaiCsOKYi1mKGcBZHEsc8qp8=",
+          "py3"
+        ]
+      }
     }
   },
   "rnbgrader": {
@@ -159734,6 +159686,20 @@
       "wheels": {
         "yige_shequnrende_zibai-2022.10.10.0-py3-none-any.whl": [
           "0qaY3913bI0/Sg5Ft9OjTsYJ/ohUJVD7/K+G4lhizPk=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "yingyu-kouyu-xiaozhen-202111-202202": {
+    "2022.10.30.0": {
+      "sdist": [
+        "+lA//u05r7vvaa56Wamr1GZhK3zy75QuDu/7k0tyiDM=",
+        "yingyu-kouyu-xiaozhen-202111-202202-2022.10.30.0.tar.gz"
+      ],
+      "wheels": {
+        "yingyu_kouyu_xiaozhen_202111_202202-2022.10.30.0-py3-none-any.whl": [
+          "DDXF5NLW4bLHHLw5VY29XWR+5AgOCdkvf+6NwyaqEzI=",
           "py3"
         ]
       }
