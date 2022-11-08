@@ -1743,6 +1743,18 @@
           "py3"
         ]
       }
+    },
+    "2.0.1": {
+      "sdist": [
+        "fY4Cr06RqbElg3SrXKgZCZIcDN2pg9CWA/xP319PzFQ=",
+        "ail-typo-squatting-2.0.1.tar.gz"
+      ],
+      "wheels": {
+        "ail_typo_squatting-2.0.1-py3-none-any.whl": [
+          "X/Gl4CRdtIbbOplZ6+ap5IsHLyv+4pjhZmRBS6RyExs=",
+          "py3"
+        ]
+      }
     }
   },
   "aiocleverbot": {
@@ -12024,6 +12036,18 @@
       "wheels": {
         "aws_prototyping_sdk.cloudscape_react_ts_website-0.12.8-py3-none-any.whl": [
           "WeHJyvkTZY5GF1/J/LccMlFc1UTci4j4JNVWkqTmJR8=",
+          "py3"
+        ]
+      }
+    },
+    "0.12.9": {
+      "sdist": [
+        "8aFj2nprDYwbOoIZp7r8deSz+N0CsA37x4hyKwGKB28=",
+        "aws_prototyping_sdk.cloudscape_react_ts_website-0.12.9.tar.gz"
+      ],
+      "wheels": {
+        "aws_prototyping_sdk.cloudscape_react_ts_website-0.12.9-py3-none-any.whl": [
+          "CNtOebxlb9flC28DfBnLZvCauMMxJiN7qlEz/0uPPQ8=",
           "py3"
         ]
       }
@@ -58199,6 +58223,14 @@
           "py2.py3"
         ]
       }
+    },
+    "3.1.9": {
+      "wheels": {
+        "huaweicloudsdkosm-3.1.9-py2.py3-none-any.whl": [
+          "M3zrOXudvRdy0Av4wI6Ya0Ce9j9F5T/YtexYp+KMHvs=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "hub-driver-handler": {
@@ -98224,6 +98256,14 @@
           "DZk3MgKQtT0VQGD1Y2r06iDeeO2z+qe40PwedBZV94Q=",
           "cp310"
         ],
+        "otmixmod-0.13.post4-cp310-cp310-win_amd64.whl": [
+          "o/6tyHspAxnzMIJUZ9Qte/vHV9t9R2Xp+KwVLxEiA7s=",
+          "cp310"
+        ],
+        "otmixmod-0.13.post4-cp311-cp311-win_amd64.whl": [
+          "2IEwBzMCDx0mu494vlvyTTLP9pk1kvZgdzTUmltJBTw=",
+          "cp311"
+        ],
         "otmixmod-0.13.post4-cp37-cp37m-manylinux2014_x86_64.whl": [
           "Fjgv83dQ1lqloFVJ6UxIMSSSOZRoN4G+9zr/3EkSIDM=",
           "cp37"
@@ -98232,8 +98272,60 @@
           "PJ5Ry5uRA3lFDDdRq+jjPq0Wpt/sJLUOVd8n8ckcR6w=",
           "cp38"
         ],
+        "otmixmod-0.13.post4-cp38-cp38-win_amd64.whl": [
+          "TVFVNbT/12Vg6qVBAYChnYRtIjY1vdxMJsqFCu/klbk=",
+          "cp38"
+        ],
         "otmixmod-0.13.post4-cp39-cp39-manylinux2014_x86_64.whl": [
           "ABOEVEdI/+4sG4J4cGUX2w83sYMuLg4w3rMHUspigRk=",
+          "cp39"
+        ],
+        "otmixmod-0.13.post4-cp39-cp39-win_amd64.whl": [
+          "xyT8i4VBQ2Nik/dBN0LS4gu8Zf6OjQtOkc70Rj+j+AM=",
+          "cp39"
+        ]
+      }
+    },
+    "0.13.post5": {
+      "wheels": {
+        "otmixmod-0.13.post5-cp310-cp310-manylinux2014_x86_64.whl": [
+          "A80lDiW3lF9mLJjYQA8y9AjTER3dc4Uqfzi7tUZ2kj4=",
+          "cp310"
+        ],
+        "otmixmod-0.13.post5-cp311-cp311-manylinux2014_x86_64.whl": [
+          "PnFY/IIl1kgkDjKiljlFzUONvU5nSoZXTPxadJ3ZiRo=",
+          "cp311"
+        ],
+        "otmixmod-0.13.post5-cp38-cp38-manylinux2014_x86_64.whl": [
+          "FEqX0jDYctWODcseW+3xhWeLGsYUmXCCB8+gi+doR58=",
+          "cp38"
+        ],
+        "otmixmod-0.13.post5-cp39-cp39-manylinux2014_x86_64.whl": [
+          "u8vsHUhHfLs9k3HjK6YUKeNU2r0jco7Z240pORQ5IkY=",
+          "cp39"
+        ]
+      }
+    },
+    "0.13.post6": {
+      "wheels": {
+        "otmixmod-0.13.post6-cp310-cp310-manylinux2014_x86_64.whl": [
+          "Jh2qzdrEXc7DkWONmQ6cXpvSJj+/7D1QLAh2pm8dlMg=",
+          "cp310"
+        ],
+        "otmixmod-0.13.post6-cp311-cp311-manylinux2014_x86_64.whl": [
+          "ZUJONRLYFj8HOt2LNFJXIZJqp4WlorQZ3n/7ChhD0TQ=",
+          "cp311"
+        ],
+        "otmixmod-0.13.post6-cp38-cp38-manylinux2014_x86_64.whl": [
+          "C10ZMaBbzlbhgMRIEvdOyTYN388Qv+kEXioQOGH2ZDw=",
+          "cp38"
+        ],
+        "otmixmod-0.13.post6-cp38-cp38-win_amd64.whl": [
+          "62CvE6Zy6BuXJAR3L59nFebhVPxDrSsvx6l639cKNiY=",
+          "cp38"
+        ],
+        "otmixmod-0.13.post6-cp39-cp39-manylinux2014_x86_64.whl": [
+          "cM9Y0vmkXpp72Mt/P+lNdxKgVxpJqgTcorNybqcVtPg=",
           "cp39"
         ]
       }
@@ -139334,6 +139426,18 @@
       "wheels": {
         "triage-5.2.1-py2.py3-none-any.whl": [
           "nnILFtYUv3YwiQ0SEUv5WhhY0D6AboTf1pZmZMW9vJ0=",
+          "py2.py3"
+        ]
+      }
+    },
+    "5.2.2": {
+      "sdist": [
+        "dMyZzPJm+khko3b3BTkFnD7wK3wOA1bCQ/FMmpe/XSs=",
+        "triage-5.2.2.tar.gz"
+      ],
+      "wheels": {
+        "triage-5.2.2-py2.py3-none-any.whl": [
+          "+7lfqiyKUSQ5RfX0ATN1d0dV3/fyJUn2dsc+SFyF2Oc=",
           "py2.py3"
         ]
       }
