@@ -8854,6 +8854,18 @@
         ]
       }
     },
+    "2.0.19": {
+      "sdist": [
+        "M9+NUxswXw8kKKclUUUiQrg32nVmPh63IwqQEfS5dYk=",
+        "aws-cdk.lambda-layer-kubectl-v24-2.0.19.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.lambda_layer_kubectl_v24-2.0.19-py3-none-any.whl": [
+          "FMwE40Bn+G2AAGb7UsyVYABpz/nIbvAt4ku4XuV1T4E=",
+          "py3"
+        ]
+      }
+    },
     "2.0.2": {
       "sdist": [
         "t/7ftYU6q3KDpkf59v7gYL4+WnFSMJ6mEh04XYfYdQU=",
@@ -22003,6 +22015,104 @@
         "cpylog-1.5.0-py3-none-any.whl": [
           "aY99miSFnCKXP+HJh8ojOAu4TTnv2qjkwkobVG9QAws=",
           "py3"
+        ]
+      }
+    }
+  },
+  "cqdm": {
+    "1.0": {
+      "wheels": {
+        "cqdm-1.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "q19v3XjqZn1VAWkdx5UNEWMYLcnNe3FQtJzzTS1Hnv0=",
+          "cp310"
+        ],
+        "cqdm-1.0-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "qab7NoNyG2j29V3NCUs+gt2UbUehTu5QsNtZK/KB8sU=",
+          "cp36"
+        ],
+        "cqdm-1.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "LZkLw6xpdYW2tLjCVlUPdtmQ7TuELS/uBvWEJrFV4XI=",
+          "cp37"
+        ],
+        "cqdm-1.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "9R8Vag9AS4aaXRJf3AXtxcsSayrJYCut9KC5+EtzEMI=",
+          "cp38"
+        ],
+        "cqdm-1.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "t1O14irCBawXu9Bd4ZM3jN/z9iLz0LusbEcIslkoXQs=",
+          "cp39"
+        ],
+        "cqdm-1.0-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "OOYqYaYcXjE78qsWcH45wM+reFQBOYCDM/kOBrnUB0c=",
+          "pp37"
+        ],
+        "cqdm-1.0-pp38-pypy38_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "vo3naeeosLjqf3QyeP05WPj00ApTXsng6gAbMBZxSPw=",
+          "pp38"
+        ]
+      }
+    },
+    "1.0.1": {
+      "wheels": {
+        "cqdm-1.0.1-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "NfvoRp+AmW3L/fcvdOFlncMJN7j27M0iAA0IIEATKoU=",
+          "cp310"
+        ],
+        "cqdm-1.0.1-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "CBYEz38VYEFqydUWSpvQ3RgU/iua6Vomh0WQsm7ajMA=",
+          "cp36"
+        ],
+        "cqdm-1.0.1-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "nYMyh2nr3Wj7Z2zStasy62BhO5JAGcf2++RIZAia+2g=",
+          "cp37"
+        ],
+        "cqdm-1.0.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "B4stISNT9OPWZHPMxpN51CvL8fJ8weV3Vn6sy8Hb4nU=",
+          "cp38"
+        ],
+        "cqdm-1.0.1-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "73C5ccwArFBSQu5kO9WaCSdm/1NS6yCMvJJuK9CB0sQ=",
+          "cp39"
+        ],
+        "cqdm-1.0.1-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "pdIoOZX3xgmhOhbUluhMkUBEL6N8FoaJPeJNhlmwnCs=",
+          "pp37"
+        ],
+        "cqdm-1.0.1-pp38-pypy38_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "X13B7Cjc/xB7EsIORNBBKlIjayngxjsJG50P/9BxAqg=",
+          "pp38"
+        ]
+      }
+    },
+    "1.0.2": {
+      "wheels": {
+        "cqdm-1.0.2-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "F2UCVFrTZgZ+wvVZgMtIZJRH1lP/caFT25lzFyPRMy4=",
+          "cp310"
+        ],
+        "cqdm-1.0.2-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "BJhZIEfPqK+i+pmTPUNxvQxiQyOS/Mo+Do5wknEDd5g=",
+          "cp36"
+        ],
+        "cqdm-1.0.2-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "t3VBDqhlsm4EuKaV03PbBt7rKfiuwz6YWIMpAnRy3So=",
+          "cp37"
+        ],
+        "cqdm-1.0.2-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "8CwNJq+O3VyMRX8B+P6nY8AN6OKjk/Kryw2H8cluw8w=",
+          "cp38"
+        ],
+        "cqdm-1.0.2-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "qW31S2jRDwyKkMdDTPfQ20UrdXrLPqzZ0kHsR1H3iPY=",
+          "cp39"
+        ],
+        "cqdm-1.0.2-pp37-pypy37_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "dKw4MCCWYYRDW9ZOmFWWEIKJgxkLsEChIN3QqsOztpU=",
+          "pp37"
+        ],
+        "cqdm-1.0.2-pp38-pypy38_pp73-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "fjtM9fS/h0W48Z00l5meGNx3c7Fj0pCbBDIYFbvMnaM=",
+          "pp38"
         ]
       }
     }
@@ -38416,6 +38526,18 @@
       "wheels": {
         "ditat_etl-1.5.9-py3-none-any.whl": [
           "jBSzinrzO6snLR3TSojJSKptXg5wcE9NXbp+pOI+PU4=",
+          "py3"
+        ]
+      }
+    },
+    "1.6.0": {
+      "sdist": [
+        "zQx0yvFVUYiATlc2j6W9t8lpH0kh9lmK4fmSgT4LHCo=",
+        "ditat_etl-1.6.0.tar.gz"
+      ],
+      "wheels": {
+        "ditat_etl-1.6.0-py3-none-any.whl": [
+          "mAHcMNK2uFaEtTLHfzcy3lFlrHcIqcTcRNi2Vf1AAtc=",
           "py3"
         ]
       }
@@ -132939,6 +133061,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.767": {
+      "sdist": [
+        "feevPc+Va2bMbKvAVo3YrSA16UQZE2VzqmYXotuZJyU=",
+        "tencentcloud-sdk-python-advisor-3.0.767.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_advisor-3.0.767-py2.py3-none-any.whl": [
+          "OIPPrRm2j3SQC2q1P9y6Wc6s6RiC0QIH/aA/k9azQaQ=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "tencentcloud-sdk-python-mmps": {
@@ -134126,6 +134260,18 @@
       "wheels": {
         "tencentcloud_sdk_python_mmps-3.0.766-py2.py3-none-any.whl": [
           "yvCP4BR5ObMczpvBzvYNKUeTC3denrvWdRLqySU1UBM=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.0.767": {
+      "sdist": [
+        "iOvjs/pl2z5dUtKrLrymOBE/gKvV5UuTN8abYcOR8lo=",
+        "tencentcloud-sdk-python-mmps-3.0.767.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_mmps-3.0.767-py2.py3-none-any.whl": [
+          "WyYVytBdiItm7bhePHR+p27gX0GTHvwu3ElPytFzz/0=",
           "py2.py3"
         ]
       }
@@ -138200,6 +138346,18 @@
       "wheels": {
         "utils_package_Martin36-0.0.7-py3-none-any.whl": [
           "iY/ogCtSaa1Q6fkFEDQl25Ztr7Z++Go2dvL83RDKW3o=",
+          "py3"
+        ]
+      }
+    },
+    "0.0.8": {
+      "sdist": [
+        "6O1AaEOnmrkilMZiqDMFdx72UThiNsf9HpjQ0ROZXzU=",
+        "utils-package-Martin36-0.0.8.tar.gz"
+      ],
+      "wheels": {
+        "utils_package_Martin36-0.0.8-py3-none-any.whl": [
+          "YEgL0F/am8xOZ8UcRGJmpSWHT0bktQPKTWO/JGg4hyY=",
           "py3"
         ]
       }

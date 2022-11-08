@@ -2163,6 +2163,14 @@
           "py3"
         ]
       }
+    },
+    "0.5.3b20221107": {
+      "wheels": {
+        "aglite_test-0.5.3b20221107-py3-none-any.whl": [
+          "pjlM7hDkqoWc2nakWo5Pwl9ZGd4x4B72JXk2HNZ03ow=",
+          "py3"
+        ]
+      }
     }
   },
   "ahmadproject": {
@@ -50700,14 +50708,6 @@
     }
   },
   "jchess": {
-    "0.0.0": {
-      "wheels": {
-        "jchess-0.0.0-py3-none-any.whl": [
-          "9ur2msadmliILpGY9a80jWPbe4cHZHQxAQofGEV2AdQ=",
-          "py3"
-        ]
-      }
-    },
     "0.0.1": {
       "sdist": [
         "QD0t1s6CIGcxkiEkHdZ9OVXb9wmcVCSQ/CJaNMJ3gWU=",
@@ -83301,6 +83301,18 @@
           "py3"
         ]
       }
+    },
+    "4.8.3": {
+      "sdist": [
+        "Z86MNZge6UzFKhUcHA0VEp//90MSdy5QcnFnCq159WI=",
+        "openTEPES-4.8.3.tar.gz"
+      ],
+      "wheels": {
+        "openTEPES-4.8.3-py3-none-any.whl": [
+          "SyKk3fkTSsKoqkipCzCctt9oJR91kdHP9rF/QsBcakw=",
+          "py3"
+        ]
+      }
     }
   },
   "openvino-python": {
@@ -101510,6 +101522,78 @@
         ],
         "qat_comm-1.3.5-cp39-cp39-macosx_11_0_arm64.whl": [
           "QUvajfIDmtKH13RxGrRSMUZgmoG+evzT7z6rvNWMUaQ=",
+          "cp39"
+        ]
+      }
+    },
+    "1.4.0": {
+      "wheels": {
+        "qat_comm-1.4.0-cp310-cp310-macosx_10_9_intel.whl": [
+          "B+tlmhOZ1Biwr87bD1+iB9J1AGPEKk442UpjaXcAEPw=",
+          "cp310"
+        ],
+        "qat_comm-1.4.0-cp310-cp310-macosx_11_0_arm64.whl": [
+          "9Pu6r3jADhbLIUbdBxKWz3g4h//oaPLhifIKKjNDyWM=",
+          "cp310"
+        ],
+        "qat_comm-1.4.0-cp310-cp310-manylinux1_x86_64.whl": [
+          "YTOomXJ5zVNCp4NuITlO70WuIdtUdUzyRrwJjduW0tw=",
+          "cp310"
+        ],
+        "qat_comm-1.4.0-cp310-cp310-win_amd64.whl": [
+          "oZBEI+XEsRc+P9vPqflwrALw2f3x5YgxU0o+gV72QKY=",
+          "cp310"
+        ],
+        "qat_comm-1.4.0-cp36-cp36m-macosx_10_9_intel.whl": [
+          "AmgfpPbcC8qhIaFAxLWHr8LBy/BODRaPPvJhJbhkRuA=",
+          "cp36"
+        ],
+        "qat_comm-1.4.0-cp36-cp36m-manylinux1_x86_64.whl": [
+          "DZY7fAe7UswN2kn4Vsix0EEXGTb1DhW9VpFkxfuR5sI=",
+          "cp36"
+        ],
+        "qat_comm-1.4.0-cp36-cp36m-win_amd64.whl": [
+          "m/WWznGA1Pm7pviiSlrRWHDGWb6y9GFHjQMSG1fTLiw=",
+          "cp36"
+        ],
+        "qat_comm-1.4.0-cp37-cp37m-macosx_10_9_intel.whl": [
+          "+82yB9Bnzp8trcjdtSDC6EZwDU2V4m7Ew8PRcnabnUU=",
+          "cp37"
+        ],
+        "qat_comm-1.4.0-cp37-cp37m-win_amd64.whl": [
+          "TwgevFMwV1kOyOTJ9C56+HU85aCFXmSB5vvshvJChEQ=",
+          "cp37"
+        ],
+        "qat_comm-1.4.0-cp38-cp38-macosx_10_9_intel.whl": [
+          "5TN1vSj94WB+VKgrwHZwpYlN2MvLNExQlzsawI8h16I=",
+          "cp38"
+        ],
+        "qat_comm-1.4.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "CmL6CmX+DnN1N+uKbfOpCPVQKuUV3S1c2tzOaOpDoNk=",
+          "cp38"
+        ],
+        "qat_comm-1.4.0-cp38-cp38-manylinux1_x86_64.whl": [
+          "5o2TghjKOoU8zDn9XY7jSaJvmp6GHNzRaylIUnNE0X4=",
+          "cp38"
+        ],
+        "qat_comm-1.4.0-cp38-cp38-win_amd64.whl": [
+          "gA62O9oQJBUWgTrhaqBlimYZ2J9Wc/KQdRlb9mGwif4=",
+          "cp38"
+        ],
+        "qat_comm-1.4.0-cp39-cp39-macosx_10_9_intel.whl": [
+          "8ThdFukezbAWH4MeSdOWr6RT1pumnNaqRkFYGBC/8RQ=",
+          "cp39"
+        ],
+        "qat_comm-1.4.0-cp39-cp39-macosx_11_0_arm64.whl": [
+          "weHjs0Df89qMKNH77afT4xU3i8+Jmsjo3ypJEq5WLhM=",
+          "cp39"
+        ],
+        "qat_comm-1.4.0-cp39-cp39-manylinux1_x86_64.whl": [
+          "8zhPqRi/jbrwwh1XtB87u4OmX60ANgRIucXTefarJeM=",
+          "cp39"
+        ],
+        "qat_comm-1.4.0-cp39-cp39-win_amd64.whl": [
+          "QZqlhyhUkkkUjfqRm9tz1CRhfvwazqouqBvcypRzOSk=",
           "cp39"
         ]
       }
