@@ -22502,6 +22502,12 @@
         "constellation-0.0.12.tar.gz"
       ]
     },
+    "0.0.13": {
+      "sdist": [
+        "qmOdEgpqAQ6jRfak6STVa/ymm9/TOhHTKmSl483FNoo=",
+        "constellation-0.0.13.tar.gz"
+      ]
+    },
     "0.0.2": {
       "sdist": [
         "tWRpUumwHwewZLQnQo7Sab25ZTF4Klzu7jVMqy+MGxg=",
@@ -24962,6 +24968,12 @@
       "sdist": [
         "r/xzWgJ8yL7sd2SlxZF9is0JptM66RQzrQ7bEF6Tw1k=",
         "cryoloBM-1.4.10b1.tar.gz"
+      ]
+    },
+    "1.4.10b2": {
+      "sdist": [
+        "KzasRfZFmjDb9SgP6A0rC6qL8h8IVQYVl7BZEgWnAkY=",
+        "cryoloBM-1.4.10b2.tar.gz"
       ]
     },
     "1.4.2": {
@@ -45512,6 +45524,30 @@
       "wheels": {
         "dune_client-0.2.0b1-py3-none-any.whl": [
           "3t6oyNMV3wkY+sgM/P1ODIPPiNvQ7urNak6MzTbubXo=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0b2": {
+      "sdist": [
+        "hEUtceFuRjxkiHVehHGzqH3uqHjJ6z1kbzytNLyYBrA=",
+        "dune_client-0.2.0b2.tar.gz"
+      ],
+      "wheels": {
+        "dune_client-0.2.0b2-py3-none-any.whl": [
+          "dEyG0tSnz8NVmw8tYt+3flmd23XLnrsK/aEmN4eQ9gM=",
+          "py3"
+        ]
+      }
+    },
+    "0.2.0b3": {
+      "sdist": [
+        "CtrYBv5Ndu9MAA9s18a3k3GhcSyUERVcj4uB45femAY=",
+        "dune_client-0.2.0b3.tar.gz"
+      ],
+      "wheels": {
+        "dune_client-0.2.0b3-py3-none-any.whl": [
+          "DHPxleGSbJdEoEXDPgLSeodrWqFM8R8fABVzBr8aYkY=",
           "py3"
         ]
       }
@@ -70372,6 +70408,58 @@
         ]
       }
     },
+    "7.11.1.dev20221116": {
+      "wheels": {
+        "lalsuite-7.11.1.dev20221116-cp310-cp310-macosx_10_15_x86_64.whl": [
+          "FxP2E/L5NGDGlwUzeTyKRjYM5Oyh8aicNiWBDnTR4Ss=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221116-cp310-cp310-macosx_12_0_arm64.whl": [
+          "utFZZDxdiGkbIzxRXQO58MbPpL3IhOsTmSaRxN6xcIE=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221116-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "HxmIBDiT77GyA+TZhP3huNR5SZbXYIrvJPsrNgEN2Lw=",
+          "cp310"
+        ],
+        "lalsuite-7.11.1.dev20221116-cp311-cp311-macosx_10_15_x86_64.whl": [
+          "OnAAtuaxSUxOGBO84fby6VbEGIahPQ+skI18YSpiuOA=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221116-cp311-cp311-macosx_12_0_arm64.whl": [
+          "iIH6RyU6J24G92fp6ZKYgeUHJRJs1jAd40oUmkcppu4=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221116-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "VodF9uZN0jXl7QiLy3TezEw5OuCHKhdBbnVo/KawLeU=",
+          "cp311"
+        ],
+        "lalsuite-7.11.1.dev20221116-cp38-cp38-macosx_10_15_x86_64.whl": [
+          "TmsV5rgZSibcG6DmXm9Njx738Xf4qQdmhCS8rQPZQjM=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221116-cp38-cp38-macosx_12_0_arm64.whl": [
+          "5lCJda7O2AWGRvf5hLHEvMLp4hyfpbyZpojNBhnOFIs=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221116-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "cJSBnhGYSaZqI/d8fkNSUAuHkeceQPIljao/ZRs2DD8=",
+          "cp38"
+        ],
+        "lalsuite-7.11.1.dev20221116-cp39-cp39-macosx_10_15_x86_64.whl": [
+          "08gpGmmbqlYDHOsewZsZiEpGjUbSnklHbtAPoguq6gg=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221116-cp39-cp39-macosx_12_0_arm64.whl": [
+          "M8PNrqyYG6NMlDjLO5++/INyVFaFaLF70KlEHnaxM08=",
+          "cp39"
+        ],
+        "lalsuite-7.11.1.dev20221116-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "rg7mvoOEOyvlujAVycV8O8QgPHd0Z2JNg0m/phaC62g=",
+          "cp39"
+        ]
+      }
+    },
     "7.2": {
       "wheels": {
         "lalsuite-7.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
@@ -73510,6 +73598,18 @@
       "wheels": {
         "lupin_grognard-0.0.1.dev7-py3-none-any.whl": [
           "KIBsecddlg2Z0FWcxyCC0x7AfqQdDIJ8NVuTpag0kVM=",
+          "py3"
+        ]
+      }
+    },
+    "1.0.0": {
+      "sdist": [
+        "KEi3f070RTqeOKH2dwbyNV9Ep04J4goh/OyX6a3t02Y=",
+        "lupin-grognard-1.0.0.tar.gz"
+      ],
+      "wheels": {
+        "lupin_grognard-1.0.0-py3-none-any.whl": [
+          "fHuVyIPTQBsfg0qUau4PdGFnJ3u/dAauSxWgcq0WPt4=",
           "py3"
         ]
       }
@@ -85869,6 +85969,14 @@
           "py3"
         ]
       }
+    },
+    "16.0.2.0.0.4": {
+      "wheels": {
+        "odoo_addon_server_action_mass_edit-16.0.2.0.0.4-py3-none-any.whl": [
+          "bnEWVe6FIU41/2+CmET2zK30IPQGVAmo8Y9JQQPKEF4=",
+          "py3"
+        ]
+      }
     }
   },
   "odoo-to-many-tracking": {
@@ -87576,6 +87684,16 @@
       "wheels": {
         "odoo14_addon_partner_contact_birthdate-14.0.1.0.1.dev5-py3-none-any.whl": [
           "/uO6LASTtAP3KdlkNZIzTEcc/fJ8+COtCOWRaM7R+58=",
+          "py3"
+        ]
+      }
+    }
+  },
+  "odoo14-addon-sale-invoice-policy": {
+    "14.0.1.0.1.dev3": {
+      "wheels": {
+        "odoo14_addon_sale_invoice_policy-14.0.1.0.1.dev3-py3-none-any.whl": [
+          "gqton4CA7jAmeDN5B44QxrvStdB17SGEWn8P4PYzQ78=",
           "py3"
         ]
       }
@@ -127829,6 +127947,22 @@
           "cp38"
         ]
       }
+    },
+    "0.3.0": {
+      "wheels": {
+        "spu-0.3.0-cp38-cp38-macosx_10_16_x86_64.whl": [
+          "0ZUKl7TU7l5/TEfsrfkk1MeSL7SkMZYMGsubnL/kG+Y=",
+          "cp38"
+        ],
+        "spu-0.3.0-cp38-cp38-macosx_11_0_arm64.whl": [
+          "xLIwhCD/q7tunDZglIbxxNbxthgxcJIbI3H6fGcHY+M=",
+          "cp38"
+        ],
+        "spu-0.3.0-cp38-cp38-manylinux_2_17_x86_64.whl": [
+          "mP3g/aVqzdMO35IgmSENSu9j9OFk4qlS/j6N99eyr+c=",
+          "cp38"
+        ]
+      }
     }
   },
   "spyci": {
@@ -146830,6 +146964,18 @@
       "wheels": {
         "upgini-1.1.46a5-py3-none-any.whl": [
           "xvPDJq+fj0TfMkBUcLIAwNGQUsPlotyCpRiN06yc0BA=",
+          "py3"
+        ]
+      }
+    },
+    "1.1.47": {
+      "sdist": [
+        "qUMfLtPV987/u9je1pw9ySdsgAvhFJmoWKTNG1G8KSo=",
+        "upgini-1.1.47.tar.gz"
+      ],
+      "wheels": {
+        "upgini-1.1.47-py3-none-any.whl": [
+          "hgH3UpV0SdzP+ghXdIeestqvXyvEj7DHwlJbcWb1QWs=",
           "py3"
         ]
       }
