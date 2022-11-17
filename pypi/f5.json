@@ -4887,6 +4887,18 @@
           "py3"
         ]
       }
+    },
+    "1.1.30": {
+      "sdist": [
+        "BuXznIybTZSt+e8ZBoAyGwbUntv3xSAjbCskKNWldF0=",
+        "alibabacloud_pai-dsw20220101-1.1.30.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_pai_dsw20220101-1.1.30-py3-none-any.whl": [
+          "WsyzKzFq6tZMNIF4qcQr+8DnhSHrjAJYl+BGLoPZYFU=",
+          "py3"
+        ]
+      }
     }
   },
   "alibabacloud-ram20150501": {
@@ -11950,10 +11962,6 @@
           "zRYHw90vSfqRCz+/obDO/5GDwk+fAVQFQ0S3mxYoMiw=",
           "cp37"
         ],
-        "BTrees-4.11.2-cp38-cp38-macosx_10_9_universal2.whl": [
-          "PA2ijDxehzL/kzTgPtZYWt+/H9kX/ybNmOSjQgCd7jw=",
-          "cp38"
-        ],
         "BTrees-4.11.2-cp38-cp38-macosx_10_9_x86_64.whl": [
           "8G/sjZFq4uoL8nrOP4JWtUgOiMWmyalcUbcVXLaJDNA=",
           "cp38"
@@ -11978,10 +11986,6 @@
           "hZE5f8qWaLIhjR/IbsjwSCYMjuLNMjq7NrfTHtYJG4g=",
           "cp38"
         ],
-        "BTrees-4.11.2-cp39-cp39-macosx_10_9_universal2.whl": [
-          "fV/j54mZiJp6IkgZDRkiU4hUZWW8Uy/MUed3v1avsO8=",
-          "cp39"
-        ],
         "BTrees-4.11.2-cp39-cp39-macosx_10_9_x86_64.whl": [
           "D9yA2URORxZtfwFpDaLGZVdI0TA2Pd+fGkhrkAbUkyQ=",
           "cp39"
@@ -12004,6 +12008,130 @@
         ],
         "BTrees-4.11.2-cp39-cp39-win_amd64.whl": [
           "EwCYDgT9p14WNKMHRjlqVqCaHe+qcjG7/Coy6AI8A6o=",
+          "cp39"
+        ]
+      }
+    },
+    "4.11.3": {
+      "sdist": [
+        "kIUAsCD/mJsAlG+Kb2Vz84qbGAjQd+UuPc8Ej7FwwTo=",
+        "BTrees-4.11.3.tar.gz"
+      ],
+      "wheels": {
+        "BTrees-4.11.3-cp27-cp27m-macosx_10_14_x86_64.whl": [
+          "bmbRT261yuNNcb58lIuEi7sidhyv5+GWawGMSkRgVJI=",
+          "cp27"
+        ],
+        "BTrees-4.11.3-cp27-cp27m-win_amd64.whl": [
+          "dHW9Y9aliPicqloh/huKQIUi+DITuED7UwjqNm7fou8=",
+          "cp27"
+        ],
+        "BTrees-4.11.3-cp310-cp310-macosx_10_9_x86_64.whl": [
+          "oYw8vvowTP8xpbotKGsbbgBna/4l4ApfQCDO+u5ygzk=",
+          "cp310"
+        ],
+        "BTrees-4.11.3-cp310-cp310-macosx_11_0_arm64.whl": [
+          "FrG4FOkEYldGXZU6EmlrBhCqXDVx/qYEmE+HMH38ufI=",
+          "cp310"
+        ],
+        "BTrees-4.11.3-cp310-cp310-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "kRlHqISbaRiouNlhaEvU9IB1gxr6XHXGk46m5ynYeuE=",
+          "cp310"
+        ],
+        "BTrees-4.11.3-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "eAf5GNSWr11badUnva7eW5esvY8L6tfraxTNBCoh30I=",
+          "cp310"
+        ],
+        "BTrees-4.11.3-cp310-cp310-win_amd64.whl": [
+          "gXxogzu5JPwBfuXbQOy25eJcEIlWhFOnhoCjf7VpKe0=",
+          "cp310"
+        ],
+        "BTrees-4.11.3-cp311-cp311-macosx_10_9_x86_64.whl": [
+          "/e66XD7EOZ6bfKdmTjcZv5WLWZvfyitmDT3E9JUZmVs=",
+          "cp311"
+        ],
+        "BTrees-4.11.3-cp311-cp311-macosx_11_0_arm64.whl": [
+          "30h4U+Wnnfxh5KccCy4oFSWyZdXeKvN5SWBiHeQN0sY=",
+          "cp311"
+        ],
+        "BTrees-4.11.3-cp311-cp311-win_amd64.whl": [
+          "rsw9rzah8I8vQKo2dwEhvyhk4KPJKO/216f8gVosoJU=",
+          "cp311"
+        ],
+        "BTrees-4.11.3-cp35-cp35m-win_amd64.whl": [
+          "Amw4J73ANPOig8Vzzpg6C4YM7x6PkguColvYccIr0Xw=",
+          "cp35"
+        ],
+        "BTrees-4.11.3-cp36-cp36m-macosx_10_14_x86_64.whl": [
+          "pHRq7jxercEUZk+8lR+lNLI4eFPTYROXL2UjW5yyBDg=",
+          "cp36"
+        ],
+        "BTrees-4.11.3-cp36-cp36m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "MheWn+gD6lXcYGEY7acSQWLKLD46UB3IkwIgGlww6ro=",
+          "cp36"
+        ],
+        "BTrees-4.11.3-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "VKQiOhill/XobOi9N4fkquEkv0To7YC/ggQ/44EJBUI=",
+          "cp36"
+        ],
+        "BTrees-4.11.3-cp36-cp36m-win_amd64.whl": [
+          "xB2LeZgJXELo+JbuZZujWt2kAyA+RHJpgAGYUpgAl54=",
+          "cp36"
+        ],
+        "BTrees-4.11.3-cp37-cp37m-macosx_10_15_x86_64.whl": [
+          "71Xy9lLIScGNOtCb1fDAmYhoEk2+ywcjb6QCHQJGrmc=",
+          "cp37"
+        ],
+        "BTrees-4.11.3-cp37-cp37m-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "n6bc3IdFJmYuqnH/IPtD+ts8djbPlRumu1izCoICBjc=",
+          "cp37"
+        ],
+        "BTrees-4.11.3-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "hc3L0VM/q1nG4GWthraRPlObiw8qK9CE+qWi8JuPy0M=",
+          "cp37"
+        ],
+        "BTrees-4.11.3-cp37-cp37m-win_amd64.whl": [
+          "/NFygSunbTYM88CPeAKYN/9xpLbw0F5s70zSvJ/uuac=",
+          "cp37"
+        ],
+        "BTrees-4.11.3-cp38-cp38-macosx_10_9_x86_64.whl": [
+          "FjxEeH/QlZ8Z4Yloq85qLm1uHCTPTS4ZhHXZt5F6WbE=",
+          "cp38"
+        ],
+        "BTrees-4.11.3-cp38-cp38-macosx_11_0_arm64.whl": [
+          "XL6gc04iUAvNcIVv+j4i/wbJaBmaxcDmcB0bIduCHgw=",
+          "cp38"
+        ],
+        "BTrees-4.11.3-cp38-cp38-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "nFvgounh5g01egA3HPnAZOClCS7Sz+f4vyRbUGvFyYE=",
+          "cp38"
+        ],
+        "BTrees-4.11.3-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "LUrl/U9F+2UQuNdsKFx8yCMlE5sEyYjRvO5ul1SEbiw=",
+          "cp38"
+        ],
+        "BTrees-4.11.3-cp38-cp38-win_amd64.whl": [
+          "P0gAizhaqr2rbdWJpyW+NqRFXr3BwtK/KIG8F/X6aW8=",
+          "cp38"
+        ],
+        "BTrees-4.11.3-cp39-cp39-macosx_10_9_x86_64.whl": [
+          "wZPPQTVdd4DGvC51JgiVCqAaF7cNStg2JB04VF6XpSg=",
+          "cp39"
+        ],
+        "BTrees-4.11.3-cp39-cp39-macosx_11_0_arm64.whl": [
+          "vUZqmUYEhlKGw5M+HDmNQQ/TlYDYqcevsBtFxM8HjIk=",
+          "cp39"
+        ],
+        "BTrees-4.11.3-cp39-cp39-manylinux_2_5_i686.manylinux1_i686.manylinux_2_12_i686.manylinux2010_i686.whl": [
+          "g1ZEi6gfBc/DfrfUfywCArjavyk9wLtvxsjE3aPGEyI=",
+          "cp39"
+        ],
+        "BTrees-4.11.3-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl": [
+          "qgVEjmpD1ykVWNFpoOSD9w/qy9LD3acPANMbcaiPLLU=",
+          "cp39"
+        ],
+        "BTrees-4.11.3-cp39-cp39-win_amd64.whl": [
+          "TA0Yv5mbEt04D5kJ/pPQk9Oyc62f8EWHgdO9910LMhQ=",
           "cp39"
         ]
       }
@@ -53242,6 +53370,18 @@
         ]
       }
     },
+    "0.0.15": {
+      "sdist": [
+        "MvHQpQ39gSSyGChy1GbsAGRlLaKNriLKOCZO5alX7RQ=",
+        "hstream-0.0.15.tar.gz"
+      ],
+      "wheels": {
+        "hstream-0.0.15-py3-none-any.whl": [
+          "UAyBi8ADDw67eRM2ieEEA7PeLhJ7VUwvgwrUl2SOlNc=",
+          "py3"
+        ]
+      }
+    },
     "0.0.2": {
       "sdist": [
         "wk7WHrtEUE7UAIFXX89B9Cya8EyH7jQNlcw/BJZDQAs=",
@@ -53826,6 +53966,14 @@
       "wheels": {
         "huaweicloudsdkugo-3.1.10-py2.py3-none-any.whl": [
           "60EqUVJ9FjJNGhKfAIvkeiuReJDWo2IlVwiKWb7FivI=",
+          "py2.py3"
+        ]
+      }
+    },
+    "3.1.11": {
+      "wheels": {
+        "huaweicloudsdkugo-3.1.11-py2.py3-none-any.whl": [
+          "IfePnuBTsHQaBko8Lk3aBtCvoLRfylZY+rdJvTrAu3Q=",
           "py2.py3"
         ]
       }
@@ -100257,6 +100405,18 @@
           "py3"
         ]
       }
+    },
+    "1.0.0a1": {
+      "sdist": [
+        "gIZa2FaneHlJdzK96seX+GugfN6cYgu1+JDAB9jjPA4=",
+        "open-rarity-1.0.0a1.tar.gz"
+      ],
+      "wheels": {
+        "open_rarity-1.0.0a1-py3-none-any.whl": [
+          "GoG56AV4ZWWa+kBc/VWjOo2PXvFemSRFdc62ws6pIsU=",
+          "py3"
+        ]
+      }
     }
   },
   "opencl-rt": {
@@ -142304,30 +142464,6 @@
       "wheels": {
         "upathlib-0.6.8-py3-none-any.whl": [
           "kd8R1EpGHdNDiH5e8cxjFiVtjWz17T3dPSKHEd2M+BU=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.8b5": {
-      "sdist": [
-        "YctNDNMV2cxwj/DUQ3WLlbfvZLs0/kqNDulR1BMd3Cc=",
-        "upathlib-0.6.8b5.tar.gz"
-      ],
-      "wheels": {
-        "upathlib-0.6.8b5-py3-none-any.whl": [
-          "s2m9TYwY4I5Wkz9ULeEcgVmakqlE1LhynDZK9ouv5fY=",
-          "py3"
-        ]
-      }
-    },
-    "0.6.8b6": {
-      "sdist": [
-        "06N0fPupvo9VtUmp3QwfBinmXXoipYycRncupofi+Qw=",
-        "upathlib-0.6.8b6.tar.gz"
-      ],
-      "wheels": {
-        "upathlib-0.6.8b6-py3-none-any.whl": [
-          "LyKFN2Gv/uRKBZPR/JZQ0c6GhrgZfygTO+y/jTDLgNo=",
           "py3"
         ]
       }
