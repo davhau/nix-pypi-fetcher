@@ -854,10 +854,6 @@
           "Lo5zVvZHIfSku/NjZlcVJ53jqZ5tRUil3JMs/uyoQ0I=",
           "cp310"
         ],
-        "acurl-1.0.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "POnCJLQWy+oDoNPrDRk1BTlh8ZY56eUo7w79ttLtxvE=",
-          "cp310"
-        ],
         "acurl-1.0.2-cp310-cp310-musllinux_1_1_x86_64.whl": [
           "A+Mcs9UsS5SImh22kA5RLPi7F/OTBHfjBg8+D28j328=",
           "cp310"
@@ -866,20 +862,12 @@
           "YcyWgRjBrSekiQC/neJxOOnhdyY2yflpN6f+UPy1me8=",
           "cp36"
         ],
-        "acurl-1.0.2-cp36-cp36m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "PWOQLHL1YJCrP4CHBT230bkHK7r03torw2cz7JMEChM=",
-          "cp36"
-        ],
         "acurl-1.0.2-cp36-cp36m-musllinux_1_1_x86_64.whl": [
           "i63aVS+ayXsfMyyZ5xiaWw2GnUP693pD9AoD69XPWLk=",
           "cp36"
         ],
         "acurl-1.0.2-cp37-cp37m-macosx_10_9_x86_64.whl": [
           "E89DJ7c9sqdnaF4w9HlFre/gdn6xFRymbWYVOfB6qyY=",
-          "cp37"
-        ],
-        "acurl-1.0.2-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "UFEj8wMdKtQv226NAmPw0cW82+CR8HOQ9tI9WLYloIs=",
           "cp37"
         ],
         "acurl-1.0.2-cp37-cp37m-musllinux_1_1_x86_64.whl": [
@@ -894,10 +882,6 @@
           "7ai8mWjOIiOs+iSm4NNPfUWlVsu12kHf/u90iIvnGVY=",
           "cp38"
         ],
-        "acurl-1.0.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "WcF6kgPeUOjCBzesKhRAHyprThLZJ0jk5bDMAgerz4c=",
-          "cp38"
-        ],
         "acurl-1.0.2-cp38-cp38-musllinux_1_1_x86_64.whl": [
           "h+vExiMls1rV2mAOlomvqs/fKKPWqdIPaR5d9BjL4ek=",
           "cp38"
@@ -910,10 +894,6 @@
           "GmA3Y1cncWuNk1L4s4LRna4uKvam7sGSa1SRIiqrIMc=",
           "cp39"
         ],
-        "acurl-1.0.2-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "cDMopyxIk3UjiFGbsb9Uj3pZ5JQj6s8i8Fx/x93F2vM=",
-          "cp39"
-        ],
         "acurl-1.0.2-cp39-cp39-musllinux_1_1_x86_64.whl": [
           "sPhDte1oNarlRY4ht+sY0Z/ZbxWS4DXTlK0hHgThstU=",
           "cp39"
@@ -922,24 +902,12 @@
           "n2JfZNhMe6DYxwAR4JpIbDT2Azh4wn/5aTAvJf0fI3w=",
           "pp37"
         ],
-        "acurl-1.0.2-pp37-pypy37_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "3EZNIAzS5uzAar0xg4n8ib67BW2YJzAX6a0U6HvVI+0=",
-          "pp37"
-        ],
         "acurl-1.0.2-pp38-pypy38_pp73-macosx_10_9_x86_64.whl": [
           "nuhVVGgp8/wQBKuPRbSKOhNvvNtRnMmYHzDCjdClxa4=",
           "pp38"
         ],
-        "acurl-1.0.2-pp38-pypy38_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Zfx562zgWhiooaVvIFbWuK1VfunHHTJwHirKyCKPYMQ=",
-          "pp38"
-        ],
         "acurl-1.0.2-pp39-pypy39_pp73-macosx_10_9_x86_64.whl": [
           "KtLrrHrEIwrbmcI2MQDI2g16IdeCHYIi8rYgdjCbZgc=",
-          "pp39"
-        ],
-        "acurl-1.0.2-pp39-pypy39_pp73-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "jiBDZZxMLootB5pPmJg0I+zZLApnTjKEXQ3dpaDQdEk=",
           "pp39"
         ]
       }
@@ -6424,6 +6392,18 @@
       "wheels": {
         "aws_cdk.aws_timestream-1.180.0-py3-none-any.whl": [
           "pA3Djt+LE7ZKajBA8AtMkM4UEuskvIJZO/ZrnEK/EgE=",
+          "py3"
+        ]
+      }
+    },
+    "1.181.0": {
+      "sdist": [
+        "38EQd9rRE7Hj1vTGZsLH7bMAm8quXJO6E95SgnxR9Q8=",
+        "aws-cdk.aws-timestream-1.181.0.tar.gz"
+      ],
+      "wheels": {
+        "aws_cdk.aws_timestream-1.181.0-py3-none-any.whl": [
+          "pxXDmNYEFE8dh3jV18zABkS9aH+gtHNEODwAo/4ZWgI=",
           "py3"
         ]
       }
@@ -79927,6 +79907,30 @@
           "py2.py3"
         ]
       }
+    },
+    "0.7.1": {
+      "sdist": [
+        "tydNNmzn+V5PjIlA8sZbCM2Cq7/gwaJFbGvZ3pvnH9Q=",
+        "lbt-honeybee-0.7.1.tar.gz"
+      ],
+      "wheels": {
+        "lbt_honeybee-0.7.1-py2.py3-none-any.whl": [
+          "lw8Pa7KV6AXLPOYztlJ8C503844bKOd88QuGEyyro3A=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.7.2": {
+      "sdist": [
+        "cLx59kQld6k+D3InKbWxaOMMsK+Ce3zD1aDDn++dx4U=",
+        "lbt-honeybee-0.7.2.tar.gz"
+      ],
+      "wheels": {
+        "lbt_honeybee-0.7.2-py2.py3-none-any.whl": [
+          "+7iCnS/LsZsEASd5P0t1wqvpRl2ukWjVwhY0rOIyeWw=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "leftrb": {
@@ -97018,6 +97022,14 @@
       "wheels": {
         "odoo14_addon_purchase_picking_state-14.0.1.1.1.dev3-py3-none-any.whl": [
           "ZkzPxLBnXmCFujurC4jVC/4jUdLY1Fvlnc01T81dIFc=",
+          "py3"
+        ]
+      }
+    },
+    "14.0.1.1.1.dev4": {
+      "wheels": {
+        "odoo14_addon_purchase_picking_state-14.0.1.1.1.dev4-py3-none-any.whl": [
+          "TuV6nMB6x8lyRw3wo7hAgIMu4Ya4u/7E0j5Tzid53OY=",
           "py3"
         ]
       }
@@ -120320,6 +120332,18 @@
       "wheels": {
         "random_profile-3.0.0-py3-none-any.whl": [
           "cZzlbioci5SY8Dzs15ZX3+TSyWM9r/gqH0qKegReWgk=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.1": {
+      "sdist": [
+        "tRhn2tjlMPv16of8t2gN8wikZiWExuWZ0F0GmzLrSgA=",
+        "random_profile-3.0.1.tar.gz"
+      ],
+      "wheels": {
+        "random_profile-3.0.1-py3-none-any.whl": [
+          "QNclSzLIGcXi75ySNKRoRp91RKO0Lnq+EyhK+NMAmDk=",
           "py3"
         ]
       }
