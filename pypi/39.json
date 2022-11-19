@@ -14861,6 +14861,22 @@
           "py3"
         ]
       }
+    },
+    "2.2.0b20221119": {
+      "sdist": [
+        "e8KaEo0YUQ3SM7mJ9FDdpfRx9aYhckvyJOQqW6IcYF4=",
+        "bigdl-dllib-2.2.0b20221119.tar.gz"
+      ],
+      "wheels": {
+        "bigdl_dllib-2.2.0b20221119-py3-none-macosx_10_11_x86_64.whl": [
+          "NqZDBjMNKvrYeGZvTP8UPROAA09zZrYdsakalvj1dVM=",
+          "py3"
+        ],
+        "bigdl_dllib-2.2.0b20221119-py3-none-manylinux1_x86_64.whl": [
+          "spwozg10yIF/RkdUOKG5MjrURWADYL0MXNTC5nhYEM0=",
+          "py3"
+        ]
+      }
     }
   },
   "biggan": {
@@ -15300,6 +15316,18 @@
       "wheels": {
         "bjorn-0.1.3-py2.py3-none-any.whl": [
           "J52Cuv84uZjeFD5AtKgURUp4H+dD0mmJJs4B+eubgrk=",
+          "py2.py3"
+        ]
+      }
+    },
+    "0.1.5": {
+      "sdist": [
+        "QdSV344xYiOpLCLbxlzqBex2D61sVng2Vs55eMq02l8=",
+        "bjorn-0.1.5.tar.gz"
+      ],
+      "wheels": {
+        "bjorn-0.1.5-py2.py3-none-any.whl": [
+          "EiL/UzDrpxtMB4soTY+b1YyuBmtGgJ0twJoxb9Jr3Mg=",
           "py2.py3"
         ]
       }
@@ -23399,6 +23427,20 @@
         "convo_NLU2-2.0.0-py3-none-any.whl": [
           "YVZe5UjNjxMCbpxQ7bOO/K7ouYbHyKT7K9/V80r3QGs=",
           "py3"
+        ]
+      }
+    }
+  },
+  "cooltime": {
+    "0.1": {
+      "sdist": [
+        "2vYsxCMybioCBYg5f+2PH4n6jtu+3UjMKksFWuGrQnQ=",
+        "cooltime-0.1.tar.gz"
+      ],
+      "wheels": {
+        "cooltime-0.1-py2.py3-none-any.whl": [
+          "I23pGUty5AhxgetdoTy6NtbCDw8B5QwfPH0GxC26jAM=",
+          "py2.py3"
         ]
       }
     }
@@ -90687,6 +90729,18 @@
           "py2.py3"
         ]
       }
+    },
+    "0.8.3": {
+      "sdist": [
+        "D99hu4IUfoyYEl740BQI1eWIxNiUqFNGFlenuq61JP0=",
+        "py4macro-0.8.3.tar.gz"
+      ],
+      "wheels": {
+        "py4macro-0.8.3-py2.py3-none-any.whl": [
+          "x+pN/dH/s/00nlhwOh/aR8qtcvSgPOiitjX39FqgMY0=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "pyairview": {
@@ -109638,6 +109692,10 @@
       "wheels": {
         "rubato-0.4.0-cp310-cp310-macosx_10_15_x86_64.whl": [
           "rn0LT4xMO9FhVd7rsaExOJ4woIW+7ukoz8XljOA4QEI=",
+          "cp310"
+        ],
+        "rubato-0.4.0-cp310-cp310-macosx_12_0_arm64.whl": [
+          "aunDXwPs/1ajWnQC7Lfz6iSEQ2MWVkoQoO2FiUG1KnM=",
           "cp310"
         ],
         "rubato-0.4.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.manylinux_2_28_x86_64.whl": [
@@ -135128,6 +135186,26 @@
         ],
         "tf_nightly_intel-2.12.0.dev20221118-cp39-cp39-win_amd64.whl": [
           "vI6/rwKbNYnyw2mB/JLjMW3S2zjOIkJqPJsp4voC4/U=",
+          "cp39"
+        ]
+      }
+    },
+    "2.12.0.dev20221119": {
+      "wheels": {
+        "tf_nightly_intel-2.12.0.dev20221119-cp310-cp310-win_amd64.whl": [
+          "/bDi9GZGe7abRZf7ufTqYfqwVLmQYto+lEylWshWFHc=",
+          "cp310"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221119-cp37-cp37m-win_amd64.whl": [
+          "6esyu8Y+2zo1MdePX+03G2ZQtnYn54JMa7ZtIDe11mk=",
+          "cp37"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221119-cp38-cp38-win_amd64.whl": [
+          "odpaSp1usuVEf+G6IQMdw1dRdrL4QIFBWWNBv6Z8tPM=",
+          "cp38"
+        ],
+        "tf_nightly_intel-2.12.0.dev20221119-cp39-cp39-win_amd64.whl": [
+          "q85PfyMtQI28fHPnsTAesayZ1yJoj2aEocHXvzGR0+k=",
           "cp39"
         ]
       }
