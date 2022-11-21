@@ -48,6 +48,11 @@ in
 rec {
   inherit allNames;
 
+  getFiles = name: ver: let
+    files = (releaseInfo name ver).release;
+  in
+    files;
+
   fetchPypi = fetchPypiSdist;
 
   fetchPypiSdist = pkg: ver:
