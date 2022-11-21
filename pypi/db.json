@@ -3630,6 +3630,18 @@
         ]
       }
     },
+    "1.3.12": {
+      "sdist": [
+        "FrFDSTsv8CTx3nBrGS7L8oxCGGDX5s27cwXJstqu8NE=",
+        "alibabacloud_ebs20210730-1.3.12.tar.gz"
+      ],
+      "wheels": {
+        "alibabacloud_ebs20210730-1.3.12-py3-none-any.whl": [
+          "qg8pxeBXoD+7KLuJPla8TY9U6gzEO1z5ibC9dBOacic=",
+          "py3"
+        ]
+      }
+    },
     "1.3.5": {
       "sdist": [
         "ZV84gmt1sSXCVR8v7SGQQ/xNt1Wdr5wrcDhKZvjXr0M=",
@@ -4037,6 +4049,14 @@
           "py2.py3"
         ]
       }
+    }
+  },
+  "alphabetss": {
+    "1.0": {
+      "sdist": [
+        "Q3vVoj9tXGzaDpSn4yKXcX1PKtu8bujh3JyE6f/vbz4=",
+        "alphabetss-1.0.tar.gz"
+      ]
     }
   },
   "amaranth-stdio": {
@@ -40062,6 +40082,18 @@
       "wheels": {
         "evadb-0.1.0-py3-none-any.whl": [
           "qMGbZdurbKuuk2MbPrhK5QSGFKEJ33qrjf+HEecL4mQ=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1": {
+      "sdist": [
+        "d0gx/4fqfwdigW69jn5o2GbzT9QfY31Kc0CLfRCjQaw=",
+        "evadb-0.1.1.tar.gz"
+      ],
+      "wheels": {
+        "evadb-0.1.1-py3-none-any.whl": [
+          "H6JPrMY+uOU2UTQ5GICNd3i/wv4z+6A5YCkU56Q4EvM=",
           "py3"
         ]
       }
@@ -81274,258 +81306,6 @@
     }
   },
   "neuron-nightly": {
-    "9.0.dev120": {
-      "wheels": {
-        "NEURON_nightly-9.0.dev120-cp310-cp310-macosx_10_15_x86_64.whl": [
-          "ilvNe0uzdZ5ZIGEODuqreoHLCbaCqqaDNwhZ/JaxCuk=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev120-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "Skcb3xCRzMAq2TV8pUtAtrSjdXdUllHbR6f0xuNIgSc=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev120-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "s5vCRHcthQT29aND/j3NIE6t9BdDG+GZ/IlJYlPL7wM=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev120-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "0prWX7GsmiZWtXqKio7i37J+UQQ7QiDlDjkmyqqQr2s=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev120-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "3NAj6C2lCO0EB1Ez/Bbu8FhIQSixrHlZ35DsGtsJZlk=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev120-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "bdIg7aRtKFUa7Vk9YDmW2BJimdry6rvNs6ZlxBilVC0=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev120-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "FKbN2spsQYPgpt0XRE3EvWICDTqBlWw6w8Gv9JvfzYk=",
-          "cp39"
-        ],
-        "NEURON_nightly-9.0.dev120-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "/eZkpqpdMexLQhGA3xPNpbhQkVvsq7Ki/FEUJVUdv0k=",
-          "cp39"
-        ]
-      }
-    },
-    "9.0.dev121": {
-      "wheels": {
-        "NEURON_nightly-9.0.dev121-cp310-cp310-macosx_10_15_x86_64.whl": [
-          "06uZy7Faof2FH/jBof7/IxZMYZgoVdXCWfSNpvbtNpw=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev121-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "3X+HBq3ES7RFr92zoXlsGeX+Ap4ntP/Kda1tHm2eBGw=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev121-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "+QXOSB4qS4nQlbDEvRUGmpEuctw6/UMHbTimqFNs+fM=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev121-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "opN2J7pA5aUQjbjwEHBRN+M+czWplZkwzeoCNNx56Qk=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev121-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "84hK5gNA8eXHkAbCsruvVkbiIphioP+iU2viEtW1x54=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev121-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "wChr+cpMt+kGbeUjW/er5+u/xgGutobokWwYh9PXIUY=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev121-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "XRNTqbaLv8fd6Z6YkJdUTYh1YC+OIJ2ZYFP0KS0BACE=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev121-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "cLMmwuuMJJcpK1i5QY/57Eeoo8VyayZYavsFQ4iVHPY=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev121-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "p2X8kwlUlNBrbg1jOn6lGTfuv3kKpFzGdnTXOwWfPuM=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev121-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "Ah9OXztoKpQU4JLTgAXJePwmYtNLfsp2RodNztp85KM=",
-          "cp39"
-        ],
-        "NEURON_nightly-9.0.dev121-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "g/3qraQLjf3rU3TEpuaaVQ1qfoYlYV8BgapmXtBN264=",
-          "cp39"
-        ],
-        "NEURON_nightly-9.0.dev121-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "7A0g9yBsAGz86SBc+/c26bYZMzYQcBRwYp+7Mebqs1Y=",
-          "cp39"
-        ]
-      }
-    },
-    "9.0.dev122": {
-      "wheels": {
-        "NEURON_nightly-9.0.dev122-cp310-cp310-macosx_10_15_x86_64.whl": [
-          "UEsMP0VYPM0pHX1Rxo4uH/Zf3Z4uOzpPFn+q6it1RyA=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev122-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "AFAYCvsj1vcUcbMIJUVw0Io1XnkrUA7RUw9j/Nhb7s0=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev122-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "ISEd5oMM/zT+pIsabEj2rN63+62i4qpWOCKSQPQ3tSQ=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev122-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "dyvi2Av92yPjK55l5z8P6rY+VrlMZU5TzkBAVDS3dRo=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev122-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "3/EHTx2OD5310ubfrJ43TFtUsdvfYtehOmzGv45p68g=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev122-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "RzJQFsk1/rz6keHlT5Dc2jgVBWtnXadwjsadESPXHyo=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev122-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "tbUOOPccqfCEfOMMd1pjOpyy6LezQwTI/oh32fRJtEI=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev122-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "ap03Tngd+zeazXra50U1YZAoAu+qGgssessGSYH9IWk=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev122-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "6RILY2jxJvvY/4UniwUFiRY7ZQWsdi+qKbFRWgszLFs=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev122-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "pQIfxvabtU0Vh0dtcs/XYdXRXZGQRO+Os+0RcJ8YrrY=",
-          "cp39"
-        ],
-        "NEURON_nightly-9.0.dev122-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "9qMysTnz1VCK7UxSR8PHigafXF5SnqjAw1W7PNUbETI=",
-          "cp39"
-        ],
-        "NEURON_nightly-9.0.dev122-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "XUApOlh2COkDetLuqeO8tRajHETH/H+ZZXaSFNvRRoo=",
-          "cp39"
-        ]
-      }
-    },
-    "9.0.dev124": {
-      "wheels": {
-        "NEURON_nightly-9.0.dev124-cp310-cp310-macosx_10_15_x86_64.whl": [
-          "nIs2Gx/HDSia0CwR5/VpVGT9kvoMJU9E3D5cK1svAAw=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev124-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "YlOxzV9ZOXBLim+yY0Sx0gz0BV9WL5ek22iumdtv5kQ=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev124-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "aA0uCftB6oKUsmIrGI/hS3Ul7S64Jy9zIlrRVkb+umo=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev124-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "IN6o6lgGYUZDBhT+1QRY7wvvZETUl3lX5MSP+4GU4I8=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev124-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "ur6c/9gduXOjhZiXxTssI/6ocwDw8N6rpjpfk3/plvw=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev124-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "AF14Nb2QmrZSmubtvmKbhXQyJ7hs9GBHgpyIHfA/3Ik=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev124-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "jxmggFYR9xcj0d0IhF6MjrQiWRJe6Q2+aFGJphbOq3U=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev124-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "6Xkhb9zddCSTuPKF97BBPGwDFx8Ypdq597qOgjuTZUw=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev124-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "QMRCjpUjnKW8ZQFF9IxbigcAZBgwCIWZ1hjUXIkuzGs=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev124-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "IUmyVhLLXty83i0byNyQWjx3WmJ39T2hfmzyhfGWB6g=",
-          "cp39"
-        ],
-        "NEURON_nightly-9.0.dev124-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "avdL9MZeAp2+2qvHk8uz0X2rmfeqOQIuf52izjT4X6A=",
-          "cp39"
-        ],
-        "NEURON_nightly-9.0.dev124-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "lJWLgvw7BXUBuUb1zy2E5dkIjHgefhffomjm3XYaRxk=",
-          "cp39"
-        ]
-      }
-    },
-    "9.0.dev126": {
-      "wheels": {
-        "NEURON_nightly-9.0.dev126-cp310-cp310-macosx_10_15_x86_64.whl": [
-          "WFQwvFodD9VKBhKoFmJzZ1WpjqCrVR5BEbOsoj0ZCfY=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev126-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "zk7AQrc29QEf1i1EgkDj/+mmE6fXS+lDcpiNVh61WxA=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev126-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "OwP0GIkFmP+0FXREa7YRKa+zPNi/AGbw1iyP06s3le0=",
-          "cp310"
-        ],
-        "NEURON_nightly-9.0.dev126-cp311-cp311-macosx_10_15_x86_64.whl": [
-          "4T4n2FMizH/8hT4AyEi6c1HP8slzYBYK4I2Gkzp58W8=",
-          "cp311"
-        ],
-        "NEURON_nightly-9.0.dev126-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "AWncrJAqy7i5ajpcJjQcv/oiBA087NFbBsrCJUFCgQ4=",
-          "cp311"
-        ],
-        "NEURON_nightly-9.0.dev126-cp37-cp37m-macosx_10_15_x86_64.whl": [
-          "wXf47V9LdiiN903wsHOa1++D/l5QQEsw8zwhlErQblI=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev126-cp37-cp37m-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "8WyPKn1BH97HNP+fjs4FKY/Q1VpyCIqUu9J4PJtGvcA=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev126-cp37-cp37m-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "f0ytxQg5yW7ltTk/pX0D/LDmYrajCLBzSpd6yIPb/2k=",
-          "cp37"
-        ],
-        "NEURON_nightly-9.0.dev126-cp38-cp38-macosx_10_15_x86_64.whl": [
-          "xzY/otkshFwQY6zgkb3K6SBYq+/4HEOh8OQECJkG5Iw=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev126-cp38-cp38-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "Kg8HcX4D3JCkktv4jql398HVY4hGcPJJ1NqDX5i8TpQ=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev126-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "ep1Eph1vsfyKo8Q02GqeWaw+DfhnpAy/OWhjjzN5i6U=",
-          "cp38"
-        ],
-        "NEURON_nightly-9.0.dev126-cp39-cp39-macosx_10_15_x86_64.whl": [
-          "7/EIDCnBpb6D98mGO4jfBv8/7gKP8R743COmkGO7WLU=",
-          "cp39"
-        ],
-        "NEURON_nightly-9.0.dev126-cp39-cp39-manylinux_2_17_aarch64.manylinux2014_aarch64.whl": [
-          "Wl/r5WjSrrAP0v8E1ZKNeoXI/BJM+t7fEJ/mtAJGQlc=",
-          "cp39"
-        ],
-        "NEURON_nightly-9.0.dev126-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
-          "jS1RT/Oq0+RW93TsClV0WM+n2eOArwdWOtf6lHjwMtQ=",
-          "cp39"
-        ]
-      }
-    },
     "9.0.dev127": {
       "wheels": {
         "NEURON_nightly-9.0.dev127-cp310-cp310-macosx_10_15_x86_64.whl": [
@@ -134851,6 +134631,18 @@
           "py2.py3"
         ]
       }
+    },
+    "3.0.776": {
+      "sdist": [
+        "upeyWeEIxGFiSqUa0obz6Hhrd2kRoEby44a9fNGBi/k=",
+        "tencentcloud-sdk-python-organization-3.0.776.tar.gz"
+      ],
+      "wheels": {
+        "tencentcloud_sdk_python_organization-3.0.776-py2.py3-none-any.whl": [
+          "SBXO3t0GvZ6cCvSY6lgmO6ubvBqfeAJ4Mu7pbFx607w=",
+          "py2.py3"
+        ]
+      }
     }
   },
   "test-styles": {
@@ -139876,6 +139668,18 @@
       "wheels": {
         "torchdatasets_nightly-1668904936-py3-none-any.whl": [
           "kdvZzVxHdEId6uiJoWDnOXXYhVYbveFg2mwqwms0i8I=",
+          "py3"
+        ]
+      }
+    },
+    "1668991254": {
+      "sdist": [
+        "rZAejhYpQiq+eAAz1RsOiYzJaFfl3X8OxxAWKNILWp4=",
+        "torchdatasets-nightly-1668991254.tar.gz"
+      ],
+      "wheels": {
+        "torchdatasets_nightly-1668991254-py3-none-any.whl": [
+          "nnr3tw6Lu0BFnYOD+9ulNfj0rotjZzwO9wrZnriFHwE=",
           "py3"
         ]
       }
