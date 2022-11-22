@@ -57503,6 +57503,12 @@
         "B3hritAo3vIDLC+bIK/LPryjWCOzAAVYAScn9sf4vdk=",
         "idds-doma-1.0.7.tar.gz"
       ]
+    },
+    "1.0.8": {
+      "sdist": [
+        "WJxuyEJTeq3EwRbGypcuE5EMQvGGasFk6QhPhPES6/M=",
+        "idds-doma-1.0.8.tar.gz"
+      ]
     }
   },
   "idemlang": {
@@ -60744,6 +60750,14 @@
         ],
         "itk_registration-5.3rc4.post4-cp311-cp311-macosx_11_0_arm64.whl": [
           "n46rPaBMBqbEKQUFWVici8ynW2+JytEgPjWoCyNhl+Y=",
+          "cp311"
+        ],
+        "itk_registration-5.3rc4.post4-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl": [
+          "GLe0NYRtJaKgZCROY8D09otb2P+H69Q5LYd9ezhf8Tw=",
+          "cp311"
+        ],
+        "itk_registration-5.3rc4.post4-cp311-cp311-manylinux_2_28_x86_64.whl": [
+          "RkV3qOEWcvy6rQQG2a2Nr9sT/Eevyq0LcJFFGXOkBtA=",
           "cp311"
         ],
         "itk_registration-5.3rc4.post4-cp311-cp311-win_amd64.whl": [
@@ -69030,54 +69044,6 @@
     }
   },
   "kfutils": {
-    "0.0.4": {
-      "sdist": [
-        "3NDrRPWn4IuxSHvSeFHQnRynznwBhrL55H5LsX9TZF4=",
-        "kfutils-0.0.4.tar.gz"
-      ],
-      "wheels": {
-        "kfutils-0.0.4-py3-none-any.whl": [
-          "Dv9Kot6qb9sFrHZRLhdtxNn+QP1ATVdu3UdVS+Adieo=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.5": {
-      "sdist": [
-        "DebUdOwu6RJEpbWplgwmy4dzgbV4gVPSjNtTcnkr6wU=",
-        "kfutils-0.0.5.tar.gz"
-      ],
-      "wheels": {
-        "kfutils-0.0.5-py3-none-any.whl": [
-          "sO9LVK1d6uVFi1YNexsUn7kUmaeKN0Ff7BWQX7rfTNw=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.7": {
-      "sdist": [
-        "zpvO7xOAAr9bpAWWwMTxweRH6Shka0q9wYQre6x1YB0=",
-        "kfutils-0.0.7.tar.gz"
-      ],
-      "wheels": {
-        "kfutils-0.0.7-py3-none-any.whl": [
-          "wva0dLi32M8ZD2EhLbHZk38+fODnLeEMho2pWSLuw78=",
-          "py3"
-        ]
-      }
-    },
-    "0.0.8": {
-      "sdist": [
-        "854mjhuUS58UtNPnafvqKrzohkF7MSCHBN1HOh0tIsY=",
-        "kfutils-0.0.8.tar.gz"
-      ],
-      "wheels": {
-        "kfutils-0.0.8-py3-none-any.whl": [
-          "iczoOJrSEshz8VY0QZMpww+1n3OwVxgbcM28wAXrFVQ=",
-          "py3"
-        ]
-      }
-    },
     "0.1.0": {
       "sdist": [
         "dcoDVHQoQaEkHnFeCQ38kxl+Db3h8Exw5nDvlVfqBgU=",
@@ -69110,6 +69076,18 @@
       "wheels": {
         "kfutils-0.1.2-py3-none-any.whl": [
           "8h2b+LINawlkhHEeqUiaLTRhIh6i7q7XPdAI8qlODp0=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.3": {
+      "sdist": [
+        "8hoaN4RJGmz56u9KztwC6rt8+YrROrKBwnoQgUPH++U=",
+        "kfutils-0.1.3.tar.gz"
+      ],
+      "wheels": {
+        "kfutils-0.1.3-py3-none-any.whl": [
+          "UGZssemOlC9PnwBQaj6ZddvIl6I6KupHeDQXvDvw/zQ=",
           "py3"
         ]
       }
@@ -97478,6 +97456,18 @@
         ]
       }
     },
+    "2.1.114": {
+      "sdist": [
+        "EfeoSik6vYQS4MAulfM2xfRUGYG308QzWAj4buCXX4U=",
+        "pex-2.1.114.tar.gz"
+      ],
+      "wheels": {
+        "pex-2.1.114-py2.py3-none-any.whl": [
+          "pxG6M/yMqgVK15+XebCMXasoIp80ObdjdEh/c+9F/K8=",
+          "py2.py3"
+        ]
+      }
+    },
     "2.1.12": {
       "sdist": [
         "uEAUq1dvKBmDCIGykoVLmCJfYGPo2TQQCGJh4taT1kQ=",
@@ -116710,6 +116700,18 @@
       "wheels": {
         "resotoworker-3.0.0a0-py3-none-any.whl": [
           "gL8FG0a2XaFyjQp76pcGmfR5TORcxSUjSdp2fbojzQo=",
+          "py3"
+        ]
+      }
+    },
+    "3.0.0a1": {
+      "sdist": [
+        "hFZyDQodP550gTj5GlNN3ySD67fJPNs7D3VsMO++YwM=",
+        "resotoworker-3.0.0a1.tar.gz"
+      ],
+      "wheels": {
+        "resotoworker-3.0.0a1-py3-none-any.whl": [
+          "opsD+9U/VLIKOZWI3hQu1bOan7YYwIY5/I6/7zf33fY=",
           "py3"
         ]
       }
@@ -138030,6 +138032,18 @@
       "wheels": {
         "volttron_lib_base_historian-0.1.1a2-py3-none-any.whl": [
           "jnqKkx/Vj6iJTVpsVOd45u06XZpRGPtRS23r37c9SH4=",
+          "py3"
+        ]
+      }
+    },
+    "0.1.1a3": {
+      "sdist": [
+        "OddLXLZoHw2573H0guygQQmBi1/ZYmU/TM0aPETzeDI=",
+        "volttron_lib_base_historian-0.1.1a3.tar.gz"
+      ],
+      "wheels": {
+        "volttron_lib_base_historian-0.1.1a3-py3-none-any.whl": [
+          "ywbQFOOR7dvhEUxEuVhbCj72vPgl6RQ+198Q9uZpG9I=",
           "py3"
         ]
       }
