@@ -1,3 +1,6 @@
+# ⚠️ This project is deprecated ⚠️
+For further information, see [mach-nix](https://github.com/DavHau/mach-nix)
+
 ## Convenient python package source fetcher for nix
 Tired of manually finding the right url and sha256 hash for a pypi package? This project makes your life easier while still providing the same reproducibility / security.
 
